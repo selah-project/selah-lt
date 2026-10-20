@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nieko⟩",
+      "rationale": "hebrajiškas נתן su לא reiškia 'nedavė' — išskaidyta lietuviškai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šventųjų daiktų tarnystė",
+      "rationale": "עבדת הקדש pažodžiui 'šventumo tarnystė' — čia šventi daiktai, nešami pečiais"
+    }
+  ],
+  "translation": "O Kehato sūnums jis nedavė ⟨nieko⟩, nes šventųjų daiktų tarnystė ⟨buvo⟩ ant jų — pečiais jie neš.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/9-12.1792473979510.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "o sūnums"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tarnystė"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventųjų daiktų"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "pečiais"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "jie neš"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:19.511500395Z",
+  "model": "glm-5.3"
+}

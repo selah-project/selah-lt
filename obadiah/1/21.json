@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio; hebrajų והיתה yra 'ir buvo\/tapo' — verčiama 'ir bus'"
+    },
+    {
+      "kind": "crux",
+      "subject": "gelbėtojai",
+      "rationale": "מושעים iš ישע — 'gelbėtojai' arba 'išgelbėjęjieji'; NT-tradicija 'Išganytojai' netinka (tanakh-only)"
+    }
+  ],
+  "translation": "Ir užlips gelbėtojai ant Cijono kalno teisti ⟨את⟩ Esavo kalną, ir karalystė bus Jahvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/obadiah\/1\/21-21.1792486666202.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "ir užlips"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "gelbėtojai"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ant kalno"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijono"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "teisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavo kalną"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karalystė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:57:46.202775236Z",
+  "model": "glm-5.3"
+}

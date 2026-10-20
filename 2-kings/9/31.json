@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ar taika, Zimri",
+      "rationale": "Ambiguous: a question TO Jehu ('Is it peace, you Zimri?') or an ironic question ABOUT Zimri ('Had Zimri peace?'); Izebel likens Jehu to the regicide Zimri."
+    },
+    {
+      "kind": "you",
+      "subject": "Izebel → Jehu",
+      "rationale": "Direct mocking address from the window to the entering king."
+    }
+  ],
+  "translation": "Ir kai Jehu įėjo pro vartus, ji tarė: Ar taika, Zimri, ponų žudike?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/29-32.1792479918514.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Ir Jehu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "įėjo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "pro vartus"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ji tarė"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Ar taika"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "žudike"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo poną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:18.516404555Z",
+  "model": "glm-5.3"
+}

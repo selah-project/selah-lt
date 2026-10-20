@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפגשהו — ką pasitiko",
+      "rationale": "Hebrajų kalba neturi įvardžio „jį“ adresatą nustatančio turinio — tradiciniai vertimai prie „jo“ prideda Mošę, bet hebrajiškai tekstas to nepatvirtina; populiariausia perskaitymo versija — Mošė."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sought to kill him",
+      "rationale": "Kam Jahvė siekia nužudyti, tekstas nepaaiškina — v. 25 atskleidžia tik per uncircumcision sceną."
+    }
+  ],
+  "translation": "Ir atsitiko kelyje, nakvynės vietoje: pasitiko jį Jahvė ir siekė jį nužudyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae3d94da7b0abb2679d008711b7ff2ebba24b654259f351a3c86471a595b2561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/4\/21-24.1792472214476.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kelyje"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "nakvynės vietoje"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "pasitiko jį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ir siekė"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "jį nužudyti"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:54.479254499Z",
+  "model": "glm-5.3"
+}

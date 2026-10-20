@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Sufo jūra",
+      "rationale": "ים סוף pažodžiui „Nendrių jūra“; dažnas vertimas „Raudonoji jūra“ yra tradicija, ne hebrajų žodis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלאות \/ נוראות",
+      "rationale": "porinis derinys „stebuklai \/ baisumai“ — hebrajų skambis panašus, lietuvių k. skirtumas didesnis"
+    }
+  ],
+  "translation": "stebuklus Cham šalyje, gąsdinančius dalykus prie Sufo jūros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/106\/21-24.1792488871794.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "stebuklus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "šalyje"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "gąsdinančius dalykus"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:31.795448405Z",
+  "model": "glm-5.3"
+}

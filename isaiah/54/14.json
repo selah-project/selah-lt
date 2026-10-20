@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה pagal D2 — ne „teisumas“ vienas; šaknis reiškia teisumą ir teisėtumą"
+    },
+    {
+      "kind": "you",
+      "subject": "Sionas",
+      "rationale": "tiesioginis kreipimasis į moteriškos gimies miestą-personą"
+    }
+  ],
+  "translation": "Cedek būsi įsitvirtinusi; tolinkis nuo engimo, nes nebijosi, ir nuo siaubo, nes jis neprisiartins prie tavęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/13-16.1792481730574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "būsi įsitvirtinusi"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "tolinkis"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "nuo engimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "bijosi"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "ir nuo siaubo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "prisiartins"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "prie tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:30.574769050Z",
+  "model": "glm-5.3"
+}

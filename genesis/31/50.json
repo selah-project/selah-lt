@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų neturi veiksmažodžio 'būti' šioje predikatyvo vietoje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "slegsi",
+      "rationale": "ענה reiškia 'spausti, kankinti' plačiai — čia apie žmonų skriaudimą."
+    }
+  ],
+  "translation": "Jeigu slegsi ⟨את⟩ mano dukteris arba jeigu vesisi moteris greta mano dukterų — nėra žmogaus su mumis; žiūrėk, Elohim ⟨yra⟩ liudytojas tarp manęs ir tavęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/49-52.1792471661553.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "slegsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano dukteris"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mano dukteris"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "arba jeigu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vesisi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "על",
+      "gloss": "greta"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mano dukterų"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "su mumis"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "žiūrėk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudytojas"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ir tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:41.555645634Z",
+  "model": "glm-5.3"
+}

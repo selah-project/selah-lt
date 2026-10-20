@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 14:15",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ספר דברי הימים",
+      "rationale": "Pažodžiui „dienų žodžių knyga“ — Jisraelio karalių metraščių knyga."
+    },
+    {
+      "kind": "addition",
+      "subject": "[metraščiuose]",
+      "rationale": "Lietuvių kalbai reikia aiškinamojo žodžio, kad knygos pavadinimas būtų suprantamas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי ... דברי",
+      "rationale": "Žodis „דברי“ kartojamas — „Jehoašo žodžiai“ ir „dienų žodžių knyga“."
+    }
+  ],
+  "translation": "O likusieji Jehoašo žodžiai, kuriuos jis padarė, ir jo narsa, ir kaip jis kovojo su Amacyjahu, Jehūdos karaliumi — argi jie neparašyti dienų žodžių knygoje, Jisraelio karalių [metraščiuose]?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b2e9f1391a99f680b3f3b8f5b847a1e462c31096099b0e3e54da274336198c98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/14\/13-16.1792480092855.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "O likusieji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehoašo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jis padarė"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "ir jo narsa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir kaip"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "jis kovojo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacyjahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehūdos"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "parašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": "(preterų prielinkis)"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:08:12.858462275Z",
+  "model": "glm-5.3"
+}

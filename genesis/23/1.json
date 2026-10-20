@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrew ויהיו yra veiksmažodis 'atsitiko\/buvo', bet lietuviškam sakiniui reikia kopulitos su metais"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šimtas dvidešimt ir septyneri metai",
+      "rationale": "Saros gyvenimo ilgis suskaičiuotas kruopščiai, po vieną skaičių, kaip hebrajų kalboje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיי שרה ... שני חיי שרה",
+      "rationale": "Eilutė prasideda ir baigiasi ta pačia fraze — žiedas, iškeliantis gyvenimą prieš mirtį"
+    }
+  ],
+  "translation": "Ir Saros gyvenimo metai ⟨buvo⟩ šimtas metų ir dvidešimt metų ir septyneri metai — tai ⟨yra⟩ Saros gyvenimo metai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76da426a409e03a75f5be6fde419f10f5bd6faa6bc76dfdaa3ff6fd250d0df6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/23\/1-4.1792471388312.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "gyvenimo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saros"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimtas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ir dvidešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir septyneri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "metai"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "gyvenimo"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saros"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:08.313587681Z",
+  "model": "glm-5.3"
+}

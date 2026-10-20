@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 2:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Jahvė⟩",
+      "rationale": "paskutinis ויאמר neturi subjekto — hebrajiškai jis numatomas iš konteksto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kelsiuosi",
+      "rationale": "עלה 'kilti\/ascend' — į Hebroną kylama aukštyn į kalnus"
+    }
+  ],
+  "translation": "Ir atsitiko po to, kad Davidas paklausė Jahvės, sakydamas: Ar aš kelsiuosi į vieną iš Jehudos miestų? Ir Jahvė tarė jam: Kelkis. Ir Davidas tarė: Kur aš kelsiuosi? Ir ⟨Jahvė⟩ tarė: Į Hebroną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/2\/1-4.1792477958253.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "paklausė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "ar kelsiuosi"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "į vieną iš"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miestų"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kelkis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kelsiuosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "חברנה",
+      "gloss": "į Hebroną"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:38.254155287Z",
+  "model": "glm-5.3"
+}

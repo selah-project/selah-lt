@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "turi būti",
+      "rationale": "Hebrew yiqtol čia reiškia įsakymą; lietuvių kalbai reikia modalinio veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išgrandytas",
+      "rationale": "ומרק pažodžiui 'nutrintas, nušveistas' — išgrandyti ir nuplauti yra du skirtingi veiksmai"
+    }
+  ],
+  "translation": "Ir molinis indas, kuriame ji buvo virta, turi būti sudaužytas; o jei ji buvo virta variniame inde — jis turi būti išgrandytas ir nuplautas vandeniu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/21-23.1792473163322.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ir indas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "molinis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriame"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "buvo virta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "turi būti sudaužytas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "inde"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "variniame"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "buvo virta"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "ir išgrandytas"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ir nuplautas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandeniu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:43.323681286Z",
+  "model": "glm-5.3"
+}

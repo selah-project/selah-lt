@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨savo⟩",
+      "rationale": "Lietuvių kalbai reikia pakartotinio įvardžio prie ידך 'tavo ranka'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralelizmas",
+      "rationale": "Du eilutės posmai simetriški: duoti→rinkti, atverti ranką→pasotinti; struktūra išlaikyta."
+    }
+  ],
+  "translation": "Duodi jiems — jie renka; atveri ⟨savo⟩ ranką — jie pasisotina gėrybių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/25-28.1792488844521.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "duodi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "renka"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "atveri"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "pasisotina"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gėrybių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:04.522798383Z",
+  "model": "glm-5.3"
+}

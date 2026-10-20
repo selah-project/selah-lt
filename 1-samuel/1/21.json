@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זבח הימים",
+      "rationale": "pažodžiui 'aukojimas dienų' — metinis aukojimas; 'dienamečių aukojimų' taip pat galima"
+    },
+    {
+      "kind": "crux",
+      "subject": "nedarė įprastinio aukojimo",
+      "rationale": "kai kurie manuskriptai turi 'aukoti'; MT tik 'aukoti įprastinį aukojimą'"
+    }
+  ],
+  "translation": "Ir vyras Elkana su visu savo namų ūkiu ėjo aukštyn paaukoti Jahvei ⟨את⟩ metinių aukojimų ir ⟨את⟩ savo pažadą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/1\/21-24.1792476974706.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ėjo aukštyn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "su visu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namų ūkiu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "paaukoti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metinių aukojimų"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukojimų"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "metinių"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo pažadą"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "savo pažadą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:14.707201290Z",
+  "model": "glm-5.3"
+}

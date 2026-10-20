@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame nėra veiksmažodžio „būti“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "skyrius pradeda vadų sąrašą pagal gimines"
+    }
+  ],
+  "translation": "Ir šitie yra vardai vyrų, kurie stovės ⟨את⟩-su jumis: Rubenui — Elicūras, Šedeūro sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a8aa8cb6850d25706440f2c6814c883c5878af08a6406602e3ca8f678bfba01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/5-8.1792473795967.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ir šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stovės"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-su jumis",
+      "marks": "jumis"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "Rubenui"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elicūras"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Šedeūras"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:15.968318323Z",
+  "model": "glm-5.3"
+}

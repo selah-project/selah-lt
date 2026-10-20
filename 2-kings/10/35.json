@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "„Atsigulė su savo tėvais“ — mirties eufemizmas, versta pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "gloss": "hebrajiškas veiksmažodis ויקברו trečiasis daugiskaita beip — „jie palaidojo“ beip veikėjas įvardijamas"
+    }
+  ],
+  "translation": "Ir Jėhu atsigulė su savo tėvais, ir jie palaidojo ⟨את⟩ jį Šomrone; ir karaliavo Jehoachazas, jo sūnus, vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d4a65046d5d9bfe5b61eec1ad7afd62f5d3b914658d7ae33c6cf18e9d026e998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/33-36.1792479984708.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ir atsigulė"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jėhu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ir jie palaidojo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (Jėhu)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomrone"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir karaliavo"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachazas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:06:24.755597510Z",
+  "model": "glm-5.3"
+}

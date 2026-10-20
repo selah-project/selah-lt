@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio jungties"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "vardų sąrašas — skaičiavimo predikatas"
+    }
+  ],
+  "translation": "Ir šitie ⟨yra⟩ Aharono sūnų vardai: pirmagimis Nadavas, ir Avihu, Elazaras ir Itamaras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b057f9d76185fe46654cff1b73d4a321140324addc8a04cf0bb39e10e821d27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/1-4.1792473927652.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadavas"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ir Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaras"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ir Itamaras"
+    }
+  ],
+  "timestamp": "2026-10-20T05:25:27.653485675Z",
+  "model": "glm-5.3"
+}

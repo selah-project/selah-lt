@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא ויצא",
+      "rationale": "„eidavo ⟨vidun⟩ ir laukan“ — hebrajiškas ėjimo į vidų ir išėjimo porų junginys reiškia laisvą judėjimą tarp žmonių."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית הכליא",
+      "rationale": "„kalėjimo namai“ — žodis בית išlaikytas, o ne sulietas į vieną žodį „kalėjimas“."
+    }
+  ],
+  "translation": "Ir Jirmejahu eidavo ⟨vidun⟩ ir laukan tarp žmonių, ir jo dar nebuvo įmetę į kalėjimo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "696216b146a56e8f7ae503e0d58deb0929d5b0e290572e44099b32b2f533e0de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/37\/4-4.1792494074751.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Ir Jirmejahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eidavo vidun"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir laukan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "buvo įmetę"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "į kalėjimo namus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "kalėjimo"
+    }
+  ],
+  "timestamp": "2026-10-20T11:01:14.751991725Z",
+  "model": "glm-5.3"
+}

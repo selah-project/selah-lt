@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (4:6)",
+      "rationale": "šis את yra prielinksnis 'prieš', ne aleph-tav žymeklis — be DOM glosos"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septyinis kartus",
+      "rationale": "skaičiuojamas šlakstymo kartų kiekis — septyni, šventas pilnumas"
+    }
+  ],
+  "translation": "Ir kunigas pamerkia ⟨את⟩ savo pirštą kraujyje ir pašlaksto iš kraujo septynis kartus Jahvės akivaizdoje, ⟨את⟩ prieš šventos uždangos veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/5-8.1792473211796.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ir pamerkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo pirštą"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "savo pirštą"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "kraujyje"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ir pašlaksto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septyinis"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ prieš"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "uždangos"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:31.797883898Z",
+  "model": "glm-5.3"
+}

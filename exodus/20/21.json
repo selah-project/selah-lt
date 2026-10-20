@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ten⟩ buvo",
+      "rationale": "hebrajiškas שם 'ten'; būtoji kopula pridėta lietuviškai"
+    },
+    {
+      "kind": "mystery",
+      "subject": "הערפל",
+      "rationale": "Elohim buvo tirštoje tamsoje — nuslėptas švytėjimas, sąmoningas nepermatomumas"
+    }
+  ],
+  "translation": "Ir tauta stovėjo toli, o Mošė prisiartino prie tirštos tamsos, kur ⟨ten⟩ buvo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/21-24.1792472547672.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ir stovėjo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "toli"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "o Mošė"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "prisiartino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "tirštos tamsos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:27.674656818Z",
+  "model": "glm-5.3"
+}

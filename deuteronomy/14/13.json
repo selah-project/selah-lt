@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הראה",
+      "rationale": "Šis žodis Tanache tik čia — paukštis plėšrūnas, greičiausiai grifas."
+    },
+    {
+      "kind": "crux",
+      "subject": "האיה",
+      "rationale": "Nuodugniai neatpažintas paukštis: nuo 'klykiančiojo' — peslys ar vanagas; vertėjai skiriasi."
+    }
+  ],
+  "translation": "ir grifą, ir ⟨את⟩ peslius, ir sakalą pagal savo rūšį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/14\/13-16.1792475121951.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ir grifą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "peslius"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "peslius"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ir sakalą"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "pagal savo rūšį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:21.952159879Z",
+  "model": "glm-5.3"
+}

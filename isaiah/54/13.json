@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 54:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta su ⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בניך … בניך",
+      "rationale": "tos pačios formos pakartojimas pradžioje ir pabaigoje — apsiaustas, lietuvių kalboj išlieka"
+    }
+  ],
+  "translation": "Ir visi tavo sūnūs ⟨yra⟩ Jahvės mokiniai, ir gausi tavo sūnų taika.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/13-16.1792481730574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavo sūnūs"
+    },
+    {
+      "surface": "למודי",
+      "gloss": "mokiniai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ir gausi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "taika"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavo sūnų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:30.574576762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול — ne 'kapas' ir ne 'pragaras', o požemio buveinė; lietuviškai linksniuojama šeolo"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיורדי בור",
+      "rationale": "'iš besileidžiančių į duobę' arba 'kad neeičiau žemyn į duobę' — KJV renkasi antrąjį"
+    }
+  ],
+  "translation": "Jahve, tu išvedei mano nefesh iš šeolo, prikeikei mane gyvybėn iš besileidžiančių į duobę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/30\/1-4.1792487745380.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "tu išvedei aukštyn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "prikeikei mane gyvybėn"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "iš besileidžiančių"
+    },
+    {
+      "surface": "בור",
+      "gloss": "į duobę"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:45.381965284Z",
+  "model": "glm-5.3"
+}

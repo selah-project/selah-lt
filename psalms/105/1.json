@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "eilutė",
+      "rationale": "Keturios imperatyvo formos kreipiasi į klausytoją — šaukimas dėkoti ir skelbti."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨į⟩",
+      "rationale": "Lietuvių kalbai reikia prielinksnio prie šaukimosi vardo; hebrajų turi tik ב-."
+    }
+  ],
+  "translation": "Dėkokite Jahvei, šaukitės ⟨į⟩ jo vardą, paskelbkite tautoms jo darbus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/105\/1-4.1792488864174.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dėkokite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "šaukitės"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "paskelbkite"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tautoms"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "jo darbus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:24.174556939Z",
+  "model": "glm-5.3"
+}

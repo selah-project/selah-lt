@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "וברוח — vėjas \/ kvapas \/ dvasia; paliktas 'ruach' pagal D2 taisyklę, čia — nosies iškvėpimas"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נזלים",
+      "rationale": "נזל 'tekėti lašais' daiktavardis čia retas — 'tėkmės' išlaiko tekėjimo vaizdą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "supiltas pylimas",
+      "rationale": "נז — sampilas, banga; vaizdas: vanduo stovi lyg žemės pylimas"
+    }
+  ],
+  "translation": "Ir tavosios nosies ruach sulydė vandenis į krūvą — susisluoksniavo jie kaip supiltas pylimas, tėkmės sustingo, prarajos jūros širdyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f65a8ce19228e7c840b3053e7fcf19f57268e1c66c94b717587ee154627cbe64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/15\/5-8.1792472438064.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "ir ... ruach"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "tavosios nosies"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "sulydė į krūvą"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandenis"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "susisluoksniavo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "נד",
+      "gloss": "supiltas pylimas"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "tėkmės"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "sustingo"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "prarajos"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "širdyje"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    }
+  ],
+  "timestamp": "2026-10-20T05:00:38.414168662Z",
+  "model": "glm-5.3"
+}

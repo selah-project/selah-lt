@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalboje nėra sietuvo, lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiamas kaip ruach, ne 'dvasia' — vienas žodis, keletas reikšmių"
+    }
+  ],
+  "translation": "Kokie laimingi žmogus, kuriam Jahvė neįskaito kaltės ir kurio ruach ⟨yra⟩ be klastos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/32\/1-4.1792487835901.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kokie laimingi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "įskaito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuriam"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaltės"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "kurio ruach"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "klastos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:15.902302502Z",
+  "model": "glm-5.3"
+}

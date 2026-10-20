@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nei",
+      "rationale": "hebrajiškas sugretinimas neturi jungtukо 'nei' — jis išplaukia iš מ..."
+    },
+    {
+      "kind": "crux",
+      "subject": "penėtas jautis",
+      "rationale": "משור אבוס: 'penėtas jautis' (participis nuo 'šerti') vs KJV 'stalled ox' (argdytas)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "geresnė",
+      "rationale": "טוב ומ... — 'geresnė... nei' arba tiesiog 'gera yra... o (ne)'"
+    }
+  ],
+  "translation": "Geresnė daržovių porcija ir meilė ⟨ten⟩, ⟨nei⟩ penėtas jautis ir su juo neapykanta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/15\/17-20.1792489711883.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "geresnė"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "porcija"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "daržovių"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "ir meilė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "משור",
+      "gloss": "jautis"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "penėtas"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ir neapykanta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "su juo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:31.884310367Z",
+  "model": "glm-5.3"
+}

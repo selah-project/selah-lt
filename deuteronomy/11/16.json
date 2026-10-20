@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמרו לכם",
+      "rationale": "Hebrajų idiomą 'saugokite sau' — 'sargokite save', 'saugokite'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפתה",
+      "rationale": "'apgauta' vs 'suviliota' — פתה reiškia ir viena, ir kita"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Įsakymas tiesiogiai Izraeliui — įspėjimas po palaiminimo"
+    }
+  ],
+  "translation": "Saugokite save, kad nebus apgauta jūsų širdis, ir nenukrypsite, ir netarnausite kitiems dievams ir nepuolsite prieš juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/11\/13-16.1792475038820.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "Saugokite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "save"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "bus apgauta"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jūsų širdis"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "ir nenukrypsite"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ir netarnausite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitiems"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "ir nepuolsite"
+    },
+    {
+      "surface": "להם",
+      "gloss": "prieš juos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:58.824053645Z",
+  "model": "glm-5.3"
+}

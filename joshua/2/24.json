@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפנינו",
+      "rationale": "pažodžiui 'nuo mūsų veido' — išlaikyta pažodžiui, reiškia 'dėl mūsų (baimės)'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי · אל",
+      "gloss": "אל ir כי sulietos į lietuviškus linksnius ir sakinio struktūrą"
+    }
+  ],
+  "translation": "Ir jie tarė Jehošuai: Jahvė davė į mūsų ranką ⟨את⟩ visą šalį, ir taip pat visi šalies gyventojai tirpsta nuo mūsų veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/21-24.1792475711050.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir jie tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuai"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "į mūsų ranką"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą šalį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalį"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "tirpsta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalies"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "nuo mūsų veido"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:11.054298918Z",
+  "model": "glm-5.3"
+}

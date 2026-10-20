@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "henos",
+      "rationale": "הכפר: senos versijos 'cipre\/camphire' klaidingai — iš tikrųjų hena (Lawsonia inermis)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Kaip",
+      "rationale": "Hebrajų neturi palyginimo žodžio — lyginimas reiškiamas tvarka, lietuvių prideda 'kaip'"
+    }
+  ],
+  "translation": "Kaip henos kekė man yra mano mylimasis Ein Gedžio vynuogynuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/1\/13-16.1792490814237.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "kekė"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "henos"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mano mylimasis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "vynuogynuose"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedžio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:06:54.238008983Z",
+  "model": "glm-5.3"
+}

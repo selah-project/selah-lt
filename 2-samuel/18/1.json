@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškame pavaldiniame sakinyje nėra veiksmažodžio, lietuvių kalba reikalauja „buvo“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "karinės apžiūros struktūra",
+      "rationale": "Tūkstančių ir šimtų viršininkai — kariuomenės skaičiavimo ir struktūros sąrašas"
+    }
+  ],
+  "translation": "Ir Davidas apžiūrėjo ⟨את⟩ žmones, kurie buvo ⟨את⟩ su juo, ir paskyrė jiems viršininkus tūkstančių ir viršininkus šimtų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/18\/1-4.1792478436617.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ir apžiūrėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmones"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ir paskyrė"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viršininkus"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ir viršininkus"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:40:36.618770054Z",
+  "model": "glm-5.3"
+}

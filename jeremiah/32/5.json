@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדי",
+      "rationale": "'aplankysiu' (bausminantis apsilankymas) vs 'prisiminsiu' — veiksmo, ne tik atminimo, žodis."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (prieš הכשדים)",
+      "rationale": "Čia prielinksnis 'su', ne aleph-tav žymeklis — ne ⟨את⟩."
+    }
+  ],
+  "translation": "Ir Babilonas nuves ⟨את⟩ Cidkiją, ir ten jis bus, kol jį aplankysiu, sako Jahvė; jei kausitės ⟨את⟩ su kasdėjais — nepadarysite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/5-8.1792483157360.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Ir Babilonas"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "nuves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkiją"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkiją"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jis bus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "jį aplankysiu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "kausitės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdėjais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "padarysite"
+    }
+  ],
+  "timestamp": "2026-10-20T07:59:17.365360102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — lietuvių reikalauja ⟨esi⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "pagimdžiau",
+      "rationale": "ילדתיך — 'pagimdžiau' ar 'sutvėriau kaip tėvas'; karališkoji iškilimo kalba, ne fizinis gimdymas"
+    },
+    {
+      "kind": "secret",
+      "subject": "nuostata",
+      "rationale": "חק — dieviškasis nutarimas, paskelbiamas karaliaus, sudarytas už žmonių akių"
+    }
+  ],
+  "translation": "Paskelbsiu nuostatą: Jahvė man pasakė: Tu ⟨esi⟩ mano sūnus, šiandien aš tave pagimdžiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/2\/5-8.1792487453464.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Paskelbsiu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apie"
+    },
+    {
+      "surface": "חק",
+      "gloss": "nuostatą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tave pagimdžiau"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:53.465631114Z",
+  "model": "glm-5.3"
+}

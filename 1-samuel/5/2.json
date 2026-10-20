@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Hebrajų אתו yra aleph-tav su priebalsiu; į lietuvių kalbą reikia įvardžio 'ją'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דגון",
+      "rationale": "Dagonas statomas šalia savo – arka statomasi greta dievo; scena parodo, kieno namuose arka atsidūrė."
+    }
+  ],
+  "translation": "Ir paėmė pelištiečiai ⟨את⟩ Elohim arkan ir atnešė ⟨את⟩ ją į Dagono namus ir pastatė ⟨את⟩ ją šalia Dagono.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/5\/1-4.1792477104507.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ir paėmė"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištiečiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim arkan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ir atnešė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją"
+    },
+    {
+      "surface": "בית",
+      "gloss": "į namus"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagono"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "šalia"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:24.508282912Z",
+  "model": "glm-5.3"
+}

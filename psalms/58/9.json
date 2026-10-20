@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שבלול",
+      "rationale": "Šis žodis „šliužas“ Tanache randamas tik čia; Senovės įsivaizdavimas — šliužas ištirpsta savo gleivėse eidamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "נפל אשת",
+      "rationale": "Pažodžiui „moters kritimas“ — neišnešiotas vaisius; kai kurie skaito dvigubai: „kaip moteris žlunga“."
+    }
+  ],
+  "translation": "Kaip šliužas, tirpdydamas eidamas, — kaip moters neišnešiotas vaisius, kuris nematė saulės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/58\/9-12.1792488116451.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "šliužas"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "tirpdydamas"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "eidamas"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "neišnešiotas vaisius"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "moters"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "matė"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saulės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:56.452488513Z",
+  "model": "glm-5.3"
+}

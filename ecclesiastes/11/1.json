@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paviršiaus",
+      "rationale": "פני pažodžiui 'veidas' — vandens veidas, t. y. paviršius."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Siųsk duoną",
+      "rationale": "Hebrajiškas vaizdas — mes duoną į vandenį kaip patikėtą dalį; sugrįš po daug dienų."
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Lietuvių reikalauja objekto įvardžio, hebrajų turi tik priesagą -נו."
+    }
+  ],
+  "translation": "Siųsk savo duoną ant vandens paviršiaus, nes po daugelio dienų rasi ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/11\/1-4.1792491336766.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Siųsk"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "savo duoną"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paviršiaus"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "po daugelio"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "rasi ją"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:36.766982299Z",
+  "model": "glm-5.3"
+}

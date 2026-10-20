@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — „sandora tarp manęs ir tavęs“; lietuvių kalbai reikia kopulos."
+    },
+    {
+      "kind": "crux",
+      "subject": "šachad",
+      "rationale": "שחד gali reikšti ir „dovaną“, ir „kyšį“; čia karališka dovaną su politine potekste."
+    },
+    {
+      "kind": "substitution",
+      "subject": "su",
+      "rationale": "Antrasis „את“ čia yra prielinkis עֵת „su“, ne objekto žymeklis — verčiama „su“ be ⟨את⟩ skliaustų."
+    }
+  ],
+  "translation": "Sandora ⟨yra⟩ tarp manęs ir tavęs, tarp mano tėvo ir tavo tėvo; štai aš atsiunčiau tau dovaną — sidabrą ir auksą; eik, nutrauk ⟨את⟩ savo sandorą ⟨את⟩ su Baša, Jisraelio karaliumi, ir jis pasitrauks nuo manęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/15\/17-20.1792479489114.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "sandora"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ir tavęs"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "atsiunčiau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "dovaną"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ir auksą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "nutrauk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sandorą"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su",
+      "marks": "Baša"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ir jis pasitrauks"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "nuo manęs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:09.116134466Z",
+  "model": "glm-5.3"
+}

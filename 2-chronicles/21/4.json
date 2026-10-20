@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "prieš savo tėvo karalystę",
+      "rationale": "על ממלכת — pažodžiui „ant karalystės“, t. y. perėmė valdžią"
+    },
+    {
+      "kind": "addition",
+      "subject": "kai kuriuos",
+      "rationale": "Hebrajiškas tekstas sako „ir taip pat iš Jisraelio vadų“ be žodžio „kai kuriuos“; pridėta ⟨kai kuriuos⟩ aiškinimui"
+    }
+  ],
+  "translation": "Ir Jehoramas atsistojo prieš savo tėvo karalystę, ir įsitvirtino, ir išžudė ⟨את⟩ visus savo brolius kardu — ir taip pat ⟨kai kuriuos⟩ iš Jisraelio vadų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/21\/1-4.1792493648616.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atsistojo"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoramas"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karalystę"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ir įsitvirtino"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ir išžudė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus savo brolius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo brolius"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "iš Jisraelio vadų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:54:08.617350293Z",
+  "model": "glm-5.3"
+}

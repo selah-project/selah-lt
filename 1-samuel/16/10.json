@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 16:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iš⟩",
+      "rationale": "Lietuvių reikalauja prielinksu „iš“, hebrajiškas באלה — „šituose“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynis",
+      "rationale": "Skaičiuojami Išajaus sūnūs — septyni praveda, aštuntasis lieka."
+    },
+    {
+      "kind": "you",
+      "subject": "Šmuelis Išajui",
+      "rationale": "Tiesioginis kreipimasis su atmetimo žodžiu."
+    }
+  ],
+  "translation": "Ir Išajus pravedė septynis savo sūnus priešais Šmuelį, ir Šmuelis tarė Išajui: Jahvė nepasirinko ⟨iš⟩ šitų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/9-12.1792477305243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "pravedė"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Išajus"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "savo sūnus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Išajui"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Išajui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pasirinko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "šitų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:45.245725005Z",
+  "model": "glm-5.3"
+}

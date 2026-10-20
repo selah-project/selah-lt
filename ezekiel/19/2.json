@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksnio sakinio „מה אמך“ — predikatas אמרת qatal reiškia buvusį laiką."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לביא\/אריות\/כפירים",
+      "rationale": "Trys skirtingi žodžiai liūtui (liūtė, liūtai, jauni liūtai) — liūto paveikslo išskleidimas."
+    }
+  ],
+  "translation": "Ir pasakysi: Kokia ⟨yra⟩ tavo motina? Liūtė — tarp liūtų gulėjo, tarp jaunų liūtų daugino savo jauniklius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/19\/1-4.1792484327966.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ir pasakysi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kokia"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tavo motina"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "liūtė"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "liūtų"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "gulėjo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "jaunų liūtų"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "daugino"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "savo jauniklius"
+    }
+  ],
+  "timestamp": "2026-10-20T08:18:47.967494753Z",
+  "model": "glm-5.3"
+}

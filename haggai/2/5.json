@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי",
+      "rationale": "Priebalsas 'kirto sandorą' — lietuviškai 'sudariau sandorą'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח viena — Dvasia, vėjas, kvapas: glosa išlaiko hebrajišką žodį"
+    },
+    {
+      "kind": "you",
+      "subject": "adresatas",
+      "rationale": "Tiesioginis kreipimasis į tautą: 'nebijokite'"
+    }
+  ],
+  "translation": "⟨את⟩ žodį, kurį sudariau su ⟨את⟩ jumis, kai išėjote iš Micraimo, ir mano ruach stovi jūsų viduryje — nebijokite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/haggai\/2\/5-8.1792487055393.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodį"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "sudariau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "su ⟨את⟩ jumis"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "kai išėjote"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "ir mano ruach"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "jūsų viduryje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bijokite"
+    }
+  ],
+  "timestamp": "2026-10-20T09:04:15.394733283Z",
+  "model": "glm-5.3"
+}

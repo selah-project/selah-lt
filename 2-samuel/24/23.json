@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 24:23",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "karalius karaliui",
+      "rationale": "המלך למלך: 'Aravna kaip karalius davė karaliui' (KJV) ar 'karaliau, Aravna duoda karaliui' (ASV) — hebrajiškai dviprasmiška."
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Aravnah blesses David directly in second person."
+    }
+  ],
+  "translation": "Viską tai davė Aravna — karalius karaliui; ir Aravna tarė karaliui: Tepriima Jahvė, tavo Elohim, tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/21-24.1792478744107.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "viską tai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "ירצך",
+      "gloss": "tepriima tave"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:44.109814314Z",
+  "model": "glm-5.3"
+}

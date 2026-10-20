@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi sajungos tarp veiksnio ir turinio — pridėta lietuviška sajunga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "Nefėš — ne nemateriali siela, o gyvybės jėga, alsavimas, troškimas."
+    }
+  ],
+  "translation": "Taip pat Tavo teismų kelyje, Jahve, laukėme Tavęs; Tavo vardas ir Tavo atminimas — ⟨yra⟩ sielos ilgesys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/5-8.1792481130517.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "kelyje"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Tavo teismų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "laukėme Tavęs"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Tavo vardas"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ir Tavo atminimas"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ilgesys"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sielos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:30.519853266Z",
+  "model": "glm-5.3"
+}

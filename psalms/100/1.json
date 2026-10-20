@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "šaukite garsiai",
+      "rationale": "Psalmė prasideda kreipiniu-imperatyvu į visą žemę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "todai",
+      "rationale": "תודה — tiesiogine prasme 'ištiesta ranka', t. y. išpažintinis atsidėkojimas"
+    }
+  ],
+  "translation": "Mizmoras, skirtas todai. Šaukite garsiai Jahvei, visa žemė!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/100\/1-4.1792488808631.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "skirtas todai"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "šaukite garsiai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:28.631730395Z",
+  "model": "glm-5.3"
+}

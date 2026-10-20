@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būtume buvę",
+      "rationale": "hebrajų veiksmažodis דמינו 'būtume panašūs' — lietuvių kalbai reikia papildomo jungtinio predikato"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמעט",
+      "rationale": "vieni skaito 'labai mažą likutį' (sudėtis su שריד), kiti — 'vos trumpam, būtume tapę' (ypač YLT)"
+    }
+  ],
+  "translation": "Jei ne Jahvė Cevaot būtų palikęs mums likučio — labai mažai — kaip Sodoma būtume tapę, į Gomorą panašūs būtume buvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/9-12.1792480534020.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "jei ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "būtų palikęs"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "likučio"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "labai mažai"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "kaip Sodoma"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "būtume tapę"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "į Gomorą"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "panašūs būtume buvę"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:34.022423680Z",
+  "model": "glm-5.3"
+}

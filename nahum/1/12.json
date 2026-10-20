@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aš⟩",
+      "rationale": "Hebrajų veiksmažodyje yra asmuo, bet lietuvių laikų derinys reikalauja aiškaus įvardžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעבר",
+      "rationale": "Kas 'praėjo' — jie patys (Asirija žlunga) ar Jahvė praeina kirsdamas; vertėjai skirstosi."
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah",
+      "rationale": "'Tave įspaudžiau... nebeįspausiu' — tiesioginis žodis Judo žemei."
+    }
+  ],
+  "translation": "Taip sako Jahvė: jei jie ir sveiki, ir taip daug, taip jie nukirpti ir praėjo. Tave ⟨aš⟩ įspaudžiau — daugiau nebeįspausiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nahum\/1\/9-12.1792486892148.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sveiki"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ir taip"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "nukirpti"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ir praėjo"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "Tave įspaudžiau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "beįspausiu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    }
+  ],
+  "timestamp": "2026-10-20T09:01:32.149798148Z",
+  "model": "glm-5.3"
+}

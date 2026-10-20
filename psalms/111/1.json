@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד yra artimas susirinkimas\/deliberacinė taryba — pats žodis reiškia ir 'paslaptį', artimumą su tiesiųjų taryba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בכל לבב",
+      "rationale": "hebrajiškai be prielinksnio 'širdimi' — 'visu savo širdiesieniu' atspindi vidinį organą, ne tik jausmą."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Daugiaskaitinis pamokymas 'Šlovinkite Jah' kreipiasi į skaitytoją bendruomenei."
+    }
+  ],
+  "translation": "Šlovinkite Jah! Aš dėkosiu Jahvei visu savo širdiesieniu, ⟨tarp⟩ tiesiųjų susirinkime ir bendrijoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/111\/1-4.1792488996514.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Šlovinkite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "aš dėkosiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "širdimi"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "tarpų susirinkime"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiesiųjų"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ir bendrijoje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:36.515060273Z",
+  "model": "glm-5.3"
+}

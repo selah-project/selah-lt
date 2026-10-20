@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Jahvė kreipiasi tiesiogiai į Mošę su įsakymu eiti pas Parohą"
+    },
+    {
+      "kind": "addition",
+      "subject": "kad jie",
+      "rationale": "hebrajiškas veiksmažodis ויעבדני turi prijungtą priesagą -ני; dalelytė „kad“ ir „jie“ pridėti lietuviškai"
+    }
+  ],
+  "translation": "Ir Jahvė tarė Mošei: Eik pas Parohą ir sakyk jam: Taip sako Jahvė: Paleisk ⟨את⟩ mano tautą, kad jie man tarnautų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/25-28.1792472382440.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Eik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohą"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakyk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Paleisk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano tautą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautą"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "kad jie man tarnautų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:42.442528354Z",
+  "model": "glm-5.3"
+}

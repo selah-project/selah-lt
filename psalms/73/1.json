@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi sakinio tarinio — lietuvių reikalauja ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לברי לבב",
+      "rationale": "alliteracija „levavei“ — širdies žmonės, tapatybė tarp tyrumo ir vidaus"
+    }
+  ],
+  "translation": "Mizmoras Asafui. Tikrai geras ⟨yra⟩ Elohim Jisraeliui, tyros širdies žmonėms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/73\/1-4.1792488398089.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmoras"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafui"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Tikrai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "tyros"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "širdies"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:38.090160306Z",
+  "model": "glm-5.3"
+}

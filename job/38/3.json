@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 38:3",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "susijuosk strėnas",
+      "rationale": "Hebrajų idiomą 'juostis strėnas' reiškia pasiruošti veiksmui"
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovui",
+      "rationale": "Tiesioginis įsakymas Ijovui"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ir aš tavęs klausiu",
+      "rationale": "Jahvė žada atskleisti tai, kas iki šiol buvo uždaryta — dabar klausinės pats"
+    }
+  ],
+  "translation": "Susijuosk ⟨dabar⟩ kaip vyras savo strėnas, ir aš tavęs klausiu, o tu pranešk man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/38\/1-4.1792490755568.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "susijuosk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨dabar⟩"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kaip vyras"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "savo strėnas"
+    },
+    {
+      "surface": "ואשאלך",
+      "gloss": "ir aš tavęs klausiu"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "o tu pranešk man"
+    }
+  ],
+  "timestamp": "2026-10-20T10:05:55.568924925Z",
+  "model": "glm-5.3"
+}

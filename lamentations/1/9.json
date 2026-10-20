@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulos su אין מנחם, lietuvių reikalauja"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruzalė kalba",
+      "rationale": "Pagrindinė mergaitė (Cionas) tiesiogiai kreipiasi į Jahvę: 'Žiūrėk, Jahve'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ראה",
+      "rationale": "Kreipimasis-imperatyvas nukreiptas į Jahvę — prašymas pamatyti vargą"
+    }
+  ],
+  "translation": "Jos nešvarumas — jos sijonuose; ji neprisiminė savo pabaigos, ir nusileido stulbinamai, ir nėra ⟨yra⟩ jos guodėjo. Žiūrėk, Jahve, ⟨את⟩ mano vargą, nes išdidėjo priešas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/1\/9-12.1792491098508.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמאתה",
+      "gloss": "jos nešvarumas"
+    },
+    {
+      "surface": "בשוליה",
+      "gloss": "jos sijonuose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "ji neprisiminė"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "savo pabaigos"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ir nusileido"
+    },
+    {
+      "surface": "פלאים",
+      "gloss": "stulbinamai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "guodėjo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "žiūrėk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano vargą"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mano vargą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "išdidėjo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "priešas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:38.509504935Z",
+  "model": "glm-5.3"
+}

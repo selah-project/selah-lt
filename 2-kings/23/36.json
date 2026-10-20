@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 23:36",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebraiškai nėra veiksmažodžio — 'dvidešimt penkerių metų sūnus Jehojakimas'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "amžius ir valdymo metai",
+      "rationale": "karaliaus chronologijos formulė — 25 metai, 11 metų valdymo"
+    },
+    {
+      "kind": "elision",
+      "subject": "בן",
+      "rationale": "'sūnus' metų skaičiaus formulėje — 'dvidešimt penkerių metų sūnus'"
+    }
+  ],
+  "translation": "Dvidešimt penkerių metų Jehojakimas buvo, kai pradėjo karaliauti, ir viiolika metų jis karaliavo Jerušalaime; ir jo motinos vardas — Zebida, Pedajos dukterimi iš Rumos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "327eebf7fad89bbdde33886decd6ae3075d053671f3a7bfebe26dfb35a890da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/33-36.1792480604047.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "metų"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ir penkerių"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakimas"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kai karaliavo"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ir vieną"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "olika"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliavo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir vardas"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jo motinos"
+    },
+    {
+      "surface": "זבידה",
+      "gloss": "Zebida"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterimi"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Pedajos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "Rumos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:44.053632768Z",
+  "model": "glm-5.3"
+}

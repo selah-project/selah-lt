@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כהנה וכהנה",
+      "rationale": "Pakartotas į šoną einantis posakis „tiek ir tiek“ – atvira, bendroji („taisyklinga“) formuluotė, nurodanti nesuskaičiuojamą gausą; atkartojimas praranda ritmą lietuvių kalboje."
+    },
+    {
+      "kind": "crux",
+      "subject": "tavo valdovo žmonas",
+      "rationale": "Ar נשי אדניך reiškia Šauliaus žmonas, atiduotas Davidui (veiksmas), ar tik jo namus su viskuo, kas juose (numatymas); vertėjai skiriasi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tau⟩",
+      "rationale": "Hebrajų kalba sako tik „jei maža“; lietuvių kalbai reikia naudos gavėjo („tau“)."
+    }
+  ],
+  "translation": "ir aš daviau tau ⟨את⟩ tavo valdovo namus ir ⟨את⟩ tavo valdovo žmonas į tavo glėbį, ir aš daviau tau ⟨את⟩ Jisraelio ir Jehudos namus; ir jei ⟨tau⟩ maža, būčiau pridėjęs tau tiek ir tiek.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/5-8.1792478228101.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ir aš daviau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo valdovo namus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavo valdovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "tavo valdovo žmonas"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "žmonas"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavo valdovo"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "į tavo glėbį"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ir aš daviau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio ir Jehudos namus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ir Jehudos"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "maža"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "būčiau pridėjęs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "tiek"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ir tiek"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:08.103056862Z",
+  "model": "glm-5.3"
+}

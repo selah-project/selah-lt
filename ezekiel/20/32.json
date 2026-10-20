@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 20:32",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "lietuvių kalbai reikia įvardžio, jungiančio temą su predikatu 'nebus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח paliekamas kaip 'ruach' — čia 'kas kyla jūsų dvasioje\/mintyje', ne vėjas; tradiciniai vertimai rašo 'mintis'"
+    }
+  ],
+  "translation": "Ir kas kyla jūsų ruach — ⟨tai⟩ nebus: jūs sakote — tapti kaip tautos, kaip kraštų šeimos, tarnauti medžiui ir akmeniui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4f876e49c43cd8963e6d0fbcf07229d969476da9a96799563f99b61a057a0ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/29-32.1792484369577.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Ir kas kyla"
+    },
+    {
+      "surface": "על",
+      "gloss": "jums"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "jūsų ruach"
+    },
+    {
+      "surface": "היו",
+      "gloss": "būna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sakote"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tapti"
+    },
+    {
+      "surface": "כגוים",
+      "gloss": "kaip tautos"
+    },
+    {
+      "surface": "כמשפחות",
+      "gloss": "kaip šeimos"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "kraštų"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "tarnauti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medžiui"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ir akmeniui"
+    }
+  ],
+  "timestamp": "2026-10-20T08:19:29.578983614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם יבאון",
+      "rationale": "Hebrajiškoji priesaikos formulė teigiamu pavidalu reiškia draudimą: „jeigu jie įeis“ = „jie neįeis“; vertėjai paprastai sukelia neigimą, YLT palieka pažodžiui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rūstybė",
+      "rationale": "באפי pažodžiui „savo nosimi\/veidu“ — Hebrajų idiomatas rūsčiui."
+    }
+  ],
+  "translation": "kuriems prisiekiau savo rūstybėje: jeigu jie įeis į mano poilsį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "467d620d567a1688305a2cb8a2f79343e69a1ab4b867957c8c75f414d92f02d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/95\/10-11.1792494162713.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuriems"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisiekiau"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "savo rūstybėje"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "jie įeis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mano poilsį"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:42.714205432Z",
+  "model": "glm-5.3"
+}

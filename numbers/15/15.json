@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 15:15",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gyvenančiam pas jus",
+      "rationale": "Hebrajų הגר yra artikeliu pažymėtas dalyvis 'svetimasis-gyvenantis'; lietuvių artikelio nėra, konteksto rodyklė pridėta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חקה אחת ... חקת עולם",
+      "rationale": "Pakartotas tas pats šaknis חקה — 'vienas įstatas... amžinas įstatas' — chiazminis karkas, išlieka ir lietuviškai."
+    }
+  ],
+  "translation": "Susirinkimui — vienas įstatas jums ir svetimšaliui, gyvenančiam pas jus; amžinas įstatas jūsų kartoms: kaip jūs, taip ir svetimasis bus priešais Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/15\/13-16.1792474242109.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקהל",
+      "gloss": "Susirinkimui"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "įstatas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ir svetimšaliui"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gyvenančiam pas jus"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "įstatas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsų kartoms"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kaip jūs"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "taip ir svetimasis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:42.111871272Z",
+  "model": "glm-5.3"
+}

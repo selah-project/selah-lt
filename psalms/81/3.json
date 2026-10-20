@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kinoras · nevelis",
+      "rationale": "Instrumentų vardai כנור ir נבל palikti pagal skambesį, nes tiksli jų prigimtis nežinoma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרה…תף…כנור…נבל",
+      "rationale": "Instrumentų sąrašo ritmas — trys styginiai ir mušamieji vienoje eilutėje — sukuria garso vaizdą, lietuviškai išlieka tik išvardijimu."
+    }
+  ],
+  "translation": "Pakelkite giesmę, duokite būgnelį, malonųį kinorą su neveliu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/81\/1-4.1792488522842.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "pakelkite"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "giesmę"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "duokite"
+    },
+    {
+      "surface": "תף",
+      "gloss": "būgnelį"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinorą"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "malonųį"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neveliu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:42.843372852Z",
+  "model": "glm-5.3"
+}

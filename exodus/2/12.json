@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה וכה",
+      "rationale": "Pažodžiui 'šitaip ir šitaip' — hebrajiškas apsidairymo idiomatas, išverstas 'į šen ir į ten'."
+    },
+    {
+      "kind": "crux",
+      "subject": "nukalto",
+      "rationale": "ויך yra 'mušė\/nukentėjo' — ne 'nužudė'; kontekstas (2,14 'ir nužudei vyrą') rodo mirtį, bet pats veiksmažodis čia sako tik smūgį."
+    }
+  ],
+  "translation": "Ir jis apsižvalgė į šen ir į ten, ir pamatė, kad nėra nė vieno vyro, ir nukalto ⟨את⟩ tą micraitį ir paslėpė jį smėlyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/9-12.1792472139058.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "apsižvalgė"
+    },
+    {
+      "surface": "כה",
+      "gloss": "į šen"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ir į ten"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nė vieno vyro"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nukalto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tą micraitį"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "micraitį"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "paslėpė jį"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "smėlyje"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:39.062779895Z",
+  "model": "glm-5.3"
+}

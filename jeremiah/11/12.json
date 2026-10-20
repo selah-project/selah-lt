@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 11:12",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הושע \/ יושיעו",
+      "rationale": "Infinitivas והושע ir veiksmažodis יושיעו — ta pati šaknis, gelbėjimo žodis žlunga savyje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלהים",
+      "rationale": "Su artikeliu apie stabus — mažąja raide 'dievų'"
+    }
+  ],
+  "translation": "Tuomet Jūdo miestai ir Jerušalaimo gyventojai eis ir šauks prie tų dievų, kuriems jie degina smilkalus, bet tie išgelbėti jų neišgelbės jų jų nelaimės metu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e63ecb4096b30239ff6e80b11a85c592c95de076e39c14d236a2eb08fd590994",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/9-12.1792482452605.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ir eis"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdo"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ir gyventojai"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "וזעקו",
+      "gloss": "ir šauks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "tų dievų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriems"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "מקטרים",
+      "gloss": "deginas smilkalus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "bet išgelbėti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יושיעו",
+      "gloss": "jų neišgelbės"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "metu"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "jų nelaimės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:32.608889035Z",
+  "model": "glm-5.3"
+}

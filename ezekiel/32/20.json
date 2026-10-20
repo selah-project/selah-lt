@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Naujojo sakinio copula, hebrajų jos neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב",
+      "rationale": "Kardas minimas du kartus per dvi eilutes — kertanti kardo tema pratęsta."
+    }
+  ],
+  "translation": "Tarp kardo išdurtaųjų jie kris; kardas ⟨yra⟩ duotas — velkite ⟨את⟩ ją ir visą jos minią.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/32\/17-20.1792484637254.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "Tarp"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "išdurtaųjų"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "jie kris"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "duotas"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "velkite"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Micraimą)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visą"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "jos minią"
+    }
+  ],
+  "timestamp": "2026-10-20T08:23:57.255341060Z",
+  "model": "glm-5.3"
+}

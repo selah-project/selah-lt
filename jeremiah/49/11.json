@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Esavui \/ Edomui",
+      "rationale": "Tiesioginis kreipimasis į pasmerktąjį su pažadu našlaičiams ir našlėms"
+    },
+    {
+      "kind": "crux",
+      "subject": "palik",
+      "rationale": "עזבה gali būti liepiamoji („palik“) arba teiginys („aš palieku“); dauguma verčia liepiamai"
+    }
+  ],
+  "translation": "Palik savo našlaičius — aš podarysiu gyvus, ir tavo našlės teis manimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46fe43a647f630a14152522a8b3a29f88979a5686760125fb6b22b722ab08be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/49\/10-12.1792485623374.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "palik"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "savo našlaičius"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "podarysiu gyvus"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "ir tavo našlės"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manimi"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "teis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:40:23.376191410Z",
+  "model": "glm-5.3"
+}

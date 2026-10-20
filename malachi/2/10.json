@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmazodžio — lietuvių kalbai reikia kopulos."
+    },
+    {
+      "kind": "crux",
+      "subject": "vienas tėvas",
+      "rationale": "Ar 'tėvas' — Dievas, ar bendras protėvis Abrahomas; vertėjai nesutaria."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Retsoriniais klausimais kreipiamasi į visą tautą."
+    }
+  ],
+  "translation": "Argi ne vienas tėvas ⟨yra⟩ visiems mums? Argi ne vienas El sukūrė mus? Kodėl žmogus išduoda savo brolį, suteršdamas mūsų tėvų sandorą?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0f55e91eead03bf26917e2f572149bf92f7791d5599a0f8edf5e6a3b93faed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/2\/9-12.1792487384773.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "visiems mums"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "sukūrė mus"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "išduoda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "savo brolį"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "suteršdamas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "mūsų tėvų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:09:44.774643333Z",
+  "model": "glm-5.3"
+}

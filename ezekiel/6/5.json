@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גלולים → stabai",
+      "rationale": "Pažodžiui 'apvaliai rąstai'; hebrajiškas paniekinantis žodis apie stabus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלוליהם \/ מזבחותיכם",
+      "rationale": "Kontrastas tarp 'jų stabų' ir 'jūsų aukurų' — priklausomybė nuo svetimų dievų."
+    }
+  ],
+  "translation": "Ir padėsiu ⟨את⟩ lavonus Jisraelio sūnų prieš jų stabus, ir išbarstysiu ⟨את⟩ jūsų kaulus aplink jūsų aukurus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/6\/5-8.1792483839339.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ir padėsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavonus"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "lavonus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "jų stabus"
+    },
+    {
+      "surface": "וזריתi",
+      "gloss": "ir išbarstysiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų kaulus"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "jūsų kaulus"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "aplink"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "jūsų aukurus"
+    }
+  ],
+  "timestamp": "2026-10-20T08:10:39.344394475Z",
+  "model": "glm-5.3"
+}

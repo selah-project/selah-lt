@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškanas",
+      "rationale": "משכן pagal D2 rašomas kaip miškan, ne „padangtė“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "audėjo darbas",
+      "rationale": "מעשה חשב: „apgalvoto \/ įgudusio darbo“ — pasirinkta „audėjo darbo“ dėl audimo konteksto."
+    }
+  ],
+  "translation": "O ⟨את⟩ miškaną padarysi: dešimt dangalių iš šešių siūlų suvyto lino, iš žydrųjų violetinių ir iš purpuro bei iš kirmizono — kerubai, audėjo darbo, tokius ⟨את⟩ juos padarysi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/1-4.1792472769894.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dangalių"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šešių siūlų suvyto lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "suvyto"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "žydrųjų violetinių"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purpuro"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "kirmizono"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kirmizono vabalo"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubai"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "audėjo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:09.896301825Z",
+  "model": "glm-5.3"
+}

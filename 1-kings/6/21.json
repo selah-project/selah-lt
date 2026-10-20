@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "debirą",
+      "rationale": "הדביר — šventyklos šventųjų šventųjų vardas, paliktas transliteruotas, ne 'šventykla'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעבר ברתיקות",
+      "rationale": "'pervedė grandinėmis' vs KJV 'darė pertvarą' — neaišku, ar grandinės atskyrė, ar papuošė debiro priekį"
+    },
+    {
+      "kind": "measurement",
+      "subject": "auksas",
+      "rationale": "Šventyklos dengimo aukso aprašymas — imperatoriaus matavimo konteksto dalis"
+    }
+  ],
+  "translation": "Ir Šlomo aptraukė ⟨את⟩ namą iš vidaus grynu auksu, ir pervedė grandinėmis iš aukso priešais debirą, ir aptraukė ⟨jį⟩ auksu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d01613b6bed134d9b887c1db815d804771c1f7842882b93b9435517ea1e68911",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/21-24.1792478942726.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "aptraukė"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namą"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "iš vidaus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "grynu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir pervedė"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "grandinėmis"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debirą"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "ir aptraukė ⟨jį⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:49:02.728092384Z",
+  "model": "glm-5.3"
+}

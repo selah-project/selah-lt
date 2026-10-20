@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תולעת שני",
+      "rationale": "'Kirmėlės raudonis' — raudonasis dažas iš coccus vabzdžio; 'skarletas' arba tiesiog 'raudona' yra įprasti variantai."
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "שש",
+      "gloss": "",
+      "rationale": "Šėšas — balta lino drobė; hebrajiškas skambesys išlaikytas, o ne tik 'drobė'."
+    }
+  ],
+  "translation": "ir tkelet-mėlyna drobė, ir purpuras, ir kirmėlės raudonis, ir balta šėšo drobė, ir ožkų plaukai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/5-8.1792472905392.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ir tkelet-mėlyna drobė"
+    },
+    {
+      "surface": "ו ארגמן",
+      "gloss": "ir purpuras"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ir kirmėlės"
+    },
+    {
+      "surface": "שני",
+      "gloss": "raudonis"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ir balta šėšo drobė"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ir ožkų plaukai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:25.395383119Z",
+  "model": "glm-5.3"
+}

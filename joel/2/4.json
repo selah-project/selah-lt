@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Verse 2:4 masculine singular suffix refers to the locust-swarm\/army as one body; Lithuanian needs the pronoun explicit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמראה...מראהו",
+      "rationale": "Same noun 'appearance' repeated in frame — 'as the appearance... its appearance'; the envelope structure is kept."
+    }
+  ],
+  "translation": "Kaip arklių išvaizda — tokia ⟨jo⟩ išvaizda, ir kaip raiteliai — taip jie bėgs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/2\/1-4.1792486508394.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "kaip išvaizda"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "arklių"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "jo išvaizda"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ir kaip raiteliai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "jie bėgs"
+    }
+  ],
+  "timestamp": "2026-10-20T08:55:08.396339194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "negalėsi matyti mano veido",
+      "rationale": "tai, kas pažadėta 33, 19, čia apribojama — veidas paslaptis, kurios žmogus negali regėti ir gyventi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וחי",
+      "rationale": "pažodžiui 'ir gyvens' — hebrajų saka teigiamai; lietuviškame tekste neiginys prie veiksmažodžio perkeltas dėl skambesio"
+    }
+  ],
+  "translation": "Ir jis tarė: negalėsi matyti ⟨את⟩ mano veido, nes žmogus, matęs mane, ⟨ne⟩liks gyvas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/33\/17-20.1792472957366.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "negalėsi"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "matyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano veido"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veido"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "matys mane"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvens"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:17.369500071Z",
+  "model": "glm-5.3"
+}

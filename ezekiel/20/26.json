@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 20:26",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשמם",
+      "rationale": "Iš šaknies שמם 'nusiaubti' (taip KJV, YLT) arba iš אשם 'jų kaltė' — skirtingos vokalizacijos, dvi prasmės."
+    },
+    {
+      "kind": "elision",
+      "subject": "בהעביר",
+      "rationale": "Hebrajiškai nėra žodžio 'ugnis' — 'perkeliant per ugnį' yra vertėjų užpildymas; palikta tik 'perkeliant'."
+    },
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — 'aš Jahvė' yra pilna forma; ⟨esu⟩ pridėta lietuvių kalbos reikalavimu."
+    }
+  ],
+  "translation": "Ir aš suteikiau jiems ⟨את⟩ nešvarumą jų dovanose, perkeliant kiekvieną pirmgimį, atveriantį gimdą, kad nusiaubčiau juos — kad jie pažintų, kad aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb7c1943b67fa9d013ec401b68a9674d52f2e3084286182fa1abdeaa64fe683e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/25-28.1792484362782.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואטמא",
+      "gloss": "ir aš suteikiau nešvarumą"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "במתנותם",
+      "gloss": "jų dovanose"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "perkeliant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "pirmgimį-atveriantį"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "gimdą"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אשמם",
+      "gloss": "nusiaubčiau juos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jie pažintų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:19:22.783062087Z",
+  "model": "glm-5.3"
+}

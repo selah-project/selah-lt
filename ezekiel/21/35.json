@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערה",
+      "rationale": "Reiškia ir skustuvą, ir makštį; čia 'makštis' (kardas grąžinamas į ją)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sukurtas",
+      "rationale": "נבראת nuo ברא — kurti; pritaikyta kalavijui, lyg jis būtų sukurtas žemės gelmėse."
+    }
+  ],
+  "translation": "Grąžink ⟨את⟩ ją į makštį! Vietae, kur buvai sukurtas, žemėje tavo kilmės, aš tave teisiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6786dcd0107e9a4ccead9d696ea3bfdd1b10ff1c29958d6821fa7d933f1aff1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/21\/33-36.1792484283410.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "grąžink"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "makštį"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "buvai sukurtas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "tavo kilmės"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "aš teisiu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave",
+      "marks": "tave"
+    }
+  ],
+  "timestamp": "2026-10-20T08:18:03.411329971Z",
+  "model": "glm-5.3"
+}

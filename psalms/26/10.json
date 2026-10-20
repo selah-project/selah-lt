@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebrajų turi tik vav prijungimui; lietuvių reikia sietuvo 'ir'"
+    }
+  ],
+  "translation": "kurių rankose pikta sumanymų, ir jų dešinė pilna kyšių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/26\/9-12.1792487720533.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "rankose"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pikta sumanymų"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ir jų dešinė"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kyšių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:20.534697430Z",
+  "model": "glm-5.3"
+}

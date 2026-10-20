@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajų veiksnys implied veiksmažodyje ויגד — įvardis pridėtas aiškumui."
+    },
+    {
+      "kind": "elision",
+      "subject": "apie tai",
+      "rationale": "Hebrajų sako tik 'pasakė karaliui' — objektas 'reikalas' numanomas iš ankstesnės eilutės."
+    }
+  ],
+  "translation": "Ir reikalas tapo ⟨žinomas⟩ Mordochajui, ir jis pranešė Esterai, karalienei; ir Esterė pasakė karaliui Mordochajaus vardu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/2\/21-23.1792491406569.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "ir tapo žinomas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "reikalas"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordochajui"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ir pranešė"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterai"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "karalienei"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir pasakė"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterė"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochajaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:16:46.570468947Z",
+  "model": "glm-5.3"
+}

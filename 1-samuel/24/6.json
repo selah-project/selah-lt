@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "smogė širdis",
+      "rationale": "ויך לב 'nukirto\/smogė širdis' — hebrajų idiomas, lietuviškai 'apmaudas suspaudė širdį'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kraštą",
+      "rationale": "כנף 'sparnas, kraštas' — apdaro kraštas"
+    }
+  ],
+  "translation": "Ir atsitiko po to, ir smogė Davido širdis ⟨את⟩ į jį, dėl to, kad nukirpo ⟨את⟩ kraštą, kuris buvo Šauliaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/5-8.1792477605775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir smogė"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį — Davidą"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, kad"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nukirpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraštą"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kraštą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "buvo Šauliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:45.776512451Z",
+  "model": "glm-5.3"
+}

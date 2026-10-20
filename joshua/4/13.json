@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 4:13",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "apie keturiasdešimt tūkstančių",
+      "rationale": "skaičius karinį kontingentą, brūkšnys „maždaug“ atspindi כ-"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלוצי הצבא",
+      "rationale": "'išsirengę karo žygiui' (linksniuota veiksmažodinė išrada) vs 'ginkluotieji' — pabrėžia pasiruošimą, ne tik ginklavimąsi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arabos",
+      "rationale": "ערבות — stepės lygumoji slėnis prie Jericho; laikomas hebrajiškas žodis, nes 'lyguma' prarastų vardą"
+    }
+  ],
+  "translation": "Maždaug keturiasdešimt tūkstančių ginkluotųjų kariuomenės — susirengusiųjų karo žygiui — perėjo priešais Jahvę į mūšį, į Jericho arabas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "19fcd643dd2c99e5a14445762e0d9bbd97023cf95eb7c589e7cc815feef9f167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/4\/13-16.1792475680404.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כארבעים",
+      "gloss": "maždaug keturiasdešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "susirengusiųjų karo žygiui"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "kariuomenės"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "perėjo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "į mūšį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ערבot",
+      "gloss": "arabas"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:40.406923010Z",
+  "model": "glm-5.3"
+}

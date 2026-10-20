@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 30:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחכה \/ חוכי",
+      "rationale": "ta pati šaknis 'laukti' — Jahvė laukia, laimingi tie, kurie laukia jo."
+    }
+  ],
+  "translation": "Todėl Jahvė lauks, kad parodytų jums malonę, ir todėl išaukštins save, kad jums pasigailėtų; nes teismo Elohim ⟨yra⟩ Jahvė — laimingi visi, kurie jo laukia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce0d117dd7d1a210b0d0787adc9b6ed73292ece1350c86805544117343893056",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/17-20.1792481305040.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "יחכה",
+      "gloss": "lauks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לחננכם",
+      "gloss": "kad parodytų jums malonę"
+    },
+    {
+      "surface": "ולכן",
+      "gloss": "ir todėl"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "išaukštins save"
+    },
+    {
+      "surface": "לרחמכם",
+      "gloss": "kad jums pasigailėtų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "laimingi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "חוכי",
+      "gloss": "kurie laukia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:25.043306064Z",
+  "model": "glm-5.3"
+}

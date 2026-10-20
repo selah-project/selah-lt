@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'yra' — lietuvių kalbai jo reikia."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי מיהוה היא",
+      "rationale": "Ar 'tai yra nuo Jahvės' (kvietimas), ar 'jis ieško iš Jahvės' — veikėjo sangauga dviprasmė."
+    }
+  ],
+  "translation": "O jo tėvas ir jo motina nežinojo, kad nuo Jahvės ⟨yra⟩ tai, kad jis ieško preteksto prieš pelištiečius; tuo metu pelištiečiai viešpatavo Jisraelyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "88cc8afca2cab2eade86b4e8e75e4bd80cedecccfc9b2fa05512b72ea86660b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/14\/1-4.1792476613679.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "o jo tėvas"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ir jo motina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "žinojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "nuo Jahvės"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "pretekstą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ieško"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "prieš pelištiečius"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "tuo metu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištiečiai"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "viešpatavo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:10:13.682602413Z",
+  "model": "glm-5.3"
+}

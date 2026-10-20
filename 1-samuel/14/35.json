@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו החל",
+      "rationale": "'su juo jis pradėjo' — ar אתו rodo į aukurą (jį), ar tai laiko žymuo; KJV 'the same was the first altar', YLT 'with it he hath begun'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבן \/ לבנות",
+      "rationale": "veiksmažodžio 'statyti' pasikartojimas — החל לבנות pažymi pirmąjį kartą Tanache apie Šaulių"
+    }
+  ],
+  "translation": "Ir pastatė Šaulius aukurą Jahvei; ⟨את⟩ jį jis pirmasis ėmė statyti aukurą Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/33-36.1792477398883.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį — jis pirmasis ėmė statyti"
+    },
+    {
+      "surface": "החל",
+      "gloss": "pirmasis ėmė"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "statyti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T06:23:18.903509795Z",
+  "model": "glm-5.3"
+}

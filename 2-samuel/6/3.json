@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 6:3",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ואחיו",
+      "rationale": "lemma — Achijo asmenvardis 'Achijas', ne 'jo brolis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame tekste nėra kopulos — 'kurie yra Gibojoje'"
+    }
+  ],
+  "translation": "Ir pasodino ⟨את⟩ Elohim arką ant naujo vežimo, ir iškėlė ją iš Avinadabo namų, kurie yra Gibojoje; ir Uza ir Achijas, Avinadabo sūnūs, vairavo naująjį vežimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/6\/1-4.1792478134342.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ir pasodino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim arką"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arką"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ant"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "vežimo"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "naujo"
+    },
+    {
+      "surface": "וישאהו",
+      "gloss": "ir iškėlė ją"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iš namų"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Gibojoje"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ir Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ir Achijas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadabo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "vairavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naująjį vežimą"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "vežimą"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "naująjį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:35:34.346799013Z",
+  "model": "glm-5.3"
+}

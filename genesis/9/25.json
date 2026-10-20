@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajiškas veiksnys praleistas, tik.Pos ir lietuvių kalbai reikia įvardžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kenaanas",
+      "rationale": "Nūchas prakeikia Kenaaną, ne Chamą — kodėl, seniai ginčijama"
+    }
+  ],
+  "translation": "Ir tarė: Prakeiktas Kenaanas, vergų vergas tebūnie ⟨jis⟩ savo broliams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "27204ea4fb7a74f502d72646453072f00b985e7a6468aacc58c4051f88a7e5e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/25-28.1792471086203.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Prakeiktas"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanas"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergas"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "vergų"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tebūnie"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "savo broliams"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:06.204264429Z",
+  "model": "glm-5.3"
+}

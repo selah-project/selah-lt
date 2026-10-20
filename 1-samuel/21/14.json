@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 21:14",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elgesys",
+      "rationale": "טעם pažodžiui 'skonis, nuovoka' — čia 'elgesys, išvaizda'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתהלל",
+      "rationale": "hitpael 'apsimadavo, leidosi laikomas pamišusiu' vs tiesiog 'elgėsi kaip pamišęs'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ויתו",
+      "rationale": "retas žodis 'braižyti, įbrėžinėti' — pamišėlio įbrėžimai vartų duryse"
+    }
+  ],
+  "translation": "Ir jis pakeitė ⟨את⟩ savo elgesį jų akyse ir apsimetė bepročiu jų rankose, ir braižinėjo ant vartų durų, ir leido savo seilėms varvėti žemyn ant savo barzdos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc1b27828201017ca6ac03a4aaffd8c28de1cdbaadc29d9854a75bf5d26798cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/21\/13-16.1792477591007.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישנו",
+      "gloss": "ir pakeitė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo elgesį"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "savo elgesį"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "jų akyse"
+    },
+    {
+      "surface": "ויתהלל",
+      "gloss": "ir apsimetė bepročiu"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "jų rankose"
+    },
+    {
+      "surface": "ויתו",
+      "gloss": "ir braižinėjo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "durų"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vartų"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ir leido varvėti"
+    },
+    {
+      "surface": "רירו",
+      "gloss": "savo seiles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "žemyn ant"
+    },
+    {
+      "surface": "זקנו",
+      "gloss": "savo barzdos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:31.009932045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pareigas",
+      "rationale": "Hebrew sako tik 'į jo girdymą' — pareigos pridėtos kaip konteksto išaiškinimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "delnas",
+      "rationale": "כף pažodžiui 'delnas, plaštaka', ne bendra 'ranka'."
+    }
+  ],
+  "translation": "Ir jis sugrąžino ⟨את⟩ viršininką girdytojų į jo girdytojo pareigas, ir jis davė taurę į Paražo delną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/40\/21-23.1792471791680.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sugrąžino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viršininką girdytojų"
+    },
+    {
+      "surface": "שר",
+      "gloss": "viršininką"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "girdytojų"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "jo girdytojo pareigas"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "taurę"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "כף",
+      "gloss": "delną"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paražo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:51.682770212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אקוט",
+      "rationale": "קוט pasieka Tanache tik čia — „atskirtyti, niekinti“; vertėjai svyruoja: „gailėjausi“ (KJV), „pabodo“ (JPS), „pykau“ (BSB)."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi kopulos, lietuvių reikia veiksmažodžio."
+    }
+  ],
+  "translation": "Keturiasdešimt metų buvau ⟨priešiškas⟩ tam kartui ir tariau: tai tauta, kuri klysta širdimi, — jie — ir jie nepažino mano kelių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "467d620d567a1688305a2cb8a2f79343e69a1ab4b867957c8c75f414d92f02d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/95\/10-11.1792494162713.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Keturiasdešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "buvo ⟨priešiškas⟩"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "tam kartui"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir tariau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "kuri klysta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "širdimi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ir jie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mano kelių"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:42.714008324Z",
+  "model": "glm-5.3"
+}

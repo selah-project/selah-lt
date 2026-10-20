@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "lietuviškas linksnis 'Mošei' jau reiškia 'prie'; prielinksnis eliduotas"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְזָרָקוּ מֹשֶׁה",
+      "rationale": "HE forma 'ir Mošė tepaberkia' (jis, ne jūs) KJV\/ASV prieš ' Moses sprinkle' — hebrajiškai veikiausiai antrasis asmuo, bet forma leidžia skaityti kaip vardą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פיח \/ כבשן",
+      "rationale": "suodžiai iš krosnies — XI vytinių pradžia; dulkės tampa opos"
+    }
+  ],
+  "translation": "Ir Jahvė tarė Mošei ir Aharonui: paimkite sau pilnas saujas krosnies suodžių, ir Mošė tepaberkia jų dangun Parao akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/5-8.1792472342312.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "paimkite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "saujas"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "suodžių"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "krosnies"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ir tepaberkia"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "dangun"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:02.320731220Z",
+  "model": "glm-5.3"
+}

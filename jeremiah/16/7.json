@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרסו",
+      "rationale": "'Laužys duonos' (KJV, JPS 'break bread for them') arba tiesiog 'dalys' — iš פרס 'skaldyti, dalinti'; pridėjau ⟨duonos⟩ kaip numanomą objektą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨duonos⟩",
+      "rationale": "Hebrajų veiksmažodis neturi objekto; duona suprantama iš gedulo puotos konteksto."
+    }
+  ],
+  "translation": "Ir nedalys jiems ⟨duonos⟩ geduloje, paguosti mirusiojo, ir negirdys jų ⟨את⟩ paguodos taurės dėl jo tėvo ir dėl jo motinos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4014602ab47bbef07218cca81d9b915c45d9198724a6b0e90e5f53b1c539a8ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/16\/5-8.1792482610527.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ir ne"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "dalys"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "gedulo"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "paguosti"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirusiojo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "girdys"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paguodos taurę"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "taurę"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "paguodos"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jo tėvo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jo motinos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:10.530654466Z",
+  "model": "glm-5.3"
+}

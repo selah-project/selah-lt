@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim faraonui",
+      "rationale": "נתתיך אלהים לפרעה: 'padariau tave Elohim faraonui' vs 'kaip Elohim' (JPS\/BSB) — hebrajiškai nėra 'kaip'."
+    },
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "Lietuvių kalbai reikia veiksnio, hebrajų veiksmažodyje jis jau yra."
+    }
+  ],
+  "translation": "Ir Jahvė tarė Mošei: Žiūrėk, aš padariau tave Elohim faraonui, o Aharonas, tavo brolis, bus tavo pranašas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/1-4.1792472265511.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Žiūrėk"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "padariau tave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonui"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "o Aharonas"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "tavo pranašas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:45.513231113Z",
+  "model": "glm-5.3"
+}

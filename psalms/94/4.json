@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trykšta",
+      "rationale": "נבע pažodžiui „trykšti, veržtis“ — apie žodžių srautą, vaizdas išlaikytas."
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "Retas žodis: „įžūlus“ arba „bekojis\/stiprus“; verčiami skirtingai — „arogantiškai“, „nusenusius posakius“."
+    }
+  ],
+  "translation": "Jie trykšta, kalba įžūliai, visi nedorybės darbuotojai puikuojasi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/94\/1-4.1792488725392.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "jie trykšta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "kalba"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "įžūliai"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "puikuojasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "darbuotojai"
+    },
+    {
+      "surface": "און",
+      "gloss": "nedorybės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:05.393706341Z",
+  "model": "glm-5.3"
+}

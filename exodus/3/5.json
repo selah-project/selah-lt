@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — הוא yra tik parodomasis įvardis."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Tiesioginis kreipimasis į Mošę degančio krūmo viduryje."
+    }
+  ],
+  "translation": "Ir tarė: nesinauk artyn ⟨čionai⟩; nusimauk sandalus nuo savo kojų, nes vieta, ant kurios tu stovi, — šventumo žemė ji ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/3\/5-8.1792472172706.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "artinkis"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "čionai"
+    },
+    {
+      "surface": "של",
+      "gloss": "nusimauk"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "sandalus"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "savo kojų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jos"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventumo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:12.709570856Z",
+  "model": "glm-5.3"
+}

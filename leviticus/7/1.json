@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio; lietuvių kalbai reikia santykio žodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורת čia reiškia 'nuostatas, taisyklę', bet pagal D2 išlaikoma Tora."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Pakartota šaknis — 'šventa švenčiausiųjų' — lietuviškame dviejų žodžių kartojime tik iš dalies."
+    }
+  ],
+  "translation": "Ir štai Tora ašamo: šventumas švenčiausiųjų ⟨yra⟩ jis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/1-4.1792473213182.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ašamo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventumas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "švenčiausiųjų"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:33.183400293Z",
+  "model": "glm-5.3"
+}

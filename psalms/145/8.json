@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lėtas supykti",
+      "rationale": "ארך אפים pažodžiui 'ilgų nosių' — pykčio paveikslas hebrajų kalboje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesedu",
+      "rationale": "חסד pagal D2 rašomas 'chesed' — vienas žodis, o ne 'gailestingumas' vienas"
+    }
+  ],
+  "translation": "Maloningas ir gailestingas ⟨yra⟩ Jahvė, lėtas supykti ir didelis chesedu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/145\/5-8.1792489397491.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Maloningas"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ir gailestingas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lėtas"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "supykti"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ir didelis"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesedu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:43:17.492903590Z",
+  "model": "glm-5.3"
+}

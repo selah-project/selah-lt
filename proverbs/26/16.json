@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vyrus",
+      "rationale": "Hebrajiška skaičiaus konstrukcija 'septynis' be daiktavardžio; lietuviškai pridėtas 'vyrus'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septyni",
+      "rationale": "Skaičius septyni — pilnatvės simbolis, 'septyni išmintingiausi'."
+    }
+  ],
+  "translation": "Tinginys savo akyse išmintingesnis už septynis vyrus, kurie moka atsakyti su išmintimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/26\/13-16.1792489924261.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "išmintingesnis"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tinginys"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "savo akyse"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "už septynis"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kurie atsako"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "su išmintimi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:04.262331714Z",
+  "model": "glm-5.3"
+}

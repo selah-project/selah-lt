@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pasakė",
+      "rationale": "hebrajiškai nenurodytas subjektas — sakoma 'kažkas pasakė Jozefui'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jozefui",
+      "rationale": "pranešimas kreipiamas tiesiai į Jozefą apie jo tėvą"
+    }
+  ],
+  "translation": "Ir atsitiko po šių dalykų, kad pasakė Jozefui: žiūrėk, tavo tėvas serga. Ir jis pasiėmė su savimi ⟨את⟩ savo du sūnus, ⟨את⟩ Menašę ir ⟨את⟩ Efraimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f42d7c4c02da72b0a3ff8d74d42a768e81d27161043102e3cb1f3cb94549c9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/48\/1-4.1792472067866.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "šių dalykų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šių"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jozefui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "žiūrėk"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvas"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "serga"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "pasiėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo du sūnus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "savo sūnus"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su savimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menašę"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Efraimą"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:27.869535667Z",
+  "model": "glm-5.3"
+}

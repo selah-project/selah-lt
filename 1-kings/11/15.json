@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "את דוד את אדום",
+      "rationale": "Pirmasis את čia prielinksnis 'su\/prie', ne DOM žymiklis — 'kai Davidas buvo pas Edomą'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החללים — nukautieji",
+      "rationale": "Pažodžiui 'perdurtieji' — česed-o ne, bet karo metafora išlaikyta per 'nukautuosius'."
+    }
+  ],
+  "translation": "Ir įvyko, kai Davidas ⟨buvo⟩ pas ⟨את⟩ Edomą ir Joabas, karo vadas, kopė laidoti ⟨את⟩ nukautuosius — jis iškirto kiekvieną vyriškį Edome.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/13-16.1792479232447.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kai buvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "את",
+      "gloss": "pas ⟨את⟩",
+      "marks": "Edomą"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomą"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "kopiant"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "karo"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "laidoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nukautuosius"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "nukautuosius"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir iškirto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vyriškį"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-20T06:53:52.449795648Z",
+  "model": "glm-5.3"
+}

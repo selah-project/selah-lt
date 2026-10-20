@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 7:13",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Aramėjų kalba neturi kopulos — lietuvių reikalauja ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezrai",
+      "rationale": "Karaliaus Artakserkso dekretas kreipiasi tiesiogiai į Ezrą"
+    },
+    {
+      "kind": "elision",
+      "subject": "טעם",
+      "rationale": "Pirmoji šios ištraukos eilutė — aramėjų kalbos pradžia Ezro knygoje"
+    }
+  ],
+  "translation": "Iš manęs yra padėtas įsakymas: kas tik savanoriškai nori iš Jisraelio tautos, kunigų ir levitų mano karalystėje eiti į Jerušalaimą — su tavimi teiseina.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/7\/13-16.1792492242484.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מני",
+      "gloss": "Iš manęs"
+    },
+    {
+      "surface": "שים",
+      "gloss": "yra padėtas"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "įsakymas"
+    },
+    {
+      "surface": "די",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "savanoriškai norintys"
+    },
+    {
+      "surface": "במלכותי",
+      "gloss": "mano karalystėje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "וכהנוהי",
+      "gloss": "kunigų"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "ir levitų"
+    },
+    {
+      "surface": "למהך",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "į Jerušalaimą"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "teiseina"
+    }
+  ],
+  "timestamp": "2026-10-20T10:30:42.485070891Z",
+  "model": "glm-5.3"
+}

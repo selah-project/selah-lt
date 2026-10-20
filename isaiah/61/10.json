@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוש אשיש",
+      "rationale": "tos pačios šaknies pasikartojimas — intensyvus 'džiaugiuosi, džiaugsiuosi', lietuvių kalboje perteikta pabrėžtimi 'didžiai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — ne 'siela', o kvėpavimas, gerklė, gyvybės jėga"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכהן",
+      "rationale": "KJV 'puošiasi' prieš JPS 'kunigiška puošmena'; כהן veiksmažodis reiškia 'kunigauti, apsirengti regalijomis' — kunigo paveikslas sulaikomas"
+    }
+  ],
+  "translation": "Džiaugiuosi, didžiai džiaugsiuosi Jahvėje, džiūgauja mano gyvybė mano Elohim, nes jis apvilko mane gelbėjimo drabužiais, cedeko apsiaustu jis apgaubė mane, kaip jaunikis kunigaudamas dėvi galvos puošmeną, ir kaip nuotaka pasipuošia savo brangenybėmis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7a104d5c86237462b6d74ce6ed7915e89258ee8965e91513f8557b004896dea1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/61\/9-11.1792481929413.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gloss": "džiaugiuosi"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "didžiai džiaugsiuosi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvėje"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "džiūgauja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "apvilko mane"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužiais"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "gelbėjimo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "apsiaustu"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedeko"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "apsiautė mane"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "kaip jaunikis"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "kunigaudamas"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "galvos puošmeną"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "ir kaip nuotaka"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "pasipuošia"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "savo brangenybėmis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:49.415037931Z",
+  "model": "glm-5.3"
+}

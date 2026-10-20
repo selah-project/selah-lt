@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרם",
+      "rationale": "Šaknis חרם kartoja keturis kartus viename eilutėje — cheremas, pašvęsti, cheremas, cheremas; lietuviškame tekste išlaikytas tas pats žodis, kad grėsmės grandinė liktų matoma."
+    },
+    {
+      "kind": "addition",
+      "subject": "savęs",
+      "rationale": "פן תחרימו objektas neišreikštas; pridėta ⟨savęs>, nes kontekstas reiškia 'kad nepadarytumėte savęs cheremu'."
+    }
+  ],
+  "translation": "O jūs tik saugokitės nuo cheremo, kad nepašvęstumėte ⟨savęs⟩ ir nepaimtumėte iš cheremo, ir nepaverstumėte ⟨את⟩ Jisraelio stovyklos cheremu, ir jos nesujauktumėte.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/17-20.1792475795994.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "o tik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saugokitės"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "cheremo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "pašvęstumėte"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "ir nepaimtumėte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "cheremo"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ir nepaverstumėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio stovyklą"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "stovykla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "cheremu"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "ir sujauktumėte"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:56:36.002777629Z",
+  "model": "glm-5.3"
+}

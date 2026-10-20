@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "Nuo 'spiečių musių' iki 'vabzdžių minios' arba 'lauforių' — hebrajiškas žodis reiškia plaukiojančiųjų spiečių."
+    },
+    {
+      "kind": "addition",
+      "subject": "tie \/ tos",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio, kur hebrajiškas veiksmažodis yra vienaskaitos vyriškos\/moteriškos formos."
+    }
+  ],
+  "translation": "Jis pasiuntė tarp jų musių spiečius, ir tie juos suėdė, ir varles, ir tos juos sunaikino.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "443bf8ca71b1f028567b17303501973058ccde2ee3ae484620eee65c5da116cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/45-48.1792488474156.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tarp jų"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "musių spiečius"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ir tie juos suėdė"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ir varles"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ir tos juos sunaikino"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:54.156446924Z",
+  "model": "glm-5.3"
+}

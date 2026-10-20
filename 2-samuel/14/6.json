@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "veiksmažodis „turėti“",
+      "rationale": "Hebrajiškame nėra veiksmažodžio — „tavo vergei — du sūnūs“ be „turėjo“"
+    },
+    {
+      "kind": "crux",
+      "subject": "וימת אתו",
+      "rationale": "Žodis „mirti“ vartojamas каузативiąja prasme: „nudėjo jį“ vs tiesiog „ir jis mirė“"
+    }
+  ],
+  "translation": "Ir tavo vergei — du sūnūs, ir jie abu susikivirčijo lauke, ir nebuvo gelbėtojo tarp jų, ir vienas sumušė ⟨את⟩ antrąjį, ir nudėjo ⟨את⟩ jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/5-8.1792478274399.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "ir tavo vergei"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "ir jie susikivirčijo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "jie abu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "gelbėtojo"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tarp jų"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ir sumušė"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antrąjį"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "antrąjį"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir nudėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:54.402216486Z",
+  "model": "glm-5.3"
+}

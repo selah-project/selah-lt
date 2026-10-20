@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai yra⟩",
+      "rationale": "hebrajiškame tekste nėra jungties tarp „kai ateisite“ ir „šita žemė“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "teks",
+      "rationale": "תפל „kris“ — apie sklypų metimą burtų keliu, paveldėjimo idoma"
+    }
+  ],
+  "translation": "Įsakyk ⟨את⟩ Jisraelio sūnums ir pasakyk jiems: kai jūs ateisite į Kanaano žemę — ⟨tai yra⟩ žemė, kuri jums teks paveldėjimu: Kanaano žemė pagal jos sienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "034efad29e3625121200cb9c42b125d716661e69e6440023f8821dbce32e021c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/34\/1-4.1792474789955.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Įsakyk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnums"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir pasakyk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ateisite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaano"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "teks"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "paveldėjimu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaano"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "pagal jos sienas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:49.956625638Z",
+  "model": "glm-5.3"
+}

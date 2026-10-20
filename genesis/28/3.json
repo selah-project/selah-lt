@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Šadai",
+      "rationale": "שדי išlaikytas kaip vardas El Šadai, ne verčiamas į 'Visagalis'."
+    }
+  ],
+  "translation": "Ir El Šadai tepalaimina ⟨את⟩ tave, ir tepadaugina tave vaisiais, ir tepadaugina tave, kad taptum tautų susirinkimu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee13c35ee2c7edeb1eac2cb5695306b4df08fdd7df8deae78d67fcd1d8de8ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/28\/1-4.1792471565366.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ir El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tepalaimina"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tave"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ir tepadaugina tave vaisiais"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ir tepadaugina tave"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "kad taptum"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "susirinkimu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:05.370191492Z",
+  "model": "glm-5.3"
+}

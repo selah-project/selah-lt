@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mirusiojo",
+      "rationale": "מת yra veiksmažodis „mirė“, bet neigiamame kontekste reiškia „nebuvo mirusio“ — daiktavardis lietuvių kalboje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין ... אין",
+      "rationale": "Kartojamas neiginys אין — „nėra namo, kuriame nėra“ — dvigubas neiginys, kurio ritmas juntamas ir lietuviškai."
+    }
+  ],
+  "translation": "Ir atsikėlė Paras naktį — jis pats, ir visi jo tarnai, ir visas Micraimas; ir kilo didelis riksmas Micraime, nes nebuvo namo, kuriame nebuvo mirusiojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/29-32.1792472476257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ir atsikėlė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis pats"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir kilo"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "riksmas"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "didelis"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriame"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirusiojo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:16.270454693Z",
+  "model": "glm-5.3"
+}

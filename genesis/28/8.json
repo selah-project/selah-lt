@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi būtojo kartinio veiksmažodžio sakinio viduryje, lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעיני",
+      "rationale": "pažodžiui 'jo akyse' — hebrajų idiomą reiškiantis 'jo vertinimu, jo manymu'"
+    }
+  ],
+  "translation": "Ir Eisavas pamatė, kad Kanaano dukterys yra blogos Jicchako, savo tėvo, akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/28\/5-8.1792471522981.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eisavas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "blogos"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dukterys"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaano"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchako"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:45:22.986014647Z",
+  "model": "glm-5.3"
+}

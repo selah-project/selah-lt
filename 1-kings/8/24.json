@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "įvardžiai pridėti lietuviškai — hebrajų kalboje galūnės „burna“ ir „ranka“ turi pakankamai galūnių"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "tęsiamas tiesioginis kreipimasis į Jahvę"
+    }
+  ],
+  "translation": "kuris išlaikei savo tarnui Davidui, mano tėvui, ⟨את⟩ tai, ką jam kalbėjai; Tu savo burna kalbėjai ir savo ranka įvykdei kaip šią dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/21-24.1792479143784.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "išlaikei"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "savo tarnui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, ką jam kalbėjai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tai, ką"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kalbėjai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ir Tu kalbėjai"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "savo burna"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ir savo ranka"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "įvykdei"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaip šią dieną"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šią"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:23.786423566Z",
+  "model": "glm-5.3"
+}

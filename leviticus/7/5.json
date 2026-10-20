@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Daugiskaitos aleph-tav žymeklis išlaikomas ⟨את⟩ ženklu, nes lietuvių kalboje atskiro žodžio nėra."
+    }
+  ],
+  "translation": "Ir kunigas sudugins ⟨את⟩ juos ant aukuro — ugnies auka Jahvei; tai kaltos auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/5-8.1792473163075.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "sudugins"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos — hebrajiškas daugiskaitos žymeklis אתם, nukreiptas į prieš tai išvardytas dalis"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies auka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kaltos auka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:43.076061110Z",
+  "model": "glm-5.3"
+}

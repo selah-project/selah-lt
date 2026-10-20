@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זר",
+      "rationale": "Pažodžiui „svetimas“ — ar „svetimas dievas“ (kaip KJV), ar „svetimas [tarp jūsų]“ be daiktavardžio (kaip YLT)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dievo⟩",
+      "rationale": "Pridėtas daiktavardis, nes זר vienas pats lietuviškai neaiškus"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Tiesioginis kreipimasis į tautą-žydę kaip į liudytojus"
+    }
+  ],
+  "translation": "Aš paskelbiau, ir išgelbėjau, ir pranešiau, ir nebuvo tarp jūsų svetimo ⟨dievo⟩; o jūs esate mano liudytojai, sako Jahvė, ir aš esu El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/9-12.1792481490272.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "paskelbiau"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ir išgelbėjau"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ir pranešiau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nebuvo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tarp jūsų"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svetimo ⟨dievo⟩"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "o jūs"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mano liudytojai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:30.278152109Z",
+  "model": "glm-5.3"
+}

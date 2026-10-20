@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tavo vardą",
+      "rationale": "נָשֻׂא לַשָּׁוְא neturi objekto — „iškelti į nieką“; ⟨tavo vardas⟩ pridėtas pagal Iš 20,7 atgarsį."
+    },
+    {
+      "kind": "crux",
+      "subject": "min tave",
+      "rationale": "יֹאמְרֻךָ „sako tave“: „kalba prieš tave“ (KJV) vs „mini tavo vardą“ (JPS)."
+    }
+  ],
+  "translation": "kurie min tave piktais sumanymais, tavo priešai iškelia ⟨tavo vardą⟩ į nieką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/17-20.1792489299168.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "min tave"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "piktais sumanymais"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "iškelia"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "į nieką"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tavo priešai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:39.169728319Z",
+  "model": "glm-5.3"
+}

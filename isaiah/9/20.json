@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Menašė\/Efraimas",
+      "rationale": "Chiazmas A-B-B-A: giminės rijo viena kitą — struktūra kartoja 19 eilutės 'žmogus savo brolio'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rūstybė",
+      "rationale": "אף pažodžiui 'nosis, šnervės' — įniršio vaizdas pragariškai alsuojančiomis šnervėmis."
+    },
+    {
+      "kind": "elision",
+      "subject": "מנשה את אפרים",
+      "rationale": "Sakinyje nėra veiksmažodžio — 'rijo\/ėdė' suprantama iš 19 eilutės 'valgys'; veiksmas paliktas implicitiškai kaip hebrajų kalboje."
+    }
+  ],
+  "translation": "Menašė ⟨את⟩ Efraimą, ir Efraimas ⟨את⟩ Menašę — kartu jie prieš Jehudą. Nors po viso šito jo rūstybė nebūgavo, ir jo ranka tebeištiesta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94444872f9c212dbb87964f681d85256d2f192592ab9cb7e9d43d14c190a5796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/9\/17-20.1792480886778.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menašė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimą"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimą"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ir Efraimas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menašę"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašę"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kartu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudą"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po viso"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "būgavo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jo rūstybė"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ir vis dar"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ištiesta"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:26.790176431Z",
+  "model": "glm-5.3"
+}

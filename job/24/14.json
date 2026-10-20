@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dievabijantis",
+      "rationale": "אביון — „stokojantis, elgeta“; „dievabijantis“ netinka — taisyti į „neturintį“"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאור",
+      "rationale": "„prieš šviesą \/ su šviesa“ arba „kai šviesa dingsta“ — vertėjai skiriasi"
+    }
+  ],
+  "translation": "Prieš šviesą atsikelia žudikas, žudo vargingąjį ir dievabijantį, o naktį būna kaip vagis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7263251a955967b5f9041ffd62b461c2d111211aba38be181a028e45273ad068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/24\/13-16.1792490513146.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "prieš šviesą"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "atsikelia"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "žudikas"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "žudo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vargingąjį"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ir dievabijantį"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "o naktį"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "būna"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "kaip vagis"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:53.147087515Z",
+  "model": "glm-5.3"
+}

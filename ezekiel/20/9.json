@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 20:9",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajiškas veiksmažodis ואעש neturi išreikšto objekto; lietuvių kalbai reikia įvardžio"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "בתוכם — prielinksnis be veiksmažodžio; lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tautų",
+      "rationale": "הגוים — tautos, gentys; ne „pagonys“, nes apie Egiptą kalbama iš Jisraelio pozicijos"
+    }
+  ],
+  "translation": "Ir padariau ⟨tai⟩ dėl savo vardo, kad jis nebūtų išniekintas tautų akyse, tarp kurių jie buvo, kurių akyse aš tapau jiems žinomas, išvesdamas juos iš Micraimo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/9-12.1792484283967.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "Ir padariau"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "savo vardo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "החל",
+      "gloss": "būtų išniekintas"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tarp kurių"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "buvo jų tarpe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "tapau žinomas"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "jų akyse"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "išvesdamas juos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:18:03.968045934Z",
+  "model": "glm-5.3"
+}

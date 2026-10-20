@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "žmonės",
+      "rationale": "„tiesios širdies“ — hebraiškas statuso daiktavardis, lietuviškai reikia daiktavardžio „žmonės“"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד צדק",
+      "rationale": "„iki cedeko“ — kas sugrįžta: teismas pas cedeką, ar cedekas pas teismą? derėtų ir atvirkščiai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedekas",
+      "rationale": "cedek — šaknis „tiesa\/teisumas“, paliktas pagal skambesį, ne vien „teisumas“"
+    }
+  ],
+  "translation": "Nes teismas sugrįš į cedeką, ir po jo eis visi tiesios širdies žmonės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/94\/13-16.1792488717476.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeko"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sugrįš"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ir po jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "tiesios širdies"
+    },
+    {
+      "surface": "לב",
+      "gloss": "žmonės ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:57.477166988Z",
+  "model": "glm-5.3"
+}

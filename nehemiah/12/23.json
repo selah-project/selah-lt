@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 12:23",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių reikalauja jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Dienų žodžių knyga",
+      "rationale": "ספר דברי הימים pažodžiui 'Dienų žodžių knyga', o ne 'Metraščių knyga'"
+    }
+  ],
+  "translation": "Levio sūnūs, šeimų galvos, ⟨buvo⟩ įrašyti Dienų žodžių knygoje iki Jochanano, Eljašibo sūnaus, dienų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cc3f354f7477ca4fc8f704413aef9a6216d9219312c52c39dbdc42dfc03a820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/12\/21-24.1792492536638.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levio"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "šeimų"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "įrašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanano"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljašibo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:35:36.638829580Z",
+  "model": "glm-5.3"
+}

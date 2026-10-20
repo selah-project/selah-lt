@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Paro žodžiai Mošei ir Aharonui",
+      "rationale": "Tiesioginis kreipimasis su įsakymais —Kelkitės, išeikite, eikite, tarnaukite."
+    },
+    {
+      "kind": "addition",
+      "subject": "ir jis",
+      "rationale": "Hebrajų ויקרא neturi veikėjo — Paras suprantamas iš 12,30 konteksto."
+    }
+  ],
+  "translation": "Ir jis pašaukė Mošę ir Aharoną naktį ir tarė: Kelkitės, išeikite iš mano tautos vidurio — ir jūs, ir Jisraelio sūnūs, ir eikite, tarnaukite ⟨את⟩ Jahvei, kaip kalbėjote.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/29-32.1792472476257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir pašaukė"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošę"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ir Aharoną"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Kelkitės"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "išeikite"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautos"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ir eikite"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tarnaukite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "kaip kalbėjote"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:16.271846108Z",
+  "model": "glm-5.3"
+}

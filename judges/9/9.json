@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 9:9",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svyruoti",
+      "rationale": "לנוע pažodžiui 'linguoti\/svyruoti' — medis be šaknų siūbuoja vėjyje; daugelis versijų minkština į 'viešpatauti'"
+    },
+    {
+      "kind": "crux",
+      "subject": "החדלתי",
+      "rationale": "'Ar liočiausi' arba 'ar palikčiau' — pažodžiui 'ar nustojau'; klausimo forma, atsisakymo retorika"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jį⟩",
+      "rationale": "״juo garbina Elohim ir žmonės״ — hebrajiškame posakyje objektas pridėtas, kad šaknis būtų aiški"
+    }
+  ],
+  "translation": "Ir alyvmedis jiems tarė: Ar liočiausi ⟨את⟩ savo riebumo, kuris manyje, — juo garbina Elohim ir žmonės ⟨jį⟩ — ir nueičiau svyruoti virš medžių?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/9\/9-12.1792476540088.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "הזית",
+      "gloss": "alyvmedis"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "Ar liočiausi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo riebumo"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "savo riebumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manyje"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "garbina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ir žmonės"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ir nueičiau"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "svyruoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "medžių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:09:00.089458540Z",
+  "model": "glm-5.3"
+}

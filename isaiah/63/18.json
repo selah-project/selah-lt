@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "trumpą laiką",
+      "rationale": "למצער gali reikšti 'trumpam' arba 'beveik ne' — JPS 'beveik išvarė', KJV 'tik trumpai paveldėjo'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajų veiksmažodis ירשו neturi išreikšto objekto — lietuvių kalbai reikia daiktavardžio."
+    }
+  ],
+  "translation": "Trumpą laiką tavo šventoji tauta paveldėjo ⟨tai⟩; mūsų priešai sutrypė tavo šventyklą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/17-19.1792481877340.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "trumpą laiką"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "paveldėjo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tavo šventoji"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "mūsų priešai"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "sutrypė"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "tavo šventyklą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:57.340752604Z",
+  "model": "glm-5.3"
+}

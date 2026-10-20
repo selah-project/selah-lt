@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Hebraiškosios sangrąžos galūnės (-הו, -יו) reikalauja lietuviško 'savo'."
+    }
+  ],
+  "translation": "Tas iš Paroho tarnų, kuris bijojo ⟨את⟩ Jahvės žodį, įbėgino ⟨את⟩ savo tarnus ir ⟨את⟩ savo gyvulius į namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/17-20.1792472345191.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "tas, kuris bijojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės žodį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "iš tarnų"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroho"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "įbėgino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tarnus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savo tarnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo gyvulius"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "savo gyvulius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "namus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:05.198678881Z",
+  "model": "glm-5.3"
+}

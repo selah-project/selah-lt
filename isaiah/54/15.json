@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור \/ מי גר",
+      "rationale": "tos pačios šaknies גור kartojimas — sueis\/kas sueis, paronomazija"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי גר אתך עליך יפול",
+      "rationale": "ar „kas sueis prieš tave — kris per tave“ (KJV), ar klausimas su atsakymu „kas gi su tavimi? Per tave jis kris“ (YLT)"
+    }
+  ],
+  "translation": "Štai, kas sueis į būrį — ⟨את⟩ ⟨tai⟩ ne iš manęs; kas gi ⟨את⟩ su tavimi susiburs? Prieš tave jis kris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/13-16.1792481730574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "גור",
+      "gloss": "kas sueis"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "į būrį"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "— ne"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "tai (ne iš manęs)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas gi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "susiburs"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ su tavimi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kris"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:30.575061848Z",
+  "model": "glm-5.3"
+}

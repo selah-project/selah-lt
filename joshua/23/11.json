@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לנפשתיכם",
+      "rationale": "pažodžiui 'jūsų nefesh' — gyvybės jėga; išversta 'save'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Izraelis",
+      "rationale": "tiesioginis paliepimas — saugoti save ir mylėti Jahvę"
+    }
+  ],
+  "translation": "Ir saugokite save labai, kad mylėtumėte ⟨את⟩ Jahvę, savo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4628bf1cd59fd95085db3b7694fe203bc8f2ae5d7dd511dffc7cafa158a86e20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/23\/9-12.1792476234340.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Ir saugokite save"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "save"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "kad mylėtumėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T06:03:54.343955440Z",
+  "model": "glm-5.3"
+}

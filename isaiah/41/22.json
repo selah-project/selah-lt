@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 41:22",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨savo⟩",
+      "rationale": "Lietuvių kalbai reikia sangrąžinį įvardį prie „širdį“ — hebrajų turi tik sufiksuotą daiktavardį."
+    },
+    {
+      "kind": "crux",
+      "subject": "הראשנות מה הנה",
+      "rationale": "KJV skaito kaip klausimą („what they be?“), kai kurie — kaip liūdną konstatciją; pasirinktas klausimas pagal hebrajišką מה."
+    }
+  ],
+  "translation": "Teprieina ir tepasako mums ⟨את⟩ tai, kas įvyks: pirmuosius dalykus — kas jie? Pasakykite, kad įdėtume ⟨savo⟩ širdį ir pažintume jų pabaigą, arba ateinančius dalykus mums išgirstu suteikite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "05d7e4d9ef86b8f57e10b02b354f311efbb619fd4645113a8bf64333d5b40cb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/41\/21-24.1792481541614.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגישו",
+      "gloss": "teprieina"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "tepasako"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, kas įvyks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תקרינה",
+      "gloss": "įvyks"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "pirmuosius dalykus"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "pasakykite"
+    },
+    {
+      "surface": "ונשימה",
+      "gloss": "kad įdėtume"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "širdį"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ir pažintume"
+    },
+    {
+      "surface": "אחריתן",
+      "gloss": "jų pabaigą"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "הבאות",
+      "gloss": "ateinančius dalykus"
+    },
+    {
+      "surface": "השמיענו",
+      "gloss": "mums išgirstu suteikite"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:21.616715734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Psalmist kreipiasi tiesiai į Elohim — 'Elohim, tautos atėjo į tavo paveldą'."
+    },
+    {
+      "kind": "elision",
+      "subject": "באו",
+      "rationale": "Sujungiamasis vav prieš באו (atėjo) lietuvių tekste nereikalingas."
+    }
+  ],
+  "translation": "Mizmoras Asafui. Elohim, tautos atėjo į tavo paveldą, suteršė ⟨את⟩ tavo šventumo rūmus, padarė ⟨את⟩ Jerušalaimą griuvėsiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/79\/1-4.1792488558189.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "į tavo paveldą"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "suteršė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo šventumo rūmus"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "rūmus"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tavo šventumo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimą"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "griuvėsiais"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:18.189718516Z",
+  "model": "glm-5.3"
+}

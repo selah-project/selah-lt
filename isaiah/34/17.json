@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 34:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajų והוא išreikštas pabrėžtinis įvardis — lietuvių kalboje reikia joksnio"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨žemę⟩",
+      "rationale": "חלקתה paskirstė — objektas (Edomo žemė) nesakomas, pridėta konteksto žodis aiškumui"
+    },
+    {
+      "kind": "substitution",
+      "subject": "burtų akmenį",
+      "rationale": "גורל pažodžiui 'akmenukas' — burtams naudoti akmenys; lietuviškai 'burtų akmuo' išlaiko paveikslą"
+    }
+  ],
+  "translation": "Ir ⟨jis⟩ metė joms burtų akmenį, ir jo ranka paskirstė jiems ⟨žemę⟩ matavimo virve; iki amžių jos paveldės, kartos iš kartos į kartą jos joje gyvens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fffb6cfc2733b80b251cdcd4143e0078beace898975459aa4c7fd2687ea816a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/34\/17-17.1792481317978.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ir ⟨jis⟩"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "metė"
+    },
+    {
+      "surface": "להן",
+      "gloss": "joms"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "burtų akmenį"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ir jo ranka"
+    },
+    {
+      "surface": "חלקתה",
+      "gloss": "paskirstė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "joms"
+    },
+    {
+      "surface": "בקו",
+      "gloss": "matavimo virve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžių"
+    },
+    {
+      "surface": "יירשוה",
+      "gloss": "jos paveldės"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kartos"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "iš kartos į kartą"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "jos gyvens"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:37.979180305Z",
+  "model": "glm-5.3"
+}

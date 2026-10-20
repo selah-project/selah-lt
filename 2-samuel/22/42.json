@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישעו",
+      "rationale": "Veiksmažodis 'ša'a' — žvalgytis, dairytis pagalbos; ne 'šaukti'"
+    },
+    {
+      "kind": "elision",
+      "subject": "jis",
+      "rationale": "Lietuvių kalbai reikalingas veiksnys 'jis' (Jahvė), hebrajų jį praleidžia"
+    }
+  ],
+  "translation": "Jie dairosi pagalbos, bet nėra gelbėtojo; ⟨iki⟩ Jahvės — bet jis jų neatsakė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/22\/41-44.1792478665247.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "jie dairosi pagalbos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bet nėra"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "gelbėtojo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "jis jų neatsakė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:25.248709772Z",
+  "model": "glm-5.3"
+}

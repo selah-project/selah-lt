@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 20:33",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo laiko pagalbinio veiksmažodžio; lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aukštumos",
+      "rationale": "הבמות — aukštumos, kulto vietos ant kalvų, ne ' šventyklos'"
+    },
+    {
+      "kind": "crux",
+      "subject": "savo širdies",
+      "rationale": "skaitoma ir 'savo širdį' — חכינו גם את־לבבם (2 Met 19, 3) 'neparuošė' vs 'paruošė'; čia neigiamos formos"
+    }
+  ],
+  "translation": "Tik aukštumos nebuvo pašalintos, ir dar tauta nebuvo paruošusi savo širdies savo tėvų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e3b1445139b793024d74f29b6347eba246b0d402353dddaf6908a5c4d32e00b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/20\/33-36.1792493645435.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "aukštumos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "buvo pašalintos"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ir dar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "paruošusi"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "savo širdies"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "savo tėvų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:54:05.436492960Z",
+  "model": "glm-5.3"
+}

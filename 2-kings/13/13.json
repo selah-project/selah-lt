@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 13:13",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių reikalauja at-refleksyvo, hebrajų turi tik 'tėvams jo' kamiene"
+    },
+    {
+      "kind": "idiom",
+      "subject": "užmigo su tėvais",
+      "rationale": "Hebrajų 'gulėjo su savo tėvais' — mirties eufemizmas, verstas kaip stovinti lietuviškoji Biblijos išraiška"
+    }
+  ],
+  "translation": "Ir Joašas užmigo su ⟨savo⟩ tėvais, ir Jerovamas atsisėdo ant jo sosto; ir Joašas palaidotas Šomrone su Jisraelio karaliais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dd23b39b3bc22ac995aef71d255cb3e351f038262cd6c8eadb88d8522cc9f3b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/13\/13-16.1792480149544.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "užmigo"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "tėvais"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Jerovamas"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atisėdo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jo sosto"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "palaidotas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašas"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomrone"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karaliais"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:09.545366894Z",
+  "model": "glm-5.3"
+}

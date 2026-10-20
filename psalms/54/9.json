@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajiškame veiksmažodyje nėra veikėjo; pridėta įvardis, nes gretutiniuose posmuose veikėjas yra Jahvė"
+    },
+    {
+      "kind": "elision",
+      "subject": "ראתה עיני",
+      "rationale": "Senosios versijos prideda „priešų galą“ — hebrajiškas tekstas sako tik „mano akis matė“"
+    }
+  ],
+  "translation": "Nes iš visos negandos ⟨jis⟩ ištraukė mane, ir mano akis įžiūrėjo mano priešus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "826d8d16dd036ec13b32673ff7576212e0192b305b959f59d0736afb05f11d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/54\/9-9.1792488070904.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visos"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "negandos"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ištraukė mane"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ir mano priešus"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "įžiūrėjo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mano akis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:10.905414530Z",
+  "model": "glm-5.3"
+}

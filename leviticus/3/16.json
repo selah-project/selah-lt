@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hei be veiksmažodžio sakinys — 'visi taukai yra Jahvės'; hebrajų daiktavardis be veiksmažodžio, pridėtas brūkšnys"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ramų kvapą",
+      "rationale": "ריח ניחוח pažodžiui 'poilsio kvapas' — ramybės kvapas, įprastas aukos posakis"
+    }
+  ],
+  "translation": "Ir kunigas degins juos ant aukuro — ugnies aukos maistą, ramų kvapą; visi taukai — Jahvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/3\/13-16.1792473130989.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "ir degins juos"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "maistą"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies aukos"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kvapą"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ramų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taukai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:11.005959526Z",
+  "model": "glm-5.3"
+}

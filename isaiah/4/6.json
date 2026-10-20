@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "„kaitra“ — žodis reiškia ir sausrą, ir dykumą; šilumos skaitymas čia parinktas pagal kontekstą"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרם",
+      "rationale": "„liūtis“ vs „potvynis \/ vandens srautas“ — žodis pažymi staigų vandens antplūdį"
+    }
+  ],
+  "translation": "Ir palapinė ⟨bus⟩ pavėsiui dieną nuo kaitros, ir prieglaudai, ir slėptuvei nuo liūties ir nuo lietaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "29677928f6ae59f13b74c6051cb661e3973163cb1915bd9dd0f9c7f9eb925447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/4\/5-6.1792480623853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "Ir palapinė"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨bus⟩"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "pavėsiui"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nuo kaitros"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ir prieglaudai"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ir slėptuvei"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "nuo liūties"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ir nuo lietaus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:03.854644147Z",
+  "model": "glm-5.3"
+}

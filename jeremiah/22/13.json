@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 22:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק verčiamas skambesiu 'cedek', ne vienu žodžiu 'teisumas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kuris",
+      "rationale": "hebrajiškas dalykinis statymas reikalauja santykinio įvardžio lietuviškai"
+    }
+  ],
+  "translation": "Vargas tam, kuris stato savo namą be cedeko ir savo aukštutinius kambarius be teismo, savo artimą verčia dirbti veltui ir už jo darbą jam nemoka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/13-16.1792482633149.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vargas"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kuris stato"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namą"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "be"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeko"
+    },
+    {
+      "surface": "ועליותיו",
+      "gloss": "ir savo aukštutinius kambarius"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "be"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "savo artimą"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "verčia dirbti"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "veltui"
+    },
+    {
+      "surface": "ופעלו",
+      "gloss": "ir už jo darbą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "moka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:33.150513454Z",
+  "model": "glm-5.3"
+}

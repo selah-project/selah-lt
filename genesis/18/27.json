@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 18:27",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebraiškas tekstas neturi veiksmažodžio — 'aš — dulkės ir pelenai'; lietuvių kalbai reikėjo jungties."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/אפר",
+      "rationale": "Dulkės ir pelenai — beveik identiški garsai, tarsi vienas žodis per kitą; lietuvių kalboje garsų žaismas dingsta."
+    }
+  ],
+  "translation": "Ir Avrahamas atsakė ir tarė: Štai dabar aš išdrįsau kalbėti su Adonai, nors aš ⟨esu⟩ dulkės ir pelenai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a649f003ff1173488e283ad7b205172bfca930830a85808c11cc1bdb5f850ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/18\/25-28.1792471284926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ir atsakė"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "הואלתי",
+      "gloss": "išdrįsau"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kalbėti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nors aš"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkės"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ir pelenai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:24.931776249Z",
+  "model": "glm-5.3"
+}

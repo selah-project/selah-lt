@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 1:15",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia kopulos, kurios hebrajų tekstas neturi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vienas ratas \/ keturiems veidams",
+      "rationale": "Eilutė skaičiuoja ir dimensijuoja vizijos dalis"
+    }
+  ],
+  "translation": "Ir aš regėjau gyvąsias būtybes, ir štai vienas ratas ⟨buvo⟩ žemėje šalia gyvųjų būtybių, jų keturiems veidams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8c9e0f160dee78bde790bcb57615d5c22af6796f99575ccc28fe8336271aff2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/1\/13-16.1792483708418.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ir aš regėjau"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "gyvąsias būtybes"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ratas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "šalia"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "gyvųjų būtybių"
+    },
+    {
+      "surface": "לארבעת",
+      "gloss": "keturiems"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo veidams"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:28.420919371Z",
+  "model": "glm-5.3"
+}

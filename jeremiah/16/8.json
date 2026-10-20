@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su jais",
+      "rationale": "אותם čia DOM žymuo prie infinityvo; šauksmenys 'su jais' pridėti lietuviškai be ⟨⟩ iš konteksto — koreguojama: ⟨su jais⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "Suffiksuotas aleph-tav žymi infinityvų grandinę 'valgyti ir gerti', todėl išversta kaip ⟨את⟩."
+    }
+  ],
+  "translation": "Ir į puotos namą neik sėstis su jais — ⟨את⟩ valgyti ir gerti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4014602ab47bbef07218cca81d9b915c45d9198724a6b0e90e5f53b1c539a8ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/16\/5-8.1792482610527.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ir į namą"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "puotos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "eik"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sėstis"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "valgyti ir gerti"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ir gerti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:10.531057204Z",
+  "model": "glm-5.3"
+}

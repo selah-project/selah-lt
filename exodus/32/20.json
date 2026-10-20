@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "hebrajų kalboje sakinys 'kol smulkus' be veiksnio — pridėta 'jis virto'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "paviršiaus",
+      "rationale": "פני pažodžiui 'veidas' — vandens veidas, t. y. paviršius"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישק",
+      "rationale": "'pagirdė' — ar Mošė privertė visą tautą gerti vandenį su aukso dulkėmis, ar tai ritualinio tarštos pašalinimo veiksmas"
+    }
+  ],
+  "translation": "Ir paėmė ⟨את⟩ jautuką, kurį jie buvo padarę, ir sudegino ugnyje, ir sumalė, kol ⟨jis⟩ virto smulkiais milteliais, ir išbarstė ant vandens paviršiaus, ir pagirdė ⟨את⟩ Jisraelio sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/17-20.1792472977388.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jautuką"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "jautuką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jie buvo padarę"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ir sudegino"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "ir sumalė"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kol"
+    },
+    {
+      "surface": "דק",
+      "gloss": "virto smulkiais milteliais"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "ir išbarstė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paviršiaus"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ir pagirdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:37.393700915Z",
+  "model": "glm-5.3"
+}

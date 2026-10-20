@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנאי \/ ויבשו",
+      "rationale": "Neapykanta ir gėda viename sakinyje: nekenčiantys pamato ženklą ir nukinta — hebrajiškoji paralelė lietuviškai išlieka tik iš dalies."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אות",
+      "gloss": "ženklas — žodis reiškia ir signalą, ir stebuklingą ženklą; kontekstas palieka atvira, kokiu ženklu."
+    }
+  ],
+  "translation": "Padaryk man ženklą į gera, ir tie, kurie manęs nekenčia, jį pamatys ir bus sugėdinti, nes Tu, Jahve, man padėjai ir mane paguodei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca3c05d2dd211a5c43c39796f2cc157968030645956ff2e9083f121a2bcb31a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/86\/17-17.1792488566906.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Padaryk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ženklą"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "į gera"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "pamatys"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "tie, kurie manęs nekenčia"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "bus sugėdinti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "man padėjai"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "mane paguodei"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:26.906589024Z",
+  "model": "glm-5.3"
+}

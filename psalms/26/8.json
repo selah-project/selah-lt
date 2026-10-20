@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kur stovi⟩",
+      "rationale": "hebrajiškai construct grandinė מקום משכן כבודך be veiksmažodžio; lietuviškai pridėtas jungtukas ir veiksmažodis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעון \/ מקום משכן",
+      "rationale": "dviejų buveinės žodžių parallė — 'buveinė' ir 'miškano vieta' — pakartotas tas pats vaizdas"
+    }
+  ],
+  "translation": "Jahvė, mylėjau buveinę tavo namų ir vietą, ⟨kur stovi⟩ miškanas tavo šlovės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/26\/5-8.1792487733662.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mylėjau"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "buveinę"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tavo namų"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ir vietą"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškanas"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tavo šlovės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:33.663535312Z",
+  "model": "glm-5.3"
+}

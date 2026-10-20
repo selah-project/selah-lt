@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פני \/ הדר פני",
+      "rationale": "pažodžiui „kelti veidą“ ir „didinti veidą“ — hebrajiškas veido iškelimo idiomatas, reiškiantis asmenų preferenciją."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק pagal D2 pateikiamas skambesiu, ne vien „teisumu“."
+    }
+  ],
+  "translation": "Nedarykite neteisybės teisme; nekėlink vargšo veido ir nepuošk didžio veido — cedeku teisk savo tautietį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/13-16.1792473624552.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "עול",
+      "gloss": "neteisybės"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "teisme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nekėlink"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vargšo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "nepuošk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didžio"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cedeku"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "teisk"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "savo tautietį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:24.590400983Z",
+  "model": "glm-5.3"
+}

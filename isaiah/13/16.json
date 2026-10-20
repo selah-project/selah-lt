@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išniekintos",
+      "rationale": "שגל – pažodžiui 'bus gulimos', žiaurus pačiu žodžiu; lietuvių kalboje eufemizuota"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kūdikiai",
+      "rationale": "עוללים – žindomiausias amžius, pažodžiui 'žindukai'"
+    }
+  ],
+  "translation": "Jų kūdikiai bus sutriuškinti jų akyse, jų namai bus apiplėšti, ir jų žmonos bus išniekintos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/13\/13-16.1792480769952.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "jų kūdikiai"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "bus sutriuškinti"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "jų akyse"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "bus apiplėšti"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "jų namai"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ir jų žmonos"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "bus išniekintos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:29.956722558Z",
+  "model": "glm-5.3"
+}

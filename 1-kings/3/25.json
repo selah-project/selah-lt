@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "perskirkite",
+      "rationale": "גזרו iš esmės 'pakirskite\/nukirpkite'; čia teismo sprendimo veiksmas — 'perskirti'"
+    }
+  ],
+  "translation": "Ir karalius tarė: Perskirkite ⟨את⟩ gyvąjį kūdikį į dvi dalis ir duokite pusę vienai ir ⟨את⟩ pusę kitai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/3\/25-28.1792478891566.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "perskirkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyvąjį kūdikį"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "kūdikį"
+    },
+    {
+      "surface": "החי",
+      "gloss": "gyvąjį"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "į dvi dalis"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ir duokite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusę"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "pusę"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "vienai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "pusę"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "pusę"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "kitai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:11.568043975Z",
+  "model": "glm-5.3"
+}

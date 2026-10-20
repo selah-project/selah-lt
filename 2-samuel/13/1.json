@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 13:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajiškas ויהי čia naratyvo rištuvas, o ne kopula; lietuvių kalbai reikia ⟨buvo⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pamilo",
+      "rationale": "אהב čia — meilė su seksualiniu atspalviu, ne gryna 'mylėti'"
+    }
+  ],
+  "translation": "Ir atsitiko po to, kad Avšalomui, Davido sūnui, ⟨buvo⟩ sesuo graži, vardu Tamar, ir ją pamilo Amnonas, Davido sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/1-4.1792478269411.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "Avšalomui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnui"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sesuo"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "graži"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "ir ją pamilo"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:49.413536456Z",
+  "model": "glm-5.3"
+}

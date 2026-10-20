@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Jahvė toliau kreipiasi į Mošę imperatyvais: „pakelk, ištiesk, praskirk“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "praskirk",
+      "rationale": "„בקע“ pažodžiui „perpjauk, suskeldink“ — neigiamas vaizdas, prarandamas naudojant „praskirk“."
+    }
+  ],
+  "translation": "O tu pakelk ⟨את⟩ savo lazdą ir ištiesk ⟨את⟩ savo ranką virš jūros ir praskirk ją, ir Jisraelio sūnys žengs jūros vidun sausuma.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/13-16.1792472463296.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "O tu"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "pakelk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo lazdą"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "savo lazdą"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ir ištiesk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ir praskirk ją"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ir žengs"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnys"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sausuma"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:03.300744475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 44:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aplankysiu",
+      "rationale": "פקד viename žodyje reiškia ir 'aplankyti', ir 'bausti' — lietuvių kalboje reikia pasirinkti vieną reikšmę"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקדתי...פקדתי",
+      "rationale": "to paties veiksmažodžio kartojimas — Micraimas bus aplankytas kaip Jerušalaimas, tas pats žodis, ta pati lemtis"
+    }
+  ],
+  "translation": "Ir aš aplankysiu gyvenančius Micraimo žemėje, kaip aplankiau Jerušalaimą — kardu, badu ir maru.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "147cf330e71034b3888ff148594b91d005c698a9491ca14f55b88b608207cbae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/44\/13-16.1792483433146.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ir aš aplankysiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "היושבים",
+      "gloss": "gyvenančius"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "aplankiau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "badu"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ir maru"
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:53.147333663Z",
+  "model": "glm-5.3"
+}

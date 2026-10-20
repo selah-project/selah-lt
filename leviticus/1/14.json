@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jaunikliai",
+      "rationale": "בני היונה pažodžiui 'balandžių sūnūs' — lietuvių skambesys lieka 'jaunikliai', bet hebrajiškas paveikslas 'sūnūs'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vargingojo kelias",
+      "rationale": "paukščių auka — pigesnė alternatyva stambiajam gyvuliui, tekste nurodomos dvi leidžiamos rūšys"
+    }
+  ],
+  "translation": "Ir jei jo atnaša Jahvei — deginamoji auka iš paukščių, tai jis prineš ⟨את⟩ savo atnašą iš turtylių arba iš jauniklių balandžių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/1\/13-16.1792473141715.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "paukščių"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jo atnaša"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "prineš"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "turtylių"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "בני",
+      "gloss": "jaunikliai"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "balandžių"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo atnašą"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "savo atnašą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:21.718174302Z",
+  "model": "glm-5.3"
+}

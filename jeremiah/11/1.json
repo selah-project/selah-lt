@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi kopulos čia; lietuvių reikalauja"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-rationale": "אל su linksniu išnyksta lietuviškoje galūnėje"
+    }
+  ],
+  "translation": "Žodis, kuris buvo Jermijahui iš ⟨את⟩ Jahvės, tariant:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/1-4.1792482356019.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Žodis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jermijahui"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tariant"
+    }
+  ],
+  "timestamp": "2026-10-20T07:45:56.020506051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והעלה",
+      "rationale": "hiphil veikslas be aiškaus subjekto: „kas“ (kunigas, kas pakelia lempas) vs. imperatyvas „pakelsk“; KJV skaito „jie“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על עבר פניה",
+      "rationale": "pažodžiui „ant-kito šono jos veido“ — idiomatinis „priešais jos veidą“."
+    }
+  ],
+  "translation": "Ir padarysi ⟨את⟩ jos lempas — septynias, ir ⟨kas⟩ pakels ⟨את⟩ jos lempas, ir jos apšvies priešais jos veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e7cf29174a2fe2633c726b898eee82da6e2c35aacfcc3cf688cce3bf866cfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/37-40.1792472740353.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos lempas"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jos lempas"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ir pakels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos lempas"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jos lempas"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ir apšvies"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "jos veidą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:40.363988966Z",
+  "model": "glm-5.3"
+}

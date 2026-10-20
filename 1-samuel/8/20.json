@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "veiksnys įdėtas aiškumo — hebrajiškai tik 'ir žengs'"
+    }
+  ],
+  "translation": "ir būsime ir mes kaip visos tautos: ir mūsų karalius mus teis, ir jis žengs priešais mus, ir kausis ⟨את⟩ mūsų mūšius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/8\/17-20.1792477020108.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "ir būsime"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaip visos"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "ir teis mus"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mūsų karalius"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir žengs"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "priešais mus"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ir kausis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsų mūšius"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "mūsų mūšius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:00.109468471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ji⟩ ⟨yra⟩ \/ ⟨bus⟩",
+      "rationale": "Lietuvių kalbai reikalingi įvardžiai ir būsimasis laikas, kurių hebrajų kalba neturi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienu skaičiavimas",
+      "rationale": "Eilutė nustato trijų dienų ribą aukos mėsai valgyti."
+    }
+  ],
+  "translation": "Jūsų aukos dieną ⟨ji⟩ ⟨yra⟩ valgoma, ir rytoj; o kas lieka iki trečios dienos, ugnyje sudeginta ⟨bus⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/5-8.1792473523190.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "jūsų aukos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgoma"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ir rytoj"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "o kas lieka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trečios"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sudeginta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:43.193467937Z",
+  "model": "glm-5.3"
+}

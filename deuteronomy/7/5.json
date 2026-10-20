@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 7:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašerų stulpai",
+      "rationale": "אשרה — Ašeros kulto stulpas, ne 'medis' ar 'guolynas'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "įsakymas tiesiogiai kreipiamas į tautą"
+    }
+  ],
+  "translation": "Bet taip darykite jiems: jų aukurus griaukite, jų stulpus daužykite, jų ašerų stulpus nukirskite, o jų drožinius sudeginkite ugnyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/7\/5-8.1792474991491.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "מזבחתיהם",
+      "gloss": "jų aukurus"
+    },
+    {
+      "surface": "תתצו",
+      "gloss": "griaukite"
+    },
+    {
+      "surface": "ומצבתם",
+      "gloss": "jų stulpus"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "daužykite"
+    },
+    {
+      "surface": "ואשירהם",
+      "gloss": "jų ašerų stulpus"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "nukirskite"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "jų drožinius"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "sudeginkite"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:11.493458691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על",
+      "rationale": "'dėl\/už' — hebrajiškas על čia reiškia 'dėl, vardan', ne fizinį 'ant'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "tiesioginis kreipimasis į Jisraelį per antrąjį asmenį"
+    }
+  ],
+  "translation": "Ir valgysi, ir pasisotinsi, ir laiminsi ⟨את⟩ Jahvę, savo Elohim, dėl gerosios žemės, kurią jis tau davė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/9-12.1792475010586.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ir valgysi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ir pasisotinsi"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ir laiminsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "gerosios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:30.588427043Z",
+  "model": "glm-5.3"
+}

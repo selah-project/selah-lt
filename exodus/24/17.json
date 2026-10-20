@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“; lietuvių kalbai reikia copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šlovė",
+      "rationale": "כבוד pažodžiui reiškia „svoris“; perkeltine prasme — spindesys, šlovė"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכלת",
+      "rationale": "Pažodžiui „valganti ugnis“ — ugnis, kuri ryja, dažnas hebrajų įvaizdis"
+    }
+  ],
+  "translation": "Ir Jahvės šlovės regėjimas buvo tarsi rijoši ugnis ant kalno viršūnės Jisraelio sūnų akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1a8d08e05752c4adec1953d80a772a10852a5739bb1184d2c9cc1f8f1ddd7903",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/24\/17-18.1792472714242.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "regėjimas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "tarsi ugnis"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "rijoši"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ant viršūnės"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:14.243365649Z",
+  "model": "glm-5.3"
+}

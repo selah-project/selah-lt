@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio sakinio gale — 'mano uola ir mano tvirtovė tu' be kopulvos"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצודתי",
+      "rationale": "מצודה gali reikšti ir 'tinklas', ir 'tvirtovė' — čia 'tvirtovė', bet žodis dviprasmis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור\/סלעי",
+      "rationale": "Dvi skirtingos hebrajų uolos šaknys toje pačioje eilutėje — cinklas, kuris lietuvių kalboje pranyksta"
+    }
+  ],
+  "translation": "Būk man uola, buveinė, kur ateiti visados; tu įsakei mane išgelbėti, nes mano uola ir mano tvirtovė ⟨esi⟩ tu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/71\/1-4.1792488328750.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Būk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "uola"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "buveinė"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "visados"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "tu įsakei"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "išgelbėti mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mano uola"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ir mano tvirtovė"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:28.751108815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi copula šioje vietoje; lietuvių reikalauja."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Pr 10 — tautų sąrašas, vardų ir gimimo linijų skaičiavimas."
+    }
+  ],
+  "translation": "Ir šitie ⟨yra⟩ gimimo sąrašai Noacho sūnų: Šemas, Chamas ir Jafetas; ir jiems gimė sūnūs po tvano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "901f7e2f4374606b78db2c754cdb63c26eca00ca1f1ef9d7b86472bda4c09dd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/10\/1-4.1792471142377.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitie"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "gimimo sąrašai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šemas"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamas"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ir Jafetas"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "gimė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tvano"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:02.379109318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 33:17",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje; lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתכן",
+      "rationale": "Šaknis reiškia „sverti, išmatuoti“: „nesulygintas \/ neišmatuotas \/ nesvarstytas“ — vertėjai skirstosi tarp šių prasmių."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתכן...יתכן",
+      "rationale": "To paties veiksmažodžio kartojimas chiastiškai — tautos kaltė grąžinama jų pačių žodžiu."
+    }
+  ],
+  "translation": "Ir sako tavo tautos sūnūs: Adonai kelias ⟨yra⟩ nesulygintas; o jų kelias — nesulygintas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cc98f7b43999e4502979c3d2a816e8fc0e86dcf1e4e3453cae846493b8f47d51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/33\/17-20.1792484670622.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ir sako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavo tautos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "yra sulygintas"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kelias"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "o jie"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jų kelias"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "yra sulygintas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:24:30.623080900Z",
+  "model": "glm-5.3"
+}

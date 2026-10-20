@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tebūnie",
+      "rationale": "lietuvių reikalauja būtojo kitaip nei hebrajiškasis jusktyvas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני apie Dievą rašomas kaip vardas Adonai, ne „Viešpats“"
+    }
+  ],
+  "translation": "Ir dabar tebūnie didinama, meldžiu, Adonai galia, kaip tu kalbėjai, sakydamas:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cce4de3c1b32089776949657e78a9c37a62a7ae462fef08a74f322c9262cfee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/14\/17-20.1792474182298.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "tebūnie didinama"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "galia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "tu kalbėjai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:29:42.299703221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalboje veiksmažodis ויישר yra pilnas predikatas 'ir buvo tiesus\/teisus', kopula nėra atskira"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ישר בעיני",
+      "rationale": "Pažodžiui 'tiesus akyse' — hebrajiškas 'patiko' idiomas, išlaikytas pažodžiui"
+    }
+  ],
+  "translation": "Ir tas dalykas buvo teisus Avšalomo akyse ir visų Jisraelio vyresniųjų akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/1-4.1792478376941.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ir buvo teisus"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tas dalykas"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avšalomo"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ir akyse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresniųjų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:36.944292115Z",
+  "model": "glm-5.3"
+}

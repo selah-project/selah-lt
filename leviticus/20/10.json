@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינאף \/ הנאף \/ הנאפת",
+      "rationale": "Tos pačios šaknies pasikartojimas: veiksmažodis ir du dalyviai, lietuviškai išlaikyta šaknis 'svetim-'."
+    }
+  ],
+  "translation": "Ir vyras, kuris svetimauja su ⟨את⟩ vyro žmona, kuris svetimauja su ⟨את⟩ savo artimo žmona, — mirtimi bus užmušti svetimautojas ir svetimautoja.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/9-12.1792473585719.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ir vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "svetimauja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyro žmona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "svetimauja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo artimo žmona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus užmušti"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "svetimautojas"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ir svetimautoja"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:45.721145684Z",
+  "model": "glm-5.3"
+}

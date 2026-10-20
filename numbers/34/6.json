@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vakarinė",
+      "rationale": "ים čia reiškia vakarus (jūros pusė), ne pačią jūrą kaip ribos objektą."
+    },
+    {
+      "kind": "measurement",
+      "subject": "riba",
+      "rationale": "Vakarinės sienos apibrėžimas per Didžiąją jūrą (Viduržemio jūrą)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבול \/ ים",
+      "rationale": "Žodžių גבול ים pakartojimas chiastiškai apjuosia eilutę; lietuvių kalboje kartočių forma šiek tiek keičiama."
+    }
+  ],
+  "translation": "O vakarinė riba — jums ⟨bus⟩ Didžioji jūra: ⟨ji⟩ ir jos krantas bus jums vakarinė riba.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4065e5f01dfa1be1cb6ba4283ddffd2227a6ebe77872d4f10cef8ebf42e343f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/34\/5-8.1792474767317.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "o riba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "vakarinė"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir ⟨bus⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūra"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Didžioji"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "ir riba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ji⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "riba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "vakarinė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:27.318536011Z",
+  "model": "glm-5.3"
+}

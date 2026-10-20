@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשל",
+      "rationale": "tamariškas vs medis\/giraitė — KJV 'tree', Wycliffe 'wode'; tamariškas yra pažodinis."
+    },
+    {
+      "kind": "addition",
+      "subject": "po",
+      "rationale": "תחת su ויקברו reiškia 'palaidojo po', lietuvių reikia prielinksnio."
+    }
+  ],
+  "translation": "Ir paėmė ⟨את⟩ jų kaulus, ir palaidojo po tamarišku Jabėše, ir pasninkavo septynias dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/31\/13-13.1792477881210.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų kaulus"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "jų kaulus"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ir palaidojo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarišku"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Jabėše"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ir pasninkavo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:31:21.210802728Z",
+  "model": "glm-5.3"
+}

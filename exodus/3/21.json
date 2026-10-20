@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malonė",
+      "rationale": "חן reiškia 'malonę, gracingumą' — tiek subjektyviai, tiek kaip grožį akyse"
+    },
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "hebrajų veiksmažodis ונתתי pats neša 'aš duosiu' asmenį"
+    }
+  ],
+  "translation": "Ir aš suteiksiu ⟨את⟩ malonę šiai tautai Micraimiečių akyse, ir atsitiks, kai jūs eisite, — neisite tuščiomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/3\/21-22.1792472190889.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ir aš suteiksiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malonę"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimiečių"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir atsitiks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "jūs eisite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "isite"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tuščiomis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:30.891695126Z",
+  "model": "glm-5.3"
+}

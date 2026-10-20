@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיח לו",
+      "rationale": "„Kvėpuoja\/pučia į jį“ — KJV: „nuo to, kuris į jį pučia“ (priešas); ASV\/JPS: „kurio jis atsidūsuoja“ (pats vargingasis)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jį⟩",
+      "rationale": "Hebrajų kalba objektų žodyje nenurodo; pridėta, nes lietuvių kalba reikalauja."
+    }
+  ],
+  "translation": "„Dėl prievartos vargingųjų, dėl skurdžiųjų aimanavimo — dabar aš atsikelsiu“, sako Jahvė, „įstalpinsiu ⟨jį⟩ išgelbėjime, kurio jis alsuoja.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/12\/5-8.1792487545848.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "dėl prievartos"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "vargingųjų"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "dėl aimanavimo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "skurdžiųjų"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "aš atsikelsiu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "įstalpinsiu"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "išgelbėjime"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "alsuoja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kurio jis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:12:25.850253729Z",
+  "model": "glm-5.3"
+}

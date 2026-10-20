@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/תטפנה",
+      "rationale": "nofer (medaus korius) ir tatafna (laša) — ta pati šaknis נטף, garsų žaismas prarastas lietuviškai"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרה",
+      "rationale": "'svetima (moteris)' vs 'išsukta, atkalta' — šaknis זור reiškia nukrypti; KJV 'strange woman', kitur 'adulteress'"
+    }
+  ],
+  "translation": "Nes medaus lašais laša svetimos moters lūpos, ir jos gomurys lygesnis nei aliejus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/5\/1-4.1792489477434.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "medaus lašais"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "laša"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lūpos"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "svetimos moters"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "ir lygesnis"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "nei aliejus"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "jos gomurys"
+    }
+  ],
+  "timestamp": "2026-10-20T09:44:37.435549612Z",
+  "model": "glm-5.3"
+}

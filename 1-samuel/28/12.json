@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ir moteris pamatė Šmuelį",
+      "rationale": "ar moteris iškart atpažino Šmuelį, ar suvokė, kad prašytojas yra Šaulius; verčiama iš pirmojo skaitymo, be išankstinio aiškinimo"
+    }
+  ],
+  "translation": "Ir moteris pamatė ⟨את⟩ Šmuelį ir sukliko garsiu balsu; ir moteris tarė Šauliui, sakydama: Kodėl mane apgavai — o tu Šaulius?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/28\/9-12.1792477727277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šmuelį"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelį"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "ir sukliko"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "garsiu balsu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "garsiu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "mane apgavai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:47.280508418Z",
+  "model": "glm-5.3"
+}

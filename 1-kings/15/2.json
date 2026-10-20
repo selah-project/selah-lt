@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "įdėtas įvardis, nurodantis Avijamą kaip valdovą"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje"
+    }
+  ],
+  "translation": "Trys metus jis karaliavo Jerušalaime, ir jo motinos vardas ⟨buvo⟩ Maacha, Avišalomo duktė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/15\/1-4.1792479379639.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliavo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir vardas"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jo motinos"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "duktė"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avišalomo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:19.640448191Z",
+  "model": "glm-5.3"
+}

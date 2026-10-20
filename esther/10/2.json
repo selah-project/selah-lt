@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 10:2",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nėra⟩",
+      "rationale": "Hebrajų הלוא retorinis klausimas apima neigimą; lietuvių tvarsniui aiškiai reikia neiginio."
+    },
+    {
+      "kind": "crux",
+      "subject": "išdėstymas",
+      "rationale": "פרשת: „išdėstymas \/ išaiškinimas“ prieš „pilna apyskaita“ (JPS) arba „paskelbimas“."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss-rationale": "לietuviškame „knygoje“ prielinksnis susilieja su linksniu, atskiras žodis nebereikalingas."
+    }
+  ],
+  "translation": "Ir visas jo galybės ir stiprybės darbas, ir Mordechajaus didybės išdėstymas, kurį karalius jį padarė didį — argi jie ⟨nėra⟩ parašyti dienų žodžių knygoje, Midijos ir Perasos karalių metraščiuose?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/10\/1-3.1792491508107.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "jo galybės"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "ir jo stiprybės"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "ir išdėstymas"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "didybės"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechajaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "padarė didį"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "parašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Midijos"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ir Perasos"
+    }
+  ],
+  "timestamp": "2026-10-20T10:18:28.107770967Z",
+  "model": "glm-5.3"
+}

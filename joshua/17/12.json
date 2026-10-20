@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gyventojų⟩",
+      "rationale": "pridėta, nes hebrajiškai sakoma 'išstumti miestus', ne jų gyventojus"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'pasiryžo\/nutarė' vs 'norėjo' — veiksmažodis reiškia savanorišką apsisprendimą"
+    }
+  ],
+  "translation": "Bet Menašės vaikai negalėjo išstumti ⟨את⟩ šių miestų ⟨gyventojų⟩, ir kanaanietis pasiryžo gyventi šioje žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/17\/9-12.1792476123853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "galėjo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikai"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašės"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "išstumti-paveldėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiuos miestus"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miestus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ir pasiryžo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanietis"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gyventi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šioje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:03.859724839Z",
+  "model": "glm-5.3"
+}

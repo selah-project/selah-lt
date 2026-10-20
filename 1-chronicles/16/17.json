@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaip",
+      "rationale": "Hebrew construct pairs without a comparative word; Lithuanian needs 'kaip'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "לחק",
+      "rationale": "covenant fixed as a statute, an appointed enactment"
+    }
+  ],
+  "translation": "Ir įstatė ją Jaakovui kaip įstatą, Jisraeliui kaip amžiną sandorą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/16\/17-20.1792492939811.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ir įstatė ją"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovui"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "kaip įstatą"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžiną"
+    }
+  ],
+  "timestamp": "2026-10-20T10:42:19.811921421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nešei jas",
+      "rationale": "נשא — „nešti“; hebrajiškas paveikslas „nešti savo kaltę\/pasekmes“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את … את",
+      "rationale": "Du vienodi žodžiai eilutėje: pirmasis aleph-tav (veiksnio žymeklis), trečiasis — įvardis „tu“; tapatumas prarastas lietuviškai."
+    }
+  ],
+  "translation": "⟨את⟩ savo sumanymus ir ⟨את⟩ savo bjaurystes — tu jas nešei, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/57-60.1792484152327.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sumanymus"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "savo sumanymus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo bjaurystes"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "savo bjaurystes"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "nešei jas"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:15:52.328547725Z",
+  "model": "glm-5.3"
+}

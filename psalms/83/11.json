@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דמן \/ אדמה",
+      "rationale": "paronomazija 'mėšlas\/žemė' — garsinis sąskambis lietuviškai prarandamas"
+    },
+    {
+      "kind": "crux",
+      "subject": "En-Doras",
+      "rationale": "masoretų tekstas 'בעין דור' siejamas su En-Doru (1 Sam 28), nors Siseros mūšis vyko prie Megido — vieta ginčijama"
+    }
+  ],
+  "translation": "Jie buvo sunaikinti En-Dore, tapo mėšlu žemei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/83\/9-12.1792488510206.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "buvo sunaikinti"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dore"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tapo"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "mėšlu"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "žemei"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:30.207008403Z",
+  "model": "glm-5.3"
+}

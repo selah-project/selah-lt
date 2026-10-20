@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taip",
+      "rationale": "Hebrajiškas be-suffixas „הכמות“ savaime reiškia „kaip mirtis“, palyginimo jungtukas pridėtas lietuviškai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבל \/ אבנר",
+      "rationale": "Raudos retorinis klausimas — žodis נבל (kvailys, bedievis) nusako gėdingą mirtį, kurios Avneras nusipelnęs neturėjo"
+    },
+    {
+      "kind": "crux",
+      "subject": "kvailys",
+      "rationale": "נבל verčiama „kvailys“ arba „niekšas, bedievis“ — jps „churl“, įvairiose versijose skiriasi"
+    }
+  ],
+  "translation": "Ir karalius sudainavo raudą dėl Avnero ir tarė: Ar kaip kvailys miršta, ⟨taip⟩ mirė Avneras?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a59ff693caf11e6db52981e5a205b067d9fa7fd70b1a59fd06009a7d568bf9c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/33-36.1792477992363.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ir sudainavo raudą"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnero"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "ar kaip mirtis"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kvailio"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "miršta"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneras"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:12.364516822Z",
+  "model": "glm-5.3"
+}

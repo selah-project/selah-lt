@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ieškokite Jahvės",
+      "rationale": "Dvigubas liepimas tiesiogiai kreipiasi į klausytoją su skubos ženklu — kol vėlu."
+    },
+    {
+      "kind": "addition",
+      "subject": "kol",
+      "rationale": "Hebrajų infinitivus בהמצאו ir בהיותו neturi atskiro žodžio „kol“ — laiko ryšys pridėtas lietuviškai."
+    }
+  ],
+  "translation": "Ieškokite Jahvės, kol jis ⟨teberandamas⟩; šaukitės ⟨jo⟩, kol jis ⟨yra⟩ arti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/55\/5-8.1792481756921.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ieškokite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "kol jis ⟨teberandamas⟩"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "šaukitės ⟨jo⟩"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kol jis ⟨yra⟩"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "arti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:56.922117412Z",
+  "model": "glm-5.3"
+}

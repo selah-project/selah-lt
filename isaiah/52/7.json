@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 52:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra saityno — šauktinis sakinys be veiksmažodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalomą",
+      "rationale": "שלום — ne tik 'taika', bet pilnybė, gerovė, saugumas; paliktas kaip šalom."
+    },
+    {
+      "kind": "you",
+      "subject": "Cionui",
+      "rationale": "Skelbėjas kreipiasi tiesiogiai į Cioną: 'tavo Elohim karaliuoja'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבשר...מבשר",
+      "rationale": "Pakartotas dalyvis du kartus — pirmiausia šalomas, paskui gera\/išgelbėjimas; monotono karta eilutės ritme."
+    }
+  ],
+  "translation": "Kokie gražūs ant kalnų ⟨yra⟩ kojos gerosios žinios nešėjo, skelbiančio šalomą, gerosios žinios nešėjo, skelbiančio išgelbėjimą, sakančio Cionui: tavo Elohim karaliuoja!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/52\/5-8.1792481744358.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kokie"
+    },
+    {
+      "surface": "נאוו",
+      "gloss": "gražūs"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalnų"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kojos"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "gerosios žinios nešėjas"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "skelbiančio"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomą"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "gerosios žinios nešėjas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gera"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "skelbiančio"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "išgelbėjimą"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sakančio"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Cionui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliuoja"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:44.359403533Z",
+  "model": "glm-5.3"
+}

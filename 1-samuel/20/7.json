@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חָרֹה יֶחֱרֶה",
+      "rationale": "Būdvardinio dalinio (infinitive absolute) kartojimas — „labai įsiplies“; paryškinimo laipsnis lietuviškai perteiktas prieveiksmiu."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikalinga tarinio (copula) forma, kurios hebrajų kalba neturi; žymima ⟨yra⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "כָלְתָה הָרָעָה",
+      "rationale": "Pažodžiui „blogis yra pasibaigęs iš jo“ — vertimas „nulemtas“ arba „apsispręstas“; įvairiuose vertimuose skiriasi."
+    }
+  ],
+  "translation": "Jei jis sakys taip: „Gerai, ramybė tavo tarnui“, o jei jam labai įsiplies, žinok, kad blogis iš jo ⟨yra⟩ galutinai nuspręstas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/5-8.1792477550418.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "jis sakys"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gerai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ramybė"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "tavo tarnui"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "labai"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "įsiplies"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דע",
+      "gloss": "žinok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "yra galutinai nuspręstas"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "blogis"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "iš jo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:25:50.421674949Z",
+  "model": "glm-5.3"
+}

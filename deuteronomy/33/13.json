@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 33:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ממגד",
+      "rationale": "מגד 'išskirtinis dalykas, gėrybė' kartojasi keturis kartus (33,13–16) kaip palaiminimo sąrašo refrenas, lietuviškai išlaikyta viena forma 'gėrybės'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gelmgel",
+      "rationale": "תהום — sūkuriuojanti vandens bedugnė, ne abstrakti 'gelmė'; 'gelmė' artimiausias vienas žodis."
+    }
+  ],
+  "translation": "Ir apie Josefą jis tarė: Palaiminta Jahvės — jo žemė, iš dangaus gėrybių, iš rasos, ir iš gelmės, tysojančios apačioje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/13-16.1792475596311.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "Ir apie Josefą"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jis tarė"
+    },
+    {
+      "surface": "מברכת",
+      "gloss": "Palaiminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "jo žemė"
+    },
+    {
+      "surface": "ממגד",
+      "gloss": "iš gėrybių"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "iš rasos"
+    },
+    {
+      "surface": "ומתהום",
+      "gloss": "ir iš gelmės"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "tysojančios"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "apačioje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:16.312956583Z",
+  "model": "glm-5.3"
+}

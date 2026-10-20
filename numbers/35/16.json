@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškoje sakinyje nėra veiksmažodžio — 'רצח הוא' pažodžiui 'žudikas jis'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "infinitivus absolutus — 'mirtimi mirs', tas pats šaknies kartojimas kaip הרצח רצח"
+    }
+  ],
+  "translation": "Ir jei geležiniu įnagiu jį sudavė ir jis mirė — žudikas jis ⟨yra⟩; mirtimi mirs žudikas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dededf8670c4aa68ce36d2dc68fbd66e48fc4df27b6eed89d6e216e47ab5a4c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/13-16.1792474785146.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "įnagiu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "geležiniu"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "sudavė"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir jis mirė"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "žudikas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žudikas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:45.148892056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 15:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע",
+      "rationale": "Infinitivus absolutas + asmenuota forma — „žinodamas žinosi“ — pabrėžimas, lietuviškai skamba svetimai, bet išlaikytas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio — lietuvių kalbai reikia jungties."
+    },
+    {
+      "kind": "crux",
+      "subject": "keturis šimtus metų",
+      "rationale": "Pr 15,13 sako 400 metų, o Iš 12,40 — 430; tradiciniai sprendimai skiriasi."
+    }
+  ],
+  "translation": "Ir jis tarė Avrahamui: žinodamas žinosi, kad tavo sėkla bus svetimšalis žemėje, kuri ⟨yra⟩ ne jų, ir jie juos pavergs, ir juos engs ⟨את⟩ — keturis šimtus metų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da9f18dce2392e45904047dbc24a922bb7aa05c8ed6e01cf90504f18c10a8150",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/13-16.1792471260771.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avrahamui"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žinodamas"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "žinosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "גר",
+      "gloss": "svetimšalis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavo sėkla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "ועבדום",
+      "gloss": "ir jie juos pavergs"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ir engs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:00.772619085Z",
+  "model": "glm-5.3"
+}

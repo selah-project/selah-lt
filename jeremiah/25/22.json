@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio ⟨yra⟩ sakinyje „salos, kuri anapus jūros“."
+    },
+    {
+      "kind": "crux",
+      "subject": "האי",
+      "rationale": "vienaskaita „salos“ vs daugiskaita „salų“ — dauguma verčia „salų karaliai“, hebrajų kalba vartojama vns."
+    }
+  ],
+  "translation": "ir ⟨את⟩ visus Coro karalius, ir ⟨את⟩ visus Cidono karalius, ir ⟨את⟩ salos karalius, kuri ⟨yra⟩ anapus jūros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/25\/21-24.1792482786473.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus Coro karalius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Coro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus Cidono karalius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "salos karalius"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "האי",
+      "gloss": "salos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "anapus"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    }
+  ],
+  "timestamp": "2026-10-20T07:53:06.476581609Z",
+  "model": "glm-5.3"
+}

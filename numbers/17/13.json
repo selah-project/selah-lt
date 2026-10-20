@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo laiko pagalbinio veiksmažodžio"
+    },
+    {
+      "kind": "you",
+      "subject": "Aharonas",
+      "rationale": "veiksmas atliekamas tarp mirusiųjų ir gyvųjų kaip kunigo stovėsenos aprašymas"
+    }
+  ],
+  "translation": "Ir jis atsistojo tarp mirusiųjų ir tarp gyvųjų, ir maras buvo sulaikytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8532717346571cd1685c516bb1c1b35099c01211a7d228dec66fa84fcae5f33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/17\/13-16.1792474256393.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ir atsistojo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mirusiųjų"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "gyvųjų"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ir buvo sulaikytas"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "maras"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:56.403797793Z",
+  "model": "glm-5.3"
+}

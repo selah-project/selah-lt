@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 15:21",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų priesaikos formuluotė „חי יהוה“ neturi veiksmažodžio — lietuvių kalba reikalauja „gyvas yra“."
+    },
+    {
+      "kind": "you",
+      "subject": "Itajaus atsakymas karaliui Davidui",
+      "rationale": "Tiesioginis kreipimasis į karalių su priesaika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחיים — gyventi",
+      "rationale": "Hebrajiškas daiktavardis „gyvybė“ (l+חיים) išskleidžiamas į veiksmažodį, kad išliktų priešprieša mirtis\/gyvybė."
+    }
+  ],
+  "translation": "Ir Itajus atsakė ⟨את⟩ karalių ir tarė: Gyvas yra Jahvė ir gyvas yra mano ponas karalius — kur bus mano ponas karalius, ar mirti, ar gyventi, ten tikrai bus tavo vergas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/21-24.1792478380910.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itajus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriame"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mirti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "gyventi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo vergas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:40.911942640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "įvykdžiau",
+      "rationale": "הקימתי pažodžiui 'pakėliau\/Atsistojau, kad įvykdyčiau' — sukėliau, kad stovėtų; KJV 'performed', lietuviškai 'įvykdžiau'"
+    },
+    {
+      "kind": "you",
+      "subject": "Šauliaus pasveikinimas",
+      "rationale": "Šaulius tiesiogiai kreipiasi į Šmuelį: 'Palaimintas tu Jahvei'"
+    }
+  ],
+  "translation": "Ir atėjo Šmuelis pas Šaulių, ir Šaulius tarė jam: Palaimintas tu Jahvei; įvykdžiau ⟨את⟩ Jahvės žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/13-16.1792477330021.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulių"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "palaimintas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "įvykdžiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės žodį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:10.022784105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש yra „gerklė, kvapas, gyvybės jėga“, ne nemateriali siela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לאפו",
+      "rationale": "pažodžiui „jo nosiai“ — įniršis hebrajiškai sėdi nosyje, posakis sulietuvintas"
+    }
+  ],
+  "translation": "Jis išlygino kelią savo įniršiui, nesaugojo jų gyvybės nuo mirties, o jų gyvenimą atidavė marui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/49-52.1792488476533.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "išlygino"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "kelią"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "savo įniršiui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "saugojo"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "nuo mirties"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jų gyvybės"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "o jų gyvenimą"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "marui"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "atidavė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:56.533708241Z",
+  "model": "glm-5.3"
+}

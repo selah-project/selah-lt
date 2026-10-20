@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 29:7",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pamaloninsite",
+      "rationale": "עניתם pažodžiui 'nuskurdinsite\/priveiksite' savo nefesh — pasninko įsakymas (Jom Kipuras)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne 'siela' viena: gerklė, gyvybė, gyvybinė jėga."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimtoji diena",
+      "rationale": "Tikslus datos nurodymas — septintojo mėnesio dešimtoji diena."
+    },
+    {
+      "kind": "addition",
+      "subject": "dieną",
+      "rationale": "Lietuviškas laiko galūnės žodis, hebrajų turi tik 'ir dešimtojo'."
+    }
+  ],
+  "translation": "Ir dešimtąją septintojo mėnesio, šito, dieną jums bus šventas susirinkimas, ir jūs pamaloninsite ⟨את⟩ savo nefesh, jokio darbo nedarysite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8fc1f5c2e055170e044020ebc4491c8e9d1bc7d93dfe1db9d58802fff78cc3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/29\/5-8.1792474579210.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעשור",
+      "gloss": "ir dešimtąją dieną"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintojo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "susirinkimas"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ir jūs pamaloninsite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo nefesh"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "savo nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darysite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:19.213862101Z",
+  "model": "glm-5.3"
+}

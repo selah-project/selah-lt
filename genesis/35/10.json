@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio-sąsajos, lietuvių jos reikalauja"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "hebrajiškas neiginio stiprinimo posakis „ne… bet“ išskaidytas į lietuviškus žodžius"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim kalba Jaakovui",
+      "rationale": "tiesioginis kreipimasis su vardo keitimu"
+    }
+  ],
+  "translation": "Ir Elohim tarė jam: Tavo vardas ⟨yra⟩ Jaakovas; nebe bus tavo vardas vadinamas Jaakovas, bet Jisraelis bus tavo vardas. Ir jis pavadino ⟨את⟩ jo vardą Jisraeliu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8ca4f03839b236cb80761e08b2932bfc0eec8520b69d78ced693d13e855d4623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/9-12.1792471721210.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bus vadinamas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bet"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir pavadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo vardą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:41.212849931Z",
+  "model": "glm-5.3"
+}

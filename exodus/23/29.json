@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 23:29",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניך",
+      "rationale": "Pažodžiui 'nuo tavo veido' — hebrajų idiomas 'nuo tavo akies priekyje', lietuviškai 'iš tavo veido \/ prieš tave'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jų",
+      "rationale": "Hebrajų ׳אגרשנו ׳ turi objekto galūnę '-נו' (jų), lietuviškai reikia atskiro žodžio."
+    }
+  ],
+  "translation": "Neišvarysiu jų iš tavo veido vienais metais, kad žemė netaptų dyka ir lauko žvėrys neįsigalėtų prieš tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/29-32.1792472693850.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "išvarysiu jų"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "iš tavo veido"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "metais"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienais"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "netaptų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dyka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "neįsigalėtų"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "חית",
+      "gloss": "žvėrys"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:53.852544306Z",
+  "model": "glm-5.3"
+}

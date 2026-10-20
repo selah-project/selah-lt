@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דפי",
+      "rationale": "Retas žodis, pažodžiui „pakliuvimas \/ suklupimo akmuo“; čia „šmeižtas, kaltinimas“ — iš kilmės šaknies דוף."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבן אמך",
+      "rationale": "Chiasminis dvilypis parallelizmas: brolis — motinos sūnus, tas pats asmuo dviem išraiškomis."
+    }
+  ],
+  "translation": "Sėdi, prieš savo brolį kalbi, savo motinos sūnų apšmeiži.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/50\/17-20.1792488012035.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "sėdi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "prieš savo brolį"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kalbi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "savo motinos"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "apšmeiži"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "šmeižtą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:12.036613088Z",
+  "model": "glm-5.3"
+}

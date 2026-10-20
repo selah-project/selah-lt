@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 5:20",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "ורוחה verčiama kaip ruach, ne 'dvasia' viena — žodis reiškia ir dvasią, ir kvapą, ir vėją."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Aramėjų pasyvas neturi lietuviško jungties žodžio; ⟨buvo⟩ pridėta abiejuose veiksmažodžiuose."
+    },
+    {
+      "kind": "elision",
+      "subject": "neaiškus veikėjas",
+      "rationale": "Kas nuverčia ir atima garbę — hebrajų\/aramejiškame pasyve nesakoma; lietuviškas pasyvas išlaiko tą patį neaiškumą."
+    }
+  ],
+  "translation": "Ir kai jo širdis išaukštėjo ir jo ruach tapo atkaklus puikystėn, jis buvo nuverstas nuo savo karalystės sosto, ir jo garbė buvo atimta iš jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "359024e3d44d682255478c6ba155ba158e12d033af8372997039b873f1cc1708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/5\/20-20.1792494214054.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכדי",
+      "gloss": "Ir kai"
+    },
+    {
+      "surface": "רם",
+      "gloss": "išaukštėjo"
+    },
+    {
+      "surface": "לבבה",
+      "gloss": "jo širdis"
+    },
+    {
+      "surface": "ורוחה",
+      "gloss": "ir jo ruach"
+    },
+    {
+      "surface": "תקפת",
+      "gloss": "tapo atkaklus"
+    },
+    {
+      "surface": "להזדה",
+      "gloss": "puikystėn"
+    },
+    {
+      "surface": "הנחת",
+      "gloss": "buvo nuverstas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "כרסא",
+      "gloss": "sosto"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "savo karalystės"
+    },
+    {
+      "surface": "ויקרה",
+      "gloss": "ir jo garbė"
+    },
+    {
+      "surface": "העדיו",
+      "gloss": "buvo atimta"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "iš jo"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:34.055088602Z",
+  "model": "glm-5.3"
+}

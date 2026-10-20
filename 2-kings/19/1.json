@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajų kalba neturi objekto prie כשמע — pridėtas įvardis"
+    },
+    {
+      "kind": "idiom",
+      "subject": "burlastas",
+      "rationale": "בשק — šiurkštus audeklas, apraudos ir atgailos ženklas"
+    }
+  ],
+  "translation": "Ir įvyko, karaliui Chizkijahui išgirdus ⟨tai⟩, jis perplėšė ⟨את⟩ savo drabužius, apsisiautė burlastu ir įėjo į Jehovah namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/1-4.1792480357651.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "išgirdus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahui"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "jis perplėšė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo drabužius"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savo drabužius"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "apsisiautė"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "burlastu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir įėjo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jehovah"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:37.652243901Z",
+  "model": "glm-5.3"
+}

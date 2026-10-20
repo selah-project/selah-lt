@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קין\/קניתי",
+      "rationale": "Kaino vardas skamba kaip 'įsigijau' (kaniti) — vardo darybos žaismas, lietuviškai išnyksta"
+    },
+    {
+      "kind": "crux",
+      "subject": "את יהוה",
+      "rationale": "čia את — prielinksnis 'su': 'vyrą su Jahve' arba (kaip daugumoje) priemonės šaltinis; kai kurie skaito 'vyrą, t. y. Jahve'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pažino",
+      "rationale": "hebrajiškas 'yada' — pažinti intimiai; eufemizmas sueičiai"
+    }
+  ],
+  "translation": "Ir žmogus pažino ⟨את⟩ Chavą, savo žmoną; ir ji pastojo ir pagimdė ⟨את⟩ Kainą, ir ji tarė: Įsigijau vyrą ⟨su⟩ ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae71745516a81d20b0c22d9ff1bcaa877084e125fc4f421a4d4ba208bda0dd9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/1-4.1792471003688.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "ir žmogus"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chavą"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavą"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savo žmoną"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ir ji pastojo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir pagimdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kainą"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainą"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir ji tarė"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "įsigijau"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:43.692780901Z",
+  "model": "glm-5.3"
+}

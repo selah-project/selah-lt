@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sielų",
+      "rationale": "נפש yra 'kvėpuojanti būtybė, gyvybė, gerklė', ne siela vakarietiška prasme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבדלתם \/ הבדלתי",
+      "rationale": "ta pati šaknis בדל — 'jūs skyrsite' ir 'aš atskyriau' apsibrėžia eilutę; lietuvių 'skirti\/atskirti' išlaiko ryšį"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "tiesioginis įsakymas Izraelio bendruomenei"
+    }
+  ],
+  "translation": "Ir jūs skyrsite tarp gyvulių tyruosius ir ne tyruosius, ir tarp paukščių ne tyruosius ir tyruosius; ir jūs nepadarysite ⟨את⟩ savo sielų šlykščiomis gyvuliu, paukščiu ar bet kuo, kas šliaužioja žemėje — tuo, ką aš atskyriau jums kaip ne tyrą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab5c9978c9840676ef420c5bc80808346c1b3046aca1e1fb570ee844d2c773f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/25-27.1792473577422.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "ir jūs skyrsite"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulių"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "tyruosius"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ir ne tyruosius"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "paukščių"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ne tyruosius"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ir tyruosius"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "padarysite šlykščiomis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sielų"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "savo sielų"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "gyvuliu"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "paukščiu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ar bet kuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "šliaužioja"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "atskyriau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "kaip ne tyrą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:37.430380879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "akmenimis",
+      "rationale": "Hebrajų סקלני sako tik 'užmuš akmenimis\/mane'; priemonė 'akmenimis' pridėta lietuviškai, nes veiksmažodis 'skal' pats reiškia mėtymą akmenimis."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Mošės malda — tiesioginis kreipimasis į Jahvę klausimu."
+    }
+  ],
+  "translation": "Ir Mošė šaukėsi Jahvės, sakydamas: Ką aš darysiu šiai tautai? Dar maža, ir apmėtys mane akmenimis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/17\/1-4.1792472614496.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ir šaukėsi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aš darysiu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "šiai tautai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiai"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "maža"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ir apmėtys mane akmenimis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:34.501529515Z",
+  "model": "glm-5.3"
+}

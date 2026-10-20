@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio — pridėta⟨buvo⟩kaip kopula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žmonos",
+      "rationale": "נשי — moterys\/žmonos; kontekste Davido žmonos"
+    }
+  ],
+  "translation": "Ir abi Davido žmonos buvo paimtos į nelaisvę — Achinoama jizreelytė ir Abigailė, Navalo karmelietės žmona.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/5-8.1792477760428.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ir abi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "žmonos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "buvo paimtos į nelaisvę"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoama"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "jizreelytė"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ir Abigailė"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalo"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "karmelietė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:20.430437130Z",
+  "model": "glm-5.3"
+}

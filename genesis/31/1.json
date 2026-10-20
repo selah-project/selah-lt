@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "garbė",
+      "rationale": "הכבד yra 'svoris, turtingumas' — KJV 'glory', JPS 'wealth'; lietuviškai 'turtas' būtų antrasis skaitymas"
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajiškai veiksnys nenurodytas — subjektas irašomas iš konteksto"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקח",
+      "rationale": "'paėmė' vs 'pavogė \/ nusinešė' — sūnų kaltinimo tonas prasiveria per šio žodžio skaitymą"
+    }
+  ],
+  "translation": "Ir jis išgirdo ⟨את⟩ žodžius Labano sūnų, sakant: Jaakovas paėmė ⟨את⟩ viską, kas priklauso mūsų tėvui, ir iš to, kas priklauso mūsų tėvui, jis padarė ⟨את⟩ visą šitą garbę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/1-4.1792471623369.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodžius"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viską"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "priklauso mūsų tėvui"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ir iš to, kas"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "priklauso mūsų tėvui"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą garbę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "garbę"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:03.370991742Z",
+  "model": "glm-5.3"
+}

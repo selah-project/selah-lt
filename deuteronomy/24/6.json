@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių reikia ⟨yra⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "רכב",
+      "rationale": "Pažodžiui 'raitelis\/vežimas'; dauguma verčia 'viršutinis girnos akmuo' iš konteksto, bet žodis pats to nereiškia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — alsuojanti būtybė, gyvybės jėga; girnos — priemonė išgyventi, todėl įkeičiant jas imama gyvybė."
+    }
+  ],
+  "translation": "Neimama į įkeitimą girnų — ir viršutinis akmuo, nes tai yra gyvybė, kuri imama į įkeitimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/24\/5-8.1792475370949.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neimama"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "į įkeitimą"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "girnų"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ir viršutinis akmuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "imama į įkeitimą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:30.950908809Z",
+  "model": "glm-5.3"
+}

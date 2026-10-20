@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jos gyventojus",
+      "rationale": "hebrajiškas ויגלה קירה sako tik 'ištrėmė ją į Kirą' — 'ją' reiškia gyventojus, ne miestą"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויגלה",
+      "rationale": "šaknis galia dažniausiai reiškia gyventojų ištrėkimą, bet pažodžiui — 'nuoginti, atidengti'"
+    }
+  ],
+  "translation": "Ir išklausė jį Asirų karalius, ir žygiavo Asirų karalius prieš Damaską, ir užėmė jį, ir ištrėmė ⟨jos gyventojus⟩ į Kirą, o ⟨את⟩ Reciną nužudė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/9-12.1792480266121.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išklausė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirų"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ir žygiavo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirų"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaską"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "ir užėmė jį"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ir ištrėmė"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "į Kirą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Reciną"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Reciną"
+    },
+    {
+      "surface": "המית",
+      "gloss": "nužudė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:06.122278964Z",
+  "model": "glm-5.3"
+}

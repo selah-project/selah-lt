@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח vienu žodžiu reiškia vėją, kvapą ir dvasią — paliktas kaip ruach, nes lietuviškas atitikmuo sulaužytų trijų reikšmių vienovę."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovui kreipiasi į Elohim",
+      "rationale": "Kreipimasis „Atmink“ nukreiptas į Dievą."
+    }
+  ],
+  "translation": "Atmink, kad mano gyvybė — ruach yra; mano akis nebegrįš pamatyti gera.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/7\/5-8.1792490135119.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Atmink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "grįš"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mano akis"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pamatyti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gera"
+    }
+  ],
+  "timestamp": "2026-10-20T09:55:35.119959862Z",
+  "model": "glm-5.3"
+}

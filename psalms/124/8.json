@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas beveik be kopolos: 'mūsų pagalba Jahvės vardo vardan'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים",
+      "rationale": "dviskaita 'dangūs' — danga su dviem pusėmis, lietuvių vienaskaita praranda formą"
+    }
+  ],
+  "translation": "Mūsų pagalba ⟨yra⟩ Jahvės vardo ⟨sukurta⟩ — vardan Jo, kuris daro dangų ir žemę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/124\/5-8.1792489196448.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "mūsų pagalba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuris daro"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ir žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:56.449229118Z",
+  "model": "glm-5.3"
+}

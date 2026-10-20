@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalboje nėra sietuvo — pridėta lietuviškai ⟨buvo⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jisraelio karaliaus",
+      "rationale": "Tekste parašyta „Jisraelio karaliaus“, nors Jehošafatas buvo Jehudos karalius; kai kurie vertimai taiso į „Jehudos“, bet hebrajiškas tekstas sako Jisraelis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "Išvardyti šeši Jehošafato sūnūs pagal vardą"
+    }
+  ],
+  "translation": "Ir jam ⟨buvo⟩ broliai, Jehošafato sūnūs: Azarija, Jehielis, Zecharijas, Azarija, Michaelis ir Šefatja — visi šitie ⟨buvo⟩ Jehošafato, Jisraelio karaliaus, sūnūs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/21\/1-4.1792493648616.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ir jam"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broliai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafato"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarija"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "ir Jehielis"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ir Zecharijas"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "ir Azarija"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "ir Michaelis"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "ir Šefatja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafato"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:54:08.616934773Z",
+  "model": "glm-5.3"
+}

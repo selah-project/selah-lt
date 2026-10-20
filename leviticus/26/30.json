@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kūnai",
+      "rationale": "פגר — negyvas kūnas; tas pats žodis apie stabus ir žmones, žodžių žaismas lietuvių kalboje dalinai išlieka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne siela, o gyvybės jėga; paliktas skambesys"
+    }
+  ],
+  "translation": "Ir aš sunaikinsiu ⟨את⟩ jūsų aukštumas, ir nukirsiu ⟨את⟩ jūsų saulės stulpus, ir padėsiu ⟨את⟩ jūsų kūnus ant jūsų stabų kūnų, ir niekins mano nefesh ⟨את⟩ jus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43007b8eb34bf413626886be0e0ccdee843167019b9fcb501a9e8b0bd46ccdc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/29-32.1792473785086.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ir sunaikinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų aukštumas"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "jūsų aukštumas"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ir nukirsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų saulės stulpus"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "jūsų saulės stulpus"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ir padėsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų kūnus"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "jūsų kūnus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "kūnų"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "jūsų stabų"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "ir niekins"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:05.087704004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 25:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "užpuolė",
+      "rationale": "קרך verbtinai 'sutiko tave, atsitiktinai užtiko'; 'užpuolė' — vaidmens vertimas, ne vaizdas."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנחשלים",
+      "rationale": "Šis dalyvis Tanache labai retas; 'nusilpusieji, atsilikęieji'."
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨pavidalo⟩",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio po 'paskutiniuosius'; hebrajiškas ויזנב reiškia 'kirpo uodegą' — kirpo paskutiniuosius."
+    }
+  ],
+  "translation": "Kaip jis užpuolė tave kelyje ir kirpo paskutiniuosius tavo ⟨pavidalo⟩ — visus nusilpusiuosius už nugaros, kai tu buvai pavargęs ir nuvargęs, ir nebijojo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/25\/17-19.1792475360313.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Kaip"
+    },
+    {
+      "surface": "קרך",
+      "gloss": "užpuolė tave"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kelyje"
+    },
+    {
+      "surface": "ויזנב",
+      "gloss": "ir kirpo paskutiniuosius"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הנחשלים",
+      "gloss": "nusilpusiuosius"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "už nugaros"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kai tu"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "pavargęs"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ir nuvargęs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bijojo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:20.318219335Z",
+  "model": "glm-5.3"
+}

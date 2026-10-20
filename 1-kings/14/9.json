@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nusiudyti už nugaros",
+      "rationale": "Hebrajų idoma „mesti už savo nugaros“ — paniekinamas atmetimas, lietuviškai „nusvylei už savo nugaros“."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו- prie ותרע",
+      "rationale": "Va-consecutive jungiamasis vav lietuvių sakinyje išnyksta."
+    }
+  ],
+  "translation": "Ir tu darei blogiau, veikdamas daugiau negu visi, kurie buvo prieš tave: ėjai ir pasidarei sau kitus dievus ir lietuosius atvaizdus, kad mane įpykdytum — o mane ⟨את⟩ nusvylei už savo nugaros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/9-12.1792479330921.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "darei blogiau"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "veikdamas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "daugiau negu visi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ėjai"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "pasidarei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitus"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "lietuosius atvaizdus"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "kad mane įpykdytum"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mane"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "nusvylei"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "už"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "savo nugaros"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:30.922055255Z",
+  "model": "glm-5.3"
+}

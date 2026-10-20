@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio — pridėta ⟨buvo⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושיא",
+      "rationale": "KT skaito Ševa; kitur Šeja — asmenvardžio variantai"
+    }
+  ],
+  "translation": "ir Ševa ⟨buvo⟩ raštininkas, ir Cadokas ir Ebjataras ⟨buvo⟩ kunigai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/20\/25-26.1792478460954.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ir Ševa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raštininkas"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ir Cadokas"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ir Ebjataras"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kunigai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:41:00.955475510Z",
+  "model": "glm-5.3"
+}

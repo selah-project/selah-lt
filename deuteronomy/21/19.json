@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia trumpinio 'tada', hebrajų veiksmažodis jį reiškia pats."
+    }
+  ],
+  "translation": "tada jo tėvas ir motina jį stvers ir išves ⟨את⟩ jį pas jo miesto vyresniuosius ir prie jo vietos vartų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/21\/17-20.1792475309500.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "stvers"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ir motina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "išves"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresniuosius"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "jo miesto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vartų"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "jo vietos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:48:29.502859162Z",
+  "model": "glm-5.3"
+}

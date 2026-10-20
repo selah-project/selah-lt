@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחד",
+      "rationale": "ׂDerivation debated: ḥedva ('džiaugėsi') vs. ḥadar ('apsidairė, pasibaisėjo') — LXX\/oldest versions read 'was alarmed'; ketiv supports 'rejoiced'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jisraeliui → jį",
+      "rationale": "הצילו suffix -o nurodo Izraelį; veikiau 'jį' nei 'juos'."
+    }
+  ],
+  "translation": "Ir Jetro džiaugėsi visa gera, kurią Jahvė padarė Jisraeliui, kurį ⟨jis⟩ išgelbėjo iš Micraimo rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/9-12.1792472563242.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "džiaugėsi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "išgelbėjo jį"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:43.244200378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Klausyk manęs",
+      "rationale": "imperatyvas, kreipimasis į Jaakovą ir Jisraelį — pranašo raginimas išgirsti"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovui ir Jisraeliui",
+      "rationale": "tiesioginis adresatas — ištremtoji tauta, vadinama „mano šauktiniu\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני הוא אני... אני... אני",
+      "rationale": "keturiskart pakartotas „aš“ — kaskart vis kitoks predikatas (jis, pirmasis, paskutinis)"
+    }
+  ],
+  "translation": "Klausyk manęs, Jaakovai, ir Jisraeli, mano šauktini: aš esu ⟨jis⟩; aš pirmasis, ir taip pat aš paskutinis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/9-12.1792481588681.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "klausyk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovai"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ir Jisraeli"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mano šauktinis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "esu ⟨jis⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pirmasis"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "paskutinis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:08.683417743Z",
+  "model": "glm-5.3"
+}

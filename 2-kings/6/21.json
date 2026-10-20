@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "האכה אכה",
+      "rationale": "Pakartotas veiksmažodis „mušti“ — klausimas kartojamas du kartus, išlieka lietuviškame pakartojime."
+    },
+    {
+      "kind": "crux",
+      "subject": "אבי",
+      "rationale": "„Tėve mano“ — kreipinys į pranašą kaip į tėvą (garbės titulas), ne kraujo giminystė."
+    }
+  ],
+  "translation": "Ir Jisraelio karalius tarė Elišui, pamatęs ⟨את⟩ juos: Ar mušiu, ar mušiu, tėve mano?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/21-24.1792479794765.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elišui"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišui"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "pamatęs"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ar mušiu"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ar mušiu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėve mano"
+    }
+  ],
+  "timestamp": "2026-10-20T07:03:14.766291283Z",
+  "model": "glm-5.3"
+}

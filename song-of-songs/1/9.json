@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kumelė tarp vežimų",
+      "rationale": "Hebr. vienaskaita 'kumelė' prie daugiskaitos 'vežimų' — kai kurie verčia 'kumelė' (BSB), kiti 'vežimų žirgų kinkinys' (KJV); hebrajiškai — viena kumelė tarp kinkinių."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ra'ja",
+      "rationale": "רַעְיָה — 'draugė, mylimoji'; išlaikyta 'mano mylimoji' vietoj neutralios 'draugė'."
+    }
+  ],
+  "translation": "Mano kumelei tarp Paro vežimų prilyginau tave, mano mylimoji.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/1\/9-12.1792490822073.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "mano kumelei"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "tarp Paro vežimų"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "prilyginau tave"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mano mylimoji"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:02.074178054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' — pridėta ⟨yra⟩ kaip saistomoji forma"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מתמל שלשם",
+      "rationale": "pažodžiui 'nuo vakar, užvakar' — hebrajiškas idiomas 'nuo seniausiai, anksčiau'"
+    }
+  ],
+  "translation": "O šitas yra žmogžudžio reikalas, kuris ten bėgs ir gyvens: tas, kuris ⟨את⟩ savo artimą smogs be žinojimo, o jis nekenčia jo nuo vakar dienos ir užvakar.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/1-4.1792475271476.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "o šitas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reikalas"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žmogžudžio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "bėgs"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tas, kuris"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "smogs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo artimą"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo artimą"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "be"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "žinojimo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nekenčia"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "nuo vakar dienos"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ir užvakar"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:51.478500732Z",
+  "model": "glm-5.3"
+}

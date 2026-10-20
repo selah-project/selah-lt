@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškai nėra veiksmažodžio po „kurie“ — pridėta ⟨buvo⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Mordochajui",
+      "rationale": "tiesioginis klausimas Mordochajui — kodėl tu peržengi įsakymą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peržengi",
+      "rationale": "עובר pažodžiui „pereini“ — peržengi karaliaus įsakymą"
+    }
+  ],
+  "translation": "Ir sakė karaliaus tarnai, kurie ⟨buvo⟩ karaliaus vartuose, Mordochajui: kodėl tu peržengi ⟨את⟩ karaliaus įsakymą?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "09d1d5c48ccfff2e2b0f0808e62dc576cde0300eeddb576f305cc864bd5b4a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/3\/1-4.1792491436413.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir sakė"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "karaliaus tarnai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vartuose"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordochajui"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "peržengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaliaus įsakymą"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "karaliaus įsakymą"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:17:16.414334553Z",
+  "model": "glm-5.3"
+}

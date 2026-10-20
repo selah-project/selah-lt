@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 14:6",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨akį⟩",
+      "rationale": "שעה — 'pažvelgti, atsigręžti'; lietuviškai reikia objekto 'akį'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירצה",
+      "rationale": "'kol jam patiks \/ kol išdirbs' — רצה ir 'atsiskaityti už skolą', samdinio užuomina."
+    }
+  ],
+  "translation": "Nukreipk ⟨akį⟩ nuo jo, kad jis atsilsėtų, kol apsidžiaugs, kaip samdinys savo dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/14\/5-8.1792490269051.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעה",
+      "gloss": "nukreipk ⟨akį⟩"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "nuo jo"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "kad jis atsilsėtų"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "apsidžiaugs"
+    },
+    {
+      "surface": "כשכיר",
+      "gloss": "kaip samdinys"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "savo dieną"
+    }
+  ],
+  "timestamp": "2026-10-20T09:57:49.052229706Z",
+  "model": "glm-5.3"
+}

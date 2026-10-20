@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Įvardis pridėtas, nes hebrajų veiksmažodžių priesaga rodo tik trečiąją asmens vyr. giminę."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידך החזקה וזרעך הנטויה",
+      "rationale": "Įprasta trijulė 'ranka stiprioji ir parankė ištiesta' — išėjimo iš Micraimo kalba, kartojama kaip liturginis vyksmas."
+    }
+  ],
+  "translation": "nes jie išgirs ⟨את⟩ tavo didįjį vardą ir ⟨את⟩ tavo stipriąją ranką bei tavo ištiestą parankę, ir atėjęs jis melsis link šio namo —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/41-44.1792479204957.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "jie išgirs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo didįjį vardą"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardą"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "didįjį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavo stipriąją ranką"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tavo ranką"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "stipriąją"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ir tavo parankę"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "ištiestą"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ir atėjęs"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "melsis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "link"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:53:24.959004671Z",
+  "model": "glm-5.3"
+}

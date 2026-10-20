@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 6:7",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gerklė, gyvybės jėga, ne „siela“ viena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulos prie כדוי"
+    }
+  ],
+  "translation": "Atsisako liesti mano nefesh; jie man — kaip šleikštulys mano duonai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/6\/5-8.1792490140332.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאנה",
+      "gloss": "atsisako"
+    },
+    {
+      "surface": "לנגוע",
+      "gloss": "liesti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כדוי",
+      "gloss": "kaip šleikštulys"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mano duonai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:55:40.333874189Z",
+  "model": "glm-5.3"
+}

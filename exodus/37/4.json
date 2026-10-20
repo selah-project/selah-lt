@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jas",
+      "rationale": "Hebrajų objektas einantis su אתם perteiktas įvardžiu dėl lietuvių žodžių tvarkos."
+    }
+  ],
+  "translation": "Ir pagamino kartis iš akacijos medžio ir apklijavo ⟨את⟩ jas auksu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/37\/1-4.1792473036770.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "pagamino"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "kartis"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacijos"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "apklijavo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jas",
+      "marks": "jas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:36.774236577Z",
+  "model": "glm-5.3"
+}

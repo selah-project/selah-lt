@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "mizmoras",
+      "rationale": "מזמור reiškia instrumentu lydimą poemą; lietuvių vienas žodis tokio neturi, paliktas pagal hebrajišką skambesį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Koracho sūnums",
+      "rationale": "לבני קרח — nuosavybės santvarka be veiksmažodžio: antraštė, priskirianti psalmę Koracho sūnums"
+    }
+  ],
+  "translation": "Daina, mizmoras, Koracho sūnums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/48\/1-4.1792488034017.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Daina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracho"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:34.017754072Z",
+  "model": "glm-5.3"
+}

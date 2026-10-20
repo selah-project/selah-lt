@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "העלם",
+      "rationale": "עלם — retas žodis, pažodžiui „paslėptasis, dar neišryškėjęs“; čia jaunas vaikinas."
+    },
+    {
+      "kind": "you",
+      "subject": "karalius → Avneriui",
+      "rationale": "Įsakymas antruoju asmeniu vienaskaita: „pasiteirau tu“."
+    }
+  ],
+  "translation": "Ir karalius tarė: Pasiteirau tu, kieno sūnus šis vaikinėlis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/53-56.1792477562879.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Pasiteirau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kieno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "vaikinėlis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:02.882816460Z",
+  "model": "glm-5.3"
+}

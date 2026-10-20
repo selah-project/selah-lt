@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 8:21",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasalūnai",
+      "rationale": "הארב — 'tykojantysis, pasaloje gulintysis'; veikėjo vardo vardažodis iš veiksmažodžio 'tykoti'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "hebrajiškas va- consecutive sieja pasekmę; lietuvių šiam säujimui reikia jungiamojo žodžio."
+    }
+  ],
+  "translation": "Ir Jehošua ir visas Jisraelis pamatė, kad pasalūnai užgrobė ⟨את⟩ miestą ir kad miesto dūmai kilo aukštyn, tad jie sugrįžo ir iškapojo ⟨את⟩ Hai vyrus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "217ed01935e297e4d2c61568aa6c5c92193d3b6d89c271388dcc6a24c3346513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/8\/21-24.1792475859485.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Ir Jehošua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "užgrobė"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "pasalūnai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miestą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ir kad"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kilo aukštyn"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "jie sugrįžo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ir iškapojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hai vyrus"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:57:39.505954556Z",
+  "model": "glm-5.3"
+}

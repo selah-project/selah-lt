@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta lietuviška kopula"
+    },
+    {
+      "kind": "crux",
+      "subject": "tarp vakarų",
+      "rationale": "בין הערבים: „tarp dviejų vakarų“ — nuo popietės iki sutemų; tradicijos skiriasi dėl tikslaus momento"
+    }
+  ],
+  "translation": "Pirmajame mėnesyje, keturioliktą ⟨tą⟩ mėnesio dieną, tarp vakarų ⟨yra⟩ Pesachas Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/5-8.1792473629894.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "pirmajame mėnesyje"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmajame"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "keturioliktą"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-iolika"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio dieną"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "vakarų"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesachas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:29.898181608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio-sąsajos; lietuvių reikalauja ⟨yra⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "mūsų Adonai",
+      "rationale": "Bendruomenės išpažintis — 'mūsų' kreipiasi į susirinkusiuosius."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nėra skaičiaus",
+      "rationale": "מספר — skaičiaus sąvoka: Jo supratimas neapskaičiuojamas, atsakas į žvaigždžių skaičiavimą v. 4."
+    }
+  ],
+  "translation": "Didus ⟨yra⟩ mūsų Adonai ir gausus jėga — jo supratimui nėra skaičiaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/147\/5-8.1792489372616.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Didus"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "mūsų Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ir gausus"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "jo supratimui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičiaus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:52.617027142Z",
+  "model": "glm-5.3"
+}

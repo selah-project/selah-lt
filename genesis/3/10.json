@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "hebrajiškai kalbantysis nenurodytas; lietuvių kalbai reikia veiksnio"
+    },
+    {
+      "kind": "addition",
+      "subject": "todėl",
+      "rationale": "priežastinis ryšys tarp 'nuogas' ir 'pasislėpiau' hebrajiškai tik numanomas"
+    }
+  ],
+  "translation": "Ir ⟨jis⟩ tarė: ⟨את⟩ Tavo balsą išgirdau sode ir išsigandau, nes esu nuogas, todėl pasislėpiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/3\/9-12.1792470995466.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavo balsą"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "Tavo balsą"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "išgirdau"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sode"
+    },
+    {
+      "surface": "ויארא",
+      "gloss": "ir išsigandau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nuogas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "esu ⟨aš⟩"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "todėl pasislėpiau"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:35.472255063Z",
+  "model": "glm-5.3"
+}

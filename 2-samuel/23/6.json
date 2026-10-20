@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנד",
+      "rationale": "Qal pasyvinis dalyvis nuo נדד 'nubrauktas\/išvytas' — ši forma Tanache sutinkama tik čia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "belialiečiai",
+      "rationale": "בליעל 'niekingumas, beviltiškumas' paverstas žmonių pavadinimu, kaip ir KJV 'sons of Belial'."
+    }
+  ],
+  "translation": "O belialiečiai — kaip erškėčiai nubraukti, visi jie, juk ne ranka jie paimami.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/5-8.1792478745344.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "O belialiečiai"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "kaip erškėčiai"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "nubraukti"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "visi jie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "paimami"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:45.345751619Z",
+  "model": "glm-5.3"
+}

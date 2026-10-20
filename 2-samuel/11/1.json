@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 11:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלאכים",
+      "rationale": "Consonants read both ways: מַלְאָכִים 'messengers' (as in v. 4) vs מְלָכִים 'kings' — almost all versions read 'kings'; rendered 'karaliai'."
+    },
+    {
+      "kind": "addition",
+      "subject": "į karą",
+      "rationale": "Hebrew says only 'the going-out of kings'; 'į karą' supplied in brackets for clarity."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Wayyiqtol 'and it came to pass' rendered as 'Ir įvyko' — narrative linker with no separate content."
+    }
+  ],
+  "translation": "Ir įvyko, pasukus metams, metu, kai karaliai išeina ⟨į karą⟩: Davidas išsiuntė ⟨את⟩ Joabą ir ⟨את⟩ savo tarnus su juo, ir ⟨את⟩ visą Jisraelį; jie nusiaubė ⟨את⟩ Ammono vaikus ir apsupo Rabą, o Davidas sėdėjo Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/11\/1-4.1792478286229.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "pasukus"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "metams"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "metu"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kai išeina"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "karaliai"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabą"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo tarnus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savo tarnus"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą Jisraelį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "וישחתו",
+      "gloss": "ir nusiaubė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammono vaikus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammono"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "ir apsupo"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "Rabos"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "o Davidas"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sėdėjo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:06.230456224Z",
+  "model": "glm-5.3"
+}

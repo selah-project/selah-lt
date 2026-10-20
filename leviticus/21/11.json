@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשות מת",
+      "rationale": "pažodžiui „mirusių nefęšių“ — nefesh yra gerklė\/kvapas\/gyvybė, ne „kūnas“; tradiciniai vertimai rašo „miręs kūnas“"
+    },
+    {
+      "kind": "addition",
+      "subject": "dėl",
+      "rationale": "hebrajiškas ל prieš „tėvą“ ir „motiną“ — lietuviškai reikia prielinksnio „dėl“"
+    }
+  ],
+  "translation": "ir prie jokios mirusios gyvybės jis neis — dėl savo tėvo ir dėl savo motinos jis nesusiteps.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/9-12.1792473603162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokios"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirusios"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "jis neis"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "dėl savo tėvo"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ir dėl savo motinos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "susiteps"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:03.173185725Z",
+  "model": "glm-5.3"
+}

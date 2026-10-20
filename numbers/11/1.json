@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 11:1",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajiškas כמתאננים neturi veiksmažodžio — lietuvių kalbai reikia jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pyktis",
+      "rationale": "אף pažodžiui 'nosis, šnervė' — pykčio vaizdas hebrajų kalboje"
+    },
+    {
+      "kind": "crux",
+      "subject": "murmentojai",
+      "rationale": "כמתאננים: vertėjai skaito 'kaip murmintieji' arba 'pikti būdami' — šaknis reiškia ir dejuoti, ir būti piktiems"
+    }
+  ],
+  "translation": "Ir įvyko: tauta ⟨buvo⟩ kaip murmentojai — pikta Jahvės ausyse; ir išgirdo Jahvė, ir įsiliepsnojo jo pyktis, ir užsidegė tarp jų Jahvės ugnis ir suėdė stovyklos pakraštį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/11\/1-4.1792474126422.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "כמתאננים",
+      "gloss": "kaip murmentojai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pikta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ir įsiliepsnojo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jo pyktis"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ir užsidegė"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tarp jų"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir suėdė"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "pakraštyje"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "stovyklos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:46.422804659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאבן העזר",
+      "rationale": "Vietos vardas 'Even ha-Ezer' išskaidytas į du žodžius, kaip hebrajų kalboje."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kelias",
+      "rationale": "Eilutė nurodo tikslią vietų seką: iš Even Ezero į Ašdodą."
+    }
+  ],
+  "translation": "Ir pelištiečiai paėmė ⟨את⟩ Elohim arkan ir atgabeno ją iš Even Ezero į Ašdodą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/5\/1-4.1792477104507.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ir pelištiečiai"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim arkan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ir atgabeno ją"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "iš Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezero"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "į Ašdodą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:24.508079727Z",
+  "model": "glm-5.3"
+}

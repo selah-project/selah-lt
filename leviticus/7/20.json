@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 7:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gyvybė, asmuo; 'siela' tik sąlyginai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונכרתה מעמיה",
+      "rationale": "pažodžiui 'bus nukirsta iš savo tautos' — karech, iškirpimas iš bendruomenės"
+    }
+  ],
+  "translation": "O siela, kuri valgo mėsos iš šelamim aukos, priklausančios Jahvei, — o jos nešvarumas ant jos, — ta siela bus iškirsta iš savo tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3aeca30b3b93ac8a60d940b7fbaa971e9745304dfba8e5ec03b1294a7b208a02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/17-20.1792473217469.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "o siela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mėsos"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "iš aukos"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "priklausančios"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "וטמאתו",
+      "gloss": "o nešvarumas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jos"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "bus iškirsta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta siela"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "iš savo tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:37.473565191Z",
+  "model": "glm-5.3"
+}

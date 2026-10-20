@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "judges 8:33",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ištvirkavo paskui",
+      "rationale": "Hebrajų ויזנו אחרי — 'santuokinės neištikimybės' idiomą apie dievus, lietuviškai išlaikytas nuodėmės paveikslas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievu",
+      "rationale": "לאלהים čia apie Baal-Beritą, todėl 'dievu' mažąja raide, ne Elohim."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעל ברית",
+      "rationale": "Vardas reiškia 'sandoros Baal' — skambėjimas sutampa su 'sandora' (ברית), prarasta lietuviškai."
+    }
+  ],
+  "translation": "Ir atsitiko, kai mirė Gideonas, Jisraelio sūnūs sugrįžo ir ištvirkavo paskui Baalus, ir pasidarė sau Baal-Beritą dievu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2474b97b7277b52bb7b605dbb6e4284280bc694a97b6079539f26435249bbdf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/8\/33-35.1792476464339.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideonas"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "sugrįžo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ir ištvirkavo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalus"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ir pasidarė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "-Beritą"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dievu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:44.340237234Z",
+  "model": "glm-5.3"
+}

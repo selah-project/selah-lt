@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gandras",
+      "rationale": "חסידה — iš česed-šaknies 'geradarė', gyvūnų lentelėje nustatyta kaip gandras"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "'Ten' išlydyta su 'kur' — hebrajiškai atskiras žodis"
+    }
+  ],
+  "translation": "kur paukščiai lizdus suka: gandras baltyse turi savo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/17-20.1792488813586.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "paukščiai"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "suka lizdus"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "gandras"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "baltyse"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "savo namus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:33.587420416Z",
+  "model": "glm-5.3"
+}

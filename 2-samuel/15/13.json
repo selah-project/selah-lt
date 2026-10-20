@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tapo",
+      "rationale": "היה לב... אחרי: pažodžiui 'yra širdis... po', lietuviškai reikia veiksmažodžio 'pasuko\/tapo'"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "pranešėjo žodžiai kreipiami tiesiogiai į Davidą"
+    }
+  ],
+  "translation": "Ir atėjo pranešėjas pas Davidą, sakydamas: Tapo Jisraelio vyrų širdys paskui Avšalomą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/13-16.1792478330215.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "pranešėjas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tapo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdys"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:50.216192358Z",
+  "model": "glm-5.3"
+}

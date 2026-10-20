@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "devyni",
+      "rationale": "sąrašas uždarytas skaičiumi: devyni Jerušalaime gimę sūnūs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elišama ir Elifeletas",
+      "rationale": "tie patys vardai kartojasi 3, 6 ir 3, 8 — chronikos sąraše dvi skirtingos vyrų eilutės, ne pakartojimas"
+    }
+  ],
+  "translation": "ir Elišama, ir Eljada, ir Elifeletas — devyni.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f603a07f24bf175669bd034fa9a7fda45112e410b60769ef68e86fe2bb69a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/3\/5-8.1792492662775.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ir Elišama"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ir Eljada"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ir Elifeletas"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devyni"
+    }
+  ],
+  "timestamp": "2026-10-20T10:37:42.776147041Z",
+  "model": "glm-5.3"
+}

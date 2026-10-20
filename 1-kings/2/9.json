@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול verčiama kaip šeol, ne 'pragaras' ar 'kapas'"
+    },
+    {
+      "kind": "you",
+      "subject": "Davido žodis Salomonui",
+      "rationale": "tiesioginis kreipimasis į Salomoną per įsakovą"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנקהו",
+      "rationale": "'neišteisink jo' vs 'nebausk jo neatlyginai' — הנקה reiškia paskelbti nekaltu"
+    }
+  ],
+  "translation": "Ir dabar neišteisink jo, nes tu išmintingas vyras, ir žinosi, ⟨את⟩ ką jam daryti, ir nuleisi ⟨את⟩ jo žilą senatvę krauju į šeol.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/9-12.1792478778277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "išteisink jo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "išmintingas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ir žinosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darysi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "ir nuleisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo žilą senatvę"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "jo žilą senatvę"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "krauju"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:18.279061858Z",
+  "model": "glm-5.3"
+}

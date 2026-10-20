@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo vietoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכרתיהם",
+      "rationale": "Dažniausiai 'jų kardai' (iš מכרה); LXX ir kai kurie verčia 'jų sueigos \/ jų kėslai' — 'כלי חמס מכרתיהם' be veiksmažodžio, todėl sintaksė dviprasmiška"
+    }
+  ],
+  "translation": "Šimonas ir Levis — broliai; smurto įrankiai — jų kardai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ac288b5347b8a206f7033ea468830eeb62bf743b1517f85389b1b9b1a74a250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/5-8.1792472123485.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Šimonas"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ir Levis"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broliai"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "įrankiai"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "smurto"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "jų kardai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:23.488274254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השכיבה \/ ותשכיבהו",
+      "rationale": "Chiazmas: 'paguldė jį į savo glėbį … jos mirusį sūnų paguldė į mano glėbį' — mainų simetrija išlaikyta."
+    },
+    {
+      "kind": "you",
+      "subject": "kalba karaliui",
+      "rationale": "'Tavo tarnaitė' — moteris ir toliau kreipiasi į karalių."
+    }
+  ],
+  "translation": "Ir ji atsikėlė vidury nakties ir pasiėmė ⟨את⟩ mano sūnų iš šono mano, o tavo tarnaitė miegojo, ir paguldė jį į savo glėbį, o ⟨את⟩ jos mirusį sūnų paguldė į mano glėbį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "322493bbf3c58d505b483e841ab27e9a558123c4dbffe26b9bccef70622c14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/3\/17-20.1792478888718.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ir atsikėlė"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vidury"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakties"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ir pasiėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano sūnų"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnų"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "iš šono mano"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "o tavo tarnaitė"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "miegojo"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ir paguldė jį"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "į savo glėbį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "jos mirusį sūnų"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jos sūnų"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mirusį"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "paguldė"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "į mano glėbį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:08.721294746Z",
+  "model": "glm-5.3"
+}

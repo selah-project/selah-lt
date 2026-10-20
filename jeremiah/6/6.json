@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 6:6",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aplankyti",
+      "rationale": "פקד reiškia 'aplankyti' tiek palankiai, tiek bausmei — čia kontekstas reikalauja priešiško apsilankymo."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje筷 struktūroje, lietuvių kalbai jo reikia."
+    },
+    {
+      "kind": "elision",
+      "subject": "כלה pakartojimo struktūra",
+      "rationale": "Hebrajiškas žodžių tvarkos pabrėžimas 'visas — ji' lietuviškai išskleistas į du pabrėžimus."
+    }
+  ],
+  "translation": "Nes taip sako Jahvė Cevaot: Kirskite medžius ir supilkite prieš Jerušalaimą apgulties pylimą. Ji ⟨yra⟩ miestas, kurį reikia aplankyti ⟨bausmei⟩ — visas, visas jis pilnas prievartos savo viduje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bafc51c48ca1e64df4f2108824bfb101c6404a2ba8967e465488b9b6c61e4f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/6\/5-8.1792482237243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "Kirskite"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "medžius"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "ir supilkite"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "apgulties pylimą"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Ji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "kurį reikia aplankyti ⟨bausmei⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "visas"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "prievartos"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "savo viduje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:57.245426252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žvėrims",
+      "rationale": "חית השדה — „lauko gyvybė\/žvėris“; eilutės 19 „gyvuliai“ ir 20 „žvėrims“ atspindi tą patį חית — vienas žodis, vienas vaizdas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų veiksmažodis „rado“ aktyvus be aiškaus subjekto; lietuvių kalbai reikia pasyvo su „buvo“."
+    }
+  ],
+  "translation": "Ir žmogus davė vardus visiems gyvuliams ir dangaus paukščiams, ir visiems lauko žvėrims; bet žmogui nebuvo rastas pagalbininkas — jo atitikmuo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/17-20.1792471051301.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir davė vardus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardus"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvuliams"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ir paukščiams"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ir visiems"
+    },
+    {
+      "surface": "חית",
+      "gloss": "žvėrims"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "bet žmogui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "buvo rastas"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pagalbininkas"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "jo atitikmuo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:31.307422531Z",
+  "model": "glm-5.3"
+}

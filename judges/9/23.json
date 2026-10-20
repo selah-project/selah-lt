@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 9:23",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis, kelios reikšmės."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעלי שכם",
+      "rationale": "'Šchemo valdytojai\/šeimininkai' pateikti kaip 'Šchemo vyrai' — įprastinis šios vietos sutrumpinimas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין … ובין",
+      "rationale": "Kartojamas 'tarp … ir tarp' struktūra išlaikyta pažodžiui."
+    }
+  ],
+  "translation": "Ir Elohim pasiuntė piktąją ruach tarp Abimelecho ir tarp Šchemo vyrų, ir Šchemo vyrai išdavikiškai pasielgė su Abimelechu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "23a513e612200edbc7fe4eb2e100dfcfbf5d85c6737975f0eb7661a783edda85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/9\/21-24.1792476477642.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "piktąją"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelecho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchemo"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "išdavikiškai pasielgė"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchemo"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "su Abimelechu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:57.644877932Z",
+  "model": "glm-5.3"
+}

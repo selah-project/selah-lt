@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' — pridėta ⟨esu⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "עסיס",
+      "rationale": "כעסיס — 'kaip nek fermentuotos vynuogių sultys'; vertėjai svyruoja tarp 'jaunas vynas', 'saldus vynas', 'vynuogių sultys'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אושיע\/מושיעך",
+      "rationale": "šaknies ישע kartojimas per 25–26 eilutes: 'aš išgelbėsiu' — 'tavo gelbėtojas'."
+    }
+  ],
+  "translation": "Ir pamaitinsiu ⟨את⟩ tave engiančiuosius ⟨את⟩ jų pačių kūnu, ir kaip jaunu vynu jie apsigers savo krauju, ir pažins visas kūnas, kad aš, Jahvė, ⟨esu⟩ tavo gelbėtojas ir tavo išpirkėjas, Stiprusis Jaakobo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/49\/25-26.1792481731623.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "Ir pamaitinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tave engiančiuosius"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "tave engiančiuosius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų pačių kūnu"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "jų pačių kūnu"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "ir kaip jaunu vynu"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "savo krauju"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "jie apsigers"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir pažins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "tavo gelbėtojas"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ir tavo išpirkėjas"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Stiprusis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:31.624849647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "padėjo",
+      "rationale": "ותשלך pažodžiui 'metė\/numetė'; lietuviškai 'padėjo', nes veiksmas neturi smurto atspalvio"
+    }
+  ],
+  "translation": "Ir pasibaigė vanduo maiše, ir ji padėjo ⟨את⟩ vaiką po vienu iš krūmų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "47537aded77a26b6c29d767c438a3a72f6ffea0deda3794f46038f255ec953fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/21\/13-16.1792471372095.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "pasibaigė"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maiše"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "maiše"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "padėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaiką"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaiką"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienu"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "krūmų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:52.098777754Z",
+  "model": "glm-5.3"
+}

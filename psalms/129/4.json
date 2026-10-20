@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi sietuvo — 'Jahvė teisus' be 'yra'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבות",
+      "rationale": "'Susukti virvagaliai, virvės' — LXX 'nuodėmės virvus'; kai kurie (BSB) verčia 'nukirpo MANE nuo virvių', bet hebrajiškai 'manęs' nėra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vagų \/ virvių",
+      "rationale": "3 eilutės arimo vagas pertraukia 4 eilutės virvių kirpimas — ne tiesioginis žodžių žaismas, bet vaizdo kontrastas."
+    }
+  ],
+  "translation": "Jahvė ⟨yra⟩ teisus, nukirpo jis virves nedorėlių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/129\/1-4.1792489170868.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisus"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "nukirpo"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "virves"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nedorėlių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:30.869430603Z",
+  "model": "glm-5.3"
+}

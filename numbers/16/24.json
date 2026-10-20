@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "apleiskite",
+      "rationale": "מסביב 'iš aplinkos' — lietuvių kalbai reikia veiksmažodžio, hebrajų turi tik vietą"
+    },
+    {
+      "kind": "crux",
+      "subject": "miškanas",
+      "rationale": "למשכן vienaskaita — ar vienas Koracho miškanas, ar visų trijų buveinės; vienaskaita išlaikyta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bendruomenei",
+      "rationale": "Imperatyvas 'Pakilkite' — kvietimas atsitraukti, kreiptas per Mošę į visą bendruomenę"
+    }
+  ],
+  "translation": "Kalbėk bendruomenei, sakydamas: Pakilkite apleiskite aplinką Koracho, Datano ir Aviramo miškano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "465c517aa0d64452bbb3298f7630ede44a24c84059b5bfc16baa5fb4df074cd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/21-24.1792474235077.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bendruomenei"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "bendruomenei"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Pakilkite"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "apleiskite aplinką"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "miškano"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracho"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datano"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "ir Aviramo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:35.079947851Z",
+  "model": "glm-5.3"
+}

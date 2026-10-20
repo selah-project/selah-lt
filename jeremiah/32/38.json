@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas והיו — veiksmažodis 'būti', ne kopula; dėl lietuvių skambesio 'jies bus\/būsiu' natūralu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעם \/ לאלהים",
+      "rationale": "sandoros formulės chiazmas: tauta-Man, aš-Elohim; paralelizmas aiškus ir lietuviškai"
+    }
+  ],
+  "translation": "Ir jie bus man tauta, o aš būsiu jiems Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f142d11fac7caf5530022656cfc0d7024b363a2c207127d1c66bd621d6485916",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/37-40.1792483135243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ir jie bus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "būsiu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:55.244835245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 16:22",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "הרוחת verčiama 'ruachų' — vienas žodis: dvasia, kvapas, vėjas; 'dvasių' vienas prarastų pusrūšę"
+    },
+    {
+      "kind": "crux",
+      "subject": "klausimas ar tvirtinimas",
+      "rationale": "Hebrajų sintaksė leidžia ir retorinį klausimą (KJV), ir tvirtinimą 'vienas nusidėjo, o tu rūstauji' (YLX)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הרוחת",
+      "rationale": "Ruach šiuo daugiskaitos kamienu vardininkas-in Galil variantas — reta forma, kur visa Tanache šis pažymėjimas kartojamas tik čia"
+    }
+  ],
+  "translation": "Ir jie krito ant savo veidų ir tarė: El, viso kūno ruachų Elohim — ar vienas vyras nusidės, o tu rūstausi ant visos bendruomenės?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "465c517aa0d64452bbb3298f7630ede44a24c84059b5bfc16baa5fb4df074cd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/21-24.1792474235077.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "ir jie krito"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "savo veidų"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "ruachų"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "viso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūno"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "nusidės"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "o ant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "bendruomenės"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "tu rūstausi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:35.079347658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Sionas",
+      "rationale": "Sionas kalba apie save kaip apie paliktą — Dievo atsakymas v. 15–16 adresuotas jam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני apie Dievą verčiama Adonai, ne „Viešpats“, pagal D1."
+    }
+  ],
+  "translation": "Ir tarė Sionas: Paliko mane Jahvė, ir Adonai mane pamiršo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/49\/13-16.1792481618930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionas"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "Paliko mane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ir Adonai"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "mane pamiršo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:38.931320891Z",
+  "model": "glm-5.3"
+}

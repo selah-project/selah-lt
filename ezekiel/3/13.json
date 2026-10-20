@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 3:13",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio — pridėta pilna predikato konstrukcija"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחותה",
+      "rationale": "pažodžiui 'viena prie savo sesers' — idiomatykus reciprokinis 'viena su kita'"
+    },
+    {
+      "kind": "elision",
+      "subject": "משיקות",
+      "rationale": "iš šaknies נשק 'bučiuoti\/liesti' — pateikta kaip 'besiliečiančių', atspindinti prisilietimo vaizdą"
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ garsas gyvių sparnų, besiliečiančių vieno su kitu, ir ratų garsas greta jų, ir didelio dundėjimo garsas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e447838e506613ec88a62432e07a3b8e956c8f0b0d5d4c5f4e0b365d07033170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/3\/13-16.1792483866750.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "ir garsas"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sparnų"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "gyvių"
+    },
+    {
+      "surface": "משיקות",
+      "gloss": "besiliečiančių"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "kitu"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ir garsas"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ratų"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "greita jų"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ir garsas"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "dundėjimo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelio"
+    }
+  ],
+  "timestamp": "2026-10-20T08:11:06.751604992Z",
+  "model": "glm-5.3"
+}

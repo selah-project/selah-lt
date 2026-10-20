@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "translation-fix",
+      "subject": "למס",
+      "rationale": "למס — priverstinio darbo duoklė; teisinga: „ir jie tapo jam duoklės mokėtojais“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הוריש",
+      "rationale": "ירש — išvyti ir paveldėti, ne tiesiog išnaikinti"
+    }
+  ],
+  "translation": "Zebulonas neišnaikino ⟨את⟩ Kitrono gyventojų ir ⟨את⟩ Nahalalo gyventojų, ir kanaanietis apsigyveno jo viduryje, ir jie tapo jį auksu mokančiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "675c1e7abe6427963a3a2b0cafd907c1789438b44ad8c46743cdae32ad2a4f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/29-32.1792476292421.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulonas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "išnaikino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kitrono gyventojus"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitrono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Nahalalo gyventojus"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalalo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir apsigyveno"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanietis"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "jo viduryje"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "למס",
+      "gloss": "duoklės mokėtojais"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:52.423231370Z",
+  "model": "glm-5.3"
+}

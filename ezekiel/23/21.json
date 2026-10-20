@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותפקדי",
+      "rationale": "paqad: 'apsilankei\/atsiminei' (KJV) vs 'rūpinaisi\/ieškojai' (YLT) — abi galimos iš šaknies reikšmių."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשך speneliai",
+      "rationale": "שדי čia moters krūtys, ne Šadai — tie patys radai, kita žodžio reikšmė."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דדיך \/ שדי",
+      "rationale": "krūtys-speneliai poroje su 20 eilutės kumeliukų vaizdiniais; dviejų sinonimų eilė sustiprina refreno efektą."
+    }
+  ],
+  "translation": "Ir tu atsiminei ⟨את⟩ savo jaunystės piktąjį sumanymą, kai Micraimas tenkinosi tavo krūtimis, dėl tavo jaunystės spenelių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "291e6e7a8e8a499a25243fd4672dac9ed0d189dce0e41f67900d8677a5d4cf77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/21-24.1792484471646.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "ir tu atsiminei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo jaunystės piktąjį sumanymą"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "piktasis sumanymas"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "tavo jaunystės"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "darant"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tavo krūtys"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "speneliai"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "tavo jaunystės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:11.647626888Z",
+  "model": "glm-5.3"
+}

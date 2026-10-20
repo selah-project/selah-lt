@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש yra 'gerklė, kvapas, gyvybės jėga', ne 'siela'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė Mošei",
+      "rationale": "Jahvė įsako Mošei grįžti į Micraimą"
+    }
+  ],
+  "translation": "Ir Jahvė tarė Mošei Midiane: Eik, sugrįžk į Micraimą, nes mirė visi žmonės, kurie siekė ⟨את⟩ tavo gyvybės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/4\/17-20.1792472226229.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midiane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sugrįžk"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "į Micraimą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "kurie siekė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo gyvybės"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo gyvybės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:06.232703688Z",
+  "model": "glm-5.3"
+}

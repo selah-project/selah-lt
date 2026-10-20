@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 20:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta wolves jungties ⟨yra⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "Adverbas 'ten' iš dalies ištirpsta lietuviškame 'pas kurią bėgome'."
+    },
+    {
+      "kind": "crux",
+      "subject": "האי",
+      "rationale": "Pažodžiui 'sala\/pakrantė' — Filistijos pakraščio gyventojai, kuriems tarpe lemė ateitis."
+    },
+    {
+      "kind": "you",
+      "subject": "salos gyventojas",
+      "rationale": "Retorinis klausimas 'kaip mes išsigelbėsime?' kreipiasi į klausytoją."
+    }
+  ],
+  "translation": "Ir šios salos gyventojas sakys tą dieną: Štai tokia ⟨yra⟩ mūsų viltis, pas kurią bėgome pagalbos, kad būtume išgelbėti nuo Ašūro karaliaus — o kaip mes išsigelbėsime?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/20\/5-6.1792480912729.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ir sakys"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyventojas"
+    },
+    {
+      "surface": "האי",
+      "gloss": "šios salos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tokia"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "mūsų viltis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pas kurią"
+    },
+    {
+      "surface": "נסנו",
+      "gloss": "bėgome"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "pagalbos"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "kad būtume išgelbėti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūro"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "o kaip"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "išsigelbėsime"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:52.729824561Z",
+  "model": "glm-5.3"
+}

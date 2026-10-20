@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "pažodžiui 'skerdikų vyresnysis' — Nebuzaradano titulas; verčiama 'skerdikų viršininkas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškame santykyje nėra veiksmažodžio, lietuvių kalbai reikia ⟨buvo⟩."
+    }
+  ],
+  "translation": "O ⟨את⟩ Jerušalaimo sienas aplinkui nugriovė visa kasdių kariuomenė, kuri ⟨buvo⟩ pas skerdikų viršininką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/9-12.1792480509372.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "Jerušalaimo sienas"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "sienas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplinkui"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "nugriovė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kariuomenė"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viršininką"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "skerdikų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:09.372884166Z",
+  "model": "glm-5.3"
+}

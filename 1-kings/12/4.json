@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקשה \/ הקל \/ הכבד",
+      "rationale": "„Sunku“ ir „lengva\/sunku“ — tą pati šaknų priešprieša dėlama į vieną eilutę, lietuviškai išlaikyta sunku\/lengvint\/išlaikyta sunkiojo."
+    },
+    {
+      "kind": "you",
+      "subject": "Rechavamui",
+      "rationale": "Tiesioginis kreipimasis į karalių: „tavo tėvas… o tu… tarnausime tau“."
+    },
+    {
+      "kind": "invitation",
+      "subject": "וְנַעַבְדֶֽךָּ",
+      "rationale": "Sąlyginis pasiūlymas: palengvink — ir tarnausime."
+    }
+  ],
+  "translation": "Tavo tėvas padarė sunkų ⟨את⟩ mūsų jungą; o tu dabar palengvink tavo tėvo sunkiąją tarnybą ir sunkųjį jungą, kurį jis uždėjo ant mūsų, ir mes tarnausime tau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/1-4.1792479254956.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvas"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "padarė sunkų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsų jungą"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "mūsų jungą"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "palengvink"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "tarnybą"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sunkiąją"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ir sunkųjį jungą"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sunkųjį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uždėjo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ant mūsų"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ir mes tarnausime tau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:14.958759558Z",
+  "model": "glm-5.3"
+}

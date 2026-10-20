@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימלטו",
+      "rationale": "Veiksmažodis reiškia 'paleisti pabėgti \/ išgelbėti'; angliškos versijos svyruoja nuo 'let alone' iki 'escaped'."
+    },
+    {
+      "kind": "elision",
+      "subject": "את עצמות הנביא",
+      "rationale": "את čia veikia kaip 'kartu su' (prepozicinė atmaina), išlaikytas kaip ⟨את⟩ ženklas."
+    }
+  ],
+  "translation": "Ir jis tarė: Palikite jį; nė vienas žmogus tejudina jo kaulų. Ir jo kaulai buvo išgelbėti ⟨את⟩ kartu su kaulais pranašo, kuris atėjo iš Šomrono.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/17-20.1792480505213.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Palikite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te(ne)"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "judina"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "jo kaulų"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "ir buvo išgelbėti"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "jo kaulai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaulams pranašo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kaulams"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "iš Šomrono"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:05.215440466Z",
+  "model": "glm-5.3"
+}

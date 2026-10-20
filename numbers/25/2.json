@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "prie",
+      "rationale": "Hebrew construct לזבחי has no preposition; Lithuanian needs 'prie' to bind 'aukų dievų'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievų",
+      "rationale": "אלהיה׎n — foreign gods here, so lowercase 'dievai', not Elohim"
+    }
+  ],
+  "translation": "Ir jos pakvietė ⟨את⟩ tautą prie savo dievų aukų, ir tauta valgė ir nusilenkė jų dievams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3a11dda16d7616110b84bd2e7fd7278dae69adb43e050bc45b49d30f56398744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/25\/2-4.1792485405086.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "pakvietė"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "prie aukų"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "savo dievų"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "valgė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nusilenkė"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "jų dievams"
+    }
+  ],
+  "timestamp": "2026-10-20T08:36:45.087540372Z",
+  "model": "glm-5.3"
+}

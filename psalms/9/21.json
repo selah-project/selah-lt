@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas tekstas neturi veiksmažodžio — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "žmonės mirtingieji",
+      "rationale": "אנוש reiškia 'mirtingasis', ne tiesiog 'žmogus' (adam\/īš)"
+    }
+  ],
+  "translation": "Paskirk, Jahve, baimę jiems — težino tautos, kad žmonės mirtingieji ⟨yra⟩ jie. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/9\/21-21.1792487460416.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Paskirk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "baimę"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "težino"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "žmonės mirtingieji"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:00.416863212Z",
+  "model": "glm-5.3"
+}

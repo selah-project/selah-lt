@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septynias dienas",
+      "rationale": "Laiko skaičiavimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "האזרח",
+      "rationale": "„Vietinis“ vs „Jisraelyje gimęs“ — hebrajiškai „šaknies“ tautos nariai, ne atvykėliai."
+    }
+  ],
+  "translation": "Palapinėse gyvenkite septynias dienas; visi vietiniai Jisraelyje gyvens palapinėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/41-44.1792473717450.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "palapinėse"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "gyvenkite"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "vietiniai"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "palapinėse"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:57.451579976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 37:14",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "ruach — vėjas, kvapas, dvasia; paliktas transliteruotas vienu žodžiu"
+    },
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“"
+    }
+  ],
+  "translation": "Ir įdėsiu savo ruach į jus, ir gyvensite, ir paguldysiu ⟨את⟩ jus ant jūsų žemės, ir pažinsite, kad aš esu Jahvė: kalbėjau ir padariau — sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f655020aca498b37a406df189e54182ff6b2c59680957d06f84273514fa0c5b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/37\/13-16.1792485861748.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ir įdėsiu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "savo ruach"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "į jus"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "ir gyvensite"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "ir paguldysiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jūsų žemės"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ir pažinsite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ir padariau"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:44:21.750902105Z",
+  "model": "glm-5.3"
+}

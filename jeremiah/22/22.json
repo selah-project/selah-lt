@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעיך\/תרעה\/רעתך",
+      "rationale": "Ta pati šaknis רע: ganytojai, ganyti ir blogis — lietuvių vertime žodžių žaismas prarandamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "תרעה רוח",
+      "rationale": "KJV 'wind shall eat up' prieš 'shepherds shall pasture wind' — veiksnys ir objektas ginčijami; čia ruach kaip vėjas gano ganytojus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "Ruach — vėjas\/kvapą\/Dvasia vienas žodis; pagal D2 rašomas skambesiu, ne 'vėjas' vienas."
+    }
+  ],
+  "translation": "Ruach išganiaus visus tavo ganytojus, ir tavo mylimieji eis į nelaisvę; tada būsi sugėdinta ir susipainiojusi dėl visos savo blogybės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/21-24.1792482643223.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tavo ganytojus"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "išganiaus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "ir tavo mylimieji"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "į nelaisvę"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "eis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tada"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "būsi sugėdinta"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "ir susipainiojusi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dėl visos"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "savo blogybės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:43.224331757Z",
+  "model": "glm-5.3"
+}

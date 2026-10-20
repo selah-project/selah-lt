@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezekiel 16:54",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתן",
+      "rationale": "Aleph-tav daugiskaitos forma (jos) išlaikoma kaip ⟨אתן⟩; įvardis ‛jas‘ pridėtas aiškumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guosdama",
+      "rationale": "בנחמך — Pažadėtojo veiksmas ‛tavo guodimu‘, t. y. Jeruzalė guosdama save, kad jai ne taip blogai kaip seserims."
+    }
+  ],
+  "translation": "kad neštum savo gėdą ir būtum sugėdinta dėl visko, ką darei, guosdama ⟨אתן⟩ jas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "640aafe30c751ead5b897540ab0923db8a612c98c8c2970ea80620bdefdc03a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/53-56.1792484184406.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "neštum"
+    },
+    {
+      "surface": "כלמתך",
+      "gloss": "savo gėdą"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "ir būtum sugėdinta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "dėl visko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "darei"
+    },
+    {
+      "surface": "בנחמך",
+      "gloss": "guosdama"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨אתן⟩ jas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:16:24.408704862Z",
+  "model": "glm-5.3"
+}

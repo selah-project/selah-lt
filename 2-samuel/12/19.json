@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir jie atsakė",
+      "rationale": "Hebrajiškas ויאמרו čia tik 'ir tarė', bet atsakymo kontekstas reikalauja 'atsakė'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מת",
+      "rationale": "Šaknis m-w-t skamba tris kartus — kuždesys ir klausimas sukasi apie tą patį žodį."
+    }
+  ],
+  "translation": "Ir pamatė Davidas, kad jo tarnai kuždasi, ir suprato Davidas, kad mirė vaikas, ir tarė Davidas savo tarnams: Ar mirė vaikas? Ir jie atsakė: Mirė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/17-20.1792478165665.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "kuždasi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ir suprato"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tarnams"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ar mirė"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir jie atsakė"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:36:05.667637168Z",
+  "model": "glm-5.3"
+}

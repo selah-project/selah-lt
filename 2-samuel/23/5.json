@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 23:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא יצמיח",
+      "rationale": "Pabaiga ginčytina: KJV 'nors jis neleidžia augti' vs JPS retorinis klausimas 'ar jis neprudydygs?' — laikomasi pažodinio neiginio."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ · ⟨jos⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo komponento ir įvardžio, hebrajų jų neturi."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן ביתי עם אל",
+      "rationale": "Ar 'mano namai nėra tokie su El' (neiginys), ar klausimas 'ar ne mano namai su El?' — skyrybos ženklų hebrajų tekste nėra."
+    }
+  ],
+  "translation": "Juk ne taip mano namai su El; bet amžiną sandorą jis padėjo man, visame kame sutvarkytą ir saugomą; juk visas mano išsigelbėjimas ir visas mano troškimas ⟨yra⟩ — juk jis neleis ⟨jos⟩ išdygti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/5-8.1792478745344.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Juk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mano namai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžiną"
+    },
+    {
+      "surface": "שם",
+      "gloss": "padėjo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ערוכה",
+      "gloss": "sutvarkytą"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visame kame"
+    },
+    {
+      "surface": "ושמרה",
+      "gloss": "ir saugomą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mano išsigelbėjimas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "mano troškimas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neleis"
+    },
+    {
+      "surface": "יצמיח",
+      "gloss": "išdygti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:45.345474604Z",
+  "model": "glm-5.3"
+}

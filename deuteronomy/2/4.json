@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tad",
+      "rationale": "Sąryšis tarp „jie bijos jūsų“ ir „saugokitės“ lietuvių kalboje reikalauja jungtuko"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Jahvė kreipiasi į Mošę, o šis — į tautą"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ tautai įsakyk sakydamas: jūs keliaujate per jūsų brolių, Esavo sūnų, gyvenančių Seire, krašto ribą, ir jie bijos jūsų — tad saugokitės labai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "42f8353fa702b891626b3395906b30779fa9bb32b9392bd0b91f3acd7b2ca392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/2\/1-4.1792474842831.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ir ⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "צו",
+      "gloss": "įsakyk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "keliaujate per"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "per krašto ribą"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų brolių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "gyvenančių"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ir jie bijos"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "jūsų"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "tad saugokitės"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:42.833333249Z",
+  "model": "glm-5.3"
+}

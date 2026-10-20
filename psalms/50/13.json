@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "„stipruosius“ ar „jaučius“ — žodis reiškia ir galingąjį, ir jautį; čia apie aukojamus jaučius."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ožiai-atriukai",
+      "rationale": "עתודים — vyriškos lyties ožys, daugiskaita tik apie ožkus."
+    }
+  ],
+  "translation": "Ar aš valgau jaučių mėsą, ar geriu ožių-atriukų kraują?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/50\/13-16.1792488012374.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "ar valgau"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mėsą"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "jaučių"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ar geriu kraują"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ožių-atriukų"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "geriu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:12.374999247Z",
+  "model": "glm-5.3"
+}

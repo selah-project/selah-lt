@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šis⟩",
+      "rationale": "hebrajiškame veiksnyje nėra įsakiusiojo įvardžio; lietuvių kalbai reikia nuorodos"
+    },
+    {
+      "kind": "elision",
+      "subject": "רק",
+      "gloss": "׳tik׳ apriboja sakinyje, kas išversta jungtuku ׳tik…reikalu׳"
+    }
+  ],
+  "translation": "Kadangi Davidas darė ⟨את⟩ tai, kas teisu, Jahvės akyse, ir nenukrypo nuo nieko, ką ⟨šis⟩ jam įsakė, visas savo gyvenimo dienas — tik Urijo hetito reikalu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/15\/5-8.1792479411392.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, kas teisu"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "kas teisu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nukrypo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nuo nieko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "jam įsakė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savo gyvenimo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "reikalu"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijo"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetito"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:51.393346588Z",
+  "model": "glm-5.3"
+}

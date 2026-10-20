@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 30:23",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "זרעך",
+      "rationale": "„Tavojo sėklos lietų“ — construct grandinė; „lietus sėklai, kurią sėsi“ yra aiškesnis variantas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "karas",
+      "rationale": "כר — pažodžiui „avinas“ (iš jo riebumo), per metonimiją „karštas plotas ganymui“"
+    }
+  ],
+  "translation": "Ir duos lietų tavojojai sėklai, kurią sėsi ⟨את⟩ žemėje, ir duonos — žemės derliaus; ir jis bus riebus ir syvus; tavo gyvuliai ganysis tą dieną karoje, plačiame.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "554d32760035889ae25d2c76a655812080a171d00419b3d2a7cd052336baef77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/21-24.1792481290956.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Ir duos"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "lietų"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavojojai sėklai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sėsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemę"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ir duonos"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "derliaus"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "riebus"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ir syvus"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ganysis"
+    },
+    {
+      "surface": "מקניך",
+      "gloss": "tavo gyvuliai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "כר",
+      "gloss": "karoje"
+    },
+    {
+      "surface": "נרחב",
+      "gloss": "plačiame"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:10.957586734Z",
+  "model": "glm-5.3"
+}

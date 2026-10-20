@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 11:7",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "Hebrajų הוציא neturi veiksnio — pridėta ⟨aš⟩, nes kalbantis Jahvė."
+    },
+    {
+      "kind": "crux",
+      "subject": "išvesiu",
+      "rationale": "הוציא perfektas be veiksnio: 'aš išvesiu' (KJV) vs pasyvas 'būsite išvesti' (ASV\/JPS) — pasirinktas aktyvus su ⟨aš⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mėsa",
+      "rationale": "הבשר — 'mėsa\/ kūnas'; katilo ir mėsos paveikslas iš Ez 11, 3 pasakyto priekaišto apverčiamas."
+    }
+  ],
+  "translation": "Todėl taip sako Adonai Jahvė: jūsų užmuštieji, kuriuos padėjote jos viduryje, — tai mėsa, o ji — katilas, ir ⟨את⟩ jus ⟨aš⟩ išvesiu iš jos vidurio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9479fba0d70351b7b878e681557005729a0aad4369cf9b312c7147adaac4315c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/5-8.1792483969594.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "jūsų užmuštieji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "padėjote"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "jos viduryje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mėsa"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o ji"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "katilas"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "išvesiu"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "iš jos vidurio"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:49.596565526Z",
+  "model": "glm-5.3"
+}

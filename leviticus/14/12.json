@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaltos auką",
+      "rationale": "אשם — 'kaltė \/ kaltės auka', ne 'nuodėmės auka' (חטאת)"
+    },
+    {
+      "kind": "addition",
+      "subject": "kaip",
+      "rationale": "lietuvių gramatikai reikalingas palyginimo žodelis prie לאשם"
+    }
+  ],
+  "translation": "Ir kunigas ims vieną ⟨את⟩ avinėlį ir priartins ⟨את⟩ jį kaip kaltos auką, ir ⟨את⟩ logą aliejaus, ir mostelės ⟨את⟩ jais — mostas — priešais Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/9-12.1792473379031.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ir ims"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avinėlį"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "avinėlį"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ir priartins"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "kaip kaltos auką"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "logą aliejaus"
+    },
+    {
+      "surface": "לג",
+      "gloss": "logą"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "aliejaus"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ir mostelės"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jais",
+      "marks": "jais"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mostas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:19.034365024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "avys ir ožkos",
+      "rationale": "צאן yra kolektyvinis žodis avių ir ožkų kaimenei — vienu žodžiu lietuvių neturi."
+    }
+  ],
+  "translation": "Ir jo broliai nuėjo ganyti ⟨את⟩ avų ir ožkų — jų tėvo kaimenę — Šcheme.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "21a7c6126ef579e35247b0fe701e97d9023291e430c1f2672301550953d5f720",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/37\/9-12.1792471737079.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo broliai"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ganyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avų ir ožkų"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avų ir ožkų"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jų tėvo kaimenę"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Šcheme"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:57.084373459Z",
+  "model": "glm-5.3"
+}

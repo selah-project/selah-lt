@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אילת השחר",
+      "rationale": "„Rytmečio elnė“ — melodijos arba tono pavadinimas, tiksliai nežinomas."
+    },
+    {
+      "kind": "addition",
+      "subject": "pagal",
+      "rationale": "Hebrajų על čia nurodo muzikinį pagrindą; lietuviškai pridėtas žodis „pagal“."
+    }
+  ],
+  "translation": "Vadovui, pagal „Rytmečio elnę“ — mizmoras Davidui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/22\/1-4.1792487641276.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vadovui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pagal"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "elnę"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "rytmečio"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:14:01.276606766Z",
+  "model": "glm-5.3"
+}

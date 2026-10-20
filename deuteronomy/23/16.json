@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Antrasis אדניו pažodžiui 'jo ponas' — lietuvių kalboje reikia 'savo', kad nesikirstų su pirmuoju."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Įstatymas tiesiogiai kreipiasi į Izraelį dėl pabėgusio vergo."
+    }
+  ],
+  "translation": "Neišduok vergo jo ponui, kuris išsigelbės pas tave nuo savo pono.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/23\/13-16.1792475411100.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "išduok"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jo poną"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "išsigelbės"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:11.105484146Z",
+  "model": "glm-5.3"
+}

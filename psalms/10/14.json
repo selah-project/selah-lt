@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "save",
+      "rationale": "Lietuvių kalbai reikia objekto prie 'palieka'; hebrajiškas žodis 'tai' praleistas."
+    },
+    {
+      "kind": "crux",
+      "subject": "לתת בידך",
+      "rationale": "'kad atiduotum į savo ranką' — atlyginti, atmokėti; žodžių junginys pažodžiui 'duoti į ranką'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכה",
+      "rationale": "Žodis 'vargšas nelaimėlis' Tanache labai retas."
+    }
+  ],
+  "translation": "Tu matei, nes Tu žiūri į vargą ir apmaudą, kad atiduotum į savo ranką; vargšas palieka save ant Tavęs — Tapo našlaičio pagalbininku buvai Tu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/10\/13-16.1792487489192.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "matei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "į vargą"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ir apmaudą"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "žiūri"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "atiduotum"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "į savo ranką"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ant Tavęs"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "palieka"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "vargšas"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "našlaičio"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "buvai"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pagalbininkas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:29.193887020Z",
+  "model": "glm-5.3"
+}

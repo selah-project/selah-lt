@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 7:21",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajiškas ישם neturi būsimosios laiko formos — lietuvių kalbai reikia ⟨bus⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "KJV\/JPS 'išaukštintas, aukštas' vs BSB 'griuvėsių krūva' — dauguma laiko originalu 'aukštas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "במה",
+      "rationale": "'kodėl' arba 'kuo' — netiesioginis klausimas apie Jahvės poelį"
+    }
+  ],
+  "translation": "Ir šis namas, kuris buvo išaukštintas, kiekvienam praeinančiam pro jį ⟨bus⟩ nuniokotas, ir jis sakys: kodėl Jahvė padarė taip šiai žemei ir šiam namui?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e648513a69764597500a1be4d0661eca8dc208b697db0994eb5811f334379434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/7\/21-22.1792493376535.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Ir namas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "išaukštintas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kiekvienam"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "praeinančiam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pro jį"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "⟨bus⟩ nuniokotas"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir sakys"
+    },
+    {
+      "surface": "במה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "žemei"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šiai"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ir namui"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiam"
+    }
+  ],
+  "timestamp": "2026-10-20T10:49:36.535658745Z",
+  "model": "glm-5.3"
+}

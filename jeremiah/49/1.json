@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 49:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "hebrajiškas klausimas be klausiamojo žodžio; lietuvių kalbai reikia „ar“"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלכם",
+      "rationale": "„jų karalius“ arba tikrasis vardas Malkamas (Amono dievybė, kaip ylt\/asv); žodis gali būti ir viena, ir kita"
+    }
+  ],
+  "translation": "Dėl Amono vaikų taip sako Jahvė: ar Jisraeliui nėra sūnų, ar jam nėra paveldėtojo? Kodėl gi jų karalius paveldėjo ⟨את⟩ Gadą, ir jo tauta gyvena jo miestuose?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bfe7fd920f75f6a76fa560c5fbcfa966d8145954935e9be87adb1679487f7681",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/49\/1-4.1792483663866.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "dėl vaikų"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ar nėra"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "paveldėtojo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "ירש",
+      "gloss": "paveldėjo"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "jų karalius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gadą"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadą"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ir jo tauta"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "jo miestuose"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyvena"
+    }
+  ],
+  "timestamp": "2026-10-20T08:07:43.867318220Z",
+  "model": "glm-5.3"
+}

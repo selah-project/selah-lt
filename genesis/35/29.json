@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "iškvėpė",
+      "rationale": "ויגוע — pažodžiui 'atpalaidavo kvapą', lietuviškai išversta kaip 'iškvėpė ⟨dvasią⟩'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "buvo suestas pas savo tautą",
+      "rationale": "hebrajiškas posakis 'surinktas pas savo tautą' apie mirtį, išlaikytas pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "turėjęs",
+      "rationale": "hebrajiškai be veiksmažodžio: 'senas ir sočius dienas', lietuvių kalbai reikia žodžio 'turėjęs'"
+    }
+  ],
+  "translation": "Ir Jicchakas iškvėpė ⟨dvasią⟩ ir mirė, ir buvo suestas pas savo tautą, senas ir sočius dienas turėjęs; ir palaidojo ⟨את⟩ jį Esavas ir Jaakovas, jo sūnūs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d2bcb42c179822f6ec0bd6b95030e0f072c77b09387fddeaff58abc50b66a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/29-29.1792471699363.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "iškvėpė"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchakas"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ir buvo suestas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "senas"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir sočius"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ir palaidojo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "Esavą ir Jaakovą"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavas"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ir Jaakovas"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnūs"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:19.365363481Z",
+  "model": "glm-5.3"
+}

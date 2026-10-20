@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti' šioje vietoje"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Tiesioginis kreipimasis į Jahvę"
+    }
+  ],
+  "translation": "Tu ⟨esi⟩ arti, Jahve, ir visi Tavo įsakymai — tiesa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/149-152.1792489121754.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Tavo įsakymai"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesa"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:41.755126093Z",
+  "model": "glm-5.3"
+}

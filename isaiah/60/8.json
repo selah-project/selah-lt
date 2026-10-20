@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "klausimas",
+      "rationale": "Retsykų klausimas 'Kas jie?' kreipiasi į skaitytoją, Sioną kviesdamas atpažinti ateinančiuosius"
+    },
+    {
+      "kind": "substitution",
+      "subject": "langus",
+      "rationale": "ארבתיהם — grotiniai langai, karvelidžių angos; 'langai' praranda karvelidės vaizdą"
+    }
+  ],
+  "translation": "Kas jie, kad skraido lyg debesis, lyg balandžiai į savo langus?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "00cb4385c2fef0c074be0944cca7dba7054fe21fb565244ba2bf8776676a51d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/60\/5-8.1792481902355.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "lyg debesis"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "skraido"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "lyg balandžiai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "savo langus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:22.357282353Z",
+  "model": "glm-5.3"
+}

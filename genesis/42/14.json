@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų Sakinys be veiksmažodžio; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Jozefas broliams",
+      "rationale": "Tiesioginis kreipimasis su kaltinimu"
+    }
+  ],
+  "translation": "Ir Jozefas tarė jiems: Tai ⟨yra⟩ tai, ką aš jums sakiais, sakydamas: žvalgai jūs esate.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/13-16.1792471905741.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aš sakiau"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "žvalgai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs esate"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:45.745480836Z",
+  "model": "glm-5.3"
+}

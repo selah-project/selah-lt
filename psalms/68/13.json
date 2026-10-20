@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידדון ידדון",
+      "rationale": "Veiksmažodžio kartojimas — bėgančiųjų skubos ritmas; lietuviškame dvigubame „bėga, bėga“ išlieka."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נות",
+      "rationale": "Retas dalykas נות בית — „namie pasilikusioji“; čia moteris, dalijanti grobį, kol vyrai kariauja."
+    }
+  ],
+  "translation": "Kariuomenių karaliai bėga, bėga, ir namie tysanti moteris dalija grobį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/13-16.1792488320722.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "karaliai"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "kariuomenių"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "bėga"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "bėga"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ir tysanti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namie"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "dalija"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "grobį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:20.723452064Z",
+  "model": "glm-5.3"
+}

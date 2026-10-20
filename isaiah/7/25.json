@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראת שמיר ושית",
+      "rationale": "Pažodžiui 'ateis baimė šamerio ir šyto' (KJV struktūra), bet JPS\/ASV skaito יראת kaip infinitivyvą — 'neisi ten bijodamas erškėčių'; pasirinktas antrasis skaitymas."
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Hebrajiškasis תבוא (2 asmens vns.) reikalauja aiškaus 'tu' lietuvių kalboje."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨vieta⟩",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio, kurio hebrajų tekstas neturi — למשלח\/למרמס yra abstraktūs tikslai."
+    },
+    {
+      "kind": "hapax",
+      "subject": "במעדר",
+      "rationale": "Kauptukas — retas žodis, Tanache tik Izajoje ir Iš 22 mėnimo kontekste."
+    }
+  ],
+  "translation": "Ir visi kalnai, kurie kauptuku ravimi, — ten tu neisi, nesibijodamas šamerio ir erškėčių; ir jie bus ⟨vieta⟩ jaučių išleidimui ir avies mindymui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17bb0abbcffbc4a2278e931452eab3736fb615fd513cb298f3f7e0251fd3ff3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/7\/25-25.1792480630915.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ir visi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalnai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "kauptuku"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "ravimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "eisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "baimė"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "šamerio"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ir erškėčių"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir jie bus"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "išleidimui"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jaučių"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "ir mindymui"
+    },
+    {
+      "surface": "שה",
+      "gloss": "avies"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:10.916085988Z",
+  "model": "glm-5.3"
+}

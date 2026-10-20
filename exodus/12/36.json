@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "Hifil 'padarė, kad jie prašytų' arba 'išpildė jų prašymus' — KJV 'paskolino' yra klaidinantis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישאלו \/ וישאלום",
+      "rationale": "Ta pati šaknis שאל eilutėse 35 ir 36 — prašymo kartojimas, lietuviškame tekste išlaikytas 'prašė\/išprašė'."
+    }
+  ],
+  "translation": "Ir Jahvė davė ⟨את⟩ tautos malonę micriečių akyse, ir jie išprašė ⟨iš jų⟩, ir jie nusiaubė ⟨את⟩ Micraimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/33-36.1792472456104.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ir Jahvė"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautos malonę"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micriečių"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "jie išprašė juos"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "jie nusiaubė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimą"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:00:56.111724155Z",
+  "model": "glm-5.3"
+}

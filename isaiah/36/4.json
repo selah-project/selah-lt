@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 36:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Priegaityklis 'pas' išplauta į žodį 'Pasakykite' — atskira glosa tuščia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבטחון \/ בטחת",
+      "rationale": "Toji pati šaknis bטח kartojama — 'pasitikėjimas, kuriuo pasitiki' — paronomazija."
+    },
+    {
+      "kind": "you",
+      "subject": "Chizkijahu",
+      "rationale": "Rabšakės žodžiai per pasiuntinius skirti karaliui Chizkijahu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Taip sako",
+      "rationale": "כה אמר — karališkojo pranešimo formulė, paliekama pažodžiui."
+    }
+  ],
+  "translation": "Ir Rabšakė tarė jiems: Pasakykite, prašau, Chizkijahu: Taip sako didysis karalius, Aššūro karalius: Koks tai pasitikėjimas, kuriuo tu pasitiki?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/1-4.1792481381267.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "šakė (Rabšakė)"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Pasakykite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "didysis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aššūro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Koks"
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "pasitikėjimas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuo"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "tu pasitiki"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:41.269561396Z",
+  "model": "glm-5.3"
+}

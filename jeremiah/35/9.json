@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "Hebrew negative purpose particle rendered as 'kad ne', no single Lithuanian equivalent"
+    }
+  ],
+  "translation": "ir kad nestatytume namų sau gyventi, ir vynuogyno, ir lauko, ir sėklos mums nebus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ecd10d38aec082fd033188a4974036e11d6bbd49af0c57591fe2abeb9bbfb3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/35\/9-12.1792483100642.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "ir kad ne"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "statytume"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "namų"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "sau gyventi"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "ir vynuogyno"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "ir lauko"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ir sėklos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:20.644187253Z",
+  "model": "glm-5.3"
+}

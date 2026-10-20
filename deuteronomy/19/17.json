@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 19:17",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje konstrukcijoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prieš",
+      "rationale": "לפני pažodžiui „veidas \/ asmens akivaizdoje“ — „prieš Jahvę“ reiškia Jo akivaizdoje"
+    }
+  ],
+  "translation": "Ir stos abu vyrai, tarp kurių ⟨yra⟩ ginčas, prieš Jahvę, prieš kunigus ir teisėjus, kurie bus tomis dienomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab4e65d3a425e3f948d1a6ca9018f26c24d8a0e31f939baf77914c7b109a76b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/17-20.1792475250638.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ir stos"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tarp kurių"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "ginčas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "והשפטים",
+      "gloss": "ir teisėjus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tomis dienomis"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tomis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:30.639649602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio; hebrajiškas ויהי — „ir atsitiko“."
+    },
+    {
+      "kind": "you",
+      "subject": "Jremejui",
+      "rationale": "Žodis antrą kartą kreipiamas tiesiogiai į pranašą."
+    }
+  ],
+  "translation": "Ir buvo Jahvės žodis man antrą kartą, sakant:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "44498b7b5e71b0b483896439d95876c5610ea883047a6088f0ad73965c593e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/13\/1-4.1792482484343.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "antrą kartą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    }
+  ],
+  "timestamp": "2026-10-20T07:48:04.344934397Z",
+  "model": "glm-5.3"
+}

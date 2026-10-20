@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame tekste nėra saistyklės tarp milto kiekio ir minchos"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efos ir hino saikai",
+      "rationale": "eilei nurodomi tikslūs aukos saikai — dešimtoji efa, ketvirtis hino"
+    }
+  ],
+  "translation": "ir dešimtoji efos dalis smulkių miltų ⟨yra⟩ mincha, sumaišyta su muistytu aliejumi — ketvirtis hino.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7672d6aeecda68b44684de4677fa4f24e49ca3ff994455892f4c1817dddc7ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/5-8.1792474561234.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "ir dešimtoji dalis"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efos"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "smulkių miltų"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "minchai"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "sumaišyta"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "su aliejumi"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "muistytu"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "ketvirtis"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hino"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:01.235190242Z",
+  "model": "glm-5.3"
+}

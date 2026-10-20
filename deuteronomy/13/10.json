@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרג תהרגנו",
+      "rationale": "Nehartavimas — infinitivas absoliutus + baigtinis veiksmažodis, „užmuši būtinai užmuši“, išskaidyta į „būtinai užmuši“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ידך תהיה בו",
+      "rationale": "Pažodžiui „tavo ranka bus jame“ — idiomą reiškia „būti prieš jį, pirmajam smogui“."
+    }
+  ],
+  "translation": "O tu jį būtinai užmuši — tavo ranka bus prieš jį pirmiausia, kad jį nužudytum, o paskui visa tautos ranka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/9-12.1792475128122.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "užmuši"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "būtinai užmuši jį"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tavo ranka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pirmiausia"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "kad jį nužudytum"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "o ranka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "paskui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:28.124721002Z",
+  "model": "glm-5.3"
+}

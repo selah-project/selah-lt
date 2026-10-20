@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Bendratis absolutyva — „pilnai atlygins“; žodžio kartojimas lietuviškai išreikštas prieveiksmiu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשבר",
+      "rationale": "Lexiko žodynai skaito „nulaužta\/sudaužyta“, bet dauguma vertimų čia skaito נשבר kaip „perplėšta (žvėries)“ — hebrajiškas žodis pats sako tik „sulūžo“."
+    }
+  ],
+  "translation": "Ir jei žmogus pasiskolina iš savo artimo, o ⟨tai⟩ būna sudaužyta arba nudvėsta — jo šeimininkui nesant su juo, jis pilnai atlygins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/13-16.1792472657158.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ir jei"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "pasiskolins"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "iš"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "o būna sudaužyta"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nudvėsta"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "jo šeimininkas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pilnai"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlygins"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:17.160471665Z",
+  "model": "glm-5.3"
+}

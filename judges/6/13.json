@@ -1,0 +1,159 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 6:13",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jei",
+      "rationale": "lietuvių sąlygos sakinys reikalauja „jei“, hebrajiškas ויש-tvarka jo neturi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mano pone",
+      "rationale": "אדני čia Adonai apie žmogų (angelą), ne apie Dievą — todėl „pone“, ne „Adonai“"
+    },
+    {
+      "kind": "you",
+      "subject": "Gideonui",
+      "rationale": "tiesioginis kreipimasis į pasiuntinį — klausimas, pilnas skundo"
+    }
+  ],
+  "translation": "Ir Gideonas tarė jam: Prašau, mano pone, jei Jahvė yra su mumis, tai kodėl mus ištiko visa tai? Ir kur visi Jo stebuklai, kuriuos mums pasakojo mūsų tėvai, sakydami: Ar ne Jahvė išvedė mus iš Micraimo? O dabar Jahvė mus paliko ir atidavė į Midjano delną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b67d51f1320339f6625ce23b4866910b970c98cf92ab09066d83cfeb12a76cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/6\/13-16.1792476443911.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideonas"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "jei yra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "su mumis"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "tai kodėl"
+    },
+    {
+      "surface": "מצאתנו",
+      "gloss": "mus ištiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "ir kur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "Jo stebuklai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "pasakojo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "mūsų tėvai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "העלנו",
+      "gloss": "išvedė mus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "o dabar"
+    },
+    {
+      "surface": "נטשנו",
+      "gloss": "mus paliko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויתננו",
+      "gloss": "ir atidavė"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "į delną"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjano"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:23.912727929Z",
+  "model": "glm-5.3"
+}

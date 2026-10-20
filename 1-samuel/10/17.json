@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sušaukė",
+      "rationale": "ויצעק iš šaknies 'rėkti'; čia reiškia garsiai šaukiant sušaukti susirinkimą"
+    }
+  ],
+  "translation": "Ir Šmuelis sušaukė ⟨את⟩ tautą pas Jahvę į Micpą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/17-20.1792477209180.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Ir sušaukė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "į Micpą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:20:09.181082025Z",
+  "model": "glm-5.3"
+}

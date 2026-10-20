@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתות\/פתים",
+      "rationale": "veiksmažodis 'laužyti į gabalus' ir daiktavardis 'gabalai' — ta pati šaknis, lietuviškai išlaikyta 'gabalėn'"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų neturi veiksmažodžio — ⟨yra⟩ pridėta"
+    }
+  ],
+  "translation": "Sulaužyk ją gabalėn ir užpilk ant jos aliejaus — tai mincha.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/2\/5-8.1792473107673.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Sulaužyk gabalėn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "gabalėn"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ir užpilk"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ant jos"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejaus"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:47.675301927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų be saityno — 'jo galva <yra> grynas auksas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתם פז",
+      "rationale": "du aukso žodžiai eilėje — 'kaltinis-auksas, grynas-auksas', sustiprinimas"
+    }
+  ],
+  "translation": "Jo galva — grynas kaltinis auksas, jo garbanos — krentančios sruogos, juodos kaip varnas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/5\/9-12.1792490826932.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "jo galva"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "kaltinis auksas"
+    },
+    {
+      "surface": "פז",
+      "gloss": "grynas"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "jo garbanos"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "krentančios sruogos"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "juodos"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "kaip varnas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:06.933022244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עברים עליו",
+      "rationale": "pažodžiui 'pereinančius per jį' — girnos aikštelė, pro kurią jie ėjo; čia 'ateinančius pas jį'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebrajiškas vav pradžioje verčiamas jungiamuoju 'ir' arba paleidžiamas"
+    }
+  ],
+  "translation": "Ir Aravna pažvelgė ir pamatė ⟨את⟩ karalių ir ⟨את⟩ jo tarnus ateinant pas jį; ir išėjo Aravna ir nusilenkė karaliui veidu iki žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a3f0c1af9ca0afbb80ac8ad67ff3a6e686b7856f06508d65765c859b3d24744c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/17-20.1792478739668.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "ir pažvelgė"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jo tarnus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnus"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ateinančius"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ir nusilenkė"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "veidu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iki žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:39.670912966Z",
+  "model": "glm-5.3"
+}

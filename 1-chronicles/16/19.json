@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "infinitive construct בהיותכם rendered with a bracketed copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maži",
+      "rationale": "כמעט 'like a little' — few in number, adverbial"
+    }
+  ],
+  "translation": "Kai jūs buvote ⟨yra⟩ žmonės skaičiumis, labai maži ir ateiviai joje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/16\/17-20.1792492939811.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "kai jūs buvote"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičiumi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "labai maži"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "ir ateiviai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    }
+  ],
+  "timestamp": "2026-10-20T10:42:19.812248515Z",
+  "model": "glm-5.3"
+}

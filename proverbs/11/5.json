@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuolankiojo",
+      "rationale": "תמים — 'ištisas, sveikas, turintis vientisumą'; lietuviškas žodis turi išreikšti vientisumą, ne be nuodėmės"
+    },
+    {
+      "kind": "crux",
+      "subject": "ו ברשעתו",
+      "rationale": "dėl savo nedorybės (veiksnys) ar savo nedorybėje (vieta) — vertėjai skiriasi"
+    }
+  ],
+  "translation": "Nuolankiojo cedek ištiesina jo kelią, o dėl savo nedorybės kris blogasis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/11\/5-8.1792489603300.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuolankiojo"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ištiesina"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jo kelią"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "o dėl savo nedorybės"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "kris"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "blogasis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:46:43.300711588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 2:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kariai",
+      "rationale": "hebrajiškas כל הפקדים למחנה — 'visi suskaičiuotieji Reubeno stovyklai'; pavardytinis 'kariai' pridėtas lietuviškai gramatikai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šimtas tūkstančių ir vienas tūkstantis penkiasdešimt",
+      "rationale": "hebrajiškas skaičiavimas 'šimtas tūkstančių ir vienas ir penkiasdešimt tūkstančių' pateiktas vientisesne lietuviška forma"
+    }
+  ],
+  "translation": "Visi suskaičiuotieji Reubeno stovyklos kariai: šimtas tūkstančių ir vienas tūkstantis penki šimtai ir penkiasdešimt — pagal jų kariuomenes; ir antri jie iškeliaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/2\/13-16.1792473867340.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "suskaičiuotieji"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "stovyklos"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubeno"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "šimtas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ir vienas"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "penkiasdešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstantis"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ir keturi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ir penkiasdešimt"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pagal jų kariuomenes"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ir antri"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "jie iškeliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:27.341879261Z",
+  "model": "glm-5.3"
+}

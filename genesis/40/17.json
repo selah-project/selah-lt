@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajiškame sakinyje nėra veiksmažodžio — tik krepšys su turiniu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sapnas",
+      "rationale": "Sapno įvaizdis — paukštis ėdantis maistą nuo galvos — dar neatskleistas; aiškinimas ateis v. 19."
+    }
+  ],
+  "translation": "Ir viršutiniame krepšyje ⟨buvo⟩ visokio valgio, faraono maisto, kepėjo darbo, o paukštis ėdė ⟨את⟩ juos iš krepšio nuo mano galvos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bdccd1b815fd3fda6a6b5d16a0ff9789c7365e7bf37fae9208d00f75c53e176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/40\/17-20.1792471854210.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "ir krepšyje"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "viršutiniame"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "visokio"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "valgio"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraono"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "kepėjo"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ir paukštis"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ėdė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "krepšio"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mano galvos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:54.212203894Z",
+  "model": "glm-5.3"
+}

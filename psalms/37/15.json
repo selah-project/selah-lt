@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/קשת",
+      "rationale": "34 eilutės ginklai grįžta 15 eilutėje prieš juos pačius — chiastinis atsakymas, išlieka ir lietuviškai"
+    }
+  ],
+  "translation": "Jų kardas įeis į jų širdį, ir jų lankai bus sudaužyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/13-16.1792487864862.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "jų kardas"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "įeis"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "į jų širdį"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ir jų lankai"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bus sudaužyti"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:44.863602815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "keturiasdešimt metų",
+      "rationale": "skaičiuojami dykumos metai"
+    },
+    {
+      "kind": "addition",
+      "subject": "token skaičius",
+      "rationale": "duotas eilutės tokenų sąrašas turi 14 įrašų su klaida (pakartotas ויקרא iš 1 eilutės); hebrajų tekstas turi 14 žodžių pradedant ואולך — čia pateikti 15, pirmasis tuščias"
+    }
+  ],
+  "translation": "⟨את⟩ Ir aš vedžiau ⟨את⟩ jus keturiasdešimt metų dykumoje: nenusidėvėjo jūsų drabužiai nuo jūsų, ir tavo sandalas nenusidėvėjo nuo tavo kojos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/1-4.1792475481558.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "⟨את⟩ Ir aš vedžiau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "keturiasdešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "nusidėvėjo"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "jūsų drabužiai"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "nuo jūsų"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ir tavo sandalas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "nusidėvėjo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tavo kojos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:21.563556148Z",
+  "model": "glm-5.3"
+}

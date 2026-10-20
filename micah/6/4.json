@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "Lietuviškoje sintaksėje veiksmažodžiui reikalingas įvardis, hebrajų kalbo jis yra kaip galūnė."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלתיך",
+      "gloss": "hebrajiškai pažodžiui 'iškėliau tave aukštyn' — iš Micraimo į Kanaaną."
+    }
+  ],
+  "translation": "Nes aš tave išvedžiau iš Micraimo krašto, iš vergų namų tave išpirkau ir pasiunčiau pirma tavęs ⟨את⟩ Mošę, Aharoną ir Mirjam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/6\/1-4.1792486922755.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "aš tave išvedžiau"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš krašto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "iš namų"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "vergų"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "tave išpirkau"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ir pasiunčiau"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pirma tavęs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošę"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ir Mirjam"
+    }
+  ],
+  "timestamp": "2026-10-20T09:02:02.760067657Z",
+  "model": "glm-5.3"
+}

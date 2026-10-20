@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Mozė tiesiogiai kreipiasi į Jisraelį antruoju asmeniu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "auklėja",
+      "rationale": "ייסר reiškia ir „bausti“, ir „mokyti ištaisyant“; pasirinktas platesnis „auklėja“."
+    }
+  ],
+  "translation": "Ir pažinsi su savo širdimi, kad kaip žmogus auklėja ⟨את⟩ savo sūnų, taip Jahvė, tavo Elohim, tave auklėja.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/5-8.1792475028385.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ir pažinsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "savo širdimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "auklėja"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sūnų"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savo sūnų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "tave auklėja"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:48.388373401Z",
+  "model": "glm-5.3"
+}

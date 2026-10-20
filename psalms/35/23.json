@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨už⟩",
+      "rationale": "Hebrajų כיפות prielinksnis l- išreikštas lietuvišku „už“"
+    }
+  ],
+  "translation": "Pabusk ir atsikelk dėl mano teismo, mano Elohimai ir mano Adonai, dėl mano bylos!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/35\/21-24.1792487806625.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "pabusk"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ir atsikelk"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "už mano teismą"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ir mano Adonai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "už mano bylą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:46.626150907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 25:41",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrew lacks a copula between 'your maidservant' and 'for a servant'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "human referent (David), rendered 'mano pono', not Adonai"
+    }
+  ],
+  "translation": "Ir ji pakilo ir nusilenkė veidu iki žemės, ir tarė: Štai tavo tarnaitė ⟨yra⟩ tarnaitei plauti kojas tarnų mano pono.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1b5a8d3437b6470f1a4edf2da83fc949571c49d27ee6398c90fd91af03514ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/41-44.1792477839885.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ir ji pakilo"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "nusilenkė"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "veidu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "iki žemės"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tavo tarnaitė"
+    },
+    {
+      "surface": "לשפחה",
+      "gloss": "tarnaitei"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "plauti"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnų"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:39.886405429Z",
+  "model": "glm-5.3"
+}

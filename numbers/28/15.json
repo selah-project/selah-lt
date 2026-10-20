@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 28:15",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על",
+      "rationale": "„ant\/virš“ čia reiškia „be to, kartu su“ — ne fizinis aukštybės santykis"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ ⟨ji⟩",
+      "rationale": "hebrajų kalboje nėra kopulos ir įvardžio; lietuvių kalbai jų reikia aiškumoi"
+    }
+  ],
+  "translation": "ir vienas ožys iš ožkų — auka už nuodėmę Jahvei; kartu su nuolatine deginamąja auka ⟨yra⟩ atliekama ⟨ji⟩ ir jos liejamoji auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/13-16.1792474587780.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ir ožys"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "iš ožkų"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "auka už nuodėmę"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "על",
+      "gloss": "kartu su"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "deginamąja auka"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "nuolatine"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "atliekama"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "ir jos liejamoji auka"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:27.782075341Z",
+  "model": "glm-5.3"
+}

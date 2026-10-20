@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kraujas prie kraujo",
+      "rationale": "דמים בדמים — pažodžiui 'kraujai kraujuose'; idiomą reikia išlaikyti artimą pažodiniam"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה וכחש",
+      "rationale": "Nusikaltimų sąrašas be veiksmažodžių — infinityvų kaupimas suteikia ritmą, lietuvių kalboi pavartoti daiktavardžiai"
+    }
+  ],
+  "translation": "Prakeikimas ir melas, ir žudymas, ir vagystė, ir svetimavimas — jie pratrūko, ir kraujas prie kraujo prisilietė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/4\/1-4.1792486168076.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Prakeikimas"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ir melas"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ir žudymas"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ir vagystė"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ir svetimavimas"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "pratrūko"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ir kraujas"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "prie kraujo"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "prisilietė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:49:28.078219348Z",
+  "model": "glm-5.3"
+}

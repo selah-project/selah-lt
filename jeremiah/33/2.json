@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשה…אותה",
+      "rationale": "Kas yra „ją“ — miestas, žemė ar visa eilutės žinia; vertėjai skiriasi"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia santaupos, kurios hebrajų tekstas neturi"
+    }
+  ],
+  "translation": "Taip sako Jahvė, jos daręsis, Jahvė, ją formavęsis, kad ją įtvirtintų — Jahvė ⟨yra⟩ jo vardas:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/1-4.1792483147306.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daręsis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "formavęsis"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (miestą)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "kad ją įtvirtintų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:59:07.307824275Z",
+  "model": "glm-5.3"
+}

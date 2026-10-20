@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפלא",
+      "rationale": "Verčiamas 'pašventinti\/pažymėti išskirtinai' (pōlā'); KJV 'singular', JPS 'clearly utter', ASV 'accomplish' — skirtingos reikšmės."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשות",
+      "rationale": "Ne 'sielos', o 'asmenys' — gyvi kvėpuojantys žmonės kaip vertinimo objektas."
+    }
+  ],
+  "translation": "Kalbėk su Jisraelio sūnumis ir pasakyk jiems: jei žmogus pašvenčia pažadą — asmenų vertinimu tavo ⟨yra⟩ Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90e56843ecb0c47becab063a7bec26f525d4fbc7c1b8aa26a2205ef4c88c0b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/1-4.1792473794752.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnumis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir pasakyk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "pašvenčia"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "pažadą"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "vertinimu tavo"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "asmenų"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:14.753749608Z",
+  "model": "glm-5.3"
+}

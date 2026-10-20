@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "את כם yra aleph-tav su asmeniniu priesagu — tiesioginis objektas „jus“, išlaikytas kaip „jums“"
+    }
+  ],
+  "translation": "Ir įsakytau ⟨את⟩ jums ⟨את⟩ tuo metu ⟨את⟩ visus reikalus, kuriuos turite daryti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de8242910b62f82408b93fa2d4d20e394827557b59eafa809ab4805f55b048f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/17-20.1792474866398.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ir įsakytau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums",
+      "marks": "jums"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tuo metu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus reikalus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "reikalus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "turite daryti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:06.400570644Z",
+  "model": "glm-5.3"
+}

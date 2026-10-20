@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "„Sugrąžinti ševut“ — idiomą: sugrąžinti nelaisvės būseną, t. y. atkurti likimą; alternatyviai „sugrąžinsiu belaisvius“ (konkrečiai)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובנתים",
+      "rationale": "Gali reikšti ir „perstatysiu juos“ (miestus, tautą) — „atstatysiu“ laiko statybos vaizdą."
+    }
+  ],
+  "translation": "Ir sugrąžinsiu ⟨את⟩ nelaisvę Jechudos ir ⟨את⟩ nelaisvę Jisraelio, ir atstatysiu juos kaip pirma.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cfc6c5101e64203d782e9a583dcd5b50dbb0d23b1374efc330be3c472d0ddf60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/5-8.1792483116196.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ir sugrąžinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelaisvę"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nelaisvę"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jechudos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nelaisvę"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nelaisvę"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ir atstatysiu juos"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kaip pirma"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:36.198816084Z",
+  "model": "glm-5.3"
+}

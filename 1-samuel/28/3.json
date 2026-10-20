@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ob-šaukėjai",
+      "rationale": "האבות iš אב 'tėvas' — laikoma, kad mirusiųjų dvasias šaukiantis asmuo; 'ragana' ar 'mediumas' — vėlesnis aiškinimas."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הידענים",
+      "rationale": "יִדְּעֹנִי reiškia 'žinantisis' — dvasias būrąsis iš mirusiųjų pasaulio; 'išminčiai-laukiantieji' — pažodžiui sulipdyta."
+    },
+    {
+      "kind": "secret",
+      "subject": "būrėjų pašalinimas",
+      "rationale": "Paslėptųjų dalykų — mirusiųjų kvietimo — tema, kuri paruošia 28 skyriaus nekromantijos įvykį."
+    }
+  ],
+  "translation": "O Šmuelis mirė, ir visą Jisraelį apraudojo jį, ir palaidojo jį Ramoje, ⟨ir⟩ jo mieste; ir Šaulas pašalino ob-šaukėjus ir ⟨את⟩ išminčius-laukiančiuosius iš šalies.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/28\/1-4.1792477810800.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "O Šmuelis"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "apraudojo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ir palaidojo jį"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramoje"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "jo mieste"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ir Šaulas"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "pašalino"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ob-šaukėjus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "išminčius-laukiančiuosius"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "išminčius-laukiančiuosius"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "iš šalies"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:10.802753638Z",
+  "model": "glm-5.3"
+}

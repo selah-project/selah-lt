@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצבאת\/צבאו",
+      "rationale": "tos pačios šaknies kartojimas — 'tarnaujančių, kurios tarnavo', lietuviškai atkarta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "veidrodžiai",
+      "rationale": "מראת — veidrodžiai iš poliruoto vario, iš kurių nulietas praustuvas"
+    }
+  ],
+  "translation": "Ir jis padarė ⟨את⟩ praustuvą iš vario ir ⟨את⟩ jos pažastą iš vario — iš veidrodžių moterų, kurios tarnavo Susirinkimo palapinės įėjime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/5-8.1792472997548.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praustuvą"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "praustuvą"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš vario"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jos pažastą-pakabą"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jos pažastą-pakabą"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš vario"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "iš veidrodžių"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "moterų-tarnaujančių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tarnavo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "įėjime"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susirinkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:57.551733350Z",
+  "model": "glm-5.3"
+}

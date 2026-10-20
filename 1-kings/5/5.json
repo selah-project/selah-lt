@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "po savo vynmedžiu ir po savo figmedžiu",
+      "rationale": "Hebrajų idiomos „kiekvienas po savo vynmedžiu ir figmedžiu“ ženklas taikos ir saugumo"
+    },
+    {
+      "kind": "addition",
+      "subject": "kiekvienas",
+      "rationale": "אישׁ čia skirstomasis „kiekvienas“, o ne „vyras“"
+    }
+  ],
+  "translation": "Ir Jėzus gyveno saugiai Judoje ir Izraelyje, kiekvienas po savo vynmedžiu ir po savo figmedžiu, nuo Dano iki Beer-Šebos, visas Saliamono dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/5\/5-8.1792478909669.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "gyveno"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ir Izraelis"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "saugiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "savo vynmedžiu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ir po"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "savo figmedžiu"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "nuo Dano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Saliamono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:29.670531967Z",
+  "model": "glm-5.3"
+}

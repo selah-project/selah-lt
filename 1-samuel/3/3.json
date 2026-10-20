@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heichalas",
+      "rationale": "„heichalas“ — rūmai\/šventykla; lietuvių „šventykla“ būtų vertimas, paliktas skambesys."
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "„ten“ išplaukia iš „kur“ — glossyje išlaikyta, bet verčiant sulietta su „kur“."
+    }
+  ],
+  "translation": "O Elohim žiburys dar nebuvo užgesęs, ir Šmuelis guli Jahvės heichale, kur ⟨yra⟩ Elohim skrynia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/3\/1-4.1792476985416.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "o žiburys"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "dar nebuvo... ne"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "užgesęs"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ir Šmuelis"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "guli"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "heichale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:25.419193976Z",
+  "model": "glm-5.3"
+}

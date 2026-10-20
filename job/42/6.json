@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמאס",
+      "rationale": "Neturi aiškaus objekto: KJV 'atmetu save', JPS 'atmetu savo žodžius', YLT 'to pasibjauriu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨save⟩",
+      "rationale": "Hebrajų veiksmažodis neturi objekto; lietuvių kalbai reikia, ką Ijovas atmeta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/ואפר",
+      "rationale": "'Dulkės' ir 'pelentai' — beveik vienodi skambesys, paronomazija, išlaikyta gretimais žodžiais"
+    }
+  ],
+  "translation": "Dėl to aš atmetu ⟨save⟩ ir gailiuosi ant dulkių ir pelenų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/42\/5-8.1792490883237.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "atmetu"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ir gailiuosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkių"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ir pelenų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:08:03.238641305Z",
+  "model": "glm-5.3"
+}

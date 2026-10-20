@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Lietuviškai reikia veikiamojo daiktavardžio kartojimo, hebrajiško נתן objektas implikuotas"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovo žodžiai Rachelei ir Leai",
+      "rationale": "Jaakovas kalba savo žmonoms — „jūsų tėvas“"
+    }
+  ],
+  "translation": "Ir Elohim išplėšė ⟨את⟩ jūsų tėvo gyvulius ir davė ⟨juos⟩ man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb69e9b2806e86929e3beb31210387000f4f132f28383e16a56f071fbf6d74ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/9-12.1792471632289.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "išplėšė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų tėvo gyvulius"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "gyvulius"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "jūsų tėvo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:12.290599755Z",
+  "model": "glm-5.3"
+}

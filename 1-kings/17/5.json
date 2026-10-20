@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על פני הירדן",
+      "rationale": "pažodžiui 'prieš Jardenę veidą' — idiomatinis judėjimo krypties ar padėties priešais žymėjimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas tekstas neturi veiksmažodžio 'būti' šioje paityje"
+    }
+  ],
+  "translation": "Ir jis nuėjo ir padarė pagal Jahvės žodį: jis nuėjo ir apsigyveno prie Nachalo Kerito, kuris ⟨yra⟩ priešais Jardeno upę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8697c149f4fde41c136e61a559f3a8a872e1b2b817c84d3321f39d04ffb2eb17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/17\/5-8.1792479382350.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pagal žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nuėjo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "apsigyveno"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "prie Nachalo"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פני",
+      "gloss": "priešakį"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardeno"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:22.350823624Z",
+  "model": "glm-5.3"
+}

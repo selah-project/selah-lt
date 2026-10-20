@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו עד (sulietas iš ועד)",
+      "rationale": "Tokeno paviršius išsiskaidė per du žodžius — hebrajų 'עד' ('iki, net') išplėsta į 'ir net', kad būtų skaitoma natūraliai lietuviškai"
+    }
+  ],
+  "translation": "Ir Jėhonatanas nusivilko ⟨את⟩ apsiaustą, kuris buvo ant jo, ir davė jį Davidui, ir savo drabužius, ir savo kardą, ir savo lanką, ir savo diržą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/18\/1-4.1792477460107.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "nusivilko"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jėhonatanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apsiaustą"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "apsiaustą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "buvo ant jo"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ir davė jį"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ir savo drabužius"
+    },
+    {
+      "surface": "ו עד",
+      "gloss": "ir net"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "savo kardą"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ir net"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "savo lanką"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ir net"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "savo diržą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:24:20.110854956Z",
+  "model": "glm-5.3"
+}

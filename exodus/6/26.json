@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas patvirtinamasis sakinys neturi kopulios, lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "על צבאתם",
+      "rationale": "„pagal jų pulkus“ — Israelio išėjimas aprašomas karine terminologija; kai kurie verčia „sau būriais“"
+    }
+  ],
+  "translation": "Tai ⟨yra⟩ tas Ahronas ir Mošė, kuriems Jahvė tarė: Išveskite ⟨את⟩ Jisraelio sūnus iš Micraimo žemės pagal jų pulkus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "689f33bf5af3b1e4ab96bf325e77b2f3117236da145924433cf04301b21bd051",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/6\/25-28.1792472204049.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Tai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "tai Ahronas"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ir Mošė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriems"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Išveskite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pagal"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "jų pulkus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:44.051946662Z",
+  "model": "glm-5.3"
+}

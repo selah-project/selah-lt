@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "todėl",
+      "rationale": "Hebrajų כי אם čia skaitomas kaip išvodos jungtukas; 'todėl' suteikia priežastinį ryšį, kurio hebrajų leksika nešioja pažodžiui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievai",
+      "rationale": "Tautų dievai rašomi mažąja raide — Elohim (Izraelio Dievas) niekada netampa žodžiu 'dievas'."
+    }
+  ],
+  "translation": "ir įmetė ⟨את⟩ jų dievus į ugnį, nes jie — ne dievai, o žmogaus rankų darbas, medis ir akmuo, todėl jie sunaikino juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/37\/17-20.1792481413390.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ir įmetė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų dievus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jų dievus"
+    },
+    {
+      "surface": "באש",
+      "gloss": "į ugnį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨bet⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rankų"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medis"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ir akmuo"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "todėl sunaikino juos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:13.391899906Z",
+  "model": "glm-5.3"
+}

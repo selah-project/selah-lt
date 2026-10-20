@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "turėjo",
+      "rationale": "hebrajiškas klausimo-šaknies sakinys 'o Midjano kunigui — septynios dukterys' be veiksmažodžio"
+    },
+    {
+      "kind": "addition",
+      "subject": "vandenį",
+      "rationale": "ותדלנה 'nuleido kibirus' reiškia sėmti vandenį; papildyta objektas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynias dukteris",
+      "rationale": "skaičius septyni — struktūrinis dalykas eilutėje"
+    }
+  ],
+  "translation": "O Midjano kunigas turėjo septynias dukteris; jos atėjo, sėmė vandenį ir pripildė ⟨את⟩ geldas, kad pagirdytų savo tėvo avis ir ožkas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/13-16.1792472137119.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "o kunigas"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjano"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dukteris"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "jos atėjo"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "sėmė vandenį"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ir pripildė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geldas"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "geldas"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kad pagirdytų"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis ir ožkas"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "savo tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:37.122323414Z",
+  "model": "glm-5.3"
+}

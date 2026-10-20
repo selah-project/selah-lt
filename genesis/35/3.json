@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 35:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suspaudimo dieną",
+      "rationale": "צרה pažodžiui 'suspaudimas, sunkumas' — ne 'sielvartas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "į",
+      "rationale": "lietuvių reikalauja prielinksnio prie veiksmažodžio 'atsiliepė'"
+    }
+  ],
+  "translation": "Ir pasikelsime, ir kilsime į Bet-Elį, ir aš ten padarysiu aukurą El, kuris atsiliepė į mane ⟨את⟩ mano suspaudimo dieną ir buvo su manimi kelyje, kuriuo ėjau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/1-4.1792471777502.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקומה",
+      "gloss": "Ir pasikelsime"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "ir kilsime"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elį"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ir aš padarysiu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הענה",
+      "gloss": "kuris atsiliepė"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mano suspaudimo dieną"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mano... dieną"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "suspaudimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "su manimi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kelyje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuo"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ėjau"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:37.506412052Z",
+  "model": "glm-5.3"
+}

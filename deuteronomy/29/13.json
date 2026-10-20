@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Patių hebrajų idiomą „kirsti sandorą“ lietuviškai išlaikau pažodžiui — „kertu sandorą“."
+    },
+    {
+      "kind": "crux",
+      "subject": "האלה",
+      "rationale": "Žodis reiškia ir „priesaiką“, ir „prakeiksmą“; čia kontekstas — sandoros prakeiksmas."
+    }
+  ],
+  "translation": "Ir ne tik ⟨את⟩ su jumis vienais aš kertu ⟨את⟩ šitą sandorą ir ⟨את⟩ šitą prakeiksmą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/13-16.1792475533298.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "vienais"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kertu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą sandorą"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "šitą prakeiksmą"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "prakeiksmą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:13.302162045Z",
+  "model": "glm-5.3"
+}

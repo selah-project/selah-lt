@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "aramiškai",
+      "rationale": "Nuo Dn 2,4 iki Dn 7,28 tekstas eina aramų kalba — vertimas iš aramų, ne hebrajų."
+    },
+    {
+      "kind": "idiom",
+      "subject": "per amžius gyvenk",
+      "rationale": "Karališkasis pasveikinimas aramų kalba — 'karaliau, gyvenk amžinai'."
+    },
+    {
+      "kind": "addition",
+      "subject": "mes",
+      "rationale": "נחוא be prielinksnio: 'aiškinimą parodysime' — daugiskaitos veikėjas iš konteksto (Chaldėjai)."
+    }
+  ],
+  "translation": "Ir Chaldėjai kalbėjo karaliui ⟨aramiškai⟩: Karaliau, per amžius gyvenk — pasakyk savo tarnams sapną, ir jo aiškinimą parodysime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6dd1a43ceb25a69bb0ec9f934493f2477f8d50a3aa9dd7c0559e1e6b43af615b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/2\/4-4.1792494228380.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Chaldėjai"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "aramiškai"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Karaliau"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "gyvenk"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakyk"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "sapną"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "savo tarnams"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "ir aiškinimą"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "parodysime"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:48.381295292Z",
+  "model": "glm-5.3"
+}

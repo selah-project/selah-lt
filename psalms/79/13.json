@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ganykla",
+      "rationale": "מרעית čia reiškia ganomą kaimenę, ne pačią ganyklą; lietuviškai laikoma „tavo ganyklos avys“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "hebrajiškas kartojimas „kartų kartoms“ išlaikytas pažodžiui"
+    }
+  ],
+  "translation": "O mes — tavo tauta ir avys tavo ganyklos — dėkosime tau per amžius, kartų kartoms pasakosime tavo šlovinimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/79\/13-13.1792488471048.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "o mes"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavo tauta"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ir avys"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "tavo ganyklos"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "dėkosime"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kartų"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kartoms"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "pasakosime"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tavo šlovinimą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:51.049007218Z",
+  "model": "glm-5.3"
+}

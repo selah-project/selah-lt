@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Bet-Šemeš",
+      "rationale": "Hebraiškas vietos vardas reiškia „saulės namai“ — dauguma vertimų prideda paaiškinimą"
+    },
+    {
+      "kind": "elision",
+      "subject": "tai yra",
+      "rationale": "Hebraiškame tekste nėra paaiškinamojo „tai yra“ iš KJV\/ASV"
+    }
+  ],
+  "translation": "Ir jis sudaužys ⟨את⟩ stulpus Bet-Šemeš, ⟨tai yra⟩ saulės namų, kurie Micraimo krašte, ir ⟨את⟩ Micraimo dievų namus jis sudegins ugnyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/43\/13-13.1792483376143.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Ir sudaužys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stulpus"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "stulpus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Šemeš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "krašte"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "namus"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievų"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "jis sudegins"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    }
+  ],
+  "timestamp": "2026-10-20T08:02:56.143709610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 52:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי לי פה",
+      "rationale": "Pažodžiui 'kas man čia?' — nusiskundimas ar retorinis klausimas, su משלו kaip 'jos valdytojai' arba 'jie valdo (kaip tardytojai)'."
+    },
+    {
+      "kind": "crux",
+      "subject": "משלו",
+      "rationale": "Ar 'tie, kurie valdo' (valdytojai), ar retas 'jie vaikšto (su tironija)' — dauguma skaito kaip משל III 'valdyti'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "staugia",
+      "rationale": "ילל — laidotuvių staugimas; KJV 'make them to howl' daro tautą objektu, hebrajiška forma leidžia ir 'patys staugia'."
+    }
+  ],
+  "translation": "Ir dabar — ką ⟨man⟩ čia? sako Jahvė. Taip, mano tauta paimta veltui, jos valdytojai staugia, sako Jahvė, ir nuolat, visą dieną mano vardas niekinamas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/52\/5-8.1792481744358.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ką"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "פה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "paimta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "veltui"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "valdo"
+    },
+    {
+      "surface": "יהילילו",
+      "gloss": "staugia"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "ir nuolat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mano vardas"
+    },
+    {
+      "surface": "מנאץ",
+      "gloss": "niekinamas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:44.358935209Z",
+  "model": "glm-5.3"
+}

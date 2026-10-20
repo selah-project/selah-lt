@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi būdinio — „tvirta tavo buveinė“ be veiksmažodžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "„Tvirta\/patvari“ (JPS) arba sąlyginis „nors ir tvirta“ (KJV „Strong is“) — hebrajų tekstas palieka atvira."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיני \/ קנך",
+      "rationale": "Kenitas (קיני) ir lizdas (קן) — tų pačių priebalsių garsinis ryšys, lietuviškai prarandamas."
+    }
+  ],
+  "translation": "Ir jis pamatė ⟨את⟩ Kenitą, ir pakėlė savo palyginimą, ir tarė: tvirta ⟨yra⟩ tavo buveinė, ir ⟨tu⟩ dedi savo lizdą uoloje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6553d13de5b839e0649c754f9026d569023e12ed6d522afb4916af770c690a36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/24\/21-24.1792474443891.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir jis pamatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenitą"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenitą"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ir pakėlė"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "savo palyginimą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "tvirta"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "tavo buveinė"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ir dedi"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "uoloje"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "savo lizdą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:03.893369678Z",
+  "model": "glm-5.3"
+}

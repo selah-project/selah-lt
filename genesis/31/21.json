@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "upė",
+      "rationale": "הנהר su artikeliu — didžioji upė, tikėtina Eufratas; lietuvių artikelio neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פניו",
+      "rationale": "„dėti veidą į“ — hebrajiškas idiomas krypties traukai; lietuviškai „nukreipė veidą į“."
+    }
+  ],
+  "translation": "Ir jis pabėgo — jis ir visa, kas buvo jo — ir atsikėlė, ir perėjo ⟨את⟩ upę, ir nukreipė ⟨את⟩ savo veidą į Gileado kalną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/21-24.1792471613438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "pabėgo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "buvo jo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "atsikėlė"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upę"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "upę"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nukreipė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo veidą"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savo veidą"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileado"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:53.439893684Z",
+  "model": "glm-5.3"
+}

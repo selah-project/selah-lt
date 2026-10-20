@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 5:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba sako tik „kad taip“ — lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mūsų dievą",
+      "rationale": "אלהינו čia filistiečių lūpose apie Dagoną — mažąja raide, ne Elohim forma"
+    }
+  ],
+  "translation": "Ir pamatė Asdodo vyrai, kad taip ⟨yra⟩, ir tarė: neturi pasilikti pas mus Jisraelio Elohim skrynia, nes jo ranka tapo kieta prieš mus ir prieš Dagoną, mūsų dievą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/5\/5-8.1792477123631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asdodo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "pasilikti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynia"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "pas mus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "tapo kieta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "prieš mus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir prieš"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoną"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų dievą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:43.632595573Z",
+  "model": "glm-5.3"
+}

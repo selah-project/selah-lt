@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Urim ir Tumim",
+      "rationale": "Hebrajiški daiktavardžiai rašomi pagal skambesį: 'Šviesos' ir ' Tobulumai' — niekada neverčiami"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Urim ir Tumim",
+      "rationale": "Orakulo objektai, kurių tiksli prigimtis ir naudojimas Tanache neužfiksuoti"
+    }
+  ],
+  "translation": "Ir uždėjo ant jo ⟨את⟩ chошенą, ir įdėjo į chошенą ⟨את⟩ Urim ir ⟨את⟩ Tumim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/5-8.1792473309970.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ir uždėjo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chошенą"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chошенas"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir įdėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chошенą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:09.973197519Z",
+  "model": "glm-5.3"
+}

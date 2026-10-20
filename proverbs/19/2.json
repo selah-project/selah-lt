@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nešei",
+      "rationale": "נפש — ne „siela“, o gyvybės jėga, alsavimas, gerklė."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nėra⟩",
+      "rationale": "Hebrajų neturi veiksmažodžio — lietuvių reikalauja jungties."
+    }
+  ],
+  "translation": "Taip pat be pažinimo nešei ⟨nėra⟩ gera, o skubantysis kojomis nusideda.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/19\/1-4.1792489795134.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "be"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pažinimo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nešei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gera"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "o skubantysis"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "kojomis"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "nusideda"
+    }
+  ],
+  "timestamp": "2026-10-20T09:49:55.135687114Z",
+  "model": "glm-5.3"
+}

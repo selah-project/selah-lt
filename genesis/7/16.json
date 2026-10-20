@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jį⟩",
+      "rationale": "אתו — aleph-tav + sufiksas, nurodo Noachą kaip אלהים įsakymo objektą"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויסגר יהוה בעדו",
+      "rationale": "Jahvė uždarė 'dėl jo \/ aplink jį \/ už jo' — בע dviprasmiška: uždaryta Noachui ar už Noacho durų"
+    }
+  ],
+  "translation": "Ir tie, kurie įėjo — patinas ir patelė iš visos gyvos — įėjo, kaip įsakė ⟨jam⟩ Elohim; ir Jahvė uždarė ⟨jį⟩ viduje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7779818b5ecbfb020768820301cd4e596c3596d641f848a8e98d699cd97dd60e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/7\/13-16.1792471106830.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "ir tie, kurie įėjo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "patinas"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ir patelė"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visos"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gyvos"
+    },
+    {
+      "surface": "באו",
+      "gloss": "įėjo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ir uždarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "viduje ⟨už jo⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:26.832288088Z",
+  "model": "glm-5.3"
+}

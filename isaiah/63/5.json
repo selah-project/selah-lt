@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nebuvo⟩",
+      "rationale": "Hebrajiškas אֵין su skoliniu veiksmažodžiu — lietuvių kalbai reikia veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ranka",
+      "rationale": "זְרֹעַ — ištiesta ranka, jėgos įsikūnijimas; 'ranka' praranda figūrinę stiprio gaidą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סומך\/סמכתני",
+      "rationale": "to paties šaknies סמך kartojimas — 'paremiantis' ir 'palaikė' — sąskamba, lietuviškai prarandama"
+    }
+  ],
+  "translation": "Ir aš žiūrėjau, ir ⟨nebuvo⟩ gelbėtojo, ir aš nustebau, ir ⟨nebuvo⟩ paremiančiojo; tad man išgelbėjo mano ranka, ir mano įniršis — jis palaikė mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/5-8.1792481909324.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "ir aš žiūrėjau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir ⟨nebuvo⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gelbėtojo"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "ir aš nustebau"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir ⟨nebuvo⟩"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "paremiančiojo"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "tad man išgelbėjo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mano ranka"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "ir mano įniršis"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jis ⟨pats⟩"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "palaikė mane"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:29.325165401Z",
+  "model": "glm-5.3"
+}

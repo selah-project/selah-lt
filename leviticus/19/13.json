@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תלין פעלת שכיר אתך",
+      "rationale": "pažodžiui „netempk samdinio užmokesčio pas save naktį“ — lietuviškai perkelta į „nepalik iki rytojaus“."
+    },
+    {
+      "kind": "elision",
+      "subject": "עד בקר",
+      "rationale": "„iki ryto“ išplėsta į „iki rytojaus… iki ryto“, kad atspindėtų dviejų laiko momentų struktūrą."
+    }
+  ],
+  "translation": "Neengžk ⟨את⟩ savo artimo ir nelupk grobio; nepalik pas save iki rytojaus samdinio darbo užmokesčio ⟨pas tave⟩ iki ryto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/13-16.1792473624552.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "neengžk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo artimo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "nelupk grobio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "nepalik"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "darbo užmokestis"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "samdinio"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ pas tave"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ryto"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:24.559890801Z",
+  "model": "glm-5.3"
+}

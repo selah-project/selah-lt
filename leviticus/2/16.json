@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשה",
+      "rationale": "„Ugnies auka” — אִשֶּׁה verčiama kaip „ugnyje sudeginama”, ne moteriškas „žmona” אִשָּׁה."
+    },
+    {
+      "kind": "elision",
+      "subject": "מן priešdėliai",
+      "rationale": "Hebrajiški מִגֵּרְשָׁהּ וּמִשַּׁמְנָהּ „iš” rodo dalį, ne visumą — lietuvių „iš jos… grūdų” tai išlaiko."
+    }
+  ],
+  "translation": "Ir kunigas smilkins ⟨את⟩ jos atminimo dalį — iš jos kaldintų grūdų ir iš jos aliejaus, su visa jos kvapiųjų smilkalų dalimi — ugnies auka Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/2\/13-16.1792473136491.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ir smilkins"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos atminimo dalį"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "jos atminimo dalį"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iš jos kaldintų grūdų"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ir iš jos aliejaus"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "jos kvapiųjų smilkalų dalimi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies auka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:16.496368245Z",
+  "model": "glm-5.3"
+}

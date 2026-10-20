@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šmueliui",
+      "rationale": "Jisraelio sūnų kreipimasis su draudžiamuoju raginimu."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תחרש ממנו",
+      "rationale": "pažodžiui „nebetylėk nuo mūsų“ — „nuo mūsų nutolk“ arba „dėl mūsų netylėk“; ginčijamasi dėl מן priklausomybės šaukiant tyla (prašymas melstis) ar atitolkimas."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "du אל priebalsiai, suprantami iš linksnių, lietuvių kalboje atskirų žodžių nereikalauja."
+    }
+  ],
+  "translation": "Ir tarė Jisraelio sūnūs Šmueliui: Neutilk ⟨nuo mūsų⟩, nesišaukdamas Jahvės, mūsų Elohim, ir tepadeda jis mus iš pelištiečių rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/7\/5-8.1792477084233.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmueliui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "utilk"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nuo mūsų"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "nesišaukdamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "ir tepadeda jis mus"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištiečių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:04.234694282Z",
+  "model": "glm-5.3"
+}

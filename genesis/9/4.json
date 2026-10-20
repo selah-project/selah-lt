@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybe",
+      "rationale": "נפש — gerklė, kvapas, gyvybinė jėga, ne 'siela' viena."
+    },
+    {
+      "kind": "you",
+      "subject": "to Noach and his sons",
+      "rationale": "Draudimas tiesiogiai kreipiasi į Noachą ir jo sūnus — draudimas valgyti mėsą su krauju."
+    }
+  ],
+  "translation": "Tik mėsos su jos gyvybe — jos krauju — nevalgokite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/1-4.1792471108168.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mėsos"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "su jos gyvybe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jos krauju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "valgokite"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:28.172361149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 9:27",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיום",
+      "rationale": "„kaip šiandien“ — verčiantųjų ginčijamas: „šiek tiek“ (KJV) prieš pažodinį „iki šios dienos“ \/ „kaip dabar“ (YLT, JPS)"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prielinksnis ištirpsta lietuviškame naudininke „Šauliui“"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaului",
+      "rationale": "Šmuelio tiesioginis kreipimasis: „O tu pasilik… kad aš tau paskelbčiau“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Elohim žodis",
+      "rationale": "žodis dar nepasakytas — atidėtas kitam skyriui; tekstas sąmoningai vilioja"
+    }
+  ],
+  "translation": "Jiems leidžiantis miesto pakrašty, Šmuelis tarė Šauliui: Pasakyk tarnui, kad jis eitų prieš mus. Ir jis nuėjo prieky. O tu pasilik ⟨kaip šiandien⟩, kad aš tau paskelbčiau ⟨את⟩ Elohim žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/9\/25-27.1792477150321.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "יורדים",
+      "gloss": "leidžiantis"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "pakrašty"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ir Šmuelis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Pasakyk"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "tarnui"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "kad eitų"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "prieš mus"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir jis nuėjo prieky"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "O tu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "pasilik"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaip šiandien"
+    },
+    {
+      "surface": "ואשמיעך",
+      "gloss": "kad aš tau paskelbčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim žodį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:10.323181365Z",
+  "model": "glm-5.3"
+}

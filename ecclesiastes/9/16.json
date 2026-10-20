@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba praleidžia copulą antrame sakinyje."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגבורה",
+      "rationale": "„Jėga”, „karinė galia” arba „gebėjimas” — hebrajų žodis platus."
+    }
+  ],
+  "translation": "Ir aš tariau: geresnė išmintis už jėgą, bet neturtingojo išmintis ⟨yra⟩ niekinama, ir jo žodžių nesiklauso.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/13-16.1792491302186.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "ir tariau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "geresnė"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išmintis"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "už jėgą"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "bet išmintis"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "neturtingojo"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "niekinama"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ir jo žodžių"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "klauso"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:02.187817293Z",
+  "model": "glm-5.3"
+}

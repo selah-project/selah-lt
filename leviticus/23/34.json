@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 23:34",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame posakyje nėra veiksmažodžio — lietuvių kalbai reikia jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sukot",
+      "rationale": "הסכות — „palapinių šventė“; paliktas hebrajiškas pavadinimas Sukot"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynios dienos",
+      "rationale": "Šventės trukmė skaičiuojama dienomis"
+    }
+  ],
+  "translation": "Kalbėk su Jisraelio sūnumis, sakydamas: penkioliktąją šio septintojo mėnesio dieną ⟨yra⟩ Sukot šventė — septynias dienas Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a4755544a3aef69c9be778ec04a4bf1ec4fed2bb3903010a442cdcec4be6e760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/33-36.1792473705646.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnumis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "penkioliktąją"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨penkiolika⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintojo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    },
+    {
+      "surface": "חג",
+      "gloss": "šventė"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:45.647151328Z",
+  "model": "glm-5.3"
+}

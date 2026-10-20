@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שב יהוה",
+      "rationale": "'sugrąžino' ar 'atėmė' — יהוה שב את גאון gali reikšti ir viena, ir kita; čia 'sugrąžino'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום בקקים",
+      "rationale": "Infinitive + participle of the same root — 'ištuštintojai ištuštino', kartojimas, kuris lietuviškai iš dalies išsaugotas."
+    },
+    {
+      "kind": "elision",
+      "subject": "בקקום",
+      "rationale": "Infinitive 'ištuštinti' lietuvių sakinyje išnyko — veiksmažodis jau pasakytas per 'ištuštino'."
+    }
+  ],
+  "translation": "Nes Jahvė sugrąžino ⟨את⟩ Jaakobo išdidumą kaip Jisraelio išdidumą, nes ištuštintojai juos ištuštino ir jų vytokeles nuniokojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nahum\/2\/1-4.1792486970400.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sugrąžino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobo išdidumą"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "išdidumą"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobo"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kaip-išdidumą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "juos"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ištuštino"
+    },
+    {
+      "surface": "וזמorיהם",
+      "gloss": "ir-jų-vytokeles"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "nuniokojo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:02:50.403354375Z",
+  "model": "glm-5.3"
+}

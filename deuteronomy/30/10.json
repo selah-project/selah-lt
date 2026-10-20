@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפשך — geriau 'nefesh' (gyvybės jėga, alsavimas) nei 'siela' su vėlesnėmis reikšmėmis."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Tiesioginis kreipimasis į Jisraelį — sąlyga, priklausanti nuo 30,9 pažado."
+    }
+  ],
+  "translation": "kai klausysi Jahvės, savo Elohim, balso, saugodamas jo įsakymus ir jo įstatus, įrašytus šitoje Toros knygoje, kai sugrįši pas Jahvę, savo Elohim, visa širdimi ir visa savo nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/9-12.1792475522006.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausysi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saugodamas"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jo įsakymus"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ir jo įstatus"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "įrašytus"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toros"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sugrįši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "širdimi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savo nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:02.008342642Z",
+  "model": "glm-5.3"
+}

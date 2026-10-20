@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio; hebrajų kalba jo neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סגרת ומסגרת",
+      "rationale": "Tos pačios šaknies kartojimas (uždarytas–apsuptas), lietuviškai perteikta dviem žodžiais."
+    }
+  ],
+  "translation": "O Jerichas ⟨buvo⟩ uždarytas ir apsuptas dėl Jisraelio sūnų — nėjo niekas iš ir nėjo niekas į vidų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/1-4.1792475774830.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "O Jerichas"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "uždarytas"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ir apsuptas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėjo niekas"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "iš"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėjo niekas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "į vidų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:56:14.831544454Z",
+  "model": "glm-5.3"
+}

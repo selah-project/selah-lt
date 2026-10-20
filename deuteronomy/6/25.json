@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedekas",
+      "rationale": "צדקה čia 'teisumas\/cedek' — išlaikytas skambesiu pagal D2, ne vien 'teisumas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "sąlyginis 'jeigu' (KJV 'if') arba priežastinis\/laiko 'kada, nes' — pasirinkta 'kai'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "המצוה",
+      "rationale": "vienaskaita 'šią visą mitzvą' vs daugiskaita 'šiuos įsakymus' (KJV) — palikta vienaskaita"
+    }
+  ],
+  "translation": "Ir cedekas bus mums, kai saugosimės vykdyti ⟨את⟩ visą šią įsakymo mitzvą Jahvės, mūsų Elohim, akivaizdoje, kaip jis įsakė mums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/6\/25-25.1792474898738.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Ir cedekas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "saugosimės"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "vykdyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą šią įsakymo mitzvą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "įsakymo mitzvą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šią"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "įsakė mums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:38.739749210Z",
+  "model": "glm-5.3"
+}

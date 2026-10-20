@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דדתו\/דדו",
+      "rationale": "„teta“ ir „dėdė“ — ta pati šaknis dad; žodinis ryšys matomas ir lietuviškai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערירים",
+      "rationale": "aririm — „pliki, tušti (nuo vaikų)“; versta „bevaisiai“ kaip bausmės matas."
+    }
+  ],
+  "translation": "Ir vyras, kuris gulės su ⟨את⟩ savo teta — savo dėdės nuogumą jis atidengė: savo nuodėmę jie nešios, bevaisiai jie numirs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca4f30609c0b26fddcbf572c0d5eb19d333ac8199141c1c3a2beef9eadc4db52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/17-20.1792473641542.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "gulės"
+    },
+    {
+      "surface": "את",
+      "gloss": "su ⟨את⟩",
+      "marks": "savo teta"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "savo teta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nuogumą"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "savo dėdės"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atidengė"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "savo nuodėmę"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "jie nešios"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bevaisiai"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "jie numirs"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:41.548873125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 9:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "regėtojas",
+      "rationale": "הרואה — 'regintysis, regėtojas'; vertimas išlaiko senąjį pavadinimą, kurį eilutė pati paaiškina"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפנים",
+      "rationale": "čia 'anksčiau, senovėje', ne 'veidas' — eilutė yra vertėjo pastaba apie senąjį žodžio vartojimą"
+    },
+    {
+      "kind": "you",
+      "subject": "pakviesta eilutės citata",
+      "rationale": "pakartojimas 'eikime, keliaukime' — kvietimas, įtraukiantis klausytoją"
+    }
+  ],
+  "translation": "Anksčiau Jisraelyje taip sakydavo žmogus, eidamas klausti Elohim: Eikime, keliaukime pas regėtoją, nes pranašu šiandien vadinama tai, ką anksčiau vadindavo regėtoju.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/9\/9-12.1792477173689.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "anksčiau"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sakydavo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "eidamas"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "klausti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikime"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "keliaukime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "regėtoją"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "pranašu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "vadinama"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anksčiau"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "regėtoju"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:33.690080171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 7:14",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "ויכנעו tebejungtinis — tęsia 7,13 sakinių grandinę, lietuviškai reikia jungties."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nusilenks",
+      "rationale": "ויכנעו pažodžiui 'pralauš kelius, nusižemins' — lenkiškas 'susilenks' būtų per silpnas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמי\/ישוב",
+      "rationale": "'mano vardas' (šem) ir 'grįš' (jašuvu) — garsų paralelė su 7,14 'šem ten' (šamo), iš dalies prarasta."
+    }
+  ],
+  "translation": "ir nusilenks mano tauta, kuriai suteiktas mano vardas, ir melsis, ir ieškos mano veido, ir grįš nuo savo pikto kelių — tai aš išgirsiu iš dangaus ir atleisiu jų kaltę, ir pagydysiu ⟨את⟩ jų žemę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/7\/13-16.1792493401983.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "nusilenks"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "suteiktas"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mano vardas"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ויתפללו",
+      "gloss": "melsis"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ieškos"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veido"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "grįš"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "nuo savo kelių"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "piktų"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "tai aš"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "išgirsiu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ואסלח",
+      "gloss": "atleisiu"
+    },
+    {
+      "surface": "לחטאתם",
+      "gloss": "jų kaltę"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "pagydysiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų žemę"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jų žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T10:50:01.984670129Z",
+  "model": "glm-5.3"
+}

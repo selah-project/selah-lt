@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Dievo vyras",
+      "rationale": "איש אלהיט — 'Elohimo vyras' būtų pažodžiui, bet lietuviškoje sangoje 'Dievo vyras' yra įtvirtintas posakis; Elohim kaip vardas nelinksniuojamas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית אל",
+      "rationale": "Bet-El — 'Elohim namai'; vardas rašomas hebrajišku skambesiu, ne verčiamas"
+    }
+  ],
+  "translation": "Ir štai Dievo vyras atėjo iš Jehudos su Jahvės žodžiu į Bet-Elą, o Jerobeamas stovėjo prie aukuro, kad smilkytų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/13\/1-4.1792479315282.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "iš Jehudos"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "su žodžiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elą"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "o Jerobeamas"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "kad smilkytų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:15.283541864Z",
+  "model": "glm-5.3"
+}

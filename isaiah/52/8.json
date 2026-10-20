@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "akis į akį",
+      "rationale": "עין בעין — pažodžiui 'akis akiai', labai arti, atvirai; sulietuvinta idioma atitinka."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשוב יהוה ציון",
+      "rationale": "Ar 'kai Jahvė sugrįš į Cioną' (su priegaide), ar 'kai Jahvė gražins Cioną' — Masoretų be priegaidžių leidžia abu."
+    }
+  ],
+  "translation": "Balsas tavo sargų! Jie kelia balsą, drauge džiugiai gieda, nes akis į akį jie pamatys, kai Jahvė sugrįš ⟨į⟩ Cioną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/52\/5-8.1792481744358.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "tavo sargų"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "kelia"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "drauge"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "džiugiai gieda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עין",
+      "gloss": "akis"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "į akį"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "jie pamatys"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kai sugrįš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:44.359591491Z",
+  "model": "glm-5.3"
+}

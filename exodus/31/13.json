@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 31:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi kopulos po „ženklas“"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": " tiesioginis kreipimasis į Mošę, įsakyimas kalbėti Jisraelio sūnums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pašventinu",
+      "rationale": "מקדשכם — dalyvinė forma: „pašventinantis jus“, ne veiksmažodžio būtasis laikas"
+    }
+  ],
+  "translation": "O tu kalbėk su Jisraelio sūnumis, sakydamas: tikrai ⟨את⟩ mano šabatus laikykite, nes jis yra ženklas tarp manęs ir jūsų jūsų kartoms, kad žinotumėte, jog aš esu Jahvė, kuris jus pašventinu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cae0e4c5a202d80ae60ba94edb0f1bb7308add0fdcc87751baae82b411c2623b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/31\/13-16.1792472846281.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnumis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano šabatus"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mano šabatus"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "laikykite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ženklas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis yra"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ir jūsų"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsų kartoms"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kad žinotumėte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jog"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "kuris jus pašventinu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:26.282703076Z",
+  "model": "glm-5.3"
+}

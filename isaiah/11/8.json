@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "angis \/ gyvatė nuodingoji",
+      "rationale": "פתן ir צפעוני pagal D4 — du skirtingi nuodų gyviai, ne viena 'gyvatė'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גמול",
+      "rationale": "'atjunkytas' vs 'ugdytas\/brandintas' — žodis reiškia 'subręsti, atsivesti', garsinė tradicija skaito 'atjunkytas vaikas'"
+    }
+  ],
+  "translation": "Ir žindomas kūdiklis žais prie angies urvo, ir prie gyvatės nuodingosios angos atjunkytas vaikas išties savo ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/11\/5-8.1792480825621.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "Ir žais"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "žindomas kūdiklis"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "חר",
+      "gloss": "urvo"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "angies"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "angos"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "gyvatės nuodingosios"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "atjunkytas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "išties"
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:25.626778840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — dalis ir Jahvė stovi vienas šalia kito be sakinio"
+    },
+    {
+      "kind": "crux",
+      "subject": "pasakiau",
+      "rationale": "אמרתי — 'pasakiau\/sukūriau sprendimą': ar tai įsipareigojimas, ar deklaracija"
+    }
+  ],
+  "translation": "Jahvė ⟨yra⟩ mano dalis; aš pasakiau, kad saugosiu tavo žodžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/57-60.1792489087185.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "mano dalis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "pasakiau"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saugosiu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodžius"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:07.185557200Z",
+  "model": "glm-5.3"
+}

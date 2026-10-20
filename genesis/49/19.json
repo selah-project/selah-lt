@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גד \/ גדוד \/ יגודנו \/ יגד",
+      "rationale": "Vardo Gadas ir veiksmažodis 'pulti' bei daiktavardis 'gauja' viena šaknimi — visiškas žodžių žaismas."
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "Veide 'kulnas\/pėdsakas\/pabaiga (ataka iš užnugario)' — Genevos-KJV 'pabaigoje' yra interpretyvus."
+    }
+  ],
+  "translation": "Gadą gauja puls, bet jis puls jų kulnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/17-20.1792472094037.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "Gadą"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gauja"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "puls"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "bet jis"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "puls"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "jų kulnus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:54.044204846Z",
+  "model": "glm-5.3"
+}

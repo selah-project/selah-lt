@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jie buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — „ir štai Šomrono viduryje“; lietuvių kalbai reikia būtojo laiko veiksmažodžio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקח\/ויפקח",
+      "rationale": "Tas pats atvėrimo veiksmas kaip 17 eilutėje — akys atveriamos dukart: tarnui regėti, priešams suprasti, kur jie atsidūrė."
+    }
+  ],
+  "translation": "Ir įvyko, jiems atėjus į Šomroną, kad Eliša tarė: Jahvė, atverk ⟨את⟩ šitų vyrų akis, kad jie matytų. Ir Jahvė atvėrė ⟨את⟩ jų akis, ir jie pamatė, ir štai ⟨jie buvo⟩ Šomrono viduryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/17-20.1792479860927.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "jiems atėjus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "į Šomroną"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kad tarė"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "atverk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitų vyrų akis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akis"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitų"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "kad jie matytų"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "ir atvėrė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų akis"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "jų akis"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrono"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:20.930119536Z",
+  "model": "glm-5.3"
+}

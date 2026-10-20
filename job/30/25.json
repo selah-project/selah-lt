@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gyvybės jėga, kvėpavimas, ne „siela“ viena"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקשה יום",
+      "rationale": "„kurio diena sunki“ — laukiamas variantas: „ už bėdą pakliuvusį“"
+    }
+  ],
+  "translation": "Argi neverkiau tam, kurio diena sunki? Neišdžiūdama liūdėjo mano nefesh dėl vargšo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/30\/25-28.1792490573958.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "argi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "verkiau"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "sunki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "liūdėjo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "dėl vargšo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:02:53.958529111Z",
+  "model": "glm-5.3"
+}

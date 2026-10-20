@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרעים",
+      "rationale": "Nuo רוע רע 'kenkėjų namai' arba nuo רעע 'piktadarių namai' — kildinimas dviprasmis"
+    }
+  ],
+  "translation": "Ir taip pat jis ⟨yra⟩ išmintingas, ir atveda blogį, ir ⟨את⟩ savo žodžių neatšauks, ir pakils prieš nedorybių namus ir prieš pagalbą niekšybės darbininkų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "91f06daa7bd61908f104672e49cbad93d689f9c1d79bb78fb6666038288c9cb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/31\/2-4.1792485537818.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "išmintingas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atveda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "blogį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo žodžių"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "savo žodžių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "atšauks"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ir pakils"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nedorybių"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir prieš"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pagalbą"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "darbininkų"
+    },
+    {
+      "surface": "און",
+      "gloss": "niekšybės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:38:57.819673763Z",
+  "model": "glm-5.3"
+}

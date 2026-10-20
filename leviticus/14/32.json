@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi būtojo žodžio — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תשיג ידו בטהרתו",
+      "rationale": "'Jo ranka nepasiekia jo apsivalymo' — reiškia 'negali įpirkti apsivalymo aukų'."
+    }
+  ],
+  "translation": "Ši ⟨yra⟩ Tora tam, kuris turi raupsų žaizdą, kurio ranka nepasiekia ⟨to, kas reikalinga⟩ jo apsivalymui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/29-32.1792473387032.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ši"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tam, kuris"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "žaizda"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "raupsų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "pasiekia"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "jo apsivalymui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:27.035783498Z",
+  "model": "glm-5.3"
+}

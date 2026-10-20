@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעהו",
+      "rationale": "„bičiulis“ — רע yra artimas bendras, KJV „friend“, ne tiesiog „kaimynas“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "העדלמי",
+      "rationale": "Adulamo kilmės etnonimas — įvardija Hirą (38, 1) be vardo."
+    }
+  ],
+  "translation": "Ir Jėuda atsiuntė ⟨את⟩ ožiuką per savo bičiulio, Adulamo gyventojo, ranką, paimti įkaitą iš moters rankos, bet jis jos nerado.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/38\/17-20.1792471817050.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir atsiuntė"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ožiuką"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ožiuką"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ožkų"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per ranką"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo bičiulio"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adulamo gyventojo"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "paimti"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "įkaitą"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "jis jos nerado"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:17.056660201Z",
+  "model": "glm-5.3"
+}

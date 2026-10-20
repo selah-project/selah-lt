@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių reikalauja pagalbinio veiksmažodžio pasyvui 'pranešta'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "be ydos",
+      "rationale": "תמים — 'ištisas, tobulas, nesuardytas'; aukos kūno vientisumas, ne moralinė savybė"
+    }
+  ],
+  "translation": "Arba kai jam ⟨yra⟩ pranešta jo nuodėmė, kurią jis padarė, tai jis atves ⟨את⟩ savo auką — ožio ožiuką, patiną be ydos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3161e76fed3a25b4673720503f0a31efeb141e55372c3b8ecd2ef313466916d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/21-24.1792473189639.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "arba kai"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "pranešta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jo nuodėmė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ją"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "tai jis atves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo auką"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "savo auką"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ožio ožiuką"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ožių"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "patiną"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "be ydos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:09.642539525Z",
+  "model": "glm-5.3"
+}

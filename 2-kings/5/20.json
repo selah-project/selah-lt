@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 5:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה כי אם",
+      "rationale": "Prisaikdijimo formulė: 'Kaip gyvas Jahvė, jog jeigu ne...' — priesaika su neigiamu įsipareigojimu, kurio Gechazis neduos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נער → tarnas",
+      "rationale": "נער pažodžiui 'bernas, jaunuolis'; čia apibūdina Gechazį kaip tarnaujantį — išversta pagal vaidmenį eilutės viduje."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשך",
+      "rationale": "Veiksmažodis reiškia 'sulaikė, susilaikė'; 'pasigailėjo' yra aiškinamasis vertimas — pažodžiui 'mano ponas sulaikė save'."
+    }
+  ],
+  "translation": "Ir tarė Gechazis, Eliso, Elohim žmogaus, tarnas: Štai mano ponas pasigailėjo ⟨את⟩ šito Naamano, aramiečio, nepriimdamas iš jo rankos ⟨את⟩ tai, ką šis atnešė. Kaip gyvas Jahvė: jeigu aš nepabėgsiu paskui jį ir nepaimsiu iš ⟨את⟩ jo ko nors.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ac3f993daa09f1f00e890e827e89f1cff05e5ebe35975115dd02e179553b8c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/5\/17-20.1792479877935.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gechazis"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tarnas"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pasigailėjo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą Naamaną"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamano"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramiečio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "nepriimdamas"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iš jo rankos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, ką šis atnešė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "atnešė"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Kaip gyvas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "רצתי",
+      "gloss": "aš nepabėgsiu"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paskui jį"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ir nepaimsiu"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "iš ⟨את⟩ jo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ko nors"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:37.939128498Z",
+  "model": "glm-5.3"
+}

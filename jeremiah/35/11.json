@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 35:11",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "Hebrew 'from the face of' rendered as 'nuo' — the literal face-metaphor is lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "šią",
+      "rationale": "Hebrew הארץ has the article but Lithuanian needs a demonstrative here"
+    }
+  ],
+  "translation": "Ir atsitiko, kai Nebukadnecaras, Babelio karalius, žygiavo į šią žemę, mes tarėme: Eikite, ir pateksime į Jerušalaimą nuo kasdų kariuomenės ir nuo Aramo kariuomenės; ir mes gyvename Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ecd10d38aec082fd033188a4974036e11d6bbd49af0c57591fe2abeb9bbfb3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/35\/9-12.1792483100642.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "kai žygiavo"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnecaras"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ונאמר",
+      "gloss": "mes tarėme"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Eikite"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "ir pateksime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kariuomenės"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdų"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ir nuo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kariuomenės"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "ir gyvename"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:20.645955080Z",
+  "model": "glm-5.3"
+}

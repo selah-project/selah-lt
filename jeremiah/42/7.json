@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir buvo",
+      "rationale": "Antrasis ויהי — pasakojimo rišamoji formulė, išversta kaip „ir buvo“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimt dienų",
+      "rationale": "Tikslus laikotarpis nuo užklausimo iki atsakymo — dešimt dienų laukimo."
+    }
+  ],
+  "translation": "Ir įvyko po dešimties dienų, ir buvo Jahvės žodis Jeremijui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f792e7182f12eba44add716595e6bb1935b921e9bfa567a2495db2ec93660fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/42\/5-8.1792483430444.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "po"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dešimties"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jeremijui"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijui"
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:50.446905498Z",
+  "model": "glm-5.3"
+}

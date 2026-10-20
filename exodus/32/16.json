@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje porūkio sakinys be veiksmažodžio — lietuvių kalbai pridėta 'yra'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכתב ... מכתב",
+      "rationale": "Pakartotas tas pats žodis 'įrašas ... įrašas' — chiazminis kartojimas, hebrajų ritme išlieka, o lietuvių sintaksėje kiek pritemsta."
+    }
+  ],
+  "translation": "Ir tos lentos — Elohim darbas jos ⟨yra⟩, ir tas įrašas — Elohim įrašas jis ⟨yra⟩, išraižytas ant lentų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a9e72f0f8702db4b5f69b22f7e437d1b7aaf050dd69e8da32a32b7e4b11a2666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/13-16.1792472927193.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "Ir tos lentos"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jos"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "ir tas įrašas"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "įrašas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "išraižytas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lentų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:47.197041510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje predikatyvinėje konstrukcijoje."
+    },
+    {
+      "kind": "crux",
+      "subject": "וסגר לקראת",
+      "rationale": "Pažodžiui „uždaryk priešais“ — versijos svyruoja tarp „užtverk kelią“ (KJV) ir „nukreipk prieš“ (JPS „battle-axe“ iš kito raidinio skaitinio)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sielai",
+      "rationale": "נפש — ne nemateriali siela, o gyvybės jėga, kvėpimas; „mano gyvybei“ irgi tikslu."
+    }
+  ],
+  "translation": " Ir ištrauk ietį, ir užtverk kelią mano besivijantiems; pasakyk mano sielai: „Tavo išgelbėjimas ⟨yra⟩ aš.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/35\/1-4.1792487837563.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "Ir ištrauk"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ietį"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ir užtverk kelią"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mano besivijantiems"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakyk"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mano sielai"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "Tavo išgelbėjimas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:17.564165356Z",
+  "model": "glm-5.3"
+}

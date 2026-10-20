@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "penkias \/ šešias",
+      "rationale": "Skaičiuojamos uždangos: penkios ir šešios, šeštoji sulenkiam."
+    },
+    {
+      "kind": "substitution",
+      "subject": "veidą",
+      "rationale": "פני pažodžiui 'veidas' — priekinė pusė; laikoma pažodine forma, ne 'priekiu'."
+    }
+  ],
+  "translation": "Ir sujungsi ⟨את⟩ penkias uždangas atskirai, ir ⟨את⟩ šešias uždangas atskirai, ir sulenksi ⟨את⟩ šeštąją uždangą priešais palapinės veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/9-12.1792472748781.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "Ir sujungsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "penkias uždangas"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "penkias"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "uždangas"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "atskirai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "šešias uždangas"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šešias"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "uždangas"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "atskirai"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ir sulenksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šeštąją uždangą"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "uždangą"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "šeštąją"
+    },
+    {
+      "surface": "אל",
+      "gloss": "link"
+    },
+    {
+      "surface": "מול",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "palapinės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:48.783024945Z",
+  "model": "glm-5.3"
+}

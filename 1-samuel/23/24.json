@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba palieka vyrių buvimo vietą be veiksmažodžio — lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Araba",
+      "rationale": "הערבה — stepių slėnis tiesus krantas nuo Negyvosios jūros; vietovardis-žodis"
+    }
+  ],
+  "translation": "Ir jie pakilo ir ėjo į Zifą pirmaui Šaulio; o Davidas ir jo vyrai ⟨buvo⟩ Maono dykumoje, Araboje, į dešinę nuo Ješimono.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/21-24.1792477634548.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ir jie pakilo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "į Zifą"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pirmaui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulio"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "o Davidas"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ir jo vyrai"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maono"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Araboje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dešinę"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Ješimono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:14.654085203Z",
+  "model": "glm-5.3"
+}

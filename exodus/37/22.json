@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 37:22",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ji⟩",
+      "rationale": "Lietuvių kalbai reikia giminės: כלה moteriškoji forma rodo menorą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaltas darbas",
+      "rationale": "מקשה — iškalto iš vieno gabalo repusu technika; 'kaltas' meta visą vaizdą."
+    }
+  ],
+  "translation": "Jų gumbai ir jų šakos — iš jos ⟨buvo⟩; visa ⟨ji⟩ — vienas kaltas darbas, grynas auksas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5de330ab2801f7d4e32771dcbbfeda9d9c7708b587a91e03d35340baff3e6ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/37\/21-24.1792472997241.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "jų gumbai"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "ir jų šakos"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iš jos"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "visa"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "kaltas darbas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "grynas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:57.244027778Z",
+  "model": "glm-5.3"
+}

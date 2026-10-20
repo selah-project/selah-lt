@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pakėlė akis",
+      "rationale": "hebrajų idiomos 'pakelti akis' = pažvelgti, pažodžiui išlaikyta ir lietuviškai suprantama"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trečią dieną",
+      "rationale": "kelionės trukmė skaičiuojama dienomis"
+    }
+  ],
+  "translation": "Trečią dieną Avrahamas pakėlė ⟨את⟩ savo akis ir pamatė ⟨את⟩ vietą iš toli.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e2e1f3329f59fb0e0161134ce949bc8d5289e6a0948a3bbdb9bf792bacab6c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/22\/1-4.1792471397963.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "Trečią"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ir pakėlė"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo akis"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "savo akis"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vietą"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietą"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "iš toli"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:17.969648908Z",
+  "model": "glm-5.3"
+}

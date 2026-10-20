@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "vardų sąrašas be veiksmažodžio; lietuvių kalbai reikia sangraibos — pridėta ⟨buvo⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "šeimos vadų sąrašas su rangais — galva, antrasis"
+    }
+  ],
+  "translation": "Joelis ⟨buvo⟩ galva, ir Šafamas ⟨buvo⟩ antrasis, ir Jaanajus, ir Šafatas Bašane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f1c0a151bed1fe92ec8ab1f0875548163ffbf5fbbcf837f02ba4920e03afb080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/5\/9-12.1792492693510.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Joelis"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ir Šafamas"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "antrasis"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ir Jaanajus"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ir Šafatas"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bašane"
+    }
+  ],
+  "timestamp": "2026-10-20T10:38:13.511688270Z",
+  "model": "glm-5.3"
+}

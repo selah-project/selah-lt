@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 2:34",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų pasyvas neturi pagalbinio veiksmažodžio — ⟨buvo⟩ pridėta lietuviškos gramatikos"
+    },
+    {
+      "kind": "crux",
+      "subject": "savo namuose dykumoje",
+      "rationale": "בביתו במדבבר — 'savo namuose dykumoje': ar 'namai' reiškia kapą, ar gyvenamąjį namą; vertėjai skiriasi"
+    }
+  ],
+  "translation": "Ir užlipo Benajahu, Jehojados sūnus, ir puolė ⟨את⟩ jį, ir nužudė ⟨את⟩ jį; ir jis buvo palaidotas savo namuose dykumoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/33-36.1792478790022.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ir užlipo"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojados"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ir puolė"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩ jį"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "ir nužudė jį"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ir buvo palaidotas"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "savo namuose"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:30.023460074Z",
+  "model": "glm-5.3"
+}

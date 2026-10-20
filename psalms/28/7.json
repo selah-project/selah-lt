@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškai nėra sąsajos, lietuvių sakinys jos reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išpažįstu",
+      "rationale": "אהודנו iš ידה — 'mesti ranką, dėkoti, išpažinti'; pasirinkta 'išpažinti', o ne tik 'girti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי",
+      "rationale": "širdis pakartota du kartus — pasitikėjimas ir džiaugsmas susieti ta pačia žodžio centru"
+    }
+  ],
+  "translation": "Jahvė ⟨yra⟩ mano jėga ir mano skydas; juo pasitikėjo mano širdis, ir buvau padėtas, tad šokte šoka iš džiaugsmo mano širdis, ir savo giesme aš jį išpažįstu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/28\/5-8.1792487767901.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mano jėga"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ir mano skydas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "pasitikėjo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mano širdis"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ir buvau padėtas"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "tad šokte šoka iš džiaugsmo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mano širdis"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "ir savo giesme"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "aš jį išpažįstu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:07.902906708Z",
+  "model": "glm-5.3"
+}

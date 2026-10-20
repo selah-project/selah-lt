@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — pridėta jungtis tarp אשר ir stovyklų aprašymo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ger",
+      "gloss": "ר ׵ reiškia 'atvykėlį, laikinai gyvenantį'; 'svetimtaitis' artimiausias Tanacho reikšmei."
+    }
+  ],
+  "translation": "jūsų mažamečiai, jūsų žmonos ir tavo svetimtaitis, kuris tavo stovyklose, nuo tavo medžių račiaus iki tavo vandens semėjo,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/9-12.1792475501225.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "jūsų mažamečiai"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jūsų žmonos"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ir tavo svetimtaitis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "tavo stovyklose"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "nuo ... račiaus"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "tavo medžių"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "semėjo"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "tavo vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:41.227868031Z",
+  "model": "glm-5.3"
+}

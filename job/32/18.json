@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 32:18",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ ⟨aš⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio ir įvardžio su prielinksniu — lietuvių reikalauja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiamas skambesiu „ruach“, ne „dvasia“ viena — čia kvėpavimo ir vidaus spaudimo paveikslas."
+    }
+  ],
+  "translation": "Nes pilnas ⟨yra⟩ žodžių ⟨aš⟩, ruach mano vidaus spaudžia mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/32\/17-20.1792490557472.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הציקתני",
+      "gloss": "spaudžia mane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mano vidaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:02:37.472927002Z",
+  "model": "glm-5.3"
+}

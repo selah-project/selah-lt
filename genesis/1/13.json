@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir buvo",
+      "rationale": "hebrajiškas vayhi — 'ir tapo', įprastas pasakojimo siūlas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trečioji diena",
+      "rationale": "sukūrimo dienų skaičiavimas tęsiasi"
+    }
+  ],
+  "translation": "Ir buvo vakaras, ir buvo rytas — trečioji diena.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/13-16.1792471042840.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vakaras"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rytas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "trečioji"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:22.843470159Z",
+  "model": "glm-5.3"
+}

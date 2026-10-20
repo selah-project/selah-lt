@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi copula tarp 'įsakymas' ir 'karaliaus' šioje vietoje — lietuvių kalbai jos reikia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nė",
+      "rationale": "'דבר' paprasčiausiai 'žodis'; 'nė' pridėta neigiamame kontekste."
+    }
+  ],
+  "translation": "Ir jie nutilo ir neatsakė ⟨אתו⟩ nė žodžio, nes karaliaus įsakymas ⟨yra⟩: neatsakykite jam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/21-22.1792481322793.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ir jie nutilo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "atsakė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "nė žodžio"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "įsakymas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "atsakykite jam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:42.794781550Z",
+  "model": "glm-5.3"
+}

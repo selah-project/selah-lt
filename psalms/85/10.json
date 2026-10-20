@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškai nėra veiksmažodžio — sakinys be copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעו \/ ישועה",
+      "rationale": "išgelbėjimas (ješa) rezonuoja su vardu — garsas artimas Jahvės išganymo žodžiui"
+    }
+  ],
+  "translation": "Tikrai arti jo bijančiųjų ⟨yra⟩ jo išgelbėjimas, kad šlovė gyventų mūsų žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd39adacc65c7d6b27486656fea877b7bd173b12d6d16f0b484d21cbecb5ee2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/85\/9-12.1792488586238.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "jo bijančiųjų"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "jo išgelbėjimas"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kad gyventų"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "mūsų žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:46.239773486Z",
+  "model": "glm-5.3"
+}

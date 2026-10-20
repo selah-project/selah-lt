@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vyras \/ moteris",
+      "rationale": "Hebrajiškos formos עקר\/עקרה yra vyriškoji ir moteriškoji gimine, bet pats žodis 'vyras' ir 'moteris' netariamas — lietuviškai reikia poros."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקר\/עקרה",
+      "rationale": "Vyriškoji ir moteriškoji forma tos pačios šaknies — tvirtas paprastas žaidimas gimine."
+    }
+  ],
+  "translation": "Palaimintas būsi labiau už visas tautas; nebus tavyje bevaisio ⟨vyro⟩ nei bevaisės ⟨moters⟩, ir ⟨tarp⟩ tavo gyvulių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/7\/13-16.1792475105568.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "palaimintas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būsi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiau už visas"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavyje"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "bevaisis ⟨vyras⟩"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ir bevaisė ⟨moteris⟩"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ir tarp tavo gyvulių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:05.571636711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ושכלה",
+      "rationale": "Veiksmažodis reiškia 'padaryti vaikišką, atimti vaikus' — KJV 'apiplėšti jus nuo jūsų vaikų'; čia apibendrinta 'apvaikšios'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨paversti dykyne⟩",
+      "rationale": "ונשמו — 'būti nustebintiems, apleistiems'; lietuvių reikalauja veiksmažodinės išraiškos."
+    }
+  ],
+  "translation": "Ir pasiųsiu į jus ⟨את⟩ lauko žvėrį, ir jiū apvaikšios jus, ir jiū išnaikins jūsų gyvulius, ir jiū sumažins jus, ir jūsų keliai bus ⟨paversti dykyne⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/21-24.1792473833181.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Ir pasiųsiu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "į jus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauko žvėrį"
+    },
+    {
+      "surface": "חית",
+      "gloss": "žvėrį"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ir apvaikšios"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ir išnaikins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų gyvulius"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "jūsų gyvulius"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ir sumažins"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ir bus ⟨paversti dykyne⟩"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jūsų keliai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:53.183290789Z",
+  "model": "glm-5.3"
+}

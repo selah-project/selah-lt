@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 14:3",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahvės kunigas",
+      "rationale": "יהוה rašoma Jahvė, ne „VIEŠPATS“ ar „Dievas“"
+    },
+    {
+      "kind": "secret",
+      "subject": "žmonės nežinojo",
+      "rationale": "paslapties motyvas — tauta nežino apie Jonatano žygį"
+    },
+    {
+      "kind": "elision",
+      "subject": "בשלו",
+      "rationale": "„Šile“ vietoj „iš Šilo“ — hebrajiškas prielinksnių kamuolys"
+    }
+  ],
+  "translation": "Ir Achija, Achitubo sūnus, I-Kavodo brolis, Pinchaso sūnus, Elio sūnus, kunigas ⟨iš⟩ Šilo, nešiojo efodą, ir žmonės nežinojo, kad Jonatanas išėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/1-4.1792477186432.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "Ir Achija"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Achitubo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brolis"
+    },
+    {
+      "surface": "איכבוד",
+      "gloss": "I-Kavodo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchaso"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elio"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "Šile"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nešiojo"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodą"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ir žmonės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žinojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:46.434774250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sielą",
+      "rationale": "נפש — gyvybės jėga, alsavimas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "trikart מן\/mi-",
+      "rationale": "trigubas 'iš' pakartojimas — paralelizmas: mirtis, ašaros, klupimas"
+    }
+  ],
+  "translation": "Nes tu ištraukei mano sielą iš mirties, ⟨את⟩ mano akis — iš ašarų, ⟨את⟩ mano kojas — iš klupimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/116\/5-8.1792489049199.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "tu ištraukei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano sielą"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iš mirties"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano akis"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mano akis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ašarų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano kojas"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mano kojas"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "iš klupimo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:29.200088096Z",
+  "model": "glm-5.3"
+}

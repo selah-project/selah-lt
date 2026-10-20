@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ištiesti delnus",
+      "rationale": "נפרש כפים — maldos gestas, literališkai „išskleisti delnus“"
+    },
+    {
+      "kind": "crux",
+      "subject": "veiksmažodžio laikas",
+      "rationale": "hebrajų tobulas būtasis laikas be apibrėžties; KJV „if we have forgotten“ prieš JPS „if we had forgotten“ — lietuviškai pasirinkta tariamoji nuostata"
+    }
+  ],
+  "translation": "Jei būtume užmiršę mūsų Elohim vardą ir ištiesę savo delnus svetimam elui —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/44\/21-24.1792487973531.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "būtume užmiršę"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ir ištiesę"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "savo delnus"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "elui"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svetimam"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:33.532211414Z",
+  "model": "glm-5.3"
+}

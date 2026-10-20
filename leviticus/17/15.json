@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žmogus",
+      "rationale": "נפש pažodžiui „alsuojanti būtybė“ — čia apie asmenį, ne sielą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tada⟩",
+      "rationale": "Hebrajų veiksmų seka be jungiamo žodžio; lietuvių aiškumui pridėtas laiko ženklelis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וטמא…וטהר",
+      "rationale": "Tanachinis žodžių poros paronomazija: tame—tahor (nešvarus—švarus), tos pačios šaknies garsas."
+    }
+  ],
+  "translation": "Ir kiekvienas žmogus, kuris suvalgys dvėselieną ar užkastos žvėries [grobį], — gimtasis ar ateivis, — išskalbs savo drabužius ir nusipraus vandeniu ir bus nešvarus iki vakaro — ir ⟨tada⟩ bus švarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/17\/13-16.1792473510856.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ir kiekvienas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "suvalgys"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dvėselieną"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "užkastos žvėries grobį"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "gimtasis"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "ar ateivis"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "išskalbs"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savo drabužius"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nusipraus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandeniu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "bus nešvarus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "bus švarus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:30.862705360Z",
+  "model": "glm-5.3"
+}

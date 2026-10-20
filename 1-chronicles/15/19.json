@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 15:19",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kad būtų girdima",
+      "rationale": "Infraityvas להשמיע ('kad skambėtų\/girdėtųsi') išplėstas į pilną sakinį."
+    },
+    {
+      "kind": "elision",
+      "subject": "buvo paskirti",
+      "rationale": "Verčiuose pridedama 'were appointed' — hebrajų tekstas neturi veiksmažodžio."
+    }
+  ],
+  "translation": "Ir dainininkai Hemanas, Asafas ir Eitanas — cimbolais iš žalvario, kad būtų girdima.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a5a7fc482b2e74cc5a3042c470caef1383f7c13f559af5f3e7dcb844d2cc5aa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/15\/18-19.1792494246673.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשררים",
+      "gloss": "ir dainininkai"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Hemanas"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafas"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "Eitanas"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "cimbolais"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš žalvario"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "kad būtų girdima"
+    }
+  ],
+  "timestamp": "2026-10-20T11:04:06.673896079Z",
+  "model": "glm-5.3"
+}

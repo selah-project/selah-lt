@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "juos",
+      "rationale": "Hebrajų ותצפנו turi priegaikštinį priesagą -ו, išversta įvardžiu 'juos'"
+    },
+    {
+      "kind": "secret",
+      "subject": "paslėpimas",
+      "rationale": "Rahab paslepia vyrus ir sako tik dalį tiesos — slepiamasis veiksmas yra eilutės branduolys"
+    }
+  ],
+  "translation": "Ir moteris paėmė ⟨את⟩ tuos du vyrus ir paslėpė juos, ir sakė: Taip, vyrai atėjo pas mane, bet nežinojau, iš kur jie.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/1-4.1792475753402.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuos du vyrus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ir paslėpė juos"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir sakė"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinojau"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "iš kur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:53.406787099Z",
+  "model": "glm-5.3"
+}

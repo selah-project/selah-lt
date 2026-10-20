@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "„nefeš“ — ne „siela“, o gyvybės jėga, alsavimas, valia; čia reiškia „jeigu jūs norite“"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra linkusi",
+      "rationale": "pt. neturi veiksmažodžio — „jeigu ⟨yra⟩ jūsų nefeš palaidoti“"
+    },
+    {
+      "kind": "invitation",
+      "subject": "išklausykite manęs",
+      "rationale": "Avrahamas imperatyvu tiesiogiai kreipiasi į Cheto sūnus"
+    }
+  ],
+  "translation": "Ir jis kalbėjo ⟨את⟩ jais, sakydamas: jeigu ⟨את⟩ jūsų nefeš yra linkusi palaidoti ⟨את⟩ mano mirusįjį nuo mano veido, išklausykite manęs ir užtarkite mane pas Efroną, Cocharo sūnų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/23\/5-8.1792471398329.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jais"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų nefeš"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jūsų nefeš"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "palaidoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano mirusįjį"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mano mirusįjį"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nuo mano veido"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "išklausykite manęs"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ir užtarkite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mane"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "pas Efroną"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Cocharo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:18.335661883Z",
+  "model": "glm-5.3"
+}

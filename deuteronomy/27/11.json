@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ביום ההוא",
+      "rationale": "'on that day' rendered as accusative 'tą dieną', no separate preposition in Lithuanian"
+    }
+  ],
+  "translation": "Ir Mošė įsakė ⟨את⟩ tautai tą dieną, sakydamas:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/9-12.1792475416738.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ir įsakė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:16.761490051Z",
+  "model": "glm-5.3"
+}

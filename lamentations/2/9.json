@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 2:9",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra \/ yra nebe",
+      "rationale": "Hebrajų elipsė — veiksmažodžio nėra, lietuvių reikalauja jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "אין תורה — 'nėra Toros', ne 'įstatymo'; Tora išlaiko savo vardą"
+    }
+  ],
+  "translation": "Į žemę įsmego jos vartai; jis sunaikino ir sudaužė jos skląsčius; jos karalius ir jos kunigaikščiai ⟨yra⟩ tautose — Tora ⟨yra⟩ nebe, taip pat jos pranašai nerado regėjimo iš Jahvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/2\/9-12.1792491089850.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "įsmego"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "į žemę"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "jos vartai"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sunaikino"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ir sudaužė"
+    },
+    {
+      "surface": "בריחיה",
+      "gloss": "jos skląsčius"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jos karalius"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ir jos kunigaikščiai"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tautose"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "jos pranašai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "rado"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "regėjimo"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "iš Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:29.850953179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje sakinyje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardas",
+      "rationale": "Pristatomas Hagarės vardas — vardų suteikimo formulija"
+    }
+  ],
+  "translation": "Ir Sarajė, Avramo žmona, jam negimdė; o jai ⟨buvo⟩ vergė, micraitė, kurios vardas Hagarė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "813a5638abccfd29b184ac90cd4ab92f1c74d575e87b148b519fddf9b8970ee2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/16\/1-4.1792471317720.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Ir Sarajė"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gimdė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "o jai"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "vergė"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "micraitė"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ir jos vardas"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagarė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:57.721527215Z",
+  "model": "glm-5.3"
+}

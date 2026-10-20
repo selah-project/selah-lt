@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 22:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מהומה\/מבוסה\/מבוכה",
+      "rationale": "Trijų žodžių asonancija su -ומה\/-וסה\/-וכה — sumaištis, trynimas, sutrikimas; lietuviškai skambesys prarandamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "קר",
+      "rationale": "קיר kaip 'siena' (KJV, YLT) ar kaip tautos vardas Kiras (JPS, kaip Iz 22,6); čia laikomasi 'siena'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מקרקר",
+      "rationale": "Retas veiksmažodis — 'ardyti sieną' arba 'statyti sieną' (įtvirtinti); pasirinktas ardymo šaknies vaizdas."
+    }
+  ],
+  "translation": "Nes diena sumaišties ir trynimo-žemyn ir sutrikimo Adonui Jahvei Cevaot Gėjos Chizajono slėnyje — ardoma siena ir šaukiama į kalną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/5-8.1792481033626.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "יום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "sumaišties"
+    },
+    {
+      "surface": "ומבוסה",
+      "gloss": "ir trynimo-žemyn"
+    },
+    {
+      "surface": "ומבוכה",
+      "gloss": "ir sutrikimo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "Gėjos-Chizajono slėnyje"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Chizajono (vizijos)"
+    },
+    {
+      "surface": "מקרקר",
+      "gloss": "ardoma"
+    },
+    {
+      "surface": "קר",
+      "gloss": "siena"
+    },
+    {
+      "surface": "ושוע",
+      "gloss": "ir šaukiama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:53.627731589Z",
+  "model": "glm-5.3"
+}

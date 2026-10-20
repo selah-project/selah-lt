@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ten⟩",
+      "rationale": "hebrajiškame metre nėra vietos prieveiksmio, bet lietuvių kalbai reikia vietos pažymėjimo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškai nėra sangrąžinio veiksmažodžio, kurį reikalauja lietuvių kalba"
+    }
+  ],
+  "translation": "Ir nuėjo Davidas — jis ir šeši šimtai vyrų, kurie ⟨buvo⟩ ⟨את⟩-su juo, — ir atėjo iki Besoro upelio; o likusieji stojo ⟨ten⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/9-12.1792477733745.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ir šeši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo",
+      "marks": "su juo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upelio"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besoro"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "o likusieji"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stojo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:53.747301446Z",
+  "model": "glm-5.3"
+}

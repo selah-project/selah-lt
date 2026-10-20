@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Įsakymas antruoju asmeniu — tiesioginis kreipimasis į Izraelį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šabato dieną",
+      "rationale": "שבת — šabat, išlaikytas kaip vardas pagal D2"
+    }
+  ],
+  "translation": "Atmink ⟨את⟩ šabato dieną, kad ją pašventintum.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/5-8.1792472533552.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Atmink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šabato dieną"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabato"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kad ją pašventintum"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:13.559155771Z",
+  "model": "glm-5.3"
+}

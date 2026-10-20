@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 50:38",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio su היא; lietuvių reikia jungties"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרב",
+      "rationale": "KJV 'drought' (sausra) vs YLT 'sword' (kardas) — ta pati šaknis kaip Pr 50:35 kardas"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתהללו",
+      "rationale": "hithpolel iš הלל: 'pašėlti' arba 'girtis' — YLT renkasi 'girtis'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פסלים \/ אימים",
+      "rationale": " dviejų žodžių stabams eilės tvarka, dviskaitos ritmas dingsta lietuviškai"
+    }
+  ],
+  "translation": "Sausra ant jos vandenų, ir jie išdžius, nes žemė išraižytų atvaizdų ⟨tai yra⟩ ji, ir nuo siaubų-idolų jie pašėls.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "224cc0a48354ca2a63a4992fdadd806dba3edb1c02bc7a3b0d01897633b23d3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/50\/38-40.1792485638154.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "sausra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "jos vandenų"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ir jie išdžius"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "פסלים",
+      "gloss": "išraižytų atvaizdų"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ובאימים",
+      "gloss": "ir nuo siaubų-idolų"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "jie pašėls"
+    }
+  ],
+  "timestamp": "2026-10-20T08:40:38.155737342Z",
+  "model": "glm-5.3"
+}

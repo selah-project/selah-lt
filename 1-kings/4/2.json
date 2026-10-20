@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškas vardiklis neturi veiksmažodžio, pridėta lietuviška kopula"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר לו",
+      "rationale": "pažodžiui 'kurie jam', pateikta kaip 'kurie stovėjo pas jį'"
+    }
+  ],
+  "translation": "Ir šitie ⟨buvo⟩ kunigaikščiai, kurie ⟨stovėjo⟩ pas jį: Azarjahu, Cadoko sūnus, kunigas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/4\/1-4.1792478866150.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ir šitie"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoko"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:46.152192325Z",
+  "model": "glm-5.3"
+}

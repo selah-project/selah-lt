@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — priskirta dalis reiškiama tik datyvu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קֹדֶשׁ קָדָשִׁים",
+      "rationale": "'šventas švenčiausiųjų' — hebrajiškas superlatyvo kartojimas, lietuvių kalboje nevisiškai perduodamas"
+    }
+  ],
+  "translation": "Ir kas lieka iš minchos — Aharonui ir jo sūnums: šventas švenčiausiųjų, iš Jahvės ugnies aukų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/2\/9-12.1792473112474.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "kas lieka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchos"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ir jo sūnums"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "švenčiausiųjų"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "iš ugnies aukų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:52.477525358Z",
+  "model": "glm-5.3"
+}

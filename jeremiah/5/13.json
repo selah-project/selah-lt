@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח reiškia ir vėją, ir dvasią — pranašai taps tuščiu vėju, ne „dvasia“ abstrakčiai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח\/דבר",
+      "rationale": "priešprieša: pranašai tapo vėju, nes neturi žodžio — golden section of eilutės"
+    }
+  ],
+  "translation": "Ir pranašai taps ruach, o žodžio nėra juose — taip jiems bus padaryta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/5\/13-16.1792482250866.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "Ir pranašai"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "taps"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "o žodžio"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bus padaryta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T07:44:10.867585966Z",
+  "model": "glm-5.3"
+}

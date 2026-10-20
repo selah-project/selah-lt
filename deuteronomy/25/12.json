@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tiesioginis kreipimasis",
+      "rationale": "Kodekso nuostata tiesiogiai kreipiasi į bendruomenės teismo vykdytoją — 'tu nukirsi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפה",
+      "rationale": "'Jos delnas' — ar nukertama visa ranka (kaip dauguma vertimų), ar tik delnas; hebrajiškas žodis sako 'delnas'."
+    }
+  ],
+  "translation": "tu nukirsi ⟨את⟩ jos delną; tavo akis nesigailės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/25\/9-12.1792475366221.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "tu nukirsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos delną"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "jos delną"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "nesigailės"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tavo akis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:26.223711197Z",
+  "model": "glm-5.3"
+}

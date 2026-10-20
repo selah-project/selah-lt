@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח תפתח \/ העבט תעביטנו",
+      "rationale": "Dviguba bendraties absoliutybė — „atversk, atversk“, „skolink, paskolink“; hebrajiškas intensyvumas išlaikytas kartojimu."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Jungtuvas כי eilutės pradžioje jungia su v. 7 sudėtinį sakinį; atskiroje eilutėje lietuviškai natūraliau praleista."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Įsakymas adresuotas Jisraeliui dėl vargšo brolio."
+    }
+  ],
+  "translation": "Atversk, atversk ⟨את⟩ savo ranką jam ir skolink, paskolink jam, kiek jis stokoja — ko jam trūksta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/15\/5-8.1792475181055.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atversk"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "atversk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ir skolink"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "paskolink jam"
+    },
+    {
+      "surface": "די",
+      "gloss": "kiek"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "jis stokoja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "trūksta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:21.057638785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peties",
+      "rationale": "שכם pažodžiui 'kakta tarp pečių, pečių lopas' — vienas žodis, lietuvių reikia šnekamosios formos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/סגר",
+      "rationale": "atverti–uždaryti chiazmas, pakartota pora — gramatinis žaidimas lygiomis pakartojimų pusėmis"
+    }
+  ],
+  "translation": "Ir padėsiu Dovydo namų raktą ant jo peties, ir jis atvers, ir nėra kas uždarytų, ir uždarys, ir nėra kas atvertų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "901114603bf688e6ecfab1fa184dbae5a9652b4996eb2a942a311725a196bd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/21-24.1792481056941.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ir padėsiu"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "raktą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovydo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "jo peties"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ir jis atvers"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "kas uždarytų"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ir uždarys"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kas atvertų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:16.942756222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaip",
+      "rationale": "hebrajiškame sakinyje nėra lyginamojo žodžio — pridėta, kad lietuviškame posakyje girdėtųsi aiškiai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תתן לבך",
+      "rationale": "pažodžiui 'neduok savo širdies' — lietuviškai 'nekreik savo širdies'"
+    }
+  ],
+  "translation": "Ir į visus žodžius, kuriuos jie kalba, nekreik savo širdies, kad neišgirstum, kaip ⟨את⟩ tavo tarnas tave keikia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/7\/21-24.1792491255814.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ir į"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "jie kalba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nekreik"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "savo širdies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "išgirstum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaip tavo tarnas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "tave keikia"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:15.815412875Z",
+  "model": "glm-5.3"
+}

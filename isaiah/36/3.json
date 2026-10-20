@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta polinkį išreiškianti kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prieš rūmus",
+      "rationale": "אשר על הבית — 'kuris virš namo', t. y. rūmų valdytojas."
+    }
+  ],
+  "translation": "Ir išėjo pas jį Elijakimas, Chilijahu sūnus, kuris ⟨buvo⟩ prieš rūmus, ir Šebna raštininkas, ir Joachas, Asafo sūnus, minėtojas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/1-4.1792481381267.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ir išėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elijakimas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilijahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš (virš)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "rūmus"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ir Šebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "raštininkas"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "ir Joachas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafo"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "minėtojas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:41.269177379Z",
+  "model": "glm-5.3"
+}

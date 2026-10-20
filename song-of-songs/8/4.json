@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "šauksminis-klausiamasis 'kam\/kaip': ar draudimas (KJV 'stir not up'), ar klausimas 'kodėl žadinate' (JPS) — mūsų variantas seka klausiamąja linija"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaimo dukterims",
+      "rationale": "tiesioginis kreipimasis su prisiekimu į Jerušalaimo dukteris"
+    },
+    {
+      "kind": "invitation",
+      "subject": "draudimas-kreipinys",
+      "rationale": "pareikštas įsakymo-prisiekimo forma, kreipiasi į klausytoją"
+    }
+  ],
+  "translation": "Prisiekiau ⟨את⟩ jums, Jerušalaimo dukterys: nežadinkite ir nebudinkite ⟨את⟩ meilės, kol ji panorės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/8\/1-4.1792490963961.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "prisiekiau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums",
+      "marks": "Jerušalaimo dukterys"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dukterys"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "žadinate"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ir kam"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "budinate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meilę"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "meilė"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ji panorės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:09:23.962859861Z",
+  "model": "glm-5.3"
+}

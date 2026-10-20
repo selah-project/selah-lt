@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia copulos; hebrajiškas טח be veikėjo — vertėjai skiriasi, kas „ištepliojo“ (Dievas ar paties akių būsena)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ištepliotos akys",
+      "rationale": "טח — „išteplioti kalkėmis“: KJV\/JPS „jis uždarė“, YLT „ištepliojo“ — veiksmo darytojas nesakomas"
+    }
+  ],
+  "translation": "Jie nežino ir nesupranta, nes ⟨yra⟩ ištepliotos jų akys, kad nematytų, ⟨yra⟩ ištepliotas jų širdis, kad nesuprastų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/17-20.1792481678853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "jie žino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "jie supranta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טח",
+      "gloss": "ištepliojo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "nuo matymo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "jų akys"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "nuo supratimo"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "jų širdis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:38.854408120Z",
+  "model": "glm-5.3"
+}

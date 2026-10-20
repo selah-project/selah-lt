@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eilai",
+      "rationale": "אילים — ėriukai\/avinalaižiai (avys), ne elniai, bet išlaikyta stiprybės reikšmė"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio 'būti' šioje vietoje"
+    }
+  ],
+  "translation": "Ir Šmuelis tarė: Ar Jahvei ⟨tokia⟩ paguoda holokaustais ir aukomis, kaip klausyti Jahvės balso? Štai klausymas ⟨yra⟩ geresnis už auką, klausymasis — riebesnis už elnių riebalus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/21-24.1792477285623.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ar ⟨tokia⟩ paguoda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "holokaustais"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "ir aukomis"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kaip klausyti"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausymas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "už auką"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geresnis"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "klausymasis"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "už riebalus"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "elnių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:25.625784667Z",
+  "model": "glm-5.3"
+}

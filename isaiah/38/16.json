@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "žmonės",
+      "rationale": "יחיו be subjekto — 'jie gyvens', tradicija skaito 'žmonės'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškai nėra sietuvo 'gyvybė mano ruach'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח — kvapas, vėjas, dvasia; paliktas ruach pagal D2"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליהם",
+      "rationale": "'ant jų \/ jomis' — sąsaja su ankstesniais žodžiais arba su Dievo žodžiais; versijos skiriasi"
+    }
+  ],
+  "translation": "Adonai, jomis žmonės gyvena, ir visuose juose ⟨yra⟩ gyvybė mano ruach; tu mane išgydysi ir prikelsi gyventi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/38\/13-16.1792481422764.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jomis"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "žmonės gyvena"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ir visuose"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "juose"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "gyvybė"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mano ruach"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "tu mane išgydysi"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "ir prikelsi gyventi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:22.767043861Z",
+  "model": "glm-5.3"
+}

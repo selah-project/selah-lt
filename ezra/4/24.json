@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 4:24",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Aramėjiškas והות yra buvimo veiksmažodis be pilno predikato; lietuvių kalbai reikia aplinkos."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בטלת \/ בטלא",
+      "rationale": "Toji pati šaknis בטל 'sustabdyti' kartoja 21 eilutės įsakymą — dabar įvykdytą."
+    },
+    {
+      "kind": "measurement",
+      "subject": "data",
+      "rationale": "Eilutė datuoja darbo sustabdymą: iki antrojo Darijaus valdymo metų."
+    }
+  ],
+  "translation": "Tada nustojo Elaha namo darbas, kuris yra Jerušalaime, ir ⟨buvo⟩ sustabdytas iki antrojo metų Darijaus, Persijos karaliaus, valdymo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/4\/21-24.1792492113284.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "tada"
+    },
+    {
+      "surface": "בטלת",
+      "gloss": "nustojo"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "די",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "בטלא",
+      "gloss": "sustabdytas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "metų"
+    },
+    {
+      "surface": "תרתין",
+      "gloss": "antrojo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "valdymo"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darijaus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persijos"
+    }
+  ],
+  "timestamp": "2026-10-20T10:28:33.285072929Z",
+  "model": "glm-5.3"
+}

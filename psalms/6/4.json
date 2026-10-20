@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "'nefeš' — geriau 'gerklė\/kvapas\/gyvybės jėga'; 'siela' būtų klaidinga."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת",
+      "rationale": "Čia את yra įvardis 'tu' (H859), ne objekto žymeklis H853 — 'o tu, Jahve'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "iki kada",
+      "rationale": "Klausiysis skaitotoją traukiantis šauksmas — nutraukta frazė, atsakymas laukiamas iš Jahvės."
+    }
+  ],
+  "translation": "Ir mano gyvybė labai sudrebėjo; o tu, Jahve, ⟨iki kada⟩?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/6\/1-4.1792487426200.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ir mano gyvybė"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "sudrebėjo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kada"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:26.201866410Z",
+  "model": "glm-5.3"
+}

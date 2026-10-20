@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nukautuosius",
+      "rationale": "ḥălālīm — pažodžiui 'perdurtuosius, pradurtuosius' (nuo ḥālal 'perdurti'); 'nukautieji' praranda pradūrimo paveikslą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nusiaubti",
+      "rationale": "ləfaššēṭ — pažodžiui 'nurengti, nuvilkti' nužudytuosius; 'nusiaubti' platesnė, bet artima"
+    },
+    {
+      "kind": "alternative",
+      "subject": "gulinčius",
+      "rationale": "nōfəlīm — veiksmažodis 'nukritę\/krentantys', ne dalyvis 'gulintys'; 'nukritusius' būtų dargiškiau"
+    }
+  ],
+  "translation": "Kitą dieną atėjo pelištiečiai nusiaubti ⟨את⟩ nukautuosius, ir jie rado ⟨את⟩ Saulių ir ⟨את⟩ jo tris sūnus gulinčius Gilbogos kalne.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b2a8f7ac3826b40538b806599a69b210b978bf408970895aab8b1987fdd4d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/31\/6-8.1792485599895.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨atrodė⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "kitą dieną"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištiečiai"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "nusiaubti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nukautuosius"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "nukautuosius"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ir jie rado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saulių"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulių"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trys"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trys"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnūs"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "gulinčius"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilbogos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:39:59.898718287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "Pažodžiui 'siauru, ankštu' — 'suspaudimas' perteikia siaurumo ir bėdos vaizdą."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעריפיה",
+      "rationale": "עריפה — 'žemės paribio dangus, padangė'; KJV 'heavens', YLT 'abundance' iš kito šaknies skaitymo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/חשך",
+      "rationale": "Daiktavardis 'tamsa' ir veiksmažodis 'aptemo' — ta pati šaknis du kartus per dvi frazes."
+    }
+  ],
+  "translation": "Ir ūks prieš jį tą dieną kaip jūros ūkavimas, ir pažvelgs į žemę — ir štai tamsa, suspaudimas, ir šviesa aptemo jos padangėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2253d951983124f7fa7069c77b687b8eea17cdd51ad80d33d2eda9bb727e51cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/29-30.1792480657666.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "ir ūks"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "kaip ūkavimas"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "ir pažvelgs"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "į žemę"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamsa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "suspaudimas"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ir šviesa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "aptemo"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "jos padangėse"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:37.672491524Z",
+  "model": "glm-5.3"
+}

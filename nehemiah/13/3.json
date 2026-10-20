@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערב",
+      "rationale": "„maißalas” — pats žodis reiškia „maišymas, įvairiaspalvė minia”; „visi svetimtaučiai” būtų per toli"
+    },
+    {
+      "kind": "you",
+      "subject": "from Israel",
+      "rationale": "tiesioginis bendruomenės veiksmas — Toros išgirdimas tuoj virsta skyrimu"
+    }
+  ],
+  "translation": "Ir įvyko, jiems išgirdus ⟨את⟩ Torą, jie atskyrė visą maišalą iš Jisraelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/13\/1-4.1792492577387.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "jiems išgirdus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torą"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torą"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "jie atskyrė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "maißalą"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iš Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:36:17.388686622Z",
+  "model": "glm-5.3"
+}

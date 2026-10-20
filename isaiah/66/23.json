@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מדי...ב...",
+      "rationale": "Hebrajų konstrukcija 'iš X į jo X' — nuolatinis pasikartojimas."
+    },
+    {
+      "kind": "addition",
+      "subject": "mane",
+      "rationale": "לפני — 'prieš veidą', pridėtas įvardis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "laikas",
+      "rationale": "Reguliarus šabatų ir jauno mėnulio skaičiavimas — kalendorinis ritmas."
+    }
+  ],
+  "translation": "Ir bus: iš jauno mėnulio į jauną mėnulį ir iš šabato į šabatą ateis visas kūnas nusilenkti priešais mane, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/21-24.1792482069784.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "iš"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jauno mėnulio"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "į jauną mėnulį"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ir iš"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabato"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "į šabatą"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "nusilenkti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais mane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:09.786370424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sumušė",
+      "rationale": "הכה — 'trenkė, sumušė'; žinioje dar nežinoma, ar nužudyta — verčiant 'nužudė' būtų prikišta tai, ko žinia dar nesako."
+    },
+    {
+      "kind": "addition",
+      "subject": "nė",
+      "gloss": "litų kalbai reikia neigiamo dalelytės su 'vieno'"
+    }
+  ],
+  "translation": "Ir įvyko, jiems esant kelyje, žinia pasiekė Davidą, sakant: Avšalomas sumušė ⟨את⟩ visus karaliaus sūnus, ir neliko iš jų nė vieno.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/29-32.1792478251125.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jiems esant"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kelyje"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "žinia"
+    },
+    {
+      "surface": "באה",
+      "gloss": "pasiekė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sumušė"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus karaliaus sūnus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir neliko"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "neliko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nė vieno"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:31.127741935Z",
+  "model": "glm-5.3"
+}

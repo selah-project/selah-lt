@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kopulos"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חנים",
+      "rationale": "žodis reiškia 'stovyklauti, palapinęti' — veikslas, ne tik būsena"
+    }
+  ],
+  "translation": "Ir Pelištiečiai surinko ⟨את⟩ visas savo stovyklas prie Afeko, o Jisraelis įsikūrė stovyklą prie šaltinio, kuris yra Jizreelyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/29\/1-4.1792477808769.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "surinko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištiečiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas savo stovyklas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "savo stovyklas"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "prie Afeko"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "o Jisraelis"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "įsikūrė stovyklą"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "prie šaltinio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreelyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:08.778302798Z",
+  "model": "glm-5.3"
+}

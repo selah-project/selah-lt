@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išstums",
+      "rationale": "הוריש yra 'paveldėti išvarant gyventojus' — veiksmas ir nuosavybė viename žodyje"
+    },
+    {
+      "kind": "addition",
+      "subject": "iš jūsų",
+      "rationale": "לכם pažymi, kad peržengėjai yra iš klausytojų; lietuviškame sande parodyta šriftu"
+    }
+  ],
+  "translation": "ir iš jūsų kiekvienas ginkluotasis peržengs ⟨את⟩ Jordaną priešais Jahvę, kol jis išstums ⟨את⟩ jo priešus iš jo veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eebff812b60964f951c488ced241115918d885ce053226b71eb3ecd21a5e4acc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/32\/21-24.1792474711089.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ir peržengs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "iš jūsų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ginkluotasis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaną"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaną"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "išstums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo priešus"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jo priešus"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "iš jo veido"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:31.090809103Z",
+  "model": "glm-5.3"
+}

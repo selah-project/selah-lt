@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neatsakysi",
+      "rationale": "ענה pažodžiui 'atsakyssi' — KJV 'bear witness' praranda teisminio atsakymo paveikslą."
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "gloss": "būtinybė lietuvių kalboje"
+    }
+  ],
+  "translation": "Ir neatsakysi prieš savo artimą — melagingą liudijimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/5\/17-20.1792474898048.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "atsakysi"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "prieš savo artimą"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudijimą"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "melagingą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:38.050425768Z",
+  "model": "glm-5.3"
+}

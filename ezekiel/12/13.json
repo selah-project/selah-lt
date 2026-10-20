@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 12:13",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואותה",
+      "rationale": "Greičiausiai et (ne את): dalelytė 'tačiau', atkurta kaip 'ir jos ⟨את⟩' priimant DOM skaitmenimą."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואותה לא יראה",
+      "rationale": "םלא יראה — 'jos (žemės) nematys' arba 'jos (Babelio) nematys'; majoritetinė tradicija: Babelio jis nematys."
+    }
+  ],
+  "translation": "Ir aš ištiesiu savo tinklą ant jo, ir jis bus sučiuptas mano žabanguose; ir atvesiu ⟨את⟩ jį Babelin, žemėn kasdėjų, ir jos ⟨את⟩ jis nematys — ir ten jis mirs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/12\/13-16.1792483983699.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "ištiesiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinklą"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "tinklą"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "bus sučiuptas"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "mano žabanguose"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "atvesiu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "į Babelį"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babelin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdėjų"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "ir jos ⟨את⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "matys"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    }
+  ],
+  "timestamp": "2026-10-20T08:13:03.700942244Z",
+  "model": "glm-5.3"
+}

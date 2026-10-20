@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך",
+      "rationale": "Šaknis נשך reiškia ir „įgelti“ (gyvatės), ir „imti palūkanas“ — palūkanos kaip įgėlimas; kartojama tris kartus, lietuviškai garsinis paveikslas dingsta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "palūkanos",
+      "rationale": "נשך — antstato „kandulys“, bet tikslesnio lietuviško atitikmens nėra; įprastas „palūkanos“."
+    }
+  ],
+  "translation": "Nesiimsi iš savo brolio palūkanų: palūkanų už sidabrą, palūkanų už maistą, palūkanų už visa, kas skolinama su palūkanomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/23\/17-20.1792475409597.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "siimsi iš"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "savo brolio"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "palūkanų"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "už sidabrą"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "palūkanų"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "už maistą"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "palūkanų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "už visa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "skolinama su palūkanomis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:09.600301033Z",
+  "model": "glm-5.3"
+}

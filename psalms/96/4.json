@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jo neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievų",
+      "rationale": "אלהים čia mažąja raide — tautų dievai, ne Elohim Izraelio Dievas."
+    }
+  ],
+  "translation": "Nes didis yra Jahvė ir labai pagirtinas, jis bauginantis virš visų dievų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/96\/1-4.1792488725862.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ir pagirtinas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "bauginantis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:05.863782588Z",
+  "model": "glm-5.3"
+}

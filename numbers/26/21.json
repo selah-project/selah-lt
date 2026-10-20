@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų ויהיו yra pasakojamoji kopula, lietuvių reikalauja jos aiškiai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šeimų sąrašas",
+      "rationale": "Surašymo (cenzuso) sąrašas — giminės pagal šeimas"
+    }
+  ],
+  "translation": "Ir Perco sūnūs ⟨buvo⟩: iš Checrono — checroniečių šeima, iš Chamulo — chamuliečių šeima.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "689698649ad85070f528994df4afe7f0cff196bc3ffa6bbaf35df1a44dfff256",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/21-24.1792474457800.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Percas"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "iš Checrono"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "šeima"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "checroniečių"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "iš Chamulo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "šeima"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "chamuliečių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:17.802474198Z",
+  "model": "glm-5.3"
+}

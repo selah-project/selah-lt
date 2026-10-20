@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pagadino",
+      "rationale": "המר iš šaknies מרר „kartus“ — pažodžiui „padarė kartų man“; „pagadino“ praranda kartumo vaizdą, tiksliau būtų „padarė man visa karčiai“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נעמי \/ מרא",
+      "rationale": "Vardo keitimas: Noomi „maloni“ → Mara „karta“ — tos paicos šaknų žaismas, į lietuvių neišverčiamas be pastabos."
+    },
+    {
+      "kind": "you",
+      "subject": "joms",
+      "rationale": "Noomi kreipiasi tiesiogiai į Bet Lechemo moteris."
+    }
+  ],
+  "translation": "Ir ji tarė joms: nevadinkite manęs Noomi, vadinkite mane Mara, nes Šadai labai pagadino man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ruth\/1\/17-20.1792491009411.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ir ji tarė"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "joms"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "vadinkite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "vadinkite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mane"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "המר",
+      "gloss": "pagadino"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:10:09.412510396Z",
+  "model": "glm-5.3"
+}

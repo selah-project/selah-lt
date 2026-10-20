@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "teisę",
+      "rationale": "גאלתי čia reiškia atpirkimo teisę, ne tik objektą; pridėtas žodis 'teisę' aiškina."
+    },
+    {
+      "kind": "crux",
+      "subject": "גאלתי",
+      "rationale": "„ mano atpirkimas “ — ar teisė į atpirkimą (KJV 'my right'), ar atpirkimo objektas; kontekstas rodo teisę."
+    }
+  ],
+  "translation": "Ir tarė atpirkėjas: Negaliu atpirkti ⟨את⟩ savęs labui, kad nesugadinčiau savo palikimo. Atpirk sau tu ⟨את⟩ mano atpirkimo teisę, nes aš negaliu atpirkti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ruth\/4\/5-8.1792490973379.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "atpirkėjas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "galiu"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "atpirkti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "savęs labui"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad nesugadinčiau"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "sugadinčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savęs"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "mano palikimą"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "Atpirk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano atpirkimo teisę"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "mano atpirkimo teisę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "galiu"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "atpirkti"
+    }
+  ],
+  "timestamp": "2026-10-20T10:09:33.380767282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 12:10",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pusėje⟩",
+      "rationale": "Hebrajų turi tik 'dešinėje' (בימין); lietuvių reikalauja daiktavardžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדלתו",
+      "rationale": "'Jos duryse' — dalys 'durys' reiškia dangtį: 'dangtis' prieš pažodžiui 'jos durys'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארון",
+      "rationale": "Čia ne Sandoros skrynia, o paprasta pinigų skrynia — 'dėžė'."
+    }
+  ],
+  "translation": "Ir kunigas Jehojada paėmė vieną skrynią ir išgręžė skylę jos dangtyje, ir padėjo ⟨את⟩ ją šalia aukuro, dešinėje ⟨pusėje⟩, kai žmogus įeina į Jahvės namus; ir kunigai, saugantys slenkstį, ten dėdavo ⟨את⟩ visą sidabrą, atnešamą į Jahvės namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/12\/9-12.1792480156942.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ir išgręžė"
+    },
+    {
+      "surface": "חר",
+      "gloss": "skylę"
+    },
+    {
+      "surface": "בדלתו",
+      "gloss": "jos dangtyje"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir padėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "šalia aukuro — padėjo ją"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "šalia"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "dešinėje"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "kai įeina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ir dėdavo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "saugantys"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "slenkstį"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą sidabrą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "atnešamą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:16.944752912Z",
+  "model": "glm-5.3"
+}

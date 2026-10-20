@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pašventino",
+      "rationale": "הקדיש pažodžiui 'pašventino' — atidavė šventam naudojimui, ne tiesiog 'skyrė'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקדיש...הקדיש",
+      "rationale": "pasikartojanti šaknis קדש du kartus — šventinimo veiksmo aidėjimas"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ juos karalius Davidas pašventino Jahvei — kartu su sidabru ir auksu, kurį jis pašventino iš visų tautų, kurias nukariavo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cda57e7303b88f611917223d5a35d20b103457163d085c67082dfe6e0c6334cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/8\/9-12.1792478042763.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "indai iš 8,10"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "pašventino"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kartu su"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabru"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ir auksu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "pašventino"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurias"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nukariavo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:02.803884140Z",
+  "model": "glm-5.3"
+}

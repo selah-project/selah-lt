@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפתים",
+      "rationale": "Dviguba forma (dual) — „tarp dviejų aptvarų\/ganyklų“; KJV „tarp puodų“ iš panašaus žodžių skambesio."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ palyginime; pridėta skaitytojui."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרוץ",
+      "rationale": "Čia retai vartojamas žodis auksui („kaltasis\/aštrus auksas“), verčiamas tiesiog „auksu“."
+    }
+  ],
+  "translation": "Jei gulite tarp dviejų ganyklų — ⟨yra⟩ tarsi balandžio sparnai, apdengti sidabru, ir jos plunksnos gelsvu auksu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/13-16.1792488320722.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "gulite"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "dviejų ganyklų"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sparnai"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "balandžio"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "apdengti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sidabru"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "ir jos plunksnos"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "gelsvu"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "auksu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:20.723660208Z",
+  "model": "glm-5.3"
+}

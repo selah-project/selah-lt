@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלק",
+      "rationale": "retas veiksmažodis — 'nulaužti sąnarį', apie paukščio kaklo nusukimą neatskiriant galvos"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומלק",
+      "rationale": "vertėjai skiriasi: 'nusukti kaklą' (KJV 'wring off') vs 'nusmeigti' (rabiniška tradicija smeigtuku prie altoriaus)"
+    }
+  ],
+  "translation": "Ir kunigas prineš ją prie altoriaus, ir nulauš ⟨את⟩ jos galvą, ir smilkins ant altoriaus, o jos kraujas bus išspaustas ant altoriaus sienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/1\/13-16.1792473141715.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "ir prineš ją"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altoriaus"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ir nulauš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos galvą"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jos galvą"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ir smilkins"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant altoriaus"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "bus išspaustas"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jos kraujas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altoriaus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:21.718663788Z",
+  "model": "glm-5.3"
+}

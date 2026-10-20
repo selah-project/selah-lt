@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשמה",
+      "rationale": "Nešama — 'kvėpavimas, gyvybės dvasia'; 'kas kvėpuoja' išlaiko žodžio paveikslą."
+    },
+    {
+      "kind": "addition",
+      "subject": "gyvo",
+      "rationale": "Lietuviška konstrukcija 'nepaliksi gyvo' reikalauja veiksmažodžio, hebrajų turi tik לא תחיה 'ne gyvinsi'."
+    }
+  ],
+  "translation": "Tik iš šitų tautų miestų, kuriuos Jahvė, tavo Elohim, duoda tau paveldėti, nieko, kas kvėpuoja, nepaliksi gyvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2e1e8305639ea2c69b7e74fe3040e870c42d0f6b44b0307f94c3061bfff6c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/20\/13-16.1792475283733.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "iš miestų"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šitų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "duoda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "paveldėti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "paliksi gyvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "kas kvėpuoja"
+    }
+  ],
+  "timestamp": "2026-10-20T05:48:03.736051595Z",
+  "model": "glm-5.3"
+}

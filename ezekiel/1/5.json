@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio — lietuvių kopula pridėta skliaustuose"
+    },
+    {
+      "kind": "mystery",
+      "subject": "panašumas",
+      "rationale": "Vizija sąmoningai aprašoma per דמות („panašumas“) — regima tik atspindžiu, ne pačiu pavidalu"
+    }
+  ],
+  "translation": "Ir iš jos vidurio — panašumas keturių gyvų būtybių, ir štai jų išvaizda: panašumas žmogaus ⟨buvo⟩ joms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/1\/5-8.1792483700462.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "ir iš jos vidurio"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "panašumas"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturių"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "gyvų būtybių"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "jų išvaizda"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "panašumas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "joms"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:20.463535018Z",
+  "model": "glm-5.3"
+}

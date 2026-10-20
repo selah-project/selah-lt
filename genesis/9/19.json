@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų neturi veiksmažodžio, lietuvių reikalauja kopulos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išsisklaidė",
+      "rationale": "נפצה pažodžiui „buvo sutriuškinta \/ išbarstyta“ — Verbo nuoroda rodo žemės gyventojų išsisklaidymą."
+    }
+  ],
+  "translation": "Trys — šitie ⟨buvo⟩ Noacho sūnūs, ir iš jų_pasisklido_išsisklaidė visa žemė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d6e25f5d983e9c8a7e8f75e5177c9253f6fce8d1dbb674a2fb616b5055bb201b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/17-20.1792471088206.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Trys"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacho"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ir iš jų"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "išsisklaidė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:08.207343828Z",
+  "model": "glm-5.3"
+}

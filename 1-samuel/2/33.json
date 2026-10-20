@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrų neturi veiksmažodžio 'būti' — pridėta siekiant sintaksinio ryšio"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימותו אנשים",
+      "rationale": "'mirs vyrai' — KJV 'žydintį amžių', JPS 'jauni vyrai'; hebrajiškas pažymys 'anšim' pažymi stiprų amžių"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש — gerkliaus, gyvybės jėga, ne 'siela' viena"
+    }
+  ],
+  "translation": "Ir vyrą, kurio nenukirsčiau tau nuo mano aukuro, ⟨yra⟩ tam, kad išsektų ⟨את⟩ tavo akys ir alptų ⟨את⟩ tavo nefes; ir visa gausybė tavo namų mirs vyrai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/33-36.1792476944563.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyrą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "nukirsčiau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mano aukuro"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "kad išsektų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo akys"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavo akys"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "ir alptų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo nefes"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo nefes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "gausybė"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tavo namų"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:44.564308689Z",
+  "model": "glm-5.3"
+}

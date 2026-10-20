@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebrajų vav-prisega išversta jungtuku „ir“"
+    }
+  ],
+  "translation": "Ir karalius atsakė ⟨את⟩ tautai atžariai, ir paliko ⟨את⟩ vyresniųjų patarimą, kurį jie jam patarė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/13-16.1792479280624.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "atžariai"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ir paliko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patarimą"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "patarimą"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyresniųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "jie jam patarė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:40.625308092Z",
+  "model": "glm-5.3"
+}

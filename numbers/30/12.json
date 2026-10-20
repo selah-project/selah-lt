@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסר…אסרה…יקום\/וקמו",
+      "rationale": "veiksmažodžio ir daiktavardžio אסר kartojimas ir dvigubas קום — paralelinė sandara, lietuvių kalboje išlaikyta tik dalinai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gyvybės jėga, ne nemateriali siela"
+    }
+  ],
+  "translation": "ir jos vyras išgirdo ir patylėjo prieš ją, neuždraudė ⟨את⟩ jos — tai visi jos pažadai įsigalios, ir visas įpareigojimas, kurį ji surišo ant savos sielos, įsigalios.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/30\/9-12.1792474659186.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "jos vyras"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ir patylėjo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "prieš ją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "uždraudė"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "įsigalios"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "jos pažadai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "įpareigojimas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ji surišo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "savos sielos"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "įsigalios"
+    }
+  ],
+  "timestamp": "2026-10-20T05:37:39.188630801Z",
+  "model": "glm-5.3"
+}

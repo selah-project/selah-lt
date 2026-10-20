@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra veiksmažodžio su ורבה היא — lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "crux",
+      "subject": "על האדם",
+      "rationale": "„ant žmogaus \/ žmogui“: ar blogis slegia žmogų, ar yra paplitęs tarp žmonių"
+    }
+  ],
+  "translation": "Yra blogis, kurį mačiau po saule, ir didelis jis ⟨yra⟩ žmogui:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7d615df2aede3ce82de5c4d7bae7ef0fde2a970b29d382b558e6dc71bf68ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/6\/1-4.1792491349079.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "yra"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saule"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ir didelis"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨yra⟩ žmogui"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogui"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:49.080277852Z",
+  "model": "glm-5.3"
+}

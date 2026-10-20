@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 6:17",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "cheremas",
+      "rationale": "חרם verčiamas 'prakeiktasis', 'pašvęstasis naikinimui' arba transkribuojamas kaip cheremas; pasirinkta transkripcija, nes žodis neša techninės pasmerkimo-doanos reikšmės."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasiuntiniai",
+      "rationale": "המלאכים čia žmonės-žvalgai, ne dangaus angelai; 'pasiuntiniai' išlaiko žodžio formą."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje; lietuvių kalbai reikalinga copula."
+    }
+  ],
+  "translation": "Ir miestas bus cheremas — jis pats ir visa, kas jame ⟨yra⟩, Jahvei; tik Rachava paleistuvė gyvens, ji ir visi, kurie ⟨את⟩ su ja namie, nes ji paslėpė ⟨את⟩ pasiuntinius, kuriuos mes pasiuntėm.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/17-20.1792475795994.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cheremas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "jis pats"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rachava"
+    },
+    {
+      "surface": "הזונה",
+      "gloss": "paleistuvė"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "החבאתה",
+      "gloss": "ji paslėpė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasiuntinius"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "mes pasiuntėm"
+    }
+  ],
+  "timestamp": "2026-10-20T05:56:36.000347689Z",
+  "model": "glm-5.3"
+}

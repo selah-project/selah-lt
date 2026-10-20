@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 36:32",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "lietuvių kalbai reikia objekto 'tai', hebrajų turi tik עשה 'darau'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio namai",
+      "rationale": "tiesioginis kreipimasis į Jisraelio namus — smerkimas ir kvietimas gėdytis"
+    }
+  ],
+  "translation": "Ne dėl jūsų aš tai darau — Adonai Jahvė sako — tebūna jums žinoma: gėdykitės ir būkite sugėdinti dėl savo kelių, Jisraelio namai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/36\/29-32.1792485880844.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "dėl jūsų"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darau"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tebūna žinoma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "gėdykitės"
+    },
+    {
+      "surface": "והכלמו",
+      "gloss": "ir būkite sugėdinti"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "dėl savo kelių"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T08:44:40.847750097Z",
+  "model": "glm-5.3"
+}

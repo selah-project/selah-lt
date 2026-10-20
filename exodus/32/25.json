@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרע",
+      "rationale": "'Išsileidęs, nuogas, paleistas nuo vadžių' — KJV 'naked', JPS 'broken loose', YLT 'unbridled'; šaknis reiškia 'atpalaiduoti, išleisti (plaukus)'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרע \/ פרעה",
+      "rationale": "Toji pati šaknis kartoja du kartus — tauta paleista, nes Aharonas ją paleido; kartojimas lietuviškai išlaikytas."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקמיהם",
+      "rationale": "Qal daktilinis iš קום: 'tarp jų priešininkų' arba 'tarp jų pakilėlių'."
+    }
+  ],
+  "translation": "Ir Mošė pamatė ⟨את⟩ tautą, kad ji paleista nuo vadžių, nes Aharonas buvo ją paleidęs nuo vadžių priešų paniekai tarp jų priešininkų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/25-28.1792472974626.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "paleista nuo vadžių"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "buvo ją paleidęs nuo vadžių"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonas"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "paniekai"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "tarp jų priešininkų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:34.627696919Z",
+  "model": "glm-5.3"
+}

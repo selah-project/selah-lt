@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje; lietuvių reikalauja ⟨esu⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעללתי",
+      "rationale": "'Ką padariau' — עלל hithpa'el reiškia ir 'išjuokti', ir 'smarkiai elgtis su'; vertėjai renkasi tarp 'išdarinėjau' ir 'elgiausi smarkiai'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pasakojimas",
+      "rationale": "Eilutė įpareigoja sekti istoriją vaikams — tekstas kviečia pasakotoją."
+    }
+  ],
+  "translation": "Ir kad papasakotum savo sūnaus ir savo sūnaus sūnaus ausims, ką ⟨את⟩ padariau Micraime, ir ⟨את⟩ savo ženklus, kuriuos padėjau juose, — ir jūs pažintumėte, kad aš esu Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/10\/1-4.1792472377008.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Ir kad"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "papasakotum"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausims"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "savo sūnaus"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ir sūnui"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "savo sūnaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "padariau"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo ženklus"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "savo ženklus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "padėjau"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ir pažintumėte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:37.014399743Z",
+  "model": "glm-5.3"
+}

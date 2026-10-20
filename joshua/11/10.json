@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje dabarties dalyje; lietuvių kalbai reikia ⟨buvo⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "galva",
+      "rationale": "ראש pažodžiui 'galva' — vyriausioji, pirmoji tarp karalysčių"
+    }
+  ],
+  "translation": "Ir Jėšua tomis dienomis grįžo atgal ir užėmė ⟨את⟩ Hacorą, o ⟨את⟩ jo karalių nukaldo kardu, nes Hacoras anksčiau buvo visų šitų karalysčių galva.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/9-12.1792475937568.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "grįžo atgal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jėšua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tomis dienomis"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "užėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hacorą"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacorą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jo karalių"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jo karalių"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nukaldo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacoras"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anksčiau"
+    },
+    {
+      "surface": "היא",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "karalysčių"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šitų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:58:57.569533144Z",
+  "model": "glm-5.3"
+}

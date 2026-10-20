@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kas tik",
+      "rationale": "Hebrew participle המדבר 'the one speaking' rendered as relative 'whoever speaks'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יסיף עוד",
+      "rationale": "'add still' = Hebrew idiom for 'do again', rendered 'nebepridės... dar kartą'"
+    }
+  ],
+  "translation": "Ir tarė karalius: Kas tik kalbės tau ⟨ką⟩, atvesk jį pas mane, ir jis nebepridės tavęs liesti dar kartą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/9-12.1792478249227.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kas kalbės"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "atvesk jį"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "pridės"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar kartą"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "liesti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:29.230179522Z",
+  "model": "glm-5.3"
+}

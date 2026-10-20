@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach' — vėjas, kvapas, dvasia viename žodyje, ne tik 'dvasia'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ir ateis (smarkiai)",
+      "rationale": "וצלחה reiškia 'užplūs, puolančiai atskubės' — smarkus, ne ramus atėjimas"
+    }
+  ],
+  "translation": "Ir Jahvės ruach ateis ant tavęs, ir tu pranašausi su jais, ir būsi paverstas kitu žmogumi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3f3ab08358ab73a7030e3abdbc0fd7027b284e7c1af364a3930c84363e2d1584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/5-8.1792477191804.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "ir ateis (smarkiai)"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ant tavęs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "ir tu pranašausi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "su jais"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "ir būsi paverstas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "žmogumi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kitu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:51.806610785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עוני",
+      "rationale": "'mano kaltė' arba 'mano bausmė' — hebrajiškai vienas žodis avon reiškia abu."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Žodis 'al (linkininkas su tarė) lietuviškame tarinio junginyje išnyksta."
+    }
+  ],
+  "translation": "Ir Kajinas tarė Jahvei: per didelė mano kaltė, kad ⟨galiu⟩ nešti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "614a325e7ab193bba258d3f466e4c3590238162024961e7204c4ea38bbad684d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/13-16.1792471022602.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajinas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "per didelė"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mano kaltė"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "kad ⟨galiu⟩ nešti"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:02.603265590Z",
+  "model": "glm-5.3"
+}

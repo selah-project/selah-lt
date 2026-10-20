@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meilė",
+      "rationale": "דדיך — daugiskaita ״tavo meilės\/mylėtojo bučiniai״; vienaskaita praranda daugiskaitos pavidalą."
+    },
+    {
+      "kind": "addition",
+      "subject": "prieš",
+      "rationale": "hebrajų lyginamasis be prielinksnio, lietuvių reikalauja ״nei\/prieš״."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה יפו … מה טבו",
+      "rationale": "lygiagretus šauksminis pakartojimas, paralelizmas išlaikytas."
+    }
+  ],
+  "translation": "Kokia graži tavo meilė, mano seserie, nuotaka, kokia gera tavo meilė prieš vyną, ir kvapas tavo aliejų prieš visus kvapnius prieskonius!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/4\/9-12.1792490840759.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kokia"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "graži"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tavo meilė"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mano seserie"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nuotaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kokia"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "gera"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "tavo meilė"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "prieš vyną"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ir kvapas"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "tavo aliejų"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "prieš visus"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kvapnius prieskonius"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:20.760319825Z",
+  "model": "glm-5.3"
+}

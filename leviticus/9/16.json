@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taisyklė",
+      "rationale": "משפט yra 'teismas\/teisė\/nuosprendis' — ritualiniame kontekste 'nustatyta tvarka'"
+    }
+  ],
+  "translation": "Ir pristatė ⟨את⟩ deginamąją auką ir atliko ją pagal taisyklę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/9\/13-16.1792473312575.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "pristatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deginamoji auka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamąją auką"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "atliko"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "pagal taisyklę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:12.577679400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra veiksmažodžio, lietuvių kalbai reikia saistylio."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלילים",
+      "rationale": "'Teisėjai' — t. y. net priešai pripažįsta; alternatyva: 'tarpininkai' (nuo פלל 'spręsti')."
+    }
+  ],
+  "translation": "Nes ne kaip mūsų Uola — jų uola, ir mūsų priešai ⟨yra⟩ teisėjai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/32\/29-32.1792475556516.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "kaip mūsų Uola"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "jų uola"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ir mūsų priešai"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "teisėjai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:36.518941705Z",
+  "model": "glm-5.3"
+}

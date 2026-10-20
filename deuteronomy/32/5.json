@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "„Sugadino sau\/jam” — LXX skaito „ne jam”, JPS „ar sugedimas Jo?”; hebrajiškas לו dviprasmis."
+    },
+    {
+      "kind": "crux",
+      "subject": "מומם",
+      "rationale": "„jų yda” — ar genitivas „ne jo vaikų yda” (KJV), ar subjekto yda (ASV, JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "Dviejų retų „iškrypimo” žodžių pora — retorinis sugretinimas, lietuviškai išlaikytas."
+    }
+  ],
+  "translation": "Sugadino sau — ne jo vaikai ⟨yra⟩, yda jų; karta iškrypusi ir vingiuota.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/32\/5-8.1792475607887.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "Sugadino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo vaikai"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "yda jų"
+    },
+    {
+      "surface": "דור",
+      "gloss": "karta"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "iškrypusi"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "ir vingiuota"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:27.888117081Z",
+  "model": "glm-5.3"
+}

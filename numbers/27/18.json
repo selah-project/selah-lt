@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Mošė",
+      "rationale": "Jahvės įsakymas Mošei — tiesioginis kreipimasis."
+    },
+    {
+      "kind": "elision",
+      "subject": "רוח בו",
+      "rationale": "Hebrajiškai be veiksmažodžio — 'vyras, kuriame ruach'; lietuviškai pridėta ⟨yra⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis, kelios reikšmės."
+    }
+  ],
+  "translation": "Ir Jahvė tarė Mošei: Paimk sau ⟨את⟩ Jehošua, Nūno sūnų, vyrą, kuriame yra ruach, ir padėk ⟨את⟩ savo ranką ant jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4c81f34a54fb2c02c5121486f7f60459112c71d9e825cc9ceee6aee9942d653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/27\/17-20.1792474596548.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Paimk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nūno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurisame"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yra"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "ir padėk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:36.556916286Z",
+  "model": "glm-5.3"
+}

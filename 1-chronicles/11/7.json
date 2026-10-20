@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ją⟩",
+      "rationale": "Hebrajiškas לו („jam\/viešai“) rodo objektą; lietuviškai aiškinama į „ją“, nes kalbama apie tvirtovę-miestą."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "Pažodžiui „ant to“ — reiškia „todėl“."
+    }
+  ],
+  "translation": "Ir Davidas gyveno tvirtovėje; todėl pavadino ⟨ją⟩ Dovydo miestu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/11\/5-8.1792492816835.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ir gyveno"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "tvirtovėje"
+    },
+    {
+      "surface": "על",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kad"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ją⟩"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovydo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:40:16.836818333Z",
+  "model": "glm-5.3"
+}

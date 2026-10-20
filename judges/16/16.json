@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 16:16",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesas",
+      "rationale": "נפש — gerklyje, alsavime, gyvybės jėga, ne „siela“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sutrumpėjo iki mirties",
+      "rationale": "קצר נפש pažodžiui „trumpas alsavimas“ — nekantrumas, išsekimas"
+    }
+  ],
+  "translation": "Ir atsitiko, kad ji jį spaudė savo žodžiais visas dienas ir varė jį, ir jo nefesas sutrumpėjo iki mirties.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6954d2708d79fa7944c9d738d96ceb06aabdd8528dddafbc75dd50f865721150",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/16\/13-16.1792476826193.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הציקה",
+      "gloss": "spaudė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jis"
+    },
+    {
+      "surface": "בדבריה",
+      "gloss": "savo žodžiais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ותאלצהו",
+      "gloss": "ir varė jį"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ir sutrumpėjo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo nefesas"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iki mirties"
+    }
+  ],
+  "timestamp": "2026-10-20T06:13:46.200714486Z",
+  "model": "glm-5.3"
+}

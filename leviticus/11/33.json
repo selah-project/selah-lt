@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“ dabarties formos"
+    }
+  ],
+  "translation": "Ir kiekvienas molio indas, į kurio vidų iš jų įkris ⟨את⟩, nešvarus taps viskas, kas jame yra, o jį sudaužysite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/33-36.1792473306421.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekvienas"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indas"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "molio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "įkris"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "jo vidų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viskas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nešvarus taps"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (molinį indą)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "sudaužysite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:06.423326982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 11:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "o Juda",
+      "rationale": "Dievas kreipiasi tiesiogiai į Judą, antroji asmens forma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gėda",
+      "rationale": "הבשת 'gėda' — Toros cenzūrinis pakaitalas Baalo vardui, čia išlaikytas kaip 'gėda'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičių",
+      "rationale": "Eilutė dvigubai skaičiuoja: dievai pagal miestų skaičių, aukurai pagal gatvių skaičių."
+    }
+  ],
+  "translation": "Nes pagal skaičių tavo miestų buvo tavo dievai, o Juda, ir pagal skaičių Jerušalaimo gatvių jūs pastatėte aukurus gėdai, aukurus smilkymui Baaliui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7bdac5e801bb1f575c2f497218be8354f3a51ad9294f89707edaf50c88a0fb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/13-16.1792482456470.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "pagal skaičių"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tavo miestų"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo dievai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "o Juda"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ir pagal skaičių"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "gatvių"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "jūs pastatėte"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "aukurus"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "gėdai"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "aukurus"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "smilkymui"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baaliui"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:36.472153391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Čia את yra prielinksnis 'su' (greta כל), ne veiksnio žymeklis; verčiama pagal instrukciją žymekliu ⟨את⟩, nors hebrajiškai skambėtų 'su visais tarnais'."
+    },
+    {
+      "kind": "you",
+      "subject": "pasakotojas",
+      "rationale": "Pasakojimas apie Urijo ištikimybę prieš karaliaus valią — tiesioginis Urijo veiksmų kontrastas su Dovumu."
+    }
+  ],
+  "translation": "Ir Urijas sugulė prieangyje karaliaus namo ⟨את⟩ visais savo pono tarnais, ir nenužengė į savo namą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dacb6223185ec7508e69a22eb0624312a1a548078775e66cf7602449a35ede9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/11\/9-12.1792478188252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sugulė"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "prieangyje"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visais tarnais"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visais"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnais"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nenužengė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:36:28.253598233Z",
+  "model": "glm-5.3"
+}

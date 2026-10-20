@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "Hebrajiškas 'ant rankos' = 'per rankas, prižiūrėjimui'; lietuviškai 'atidavė juos prižiūrėtojui'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "שלום čia 'gerovė, sveikas oras' — pasveikinimo klausimas, ne vien 'taika'."
+    }
+  ],
+  "translation": "Ir Davidas nukėlė ⟨את⟩ daiktus nuo savęs, atidavė juos prižiūrėtojui daiktų, ir nubėgo prie rikiuotės, ir atėjo, ir pasiteiravo apie brolių gerovę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a589d7a43bbb8dcbabc4ec730cb845d5ac73333e53cbc748fac1b2e644c2fa16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/21-24.1792477365596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "nukėlė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daiktus"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "daiktus"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "nuo savęs"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨atidavė juos⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rankai"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "prižiūrėtojui"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "daiktų"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "nubėgo"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "prie rikiuotės"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "pasiteiravo"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "apie brolius"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "gerovę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:45.598374518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "gloss": "hebrajiškas „אשר עמהם“ neturi veiksmažodžio; lietuviška kopula pridėta ir pažymėta ⟨buvo⟩ kontekste.",
+      "rationale": "copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלולים",
+      "rationale": "„Gilulim“ — apvalūs rąstai; pats žodis paniekinąs stabus kaip medgalius."
+    }
+  ],
+  "translation": "Ir matėte ⟨את⟩ jų pasibjaurėtinus dalykus ir ⟨את⟩ jų stabus — medį ir akmenį, sidabrą ir auksą, kurie buvo su jais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/13-16.1792475533298.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ir matėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų pasibjaurėtinus dalykus"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "jų pasibjaurėtinus dalykus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų stabus"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "jų stabus"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medį"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ir akmenį"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ir auksą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "su jais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:13.305533351Z",
+  "model": "glm-5.3"
+}

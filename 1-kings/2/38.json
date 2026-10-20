@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 2:38",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi sakinio „טוב הדבר“_PRED veiksmažodžio — pridėta jungtis „yra“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "Kreipimasis į žmogų — „mano ponas“, ne „Adonai“, nes čia karalius, ne Dievas."
+    }
+  ],
+  "translation": "Ir tarė Šimeis karaliui: Geras ⟨yra⟩ žodis; kaip kalbėjo mano ponas karalius, taip padarys tavo tarnas. Ir gyveno Šimeis Jerušalaime daug dienų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2053a203f57817654ee25c73335ce21bfead64a04f546083d70d2e92c82bd3c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/37-40.1792478861878.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Geras"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "padarys"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Ir gyveno"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeis"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:41.880995251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje, lietuvių reikalauja ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gailestingumai",
+      "rationale": "רחמים yra daugiskaita nuo רחם, gimda — 'gailestingumai' praranda gimdos paveikslą"
+    }
+  ],
+  "translation": "Tegu mane pasiekia tavo gailestingumai, ir aš gyvensiu, nes tavo Tora yra mano malonumas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b182f63d2e89c0aaaeba4fca9d84b380a07e18c83a90d7e7d6e1b8213e8f4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/77-80.1792489136088.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "tegu mane pasiekia"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tavo gailestingumai"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ir aš gyvensiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tavo Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mano malonumas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:56.088471811Z",
+  "model": "glm-5.3"
+}

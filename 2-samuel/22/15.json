@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "hebrajų objekto galūnė -ם; lietuvių kalbai reikia įvardžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפיצם \/ ויהמם",
+      "rationale": "paraleliniai veiksmažodžiai su -ם galūnėmis — ritminė struktūra"
+    }
+  ],
+  "translation": "Ir jis išsiuntė strėles ir išblaškė ⟨juos⟩, žaibą — ir sutrikdė juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/22\/13-16.1792478681217.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "strėles"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ir išblaškė ⟨juos⟩"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "žaibą"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ir sutrikdė juos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:41.219540850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba nutildo veiksmažodį; pridedama kopula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturiolikta diena",
+      "rationale": "datos nurodymas — pirmojo mėnesio keturiolikta diena"
+    }
+  ],
+  "translation": "Ir pirmąjį mėnesį, keturioliktą mėnesio dieną, ⟨yra⟩ Pesachas Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/13-16.1792474587780.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ir pirmąjį mėnesį"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmąjį"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "keturioliktą"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesachas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:27.782410606Z",
+  "model": "glm-5.3"
+}

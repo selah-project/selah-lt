@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "avys ir ožkos",
+      "rationale": "צאן — kolektyvinis žodis avims ir ožkoms; 'su avimis' išlaiko kaimenės vaizdą."
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulis Jisajui",
+      "rationale": "Tiesioginis paliepimas per pasiuntinius."
+    }
+  ],
+  "translation": "Ir Šaulis pasiuntė pasiuntinius pas Jisajų ir tarė: Atsiųsk man ⟨את⟩ Davidą, tavo sūnų, kuris su avimis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/17-20.1792477318652.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir pasiuntė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisajų"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Atsiųsk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavo sūnų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "su avimis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:58.655078871Z",
+  "model": "glm-5.3"
+}

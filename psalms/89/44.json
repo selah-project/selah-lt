@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "צור pažodžiui 'uola'; čia — kardo ašmenys ('uolėtumas'): 'atsukti uolą kardo' = sugadinti ašmenis, bet vertėjai svyruoja tarp 'atsukti' ir 'sulenkti'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ašmenys",
+      "rationale": "hebrajiškai tik 'uola jo kardo' — lietuvių reikia žodžio 'ašmenys'"
+    }
+  ],
+  "translation": "Netgi atsukei atgal jo kardo ašmenis ir nepastatėte jo kovoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/41-44.1792488605741.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "netgi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "atsukei atgal"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ašmenis"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "jo kardo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "pastatėte jį"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "kovoje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:05.742596638Z",
+  "model": "glm-5.3"
+}

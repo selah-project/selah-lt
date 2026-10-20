@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 19:17",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goral",
+      "rationale": "הגורל yra burtų akmenukas — „burtas“; „lotas“ pridėtas ⟨⟩, nes hebrajų žodis reiškia patį burtų metimą"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ketvirtasis burtas",
+      "rationale": "Žemės dalijimas skaičiuojant burtus — sekos skaičiavimas"
+    }
+  ],
+  "translation": "Jisaskarui išėjo ketvirtasis <lot> — Jisaskaro sūnums, pagal jų šeimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f956bf34ce2910556de0fe2c35102d84c910d8bdb82fe9cdc1820fe95ce9e9f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/19\/17-20.1792476129903.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Jisaskarui"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "⟨lotas⟩ burtas"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ketvirtasis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisaskaro"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "pagal jų šeimas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:09.904034384Z",
+  "model": "glm-5.3"
+}

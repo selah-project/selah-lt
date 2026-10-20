@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skersiniai",
+      "rationale": "קרשים — lentos, sienos plokštės; laikoma 'skersiniai', nes stovinčios miškano sienos."
+    }
+  ],
+  "translation": "Ir padarysi ⟨את⟩ skersinius miškanui — akacijos medžio, stovinčius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/13-16.1792472753456.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skersinius"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "skersinius"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "miškanui"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacijos"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stovinčius"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:53.458959672Z",
+  "model": "glm-5.3"
+}

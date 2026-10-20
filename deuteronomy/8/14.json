@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vergų namai",
+      "rationale": "בית עבדיט pažodžiui „vergų namai“ — lietuviškoje tradicijoje „vergijos namai“, čia išlaikytas pažodinis vaizdas"
+    }
+  ],
+  "translation": "ir pakils tavo širdis, ir tu pamirši ⟨את⟩ Jahvę, tavo Elohim, kuris tave išvedė iš Micraimo žemės, iš vergų namų",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/13-16.1792475031523.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ir pakils"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ir tu pamirši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "kuris tave išvedė"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iš namų"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "vergų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:51.526021682Z",
+  "model": "glm-5.3"
+}

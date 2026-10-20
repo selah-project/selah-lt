@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 37:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לט",
+      "rationale": "KJV 'myrrh' — iš tikrųjų ladano guma; JPS teisingai 'ladanum'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נכאת",
+      "rationale": "Kvapioji pasta neškaita — retas, tik prieskonių sąrašuose."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Lietuvių reikalauja objekto prie 'nuleisti'; hebrajiškai tiesiog 'leistis žemyn'."
+    }
+  ],
+  "translation": "Ir jie atsisėdo valgyti duonos; ir jie pakėlė savo akis ir pažvelgė, ir štai — iš Gilado atėjo jišmaeliečių karavanas, o jų kupranugariai nešė neškaitą, balzamą ir ladaną, eidami nuleisti ⟨tai⟩ į Micraimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6482494480390ea9b0148fefde081bade285e69318f72d525f0f2fef365154a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/37\/25-28.1792471818142.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ir jie atsisėdo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ir jie pakėlė"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "savo akis"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ir pažvelgė"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "karavanas"
+    },
+    {
+      "surface": "ישמעאלים",
+      "gloss": "jišmaeliečių"
+    },
+    {
+      "surface": "באה",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "מגלעד",
+      "gloss": "iš Gilado"
+    },
+    {
+      "surface": "וגמליהם",
+      "gloss": "o jų kupranugariai"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nešė"
+    },
+    {
+      "surface": "נכאת",
+      "gloss": "neškaitą"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "ir balzamą"
+    },
+    {
+      "surface": "ולט",
+      "gloss": "ir ladaną"
+    },
+    {
+      "surface": "הולכים",
+      "gloss": "eidami"
+    },
+    {
+      "surface": "להוריד",
+      "gloss": "nuleisti"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:18.146227399Z",
+  "model": "glm-5.3"
+}

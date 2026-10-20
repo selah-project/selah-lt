@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būk",
+      "rationale": "Hebrajų veiksmažodis חכם yra būsenos 'tapti išmintingu' — lietuvių reikalauja veiksmažodžio."
+    },
+    {
+      "kind": "invitation",
+      "subject": "eik … žiūrėk",
+      "rationale": "Trys liepimai, nukreipti tiesiogiai į tinginį."
+    },
+    {
+      "kind": "you",
+      "subject": "tinginy",
+      "rationale": "Tiesioginis kreipimasis į tinginį (עצל)."
+    }
+  ],
+  "translation": "Eik pas skruzdę, tinginy, žiūrėk jos kelių ir būk išmintingas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/6\/5-8.1792489497466.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "skruzdę"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tinginy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "žiūrėk"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "jos kelių"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ir būk išmintingas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:44:57.466747549Z",
+  "model": "glm-5.3"
+}

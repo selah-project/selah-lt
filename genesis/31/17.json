@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וישא",
+      "rationale": "pažodžiui 'pakėlė'; lietuviškai 'įsodino' — sūnumi ir žmonomis elgiamasi kaip su kroviniu"
+    }
+  ],
+  "translation": "Ir atsikėlė Jaakovas, ir įsodino ⟨את⟩ savo sūnus ir ⟨את⟩ savo žmonas ant kupranugarių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/17-20.1792471632446.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir atsikėlė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ir įsodino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sūnus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "savo sūnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo žmonas"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "savo žmonas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kupranugariai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:12.447705733Z",
+  "model": "glm-5.3"
+}

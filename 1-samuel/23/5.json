@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taip",
+      "rationale": "hebrajiškame tekstė nėra jungiamo žodio tarp smūgio ir išgelbėjimo"
+    }
+  ],
+  "translation": "Ir nuėjo Davidas su savo vyrais į Kėilą ir kovėsi su plištais; jis išvarė ⟨את⟩ jų gyvulius ir sudavė jiems didelį smūgį; taip Davidas išgelbėjo ⟨את⟩ Kėilos gyventojus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/5-8.1792477597271.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "su savo vyrais"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "į Kėilą"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ir kovėsi"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "su plištais"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "jis išvarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų gyvulius"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "jų gyvulius"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir sudavė"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "smūgį"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "didelį"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "taip išgelbėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kėilos gyventojus"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kėilos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:37.272987543Z",
+  "model": "glm-5.3"
+}

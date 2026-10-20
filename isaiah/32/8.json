@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "nadiv\/nadivot",
+      "rationale": "Šaknies נדיב pakartojimas tris kartus: kilnusis — kilnius dalykus — ant kilnių dalykų; lietuviškai pakartota, bet garsinis žaismas iš dalies prarastas."
+    },
+    {
+      "kind": "alternative",
+      "subject": "išliks stovintis",
+      "rationale": "יָקוּם taip pat gali reikšti 'atsilaikys, bus pastatytas' — 'stovės tvirtai'."
+    }
+  ],
+  "translation": "O kilnusis sugalvoja kilnius dalykus, ir jis ant kilnių dalykų išliks stovintis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/32\/5-8.1792481272660.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְנָדִיב",
+      "gloss": "o kilnusis"
+    },
+    {
+      "surface": "נְדִיבוֹת",
+      "gloss": "kilnius dalykus"
+    },
+    {
+      "surface": "יָעַץ",
+      "gloss": "sugalvoja"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ant"
+    },
+    {
+      "surface": "נְדִיבוֹת",
+      "gloss": "kilnių dalykų"
+    },
+    {
+      "surface": "יָקוּם",
+      "gloss": "išliks stovintis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:27:52.663321015Z",
+  "model": "glm-5.3"
+}

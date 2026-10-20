@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכוננה",
+      "rationale": "Veiksmažodis reiškia 'įtvirtins' — veiksmas ateityje ar dabartimi (jps 'establish'), taikoma miestui (ją)."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muzikinis ženklas, išlaikytas kaip 'Sela', o ne verčiamas."
+    }
+  ],
+  "translation": "Kaip girdėjome, taip matėme Jahvės Cevaot mieste, mūsų Elohim mieste — Elohim ją įtvirtins iki amžių. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7520bed6636c57f2bb25c0bab25bf7f36d6f75cd794f2c7a01afa28da7b3a100",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/48\/9-12.1792487984187.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "girdėjome"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "matėme"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ją įtvirtins"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžių"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:44.188444749Z",
+  "model": "glm-5.3"
+}

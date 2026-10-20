@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויבן",
+      "rationale": "Veiksmažodis 'statyti' (banah) — tas pats žodis, kuriuo statomas namas ir šeimos linija; 'padarė' praranda statybos vaizdą."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויבן",
+      "rationale": "'Pastatė iš šonkaulio moterį' — hebrajiškas „statyti į moterį“ vientisumas lietuviškai skaidomas."
+    }
+  ],
+  "translation": "Ir Jahvė Elohim pastatė ⟨את⟩ šonkaulį, kurį buvo ėmęs iš žmogaus, į moterį, ir atvedė ją pas žmogų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/21-24.1792471038743.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "pastatė (pastatė)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šonkaulį"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "šonkaulį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "buvo ėmęs"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "į moterį"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ir atvedė ją"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:18.745621773Z",
+  "model": "glm-5.3"
+}

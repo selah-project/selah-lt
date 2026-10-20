@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ינין",
+      "rationale": "Vienintelis šios formos pasitaikymas Tanache; iš šaknies נון 'atkąsti, būti amžinam' — 'tebūnie atželtas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאשרוהו",
+      "rationale": "'Ištiesint jį' iš אשר 'būti tiesiu' — linksniuojama 'laimingas, palaimintas'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויתברכו בו",
+      "rationale": "Refleksyvinė 'laiminti save juo' (kaip Pr 48, 20) vietoj passyvinės 'buvo laiminami juo'."
+    }
+  ],
+  "translation": "Tebūna jo vardas amžinai; prieš saulę težaliuoja jo vardas, ir juo tebuvo laiminami visi tautų — teįžymi jį visos tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/72\/17-20.1792488346439.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Tebūna"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amžinai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saulę"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "težaliuoja"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "ir tebuvo laiminami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "teįžymi jį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:46.439802539Z",
+  "model": "glm-5.3"
+}

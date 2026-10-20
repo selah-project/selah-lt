@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalomą",
+      "rationale": "Hebrajų שלום — 'svastybė, gerovė', pasveikinimo klausimas, ne vien 'taika'."
+    }
+  ],
+  "translation": "Ir jie tavęs paklausys apie šalomą ir duos tau dvi duonas, ir tu priimsi iš jų rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/1-4.1792477217777.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ir jie paklausys"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tavęs"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "apie šalomą"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ir duos"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonas"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ir tu priimsi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iš jų rankos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:20:17.780612832Z",
+  "model": "glm-5.3"
+}

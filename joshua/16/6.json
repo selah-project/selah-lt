@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "apsuko",
+      "rationale": "ונסב gali reikšti ir 'apsisuko', ir 'apėjo aplink' — pasirinkta 'apsuko' kaip ribos judesio vaizdas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "riba",
+      "rationale": "tęsiamas ribų matavimo aprašymas su kryptimis ir vietovardžiais"
+    }
+  ],
+  "translation": "Ir ėjo riba link jūros — Ha-Mikmetatas šiaurėje; ir apsuko riba rytų kryptimi link Taanat-Šilo, ir perėjo ⟨את⟩ jį rytuose iki Janocho.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "84ee85e2fbce130027ef2212ca2343e7771ede97bfec44043414909ef217ad43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/16\/5-8.1792476075433.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "riba"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "link jūros"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Ha-Mikmetatas"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "šiaurėje"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ir apsuko"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "riba"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "rytų kryptimi"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanat-"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šilo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ir perėjo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "Taanat-Šilo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "rytuose"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "link Janocho"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:15.434724477Z",
+  "model": "glm-5.3"
+}

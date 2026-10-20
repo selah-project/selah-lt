@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kas ateina",
+      "rationale": "Hebraiškai veikėjas neįvardytas — viena tradicija skaito šiaurės karalių grįžtantį, kita pietų karalių ateinantį į savo karalystę."
+    },
+    {
+      "kind": "substitution",
+      "subject": "žemę",
+      "rationale": "אדמתו yra 'adamah — dirvos žemė, raudonas dirvožemis, ne bendra 'šalis'."
+    }
+  ],
+  "translation": "Ir ateis į karalystę pietų karaliaus, bet grįš į savo žemę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/11\/9-12.1792491979644.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ir ateis"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "į karalystę"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "pietų"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "bet grįš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "savo žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T10:26:19.644832791Z",
+  "model": "glm-5.3"
+}

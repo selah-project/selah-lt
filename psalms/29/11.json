@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עז",
+      "rationale": "„jąą“ verčia „jąą“ — hebrajiškas עו reiškia ir galybę, ir saugumą, ir didybę."
+    }
+  ],
+  "translation": "Jahvė duos jėgą savo tautai, Jahvė palaimins ⟨את⟩ savo tautą taika.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/29\/9-11.1792487707169.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jąą"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "savo tautai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "palaimins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tautą"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "taika"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:07.170872611Z",
+  "model": "glm-5.3"
+}

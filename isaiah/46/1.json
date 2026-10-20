@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרע\/קרס",
+      "rationale": "Du verba žlungimui — klupti ir smukti — eina poromis ir v. 2 apsikeičia vietomis; chiazminis žlugimo vaizdas lietuviškai iš dalies prarandamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאתיכם",
+      "rationale": "„Jūsų nešuliai“ arba „nešliukai, kuriuos jūs nešėte“ — KJV „your carriages“; čia — nešti stabai, keliaujantys į Babiloną."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצביהם",
+      "rationale": "עצב reiškia ir „stabą“, ir „skausmą“ — jų „dievybės“ yra jų skausmas."
+    }
+  ],
+  "translation": "Belas klumpa, Nevas smunka; jų stabai ⟨yra⟩ ant žvėries ir ant gyvulių — jūsų nešuliai, pakrauti ⟨yro⟩ našta nuvargusiajam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/46\/1-4.1792481663946.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "klumpa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Belas"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "smunka"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "yra"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "jų stabai"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ant žvėries"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "ir ant gyvulių"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "jūsų nešuliai"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "pakrauti"
+    },
+    {
+      "surface": "משא",
+      "gloss": "našta"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "nuvargusiajam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:23.948214639Z",
+  "model": "glm-5.3"
+}

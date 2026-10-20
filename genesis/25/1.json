@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסף",
+      "rationale": "Hebrajų 'pridėjo ir ėmė' — idiomatiškas 'vėl dar kartą', lietuvių kalboje išskaidyta į du žodžius."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra (—)",
+      "rationale": "Hebrajų pratrūksta be veiksmažodžio; brūkšnys — 'jos vardas ⟨yra⟩ Keturà'."
+    }
+  ],
+  "translation": "Ir Avrahamas vėl ⟨papildomai⟩ ėmė žmoną, ir jos vardas — Keturà.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3c43eb63eb45d587ac907603c83a10cd09f8b01d8696e4c9b20983ade3904aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/25\/1-4.1792471463634.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "vėl ⟨papildomai⟩ pridėjo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ir ėmė"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žmoną"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ir jos vardas"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturà"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:23.634960286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל — 'garas, tuštuma'; paliktas hebel, kad išliktų žodžio forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "במאזנים לעלות",
+      "rationale": "Ar 'pakilti svarstyklėse' reiškia būti pasvertiems, ar būti lengviems kaip oras, kuris kyla aukštyn"
+    },
+    {
+      "kind": "measurement",
+      "subject": "svarstyklės",
+      "rationale": "Svėrimo vaizdas — žmonės sveriami svarstyklėse"
+    }
+  ],
+  "translation": "Tik hebel yra žmonių sūnūs, melas — vyrų sūnūs; svarstyklėse jie pakiltų — nuo hebelo jie kartu lengvesni.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/62\/9-12.1792488207365.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "svarstyklėse"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pakiltų"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "nuo hebelo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kartu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:27.365925726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "hebrajiškas veiksmažodis וימת neturi įvardžio — pridėta lietuvių kalbai reikalinga forma"
+    },
+    {
+      "kind": "measurement",
+      "subject": "devyni šimtai dvylika metų",
+      "rationale": "genealogijos skaičiavimas — Šeto gyvenimo ilgis"
+    }
+  ],
+  "translation": "Ir buvo visos Šeto dienos dvylika metų ir devyni šimtai metų, ir jis mirė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/5\/5-8.1792471044920.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šeto"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ir devyni"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir jis mirė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:24.924451893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעשהו זר מעשהו \/ עבדתו נכריה עבדתו",
+      "rationale": "Pakartota žodžių pora — darbas\/svetimas, tarnystė\/svetima — chiazminis aiškinamasis kartojimas, lietuvių kalboj išlaikytas."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרצים",
+      "rationale": "Peratsim — nuoroda į 2 Sam 5,20 („kaip vandenys pralaužia”); vardas reiškia 'pralaužimai', vienas skaito kaip vietovardį, kitas kaip vaizdą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti'; pridėta lietuviška kopula."
+    }
+  ],
+  "translation": "Nes kaip ties Peracimo kalnu atsikels Jahvė, kaip slėnyje prie Gibeono sudrebinęs drebės — daryti savo darbą, svetimą savo darbą, ir atlikti savo tarnystę, svetimą ⟨yra⟩ jo tarnystė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/21-24.1792481183382.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kaip ties kalnu"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peracimo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "atsikels"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "kaip slėnyje"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "prie Gibeono"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "drebės"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "savo darbą"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svetimą"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "savo darbą"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "ir atlikti"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "savo tarnystę"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "svetimą"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "jo tarnystę"
+    }
+  ],
+  "timestamp": "2026-10-20T07:26:23.383765064Z",
+  "model": "glm-5.3"
+}

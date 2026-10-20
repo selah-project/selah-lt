@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' dabarties laike."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Begis ir veiksmažodis iš tos pačios šaknies — pažodinis 'atlyginti atlygins', lietuvių kalboje teksta nyksta."
+    },
+    {
+      "kind": "crux",
+      "subject": "זרחה השמש",
+      "rationale": "'Saulė patekėjo' — pažodinis ar vaizdingas (vagis aiškiai matomas, ne naktį); vertėjai skirtingai."
+    }
+  ],
+  "translation": "Jei saulė patekės virš jo — kraujas už jį ⟨yra⟩; tikrai atlygins; jei ⟨pinigų⟩ jam nėra, jis bus parduotas už savo vagystę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/1-4.1792472702373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "patekės"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saulė"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "virš jo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kraujas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlygins"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ir bus parduotas"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "už savo vagystę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:02.375435355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחגר",
+      "rationale": "'apsijuosi (juosnu)' pagal KJV\/ASV 'gird on' vs kitas laikysena 'suvaržysi' — veiksmažodis reiškia 'juostis apsijuosti'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת...חמת",
+      "rationale": "rūstybės žodis kartojamas kiaurai: žmogaus rūstybė tampa šlova, likutis — juosta"
+    }
+  ],
+  "translation": "Nes žmogaus rūstybė tave šlovins, ⟨o⟩ rūstybės likutį tu apsijuosi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc712475da22ab84df14d3e8d9af11f75c24ea0f7fb4510db40ae874f904de32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/76\/9-12.1792488379859.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rūstybė"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "tave šlovins"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "likutį"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rūstybės"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "apsijuosi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:19.860647794Z",
+  "model": "glm-5.3"
+}

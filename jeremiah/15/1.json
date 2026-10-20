@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 15:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi kopulos su אין נפשי אל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — geriau 'gerklė \/ gyvybės jėga', ne nemateriali siela"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeremijui",
+      "rationale": "Jahvė tiesiogiai kreipiasi į pranašą įsakymu 'išsiųsk'"
+    }
+  ],
+  "translation": "Ir tarė Jahvė man: jei stovėtų Mošė ir Šmuelis prieš mane, mano siela ⟨yra⟩ ne link šios tautos — išsiųsk juos nuo mano veido, ir tegul išeina.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b3380b36b229c867b2d60496cc30e6b308f79aee06cfce123685f4009cc665e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/15\/1-4.1792482587323.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stovėtų"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ir Šmuelis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš mane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano siela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "link"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "išsiųsk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veido"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ir tegul išeina"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:47.324967765Z",
+  "model": "glm-5.3"
+}

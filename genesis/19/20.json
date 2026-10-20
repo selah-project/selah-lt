@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 19:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gyvybė, ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצער",
+      "rationale": "dvigubas 'mažas' — mažas miestas, mažas prašymas; kartojimas lietuviškai išlaikomas"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצער",
+      "rationale": "retas žodis, čia pakartotas du kartus"
+    }
+  ],
+  "translation": "Štai dabar šitas miestas arti bėgti ten, ir jis mažas; tepaleidžia man ⟨ten⟩ pabėgti — ar jis ne mažas? — ir gyvens mano gyvybė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "165e42dcde9879618a8626321e8f0a95b31ff14596ff863ae5f33e4b81c94405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/17-20.1792471321423.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitas"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "arti"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "bėgti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "mažas"
+    },
+    {
+      "surface": "אמלטה",
+      "gloss": "tepaleidžia man pabėgti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "mažas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:01.429955619Z",
+  "model": "glm-5.3"
+}

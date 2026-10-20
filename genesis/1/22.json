@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "juos",
+      "rationale": "Hebrajiškas אתם — sufiksuotas aleph-tav rodo tiesioginį objektą, išlaikytas kaip įprastas įvardis"
+    },
+    {
+      "kind": "invitation",
+      "subject": "būkimai",
+      "rationale": "Palaiminimo imperatyvai tiesiogiai kreipiasi į jūrų ir paukščių gyvybę"
+    }
+  ],
+  "translation": "Ir Elohim ⟨את⟩ juos palaimino, sakydamas: Būkite vaisingi ir dauginkitės, ir pripildykite ⟨את⟩ vandenis jūrose, ir paukštis teisidaugina žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "27cee0be9fa308979bc21a1a5fee43f06903801d28a065447bb7f92d0bc241ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/21-24.1792471027620.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "palaimino"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "būkite vaisingi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ir dauginkitės"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ir pripildykite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandenis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandenis"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "jūrose"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ir paukštis"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "teisidaugina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:07.623310508Z",
+  "model": "glm-5.3"
+}

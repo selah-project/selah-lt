@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה pagal D2 — šaknis צדק vienu žodžiu 'cedek', ne išskaidyta į 'teisumas'"
+    }
+  ],
+  "translation": "Ir teismas įsikurs dykumoje, o cedek sodyje gyvens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/32\/13-16.1792481289304.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ir įsikurs"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "o cedek"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "sodyje"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "gyvens"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:09.322624144Z",
+  "model": "glm-5.3"
+}

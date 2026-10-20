@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lukštai-iešeliai",
+      "rationale": "בתים čia ne 'namai', o laikikliais tapę įnamiai — žodžio forma kitokia nei įprasta"
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturi žiedai",
+      "rationale": "skaičiavimas: keturi žiedai keturiems kampams"
+    }
+  ],
+  "translation": "Ir jis nuliejo keturis žiedus prie keturių kampų — prie vario grotų, [kad būtų] lukštai-iešeliai kartims.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/5-8.1792472997548.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "nuliejo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturis"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "žiedus"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "prie keturių"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "kampų"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "prie grotų"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "lukštai-iešeliai"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "kartims"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:57.549450829Z",
+  "model": "glm-5.3"
+}

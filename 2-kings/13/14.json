@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jisraelio vežimas ir jo raiteliai",
+      "rationale": "רכב ישראל — pažodžiui 'Jisraelio vežimas'; dauguma verčia daugiskaita 'vežimai', hebrajų vienaskaita; tai tėvo pagerbimas kaip Elėjo išėjimo (2 Kar 2, 12) aidas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirs",
+      "rationale": "Hebrajų יָמוּת בּוֹ 'mirs joje' — būsimasis laikas, vertimas 'nuo kurios mirs' perduoda reliatyvinę struktūrą"
+    },
+    {
+      "kind": "you",
+      "subject": "Joašas Elišai",
+      "rationale": "Tiesioginis kreipimasis 'Tėve mano, tėve mano' — karaliaus žodžiai mirštančiam pranašui"
+    }
+  ],
+  "translation": "O Eliša susirgo ⟨את⟩ ligą, nuo kurios jis mirs, ir Joašas, Jisraelio karalius, nulipo pas jį ir verkė ant jo veido, ir tarė: Tėve mano, tėve mano, Jisraelio vežimas ir jo raiteliai!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dd23b39b3bc22ac995aef71d255cb3e351f038262cd6c8eadb88d8522cc9f3b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/13\/13-16.1792480149544.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "O Eliša"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "susirgo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ligą"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "ligą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nuo kurios"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nuo jos"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nulipo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "verkė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo veido"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Tėve mano"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėve mano"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vežimas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "ir jo raiteliai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:09.546181517Z",
+  "model": "glm-5.3"
+}

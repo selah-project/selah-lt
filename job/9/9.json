@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "žvaigždynų vardai",
+      "rationale": "Ošas (Didieji Grįžulo Ratai), Kesilis (Orionas), Kima (Sėjikai): vardai palikti pagal hebrajišką skambesį, kaip ylt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה\/עש",
+      "rationale": "„daro Ošą“ — veiksmažodis ir žvaigždyno vardas skirti tik balsiais, žodžių žaismas."
+    },
+    {
+      "kind": "mystery",
+      "subject": "pietų kambariai",
+      "rationale": "Nepažįstami pietų dangaus žvaigždynai — tai, kas paslėpta ir neišmatuota."
+    }
+  ],
+  "translation": "Kuris daro Ošą, Kesilį ir Kimą, ir pietų ⟨את⟩ kambarius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/9\/9-12.1792490165671.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "daro"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Ošą"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesilį"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "ir Kimą"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "ir kambarius"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "pietų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:56:05.672160549Z",
+  "model": "glm-5.3"
+}

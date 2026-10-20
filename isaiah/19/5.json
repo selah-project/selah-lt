@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וְנִשְּׁתוּ",
+      "rationale": "šaknis čia reiškia 'išsekti (vandeniui)', ne 'gėdytis', kaip ir ta pati šaknis kitur — išlaikytas sausumo paveikslas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחרב \/ ייבש",
+      "rationale": "du sinonimiški džiūvimo veiksmažodžiai eilėje — hebrajų pakartota dvilypė žala, lietuviškai du skirtingi žodžiai"
+    }
+  ],
+  "translation": "Ir ⟨išseks⟩ vanduo iš jūros, ir upė išdžius ir nudžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/5-8.1792480949798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ir ⟨išseks⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "iš jūros"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ir upė"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "išdžius"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ir nudžius"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:29.798937834Z",
+  "model": "glm-5.3"
+}

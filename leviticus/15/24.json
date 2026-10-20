@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שכב ישכב",
+      "rationale": "hebrajų intervencinis begalybinis veiksmažodis — visiškas veiksmo ryškus įvykdymas; lietuvių kalboje „jeigu vyras guli su ja“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“"
+    }
+  ],
+  "translation": "Ir jeigu vyras guli su ⟨את⟩ ja, ir jos nida ⟨yra⟩ ant jo, jis bus nešvarus septynias dienas, ir viskas, kas yra miškane, ant kurio jis guli, bus nešvarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "504572687b9da9d4f6863a4a6d774b62d2e121003b4b6971da9b8754c3d8cb1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/21-24.1792473512928.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jeigu"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "guli"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "su"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ja"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir jos nida yra"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "jos nida"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "jis bus nešvarus"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "miškanas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ant kurio"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "jis guli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvarus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:32.930801598Z",
+  "model": "glm-5.3"
+}

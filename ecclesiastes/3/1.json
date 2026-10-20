@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "laikas",
+      "rationale": "viso skyriaus esmė — viskas turi savo paskirtą laiką"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמן\/עת",
+      "rationale": "du žodžiai laikui — paskirtas metas ir laikas — kaitaliojami per visą skyrių"
+    }
+  ],
+  "translation": "Viskam — paskirtas metas, ir laikas kiekvienam norui po dangumi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/3\/1-4.1792491216337.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "viskam"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "paskirtas metas"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ir laikas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kiekvienam"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "norui"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangumi"
+    }
+  ],
+  "timestamp": "2026-10-20T10:13:36.338017110Z",
+  "model": "glm-5.3"
+}

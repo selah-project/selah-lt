@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצדיקי\/צדקת\/צדיקים",
+      "rationale": "Viena šaknis צדק tris kartus: „teisina… cedeką… teisiųjų“ — taurologija, lietuviškai iš dalies prarandama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "Pažodžiui „kulnas“ čip reiškia „mainais už“ — verčiant plačiai kaip „už“."
+    }
+  ],
+  "translation": "kurie teisina nedorėlį už kyšį ir atima cedeką iš teisiųjų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/21-24.1792480692337.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "teisina"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėlį"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "už"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kyšį"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "ir cedeką"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "teisiųjų"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "atima"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:12.362457221Z",
+  "model": "glm-5.3"
+}

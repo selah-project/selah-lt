@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": " žmogui",
+      "rationale": "Mn: imperatyvas 'liaukitės' tiesiogiai kreipiasi į klausytoją"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kvapas",
+      "rationale": "נשמה — gyvybės dvasia, alsavimas; 'kvapas' artimiausias šios formos paveikslui"
+    },
+    {
+      "kind": "crux",
+      "subject": "במה נחשב הוא",
+      "rationale": "Klausimas 'kuo jis vertas?' arba pareiškimas 'nes jis nieko nevertas' — vertėjai skirstosi"
+    }
+  ],
+  "translation": "Atsisakykite ⟨nuo⟩ žmogaus, kurio kvapas ⟨yra⟩ jo šnervėse, nes kuo jis ⟨yra⟩ vertas?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "15e0f66cd70f4ec1a87cd52785cb961730ac900e797d6e516a55851aba884c74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/2\/21-22.1792480484887.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "atsisakykite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨jūs⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨nuo⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "kvapas"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "jo šnervėse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "במה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "vertas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:14:44.892647915Z",
+  "model": "glm-5.3"
+}

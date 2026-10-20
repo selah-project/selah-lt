@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 45:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפשך yra 'tavo nefes' — gyvybė, alsavimas, asmuo; 'siela' būtų klaidinga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "visos gyvybės",
+      "rationale": "כל בשר pažodžiui 'visa gyvybė [visas kūnas]' — 'visi žmonės' siaurintų"
+    },
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Hebrajų pirmoji dalis — klausimas be klausiamojo žodžio; lietuvių kalbai reikia 'ar'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כל המקמות",
+      "rationale": "antras על 'ant visų vietų' sulietas su 'visose vietose'; שם 'ten' eliduota"
+    }
+  ],
+  "translation": "Ir tu — ar ieškai sau didelių dalykų? Neieškok, nes štai Aš vedu blogį ant visos gyvybės, sako Jahvė, bet duosiu tau ⟨את⟩ tavo gyvybę kaip grobį visose vietose, kur eisi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5c01bbf1dd183d1f7113d6dfb59a9cf823acf0a0e6d8f21f9f967197b3e53a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/45\/5-5.1792483380036.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ir tu"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ar ieškai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "didelių dalykų"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Neieškok"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ieškok (negu)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "štai Aš"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "vedu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogį"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "bet duosiu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo gyvybę"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo gyvybę"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kaip grobį"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "visose"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "vietose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "eisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:00.037599088Z",
+  "model": "glm-5.3"
+}

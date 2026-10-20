@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio 'būti' — lietuviškai pridėta ⟨buvo⟩.",
+      "target": "תמם"
+    }
+  ],
+  "translation": "Ir Mošė kalbėjo visos Izraelio bendruomenės ausims ⟨את⟩ šios giesmės žodžius, iki jie buvo baigti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/31\/29-30.1792475542569.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולדבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ausims"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "bendruomenės"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šios giesmės žodžius"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "giesmės"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šios"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "buvo baigti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:22.571941056Z",
+  "model": "glm-5.3"
+}

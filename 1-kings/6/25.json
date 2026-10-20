@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — uolektų skaičius eina kaip vardis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimties uolektų",
+      "rationale": "šventas matas: kerubų dydis uolektomis"
+    }
+  ],
+  "translation": "Ir dešimties uolektų ⟨buvo⟩ antrasis kerubas — vienas matas ir vienas pavidalas abiems kerubams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4633545c37b0a04167a7ccd457c9d717a8be1bf00477161130ed3f60ff976bf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/25-28.1792478916245.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "ir dešimties"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "uolektų"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerubas"
+    },
+    {
+      "surface": "השני",
+      "gloss": "antrasis"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "matas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "ir pavidalas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "abiems"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubams"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:36.246234706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "אשר לו pažodžiui 'kas jam' — lietuviškai pridėtas 'buvo'."
+    }
+  ],
+  "translation": "Ir jis paėmė juos ir perkėlė juos per ⟨את⟩ upelį, ir pernešė ⟨את⟩ visa, kas jam buvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1e06ba7227d31125b92a37af8680e8a23c0c7b009b7bfd61fe8923c5cc539ad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/21-24.1792471606985.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ir paėmė juos"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ir perkėlė juos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upelį"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "upelį"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir pernešė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa, kas jam buvo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:46.988439231Z",
+  "model": "glm-5.3"
+}

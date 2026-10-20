@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 21:18",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų כי-style šalutinis sakinys neturi sietuvo „yra“"
+    },
+    {
+      "kind": "you",
+      "subject": "Elijahu",
+      "rationale": "Jahvės įsakymas tiesiogiai kreipiamas į pranašą Elijahu"
+    }
+  ],
+  "translation": "Kelkis, eik žemyn pasitikti Achabo, Jisraelio karaliaus, kuris ⟨yra⟩ Šomrone. Štai — Naboto vynuogyne, kur jis nuėjo žemyn jos užimti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cfe06adb1a864f03155dbb52bc2b021c86bd30e3218163e2ab62e5f8da3b78df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/17-20.1792479576482.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelkis"
+    },
+    {
+      "surface": "רד",
+      "gloss": "eik žemyn"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pasitikti"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomrone"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "vynuogyne"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nuėjo žemyn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "jos užimti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:59:36.493887380Z",
+  "model": "glm-5.3"
+}

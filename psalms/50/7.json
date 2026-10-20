@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Klausk, mano tauta",
+      "rationale": "Tiesioginis kreipimasis su įsakymu klausyti — palei Įst 6,4."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Kreipiamasi į Jisraelį vardu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "liudysiu prieš",
+      "rationale": "בך po ואעידה reiškia „liudyti prieš tave“, ne „tau“."
+    }
+  ],
+  "translation": "Klausk, mano tauta, ir aš kalbėsiu, Jisraeli, ir aš liudysiu prieš ⟨tave⟩: Elohim, tavo Elohim, ⟨yra⟩ aš.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/50\/5-8.1792488040813.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Klausk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ir aš kalbėsiu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ir aš liudysiu prieš"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨tave⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:40.814009663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nesivaikitinkite",
+      "rationale": "תהבלו — 'būti tuščiu\/hebel', t. y. tuščiai viltis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hebel šaknis",
+      "rationale": "תהבלו 62:11 eilutėje kartoja הבל iš 62:10 — tas pats tuštumos žodis"
+    }
+  ],
+  "translation": "Nepasitikėkite neteisybe ir apiplėšimu nesivaikitinkite; jeigu turtas daugėja — neregėkite ⟨to⟩ širdimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/62\/9-12.1792488207365.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "nepasitikėkite"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "neteisybe"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "apiplėšimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "nesivaikitinkite"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "turtas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "daugėja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "neregėkite"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdimi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:27.366136456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 22:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mרחוק",
+      "rationale": "„iš toli“ — laiko („seniai“) arba vietos prasme; KJV „long ago“ vs YLT „of old“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tą⟩",
+      "rationale": "liepos įvardis pridėtas, nes עשיה yra veiksmažodžio forma be daiktavardžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עשיה \/ יוצרה",
+      "rationale": "dalyviai be daiktavardžio — „kuris padarė \/ sutvėrė“, suprantama apie Kūrėją"
+    }
+  ],
+  "translation": "Ir tvenkinį tarp dviejų sienų pasidarėte senojo tvenkinio vandeniems, bet nepažvelgėte į ⟨tą⟩, kuris jį padarė, ir to, kuris jį sutvėrė iš toli, nematėte.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/9-12.1792481014635.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקוה",
+      "gloss": "ir tvenkinį"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "pasidarėte"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "sienų"
+    },
+    {
+      "surface": "למי",
+      "gloss": "vandeniems"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "tvenkinio"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "senojo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "הבטתם",
+      "gloss": "pažvelgėte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "kuris padarė"
+    },
+    {
+      "surface": "ויצרה",
+      "gloss": "ir kuris sutvėrė jį"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "iš toli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "matėte"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:34.636742586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 24:14",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקדמני",
+      "rationale": "'senovės' arba 'rytinis\/ankstyvasis' — senovės patarlės vaizdas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרשעים יצא רשע",
+      "rationale": "toji pati šaknis רשע du kartus — žodžių žaismas 'iš piktųjų išeina pikta'"
+    }
+  ],
+  "translation": "Kaip sako senovės patarlė: iš pikto išeina pikta, bet mano ranka nebus prieš tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/13-16.1792477614805.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "משל",
+      "gloss": "patarlė"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "senovės"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "iš pikto"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pikta"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "bet mano ranka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בך",
+      "gloss": "prieš tave"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:54.807143512Z",
+  "model": "glm-5.3"
+}

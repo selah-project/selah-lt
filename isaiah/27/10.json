@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' esamajame laike"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלח",
+      "rationale": "pasyvioji participija nuo שׁלח: 'išsiuntinta' arba 'palikta'; vertėjai skaito įvairiai"
+    }
+  ],
+  "translation": "Nes įtvirtintas miestas ⟨yra⟩ vienišas, gyvenvietė išsiuntinta ir apleista kaip dykuma; ten ganyks veršiukas, ir ten jis gulės, ir sunaikins jos šakas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0f57220803d2f00a6fd6c99b953f12ccbde968fb90b7136cf78ed7252e879562",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/27\/10-12.1792485531463.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "įtvirtintas"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "vienišas"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "gyvenvietė"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "išsiuntinta"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "ir apleista"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kaip dykuma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ganyks"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "veršiukas"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "gulės"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ir sunaikins"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "jos šakas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:38:51.464709599Z",
+  "model": "glm-5.3"
+}

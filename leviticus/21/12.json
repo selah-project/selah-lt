@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "KJV „vainikas“ vs JPS „pašventinimas“ — pažodžiui „atskirtas dalykas, skyrimasis“; čia transliteruota kaip „nezeras“, kad matytųsi žodžio forma"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiška asmenuotinė sakinio dalis „ant jo“ be veiksmažodžio — lietuviškai pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהיו išlaikytas kaip Elohim, ne „Dievo“ — Vardo draudimas D1"
+    }
+  ],
+  "translation": "ir iš šventovės jis neišeis ir nesuterš ⟨את⟩ šventovės savo Elohim, nes patepimo aliejaus nezeras, savo Elohim, ⟨yra⟩ ant jo — aš Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/9-12.1792473603162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ir iš"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "šventovės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "jis išeis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "suters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šventovę"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "šventovę"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezeras"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejaus"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "patepimo"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:03.173837186Z",
+  "model": "glm-5.3"
+}

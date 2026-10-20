@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "keturgubai",
+      "rationale": "Ei įsakymas privalo atlyginti (Iš 21, 37) – Davidas pats ištaria keturgubo atlygio nuosprendį sau."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עקב",
+      "rationale": "Pažodžiui „kulnas“, čia perteikiamas per „nes“ kaip priežastinis; įprasta reikšmė „dėl to“."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ avinėlę jis atlygins keturgubai, nes jis padarė ⟨את⟩ šitą dalyką ir nesigailėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/5-8.1792478228101.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "avinėlę"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "avinėlę"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlygins"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "keturgubai"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą dalyką"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "gailėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:08.102524695Z",
+  "model": "glm-5.3"
+}

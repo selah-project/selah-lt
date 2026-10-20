@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sudarė⟩",
+      "rationale": "Hebrajų tekstas sako tik 'iki didelės stovyklos, kaip Elohim stovykla' — veiksmažodis pridėtas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כמחנה אלהים",
+      "rationale": "'Kaip Elohim stovykla' — laipsnio idioma: ne dievybės kariuomenė, o nepaprastai didelė."
+    }
+  ],
+  "translation": "Nes diena po dienos jie ateidavo pas Davidą jam padėti, kol ⟨sudarė⟩ didelę stovyklą, kaip Elohim stovykla.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0294cb332435402e729a92ffedc7af984a1e6c6df84dd3d12deb3885ff3331f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/12\/21-24.1792492889561.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "laiku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną po dienos"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ateidavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "jam padėti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "stovyklą"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelę"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "kaip stovykla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T10:41:29.562694944Z",
+  "model": "glm-5.3"
+}

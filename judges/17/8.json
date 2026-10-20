@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 17:8",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vietą⟩",
+      "rationale": "Hebrajų ימצא neturi daiktavardžio — 'kur rastų'; lietuvių reikalauja objekto."
+    },
+    {
+      "kind": "crux",
+      "subject": "daryti savo kelią",
+      "rationale": "לעשות דרכו: 'eiti savo keliu' (KJV 'as he journeyed') vs YLT 'to work his way' — netgi uždarbio paieškos."
+    }
+  ],
+  "translation": "Ir tas vyras iškeliavo iš miesto, iš Beit Lechemo Jehudos, gyventi atėjūnu ten, kur ras ⟨vietą⟩, ir atėjo į Efraimo kalnyną iki Michaho namų ieškodamas kelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/17\/5-8.1792476756955.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir iškeliavo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vyras"
+    },
+    {
+      "surface": "מהעיר",
+      "gloss": "iš miesto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iš Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "gyventi atėjūnu"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ten, kur"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ras"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalnyną"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Michaho"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "savo kelią"
+    }
+  ],
+  "timestamp": "2026-10-20T06:12:36.958034671Z",
+  "model": "glm-5.3"
+}

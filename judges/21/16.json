@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 21:16",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "susirinkimo vyresniems",
+      "rationale": "vyresnieji kalba tarp savęs — klausimas nukreiptas į juos pačius"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moterys",
+      "rationale": "אשה čia vienaskaita su daugiskaitos reikšme — 'moterų (išvis) nebeliko'"
+    }
+  ],
+  "translation": "Tada susirinkimo vyresnieji tarė: Ką darysime išlikusiems dėl moterų, nes sunaikintos iš Binyamino moterys?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "807d2d89fca0e93892c8e323c964475833ccdf46011164260cc592867b92497d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/21\/13-16.1792476879527.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresnieji"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "susirinkimo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darysime"
+    },
+    {
+      "surface": "לנותרים",
+      "gloss": "išlikusiems"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "dėl moterų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נשמדה",
+      "gloss": "sunaikintos"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "iš Binyamino"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moterys"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:39.528489620Z",
+  "model": "glm-5.3"
+}

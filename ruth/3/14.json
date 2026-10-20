@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מרגלתו",
+      "rationale": "Daugiskaita „prie jo kojų“ — atgalinis „savęs“ atmetamas, hebrajų daiktavardis tampa daiktvardžiu."
+    },
+    {
+      "kind": "secret",
+      "subject": "אל ייוודע",
+      "rationale": "Boazas sąmoningai slepia Rutos apsilankymą — slaptumo motyvas."
+    }
+  ],
+  "translation": "Ir ji gulėjo prie jo kojų iki ryto, ir atsikėlė, kol žmogus dar neatpažino ⟨את⟩ savo artimo; ir jis tarė: tebūnie nežinoma, kad moteris atėjo į kūlimo aikštelę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ruth\/3\/13-16.1792491005982.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "Ir-ji-gulėjo"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "prie-jo-kojų"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ryto"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ir-atsikėlė"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "kol-dar-nei"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "atpažintų"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo artimą"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo-artimą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir-jis-tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tebūnie-ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "žinoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "באה",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "kūlimo-aikštelę"
+    }
+  ],
+  "timestamp": "2026-10-20T10:10:05.983737913Z",
+  "model": "glm-5.3"
+}

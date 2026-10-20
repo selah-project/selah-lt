@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "Čia את H854 'su' (prielinksnis), ne H853 objekto žymeklis — 'su juo', ne 'atlygį ⟨את⟩'."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo vietoje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "darbo vaisius",
+      "rationale": "ופעלתו tiesiog 'jo darbas'; 'darbo vaisius' — kad reikšmė būtų jo veiksmo padarinys, o ne atlygis."
+    }
+  ],
+  "translation": "Štai Adonai Jahvė ateina su galia, ir jo žastas viešpatauja už jį; štai jo atlygis ⟨את⟩ yra su juo, ir jo darbo vaisius — priešais jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/40\/9-12.1792481477997.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "su galia"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ir jo žastas"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "viešpatauja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "jo atlygis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo",
+      "marks": "jo atlygis"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ir jo darbo vaisius"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "priešais jį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:17.998762403Z",
+  "model": "glm-5.3"
+}

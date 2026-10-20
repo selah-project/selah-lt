@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas tekstas be veiksmažodžio; lietuvių kalbai reikia jungties tarp „vidurys“ ir „riba“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "upės slėnis",
+      "rationale": "נחל — žiemos upelis ir jo slėnis; vienas žodis, du lietuviški"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ribos",
+      "rationale": "eiliutė brėžia teritorijos ribas — matavimo veiksmas"
+    }
+  ],
+  "translation": "O rubeniečiams ir gadiečiams daviau nuo Gilado iki Arnono upės slėnio — slėnio vidurį ⟨yra⟩ riba — ir iki Jaboko upės, amonų childrenų ribos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c36051e3bc6d73039da18a663527e9820265d30406423c3d1cd34ce4cc5296e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/3\/13-16.1792474880222.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "o rubeniečiams"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ir gadiečiams"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilado"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upės slėnio"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnono"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidurys"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "slėnio"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "ir riba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jaboko"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "upės"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "riba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amonų"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sūnų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:20.226524894Z",
+  "model": "glm-5.3"
+}

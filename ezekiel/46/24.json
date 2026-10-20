@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew lacks copula between 'šitie' ir 'virimo namai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tarnai",
+      "rationale": "משרתי — tie, kurie tarnauja (švenčia) name; 'tarnai' neišsemia tarnavimo-kulto atspalvio"
+    }
+  ],
+  "translation": "Ir jis tarė man: Šitie — ⟨yra⟩ virimo namai, kuriuose namo tarnai čia virys ⟨את⟩ tautos aukas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7c10cab9c2db19842cf301446ba8a0d5f6d1999c86388e2d0fbd84b422d44ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/46\/24-24.1792494064254.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir jis tarė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Šitie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "virimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuose"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "virs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "čia"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "tarnai"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautos aukas"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T11:01:04.255337896Z",
+  "model": "glm-5.3"
+}

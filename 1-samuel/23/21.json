@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esate⟩",
+      "rationale": "Hebrajiškame sakinyje nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "irony",
+      "subject": "ברוכים אתם ליהוה",
+      "rationale": "Šaulis laimina Zifo vyrus Jahvės vardu už išdavystę — retorinė vertė, ne giesmė"
+    }
+  ],
+  "translation": "Ir tarė Šaulis: Palaiminti jūs ⟨esate⟩ Jahvei, nes gailėjotės manęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/21-24.1792477634548.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "palaiminti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "gailėjotės"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manęs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:14.649580819Z",
+  "model": "glm-5.3"
+}

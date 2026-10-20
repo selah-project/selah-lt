@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "priklauso \/ iš",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio — posakis grindžiamas prielinksniu ל, pridėta kopula ir prielinkis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מערכי לב",
+      "rationale": "gali būti ir „širdies rengimasis“ — ערך reiškia dėlioti, ruošti"
+    }
+  ],
+  "translation": "Žmogui priklauso širdies išdėstymas, o iš Jahvės — liežuvio atsakymas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/16\/1-4.1792489725811.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "žmogui"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "išdėstymas"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "o iš Jahvės"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "atsakymas"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "liežuvio"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:45.811885932Z",
+  "model": "glm-5.3"
+}

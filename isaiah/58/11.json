@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 58:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nemeluoja",
+      "rationale": "יכזבו — iš tiesų 'nemeluoja'; vandenys 'meluoja' = išsenka, apgauna atėjusį gerti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeshą",
+      "rationale": "נפש — gyvybės jėga, alkis, ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחצחות",
+      "rationale": "dviskiemenės daugiskaitos šaknis 'balzgana sausra' — balta kaitra; 'sausros' praranda spalvą"
+    }
+  ],
+  "translation": "Ir Jahvė ves tave visada, ir sootų tavo nefeshą sausrose, ir sutvirtins tavo kaulus; ir būsi kaip laistomas sodas ir kaip vandens ištaka, kurios vandenys niekada nemeluoja.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/58\/9-12.1792481943185.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחך",
+      "gloss": "ir ves tave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "visada"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "ir sootų"
+    },
+    {
+      "surface": "בצחצחות",
+      "gloss": "sausrose"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo nefeshą"
+    },
+    {
+      "surface": "ועצמתיך",
+      "gloss": "ir tavo kaulus"
+    },
+    {
+      "surface": "יחליץ",
+      "gloss": "sutvirtins"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ir būsi"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "kaip sodas"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "laistomas"
+    },
+    {
+      "surface": "וכמוצא",
+      "gloss": "ir kaip ištaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "לא",
+      "gloss": "niekada ne"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "meluoja"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "jos vandenys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:03.186724034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "rationale": "„jam“ išreikštas posesyviai: „kurio namas“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כנגע נראה לי",
+      "rationale": "pažodžiui „kaip negalavimas pasirodė man“ — atsargus savininko skundimas, dar ne diagnozė"
+    }
+  ],
+  "translation": "ir ateis tas, kurio namas, ir praneš kunigui, sakydamas: kaip negalavimas pasirodė man name.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2bc33c49f60222c2f9155f6d75cdc4c065febcafe95794c1e3bac46c7b65feec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/33-36.1792473439924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ir ateis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "ir praneš"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "kaip negalavimas"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pasirodė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "name"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:19.926310356Z",
+  "model": "glm-5.3"
+}

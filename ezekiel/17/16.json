@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "priesaikos formulė 'jei ne' = 'tikrai'; pažodžiui lietuviškai skambėtų kaip sąlyga"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו (su juo)",
+      "rationale": "paskutinis אתו yra prielinksnis H854 'su juo', ne objekto žymeklis"
+    },
+    {
+      "kind": "you",
+      "subject": "pasmerkimo orakulas",
+      "rationale": "Jahvės priesaika kreipiama į Sukilėlio namus dėl karaliaus Cidkijos"
+    }
+  ],
+  "translation": "Kaip aš gyvas — sako Adonai Jahvė — tikrai vietoje karaliaus, kuris jį pastatė karaliauti, kurio priesaiką jis paniekino ir kurio sandorą sulaužė, ⟨את⟩ su juo Babilono viduryje jis mirs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/17\/13-16.1792484123439.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "kuris pastatė karaliauti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "paniekino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo priesaiką"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "priesaiką"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir kurio"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sandorą sulaužė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo sandorą"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "jo sandorą"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "jis mirs"
+    }
+  ],
+  "timestamp": "2026-10-20T08:15:23.443045198Z",
+  "model": "glm-5.3"
+}

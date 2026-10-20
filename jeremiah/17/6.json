@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 17:6",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ערער",
+      "rationale": "krūmo pavadinimas, Tanache tik čia ir Ps 102, 18 — verčiama pagal situaciją „plikas krūmas“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערבה",
+      "gloss-context": "„stepė“ — plikoji Jordano slėnio lyguma, ne bendra „dykuma“ (ji jau kitame žodyje מדבר)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חררים \/ מלחה",
+      "rationale": "išdegimas ir druska — dvigubas nevaisingumo vaizdas."
+    }
+  ],
+  "translation": "Ir jis bus kaip plikas krūmas stepėje ir nematys, kai ateis gera, bet gyvens išdegusiose vietose dykumoje, druskoje žemėje, kur negyvenama.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f224d892930df3fa442b429c708188c8c72b50d06bb0455152a52c5f6b733b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/17\/5-8.1792482618431.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "כערער",
+      "gloss": "kaip plikas krūmas"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "stepėje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "matys"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gera"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "bet gyvens"
+    },
+    {
+      "surface": "חררים",
+      "gloss": "išdegusiose vietose"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "druskingoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "gyvenama"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:18.433647282Z",
+  "model": "glm-5.3"
+}

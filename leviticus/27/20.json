@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nebebus atpirktas",
+      "rationale": "Hebrajų veiksmažodis veikiamosios rūšies — daugiskaita nekeičiama, bet lietuviškai kilusioji rūšis"
+    }
+  ],
+  "translation": "O jei jis neatpirks lauko ⟨את⟩ ir jei lauką ⟨את⟩ parduos kitam žmogui — daugiau jis nebebus atpirktas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/17-20.1792473799488.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "atpirks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauką"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauką"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "parduos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauką"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauką"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "žmogui"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kitam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "bus atpirktas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:19.490929040Z",
+  "model": "glm-5.3"
+}

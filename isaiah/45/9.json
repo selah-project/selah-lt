@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצר\/חרש\/חמר",
+      "rationale": "Visa eilutė — vienas puodžio paveikslas: formuotojas, šukė, molis; žodžių šaknų skambesys lietuviškai neišlaikomas."
+    },
+    {
+      "kind": "crux",
+      "subject": "אין ידים לו",
+      "rationale": "Kam priklauso sakinys: darbui („jis neturi rankų“) arba puodžiui — vertėjai skirstosi."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Tiesioginis kreipimasis į tautą, ginčijančią su savo Kūrėju."
+    }
+  ],
+  "translation": "Vargas tam, kas ginčijasi su ⟨את⟩ savo Kūrėju — šukė ⟨su⟩ šukėmis žemės! Ar sakys molis savo formuotojui: Ką tu darai? — o tavo darbas ⟨sakys⟩: Jam nėra rankų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/45\/9-12.1792481592875.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vargas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ginčijasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo Kūrėją"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "savo Kūrėją"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "šukė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šukes"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "šukės"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "Ar sakys"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "molis"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "savo formuotojui"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darai"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "o tavo darbas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rankų"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:12.876319771Z",
+  "model": "glm-5.3"
+}

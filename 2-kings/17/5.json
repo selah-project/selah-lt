@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ją⟩",
+      "rationale": "עליה turi sufiksą „ją“ — lietuviška galūnė reikalauja įvardžio po apgulė"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trejus metus",
+      "rationale": "apsiaustos trukmė — treji metai"
+    }
+  ],
+  "translation": "Ir užėjo Asirijos karalius visą kraštą, ir užėjo Šomeroną, ir apgulė ⟨ją⟩ trejus metus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/17\/5-8.1792480288887.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ir užėjo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asirijos"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraštą"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ir užėjo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeroną"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ir apgulė"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨ją⟩"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trejus"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:28.888120628Z",
+  "model": "glm-5.3"
+}

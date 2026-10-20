@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ — pridedama laikinoji nuoroda, nors lietuvių kalboje jos čia nereikia."
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalmistas",
+      "rationale": "Prašymas, kad įsakymai nebūtų nuslėpti."
+    },
+    {
+      "kind": "secret",
+      "subject": "neslėpk",
+      "rationale": "סתר — slėpimas; prašoma, kas paslėpta, būtų apreikšta."
+    }
+  ],
+  "translation": "Svečias aš žemėje — neslėpk nuo manęs savo įsakymų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/17-20.1792489071531.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Svečias"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "slėpk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "savo įsakymų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:51.532477523Z",
+  "model": "glm-5.3"
+}

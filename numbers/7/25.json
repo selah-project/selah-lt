@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 7:25",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi siejamojo veiksmažodžio; aukos sąrašas prasideda be „buvo“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "למנחה — miltų auka, ne duoklė; paliktas mincha pagal D2"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šekeliai",
+      "rationale": "tikslių svorių ir skaičių sąrašas — šventovės šekelio matas"
+    }
+  ],
+  "translation": "Jo auka: viena sidabro lėkštė, trisdešimt ir šimtas šekelių jos svoris, vienas sidabro šlakstytuvas, septyniasdešimt šekelių, pagal šventovės šekelį; abu pilni smulkių miltų, pamaišytų aliejumi, minchai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/25-28.1792473964980.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "jo auka"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "lėkštė"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trisdešimt"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ir šimtas"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "jos svoris"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "šlakstytuvas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septyniasdešimt"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekelių"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pagal šekelį"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventovės"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pilni"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "smulkių miltų"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "pamaišytų"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "aliejumi"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "minchai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:04.981685565Z",
+  "model": "glm-5.3"
+}

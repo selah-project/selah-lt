@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 33:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rasti malonę akyse",
+      "rationale": "למצא חן בעיני — hebrajiškas posakis 'rasti malonę akyse', lietuvių kalboj pažodžiui išlaikytas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Kad⟩",
+      "rationale": "Hebrajiškas infinitivas למצא be jungtuko; lietuvių kalbai reikia 'kad' atsakymo formas susieti"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jacob",
+      "rationale": "Esau klausia Jokūbo tiesiogiai apie sutiktąją stovyklą"
+    }
+  ],
+  "translation": "Ir jis tarė: Ką reiškia tau visa ši stovykla, kurią aš sutikau? Ir jis tarė: ⟨Kad⟩ rasti malonę mano pono akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d0f088c14713ea7b7d97d322f77f4948647adf8d2b0b06bc8ad28d07f6d4b4d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/33\/5-8.1792471599724.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ši stovykla"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "פגשתי",
+      "gloss": "aš sutikau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "rasti"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonę"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pono"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:39.727812656Z",
+  "model": "glm-5.3"
+}

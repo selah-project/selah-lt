@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חקות \/ משפטים",
+      "rationale": "חקה — paskirtas įstatas, משפט — teismas; lietuvių skirtumas tarp „įstatų“ ir „teismų“ atspindi dvi hebrajiškas šaknis."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Tiesioginis įsakymas izraelitams — jūsų daugiskaita."
+    },
+    {
+      "kind": "alternative",
+      "subject": "aš — Jahvė",
+      "rationale": "Hebrajiškas sąsajos sakinys be veiksmažodžio; brūkšnys žymi praleistą „yra“."
+    }
+  ],
+  "translation": "Ir laikysitės ⟨את⟩ mano įstatų ir ⟨את⟩ mano teismų, kuriuos žmogus darys ⟨את⟩ juos ir gyvens jais; aš — Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/5-8.1792473483149.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ir laikysitės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano įstatų"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mano įstatų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mano teismų"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darys"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jais"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:03.152040424Z",
+  "model": "glm-5.3"
+}

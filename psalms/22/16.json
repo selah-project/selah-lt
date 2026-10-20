@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלקוחי",
+      "rationale": "Dviskaita 'žandikauliai' (pažodžiui 'čiulptuvai'); JPS verčia 'gerklė' — vaizdas tas pats: burna perdžiūvusi."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשפתני",
+      "rationale": "Nuo שׁית 'padėti, statyti' — 'padedi\/padėsi mane į mirties dulkes'; kai kurie skaito 'priguldai'."
+    }
+  ],
+  "translation": "Kaip puodo šukė išdžiūvo mano jėga, ir mano liežuvis prilipo prie žandikaulių, ir į mirties dulkes tu mane padedi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/22\/13-16.1792487629550.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "išdžiūvo"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kaip puodo šukė"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mano jėga"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ir mano liežuvis"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "prilipo"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "prie žandikaulių"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ir į dulkes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirties"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "tu mane padedi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:13:49.551232525Z",
+  "model": "glm-5.3"
+}

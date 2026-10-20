@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje formulėje; lietuvių reikalauja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמרתם \/ משמרתי",
+      "rationale": "Toji pati šaknis שמר kartojama — 'saugokite mano saugojimą', žodžių žaismas lietuviškai išlaikytas."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis į Izraelio tautą su įsakymu ir Vardo formule."
+    }
+  ],
+  "translation": "Ir saugokite ⟨את⟩ mano saugojimą, kad nedarytumėte iš įstatymų pasibjaurėjimų, kurie buvo daromi jūsų akivaizdoje, ir nesusiteptumėte jais; aš ⟨esu⟩ Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41219a2705ee78e30991ffe8a6537282d9646fce40aaa5f1d63ce9a307877912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/29-30.1792473476119.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ir saugokite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano saugojimą"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mano saugojimą"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "darytumėte"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "iš įstatymų"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "pasibjaurėjimų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "buvo daromi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "jūsų akivaizdoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "susiteptumėte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jais"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:56.121536912Z",
+  "model": "glm-5.3"
+}

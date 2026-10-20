@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje antraštėje"
+    },
+    {
+      "kind": "crux",
+      "subject": "צדק",
+      "rationale": "„Išklausyk cedeką“ — cedekas čia gali būti tiesioginis daiktavardis („išklausyk teisumą“) arba lygintuvas „teisingai“; KJV ir JPS skiriasi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "Paliktas pagal D2 taisyklę — ne „teisumas“ vienas"
+    },
+    {
+      "kind": "invitation",
+      "subject": "šauksmas",
+      "rationale": "Eilutė kreipiasi į Jahvę imperatyvais — malda, kviečianti išklausymą"
+    }
+  ],
+  "translation": "Maldos ⟨yra⟩ Davido. Išklausyk, Jahve, cedeką, įsiterpk į mano šauksmą, atkreipk ausį į mano maldą — ⟨atliekamą⟩ ne apgaulingomis lūpomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/17\/1-4.1792487557568.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Malda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Išklausyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeką"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "įsiterpk"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mano šauksmą"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "atkreipk ausį"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mano maldą"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lūpomis"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "apgaulingomis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:12:37.568652745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje predikatyvo konstrukcijoje."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרץ העוף",
+      "rationale": "'Šliaužiojantys sparnuotieji' — greičiausiai vabzdžiai; KJV 'fowls' klaidina."
+    }
+  ],
+  "translation": "Viskas, kas šliaužioja iš sparnuotųjų ir vaikščioja ant keturių, — šlykštynė jums ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/17-20.1792473283367.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "viskas"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "kas šliaužioja"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "sparnuotųjų (paukščių)"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "vaikščiojantis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturių"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "šlykštynė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:43.369771916Z",
+  "model": "glm-5.3"
+}

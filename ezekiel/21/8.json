@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 21:8",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajų יהוה הנני אליך neturi veiksmažodžio — porinė sangraza reikalauja būtojo laiko „esu“ lietuvių kalboje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prieš tave",
+      "rationale": "אליך pažodžiui „į tave \/ link tavęs“, bet kontekste — grasinimo pozicija „prieš tave“."
+    }
+  ],
+  "translation": "Ir sakyk Jisraelio žemei: Taip sako Jahvė: Štai aš ⟨esu⟩ prieš tave, ir ištrauksiu savo kardą iš makšties, ir nukirsiu iš tavęs teisųjį ir nedorėlį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/21\/5-8.1792484231455.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ir sakyk"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "žemei"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Štai aš"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ir ištrauksiu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "savo kardą"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "iš makšties"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ir nukirsiu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iš tavęs"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisųjį"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ir nedorėlį"
+    }
+  ],
+  "timestamp": "2026-10-20T08:17:11.456471725Z",
+  "model": "glm-5.3"
+}

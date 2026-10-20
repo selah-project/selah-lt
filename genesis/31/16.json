@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 31:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "sąsajos dalelytė „nes\/juk“ atsakyme į ankstesnį eilutės klausimą — lietuviškame sakinio ritme praleista"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas הוא be veiksmažodžio — pridėta copula"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jaakovui",
+      "rationale": "moterys imperatyvu „daryk“ paragina vyrą paklusti Elohim žodžiui"
+    }
+  ],
+  "translation": "Visas turtas, kurį Elohim atėmė iš mūsų tėvo, ⟨yra⟩ mūsų ir mūsų vaikų. O dabar visa, ką Elohim pasakė tau — daryk.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "633d0f13da6bc9e250ee29bcf281bed18956cf82d707e27cb1fba260ef9f2862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/13-16.1792471643067.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Visas"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "turtas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "atėmė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "iš mūsų tėvo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩ jis"
+    },
+    {
+      "surface": "ולבנינו",
+      "gloss": "ir mūsų vaikų"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "O dabar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daryk"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:23.071491518Z",
+  "model": "glm-5.3"
+}

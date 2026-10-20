@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dovaną",
+      "rationale": "תרומה — pakelta dovanos dalis; čia ne štai status, o skysčio dovana."
+    },
+    {
+      "kind": "addition",
+      "subject": "tai \/ jo",
+      "rationale": "Lietuvių kalbai reikia rodomojo įrankio hebrajiškam „jam bus“ posakiui."
+    }
+  ],
+  "translation": "Ir iš jų jis privalo atnešti po vieną iš kiekvienos atnašos kaip skysčio dovaną Jahvei; kunigui, kuris pašlaksto ⟨את⟩ šalomimų aukos kraują, ⟨tai⟩ bus ⟨jo⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/13-16.1792473186517.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ir jis privalo atnešti"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "po vieną"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš kiekvienos"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "atnašos"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kaip dovaną"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "kuris pašlaksto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šalomimų aukos kraują"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šalomimų aukos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tai bus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:06.519210999Z",
+  "model": "glm-5.3"
+}

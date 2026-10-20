@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעקב \/ יעקשו",
+      "rationale": "Jaakovo vardas ir veiksmažodis 'iškraipyti' vienodai skamba — galvos Jaakovo namų 'jaakovo' teisumą, žodžių žaismas lietuviškai prarandamas"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausykite",
+      "rationale": "Imperatyvas kreipiasi tiesiai į valdovus"
+    },
+    {
+      "kind": "you",
+      "subject": "valdytojai Jisraelio",
+      "rationale": "Tiesioginis kreipimasis į Jaakovo ir Jisraelio namų vadovus"
+    }
+  ],
+  "translation": "Klausykite gi šito, galvos Jaakovo namų ir valdytojai Jisraelio namų, kurie niekina teismą ir ⟨את⟩ visą teisumą iškraipo!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/3\/9-12.1792486758332.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Klausykite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "gi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šito"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ir valdytojai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "kurie niekina"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą teisumą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "teisumą"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "iškraipo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:59:18.334922984Z",
+  "model": "glm-5.3"
+}

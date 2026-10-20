@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלך תמלוך",
+      "rationale": "Infinitivinis absoliutas — „karaliausi, tikrai karaliausi“; dvigubas kartojimas sutankintas į vieną „tikrai karaliausi“."
+    },
+    {
+      "kind": "you",
+      "subject": "Saulas kalba Davidui",
+      "rationale": "Tiesioginis kreipimasis su prierašu „tavo rankoje“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך\/ממלכת",
+      "rationale": "Toji pati šaknis mlk — karaliauti\/karalystė — hebrajiškame žodyje suskamba, lietuviškai tik dalinai."
+    }
+  ],
+  "translation": "Ir dabar štai aš žinau, kad tikrai karaliausi, ir tavo rankoje atsistos Jisraelio karalystė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/21-23.1792477585444.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aš žinau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliausi"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "tikrai karaliausi"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ir atsistos"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tavo rankoje"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karalystė"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:25.446079200Z",
+  "model": "glm-5.3"
+}

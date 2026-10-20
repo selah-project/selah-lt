@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 15:12",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ים",
+      "rationale": "גבול ים pažodžiui ‘jūros riba’ — jūra yra vakaruose, tad išversta ‘vakarų riba’"
+    },
+    {
+      "kind": "crux",
+      "subject": "וגבול",
+      "rationale": "po ‘Didžioji jūra’ einantis וגבול suprantamas dvejopai: ‘jos krantas’ arba ‘visa riba’ (kaip KJV ‘the coast thereof’)"
+    }
+  ],
+  "translation": "Ir vakarų riba — Didžioji jūra ir jos krantas; ši ⟨yra⟩ Jehudos sūnų riba aplinkui, pagal jų šeimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "47e908eeaf8f49b712a0a7f2de2b4ebfa636882f2921b63c49117259ecb0e627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/15\/9-12.1792476003095.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ir riba"
+    },
+    {
+      "surface": "ים",
+      "gloss": "vakarų"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "jūra"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Didžioji"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "ir krantas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "riba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplinkui"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:00:03.100452516Z",
+  "model": "glm-5.3"
+}

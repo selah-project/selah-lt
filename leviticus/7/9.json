@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה transliteruojama kaip mincha, ne „aukoja iš miltų“ pagal D2"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "aleph-tav su pridėtu priebalsiniu galūnės įvardžiu ⟨את⟩-ją, rodo tiesioginį objektą „minchą“"
+    }
+  ],
+  "translation": "Ir kiekviena mincha, kuri iškepama krosnyje, ir viskas, kas padaroma prikaistuvyje arba ant keptuvės, — kunigui, kuris ją aukoja ⟨את⟩, ji priklausys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/9-12.1792473169271.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekviena"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "iškepama"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "krosnyje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir viskas"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "padaroma"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "prikaistuvyje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "arba ant"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "keptuvės"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "kuris aukoja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (minchą)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "priklausys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:49.273001205Z",
+  "model": "glm-5.3"
+}

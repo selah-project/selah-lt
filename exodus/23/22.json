@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמע",
+      "rationale": "Begismo infinitivas — „klausydamas klausysi“, t. y. tikrai klausysi; lietuvių kalboje išreikšta „iš tikrųjų“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איביך \/ צרריך",
+      "rationale": "Eiliškas žodžių žaismas priešas–spaudėjas, veiksmo atsakas veiksmu: aš būsiu priešas tavo priešams, spausiu tavo spaudėjus."
+    }
+  ],
+  "translation": "Jei iš tikrųjų klausysi jo balso ir darysi viską, ką aš kalbėsiu, tai aš būsiu priešu ⟨את⟩ tavo priešams ir suspausiu ⟨את⟩ tuos, kurie tave spaudžia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/21-24.1792472669851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iš tikrųjų"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨iš tikrųjų⟩"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausysi"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "jo balso"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ir darysi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "aš kalbėsiu"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ir aš būsiu priešu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo priešams"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tavo priešams"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ir suspausiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuos, kurie tave spaudžia"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tuos, kurie tave spaudžia"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:29.854028087Z",
+  "model": "glm-5.3"
+}

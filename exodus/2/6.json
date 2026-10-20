@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "ותפתח neturi objekto — skryniai nurodyti pridėtas įvardis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "verksmingas kūdikis",
+      "rationale": "Kai kurie vertimai verčia נער čia „kūdikiu“, bet žodis reiškia „berniukas, jaunuolis“ — išlaikytas pažodinis."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מילדי העברים זה",
+      "rationale": "Pažodinis: „iš hebrajų vaikų šis“ — tvarka išlaikyta, nors lietuviškai natūraliau „šitas yra vienas iš hebrajų vaikų“."
+    }
+  ],
+  "translation": "Ir ji atidarė ⟨ ją ⟩ ir pamatė ⟨את⟩ vaiką — ir štai berniukas verkia; ir jai jo pagailo, ir ji tarė: Iš hebrajų vaikų šitas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/5-8.1792472124815.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "atidarė"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "pamatė jį"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaiką"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaiką"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "נער",
+      "gloss": "berniukas"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "verkia"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "pagailo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "iš vaikų"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "hebrajų"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šitas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:24.818762120Z",
+  "model": "glm-5.3"
+}

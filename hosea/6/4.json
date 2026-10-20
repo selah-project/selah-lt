@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מה אעשה לך ×2",
+      "rationale": "Klausimo pakartojimas Efraimui ir Jehudai — simetrija, kuri lietuviškai išlaikoma dvigubu pakartojimu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד verčiamas skambesiu, ne vienu žodžiu — 'gerumas', 'ištikimybė', 'gailestingumas' kiekvienas numet kitą pusę."
+    },
+    {
+      "kind": "you",
+      "subject": "Efraimai, Jehuda",
+      "rationale": "Tiesioginis kreipimasis į dvi karalystes retoriniu klausimu."
+    }
+  ],
+  "translation": "Ką man daryti su tavimi, Efraimai, ką man daryti su tavimi, Jehuda? Jūsų chesed kaip rytinis debesis, kaip ankstyva rasa — praeinantis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/6\/1-4.1792486206437.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "man daryti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "man daryti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "jūsų chesed"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "kaip rytinis debesis"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rytinis"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "kaip ankstyva rasa"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "ankstyva"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "praeinantis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:50:06.439391703Z",
+  "model": "glm-5.3"
+}

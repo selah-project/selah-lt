@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מרותזדבר",
+      "rationale": "הדבר čia reiškia 'maras' (liga), ne 'žodis' — dažna veršjų klaida."
+    },
+    {
+      "kind": "you",
+      "subject": "tau",
+      "rationale": "tiesioginis addressas Izraeliui prakeiksmų sąraše."
+    }
+  ],
+  "translation": "Jahvė priklijuos prie tavęs ⟨את⟩ marą, kol ⟨את⟩ tave sunaikins nuo žemės, į kurią tu eini ją paveldėti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/21-24.1792475485222.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "priklijuos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בך",
+      "gloss": "prie tavęs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marą"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "marą"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tave sunaikins"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ją paveldėti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:25.225394406Z",
+  "model": "glm-5.3"
+}

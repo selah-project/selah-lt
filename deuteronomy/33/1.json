@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti'; lietuvių reikalauja jo šioje pozicijoje."
+    }
+  ],
+  "translation": "Ir štai ⟨yra⟩ palaiminimas, kuriuo Mošė, Elohim žmogus, palaimino ⟨את⟩ Jisraelio sūnus prieš savo mirtį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "39e85ab2e9b07d420b4f3a56b08668d0b1e10b096e72a843cea554185d4ea437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/1-4.1792475618980.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "palaiminimas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "palaimino"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "savo mirtį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:38.983462747Z",
+  "model": "glm-5.3"
+}

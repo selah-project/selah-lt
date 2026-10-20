@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išpučia",
+      "rationale": "יפיח pažodžiui 'pūstis, iškvėpti' — melas kaip iškvėptas oras"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nebus išteisintas",
+      "rationale": "נקה pažodžiui 'būti švariam' — kitaip: 'neišvengs bausmės'"
+    }
+  ],
+  "translation": "Melagingas liudininkas nebus išteisintas, ir tas, kuris išpučia melus, pražus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/19\/9-12.1792489781129.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "liudininkas"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "melagingas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bus išteisintas"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ir tas, kuris išpučia"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "melus"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "pražus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:49:41.129679504Z",
+  "model": "glm-5.3"
+}

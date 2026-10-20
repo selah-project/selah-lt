@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikalinga sąsaja, kurios hebrajų tekstas neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודאים\/דודי",
+      "rationale": "Skambesio ryšys tarp mandragorų (dudaim) ir 'mano mylimasis' (dodi) — lietuviškai prarandamas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gardumynai",
+      "rationale": "מגדים — išskirtini dalykai, geriausieji vaisiai; 'gardumynai' perteikia vertę, ne vien vaisius."
+    }
+  ],
+  "translation": "Mandragoros skleidžia kvapą, ir prie mūsų vartų ⟨yra⟩ visokie gardumynai, nauji ir seni; mano mylimasis, tau jų paslėpiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/7\/13-14.1792490941869.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "mandragoros"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "skleidžia"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kvapą"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "mūsų vartų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visokie"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "gardumynai"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nauji"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "seni"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mano mylimasis"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "paslėpiau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T10:09:01.870560072Z",
+  "model": "glm-5.3"
+}

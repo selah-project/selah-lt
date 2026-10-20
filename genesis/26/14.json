@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 26:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tarnų",
+      "rationale": "עבדה — 'tarnavimas, aptarnavimas'; dauguma vertėjų skaito kaip asmenų tarnus, o ne abstrakčią 'tarnystę'."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikalingas grasmo veiksmažodis, hebrajų turi ויהי, čia atliktas kaip 'buvo'."
+    }
+  ],
+  "translation": "Ir jam buvo gyvulių — avys ir ožkos bei galvijai — ir gausybė tarnų; ir filistiečiai ėmė pavydėti ⟨את⟩ jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b4f3de08bf0bbb1647629b76d03377d515a4a11c9993f68e0efa3e6f0b5758d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/26\/13-16.1792471447876.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "gyvulių"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avys ir ožkos"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "bei galvijai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "galvijai"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "ir tarnų"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gausybė"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "ir ėmė pavydėti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiečiai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:07.878519511Z",
+  "model": "glm-5.3"
+}

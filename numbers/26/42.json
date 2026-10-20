@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 26:42",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrew lacks a copula in this formula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוחם\/השוחמי",
+      "rationale": "eponym and gentilic from the same root, kept as Šuchamas\/šuchamitai"
+    }
+  ],
+  "translation": "Šitie yra Dano sūnūs pagal jų gimines: iš Šuchamo — giminė šuchamitų; šitie yra Dano gimines pagal jų gimines.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a00fe441d03a7f9f3c59891a89a9f34c2d3b3d54fe8e737c538fc8af281541b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/41-44.1792474607732.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dano"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų gimines"
+    },
+    {
+      "surface": "לשוחם",
+      "gloss": "iš Šuchamo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "giminė"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "šuchamitų"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "giminės"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dano"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų gimines"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:47.734469020Z",
+  "model": "glm-5.3"
+}

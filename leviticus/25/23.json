@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לצמתת",
+      "rationale": "Žodis 'li-cmitut' Tanache vartojamas tik čia — visiškas atkarpymas, be grąžinimo."
+    },
+    {
+      "kind": "addition",
+      "subject": "esate",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų kalba jo neturi."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis į Izraelį: 'jūs esate ateiviai pas mane'."
+    }
+  ],
+  "translation": "Ir žemė nebus parduodama visiškai sunaikinimui, nes žemė — mano, nes ateiviai ir laikinieji gyventojai jūs esate pas mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "020bb7a7f7ff70852909841de2f58f655ca18b325424cfa578f5e56300c1465e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/21-24.1792473660961.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ir žemė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "bus parduodama"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "visiškam sunaikinimui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mano"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ateiviai"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "ir laikinieji gyventojai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs esate"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "pas mane"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:00.963756253Z",
+  "model": "glm-5.3"
+}

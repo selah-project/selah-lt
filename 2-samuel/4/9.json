@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 4:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesas",
+      "rationale": "נפש — gerklė \/ gyvybės jėga, ne 'siela'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi sakinio 'gyvas yra Jahvė' veiksmažodžio"
+    }
+  ],
+  "translation": "Ir atsakė Davidas ⟨את⟩ Rechabui ir ⟨את⟩ Baanai, jo broliui, Rimmono sūnums, beerotiečiui, ir tarė jiems: gyvas ⟨yra⟩ Jahvė, kuris išpirko ⟨את⟩ mano nefesą iš visos negalės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fbac01732d39481f37def22f9eb2738bd63adc630ff15b831299b55cda0e2283",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/4\/9-12.1792478010411.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rechabui"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rechabui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Baanai"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Baanai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo brolis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmono"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "beerotiečiui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "išpirko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano nefesą"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesą"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visos"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "negalės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:30.412567286Z",
+  "model": "glm-5.3"
+}

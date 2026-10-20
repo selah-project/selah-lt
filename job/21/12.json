@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 21:12",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשאו",
+      "rationale": "pažodžiui 'pakelia' — apie instrumentus: 'pučia\/ima į rankas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עוגב",
+      "rationale": "meldinis pučiamasis instrumentas — 'dūdelė\/fleita', ne 'vargonai' (KJV klaida)"
+    }
+  ],
+  "translation": "Jie pučia būgnelį ir kankles, ir džiaugiasi dūdelės garsu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/21\/9-12.1792490401742.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "jie pučia"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "būgnelį"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ir kankles"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ir džiaugiasi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "garsu"
+    },
+    {
+      "surface": "עוגב",
+      "gloss": "dūdelės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:00:01.743074445Z",
+  "model": "glm-5.3"
+}

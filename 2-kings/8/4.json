@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נער",
+      "gloss_diff": null,
+      "rationale": "'tarnas' vietoj pažodinio 'bernas, jaunuolis' — hebrajiškas נער čia apima ir tarnavimą"
+    },
+    {
+      "kind": "you",
+      "subject": "Papasakok man",
+      "rationale": "karaliaus tiesioginis kreipimasis į Gechazį"
+    }
+  ],
+  "translation": "O karalius kalbėjosi su Gechaziu, Dievo vyro tarnu, sakydamas: Papasakok man, prašau, ⟨את⟩ visus didžius darbus, kuriuos padarė Eliša.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "168f7387fedcea57ec622e000f8dc7b7097a97b4019af522a33ee47e5b8443f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/1-4.1792479944580.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kalbėjosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechaziu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tarnu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "papasakok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus didžius darbus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "didžius darbus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliša"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:44.586950607Z",
+  "model": "glm-5.3"
+}

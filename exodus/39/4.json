@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת \/ חבר",
+      "rationale": "Toji pati šaknis חבר ('jungti') du kartus — 'jungiami pečiai, sujungta'; pakartojimas pabrūkžnia efodo darną."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajiškas puikalas חֻבָּר neturi veiksmažodžio 'būti'; lietuviškai reikia kopulos."
+    }
+  ],
+  "translation": "Pečius jam jie padarė jungiamus ⟨prie⟩ jo, ties dviem jo kraštais ⟨buvo⟩ sujungta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/39\/1-4.1792473066397.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "pečiai"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jie padarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "jungiami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "jo kraštai"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "sujungta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:06.399810639Z",
+  "model": "glm-5.3"
+}

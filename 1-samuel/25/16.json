@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "siena",
+      "rationale": "חומה — ganymo kontekste 'siena' reiškia apsaugos aptvarą apie bandą; vaizdas išlaikytas pažodžiui."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "'Ir naktį, ir dieną' — dvigubas גם apima visą laiką be pertraukos."
+    }
+  ],
+  "translation": "Siena jie buvo mums ir naktį, ir dieną, visas dienas, kai su jais būdavome ganydami kaimenę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/13-16.1792477705575.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "Siena"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "kai būdavome"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "su jais"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ganydami"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kaimenę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:25.578803965Z",
+  "model": "glm-5.3"
+}

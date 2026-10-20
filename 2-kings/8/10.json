@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא חיה תחיה",
+      "rationale": "KJV 'tu tikrai pasveiksi' prieš YLT 'tu tikrai negyvensi'; hebrajiškas tekstas dviprasmiškas — לא gali stovėti arba praleistas, arba neigti infinitivą"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ne gyvensiu",
+      "rationale": "הַאֶחְיֶה 9 eilutėje leidžia atsakymą su neigiamu לא, atitinkančiu 'mirtinai mirs' pabaigoje"
+    }
+  ],
+  "translation": "Ir Elišas tarė jam: eik, pasaky: ⟨ne⟩ gyvensiu — o man parodė Jahvė, kad jis mirtinai mirs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/9-12.1792479952283.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elišas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasaky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gyvensiu"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "gyvensiu"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "o man parodė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtinai"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:52.294333012Z",
+  "model": "glm-5.3"
+}

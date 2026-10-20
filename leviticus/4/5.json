@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המשיח",
+      "rationale": "המשיח čia apie kunigą — 'pateptasis', ne 'Mesijas'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "auka",
+      "rationale": "skyrius skaito kraujo pernašos veiksmus kaip tikslų ritualą"
+    }
+  ],
+  "translation": "Ir paima pateptasis kunigas iš jaučio kraujo ir atneša ⟨את⟩ jį į susitikimo palapinę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/5-8.1792473211796.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ir paima"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pateptasis"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "iš kraujo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jaučio"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ir atneša"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (kraują)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susitikimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:31.797504420Z",
+  "model": "glm-5.3"
+}

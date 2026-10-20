@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pagimdė",
+      "rationale": "ויולד — 'susilaukė, pagimdė'; vyrui vartojama 'pagimdė' šioje genealogijoje"
+    }
+  ],
+  "translation": "Ir Avrahamas pagimdė ⟨את⟩ Jicchaką. Jicchako sūnūs: Esavas ir Jisraelis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "58bfa9bacaa49ccf42583cec363483557f06b36985c4fa19cf5e74c1b6e79422",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/1\/33-36.1792492620581.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "pagimdė"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaką"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaką"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchako"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavas"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ir Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-20T10:37:00.581921813Z",
+  "model": "glm-5.3"
+}

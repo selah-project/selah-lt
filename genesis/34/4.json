@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šchemas Chamorui",
+      "rationale": "Tiesioginis kreipimasis su imperatyvu „Imk“ — sūnus įsako tėvui."
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Iniciavimo formulė išversta dalyviu „sakydamas“."
+    }
+  ],
+  "translation": "Ir tarė Šchemas Chamorui, savo tėvui, sakydamas: Imk man ⟨את⟩ šitą mergaitę į žmonas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "394e63d6f5812f345cd4a5b436117fb78bb9c97d402da53e1cc85f04f7c0cbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/34\/1-4.1792471756837.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchemas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Chamorui"
+    },
+    {
+      "surface": "חמור",
+      "gloss": ""
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Imk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą mergaitę"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "šitą mergaitę"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "į žmonas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:16.840492122Z",
+  "model": "glm-5.3"
+}

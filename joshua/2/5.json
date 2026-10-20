@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 2:5",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לסגור",
+      "rationale": "Infinitive construct 'uždaroma laiku' — 'vartams esant uždaromiems' laiko posakis, ne veiksnys."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esant⟩",
+      "rationale": "Lietuvių reikalauja aplinkybinio dalyvio, hebrajų turi tik infinitivyą."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשיגום",
+      "rationale": "Veiksmo wayyiqtol gali būti pažadas 'pasivysite' arba pagalbos 'kad pasivytumėte'."
+    }
+  ],
+  "translation": "Ir atsitiko, vartams ⟨esant⟩ uždaromiems tamsoje, — o vyrai išėjo; nežinojau, kur tie vyrai nuėjo. Vaikykitės greitai paskui juos, nes juos pasivysite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "92b1001b684669e8cbf6fa4b06c4b1bf4f1cb17a49320d2cb3eae289ef17474e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/5-8.1792475689593.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vartams"
+    },
+    {
+      "surface": "לסגור",
+      "gloss": "uždaromiems"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "tamsoje"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "o vyrai"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinojau"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nuėjo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "tie vyrai"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "vaikykitės"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "greitai"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paskui juos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "תשיגום",
+      "gloss": "juos pasivysite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:49.594644806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "drabužių",
+      "rationale": "17,16 hebrajiškame tekste tiesiogiai „jei neplaus“ — objektas suprantamas iš 17,15 konteksto."
+    },
+    {
+      "kind": "idiom",
+      "subject": "nešios savo kaltę",
+      "rationale": "נשא עון — pažodžiui „pakels savo vainiką“, t. y. prisiims atsakomybę už nuodėmę."
+    }
+  ],
+  "translation": "O jei neišskalbs ⟨drabužių⟩ ir kūno nenuplaus vandenyje, — jis nešios savo kaltę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/17\/13-16.1792473510856.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "išskalbs"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "savo kūną"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "nuplaus"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "nešios"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "savo kaltę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:30.863520402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulos — 'tai didis miestas' be veiksmažodžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "היא העיר הגדלה",
+      "rationale": "Ar 'tai didis miestas' reiškia Reseną, Ninevę, ar visą aglomeraciją — vertėjai nesutaria."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ Reseną tarp Ninevės ir tarp Kalacho — tai ⟨yra⟩ didis miestas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/10\/9-12.1792471212629.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Reseną"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Reseną"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevės"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalacho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "didis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:12.633240283Z",
+  "model": "glm-5.3"
+}

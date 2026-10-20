@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kvailystė",
+      "rationale": "תפלה — tuštuma, niekai; JPS 'nepadorumas', KJV 'foolery'"
+    },
+    {
+      "kind": "you",
+      "subject": "pranašams ir tautai per Jeremiją",
+      "rationale": "Jahvės kaltinimas pranašams, girdimas kaip kreipimasis"
+    }
+  ],
+  "translation": "Ir Šomrono pranašuose mačiau kvailystę: jie pranašavo Baaliu ir Klaidino ⟨את⟩ mano tautą, ⟨את⟩ Jisraelį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/23\/13-16.1792482867865.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "Ir ... pranašuose"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrono"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kvailystę"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "jie pranašavo"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baaliu"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "ir klaidino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano tautą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:54:27.866579775Z",
+  "model": "glm-5.3"
+}

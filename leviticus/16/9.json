@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuodėmės auka",
+      "rationale": "חטאת reiškia ir nuodėmę, ir jos auką — tas pats žodis, lietuvių kalboje reikia dviejų žodžių"
+    },
+    {
+      "kind": "elision",
+      "subject": "עלה עליו",
+      "rationale": "pažodžiui 'pakilo ant jo' — apie burtų akmenuką, iškritusį ant ožio"
+    }
+  ],
+  "translation": "Ir Aharonas priveda ⟨את⟩ ožį, ant kurio pakilo lika — Jahvei, ir padaro jį nuodėmės auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/16\/9-12.1792473489551.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ir priveda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ožį"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ožį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "pakilo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "lika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ו עשהו",
+      "gloss": "ir padaro jį"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nuodėmės auka"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:09.554159171Z",
+  "model": "glm-5.3"
+}

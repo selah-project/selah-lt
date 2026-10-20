@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "pažodžiui 'plačių rankų' — hebrajiškas idiomas 'erdvus, platus'; išlaikytas pažodinis paveikslas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų kalba čia neturi veiksmažodžio — vardinis sakinys be copula"
+    }
+  ],
+  "translation": "O miestas — plačių rankų ir didis, o žmonių ⟨buvo⟩ mažai jame, ir namų nebuvo pastatyta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/7\/1-4.1792492429008.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "O miestas"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "plačių"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rankų"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ir didis"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "o žmonių"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mažai"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "namų"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "pastatyta"
+    }
+  ],
+  "timestamp": "2026-10-20T10:33:49.009201326Z",
+  "model": "glm-5.3"
+}

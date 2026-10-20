@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta kopula lietuvių kalbai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidabrą",
+      "rationale": "כסף reiškia ir sidabrą, ir pinigus; laikomasi pažodinio 'sidabras'"
+    }
+  ],
+  "translation": "Ir jis įsakė ⟨את⟩ tam, kuris ⟨buvo⟩ jo namų viršininkas, sakydamas: Pripildyk vyrų maišus maistu, kiek jie gali nešti, ir įdėk kiekvieno sidabrą į jo maišo angą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/44\/1-4.1792471973437.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ir jis įsakė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tam, kuris buvo jo namų viršininkas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jo namų"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Pripildyk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyrų maišus"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "maišus"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "maistu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kiek"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "jie gali"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nešti"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ir įdėk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvieno"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "į angą"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "jo maišo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:53.438621284Z",
+  "model": "glm-5.3"
+}

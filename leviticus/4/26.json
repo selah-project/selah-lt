@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 4:26",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sutaikinimą",
+      "rationale": "כפר — pažodžiui „dengti \/ padengti“, išversta kaip sutaikinimas (apydarė)"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikalinga kopula „bus“ šalutiniam sakiniui"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ visą jo taukus jis sukels dūmais ant aukuro, kaip taukas šalom aukos, ir kunigas atliks už jį sutaikinimą dėl jo nuodėmės, ir jam bus atleista.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f3de7bc05e6a09352645a24e433fe137da922cc9cdf8fa7bdd64fe6a44ff8020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/25-28.1792473176243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visą jo taukus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "jo taukus"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "sukels dūmais"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kaip tauką"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukos"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "atliks sutaikinimą"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "dėl jo nuodėmės"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "bus atleista"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:56.245913347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש pažodžiui 'gerklė, kvėpuojanti būtybė, gyvybės jėga' — ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני \/ יסבבני",
+      "rationale": "du skirtingi veiksmažodžiai 'apsupti' vienoje eilutėje — pakartotas apsupimo paveikslas"
+    }
+  ],
+  "translation": "Vandenys apsupo mane iki ⟨gyvybės⟩, bedugnė mane juosė, ajerai buvo aprišti mano galvai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jonah\/2\/5-8.1792486723071.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "apsupo mane"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandenys"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bedugnė"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "juosė mane"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ajerai"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "aprišti"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mano galvai"
+    }
+  ],
+  "timestamp": "2026-10-20T08:58:43.073559884Z",
+  "model": "glm-5.3"
+}

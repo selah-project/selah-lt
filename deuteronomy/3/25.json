@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje pareigoje sąrankoje"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Mošės malda Jahvei — prašymas pamatyti Pažadėtąją žemę"
+    }
+  ],
+  "translation": "Leisk manai, prašau, pereiti ir pamatyti ⟨את⟩ gerąją žemę, kuri ⟨yra⟩ anapus Jardeno, šitą gerąjį kalną ir Libaną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4c334c266f804d03ce129578f1c4f25b4cf520c207c9c93ea5ac78d355d559d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/3\/25-28.1792474907078.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "leisk pereiti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ir pamatyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerąją žemę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gerąją"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "anapus"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardeno"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gerąjį"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ir Libaną"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:47.078944289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šimtas ir dvidešimt kikarų",
+      "rationale": "Tikslus svorio kiekis — maždaug 4 tonos aukso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kikaras",
+      "rationale": "ככר pažodžiui 'ratas, apvalus luitas' — svorio vienetas, ne 'talentas'."
+    }
+  ],
+  "translation": "Ir Chiramas nusiuntė karaliui šimtą ir dvidešimt kikarų aukso.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8c94d4a9b62792e2a226d9a5c0d9621e259ca33b1b3a0f207237ea81904eb57f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/13-16.1792479201647.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir nusiuntė"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chiramas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimtą"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ir dvidešimt"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikarų"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    }
+  ],
+  "timestamp": "2026-10-20T06:53:21.648888301Z",
+  "model": "glm-5.3"
+}

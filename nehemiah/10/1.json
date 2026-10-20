@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 10:1",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew lacks copula between 'the sealed' and the list"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kirsti amaną",
+      "rationale": "כרת אמנה — literally 'cut a covenant', Hebrew idiom for making a binding agreement"
+    }
+  ],
+  "translation": "Ir visa tai — mes kertame amaną ir rašome, ir ⟨ant⟩ užantspauduoto ⟨yra⟩ mūsų kunigaikščiai, mūsų leviai, mūsų kunigai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/10\/1-4.1792492468574.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ir visa tai"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "kertame"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "amaną"
+    },
+    {
+      "surface": "וכתבים",
+      "gloss": "ir rašome"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ⟨ant⟩"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "užantspauduoto"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "mūsų kunigaikščiai"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "mūsų leviai"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "mūsų kunigai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:34:28.574981096Z",
+  "model": "glm-5.3"
+}

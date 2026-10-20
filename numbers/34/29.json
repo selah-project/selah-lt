@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra sajungos, lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "paveldas",
+      "rationale": "Eilutė apie žemės paveldo paskirstymo įsakymą — skaičiavimo ir ribų knygos uždarymas"
+    }
+  ],
+  "translation": "Šitie yra tie, kuriems Jahvė įsakė paskirti paveldą ⟨את⟩ Jisraelio sūnums Kenaano žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a455b7b39a2bd01a4b9b08e30b2acf81350228c33ac075accde37b057c2afa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/34\/29-29.1792474728541.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šitie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "paskirti paveldą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnums"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaano"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:48.542380134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "damanai",
+      "rationale": "שפן — urvinis žinduolis (hyraks); tradiciniai 'triušis' ar 'kiškis' klaidingi, D4 nustato 'damanas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "priesaga -ם perteikta atskiru įvardžiu"
+    }
+  ],
+  "translation": "Damanai — tauta, ne galinga, bet uoloje jie pasistato ⟨את⟩ savo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/30\/25-28.1792489998413.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "damanai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "galinga"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "bet jie pastato"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "uoloje"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "savo namus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:53:18.413855214Z",
+  "model": "glm-5.3"
+}

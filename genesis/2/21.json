@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תרדמה",
+      "rationale": "Ne paprastas miegas, o gilus transo miegas (tardemah) — vienas žodis lietuviškai išskleidžiamas."
+    },
+    {
+      "kind": "addition",
+      "subject": "Jis",
+      "rationale": "Veikėjas aiškinamas iš konteksto — hebrajiškas wayyiqtol tęsia tą patį subjektą."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vieną iš jo šonkaulių",
+      "rationale": "Skaičius אחת išlieka — imamas tik vienas šonkaulis."
+    }
+  ],
+  "translation": "Ir Jahvė Elohim apėmė giliu miegu ⟨את⟩ žmogų, ir jis užmigo; ir Jis ėmė vieną iš jo šonkaulių ir uždarė ⟨su⟩ mėsą jos vietoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/21-24.1792471038743.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "apėmė (sukėlė nukritimant)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "giliu miegu (transo miegas)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ir užmigo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ir ėmė"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "iš jo šonkaulių"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ir uždarė"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mėsą"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "jos vietoje"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:18.745083951Z",
+  "model": "glm-5.3"
+}

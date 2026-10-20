@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teisės⟩",
+      "rationale": "hebrajiškas עֹנָתָהּ yra daiktavardis be aiškios lietuviškos atitikmens šiame kontekste; pridėtas žodis nurodo, kad tai jos teisė"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maistas",
+      "rationale": "שְׁאֵרָהּ pažodžiui „mėsa“, čia platesne prasme — pragyvenimas, maistas"
+    },
+    {
+      "kind": "crux",
+      "subject": "santykiavimas",
+      "rationale": "עֹנָתָהּ (iš שׁוּב\/ענה šaknies, susijusios su gyventi kartu) dažnai verčiama „santuokos teisės“ arba „gyvenimas kartu“; verčiu artimiausia pažodine prasme"
+    }
+  ],
+  "translation": "Jei kitą ⟨sau⟩ paims — jos maisto, jos drabužių ir jos santykiavimo ⟨teisės⟩ jis nemažins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/9-12.1792472634993.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "kitą"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "paims"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sau⟩"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "jos maisto"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "jos drabužių"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "ir jos santykiavimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "jis mažins"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:54.996201054Z",
+  "model": "glm-5.3"
+}

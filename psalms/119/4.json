@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨laikytis⟩",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio, kai hebrajų turi tik infinitinę konstrukciją לשמר"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Tiesioginis kreipimasis į Dievą antruoju asmeniu"
+    }
+  ],
+  "translation": "Tu įsakei ⟨laikytis⟩ savo priesakų labai rūpestingai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/1-4.1792489060335.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "įsakei"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "savo priesakų"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨laikytis⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai rūpestingai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:40.336696573Z",
+  "model": "glm-5.3"
+}

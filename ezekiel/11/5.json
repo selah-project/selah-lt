@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 11:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis, kelios reikšmės."
+    },
+    {
+      "kind": "crux",
+      "subject": "pakilimus",
+      "rationale": "מעלות: 'mintys kylstančios' (KJV 'things that come into your mind') vs tiesiog 'žingsniai\/kilimai' (YLT 'steps of your spirit') — išlaikytas pažodinis 'pakilimai'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jas",
+      "rationale": "Hebrajų ידעתיה turi pridėtą giminių galūnę (-ה 'ją'), lietuvių reikia objekto 'jas'."
+    }
+  ],
+  "translation": "Ir nukrito ant manęs Jahvės ruach, ir jis tarė man: Sakyk: taip sako Jahvė: Taip kalbėjote, Jisraelio namai, ir jūsų ruachos pakilimus aš pažinau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9479fba0d70351b7b878e681557005729a0aad4369cf9b312c7147adaac4315c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/5-8.1792483969594.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ir nukrito"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Sakyk"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kalbėjote"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "ir pakilimus"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "jūsų ruachos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ידעתיה",
+      "gloss": "pažinau ⟨jas⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:49.595371138Z",
+  "model": "glm-5.3"
+}

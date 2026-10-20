@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei ne — Jirmejahu",
+      "rationale": "tiesioginis įsakymas pranašui rašyti knygą"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitivinis 'sakyti' po 'Taip sako' lietuviškai dubliuotų — leista dvitaškiu"
+    }
+  ],
+  "translation": "Taip sako Jahvė, Jisraelio Elohim: Rašyk sau ⟨את⟩ visus žodžius, kuriuos kalbėjau tau, į knygą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cb42f38d972a0624ebe232cbad403388cd45a9fcb768dc3eba8ec0bce06b20a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/30\/1-4.1792483064529.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Rašyk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus žodžius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:44.531275500Z",
+  "model": "glm-5.3"
+}

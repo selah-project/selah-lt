@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sutvirtino",
+      "rationale": "ויחזק yra Piel — „padarė stiprią\/griežtą“; „sutvirtino“ laikosi lauko, o ne bauginančio „sukietino“"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "hebrajiškas prielinksnis „pas“ išnyko suliejus su linksniu „Mošei“"
+    }
+  ],
+  "translation": "Ir Jahvė sutvirtino ⟨את⟩ Faro širdį, ir jis neklausė jų, kaip buvo kalbėjęs Jahvė Mošei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/9-12.1792472326941.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ir sutvirtino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Faro širdį"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdį"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "buvo kalbėjęs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    }
+  ],
+  "timestamp": "2026-10-20T04:58:46.945706930Z",
+  "model": "glm-5.3"
+}

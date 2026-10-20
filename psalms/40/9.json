@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame tekste nėra saistomojo veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vidaus",
+      "rationale": "מעי yra žodis, reiškiantis vidaus organus, pilvaplėvę — ne širdį"
+    }
+  ],
+  "translation": "Daryti tavo valią, mano Elohim, geidžiau, ir tavo Tora ⟨yra⟩ viduryje mano vidaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/40\/9-12.1792487922288.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "tavo valią"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "geidžiau"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ir tavo Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mano vidaus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:18:42.288785991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "Emunah — „ištikimybe“, „tvirtumu“, „tikėjimu“; garsioji eilutė, vėliau cituota kitur, bet čia Tanacho kontekste — teisiojo ištikimumas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "Nefeš — ne „siela“, o gyvybės jėga, kvėpuojanti būtybė."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עפלה",
+      "rationale": "Veiksmažodis עפל pasibaigęs būdu pasitaiko čia retai — „išpūstas, išpuikęs“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפלה \/ ישרה",
+      "rationale": "Išpūstumas prieš tiesumą — išsipūtęs ir „neištiesintas“ kontrastas."
+    }
+  ],
+  "translation": "Štai išpūstasis — jo gyvybė neištiesinta jame, o teisusis savo ištikimybe gyvens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/habakkuk\/2\/1-4.1792486855713.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "išpūstasis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "neištiesinta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo gyvybė"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "o teisusis"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "savo ištikimybe"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "gyvens"
+    }
+  ],
+  "timestamp": "2026-10-20T09:00:55.715165868Z",
+  "model": "glm-5.3"
+}

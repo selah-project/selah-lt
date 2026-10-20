@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 14:14",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga; ne atskira 'siela'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות נמות",
+      "rationale": "Hebrajų beasmenis infinitivus absoliutus 'mirti mirsime' — pabrėžiantis tikrumas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידח \/ נדח",
+      "rationale": "tą pačią נדח šaknį du kartus — 'atstumtasis nebūtų atstumtas'; lietuviškai išlaikyta pakartota šaknis"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחשב",
+      "rationale": "KJV 'deviseth means' vs LXX linksnis 'nepriima asmens'; čia — 'sumano sumanymus', siejant su חשב iš v. 13"
+    }
+  ],
+  "translation": "Nes mirti mirsime, ir esame kaip vanduo, lietas žemėn, kuris nesusirenka; ir Elohim nepaims gyvybės, bet sumano sumanymus, kad atstumtasis nebūtų atstumtas nuo jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/13-16.1792478277008.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirti"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mirsime"
+    },
+    {
+      "surface": "וכמים",
+      "gloss": "ir kaip vanduo"
+    },
+    {
+      "surface": "הנגרים",
+      "gloss": "lietas"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "susirenka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "paims"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "ויחשב",
+      "gloss": "bet sumano"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "sumanymus"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ידח",
+      "gloss": "būtų atstumtas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nuo jo"
+    },
+    {
+      "surface": "נדח",
+      "gloss": "atstumtasis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:57.011198085Z",
+  "model": "glm-5.3"
+}

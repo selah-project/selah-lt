@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasigailėjau",
+      "rationale": "רחם — 'gailestingai mylėjau, įsigailestavau'; gilesnis už vien 'gailėja'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקצפי \/ ברצוני",
+      "rationale": "Priešprieša: įniršis — malonė, simetriškas dviejų veiksmaų parkonstravimas su 'tave'."
+    }
+  ],
+  "translation": "Ir svetimšalių sūnūs statys tavo sienas, ir jų karaliai tau tarnaus, nes savo įniršyje tave sumušiau, o savo malonėje tave pasigailėjau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/60\/9-12.1792481901631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ir statys"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svetimšalių"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "tavo sienas"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ir jų karaliai"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "tarnaus tau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "savo įniršyje"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "tave sumušiau"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "o savo malonėje"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "tave pasigailėjau"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:21.632384057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškanai",
+      "rationale": "משכנות išversta žodžiu „miškanai“ pagal D2, o ne „gyvenamosios vietos“."
+    }
+  ],
+  "translation": "Jahvė myli Cijono vartus labiau už visus Jaakovo miškanus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/87\/1-4.1792488639893.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "myli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vartus"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijono"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiau už visus"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "miškanus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:39.894357316Z",
+  "model": "glm-5.3"
+}

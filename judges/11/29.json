@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 11:29",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ir buvo",
+      "rationale": "Hebrajų čia įprastinis ותהי — įvykio įžangos veiksmažodis, ne kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis, vėjas ir Dvasia."
+    }
+  ],
+  "translation": "Ir buvo ant Jeftacho Jahvės ruach, ir jis perėjo ⟨את⟩ Giladą ir ⟨את⟩ Menašę, ir perėjo ⟨את⟩ Micpę-Giladą, ir iš Micpės-Gilado jis perėjo pas Amono vaikus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a39444027b59617a58ff1ca5890eec9ea6c7f8369d07c927e7a378983177b8d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/11\/29-32.1792476686354.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftachas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giladą"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giladą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Menašę"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašę"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micpę-Giladą"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Micpę"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladą"
+    },
+    {
+      "surface": "וממצפה",
+      "gloss": "ir iš Micpės"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilado"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "perėjo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikams"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:26.355285660Z",
+  "model": "glm-5.3"
+}

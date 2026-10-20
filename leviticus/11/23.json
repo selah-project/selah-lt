@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kiti",
+      "rationale": "hebrajiškas tekstas sako 'visi sparnuočių šliaužiantys' — 'kiti' pridėta, nes 21 eilutė jau išskyrė leidžiamuosius"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šliaužiantys",
+      "rationale": "שרץ — 'kas knibžda, veisiasi minioje'; vienas žodis visame skyriuje"
+    }
+  ],
+  "translation": "Ir visi kiti sparnuočių šliaužiantys, kuriems yra keturios kojos, — niekšybė jie jums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/21-24.1792473330631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "šliaužiantys"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "sparnuočių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuriems"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturios"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "kojos"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "niekšybė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jie ⟨yra⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:30.635824231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויאותו",
+      "rationale": "Šaknis 'ateiti', čia 'sutikti' — pažodžiui 'ir atėjo (su sutikimu)'."
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "בדק",
+      "rationale": "Retas žodis — spraga, plyšys (pastate ar laive), ne paprastas 'lūžis'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "כסף",
+      "rationale": "Sidabras kaip pinigai — sveriamas, skaičiuojamas išmone apie šventyklos lėšas."
+    }
+  ],
+  "translation": "Ir kunigai sutiko nebeimti sidabro iš ⟨את⟩ tautos ir nebetaisyti ⟨את⟩ namo įtrūkimų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/12\/9-12.1792480156942.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאותו",
+      "gloss": "ir sutiko"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad nebe"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "imti"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩",
+      "marks": "tautos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ir kad nebe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "taisyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namo įtrūkimų"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "įtrūkimų"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:16.943611475Z",
+  "model": "glm-5.3"
+}

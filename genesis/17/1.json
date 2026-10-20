@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 17:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן תשעים שנה",
+      "rationale": "Hebrajiškas posakis 'devyniasdešimties metų sūnus' — lietuvių kalboje įprasta 'Avramui buvo devyniasdešimt metų'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'Aš El Šadai' — saitas pridėtas lietuviškai."
+    },
+    {
+      "kind": "you",
+      "subject": "Avramui",
+      "rationale": "Jahvė tiesiogiai kreipiasi į Avramą: įsakymai 'vaikščiok' ir 'būk'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "El Šadai",
+      "rationale": "Šadai verčiamas skambesiu, ne titulu 'Visagalis'."
+    }
+  ],
+  "translation": "Ir buvo Avramas devyniasdešimties metų ir devynerių metų sūnus, ir pasirodė Jahvė Avramui ir tarė jam: Aš ⟨esu⟩ El Šadai — vaikščiok mano akivaizdoje ir būk tobulas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c07c6c2ce2c35f2ef0bddc2c3f1f571aa6b1b35c8dac516fc702515ef473251e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/17\/1-4.1792471314216.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "devyniasdešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ir devynerių"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metų"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir pasirodė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avramui"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "vaikščiok"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mano akivaizdoje"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir būk"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tobulas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:54.218044343Z",
+  "model": "glm-5.3"
+}

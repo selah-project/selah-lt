@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi sieveklio 'būti' esamajame laike"
+    },
+    {
+      "kind": "idiom",
+      "subject": "širdis ant Avšalomo",
+      "rationale": "Hebrajų 'lēv ʿal' — širdis 'ant\/ką' reiškia ilgesį, palinkimą link kažko"
+    }
+  ],
+  "translation": "Ir Joabas, Cerujos sūnus, sužinojo, kad karaliaus širdis ⟨yra⟩ ant Avšalomo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "372ea23b4c7856a668ad38eb43aa60b6ae69205f4ce510ad305ac0a78c71e955",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/1-4.1792478276604.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "sužinojo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Cerujos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:56.605584600Z",
+  "model": "glm-5.3"
+}

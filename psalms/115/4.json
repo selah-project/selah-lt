@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai be sietuvo — „jų stabai — sidabras ir auksas“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצביהם",
+      "rationale": "עצב gali reikšti ir „skausmas“ — žodžio dviprasmybė apie stabus"
+    }
+  ],
+  "translation": "Jų stabai — sidabras ir auksas, žmonių rankų darbas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/115\/1-4.1792488990453.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "jų stabai"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ir auksas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rankų"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmonių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:30.454006037Z",
+  "model": "glm-5.3"
+}

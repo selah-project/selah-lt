@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרצנכם",
+      "rationale": "„savo pasitenkinimui“ vs. „kad būtumėte priimti“ (KJV\/JPS) — ar auka skeriama pagal valią, ar dėl priėmimo."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje pastraipoje; lietuvių reikalauja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזבחו\/תזבחהו",
+      "rationale": "Žodžių žaismas šaknimi זבח kartoja skerdimą — tapatumas išsaugotas."
+    }
+  ],
+  "translation": "Ir kai skersite ⟨את⟩ auką šelamim Jahvei, savo pasitenkinimui ⟨yra⟩ jūsų skersite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/5-8.1792473523190.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ir kai"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "skersite"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "auką"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "savo pasitenkinimui"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "jūsų skersite ⟨jį⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:43.192288575Z",
+  "model": "glm-5.3"
+}

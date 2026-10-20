@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השני",
+      "rationale": "Čia הַשָּׁנִי su šiuo kontekstu reiškia 'raudonas siūlas' (iš שָׁנִי 'raguolis, purpuras'), ne 'antrasis'; vėliau tradicija skaito 'antrasis' — lietuviškai pateikti abu."
+    },
+    {
+      "kind": "crux",
+      "subject": "השני",
+      "rationale": "Šį žodį galima skaityti dvejopai: 'su raudonu siūlu' (šanas) arba 'antrasis' (šeni) — KJV 'that had the scarlet thread', Midrašas 'antrasis'."
+    }
+  ],
+  "translation": "Ir paskui išėjo jo brolis, tas, ant kurio rankos buvo raudonas siūlas — antrasis; ir jis pavadino jo vardą Zerachas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/38\/29-30.1792471796842.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Ir paskui"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo brolis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kurio rankos"
+    },
+    {
+      "surface": "השני",
+      "gloss": "raudonas siūlas — antrasis"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir jis pavadino"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerachas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:56.844478130Z",
+  "model": "glm-5.3"
+}

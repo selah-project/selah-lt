@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יחיה",
+      "rationale": "Pažodžiui „pagyvino \/ prikėlė gyvenimui“; išversta kaip „atstatė“ pagal kontekstą."
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "Milo — nežinomas įrenginys Jeruzalėje: „ pylimas“, „ citadelė“ ar „ terasa“; paliktas skambesiu."
+    }
+  ],
+  "translation": "Ir jis pastatė miestą aplinkui, nuo Milo iki jo apygardos; ir Joabas atstatė ⟨את⟩ likusią miesto dalį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/11\/5-8.1792492816835.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ir pastatė"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "aplinkui"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "apygardos"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ir Joabas"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "atstatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likusią miesto dalį"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "likusią dalį"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    }
+  ],
+  "timestamp": "2026-10-20T10:40:16.837002450Z",
+  "model": "glm-5.3"
+}

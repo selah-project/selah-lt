@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 26:19",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שׁל אורת",
+      "rationale": "'šviesos rasa' (JPS) vs 'žolių rasa' (KJV, iš LXX) — אורת laikoma אור šaknies"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אורת",
+      "rationale": "šis žodis Tanache tik čia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "refaimai",
+      "rationale": "רפאים — mirusiųjų šešėliai; plg. sutrikusi 'Jotvingių žemė' klaida"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טל ... טלך",
+      "rationale": "rasos kartojimas — rasa-rasa, chiazminis stiprinimas"
+    }
+  ],
+  "translation": "Gyvens tavo mirusieji, mano numirėliai prisikels; pabuskite ir džiūgaukite, dulkėse gyvenantys, nes rasa — šviesos rasos — yra taviškė rasa, ir žemė refaimus paguldys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/17-20.1792481152145.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחיו",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "מתיך",
+      "gloss": "tavo mirusieji"
+    },
+    {
+      "surface": "נבלתי",
+      "gloss": "mano numirėliai"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "prisikels"
+    },
+    {
+      "surface": "הקיצו",
+      "gloss": "pabuskite"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ir džiūgaukite"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "gyvenantys"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkėse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "אורת",
+      "gloss": "šviesos"
+    },
+    {
+      "surface": "טלך",
+      "gloss": "taviškė rasa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ir žemė"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimus"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "paguldys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:52.147002298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 27:21",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahvė Cevaot",
+      "rationale": "צבאות su Vardu verčiama kaip vardas — ne „Galybių Viešpats“."
+    },
+    {
+      "kind": "elision",
+      "subject": "הכלים artikelis",
+      "rationale": "Hebrajiškas artikelis ה- lietuvių kalboje neturi atitikmens ir nerašomas."
+    }
+  ],
+  "translation": "Nes taip sako Jahvė Cevaot, Jisraelio Elohim, apie indus, likusius Jahvės namuose ir Jūdos karaliaus namuose bei Jerušalaime:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/27\/21-22.1792482956009.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "על",
+      "gloss": "apie"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indus"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "likusius"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ir namuose"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdos"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ir Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:55:56.009518983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "Lietuviška veiksmažodžio forma reikalauja įvardžio; hebrajų kalba jo neturi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šlovę",
+      "rationale": "תהלתי pažodžiui 'mano pagyrą \/ šlovinimą' — giesmės apie mane"
+    }
+  ],
+  "translation": "Tautą šitą aš suformavau sau, mano šlovę jie skelbs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/21-24.1792481479054.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "זו",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "suformavau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mano šlovę"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "jie skelbs"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:19.062251459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "כפרת verčiama „atpirkimo dangtis“, „gailestingumo sostas“ ar tiesiog „dangtis“ — lietuviškai „sūpinimo dangtis“ pagal šaknies כפר prasmę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nešimo kartis",
+      "gloss": "בד reiškia atskirą šakelį ar kartį — čia skrynios nešimo kartys"
+    }
+  ],
+  "translation": "⟨את⟩ Sandoros liudijimo skrynią ir ⟨את⟩ jos nešimo kartis, ir ⟨את⟩ sūpinimo dangtį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/39\/33-36.1792473108778.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skrynią"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "liudijimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "nešimo kartis"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "nešimo kartis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "dangtį"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "dangtį-sūpinimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:48.781321446Z",
+  "model": "glm-5.3"
+}

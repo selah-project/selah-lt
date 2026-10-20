@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אינם",
+      "rationale": "Neigiamas dalelybė sulietas su veiksmažodžiu: „nebežino“ vietoj „jų nėra žinančių“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכר \/ נשכח \/ זכרם",
+      "rationale": "Šaknų שכר ir זכר \/ שכח skambesio artimumas — atlygis, atminimas, užmiršimas — lietuviškai prarandamas."
+    }
+  ],
+  "translation": "Nes gyvieji žino, kad mirs, o mirusieji nieko nebežino, ir nėra jiems daugiau jokio atlygio, nes jų atminimas užmirštas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "55d197a98b905d603bc63dff21d41f637316b4d58248f802c40917be27c68002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/5-8.1792491330327.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "gyvieji"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "žino"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "kad mirs"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "o mirusieji"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nebežino"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "atlygio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "užmirštas"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "jų atminimas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:30.328335911Z",
+  "model": "glm-5.3"
+}

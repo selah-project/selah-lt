@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "lietuvių kalboi reikalingi įvardžiai, hebrajiškai tik galūnės -ך"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וְלֹא תָבוֹא",
+      "rationale": "kiti skaito „neik“ kaip draudimą lankyti brolį; pagrindinis skaitymas — nelaimės dieną geriau arti esantis kaimynas"
+    }
+  ],
+  "translation": "Savo draugą ir savo tėvo draugą nepalik, ir į savo brolio namus neik savo nelaimės dieną; geresnis kaimynas, kuris arti, už brolį toli.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/27\/9-12.1792489933956.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "savo draugą"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ir draugą"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "palik"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ir namus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "savo brolio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "eik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "savo nelaimės"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geresnis"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kaimynas"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "už brolį"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "toli"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:13.957135561Z",
+  "model": "glm-5.3"
+}

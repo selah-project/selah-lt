@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 36:24",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių būtasis dažninis laikas reikalauja pagalbinio veiksmažodžio, hebrajų veiksmažodis vientisas."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jobui",
+      "rationale": "Paliepimas „Atmink“ kviečia garbinti El darbą, kurį žmonės yra šlovinę daina."
+    }
+  ],
+  "translation": "Atmink, kad išaukštintum Jo darbą, kurį žmonės ⟨yra⟩ dainavę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "16bfc0e0c1d310dabd981c34c189b76ce34f0ab8153a2b58f1fbbe53bc20355a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/21-24.1792490644644.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Atmink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תשגיא",
+      "gloss": "išaukštintum"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "Jo darbą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "שררו",
+      "gloss": "dainavę"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "žmonės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:04.644938118Z",
+  "model": "glm-5.3"
+}

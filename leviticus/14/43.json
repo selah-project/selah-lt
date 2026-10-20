@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja veiksmažodžio formos, hebrajų infinitivus išreiškia daiktavardžiu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sužydės",
+      "rationale": "ופרח pažodžiui 'pražys' — žaizdos plitimas vaizduojamas kaip augalo žydėjimas."
+    }
+  ],
+  "translation": "Ir jeigu žaizda sugrįš ir sužydės name, po to, kai išėmė ⟨את⟩ akmenis, ir po to, kai ⟨את⟩ namas buvo nuskustas, ir po to, kai buvo išteptas —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8345142609269e2c19fbec5ffa80eb48da8759e58264b27e36806f57f14c78f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/41-44.1792473452794.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jeigu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sugrįš"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "žaizda"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ir sužydės"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "name"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po to"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "išėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akmenis"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmenis"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ir po to, kai"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "buvo nuskustas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namas"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ir po to, kai"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "buvo išteptas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:32.798386191Z",
+  "model": "glm-5.3"
+}

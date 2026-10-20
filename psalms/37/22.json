@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יכרתו",
+      "rationale": "Pažodžiui 'bus nukirsti' — כרת peilio paveikslas, ne abstraktus 'sunaikinti'."
+    }
+  ],
+  "translation": "Nes Jo palaimintieji paveldės ⟨את⟩ žemę, o Jo prakeiktieji bus nukirsti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/21-24.1792487876132.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "Jo palaimintieji"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "paveldės"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "o Jo prakeiktieji"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bus nukirsti"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:56.133633285Z",
+  "model": "glm-5.3"
+}

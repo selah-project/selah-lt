@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ragai-spinduliai",
+      "rationale": "קרנים iš pradžių reiškia 'ragai', bet dieviškos šviesos vaizde — 'spinduliai' (LXX ἀκτῖνες); palikti abu gabalai"
+    },
+    {
+      "kind": "hapax",
+      "subject": "slėptuvė",
+      "rationale": "חביון atsiranda tik čia Tanache — 'paslėpimas, slėptuvė'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "ושם חביון עזה be veiksmažodžio — pridėta jungtis"
+    }
+  ],
+  "translation": "Ir jo spindesys ⟨buvo⟩ kaip šviesa; ragai-spinduliai — iš jo rankos jam, ir ten ⟨yra⟩ slėptuvė jo jėgai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/habakkuk\/3\/1-4.1792486990556.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Ir jo spindesys"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kaip šviesa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "ragai-spinduliai"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iš jo rankos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "slėptuvė"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "jo jėgai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:03:10.558773156Z",
+  "model": "glm-5.3"
+}

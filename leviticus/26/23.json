@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dalykus⟩",
+      "rationale": "באלה — 'šiais'; daiktavardis pridėtas lietuviškam skaidrumui."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרי",
+      "rationale": "Kartojamas retasis קרי iš v. 21 — sąmoningas aistrų kartojimas, struktūruojantis visą skyrių (26, 21.23.24.27.28)."
+    }
+  ],
+  "translation": "Ir jei per šiuos <dalykus> nebūsite mano auklėjami, o eisite su manimi priešiškai,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/21-24.1792473833181.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ir jei"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "per šiuos ⟨dalykus⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "būsite auklėjami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mano"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "o eisite"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "su manimi"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "priešiškai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:53.183758972Z",
+  "model": "glm-5.3"
+}

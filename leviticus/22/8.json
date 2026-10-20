@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dvėseliena",
+      "rationale": "נבלה — pats savaime nugaišęs padaras; netradicinė forma, neperdaryta į 'kas nudvėsė'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לטמאה בה",
+      "rationale": "galimas ir 'kad per jas taptų nešvarus' —_infinitivinis tikslas, čia išskaidyta per priežastį"
+    },
+    {
+      "kind": "you",
+      "subject": "kunigams",
+      "rationale": "'Aš esu Jahvė' — tiesioginė tvirtinamoji formulė, adresuota kunigų bendruomenei"
+    }
+  ],
+  "translation": "Dvėselienos ir per plėšrūnus ⟨sudraskyto⟩ jis nevalgys, kad ⟨nesitvertų⟩ su ja; aš esu Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/5-8.1792473572877.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "dvėselienos"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ir per plėšrūnus ⟨sudraskyto⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "kad ⟨nesitvertų⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "su ja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš esu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:32.897412471Z",
+  "model": "glm-5.3"
+}

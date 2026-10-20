@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבצור",
+      "rationale": "Retas žodis: 'neprieinamasis\/įtvirtintas miškas' vs 'derliaus miškas' (KJV 'forest of the vintage')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kėdaro niekas neliko",
+      "rationale": "נפל ארז pažodžiui 'krito kėdaras' — perkelta reikšmė: žlugimas, ne fizinis kritimas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הילל ... הילילו",
+      "rationale": "Pakartotas 'rauk' šaknies veiksmažodis — raudos aidėjimas tarp medžių eiliavimas"
+    }
+  ],
+  "translation": "Raudok, kiparisai, nes kėdaro niekas neliko — argi ne didieji nusiaubti? Raudokite, Bašano ąžuolai, nes nulipo neprieinamasis miškas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/11\/1-4.1792487225689.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילל",
+      "gloss": "Raudok"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "kiparisai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "krito"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kėdaras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "אדרים",
+      "gloss": "didieji"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "nusiaubti"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Raudokite"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "ąžuolai"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nulipo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "miškas"
+    },
+    {
+      "surface": "הבצור",
+      "gloss": "neprieinamasis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:07:05.690480252Z",
+  "model": "glm-5.3"
+}

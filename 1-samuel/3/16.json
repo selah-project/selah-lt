@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Eliui → Šmuelis",
+      "rationale": "Tiesioginis kreipimasis per šaukinį — 'Šmueli, mano sūnau'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנני",
+      "rationale": "'Hineni' — atsako formuluotė, parodanti pasirengimą — atkartoja 1 Sam 3,4.8 motyvą"
+    }
+  ],
+  "translation": "Ir Elis pašaukė ⟨את⟩ Šmuelį ir tarė: Šmueli, mano sūnau! O šis atsakė: Štai aš.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/3\/13-16.1792477030120.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "pašaukė"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šmuelį"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmueli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnau"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "atsakė"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Štai aš"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:10.122957559Z",
+  "model": "glm-5.3"
+}

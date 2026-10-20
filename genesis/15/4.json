@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 15:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨atėjo⟩",
+      "rationale": "lietuvių kalbai reikia veiksmažodžio; hebrajų kalboje 'žodis jam' — tik konstrukcija"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "hebrajų neiginio stiprinimo konstrukcija 'ne... bet tik'; išversta kaip 'bet tas, kuris'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממעיך",
+      "rationale": "pažodžiui 'iš tavo vidurių\/įsčių' — gyvybės vietos žodis, ne tik fizinis"
+    }
+  ],
+  "translation": "Ir štai Jahvės žodis ⟨atėjo⟩ pas jį, sakydamas: Šis nepaveldės tavęs, bet tas, kuris išeis iš tavo vidurių — jis paveldės tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/1-4.1792471249098.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "paveldės tavęs"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeis"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "iš tavo vidurių"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "paveldės tave"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:49.102918847Z",
+  "model": "glm-5.3"
+}

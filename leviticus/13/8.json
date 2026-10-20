@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cāraat",
+      "rationale": "צרעת verčiama 'raupsai', bet apima įvairias odos ir pelėsio negalias — čia paliktas skambesys."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio, lietuvių reikalauja sutvarkyti sakinį."
+    }
+  ],
+  "translation": "Ir kunigas apžiūrės, ir štai pleiskanojimas išplito odoje, tai kunigas paskelbs jį nešvariu: caraat tai ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/5-8.1792473452848.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ir apžiūrės"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "išplito"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "pleiskanojimas"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "odoje"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ir paskelbs jį nešvariu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cāraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:32.853169375Z",
+  "model": "glm-5.3"
+}

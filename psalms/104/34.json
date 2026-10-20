@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apmąstymas",
+      "rationale": "שיח yra apmąstymas arba šnabždesys malda — vienas žodis, du vaizdai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיח \/ אשיח",
+      "rationale": "praėjusioje eilutėje 'aš giedosiu' (אשיח) skamba kaip šios eilutės שיחי — žodžių žaismas dingsta lietuviškai"
+    }
+  ],
+  "translation": "Tegu mano apmąstymas būna Jam malonus; aš — aš džiaugsiuos Jahvėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6208790bad8abc9a8d6fd715a3334a5dc2820a6c0541bd6dc447385c4449d05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/34-35.1792494203757.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "tegu būna malonus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Jam"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mano apmąstymas"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "džiaugsiuos"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvėje"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:23.757843615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tik⟩",
+      "rationale": "Pabrėžiamasis dalelytė pridėta lietuviškai — hebrajų jos nėra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמה \/ שאיה",
+      "rationale": "„Siaubas ir tuštumas“ — hebrajų kalboje skambuclus dera su תהו v. 10 ir שמה (su „miestas“ skamba panašiai)."
+    }
+  ],
+  "translation": "Liko mieste ⟨tik⟩ siaubas ir tuštuma, sutriuškintas vartai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/9-12.1792481066905.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "liko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siaubas"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "ir tuštuma"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "sutriuškintas"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vartai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:26.906844482Z",
+  "model": "glm-5.3"
+}

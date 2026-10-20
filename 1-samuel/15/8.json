@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cherem",
+      "rationale": "החרים — ne tiesiog 'išnaikino', o pašventino cheremui: atidavė sunaikinimui kaip pašventintą dalį."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Pažodžiui 'kardo burnai' — idiomatiškai 'kardo briauna'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sunaikinimui",
+      "rationale": "Pridėta, kad lietuviškai girdėtųsi cherem reikšmė, kur hebrajų turi vien žodį החרים."
+    }
+  ],
+  "translation": "Ir jis pagavo ⟨את⟩ Agagą, Amaleko karalių, gyvą, o ⟨את⟩ visą tautą pašventino sunaikinimui kardo briauna.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/5-8.1792477281479.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ir pagavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagą"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleko"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "visą tautą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "pašventino sunaikinimui"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "briauna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:21.483151309Z",
+  "model": "glm-5.3"
+}

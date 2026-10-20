@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 2:1",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia stipinio, kurio hebrajų tekstas neturi — vardu-plate pavertimui panaudota brūkšnio konstrukcija be ⟨yra⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרש",
+      "rationale": "'Slapta' ar 'tyliai' — hebrajiškas žodis reiškia ir tylą, ir slaptumą; išdėstymas 'du vyrus, žvalgus, slapta' išlaiko originalo eiliškumą"
+    },
+    {
+      "kind": "crux",
+      "subject": "זונה",
+      "rationale": "'Paleistuvė' ar 'užeigos namų šeimininkė' — vėliau Rabos tradicija; tekstas sako tik זונה"
+    }
+  ],
+  "translation": "Ir Jehošua, Nūno sūnus, išsiuntė iš Šitim du vyrus, žvalgus, slapta, sakydamas: Eikite, apžiūrėkite ⟨את⟩ šalį ir ⟨את⟩ Jerichą. Ir jie ėjo ir atėjo į paleistuvės namus — jos vardas Rahab — ir gulė ten.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/1-4.1792475753402.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "išsiuntė"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nūno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "Šitim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "žvalgus"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "slapta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikite"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "apžiūrėkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šalį"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Jerichą"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerichą"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "paleistuvės"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ir jos vardas"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "וישכבו",
+      "gloss": "ir gulė"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:53.404529681Z",
+  "model": "glm-5.3"
+}

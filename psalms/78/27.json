@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 78:27",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כנף",
+      "rationale": "Literaliai 'sparnas': 'paukščius — sparnais', būdvardžiu išverstas į 'sparnuotus'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעפר...וכחול ימים",
+      "rationale": "Dvigubas palyginimas — dulkės ir jūros smėlis — kartoja gausą; lietuviškai struktūra išlieka."
+    }
+  ],
+  "translation": "Ir jis lietė ant jų mėsą kaip dulkes, ir kaip jūros smėlį sparnuotus paukščius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/25-28.1792488472279.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Ir jis lietė"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kaip dulkes"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mėsą"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "ir kaip smėlį"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sparnuotus paukščius"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sparnuotus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:52.280222139Z",
+  "model": "glm-5.3"
+}

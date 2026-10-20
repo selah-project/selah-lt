@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 2:7",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לבני חיל",
+      "rationale": "pažodžiui 'vyrai jėgos sūnums'; lietuviškai 'drąsos vyrai'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mane",
+      "rationale": "אתי DOM žymuo iškeltas į sakinio pradžią; ⟨את⟩ išlaikomas, 'mane' iš veiksmažodžio"
+    }
+  ],
+  "translation": "Ir dabar tesustiprėja jūsų rankos ir būkite drąsos vyrai, nes mirė jūsų ponas Šaulis, ir mane Jūdos namas patepė karaliumi ⟨את⟩ jiems ⟨esant⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9099906c29685d4e346a73e036367d42af28f5a8f3285ad5a477b11edba9e17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/2\/5-8.1792477936025.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "tesustiprėja"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "jūsų rankos"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir būkite"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "drąsos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "jūsų ponas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "patepė"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jūdos"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:16.027335657Z",
+  "model": "glm-5.3"
+}

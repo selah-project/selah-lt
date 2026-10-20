@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "būrys",
+      "rationale": "חבל pažodžiui 'virvė, virvagalys' — perkeltine prasme būrys; virvės vaizdas lietuviškai dingsta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "užgriuvo",
+      "rationale": "ותצלח pažodžiui 'įsiveržė, puolė į priekį' — jėga, ne ramus nužengimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "ruach",
+      "rationale": "רוח verčiamas skambesiu 'ruach', ne 'dvasia' ar 'vėjas' vieni"
+    }
+  ],
+  "translation": "Ir jie atėjo ten, prie kalvos, ir štai — pranašų būrys ⟨ėjo⟩ jo pasitikti, ir užgriuvo ant jo Elohim ruach, ir jis pranašavo jų tarpe.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/9-12.1792477180273.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ir jie atėjo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "prie kalvos"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "būrys"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "pranašų"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "jo pasitikti"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "užgriuvo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "ir jis pranašavo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "jų tarpe"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:40.274885064Z",
+  "model": "glm-5.3"
+}

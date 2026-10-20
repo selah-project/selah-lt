@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas tekstas neturi veiksmažodžio 'būti' — lietuvių kalbai reikia ⟨buvo⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם × 3",
+      "rationale": "Žodis 'ten' kartojamas tris kartus — ritmo kartoje, lietuviškai išlaikyta 'ten' triskart."
+    }
+  ],
+  "translation": "Ir jo sugrįžimas ⟨buvo⟩ į Ramą, nes ten buvo jo namas, ir ten jis teisė ⟨את⟩ Jisraelį, ir ten pastatė aukurą Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e714e65e23afa962580ad43f5c895393ae69c157cee7a3c2911844bae3b26786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/7\/17-17.1792477002471.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "ir jo sugrįžimas"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "į Ramą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jo namas"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "teisė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:42.472083973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 19:14",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškai nėra sietuvo tarp קינה היא ir vertinio — lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קינה ... לקינה",
+      "rationale": "raidos pakartojimas — 'rauduoji rauda, ir bus rauda' — Ezechielio 19 skyriaus užsklanda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skeptras",
+      "rationale": "שבט yra lazda, kartis — čia valdžios ženklas; hebrajiškas žodis pats yra medžio dalis, tai sutampa su vynmedžio vaizdu"
+    }
+  ],
+  "translation": "Ir išėjo ugnis iš kartelės jos šakų, suėdė jos vaisių, ir nebuvo joje kartelės jėgos — skeptras valdyti. Rauda ji ⟨yra⟩, ir tapo į raudą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "760240454d3d2d7140397754ff3351606b620919c575a7e7e00182fdaf26910b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/19\/13-14.1792484215738.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Ir išėjo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "iš kartelės"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "jos šakų"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "jos vaisių"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kartelės"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jėgos"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptras"
+    },
+    {
+      "surface": "למשול",
+      "gloss": "valdyti"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "Rauda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "לקינה",
+      "gloss": "į raudą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:16:55.739522594Z",
+  "model": "glm-5.3"
+}

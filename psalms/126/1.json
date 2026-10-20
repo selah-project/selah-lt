@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בשוב\/שיבת",
+      "rationale": "šaknies švb kartojimas — 'sugrąžinti sugrįžimą' — lietuviškai dalinai išlaikyta"
+    },
+    {
+      "kind": "crux",
+      "subject": "שיבת ציון",
+      "rationale": "pažodžiui 'Cijono sugrįžimas'; tradicija — 'grąžinti nelaisvuosius \/ išgyvenimus Cijono'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mes",
+      "rationale": "hebrajų kalba įvardis išreikštas veiksmažodžio galūneje"
+    }
+  ],
+  "translation": "Dainė pakilimų. Kai Jahvė sugrąžino ⟨את⟩ sugrįžimą Cijono, mes buvome kaip sapnuojantys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/126\/1-4.1792489229740.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "dainė"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pakilimų"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "sugrąžinant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sugrįžimą Cijono"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "sugrįžimą"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijono"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "mes buvome"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kaip sapnuojantys"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:29.741269023Z",
+  "model": "glm-5.3"
+}

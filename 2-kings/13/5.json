@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gelbėtoją",
+      "rationale": "מושיע be artikelio — ar tai konkretus išgelbėtojas (Elijas? Jeroboamas II?), ar bendras išgelbėjimas; vertimai skiriasi 'a saviour' \/ 'deliverer'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kaip vakar ir užvakar",
+      "rationale": "Hebrajų כתמול שלשום — idiomą 'kaip vakar ir užvakar' reiškia 'kaip anksčiau, ilgai iki šiol'"
+    }
+  ],
+  "translation": "Ir Jahvė davė Jisraeliui gelbėtoją, ir jie išėjo iš po Aramo rankos, ir Jisraelio sūnūs gyveno savo palapinėse kaip vakar ir užvakar.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/13\/5-8.1792480172710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "gelbėtoją"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ir jie išėjo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iš po"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rankos"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ir gyveno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "savo palapinėse"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kaip vakar"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ir užvakar"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:32.712638061Z",
+  "model": "glm-5.3"
+}

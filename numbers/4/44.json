@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų ויהיו yra veiksmažodis, bet skaičiui lietuvių kalboje reikia 'buvo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trys tūkstančiai du šimtai",
+      "rationale": "Merari surašymo suma"
+    }
+  ],
+  "translation": "ir jų suskaičiuotieji pagal jų šeimas buvo trys tūkstančiai du šimtai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fbd785972404cf5701e049876bfb3afe538f787287490bd9a006a4a01b2f54b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/4\/41-44.1792473885029.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "jų suskaičiuotieji"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trys"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančiai"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ir du šimtai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:45.031351961Z",
+  "model": "glm-5.3"
+}

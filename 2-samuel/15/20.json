@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed ir emet",
+      "rationale": "חסד ואמת išlaikyti kaip transliteruoti terminai pagal D2, vietoj 'gailestingumas ir tiesa'."
+    },
+    {
+      "kind": "crux",
+      "subject": "chesed ir emet",
+      "rationale": "Neaišku, ar tai linkėjimas Itajui ('tebūnie su tavimi'), ar maldos kreipimasis — hebrajų kalboje be veiksmažodžio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב והשב",
+      "rationale": "Žodžių žaismas: 'grįžk ir at-grąžink' — ta pati šaknis שׁוב, išlaikyta lietuviškai."
+    }
+  ],
+  "translation": "Vakar buvo tavo atėjimas, o šiandien ar varyčiau tave klajoti su mumis, kai aš pats einu, kur aš einu? Grįžk ir atgrąžink ⟨את⟩ savo brolius su savimi; chesed ir emet ⟨tebūnie⟩ su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/17-20.1792478339867.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "vakar"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "buvo tavo atėjimas"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "o šiandien"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "ar varyčiau tave klajoti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "su mumis"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "einu"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "einu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "grįžk"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "ir atgrąžink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo brolius"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "savo brolius"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su savimi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ir emet"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:59.871650199Z",
+  "model": "glm-5.3"
+}

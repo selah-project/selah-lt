@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atsidengė",
+      "rationale": "ויתגל — nusirengė, apsinuogino; atsidengė išlaiko gėdos atspalvį"
+    },
+    {
+      "kind": "crux",
+      "subject": "viduryje",
+      "rationale": "hebrajiškai tiesiog 'savo palapinės viduryje' — kai kurie skaitytojai 'viduryje' supranta kaip paslėptą užuominą, bet tekstas sako tik vietą"
+    }
+  ],
+  "translation": "Ir gėrė vyną, ir prisigėrė, ir atsidengė savo palapinės viduryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/21-24.1792471093014.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ir gėrė"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ir prisigėrė"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "ir atsidengė"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "savo palapinės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:13.016236813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gyvybės jėga, alsavimas, ne nemateriali 'siela'"
+    },
+    {
+      "kind": "you",
+      "subject": "mano siela",
+      "rationale": "kalbantysis kreipiasi į savo נפש"
+    }
+  ],
+  "translation": "Grįžk, mano siela, į savo poilsį, nes Jahvė tau atlygino gera.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/116\/5-8.1792489049199.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Grįžk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano siela"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "į savo poilsį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "atlygino"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:29.199910125Z",
+  "model": "glm-5.3"
+}

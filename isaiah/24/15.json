@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בארים",
+      "rationale": "rašyta be m (pl. אורים): 'šviesos kraštuose' \/ 'rytuose' (JPS) vs KJV 'ugnyse', Geneva 'slėniuose'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tėkite⟩",
+      "rationale": "Antrasis veiksmažodis pakartotam 'šlovinkite vardą' pridedamas lietuviškai, hebrajų jį nutyli."
+    }
+  ],
+  "translation": "Dėl to RYTUOSE šlovinkite Jahvę, jūrų salose — ⟨tėkite⟩ Jahvės, Jisraelio Elohim, vardą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf400095f14c75b00c66a18167791ba0c9ed07a6c063a192fb001a2e3b3d17fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/13-16.1792481095424.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "RYTUOSE"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "šlovinkite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "salose"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūrų"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:55.425900572Z",
+  "model": "glm-5.3"
+}

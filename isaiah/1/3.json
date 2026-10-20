@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "brūkšnys prie ėdžias",
+      "rationale": "Hebrajiškas asilo sakinys neturi veiksmažodžio — jis paveldimas iš jaučio dalies."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע ... ידע",
+      "rationale": "Žodžio „pažinti“ kartojimas kontrastuoja gyvulio pažinimą ir Jisraelio nepažinimą."
+    }
+  ],
+  "translation": "Jautis pažįsta savo šeimininką, o asilas — savo šeimininkė ėdžias; Jisraelis nepažino, mano tauta nesuprato.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/1-4.1792480590881.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "pažįsta"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jautis"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "savo šeimininką"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "o asilas"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ėdžias"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "savo šeimininko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "suprato"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:30.884617053Z",
+  "model": "glm-5.3"
+}

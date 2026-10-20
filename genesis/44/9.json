@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tebūnie ⟨jis⟩ miręs",
+      "rationale": "Hebrew ומת is a bare jussive 'and let him die'; the pronoun and optative form are supplied in Lithuanian"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Preposition 'with him' absorbed into 'su kuriuo'; kept only as marker"
+    }
+  ],
+  "translation": "Su kuriuo iš tavo tarnų ⟨tai⟩ bus rasta, tebūnie ⟨jis⟩ miręs, ir taip pat mes tapsime tavo pono vergais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/44\/9-12.1792471908576.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "su kuriuo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bus rasta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "iš tavo tarnų"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "tebūnie miręs"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tapsime"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "tavo ponui"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "vergais"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:48.578722091Z",
+  "model": "glm-5.3"
+}

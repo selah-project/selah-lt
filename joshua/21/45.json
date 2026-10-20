@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר\/דבר",
+      "rationale": "Žodis 'žodis' kartojamas tris kartus — nukrito žodis iš žodžių, kuriuos Jisraeliui kalbėjo — kalbų žaismas lietuviškai iš dalies išlieka."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפל דבר",
+      "rationale": "Pažodžiui 'nukrito žodis' — hebrajiškas idiomatas 'nutiko', čia neigiamai: 'nė vienas žodis nenukrito', t. y. nė vienas pažadas neišpirko."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja būtojo laiko veiksmažodžio formos, hebrajiškas wayyiqtol neturi pagalbinio veiksmažodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בא → išsipildė",
+      "rationale": "Pažodžiui 'atėjo' — visa 'atėjo', t. y. išsipildė; lietuviškai 'viskas atėjo' skambėtų keistai."
+    }
+  ],
+  "translation": "Nenukrito nė vienas žodis iš visų gerųjų žodžių, kuriuos Jahvė buvo kalbėjęs Jisraelio namams — viskas išsipildė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5148a3fb9e6d8a56047b5597e3c76c388f6d602d3641df5f8ae005d37aeaac99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/45-45.1792476141717.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nė vienas ne-"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nukrito"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gerųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "išsipildė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:21.719208948Z",
+  "model": "glm-5.3"
+}

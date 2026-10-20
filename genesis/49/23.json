@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 49:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strėlių valdovai",
+      "rationale": "בעלי חצים pažodžiui „strėlių šeimininkai”, paprastai verčiama „lankininkai” — vaidmuo vietoj paveikslo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורבו",
+      "rationale": "šaknis רבה čia „šaudyti strėle” (kaip BSB, JPS), ne „daugintis” — reta reikšmė"
+    }
+  ],
+  "translation": "Ir jį kartino, ir šovė į jį, ir persekiojo jį strėlių valdovai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/21-24.1792472087350.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימררהו",
+      "gloss": "ir jį kartino"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ir šovė į jį"
+    },
+    {
+      "surface": "וישטמהו",
+      "gloss": "ir persekiojo jį"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "valdovai"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "strėlių"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:47.354431028Z",
+  "model": "glm-5.3"
+}

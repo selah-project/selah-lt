@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 6:4",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškas sakinyje nėra sakinio — lietuvių kalbai reikia"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עפלי",
+      "rationale": "עֹפֶL navikai — vaisingumo aukos forma, tik čia ir 6,5"
+    },
+    {
+      "kind": "substitution",
+      "subject": "serenai",
+      "rationale": "סרן — pelištų valdovų titulas, paliktas pagal skambesį, ne „kunigaikščiai“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "penki ir penki",
+      "rationale": "aukų skaičius susietas su serenų skaičiumi"
+    }
+  ],
+  "translation": "Ir jie tarė: Kokia ⟨yra⟩ kaltės auka, kurią atgrąžinsime jam? Ir jie tarė: Pagal pelištų serenų skaičių — penki aukso navikai ir penkios aukso pelės, nes vienas maras visiems jums ir jūsų serenams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/1-4.1792477117076.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir jie tarė"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kokia"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kaltės auka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "atgrąžinsime"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir jie tarė"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "Pagal skaičių"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "serenų"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištų"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "penki"
+    },
+    {
+      "surface": "עפלי",
+      "gloss": "aukso navikai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ir penkios"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "pelės"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "maras"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "visiems jums"
+    },
+    {
+      "surface": "ולסרניכם",
+      "gloss": "ir jūsų serenams"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:37.077548254Z",
+  "model": "glm-5.3"
+}

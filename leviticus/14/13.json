@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti'; lietuvių kalbai jo reikia du kartus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Pakartota ta pati šaknis — šventumas-švenčiausiųjų; hebrajiškas superlatyvas kartojant žodį"
+    },
+    {
+      "kind": "measurement",
+      "subject": "aukų vieta",
+      "rationale": "Eilutė nurodo tikslią skerdyimo vietą šventovėje"
+    }
+  ],
+  "translation": "Ir skers ⟨את⟩ avinėlį vietoje, kur skerdiama ⟨את⟩ auka už nuodėmę ir ⟨את⟩ deginamoji auka — šventoje vietoje; nes kaip nuodėmės auka, taip kaltės auka ⟨yra⟩ kunigo: šventumas švenčiausiųjų ⟨yra⟩ ji.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/13-16.1792473416592.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ir skers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "avinėlį"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "avinėlį"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "skerdiama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auką už nuodėmę"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "auka už nuodėmę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deginamąją auką"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kaip nuodėmės auka"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kaltės auka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventumas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "švenčiausiųjų"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:56.593450247Z",
+  "model": "glm-5.3"
+}

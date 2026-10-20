@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלאבות",
+      "rationale": "תַּלְאוּבָה — labai retas žodis, iš šaknies לוא (pavargti, alpti): žemė, kurioje alinama nuo troškulio."
+    },
+    {
+      "kind": "crux",
+      "subject": "I did know thee",
+      "rationale": "Hebrajų veiksmažodis yra būtasis laikas — 'pažinau' kaip praeities veiksmas, ne būsimasis."
+    }
+  ],
+  "translation": "Aš pažinau tave dykumoje, žemėje troškulio-išdžiūvimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/13\/5-8.1792486366474.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "pažinau tave"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "troškulio-išdžiūvimo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:52:46.475447866Z",
+  "model": "glm-5.3"
+}

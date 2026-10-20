@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra (—)",
+      "rationale": "Lietuvių kalbai reikia brūkšnio\/kopulos; hebrajų jos nėra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed ir emet",
+      "rationale": "חֶסֶד ir אֱמֶת palikti transliteruoti pagal D2 — atskirais žodžiais prarastų bendrą poros reikšmę"
+    },
+    {
+      "kind": "elision",
+      "subject": "ארחות",
+      "rationale": "„Nūgriesta“ keliai \/ takai — vienas žodis „keliai“ be vaizdo apie išmintą taką"
+    }
+  ],
+  "translation": "Visi Jahvės keliai — chesed ir emet, tiems, kurie saugojo jo sandorą ir jo įstatymus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/25\/9-12.1792487707267.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visi"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "keliai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ir emet"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "tiems, kurie saugojo"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "jo sandorą"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ir jo įstatymus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:07.268422910Z",
+  "model": "glm-5.3"
+}

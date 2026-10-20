@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "'kiekvienas' — hebrajiškai 'vyras', distributedinis vartojimas"
+    }
+  ],
+  "translation": "Ir metė kiekvienas savo lazdą, ir jos tapo taninais; ir Aharono lazda prarijo ⟨את⟩ jų lazdas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "440d8810d66616f0523e7635f5744b5f74d16e8f06b98e963eec1dcf5616f8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/9-12.1792472229924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Ir metė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "savo lazdą"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninais"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ir prarijo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lazda"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų lazdas"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "jų lazdas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:09.927369638Z",
+  "model": "glm-5.3"
+}

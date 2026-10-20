@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יִשָּׂא",
+      "rationale": "'pakels' be daiktavardžio — balsas pridėtas iš konteksto, hebrajiškai tik 'pakels'"
+    }
+  ],
+  "translation": "Jis nešauks ir nekalbės garsiai, ir neprivers girdėti lauke savo balso.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/42\/1-4.1792481534230.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "šauks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nekalbės garsiai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "neprivers girdėti"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "savo balso"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:14.232216465Z",
+  "model": "glm-5.3"
+}

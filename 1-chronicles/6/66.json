@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "veiksmažodis",
+      "rationale": "Eilutė tęsia 65 eilutės sakinį — veiksmažodis 'davė' tik hebrajų kontekste, lietuvių pratęsia be jo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "miestų sąrašas",
+      "rationale": "Dalybos sąrašas tęsiasi — vardų ir teritorijų skaičiavimas"
+    }
+  ],
+  "translation": "ir ⟨את⟩ Chešboną ir ⟨את⟩ jos ganyklas, ir ⟨את⟩ Jaazerį ir ⟨את⟩ jos ganyklas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "572d7e694a51a1fb8c8cfb2c640e722b221575997c06d9ea7eabde234e9a0472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/6\/65-66.1792492734767.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Chešboną"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chešboną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jos ganyklas"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "jos ganyklas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Jaazerį"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Jaazerį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jos ganyklas"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "jos ganyklas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:38:54.768493422Z",
+  "model": "glm-5.3"
+}

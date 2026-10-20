@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחל הגד",
+      "rationale": "KJV 'upelis Gado' vs kiti 'vadė (slėnis) Gado' — nachal gali būti ir žiemos upelis, ir slėnis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census route",
+      "rationale": "Eilutė aprašo surašymo maršrutą — judėjimas pagal vietas."
+    }
+  ],
+  "translation": "Ir jie perėjo ⟨את⟩ Jordaną ir stovyklavo ties Aroeru, į dešinę nuo miesto, kuris yra vadės-Gado viduryje, ir iki Jazerio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/5-8.1792478709924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ir jie perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaną"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaną"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ir stovyklavo"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ties Aroeru"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "į dešinę"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "nuo miesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vadės"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gado"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir iki"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazerio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:09.925960714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "צָרַר 'surišti, apvynioti' — ne 'uola' (צוּר); balsiai skiria, pratęsta uolos tema eil. 14 gundytų versti kitaip."
+    },
+    {
+      "kind": "secret",
+      "subject": "užantspauduota Tora",
+      "rationale": "Antspaudas — paslapties ženklas: tekstas uždaromas tik mokiniams, kol neatėjo laikas."
+    }
+  ],
+  "translation": "Surišk liudijimą, užantspauduok Torą mano mokiniams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/13-16.1792480647643.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "surišk"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "liudijimą"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "užantspauduok"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torą"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "mano mokiniams"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:27.645410565Z",
+  "model": "glm-5.3"
+}

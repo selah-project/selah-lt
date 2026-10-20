@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ועל",
+      "rationale": "'ir ant' žemės — lietuviškai 'žemėje' sugeria prielinksnį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pamokytų",
+      "rationale": "ליסר — ir bausti, ir mokyti; 'pamokyti' laiko abu atspalvius"
+    }
+  ],
+  "translation": "Iš dangaus jis privertė tave girdėti ⟨את⟩ jo balsą, kad tave pamokytų, ir žemėje jis parodė tau ⟨את⟩ jo didžiąją ugnį, ir jo žodžius tu girdėjai iš vidurio ugnies.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/4\/33-36.1792474987441.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "privertė tave girdėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo balsą"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "jo balsą"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "kad tave pamokytų"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "parodė tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo didžiąją ugnį"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "jo ugnį"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "didžiąją"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ir jo žodžius"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tu girdėjai"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ugnies"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:07.457747798Z",
+  "model": "glm-5.3"
+}

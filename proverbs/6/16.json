@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "šešis \/ septynis",
+      "rationale": "hebrajų 'šešias — taip, septynias' skaičiavimo formulė, pakylanti laipsnė"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נַפְשׁוֹ",
+      "rationale": "nefesh — ne 'siela' platoniškai, o gyvybės jėga; paliktas 'nefesas'"
+    }
+  ],
+  "translation": "Šešis dalykus nekenčia Jahvė, o septynis bjauri jo nefesas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "338fb5966275f100afab75125c5f7f6a09d557dced00fefb7507f391693bf6cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/6\/13-16.1792489516205.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שֵׁשׁ",
+      "gloss": "šešis"
+    },
+    {
+      "surface": "הֵנָּה",
+      "gloss": "dalykus"
+    },
+    {
+      "surface": "שָׂנֵא",
+      "gloss": "nekenčia"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "וְשֶׁבַע",
+      "gloss": "o septynis"
+    },
+    {
+      "surface": "תוֹעֵבוֹת",
+      "gloss": "bjauri"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "jo nefesas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:45:16.206706945Z",
+  "model": "glm-5.3"
+}

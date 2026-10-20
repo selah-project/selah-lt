@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elio sūnums",
+      "rationale": "tiesioginis kreipimasis 'mano sūnūs' — pamokomas draudimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעברים",
+      "rationale": "'perleidžiantys\/nukreipiantys' nuo עבר 'pereiti' — tradiciškai 'verčiate nusidėti' (KJV) prieš 'sklinda tarp' (JPS); hebrajiškas paveikslas — perėjimas už ribos."
+    }
+  ],
+  "translation": "Ne, mano sūnūs, nes gandas, kurį aš girdžiu, nėra geras — jūs verčiate nusidėti Jahvės tautą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/21-24.1792476960450.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnūs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "geras"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "gandas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "girdžiu"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "jūs verčiate nusidėti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:00.451431979Z",
+  "model": "glm-5.3"
+}

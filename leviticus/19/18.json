@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajiškai veiksmažodis „būti” praleistas — „aš Jahvė”"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקם\/נטר",
+      "rationale": "Du skirtingi veiksmažodžiai apie pyktį — kerštas ir puoselėjamas pyktis — lietuviškai išskirti į du žodžius"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Tiesioginis įsakymas adresuotas Izraelio bendruomenei"
+    }
+  ],
+  "translation": "Ne kersti ir ne laikyti pykčio ⟨את⟩ tavo tautos vaikų atžvilgiu, ir mylėsi savo artimą kaip save patį — aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bd0c7cabe97962e459952db75d1016ea56aab1260b8853c57bd824ac16e2dfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/18-20.1792485324797.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "kersti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "laikyti pykčio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo tautos vaikų"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavo tautos"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "ir mylėsi"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "savo artimą"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaip save patį"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:35:24.798630676Z",
+  "model": "glm-5.3"
+}

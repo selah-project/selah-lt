@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta ⟨buvo⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מטה",
+      "rationale": "'Giminė' — מטה pažodžiui 'šaka, lazda', perkelta reikšmė 'gentis'."
+    }
+  ],
+  "translation": "Ir virš pulko Jisakaro sūnų gimines ⟨buvo⟩ Netanelis, Cūaro sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/10\/13-16.1792474098489.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ir virš"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "pulko"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gimines"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jisakaro"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanelis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cūaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:18.491072382Z",
+  "model": "glm-5.3"
+}

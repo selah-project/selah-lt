@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 45:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Pridėta sąsaja tarp 'jis' ir 'Elohim' — hebrajų kalba jos neturi"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהו",
+      "rationale": "Tas pats žodis kaip Pr 1, 2 — 'tuštuma\/chaosas'; čia 'ne tuščią sukūrė' nusako žemės paskirtį gyventi, ne bergždžią kūrimą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kito nėra",
+      "rationale": "עוד — 'nieko kito nebe-yra': vienetalio skelbimas, Tanacho monoteizmo centras"
+    }
+  ],
+  "translation": "Nes taip sako Jahvė, dangaus kūrėjas — jis ⟨yra⟩ Elohim, žemės formuotojas ir jos padarytojas, jis ją įtvirtino; ne tuščią jis sukūrė ⟨ją⟩, kad gyvenama būtų, jis ją suformavo: aš — Jahvė, ir kito nėra.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "14b14985e7217244347027751991e16b06f2ef0b41cfb5c9311d74c8bec6e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/45\/17-20.1792481668551.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "kūrėjas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "formuotojas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir padarytojas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": " ją įtvirtino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuščią"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "sukūrė ⟨ją⟩"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kad gyvenama būtų"
+    },
+    {
+      "surface": "יצרה",
+      "gloss": "suformavo ⟨ją⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kito"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:28.552001047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su",
+      "rationale": "את prieš tėvų vardus čia prielinksnis 'su', ne veiksnio žymeklis; lietuviui reikia žodžio 'su', jis pridėtas šalia ⟨את⟩ ženklo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישמע\/ויזכר",
+      "rationale": "du veiksmažodžiai su tuo pačiu priešdėliu ir struktūra — paralelinis Elohim išgirdo \/ Elohim atsiminė"
+    }
+  ],
+  "translation": "Ir Elohim išgirdo ⟨את⟩ jų dejones, ir Elohim atsiminė ⟨את⟩ savo sandorą — ⟨את⟩ su Avrahamu, ⟨את⟩ su Jicchaku ir ⟨את⟩ su Jaakovu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/21-24.1792472151075.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "išgirdo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų dejones"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "jų dejones"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "atsiminė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sandorą"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su Avrahamu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su Jicchaku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "su Jaakovu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:51.078309716Z",
+  "model": "glm-5.3"
+}

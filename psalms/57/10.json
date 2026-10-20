@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בל־אמים",
+      "rationale": "בל reiškia 'niekas\/ne', bet בל־לאום yra posakis 'tarp tautų'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים \/ לאום",
+      "rationale": "du skirtingi žodžiai 'tautai' vienoje eilutėje — parallėlinis žodžių žaismas"
+    }
+  ],
+  "translation": "Aš dėkosiu tau tautų tarpe, Adonai, giedosiu tau ⟨tarp⟩ tautų minios.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/57\/9-12.1792488102809.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aš dėkosiu tau"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "tautų tarpe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "giedosiu tau"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨tarp⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "tautų minios"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:42.810452757Z",
+  "model": "glm-5.3"
+}

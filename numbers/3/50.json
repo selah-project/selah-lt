@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajų kalboje veiksnys numanomas iš veiksmažodžio formos; lietuvių kalbai reikia įvardžio."
+    },
+    {
+      "kind": "measurement",
+      "subject": "1365 šekeliai",
+      "rationale": "Tikslus išpirkimo sidabro skaičiavimas pagal šventąjį šekelį."
+    }
+  ],
+  "translation": "Iš ⟨את⟩ Jisraelio vaikų pirmagimių jis paėmė ⟨את⟩ sidabrą — tūkstantį tris šimtus šešiasdešimt penkis šekelius pagal šventąjį šekelį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb4a102b2ff5adce76a5147be0262aabb9346578e3ad8b592b57124e3db6c1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/49-51.1792473869572.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "jis paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sidabrą"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "penkis"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "šešiasdešimt"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ir tris"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ir tūkstantį"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "pagal šekelį"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventąjį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:29.574598062Z",
+  "model": "glm-5.3"
+}

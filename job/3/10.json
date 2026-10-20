@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ji⟩",
+      "rationale": "Veiksnys 'naktis' iš 3,7 numanomas, hebrajų rašo tik veiksmažodžius."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vargas",
+      "rationale": "עמל — 'varginantis triūsas, nuovargis', ne tik 'sielvartas'."
+    }
+  ],
+  "translation": "Nes ⟨ji⟩ neuždarė mano įsčių durų ir nepadengė vargo nuo mano akių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/3\/9-12.1792490042926.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "uždarė"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "durų"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mano įsčių"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ir nepadengė"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vargo"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nuo mano akių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:54:02.926846494Z",
+  "model": "glm-5.3"
+}

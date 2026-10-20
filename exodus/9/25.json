@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio „būti“ — „viskas, kas buvo lauke“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהמה",
+      "rationale": "daugiskaitinė kolektyvinė reikšmė — „gyvuliai“"
+    }
+  ],
+  "translation": "Ir kruša išmušė visoje Micraimo žemėje ⟨את⟩ visa, kas ⟨buvo⟩ lauke, nuo žmogaus iki gyvulių; ir ⟨את⟩ visą lauko žolę kruša išmušė, ir ⟨את⟩ visus lauko medžius sulaužė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/25-28.1792472338498.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "išmušė"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kruša"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa, kas lauke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nuo žmogaus"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyvulių"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą lauko žolę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "žolę"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "išmušė"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kruša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus lauko medžius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medžius"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sulaužė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:58:58.500277155Z",
+  "model": "glm-5.3"
+}

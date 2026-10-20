@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "eilių numeracija",
+      "rationale": "MT 9,1 = kriskijos 8,23; angliškos versijos čia stato 'ašarų fontano' eilutę, kuri hebrajų Tanache stovi kaip ankstesnė eilutė."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאתם",
+      "rationale": "ם+את čia prielinksnis 'nuo jų', ne objekto žymeklis — bet ⟨את⟩ išlaikomas pagal taisyklę."
+    }
+  ],
+  "translation": "Kas duotų man dykumoje užeigą keliauninkams, ir aš palikčiau ⟨את⟩ savo tautą ir eičiau ⟨את⟩ nuo jų! Nes visi jie svetimautojai, sueigos išdavikų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/9\/1-4.1792482460115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "duotų man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "užeiga"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "keliauninkams"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "ir palikčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tautą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ir eičiau"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "nuo jų ⟨את⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi jie"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "svetimautojai"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "sueiga"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "išdavikų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:40.116705222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra žodžio 'yra' — tai daviko vardas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחוח",
+      "rationale": "iš šaknies נוח 'pailsėti, raminti' — kvapas, kuris suteikia ramybę; tai prarandama 'maloniu kvapu'"
+    }
+  ],
+  "translation": "Ir paimsi ⟨את⟩ juos iš jų rankų ir smelsi ant aukuro, ant deginamosios aukos, kaip raminantį kvapą Jahvės akivaizdoje — tai ugnies auka ⟨yra⟩ Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9a0dcdcfa7d8f4c0e420bc6707e78b725386be5882908c6fc59138b82d7ecad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/25-28.1792472872153.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ir paimsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "אתם → juos"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iš jų rankų"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ir smelsi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamosios aukos"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kaip kvapą"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "raminantį"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies auka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai ⟨yra⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:52.157231897Z",
+  "model": "glm-5.3"
+}

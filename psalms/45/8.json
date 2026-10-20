@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim, Eloheikha",
+      "rationale": "'patepė tave Elohim, tavo Elohim' — karalius kreipiamas elohim vardu 45,7; čia du atskiri adresatai tekste patys savyje."
+    },
+    {
+      "kind": "idiom",
+      "subject": "aliejumi daugiau už tavo bendrus",
+      "rationale": "Hebrajas sako 'džiaugsmo aliejumi — [daugiau] už tavo bendrus'; palyginimas pridedamas, nes taip reiškiama savybės eilės prabanga."
+    }
+  ],
+  "translation": "Tu mylėjai cedeką ir nekentei nedorybės; todėl patepė tave Elohim, tavo Elohim, džiaugsmo aliejumi daugiau už tavo bendrus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/45\/5-8.1792488055684.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "tu mylėjai"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeką"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ir nekentei"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorybės"
+    },
+    {
+      "surface": "על",
+      "gloss": "todėl ⟨dėl⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "šito"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "patepė tave"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejumi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "džiaugsmo"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "daugiau už tavo bendrus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:55.685256430Z",
+  "model": "glm-5.3"
+}

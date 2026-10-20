@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunigaikščius",
+      "rationale": "נסיך pažodžiui 'paliestas', t. y. pateptasis\/pakeltasis valdovas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב \/ זאב",
+      "rationale": "Midjano vadų vardai Oreb ('varnas') ir Zeeb ('vilkas') — gyvūnų reikšmė lietuviškame skambesyje nesigirdi"
+    },
+    {
+      "kind": "you",
+      "subject": "imperatyvas Elohim",
+      "rationale": "malda kreipiasi į Dievą reikalaujant teismo"
+    }
+  ],
+  "translation": "Paversk jų didikūnus kaip Orebą ir kaip Zeebą, ir kaip Zebachą ir kaip Calmuną — visus jų kunigaikščius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/83\/9-12.1792488510206.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Paversk"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "jų didikūnus"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "kaip Orebą"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ir kaip Zeebą"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ir kaip Zebachą"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ir kaip Calmuną"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "jų kunigaikščius"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:30.207170378Z",
+  "model": "glm-5.3"
+}

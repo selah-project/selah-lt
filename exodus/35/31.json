@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis reiškia dvasią, vėją ir kvapą."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ir visu darbu",
+      "rationale": "מלאכה gali reikšti ir 'gebėjimu visuose darbuose' — darbas čia kaip įgūdžio sritis."
+    }
+  ],
+  "translation": "Ir jį pripildė Elohim ruach — išmintimi, supratimu, žinojimu ir visu darbu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7c83903024cab554308cc179f179f25f5972054605fd971fdc545b5c08ce99fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/29-32.1792473000039.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ir pripildė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "išmintimi"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "supratimu"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "žinojimu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ir visu"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:00.044481795Z",
+  "model": "glm-5.3"
+}

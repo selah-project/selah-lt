@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "Begis ir veiksmažodis iš tos pačios šaknies — 'tikrai bus rasta', stiprinimo figūra."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנים",
+      "rationale": "Nustatomas dvigubas atlygis — teisinio skaičiavimo taisyklė."
+    }
+  ],
+  "translation": "Jei tikrai bus rasta vogta jo rankoje — nuo jaučio iki asilo iki avies — gyva, dvigubai jis atlygins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/1-4.1792472702373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bus rasta"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "vogta"
+    },
+    {
+      "surface": "משור",
+      "gloss": "nuo jaučio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asilo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שה",
+      "gloss": "avies"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvigubai"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlygins"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:02.376090307Z",
+  "model": "glm-5.3"
+}

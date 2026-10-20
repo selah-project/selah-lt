@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Jis⟩",
+      "rationale": "Hebrajų kalba veiksnio neturi — veiksmas priskiriamas Jahvei, lietuvių kalbai reikia įvardžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשף",
+      "rationale": "„Sutemos” arba „vakaro vėsus metas” — priklausomybės metas; KJV „naktis mano malonumų” platina prasme."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחרדה",
+      "rationale": "חרדה — drebulys, virpėjimas iš baimės, ne abstrakti „baimė”."
+    }
+  ],
+  "translation": "Klydo mano širdis, siaubas mane ištiko; ⟨את⟩ sutemas, kurias geidžiau, ⟨Jis⟩ pavertė man į virpėjimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/21\/1-4.1792480984547.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Klydo"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mano širdis"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "siaubas"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mane ištiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutemas"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "sutemas"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "kurias geidžiau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pavertė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "į virpėjimą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:04.548522402Z",
+  "model": "glm-5.3"
+}

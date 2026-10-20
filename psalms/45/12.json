@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Su כי prieš daiktavardį trūksta predikato — lietuvių kalbai reikia kopulos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "puosk",
+      "rationale": "Hebrajų kalba – חוה – parpuldamas pagarbinti, ne tik garbinti kaip Dievą."
+    }
+  ],
+  "translation": "Ir karalius geis tavo grožio, nes jis ⟨yra⟩ tavo ponas — ir puosk prieš jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/45\/9-12.1792487988992.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Ir geis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "tavo grožio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavo ponas"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "ir puosk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "prieš jį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:48.993757061Z",
+  "model": "glm-5.3"
+}

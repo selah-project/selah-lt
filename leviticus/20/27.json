@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "obas \/ jidonis",
+      "rationale": "אוב ir ידעני — mirusiųjų dvasių iššaukėjas arba 'žinantisis': 'ragana', 'būrėjas', 'medium' tradicijose; čia palikti pagal hebrajišką skambesį"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומתו",
+      "rationale": "infinitivus absolutus — pažodžiui 'mirtimi bus numarintas', stiprintinas sakinys"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jų kraujas ant jų",
+      "rationale": "hebrajiškas teisinis posakis: kaltė tenka patiems nuteistiesiems, ne vykdytojams"
+    }
+  ],
+  "translation": "Ir vyras arba moteris, jei juose bus obas arba jidonis — mirtimi jie bus užmušti; akmenimis jie ⟨את⟩ juos užmes, jų kraujas tebūna ant jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab5c9978c9840676ef420c5bc80808346c1b3046aca1e1fb570ee844d2c773f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/25-27.1792473577422.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyras"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "obas"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "jidonis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "jie bus užmušti"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "akmenimis"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "jie užmes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "jų kraujas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ant jų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:37.431766150Z",
+  "model": "glm-5.3"
+}

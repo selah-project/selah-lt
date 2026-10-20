@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 35:3",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aš einu⟩",
+      "rationale": "Hebrajiškas הנני אליך — „štai aš prieš tave“; veiksmažodis pridėtas lietuviškos sintaksės."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונטיתי",
+      "rationale": "Perfektas „ištiesiau“ (pranašiškas — tarsi jau įvykę) prieš būsimąjį „ištiesiu“; verčiant perfektu išlaikoma hebrajų laiko forma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה \/ משמה",
+      "rationale": "Tos pačios šaknies dvyniai — „dykuma ir nuostaba“; lietuviškai gretinimas „dykuma ir lanke“ šį žaismą iš dalies praranda."
+    }
+  ],
+  "translation": "ir sakyk jam: Taip sako Adonai Jahvė: Štai ⟨aš einu⟩ prieš tave, kalne Seire, ir ištiesiau savo ranką prieš tave, ir padarysiu tave dykuma ir lanke.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72bc6f7774b1768ce2b71954eec6fc4427a6b874ff2fb533139fa3e12f9b3ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/35\/1-4.1792485839373.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakyk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Štai aš"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seire"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "ir ištiesiau"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ir padarysiu tave"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "ir lanke"
+    }
+  ],
+  "timestamp": "2026-10-20T08:43:59.375705482Z",
+  "model": "glm-5.3"
+}

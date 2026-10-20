@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vyriausiojo",
+      "rationale": "הראש pažodžiui 'galva'; 'vyriausiasis' pridėta, kad būtų aišku, jog kalbama apie vyriausiąjį kunigą"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogija",
+      "rationale": "Kunigų genealogijos sąrašas — vardų skaičiavimas iki Aharono"
+    }
+  ],
+  "translation": "Avišuos sūnus, Pinechaso sūnus, Elazaro sūnus, Aharono, kunigo, ⟨vyriausiojo⟩ sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bdae3b3f200ca3f23da91a5718519244ba6e8b3b31964457885a3354297c318b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/7\/5-8.1792492136350.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avišua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechasas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazaras"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galva"
+    }
+  ],
+  "timestamp": "2026-10-20T10:28:56.350977007Z",
+  "model": "glm-5.3"
+}

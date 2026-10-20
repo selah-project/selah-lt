@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 48:33",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būdinio veiksmažodžio; lietuvių reikalauja ⟨buvo⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "hedad",
+      "rationale": "הידד — vyno spaudų trepsėtojų šūksnis; transkribuojama, nes vienas lietuviškas žodis jo nepakeičia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הידד הידד לא הידד",
+      "rationale": "Trigubas hedad kartojimas — šūksnis pats save panaikina; dėmesio smaigalys lieka žodyje"
+    }
+  ],
+  "translation": "Ir pašalinta ⟨buvo⟩ džiaugsmas ir linksmybė iš karmo-lauko ir iš Moabo krašto, ir vyną iš vyno spaudų aš padariau liautis — netrepsės su hedad, hedad yra ne hedad.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "57163ed55904db948701e9c08562a34c4d7d8b336cf9da856f1f11600a5523d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/48\/33-36.1792483646558.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאספה",
+      "gloss": "ir pašalinta"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "džiaugsmas"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ir linksmybė"
+    },
+    {
+      "surface": "מכרמל",
+      "gloss": "iš karmo-lauko"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ir iš krašto"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vyną"
+    },
+    {
+      "surface": "מיקבים",
+      "gloss": "iš vyno spaudų"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "aš padariau liautis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "trepsės"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "hedad"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "hedad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "hedad"
+    }
+  ],
+  "timestamp": "2026-10-20T08:07:26.559298986Z",
+  "model": "glm-5.3"
+}

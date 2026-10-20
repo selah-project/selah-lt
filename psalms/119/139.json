@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמתתני קנאתי",
+      "rationale": "Pažodžiui „išnaikino mane mano priešybė\/įnoris“ — veiksnys po žodžio tvarkos keičia reikšmę."
+    },
+    {
+      "kind": "addition",
+      "subject": "mano priešai",
+      "rationale": "צרי — galininkas, priklauso „užmiršo“; „mano“ pridėta iš konteksto."
+    }
+  ],
+  "translation": "Mano įnoris išnaikino mane, nes mano priešai užmiršo tavo žodžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/137-140.1792489132725.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "išnaikino mane"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "mano įnoris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "užmiršo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodžius"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mano priešai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:52.726678354Z",
+  "model": "glm-5.3"
+}

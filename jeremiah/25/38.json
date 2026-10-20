@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 25:38",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היונה",
+      "rationale": "šaknis ינה 'smurtyti, spausti' — verčiantys skiriasi: 'priespaudos kardas' (KJV\/BRG pridėta 'kardas'), 'priespauda', 'engėjas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kardas",
+      "rationale": "kai kurie vertimai (KJV, JPS, BSB) prideda 'kardą', kurio hebrajų tekste nėra"
+    },
+    {
+      "kind": "elision",
+      "subject": "kardas",
+      "rationale": "hebrajiškas žodis 'kardas' šioje eilutėje visai neegzistuoja — vėlesnis priedas iš lygiagrečių vietų"
+    }
+  ],
+  "translation": "Paliko kaip liūtas savo guolį, nes jų žemė tapo dykuma nuo veido spaudėjo įniršio ir nuo veido degančio jo nosies įniršio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "160da9b1dd82edf5f41f7dfbe9b1bb232fa0233d58da4cfeb1e45081d8f19a2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/25\/37-38.1792482782052.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזב",
+      "gloss": "Paliko"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kaip liūtas"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "savo guolį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tapo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jų žemė"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo veido"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "įniršio"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "spaudėjo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ir nuo veido"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "degančio"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jo nosies įniršio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:53:02.053644705Z",
+  "model": "glm-5.3"
+}

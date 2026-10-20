@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 2:5",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Aramėjų tekstas neturi saistomojo veiksmažodžio prie 'tvirtas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tvirtas",
+      "rationale": "מני אזדא: KJV 'žodis iš manęs išėjęs' vs JPS 'dalykas man ⟨yra⟩ tikras' — tas pats אזדא v. 8"
+    },
+    {
+      "kind": "crux",
+      "subject": "mėšlidės",
+      "rationale": "נולי: 'mėšlynas' (KJV) vs 'griuvėsiai' (BSB) — žodis be aiškios atramos"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נולי",
+      "rationale": "Šis žodis Tanache tik čia (Dn 2,5 ir 3,29 pakartojimas)"
+    },
+    {
+      "kind": "you",
+      "subject": "kaldejams",
+      "rationale": "Karaliaus kreipimasis su grėsime į rūmų išminčius"
+    }
+  ],
+  "translation": "Karalius atsakė ir tarė kaldejams: Žodis iš manęs ⟨yra⟩ tvirtas; jeigu neprasitarsite man apie sapną ir jo aiškinimą, būsite sukapoti į gabalus, ir jūsų namai pavirs mėšlidėmis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f20e130a4467a6cf9592437df0b42b74f867c1be3ab4cb81160cfee1acebdb4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/2\/5-8.1792491551944.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "atsakė"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לכשדיא",
+      "gloss": "kaldejams"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iš manęs"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "tvirtas"
+    },
+    {
+      "surface": "הן",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהודעונני",
+      "gloss": "prasitarsite man"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "apie sapną"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ir jo aiškinimą"
+    },
+    {
+      "surface": "הדמין",
+      "gloss": "į gabalus"
+    },
+    {
+      "surface": "תתעבדון",
+      "gloss": "būsite sukapoti"
+    },
+    {
+      "surface": "ובתיכון",
+      "gloss": "ir jūsų namai"
+    },
+    {
+      "surface": "נולי",
+      "gloss": "mėšlidėmis"
+    },
+    {
+      "surface": "יתשמון",
+      "gloss": "pavirs"
+    }
+  ],
+  "timestamp": "2026-10-20T10:19:11.945079983Z",
+  "model": "glm-5.3"
+}

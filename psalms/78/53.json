@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uždengė",
+      "rationale": "כסה čia 'uždengti\/apsemti' — jūra padengia priešus kaip dangalas, ne kaip bangos mūša"
+    }
+  ],
+  "translation": "Ir jis vedė juos į saugumą, ir jie nebijojo, o ⟨את⟩ jų priešus uždengė jūra.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/53-56.1792488501723.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ir jis vedė"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "į saugumą"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "jie bijojo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "jų priešus"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "jų priešus"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "uždengė"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūra"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:21.724156822Z",
+  "model": "glm-5.3"
+}

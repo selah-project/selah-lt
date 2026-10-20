@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajų kalba neturi veiksnio — pridėtas įvardis, kad būtų aišku, jog prieglauda yra Jahvės baimė."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ir jo vaikams",
+      "rationale": "לבניו gali reikšti ir „tuo, kuris jo bijo, vaikams“ — prieglausa perkeliamas vaikams, ne pačiam baimingajam."
+    }
+  ],
+  "translation": "Jahvės baimėje — stiprus pasitikėjimas, ir jo vaikams ⟨tai⟩ bus prieglauda.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/14\/25-28.1792489685313.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "baimėje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "pasitikėjimas"
+    },
+    {
+      "surface": "עז",
+      "gloss": "stiprus"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ir jo vaikams"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "prieglauda"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:05.314057349Z",
+  "model": "glm-5.3"
+}

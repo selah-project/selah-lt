@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio „būti“ šioje vietoje"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Prielinksnis מן su את; ⟨את⟩ žymuo išlaikytas, prielinksnis sulietas su „nuo“"
+    }
+  ],
+  "translation": "Ir atsitiko tame metu, kad Jehuda nužengė nuo ⟨את⟩ savo brolių ir pasuko pas vieną adulamietį, kurio vardas ⟨buvo⟩ Chira.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/38\/1-4.1792471818934.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tame metu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tame"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nužengė"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nuo ⟨את⟩",
+      "marks": "savo brolių"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo brolių"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "pasuko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vieną vyrą"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "adulamietį"
+    },
+    {
+      "surface": "וימו",
+      "gloss": "ir jo vardas"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Chira"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:18.936844191Z",
+  "model": "glm-5.3"
+}

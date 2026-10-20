@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — kvėpuojanti, gyvybės jėga, ne tik „siela“; čia — visas gyvas žmogus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/צדיק\/רשע",
+      "rationale": "Chiazminė pora: teisiojo cedekas — nedorėlio nedorybė, abu „ant jo bus“."
+    }
+  ],
+  "translation": "Siela, kuri nusideda, — ji mirs; sūnus nešios ne tėvo kaltę, ir tėvas nešios ne sūnaus kaltę; teisiojo cedekas ant jo bus, ir nedorėlio nedorybė ant jo bus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "232cbe3ceef49ca29e8b504d890b04cfa52afe3e4c527724e67900d6ca7ab412",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/18\/17-20.1792484297326.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "Siela"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kuri nusideda"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nešios"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "kaltę"
+    },
+    {
+      "surface": "האב",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "ir tėvas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nešios"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "kaltę"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "cedekas"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "teisiojo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "ir nedorybė"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėlio"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    }
+  ],
+  "timestamp": "2026-10-20T08:18:17.327575524Z",
+  "model": "glm-5.3"
+}

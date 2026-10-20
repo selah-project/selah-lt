@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 31:51",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aš pastačiau",
+      "rationale": "יריתי iš ירה 'sviesti, mesti' — Akadykų įpiliuose 'pastatyti stelą'; pažodžiui 'aš sviedžiau' būtų klaidinantis."
+    },
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "Demostratyvas 'šis' kartojasi prie kiekvieno daikto; vienas 'štai šis' perteikia abu."
+    }
+  ],
+  "translation": "Ir Labanas tarė Jaakovui: Štai šis pylimas ir štai stela, kurią aš pastačiau tarp savęs ir tavęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/49-52.1792471661553.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanas"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "šis pylimas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "stela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "יריתי",
+      "gloss": "aš pastačiau"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp savęs"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ir tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:41.556261747Z",
+  "model": "glm-5.3"
+}

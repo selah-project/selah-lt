@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 6:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šimtas trisdešimt septyneri metai",
+      "rationale": "Levo gyvenimo metų skaičiavimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškai sietuvas nepatvirtintas, pridėtas lietuviškas ⟨yra⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "ושני…שנה",
+      "rationale": "hebrajiškas žodžių žaismas „metai — metai“ apsupa skaičių, lietuvių kalboje pakartojimas sutrumpintas"
+    }
+  ],
+  "translation": "Ir šitie yra Levio sūnų vardai pagal jų giminę: Geršonas ir Kehatas ir Meraris; o Levo gyvenimo metai — šimtas trisdešimt septyneri metai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d3442048644eeb892b24e573783195b60a1484696562db572ce9236897be607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/6\/13-16.1792472202810.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ir šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levio"
+    },
+    {
+      "surface": "לתלדתם",
+      "gloss": "pagal jų giminę"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršonas"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "ir Kehatas"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ir Meraris"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "o metai"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "gyvenimo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levio"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septyneri"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ir trisdešimt"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ir šimtas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:42.814474627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 5:9",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškas ויהי su שם reiškia 'ir yra ten'; lietuviška kopula pridėta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאריכו",
+      "rationale": "KJV 'ištraukė badžius' vs ASV\/JPS 'badžiai buvo tokie ilgi' — hebrajiškas veiksmažodis reiškia 'padaryti ilgais'"
+    }
+  ],
+  "translation": "Ir badžiai buvo ilgi, ir badžių galai matėsi nuo arono priešais Debirą, bet į išorę jie nebematėsi; ir aronas ⟨yra⟩ ten iki šios dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/5\/9-12.1792493281143.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאריכו",
+      "gloss": "padarė ilgiais"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "badžiai"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ir matėsi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galai"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "badžių"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arono"
+    },
+    {
+      "surface": "על",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debiro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "matėsi"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "į išorę"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    }
+  ],
+  "timestamp": "2026-10-20T10:48:01.144390712Z",
+  "model": "glm-5.3"
+}

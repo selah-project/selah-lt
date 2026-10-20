@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moses and Aaron",
+      "rationale": "Tautos klausimas tiesiogiai kreipiasi į Mošę ir Aharoną."
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני-mažai",
+      "rationale": "Hebrajiškas išvardijimas be 'nei' — lietuvių 'ne' kartojamas dėl sklandumo."
+    }
+  ],
+  "translation": "Ir kodėl išvedėte mus iš Micraimo, kad atvestumėte ⟨את⟩ mus į šią blogą vietą? Ne vieta sėklai, ne figmedis, ne vynmedis, ne granatmedis, o vandens nėra gerti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94a70a9888109b9de8ef961600711e9237e3d9cfd9df09a09b396562938137bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/20\/5-8.1792474388842.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Ir kodėl"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "išvedėte mus"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "kad atvestumėte"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mus",
+      "marks": "mus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vietą"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "blogą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šią"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklai"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ne figmedis"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ne vynmedis"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ne granatmedis"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "o vandens"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "gerti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:33:08.844089549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio jungties tarp זה ir הדבר"
+    },
+    {
+      "kind": "invitation",
+      "subject": "susirinkimui",
+      "rationale": "Mošė kreipiasi tiesiogiai į susirinkimą, skelbdamas Jahvės įsakymą"
+    }
+  ],
+  "translation": "Ir tarė Mošė susirinkimui: Šis yra žodis, kurį įsakė Jahvė padaryti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/5-8.1792473309970.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "susirinkimui"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "susirinkimas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Šis"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "padaryti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:09.971540335Z",
+  "model": "glm-5.3"
+}

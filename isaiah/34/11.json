@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 34:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "Hebrajų veiksmažodis ונטה veikiantysis, bet veikėjas (Jahvė) eilutėje neminimas; lietuvių laužtinis bevardė giminė išlaiko tai beprievardį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו ובהו",
+      "rationale": "Sąsaja su Pr 1,2 — chaoso žodžių pora grąžina pasaulį į sukūrimo-prieš-įvykį; paukščių vardai (קאת, קפוד, ינשוף) kaskada skamba garsažodžiškai."
+    },
+    {
+      "kind": "crux",
+      "subject": "קפוד",
+      "rationale": "Kirnulis \/ biternas \/ ežys — paukštis ar žinduolis, garsiai nesutariama tarp vertimų."
+    }
+  ],
+  "translation": "Ir paveldės ją pelikanas ir kirnulis, ir garnys, ir varnas įsikurs joje; ir ⟨bus⟩ ištiesta ant jos matavimo virvė tuštumos ir chaoso akmenys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/34\/9-12.1792481345492.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירשוה",
+      "gloss": "ir paveldės ją"
+    },
+    {
+      "surface": "קאת",
+      "gloss": "pelikanas"
+    },
+    {
+      "surface": "וקקוד",
+      "gloss": "ir kirnulis"
+    },
+    {
+      "surface": "וינשוף",
+      "gloss": "ir garnys"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "ir varnas"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "įsikurs"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ir ⟨bus⟩ ištiesta"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ant jos"
+    },
+    {
+      "surface": "קו",
+      "gloss": "matavimo virvė"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuštumos"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ir akmenys"
+    },
+    {
+      "surface": "בהו",
+      "gloss": "chaoso"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:05.493563061Z",
+  "model": "glm-5.3"
+}

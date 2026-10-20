@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 12:22",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jozabadas \/ Jehozabadas",
+      "rationale": "Sirijos rankraščiai ir 2 Met 24, 26 duoda skirtingas vardo rašybas (Jozacaras \/ Zabadas); čia laikomasi masoretų teksto."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחתיו",
+      "rationale": "Pažodžiui 'po juo, žemiau jo' — dinastinis 'vietoj jo'; erdvinis paveikslas prarastas."
+    }
+  ],
+  "translation": "Ir Jozabadas, Šimato sūnus, ir Jehozabadas, Šomerio sūnus, jo tarnai, nukovė jį, ir jis mirė; ir palaidojo ⟨את⟩ jį su jo tėvais Dovydo mieste, ir karaliavo Amacijas, jo sūnus, vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/12\/21-22.1792480079380.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוזבד",
+      "gloss": "Ir Jozabadas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Šimato"
+    },
+    {
+      "surface": "ויהוזבד",
+      "gloss": "ir Jehozabadas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Šomerio"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "nukovė jį"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ir palaidojo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jo tėvais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovydo"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir karaliavo"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amacijas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:07:59.382197780Z",
+  "model": "glm-5.3"
+}

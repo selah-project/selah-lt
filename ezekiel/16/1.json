@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų ויהי — pasakojimo jungtukas su veiksmažodžiu; lietuvių reikalauja pilno 'ir buvo'"
+    },
+    {
+      "kind": "you",
+      "subject": "pranašui Jechezkeliui",
+      "rationale": "Jahvės žodis adresuotas pranašui — prasideda tiesioginis kreipimasis"
+    }
+  ],
+  "translation": "Ir buvo Jahvės žodis man, sakant:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/1-4.1792484115521.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    }
+  ],
+  "timestamp": "2026-10-20T08:15:15.522388903Z",
+  "model": "glm-5.3"
+}

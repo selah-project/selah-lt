@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio šioje vietoje"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "dalelytė 'na\/prašau' neturi švaraus lietuviško atitikmens, perteikta šauktuku"
+    }
+  ],
+  "translation": "Štai jie man sako: Kur yra Jahvės žodis? Tegu ateina!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/17\/13-16.1792482732404.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tegu ateina"
+    },
+    {
+      "surface": "נא",
+      "gloss": "!"
+    }
+  ],
+  "timestamp": "2026-10-20T07:52:12.406202465Z",
+  "model": "glm-5.3"
+}

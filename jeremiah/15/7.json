@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 15:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vaikų⟩",
+      "rationale": "šכל — 'patyriau vaikišką netektę'; objektas hebrajų kalboje numanomas, pridėta lietuviškai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזרה\/ואזרם",
+      "rationale": "vėjavimo vaizdas — tauta kaip grūdai, dvilkas Iš 41,16 atgarsys"
+    }
+  ],
+  "translation": "Ir vėjavau juos vėjavimo semtuvu žemės vartuose; netekau ⟨vaikų⟩, sunaikinau ⟨את⟩ savo tautą — jie nesugrįžo iš savo kelių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/15\/5-8.1792482552688.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרם",
+      "gloss": "ir vėjavau juos"
+    },
+    {
+      "surface": "במזרה",
+      "gloss": "vėjavimo semtuvu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "vartuose"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "netekau vaikų"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "sunaikinau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tautą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "iš savo kelių"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sugrįžo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:12.691030871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 36:15",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jų⟩",
+      "rationale": "נא — maldavimo dalelytė 'prašau', lietuviškai perteikta skliaustuose"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prašymas",
+      "rationale": "Kunigaikščiai kviečia Baruchą sėstis ir skaityti — imperatyvinis kvietimas"
+    }
+  ],
+  "translation": "Ir jie tarė jam: Sėskis ⟨jų⟩ ir skaityk ją mūsų ausyse. Ir Baruchas skaitė jų ausyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37213f5ceb141864119539f6fcca21c126276a5fc5a17c2285bbdeaf48ab309d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/36\/13-16.1792483204164.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Sėskis"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨jų⟩"
+    },
+    {
+      "surface": "וקראנה",
+      "gloss": "ir skaityk ją"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "mūsų ausyse"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "skaitė"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruchas"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "jų ausyse"
+    }
+  ],
+  "timestamp": "2026-10-20T08:00:04.173233685Z",
+  "model": "glm-5.3"
+}

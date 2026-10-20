@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 21:19",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Goliatas",
+      "rationale": "hebrajų tekstas sako, kad Elchananas nukovė patį Golijatą; KJV prideda 'brolį' pagal 1 Met 20,5 — čia išlaikytas hebrajiškasis tekstas"
+    },
+    {
+      "kind": "crux",
+      "subject": "יערי ארגים",
+      "rationale": "'Jaarė-Oregimas' — dviejų žodžių vardas; galbūt dubletavimasis su 'audėjų' toje pačioje eilutėje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארגים",
+      "rationale": "žodis 'audėjai' pasikartoja vardo sudėtyje ir ieties apibrėžime — teksto dvilypumą lietuvių kalba atspindi tik dalinai"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "kopula, kurios hebrajų tekstas neturi"
+    }
+  ],
+  "translation": "Ir vėl ⟨buvo⟩ karas Gobe su filistiniečiais; ir Elchananas, Jaarės-Oregimo sūnus betlietis, nukovė ⟨את⟩ Golijatą Gito gyventoją, o jo ieties medis — kaip audėjų staklių velenas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/21\/17-20.1792478599327.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "vėl"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "karas"
+    },
+    {
+      "surface": "בגוב",
+      "gloss": "Gobe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiniečiais"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir nukovė"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elchananas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "Jaarės"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "Oregimo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bet"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "lietis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Golijatą"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golijatą"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gito gyventoją"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "o ... medis"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "jo ieties"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "kaip staklių velenas"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "audėjų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:43:19.329398652Z",
+  "model": "glm-5.3"
+}

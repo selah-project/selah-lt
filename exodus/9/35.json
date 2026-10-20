@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "per Mošės ranką",
+      "rationale": "ביד משה pažodžiui 'Mošės ranka' — hebrajiškas idiomas 'per, naudojant'; išlaikytas pažodinis vaizdas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išleido",
+      "rationale": "שלח čia 'siųsti išėjus' — 'neišleido' perduoda veiksmo rezultatą."
+    }
+  ],
+  "translation": "Ir pasidarė tvirta Paro širdis, ir jis neišleido ⟨את⟩ Jisraelio sūnų, kaip buvo kalbėjęs Jahvė per Mošės ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fdd47e6b7d4b94fd9974ecef5b7588f7a4c4048e0b5a6cf81bec5b7982bef6ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/33-35.1792472321407.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ir pasidarė tvirta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "išleido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnų"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "buvo kalbėjęs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per ranką"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:58:41.409707748Z",
+  "model": "glm-5.3"
+}

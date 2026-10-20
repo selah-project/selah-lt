@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ten",
+      "rationale": "Hebrajiškas tekstas 'ten' neturi — pridėta vieta iš konteksto."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienos",
+      "rationale": "Eilutė skaičiuoja laiką — 'daug dienų, kaip dienų, kurias praleidote'."
+    }
+  ],
+  "translation": "Ir jūs pasilikote Kadeše daug dienų, kaip dienų, kurias ten praleidote.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/45-46.1792474808590.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ir pasilikote"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Kadeše"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kaip dienų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurias"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "praleidote"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:08.591824922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שמרה",
+      "rationale": "Žodis 'sargyba, sargybos postas' visame Tanache randamas tik šioje vietoje."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "Tiesioginis kreipimasis į Jahvę su dviem imperatyvais."
+    }
+  ],
+  "translation": "Paskirk, Jahvė, sargybą mano burnai, saugok mano lūpų duris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/141\/1-4.1792489287703.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "paskirk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "sargybą"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mano burnai"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "saugok"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "דל",
+      "gloss": "durų"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mano lūpų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:27.704677573Z",
+  "model": "glm-5.3"
+}

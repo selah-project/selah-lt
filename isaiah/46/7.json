@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 46:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישאהו\/יסבלהו",
+      "rationale": "Priešprieša Iz 46,4: Jahvė neša savo tarnus iki senatvės, o stabą reikia nešti ant peties patiems — tas pats veiksmažodis נשא\/סבל."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרתו",
+      "rationale": "Pažodžiui 'jo suspaudimas' — siaurumas, bėda; 'iš jo suspaudimo' būtų per daug pažodžiui."
+    }
+  ],
+  "translation": "Jie neša jį ant peties, nešioja jį ir pastačią jį į jo vietą, ir jis stovi; iš savo vietos jis nepajudės; net jei šauks jam, jis neatsilieps, iš jo bėdos jo neišgelbės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/46\/5-8.1792481621136.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "jie neša jį"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "peties"
+    },
+    {
+      "surface": "יסבלהו",
+      "gloss": "nešioja jį"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "ir pastačią jį"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "į jo vietą"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ir jis stovi"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "iš savo vietos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "pajudės"
+    },
+    {
+      "surface": "אף",
+      "gloss": "net jei"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "šauks"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atsilieps"
+    },
+    {
+      "surface": "מצרתו",
+      "gloss": "iš jo bėdos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "jo išgelbės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:41.137964490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bukesnis",
+      "rationale": "בער — gyvulio bukumas, žvėriškas neišmanymas, ne vien 'kvailas'"
+    }
+  ],
+  "translation": "Nes aš bukesnis už vyrą, ir žmogaus proto man nėra.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/30\/1-4.1792490011107.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bukesnis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "už vyrą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "proto"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T09:53:31.108313209Z",
+  "model": "glm-5.3"
+}

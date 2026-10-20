@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ sutrumpinta",
+      "rationale": "Prielaida '—' pakeičia hebrajų kalbai nebūdingą būti-shot būdvardį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד — ištikima meilė, gailestingumas, ištikimybė; paliktas kaip chesed pagal D2"
+    }
+  ],
+  "translation": "Cedek ir teismas — tavo sosto pamatas; chesed ir tiesa eina pirma tavo veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/13-16.1792488622576.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ir teismas"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pamatas"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tavo sosto"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ir tiesa"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "eina pirma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavo veido"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:22.577463547Z",
+  "model": "glm-5.3"
+}

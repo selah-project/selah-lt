@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "„Nendrių jūra” (suf = nendrė, Egipto papirusas) prieš tradicinį „Raudonoji jūra”."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trys dienos",
+      "rationale": "Kelionės dykuma skaičiuojama dienomis — be vandens."
+    }
+  ],
+  "translation": "Ir Mošė išvedė ⟨את⟩ Jisraelį iš nendrių jūros, ir jie išėjo į Šuro dykumą, ir ėjo tris dienas dykumoje, ir nerado vandens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf8c720d123cbb9253908586f969c4be994690da457a19806077978c6dcb568e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/15\/21-24.1792472451822.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ir išvedė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "מים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "nendrių"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ir jie išėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dykumą"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Šuro"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tris"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "rado"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T05:00:51.826256994Z",
+  "model": "glm-5.3"
+}

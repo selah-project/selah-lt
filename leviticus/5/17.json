@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — kvėpuojanti gyva būtybė, ne 'siela'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bet⟩",
+      "rationale": "hebrajiško priešpriešos jungtuko nėra; 'ir nežino — ⟨bet⟩ kaltas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואשם \/ עונו",
+      "rationale": "כל 5,17–19 eilutėse kartoja šaknį אשם (kaltė) ir עון — dėl to 5,19 vibruoja"
+    }
+  ],
+  "translation": "Ir jeigu kuri nors gyvybė nusideda ir padaro vieną iš visų Jahvės įsakymų, kurių negalima daryti, ir nežino — ⟨bet⟩ ji kaltas ir neš savo kaltę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/17-20.1792473193522.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jeigu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "nusideda"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ir padaro"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "įsakymų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "galima daryti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žino"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ir kaltas"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ir neš"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "savo kaltę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:13.523154125Z",
+  "model": "glm-5.3"
+}

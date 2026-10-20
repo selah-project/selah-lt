@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "hebrajiškas prielinksnis lietuviškame linksnyje ištirpsta, atskiro žodžio nereikia"
+    },
+    {
+      "kind": "addition",
+      "subject": "kiekvieną",
+      "rationale": "אישׁ 'vyras' čia skirstomasis: kiekvienas į savo namus"
+    }
+  ],
+  "translation": "Ir Šmuelis kalbėjo ⟨את⟩ žmonėms teisę karalystės, ir užrašė ⟨את⟩ knygoje, ir padėjo prieš Jahvę; ir Šmuelis išsiuntė ⟨את⟩ visus žmones, kiekvieną į savo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/25-27.1792477145453.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonėms"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teisę"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teisę"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "karalystės"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ir užrašė"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ir padėjo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus žmones"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "į savo namus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:05.453720905Z",
+  "model": "glm-5.3"
+}

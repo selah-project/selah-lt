@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 26:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאו את ראש",
+      "rationale": "Priešsakinis „pakelti galvą“ reiškia atlikti surašymą; šiuolaikinės versijos rašo „paimkite skaičių“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Įsako imti visos bendrijos skaičių nuo dvidešimties metų — skaičiavimo eilutė."
+    },
+    {
+      "kind": "you",
+      "subject": "to Mošė and Elazaras",
+      "rationale": "Daugiskaitos imperatyvas „Pakelkite“ kreipiasi į Mošę ir Elazarą."
+    }
+  ],
+  "translation": "Pakelkite ⟨את⟩ visos Jisraelio sūnų bendrijos galvą, nuo dvidešimties metų ir aukščiau, pagal jų tėvų namus, visus, kurie išeina į kariuomenę tarp Jisraelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/1-4.1792474519561.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Pakelkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visos Jisraelio sūnų bendrijos galvą"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bendrijos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukščiau"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pagal ... namus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kurie išeina"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "į kariuomenę"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tarp Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:35:19.563137943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Hebrajų kalba neturi įvardžio su היית — pridėta aiškumo."
+    }
+  ],
+  "translation": "Nes tu buvai man prieglauda, jėgos bokštas priešo akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/61\/1-4.1792488196103.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tu buvai"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "prieglauda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "bokštas"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jėgos"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "priešo akivaizdoje"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "priešas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:16.104751693Z",
+  "model": "glm-5.3"
+}

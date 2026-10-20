@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דוה",
+      "rationale": "Retas žodis, reiškiantis 'ligota', ypatingai mėnesinių metu (Lev 15, 33); čia — nuolatinės negalios paveikslas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio prie 'ligota'; lietuvių kalbai reikia kopulos."
+    }
+  ],
+  "translation": "Iš aukštybių jis pasiuntė ugnį į mano kaulus, ir ji juos sutriuškino; jis ištiesė tinklą mano kojoms, sugrąžino mane atgal, padarė mane nusiaubta — visą dieną ⟨esu⟩ ligota.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/1\/13-16.1792491104733.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "iš aukštybių"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnį"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "į mano kaulus"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "ir ji sutriuškino"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "jis ištiesė"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "tinklą"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "mano kojoms"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "sugrąžino mane"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "atgal"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "padarė mane"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nusiaubta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ligota"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:44.733858696Z",
+  "model": "glm-5.3"
+}

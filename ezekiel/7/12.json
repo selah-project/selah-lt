@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tebūna",
+      "rationale": "Hebrajų אל + neteigiamas veiksmažodis — lietuvių reikalauja sudėtinės formos"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "Pažodžiui 'nosies deginimas' — 'deginantis rūstis' kaip įprastas šių žodžių vaizdas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Prielinksnis 'prie\/ant' išplėtota į '—' brūkšnį su kilmininku 'visai jos miniai'"
+    }
+  ],
+  "translation": "Ateina laikas, atėjo diena: pirkėjas tebūna nesidžiaugiantis, ir pardavėjas tebūna neliūdintis, nes deginantis rūstis — visai jos miniai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/7\/9-12.1792483915230.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "העת",
+      "gloss": "laikas"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "pirkėjas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tebūna ne"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sidžiaugiantis"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "ir pardavėjas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tebūna ne"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "liūdintis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "deginantis rūstis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "jos miniai"
+    }
+  ],
+  "timestamp": "2026-10-20T08:11:55.234404690Z",
+  "model": "glm-5.3"
+}

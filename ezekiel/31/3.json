@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 31:3",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Asūras",
+      "rationale": "אשור — šalies pavadinimas Asūras (sąmojis apie Asiriją kaip cedrą); kai kas skaito תאשור — „ksmedis“, tada visas medis būtų ksmedis, ne cedras."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškas žodžių junginys be veiksmažodžio; lietuvių kalbai reikia „yra“ tarp Asūras ir cedras (per brūkšnelį)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צמרת",
+      "rationale": "צַמֶּרֶת — viršūnė\/lapynas, retas žodis, tik medžio viršūnei apibūdinti."
+    }
+  ],
+  "translation": "Štai Asūras — cedras Libane, gražus šakomis, tankus miško pavėsiu, aukšto stoto, ir tarp tankumynų buvo jo viršūnė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "147d0a3e5bfa848bd890fb61c1fb846a5a606227ee4aa0c3966a02036f4d8999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/31\/1-4.1792484676538.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asūras"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedras"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "Libane"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "gražus"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "šakomis"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "ir tankus miško"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "pavėsiu"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ir aukšto"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "stoto"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "עבתים",
+      "gloss": "tankumynų"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "צמרתו",
+      "gloss": "jo viršūnė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:24:36.539444910Z",
+  "model": "glm-5.3"
+}

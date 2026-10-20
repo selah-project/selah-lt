@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "ולקח lacks explicit object; bracketed pronoun supplied"
+    },
+    {
+      "kind": "substitution",
+      "subject": "darbą",
+      "rationale": "מלאכת literally 'work\/property-in-trust'; KJV 'goods'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "priesaika",
+      "rationale": "legal weighing of testimony between two parties"
+    }
+  ],
+  "translation": "Jahvės priesaika bus tarp jųdviejų, ar jis neištiesė savo rankos į artimo darbą; ir savininkas priims ⟨tai⟩, ir jis neatsiteisins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/9-12.1792472643554.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "priesaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "jųdviejų"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ištiesė"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "į artimo darbą"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "artimo"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ir priims"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "savininkas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atsiteisins"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:03.558240424Z",
+  "model": "glm-5.3"
+}

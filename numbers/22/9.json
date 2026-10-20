@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas sakinyje nėra veiksmažodžio „būti“"
+    },
+    {
+      "kind": "you",
+      "subject": "Bileamui",
+      "rationale": "Elohim kreipiasi tiesiogiai su klausimu į Bileamą"
+    }
+  ],
+  "translation": "Ir atėjo Elohim pas Bileamą ir tarė: Kas tie vyrai, kurie ⟨yra⟩ su tavimi?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "efe838158a0ccacf66bb1628b16dff59c221d95d84c0b6429d06775f2aedc408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/22\/9-12.1792474385434.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "tie vyrai"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:33:05.436123467Z",
+  "model": "glm-5.3"
+}

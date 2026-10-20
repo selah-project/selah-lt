@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "apie ją",
+      "rationale": "hebrajiškai קולם 'jų balsas' užsibaigia objektu be nuorodos — lietuviškai reikia įvardžio"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חיל כיולדה",
+      "rationale": "pažodžiui 'gimdymo susitraukimas kaip gimdančios' — idiomatinis vaizdas, lietuviškai 'skausmas kaip gimdyvės'"
+    }
+  ],
+  "translation": "Girdėjome ⟨את⟩ žinią apie ją — mūsų rankos nusviro; suspaudimas pagavo mus, skausmas kaip gimdyvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e04aebcc356776479d08399c6aafc1d8c60a1f973df09cb07ba9077930984eeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/6\/21-24.1792482224483.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Girdėjome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žinią apie ją"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "žinią"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "nusviro"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "mūsų rankos"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "suspaudimas"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "pagavo mus"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "skausmas"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kaip gimdyvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:44.486972345Z",
+  "model": "glm-5.3"
+}

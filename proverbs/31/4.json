@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "או čia suprantamas arba kaip 'kur' ('Kur svaigalų?' — ASV, JPS), arba kaip 'arba' — šio žodžio reikšmė šioje vietoje garsiai ginčijama."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל למלכים \/ למואל",
+      "rationale": "Lemuelio vardas (למוֹאל, 'Jam — El') ir pasikartojantis למלכים skamba beveik identiškai — garsinis ryšys prarastas."
+    }
+  ],
+  "translation": "Ne karaliams, Lemueli, ne karaliams gerti vyno, nei kilniesiems — ⟨kur⟩ svaigalų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/31\/1-4.1792490032277.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "karaliams"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemueli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "karaliams"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "gerti"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ir kilniesiems"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨kur⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "svaigalų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:53:52.278438144Z",
+  "model": "glm-5.3"
+}

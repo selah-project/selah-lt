@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje predikatyvo konstrukcijoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šventų švenčiausia",
+      "rationale": "קדש קדשים pažodžiui 'šventumas šventumų' — hebrajiškas intensyvumo superlatyvas"
+    }
+  ],
+  "translation": "Kiekvienas vyras tarp kunigų ją valgys; ji ⟨yra⟩ šventų švenčiausia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/21-23.1792473163322.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "tarp kunigų"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (minchą)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventų"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "švenčiausia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:43.324052033Z",
+  "model": "glm-5.3"
+}

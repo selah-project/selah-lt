@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק verčiama skambesiu 'cedek', ne vienu žodžiu 'teisumas', pagal D2."
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajų kalba neturi veiksnio — 'jis' pridėta iš konteksto."
+    }
+  ],
+  "translation": "Karaliams malonios cedeko lūpos, ir jis myli tą, kuris kalba tiesius dalykus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "125b1f1f144b270f7f11e95b28a44126e7b8d218855788ba6d6d8dec13f7a84e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/16\/13-16.1792489716001.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "malonios"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "karaliams"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lūpos"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeko"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir kalba"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiesius dalykus"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "jis myli"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:36.002010782Z",
+  "model": "glm-5.3"
+}

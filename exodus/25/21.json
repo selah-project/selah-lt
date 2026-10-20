@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "permaldavimo dangtis",
+      "rationale": "הכפרת yra dangtis, ne 'gailestingumo sostas'; pavadinimas iš šaknies כפר — permaldauti"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Įsakymas tiesiogiai kreipiamas į Mošę apie skrynią"
+    }
+  ],
+  "translation": "Ir padėsi ⟨את⟩ permaldavimo dangtį ant skrynies, iš viršaus, ir į skrynią įdėsi ⟨את⟩ liudijimą, kurį duosiu tau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/21-24.1792472746694.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ir padėsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "permaldavimo dangtį"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "permaldavimo dangtį"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "skrynios"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "iš viršaus"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir į"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "įdėsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liudijimą"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "liudijimą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "duosiu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:46.705879883Z",
+  "model": "glm-5.3"
+}

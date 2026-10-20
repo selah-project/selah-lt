@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 2:27",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-note": "priešdėlis 'pas' išoriškai suliejamas su 'namams' lietuvių linksniu",
+      "rationale": "Hebrajiškas prielinksnis אל neturi atskiro lietuviško žodžio po 'apsireiškiau aš namams'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנגלה נגליתי",
+      "rationale": "Šaknies גלה kartojimas: klausiamasis dalyvis ir veiksmažodis — 'ar-atidengtas aš-atidengiau'; karta prarandama."
+    },
+    {
+      "kind": "you",
+      "subject": "Eliui",
+      "rationale": "Elohim vyro kalba tiesiogiai kreipiasi į Elį per 'tavo tėvo namai'."
+    }
+  ],
+  "translation": "Ir atėjo Elohim vyras pas Elį ir tarė jam: Taip sako Jahvė: Ar apsireiškiau aš tavo tėvo namams, kai jie buvo Micraime, faraono namuose?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/25-28.1792476980277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הנגלה",
+      "gloss": "ar"
+    },
+    {
+      "surface": "נגליתי",
+      "gloss": "apsireiškiau aš"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "namams"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "kai jie buvo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:20.278898221Z",
+  "model": "glm-5.3"
+}

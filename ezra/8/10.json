@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Šelomitas",
+      "rationale": "LXX prideda 'iš Bani sūnų'; hebrajiškame tekste nėra — BSB tą seka."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Vardų ir skaičių sąrašo eilutė."
+    }
+  ],
+  "translation": "Ir iš Šelomito sūnų — Juozifijo sūnus, ir su juo šimtas šešiasdešimt vyriškių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "541e9952b427743723e80862aa5875b93e47435f17961abfdbb3d52f5983699b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/8\/9-12.1792492184036.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ir iš sūnų"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "Šelomito"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "Juozifijo"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ir su juo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimtas"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ir šešiasdešimt"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "vyriškių"
+    }
+  ],
+  "timestamp": "2026-10-20T10:29:44.037699813Z",
+  "model": "glm-5.3"
+}

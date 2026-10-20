@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקחתי",
+      "rationale": "Pažodžiui „paėmiau [palaiminimą\/įsakymą]“ — KJV „received commandment“, YLT „to bless I have received“; veiksmažodis neturi daiktavardo, pasirinkta „manęs įsakė“."
+    },
+    {
+      "kind": "addition",
+      "subject": "manęs",
+      "rationale": "Nenormali hebrajų kalba neturi daiktavardžio prie לקחתי — „paėmiau“ — lietuviškame reikia subjekto ir objekto ryšio."
+    }
+  ],
+  "translation": "Štai — palaiminti mane įsakė, ir jis palaimino, ir aš to neatsuksiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/17-20.1792474485172.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "palaiminti"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "manęs įsakė"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ir palaimino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "tos neatsuksiu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:45.175267286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "palaiko",
+      "rationale": "יסמך – „atremia, prilaiko“; „palaiko“ išlaiko atramos paveikslą"
+    }
+  ],
+  "translation": "Aš atsiguliau ir užmigau, atsibudau, nes Jahvė mane palaiko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/3\/5-8.1792487441886.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "atsiguliau"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ir užmigau"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "atsibudau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "mane palaiko"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:41.887643717Z",
+  "model": "glm-5.3"
+}

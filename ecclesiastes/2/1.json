@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל",
+      "rationale": "Hevelis — garas\/kvapas, liter ališkai 'garas'; versta 'tuštybė', prarastas kvėpavimo paveikslas"
+    }
+  ],
+  "translation": "Tariau aš savo širdyje: eik, pabandysiu džiaugsmu ir pamatysiu gėrį — ir štai, ir tai ⟨yra⟩ tuštybė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/2\/1-4.1792491224225.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Tariau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "savo širdyje"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jau"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "pabandysiu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "džiaugsmu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ir pamatysiu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "gėrį"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tuštybė"
+    }
+  ],
+  "timestamp": "2026-10-20T10:13:44.226333319Z",
+  "model": "glm-5.3"
+}

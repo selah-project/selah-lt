@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — pridėta kopula ⟨yra⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Kryptis „pas“ jau išreikšta naudininku „Jaakovui“ — dalelytė išnyko."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Kiek metų tau?",
+      "rationale": "Dauguma vertimų trumpina į „Kiek tau metų?“; hebrajiškas pakartojimas „dienos metų gyvenimo“ išlaikytas pažodžiui."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jaakovas",
+      "rationale": "Parohas tiesiogiai klausia Jaakovo apie jo amžių."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienų metų skaičius",
+      "rationale": "Klausimas apie gyvenimo metų dienų skaičių."
+    }
+  ],
+  "translation": "Ir tarė Parohas Jaakovui: kiek ⟨yra⟩ dienų metų tavo gyvenimo?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de91aa49e0887abd0345def5187086bef1cf4696be0404be5e348d1a1f070434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/47\/5-8.1792472047065.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovui"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kiek"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "שני",
+      "gloss": "metų"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "tavo gyvenimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:07.071826564Z",
+  "model": "glm-5.3"
+}

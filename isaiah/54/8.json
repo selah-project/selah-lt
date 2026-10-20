@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 54:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד išlaikomas kaip 'chesed' — meilė, ištikimybė, malonė viename žodyje"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשצף קצף",
+      "rationale": "'įniršio protrūkį' — KJV 'mažu pykčiu' prieš YLT 'persipylusiu rūstybe'"
+    }
+  ],
+  "translation": "Įniršio protrūkyje paslėpiau savo veidą nuo tavęs akimirką, bet amžinu chesed tavęs pasigailėjau, — tarė tavo Gelbėtojas-vėl-perkantis, Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/5-8.1792481749645.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשצף",
+      "gloss": "protrūkyje"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "įniršio"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "paslėpiau"
+    },
+    {
+      "surface": "פני",
+      "gloss": "savo veidą"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "akimirką"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "bet chesed"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinu"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "tavęs pasigailėjau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "tavo Gelbėtojas-vėl-perkantis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:49.647653121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "eilutės padėtis",
+      "rationale": "Hebrajiškas tekstas čia atitinka KJV 19:15 — vertimų numeracija skiriasi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "per Jordaną",
+      "rationale": "Antrasis את prieš הירדן yra prielinksnio „per“ žymuo, ne tik tiesioginis objektas"
+    }
+  ],
+  "translation": "Ir karalius sugrįžo ir atėjo iki Jordano, ir Jehuda atėjo į Gilgalą eiti pasitikti karaliaus, pervesti ⟨את⟩ karalių per ⟨את⟩ Jordaną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/13-16.1792478536783.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ir sugrįžo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordano"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ir Jehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "į Gilgalą"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pasitikti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pervesti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaną"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaną"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:16.784552018Z",
+  "model": "glm-5.3"
+}

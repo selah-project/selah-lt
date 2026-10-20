@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų neturi saistylio 'Tai yra poilsis' — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "וְלֹא אָבוּא",
+      "rationale": "Veiksmažodis 'norėti' su neiginiais — 'nebuvo linkę klausyti'; lietuviškai 'nenorėjo klausyti' perteikia pritarumo stoką"
+    }
+  ],
+  "translation": "kuriam jis sakė: Tai yra poilsis — suteikite poilsio pavargusiam, ir tai yra atgaivinimas; bet jie nenorėjo klausyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/9-12.1792481143598.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuriam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "jis sakė"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "poilsis"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "suteikite poilsio"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "pavargusiam"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ir tai"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "atgaivinimas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "norėjo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "klausyti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:43.600501244Z",
+  "model": "glm-5.3"
+}

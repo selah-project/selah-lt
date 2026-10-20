@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omeras ir efa",
+      "rationale": "Matų apibrėžimas: omeras = dešimtoji efos dalis."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikalinga kartojamojo sakinio veiksmažodis ⟨yra⟩."
+    }
+  ],
+  "translation": "O omeras — dešimtoji efos dalis ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8968a404f1361520bccaabbf8e4847241a63238e2b268f7ce172189f22d006be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/16\/33-36.1792472558915.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "O omeras"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "dešimtoji dalis"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:38.919152092Z",
+  "model": "glm-5.3"
+}

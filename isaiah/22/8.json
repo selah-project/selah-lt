@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "uždanga",
+      "rationale": "מסך — uždanga, danga; čia karinis pridengimas, gynybinė sistema, ne drabužio detalė."
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajų veiksmažodis neturi įvardžio; veikėjas neįvardytas (Jahvė? priešas?)."
+    },
+    {
+      "kind": "crux",
+      "subject": "Namų-Miško",
+      "rationale": "בית היער — Saliamono ginklų sandėlis (1 Kar 7, 2); vertimas 'miško namai' arba pavadinimu 'Namų-Miško namai'."
+    }
+  ],
+  "translation": "Ir jis atidengė ⟨את⟩ Jėhudos uždangą, ir tu žiūrėjai tą dieną į ginklus Namų-Miško.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/5-8.1792481033626.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ir jis atidengė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jėhudos uždangą"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "uždangą"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėhudos"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ir tu žiūrėjai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ginklus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Namų"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Miško"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:53.628938894Z",
+  "model": "glm-5.3"
+}

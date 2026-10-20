@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — lietuvių kalbai reikia ⟨buvo⟩"
+    }
+  ],
+  "translation": "Jahvė vienas jį vedė, ir nebuvo su juo svetimo Elo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/32\/9-12.1792475584669.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "jis vedė jį"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nebuvo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elo"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svetimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:04.675463351Z",
+  "model": "glm-5.3"
+}

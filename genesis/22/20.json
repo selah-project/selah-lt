@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 22:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrew passive ויגד has no expressed agent or copula; Lithuanian passive needs the auxiliary."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בנים",
+      "rationale": "Plural 'sons' though the list in v.21 follows; rendered singular 'sūnų' to agree — plural 'sūnūs' is the stricter reading."
+    }
+  ],
+  "translation": "Ir atsitiko po šių dalykų, kad Avrahamui buvo pranešta, sakant: Štai Milka, ir ji pagimdė sūnų Nachorui, tavo broliui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf0f61fb73dd978dfa2e28bf0e4f617e3e070e8525920a0b6fcce1d55bd70607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/22\/17-20.1792471373872.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "šių dalykų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "buvo pranešta"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "pagimdė"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Nachorui"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo broliui"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:53.876836201Z",
+  "model": "glm-5.3"
+}

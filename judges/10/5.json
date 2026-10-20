@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi būtojo laiko pagalbinio veiksmažodžio pasyve"
+    }
+  ],
+  "translation": "Ir mirė Jaïras, ir ⟨buvo⟩ palaidotas Kamone.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "acd065dcf62b57370f6d3f1c6f39743e38a2e20ca2819263be0de3e2536dbd2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/10\/5-8.1792476505014.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïras"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ir ⟨buvo⟩ palaidotas"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "Kamone"
+    }
+  ],
+  "timestamp": "2026-10-20T06:08:25.016151971Z",
+  "model": "glm-5.3"
+}

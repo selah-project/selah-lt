@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח čia 'paskata, nuotaika' — pagal D2 visada rašoma 'ruach', ne 'dvasia'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "pažodžiui 'ant rankos' — reiškia 'šalia, pasienyje su'"
+    }
+  ],
+  "translation": "Ir Jahvė pažadino prieš Jehoramą ⟨את⟩ ruach — plištiečių ir arabų, kurie yra šalia kušitų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/21\/13-16.1792493620976.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Ir pažadino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoramą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruach — plištiečių ir arabų"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "plištiečių"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ir arabų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "šalia"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pasienyje"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "kušitų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:53:40.977881865Z",
+  "model": "glm-5.3"
+}

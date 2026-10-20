@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje; lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "lengva akyse",
+      "rationale": "Hebrajiškas posakis 'להיות קל בעיני' reiškia 'būti menku dalyku', laikoma pažodžiui."
+    }
+  ],
+  "translation": "Ir tai ⟨yra⟩ lengva Jahvės akyse, ir jis duos ⟨את⟩ Moabą į jūsų ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/3\/17-20.1792479872598.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ir tai lengva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ir duos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabą"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabą"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "į jūsų ranką"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:32.599026426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "atėję",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta skliaustuose, kad lietuvių sakinys gyvuotų."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדביקתהו",
+      "rationale": "'Prilipo prie jo' — mūšis kaip persekiojas; 'prisivijo' arba 'neatsiliko nuo jo'."
+    }
+  ],
+  "translation": "Ir jie pasuko Jisraelio vyrams į veidą — dykumos keliu, o mūšis juos prisivijo, ir iš miestų [atėję] naikino ⟨את⟩ jį jo pačiame viduryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43653826fb48b1a52140556f7050b487d2433044684541d9dbd5f4e2520b6591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/20\/41-44.1792476924600.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "pasuko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "į veidą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Jisraelio vyrams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kelią"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dykumos"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "o mūšis"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "juos prisivijo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir tie, kurie"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "iš miestų"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "naikino"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "jo pačiame viduryje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:24.601448795Z",
+  "model": "glm-5.3"
+}

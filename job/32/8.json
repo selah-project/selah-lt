@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח išlaikytas kaip „ruach“ pagal D2 — dvasia, kvapas, vėjas viename žodyje."
+    },
+    {
+      "kind": "you",
+      "subject": "Elioja kalba",
+      "rationale": "Elioja kreipiasi į tris draugus — kalbos pradžia."
+    }
+  ],
+  "translation": "Iš tiesų, tai ruach žmoguje ir Šadai alsavimas suteikia jiems supratimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/32\/5-8.1792490575843.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "iš tiesų"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "žmoguje"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ir alsavimas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "suteikia jiems supratimą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:02:55.844568742Z",
+  "model": "glm-5.3"
+}

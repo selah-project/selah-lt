@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 9:8",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "žodis reiškia „aukštas \/ viršutinis“, bet čia skaitomas su עִי („griuvėsių krūva“) — „aukštas namas“ prieš „griuvėsiai“, lietuviškai renkamės „griuvėsiai“ pagal kontekstą (JPS „taps apleistas“, BSB „griuvėsių krūva“)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nusteps",
+      "rationale": "ישם pažodžiui „bus apstulbintas \/ suakmenės“ — lietuvių išraiška išlaiko sukrėtimo vaizdą"
+    }
+  ],
+  "translation": "Ir šis namas bus ⟨griuvėsiai⟩; kiekvienas, kas praeis pro jį, nusteps ir pašvilps, ir sakys: dėl ko Jahvė padarė taip šiai žemei ir šitiems namams?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/5-8.1792479170812.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Ir šis namas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "⟨griuvėsiai⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kas praeis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pro jį"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "nusteps"
+    },
+    {
+      "surface": "ושרק",
+      "gloss": "ir pašvilps"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ir sakys"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "žemei"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šiai"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ir namams"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitiems"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:50.816001345Z",
+  "model": "glm-5.3"
+}

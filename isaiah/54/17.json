@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תרשיעי",
+      "rationale": "Heb. 'tu paskelbsi ją kalta' (2 asm. sg.) — daugelis vertimų palieka 'tu pasmerksi'; čia išlaikytas pasyvas 'būsi pasmerkta' apie liežuvį"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרשיעי asmuo",
+      "rationale": "Hebraiškai veiksnys yra 'tu' (Sionas), tačiau gramatiškai galimas ir 'ji bus nuteista' — KJV 'thou shalt condemn' vs BSB 'you will refute'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩-tipo jungtis",
+      "rationale": "'Tai — paveldas': brūkšnys atstoja hebrajų pirminio ryšio trūkstamą sietuvą"
+    }
+  ],
+  "translation": "Kiekvienas įrankis, nuliedytas prieš tave, neklestės, ir kiekviena liežuvis, kilsianti ⟨su tavimi⟩ teisme, būsi pasmerkta. Tai — paveldas Jahvės tarnų, ir jų cedek — iš ⟨manęs⟩, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/17-17.1792481718819.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "įrankis"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "nuliedytas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "klestės"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekviena"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "liežuvis"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kilsianti"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ su tavimi",
+      "marks": "liežuvis, kilsianti prieš tave"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "teisme"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "būsi pasmerkta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldas"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "ir jų cedek"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "iš ⟨את⟩ manęs",
+      "marks": "cedek, einantis iš Jahvės"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:18.820385372Z",
+  "model": "glm-5.3"
+}

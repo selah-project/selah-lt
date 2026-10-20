@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמנו",
+      "rationale": "'su mumis' pažodžiui; tradicija verčia 'mums, dėl mūsų'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "126:2–3",
+      "rationale": "tautų žodžiai tampa Israelio išpažinimu — pakartota formulė הגדיל יהוה לעשות"
+    }
+  ],
+  "translation": "Didingus dalykus padarė Jahvė su mumis — mes buvome linksmi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/126\/1-4.1792489229740.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "didingus dalykus padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "su mumis"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "mes buvome"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "linksmi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:29.741650458Z",
+  "model": "glm-5.3"
+}

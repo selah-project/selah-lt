@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתירו",
+      "rationale": "תּוּר reiškia 'klajoti apžiūrint, žvalgyti' — 'pasiuntė žvalgus' išskleidžia veiksmažodį į veikėją ir veiksmą"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų neturi veiksmažodžio — pridėta lietuviška copula"
+    }
+  ],
+  "translation": "Ir Jozefaus namas pasiuntė žvalgus į Beit-Elį — o miesto vardas anksčiau buvo Luzas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/21-24.1792476280417.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "Ir pasiuntė žvalgus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefaus"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "į Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elį"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "o vardas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anksčiau"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luzas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:40.418696269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרתם\/צר",
+      "rationale": "būdas „varge \/ vargintojas“ — ta pati šaknis צר, lietuviškai išlaikyta iš „vargas“ žodžių pora, bet garsinis žaismas dingsta"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא צר",
+      "rationale": "Qerea\/Ketiv problemos vieta: „jis nebuvo vargintojas“ (pagal tekstą) prieš tradicinį „jis buvo varginamas“ — čai vertimas laikosi raidinio teksto"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "hebrajų kalba veiksnio su לא צר neturi, pridėta aiškumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasiuntinys",
+      "rationale": "מלאך — „pasiuntinys“ arba „angelas“; čia apie Jahvės veido pasiuntinį, pasirinkta pažodinė reikšmė"
+    }
+  ],
+  "translation": "Visoje jų vargoje ⟨jis⟩ nebuvo vargintojas, ir jo veido pasiuntinys išgelbėjo juos; savo meile ir savo gailesčiu jis juos išpirko, ir jis pakėlė juos bei nešė juos visas senovės dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/9-12.1792481906930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "jų vargoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צר",
+      "gloss": "buvo vargintojas"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ir pasiuntinys"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo veido"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "išgelbėjo juos"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "savo meile"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "ir savo gailesčiu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "išpirko juos"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "ir pakėlė juos"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "ir nešė juos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senovės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:26.931566459Z",
+  "model": "glm-5.3"
+}

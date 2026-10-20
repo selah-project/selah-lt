@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tarnas",
+      "rationale": "hebrajiškai veiksnys neišreikštas — כספו הוא pažymi tarną kaip nuosavybę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sidabras",
+      "rationale": "כסף reiškia ir sidabrą, ir pinigus — čia tarnas kaip šeimininko turtas"
+    }
+  ],
+  "translation": "Tačiau jeigu jis išstovi vieną dieną ar dvi dienas, ⟨jis⟩ nebūsi baudžiamas, nes ⟨tarnas⟩ yra jo sidabras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/21-24.1792472632558.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tačiau"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "vieną dieną"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "dvi dienas"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "išstovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "būsi baudžiamas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "jo sidabras"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yra"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:52.559721036Z",
+  "model": "glm-5.3"
+}

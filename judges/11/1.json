@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 11:1",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškai nėra veiksmažodžio — היה vėliau suteikia predikatą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן אשה זונה",
+      "rationale": "pakartojimas, pažeminimo formulė, kuri grįš 11 eilutės 2 pakartojimu su אחרת"
+    }
+  ],
+  "translation": "O Jiftachas gileadietis ⟨buvo⟩ galiūnas karys, ir jis ⟨buvo⟩ moters sūnus, paleistuvės; ir Gileadas susilaukė ⟨את⟩ Jiftachą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2427792c721612ec95aa51a3a8efbf472b5989fe4917b3bdc632ca09bb78f567",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/11\/1-4.1792476698163.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "O Jiftachas"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileadietis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "galiūnas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "karys"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "paleistuvės"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ir susilaukė"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftachą"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftachą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:38.165267690Z",
+  "model": "glm-5.3"
+}

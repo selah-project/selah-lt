@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 28:21",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio — pridėta kopula lietuvių sintaksei"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas kalba Saliamonui",
+      "rationale": "Tiesioginis kreipimasis į sūnų: su tavimi, tavo žodžiai"
+    }
+  ],
+  "translation": "Ir štai — kunigų ir levitų skyriai visai Elohim namų tarnystei, ir su tavimi ⟨yra⟩ kiekvienas dosnusis, išmintingas visokiam darbui, visai tarnystei, ir kunigaikščiai, ir visa tauta — visiems tavo žodžiams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee2206e15837ed60a85fecd72cb44cbf5a8bfbf065a765943f074a17a40f3a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/28\/21-21.1792493157592.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "skyriai"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigų"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ir levitų"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "tarnystei"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ir su tavimi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visokiam"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbui"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "dosnusis"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "išmintingas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "עבודה",
+      "gloss": "tarnystei"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ir kunigaikščiai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodžiams"
+    }
+  ],
+  "timestamp": "2026-10-20T10:45:57.592995365Z",
+  "model": "glm-5.3"
+}

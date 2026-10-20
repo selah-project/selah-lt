@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio, hebrajų היו veikia kaip buvimo žymė"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogija",
+      "rationale": "Sąrašas — vardų ir giminystės sekimas"
+    }
+  ],
+  "translation": "O Ashchūrui, Tekoos tėvui, buvo dvi žmonos: Chelah ir Naarah.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/4\/5-8.1792492682006.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "o Ashchūrui"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvui"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoos"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žmonos"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Chelah"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "ir Naarah"
+    }
+  ],
+  "timestamp": "2026-10-20T10:38:02.006776240Z",
+  "model": "glm-5.3"
+}

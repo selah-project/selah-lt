@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 24:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų klause 'כי אני יהוה' neturi veiksmažodžio; lietuvių reikalauja 'aš esu Jahvė'."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Antras כי — priežastinis 'nes\/juk'; YLT skaito 'for they turned back' (būtasis); pasirinkta būsimasis pagal kontekstą."
+    }
+  ],
+  "translation": "Ir duosiu jiems širdį pažinti mane ⟨את⟩, nes aš esu Jahvė; ir jie man bus tauta, o aš būsiu jiems Elohim, nes jie sugrįš pas mane visa savo širdimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e587f57d315a69bf8baad981e5b9e3a62b7747c442afb814f99996c4f3b7a4ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/24\/5-8.1792482918683.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ir duosiu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdį"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "pažinti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mane ⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir jie bus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "būsiu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "jie sugrįš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "savo širdimi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:55:18.686702978Z",
+  "model": "glm-5.3"
+}

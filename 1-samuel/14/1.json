@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 14:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peletų",
+      "rationale": "פלשתים verčiama „peletai“ pagal lietuvišką Biblijos tradiciją, ne „filistinai“"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio šioje šalutiniame sakinyje"
+    },
+    {
+      "kind": "secret",
+      "subject": "savo tėvui nepasakė",
+      "rationale": "slaptas Jonatano žygis — tėvas ir tauta nieko nežino"
+    }
+  ],
+  "translation": "Ir atsitiko vieną dieną, kad Jonatanas, Šauliaus sūnus, tarė ginklanešiui berniukui: Eime, pereikime iki peletų įgulos užposto, kuris ⟨yra⟩ anoje pusėje. Bet savo tėvui jis nepasakė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/1-4.1792477186432.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vieną dieną"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הנער",
+      "gloss": "berniiukui"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ginklanešiui"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jo ginklus"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eikime"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "pereikime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "įgulos užposto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peletų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "pusėje"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "anoje"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "savo tėvui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "pasakė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:46.433592225Z",
+  "model": "glm-5.3"
+}

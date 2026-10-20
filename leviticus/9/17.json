@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "המנחה čia aukojama duona — mincha, ne „dovana“"
+    },
+    {
+      "kind": "addition",
+      "subject": "atskirai nuo",
+      "rationale": "מלבד — skyrimo žodis, išplėstas į frazę"
+    }
+  ],
+  "translation": "Ir atnešė ⟨את⟩ minchą, ir prisipildė iš jos saują, ir sukvėpino ant aukuro — atskirai nuo rytinėsholokausto… atskirai nuo rytinės aukos, kylanciosios aukos ryto metu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/9\/17-20.1792473288142.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "atnešė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchą"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchą"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "prisipildė"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "saują"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iš jos"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "sukvėpino"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "atskirai nuo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "aukos, kylanciosios aukos"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ryto metu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:48.143142774Z",
+  "model": "glm-5.3"
+}

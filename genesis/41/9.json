@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצף חטאי",
+      "rationale": "חטא yra nusikaltimas ir jo bausmė kartu — 'kaltės' viena praranda dviprasmiškumą."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזכיר",
+      "rationale": "Veiksmažodis iš šaknies זכר (atminti) — 'paminėti\/atminti' vienu žodžiu."
+    }
+  ],
+  "translation": "Ir ėmė kalbėti saras-almusiųjų ⟨את⟩ su Paroh, sakydamas: ⟨את⟩ savo kaltes šiandien aminu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/9-12.1792471838114.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ir ėmė kalbėti"
+    },
+    {
+      "surface": "שר",
+      "gloss": "saras"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "almusiųjų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "su Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kaltes"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "savo kaltes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "aminu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:38.123130394Z",
+  "model": "glm-5.3"
+}

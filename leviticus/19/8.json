@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "הנפש yra „kvėpuojanti būtybė, gyvybė“ — ne „siela“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונכרתה",
+      "rationale": "„Iškirsta iš savo tautos“ — karet, bendruomenės atskyrimo formulė."
+    }
+  ],
+  "translation": "Ir kas ją valgys, neš savo kaltę, nes ⟨את⟩ Jahvės šventumą jis išniekino; ir ta nefes bus iškirsta iš savo tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/5-8.1792473523190.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ir kas ją valgys"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "savo kaltę"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "neš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės šventumą"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventumą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "išniekino"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ir bus iškirsta"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "iš savo tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:43.195250845Z",
+  "model": "glm-5.3"
+}

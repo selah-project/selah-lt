@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesė",
+      "rationale": "נפש yra gerklė\/kvapas\/gyvybės jėga — čia apie apetitą, ne sielą."
+    },
+    {
+      "kind": "crux",
+      "subject": "el ha-man eineinu",
+      "rationale": "„Prieš mūsų akis“ arba „mūsų akys žiūri tik į maną“ — trumpa hebrajiška frazė."
+    }
+  ],
+  "translation": "O dabar mūsų nefesė išdžiūvusi — nėra nieko, tik manas prieš mūsų akis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/11\/5-8.1792474121310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "O dabar"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "mūsų nefesė"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "išdžiūvusi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manas"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mūsų akis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:41.311504066Z",
+  "model": "glm-5.3"
+}

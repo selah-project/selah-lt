@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "už jį",
+      "rationale": "Hebrajų ישלמנה turi priesagą -נה („už jį“), lietuviškai reikia atskiro žodžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכה...מכה \/ ישלמנה...יומת",
+      "rationale": "Paralelinė struktūra: du kartoti veiksmažodžiai „sumuša“, du priešingi atsakai — atlygis ir mirtis"
+    }
+  ],
+  "translation": "Ir kas sumuša gyvulį, atlygins ⟨už jį⟩; o kas sumuša žmogų, bus užmuštas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/24\/21-23.1792473694834.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ir kas sumuša"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyvulį"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "atlygins ⟨už jį⟩"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "o kas sumuša"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus užmuštas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:34.835517390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "Visas posakis — apie saikus ir svorius: matas, svoris, skystasis saikas."
+    },
+    {
+      "kind": "crux",
+      "subject": "במשפט",
+      "rationale": "משפט čia platesnis nei 'teismas' — 'teisėtumas' apskritai; senieji vertėjai rašo 'in judgement'."
+    }
+  ],
+  "translation": "Nedarykite neteisybės teisme, ilgio mate, svoryje ir skystojo saiko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/33-36.1792473624776.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "עול",
+      "gloss": "neteisybės"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "teisme"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ilgio mate"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "svoryje"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ir skystojo saiko"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:24.802475651Z",
+  "model": "glm-5.3"
+}

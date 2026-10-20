@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai be veiksmažodžio — pridėta\/copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצדת",
+      "rationale": "Žodis reiškia ir tinklą, ir paėmimą, ir tvirtovę — čia „tvirtovė“"
+    }
+  ],
+  "translation": "Ir Davidas užėmė ⟨את⟩ Cijono tvirtovę — tai ⟨yra⟩ Davido miestas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/5-8.1792478069179.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ir užėmė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cijono tvirtovę"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "tvirtovę"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijono"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:29.182423964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מסה \/ נסתם, מריבה \/ ריב",
+      "rationale": "Vietos vardai Masa ('išbandymas') ir Meriva ('ginčas') kyla iš tų pačių šaknių, kurios apibūdina įvykį — vardas įamžina veiksmą."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardas",
+      "rationale": "Vietos įvardijimas — vardų sudėjimas kaip atminimo ženklas."
+    },
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "Lietuviškas jungtukas 'kad' sujungia priežastį, hebrajų infinitivas sako tai be jungtuko."
+    }
+  ],
+  "translation": "Ir jis pavadino tos vietos vardą Masa ir Meriva, dėl Jisraelio vaikų ginčo ir dėl to, kad jie bandė ⟨את⟩ Jahvę, sakydami: Ar Jahvė yra mūsų viduje, ar nėra?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e78027adb3d36194806cf10711d6951d13e359e6477e78fe9901aae15ca4c7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/17\/5-8.1792472593413.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir pavadino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tos vietos"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "ir Meriva"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ginčo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "kad bandė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Ar yra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "mūsų viduje"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:13.418186244Z",
+  "model": "glm-5.3"
+}

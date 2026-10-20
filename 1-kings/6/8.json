@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi kopulos — pridėta lietuviškai."
+    },
+    {
+      "kind": "crux",
+      "subject": "התיכנה",
+      "rationale": "„Vidurinis“ — bet JPS verčia „žemutinysis“: durys turėjo būti į žemutinį aukštą, kitaip į vidurinį nebūtų pateikta."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ובלולים",
+      "rationale": "„Vingiuoti laiptai“ — spiralės laiptų žodis, Tanache beveik vienintelis atvejis (lyg. Ezek 41 7)."
+    }
+  ],
+  "translation": "Viduriniojo priestato durys ⟨buvo⟩ dešinėje namo pusėje, ir vingiuotais laiptais kyla į vidurinįjį, o iš viduriniojo — į trečiąjį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "341029db1ea5f49a105a424c2b55d1b3d8ff8009e318b7bf18688bd303a8dd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/5-8.1792478957908.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "durys"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "priestato"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "viduriniojo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "peties"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "dešinės"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "ir vingiuotais laiptais"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kyla"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "vidurinįjį"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "o iš"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "viduriniojo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "trečiąjį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:49:17.911150677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 5:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio — pridėta ⟨yra⟩ nėra reikalinga lietuvių kalboje, nes einamasis laikas pakankamas"
+    },
+    {
+      "kind": "crux",
+      "subject": "slenksčio kultas",
+      "rationale": "etiologinė pastaba: kodėl filistiečiai nelipa ant slenksčio — Dagono galva ir rankos nukrito ant slenksčio (5, 4)"
+    }
+  ],
+  "translation": "Dėl to Dagono kunigai ir visi, ateinantys į Dagono namą, nelipa ant Dagono slenksčio Asdode iki šios dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/5\/5-8.1792477123631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרכו",
+      "gloss": "lipa"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagono"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ateinantys"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagono"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "slenksčio"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagono"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Asdode"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:43.632113697Z",
+  "model": "glm-5.3"
+}

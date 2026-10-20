@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "plokščia",
+      "rationale": "קרש yra lenta ar plokštė (laivo denio sąvoka), ne 'rėmas' ir ne 'siena'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šiaurė",
+      "rationale": "צפון iš šaknies 'paslėptas, tamsus' — šiaurė kaip niūrus ketvirčiai; verčiama paprasčiausiai 'šiaurė'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvidešimt plokščių",
+      "rationale": "Skliaustinių matmenų sąrašas — miškano šonų skaičiavimas."
+    }
+  ],
+  "translation": "Ir antrosiai miškano šonui, šiaurės pusėje, jis padarė dvidešimt plokščių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/36\/25-28.1792473037123.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ir antrosiai šonai"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanas"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "antroji"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pusėje"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "šiaurė"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "plokščių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:37.125193285Z",
+  "model": "glm-5.3"
+}

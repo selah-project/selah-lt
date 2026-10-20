@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ji ⟨yra⟩",
+      "rationale": "Hebrajiškai 'היא' reiškia 'ji (yra)'; veiksmažodis pridėtas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר\/יעבר",
+      "rationale": "kirtimas per jūrą kartojasi: 'už jūros' ir 'perės' — ta pati šaknis עבר, kartojama tris kartus"
+    }
+  ],
+  "translation": "Ir ne už jūros ji ⟨yra⟩, kad sakytum: Kas per mums perės į kraštą už jūros, ir paims ją mums, ir paddarys mums išgirsti ⟨את⟩ ją, kad padarytume?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/13-16.1792475505574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "už"
+    },
+    {
+      "surface": "לים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kad sakytum"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "perės"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kraštą už"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ir paims ją"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ir paddarys išgirsti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "kad padarytume"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:45.575662195Z",
+  "model": "glm-5.3"
+}

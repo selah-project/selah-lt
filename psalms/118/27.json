@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame teigime; lietuvių reikalauja"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסרו חג בעבתים",
+      "rationale": "Ar 'suriškite auką virvėmis' (KJV), ar 'vedkite šventinę eiseną su šakomis' (JPS) — עבתים gali būti ir pintos virvės, ir vainikai iš šakų"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אסרו",
+      "rationale": "Įsakymas šventikams ar tautai — ritualinis imperatyvas šventovėje"
+    }
+  ],
+  "translation": "El ⟨yra⟩ Jahvė ir apšvietė mus; suriškite šventinę auką virvėmis iki aukuro ragų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/118\/25-28.1792489042817.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ir apšvietė"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mus"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "suriškite"
+    },
+    {
+      "surface": "חג",
+      "gloss": "šventinę auką"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "virvėmis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ragų"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:22.818024194Z",
+  "model": "glm-5.3"
+}

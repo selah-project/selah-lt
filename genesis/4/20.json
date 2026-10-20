@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų הוא היה — pabrėžiamasis įvardis + veiksmažodis; lietuviškai reikia sklaustuose pridėtos sangrindžios formos 'buvo' nėra būtina, bet skaitymui reikalinga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומקנה",
+      "rationale": "מקנה — 'įsigyta nuosavybė, gyvi gyvuliai'; ne vien 'galvijai', bet visas pirktinis gyvulių turtas."
+    }
+  ],
+  "translation": "Ir Ada pagimdė ⟨את⟩ Javalą; jis ⟨buvo⟩ tėvas gyvenančių palapinėse ir turinčių gyvulius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/17-20.1792471000950.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ir pagimdė"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Javalą"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Javalą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyvenančių"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinėse"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ir turinčių gyvulius"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:40.956267116Z",
+  "model": "glm-5.3"
+}

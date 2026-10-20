@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "numeracija",
+      "rationale": "Hebrajų tekste šios eilutės atitinka kitokį skyrių suskirstymą (JPS 63:19b–64:2); vertimas seka duotuoju žodžių rikiavimu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נזלו",
+      "rationale": "Šaknis reiškia tekėti\/purtyti — „sruvo“ laiko tekančio vaizdą, kiti verčia „drebėjo“."
+    }
+  ],
+  "translation": "Darydamas bauginančius dalykus, kurių nesitikėjome — tu nulipai, tavo veidu kalnai sruvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/1-4.1792481971926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "darydamas"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "bauginančius dalykus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "nesitikėjome"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "tu nulipai"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tavo veidu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnai"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "sruvo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:31.927705398Z",
+  "model": "glm-5.3"
+}

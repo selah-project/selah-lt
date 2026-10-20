@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישם לדרך פעמיו",
+      "rationale": "Pažodžiui „ir padarys savo žingsnius keliu“ — ar cedek eina priešais ir paruošia kelią Jahvės žingsniams (KJV), ar pats žingsnius paverčia keliu (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק paliktas kaip cedek pagal D2 — ne vien „teisumas“."
+    }
+  ],
+  "translation": "Cedek eis priešais jį ir taps keliu jo žingsniams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/85\/13-14.1792488568353.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "priešais jį"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "eis"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ir taps (padarys)"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "keliu"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "jo žingsniams"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:28.354337724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“ šiame klausime."
+    },
+    {
+      "kind": "you",
+      "subject": "draugams",
+      "rationale": "retorinis klausimas, kreipiamasis į draugus."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorinis klausimas",
+      "rationale": "klausimai įtraukia klausytoją į Jobo kalbą."
+    }
+  ],
+  "translation": "Ar ⟨yra⟩ galas ruach žodžiams? Ar kas tave skatina, kad taip atsakai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a0a5b43e606e965d068c8f7ecd50ce9aaa9f6fb46181863078110d3c0155eed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/16\/1-4.1792490342595.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "galas"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "žodžiams"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "skatina tave"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "atsakai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:59:02.595903643Z",
+  "model": "glm-5.3"
+}

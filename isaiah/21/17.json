@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 21:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lankininkų",
+      "rationale": "קשת pažodžiui 'lankas'; čia metonimiškai — lanko vyrai, lankininkai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičius",
+      "rationale": "״likutis skaičiaus״ — mažėjantis karių skaičiavimas, skaičius sumažinamas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi pagalbinio veiksmažodžio, lietuvių reikalauja"
+    }
+  ],
+  "translation": "Ir likutis skaičiaus lankininkų — stipruolių Qedaro sūnų — bus sumažintas, nes Jahvė, Jisraelio Elohim, ⟨yra⟩ kalbėjęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e2e934902d6f924564a617317512fd8e33e456b9a7f9f6ec2705c40c011818d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/21\/17-17.1792480905816.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "ir likutis"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičiaus"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lankininkų"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "stipruolių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedaro"
+    },
+    {
+      "surface": "ימעטו",
+      "gloss": "bus sumažintas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjęs"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:45.816462817Z",
+  "model": "glm-5.3"
+}

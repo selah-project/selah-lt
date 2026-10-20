@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבעים",
+      "rationale": "Retas veiksmažodis: 'apgaudinėti\/nuslėgti mokesčius' vs 'apibrėžti' — čia apie dešimtinių nuslėpimą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tauta⟩",
+      "rationale": "Hebrajų artikelis הַ neįmanomas lietuviškai; pridėtas kontekstinis žodis, nes 'tauta visa' be jo skambėtų nenatūraliai."
+    }
+  ],
+  "translation": "Prakeikimu jūs esate prakeikti, ir ⟨את⟩ mane jūs apgaudinėjate — ⟨tauta⟩ visa iki vieno.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7869b4484f1b0924d93326df9b8014ff445340ad2366923682c12b2edf813e7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/3\/9-12.1792487416066.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "prakeikimu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "esate prakeikti"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mane"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "apgaudinėjate"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "visa iki vieno"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:16.067686295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 29:28",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "priklauso",
+      "rationale": "hebrajiškame nėra veiksmažodžio — „paslėptieji — Jahvei”; pridėta dėl lietuvių gramatikos"
+    },
+    {
+      "kind": "secret",
+      "subject": "הנסתרת",
+      "rationale": "galiausiai apie paslėptus dalykus, priklausančius tik Jahvei — šios eilutės centras"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסתרת\/נגלת",
+      "rationale": "paslėptieji\/apreikštieji — porinis priešpriešos darinys, pagrindinis eilutės sąskambis"
+    }
+  ],
+  "translation": "Paslėptieji priklauso Jahvei, mūsų Elohim, o apreikštieji — mums ir mūsų sūnums per amžius, kad vykdytume ⟨את⟩ visus šitos Toros žodžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/25-28.1792475508672.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנסתרת",
+      "gloss": "paslėptieji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "והנגלת",
+      "gloss": "o apreikštieji"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "ולבנינו",
+      "gloss": "ir mūsų sūnums"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžius"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kad vykdytume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus žodžius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toros"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:48.675476319Z",
+  "model": "glm-5.3"
+}

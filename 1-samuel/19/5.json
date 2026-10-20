@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga, ne 'siela'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehonatanas kalba Šauliui",
+      "rationale": "tiesioginis kreipimasis: 'tu matei ir džiaugeisi, kodėl nusidėsi...'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחטא \/ חנם",
+      "rationale": "Jehonatano kalbos žodžiai aidina 19,4–5: nusidėti nekaltu krauju prieš Davidą be priežasties"
+    }
+  ],
+  "translation": "Jis paėmė ⟨את⟩ savo gyvybę į savo delną ir smogė ⟨את⟩ pelištį, ir Jahvė padarė didį išgelbėjimą visam Jisraeliui; tu matei ir džiaugeisi, tai kodėl nusidėsi nekaltu krauju, tardamas mirčiai ⟨את⟩ Davidą be priežasties?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/19\/5-8.1792477430438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo gyvybę"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savo gyvybę"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "į savo delną"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "smogė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelištį"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "pelištį"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "išgelbėjimą"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "didį"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "matei"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "džiaugeisi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "nusidėsi"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "krauju"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nekaltu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "tardamas mirčiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "be priežasties"
+    }
+  ],
+  "timestamp": "2026-10-20T06:23:50.439974627Z",
+  "model": "glm-5.3"
+}

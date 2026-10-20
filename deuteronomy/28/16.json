@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אָרוּר ... וְאָרוּר",
+      "rationale": "prakeiksmo formulės kartojimas — chiazminė paralelė miestas\/laukas apima visą gyvenamą erdvę."
+    },
+    {
+      "kind": "you",
+      "subject": "tau",
+      "rationale": "tiesioginis kreipimasis į Jisraelį — prakeiksmų katalogo pradžia."
+    }
+  ],
+  "translation": "Prakeiktas tu mieste, ir prakeiktas tu lauke.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/13-16.1792475469493.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Prakeiktas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ir prakeiktas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:09.498500900Z",
+  "model": "glm-5.3"
+}

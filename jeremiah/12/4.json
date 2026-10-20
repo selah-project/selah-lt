@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jis",
+      "rationale": "sakinio veiksnys „Jis“ (Jahvė) hebrajų tekste neišreikštas — pridėta veiksmažodžio formai"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יראה",
+      "rationale": "veiksnys bevardis — „Jis nematys“ (apie Jahvę) vs „nemūsų pabaigos nematys“; JPS „He seeth not our end“"
+    }
+  ],
+  "translation": "Iki kada žemė liūdės ir visos lauko žolė džiūsta nuo jos gyventojų blogio? Pražūsta gyvuliai ir paukščiai, nes jie sakė: Jis nematys ⟨את⟩ mūsų pabaigos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/1-4.1792482477274.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "liūdės"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ir žolė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "džiūsta"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "nuo blogio"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojų"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "pražūsta"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "gyvuliai"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "ir paukščiai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jie sakė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nematys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsų pabaigą"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "mūsų pabaigos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:57.277263686Z",
+  "model": "glm-5.3"
+}

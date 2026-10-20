@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajų יהיה neturi gretimo būtojo laiko išreiškimo, pridedama lietuviška kopula."
+    },
+    {
+      "kind": "you",
+      "subject": "to Noach and his sons",
+      "rationale": "Dievo žodis toliau kreipiasi į Noachą ir jo sūnus — naujas maisto paskyrimas."
+    }
+  ],
+  "translation": "Viskas, kas roplių ir gyva, jums ⟨bus⟩ maistui; kaip žalią žolę daviau jums ⟨את⟩ visa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/1-4.1792471108168.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "viskas"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kas roplių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyva"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bus⟩"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "maistui"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kaip žalią"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "žolę"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:28.171804484Z",
+  "model": "glm-5.3"
+}

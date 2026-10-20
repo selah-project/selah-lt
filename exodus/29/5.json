@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "החשן",
+      "rationale": "choshenas — krūtinės skydas su Urim ir Tumim, paliktas transliteruotas, nes vienas lietuviškas žodis pakeistų jo formą"
+    },
+    {
+      "kind": "addition",
+      "subject": "austu",
+      "rationale": "חשב reiškia audinį diržą; 'austu' pridėta, kad matytųsi pintos juostos vaizdas"
+    }
+  ],
+  "translation": "Ir paimsi ⟨את⟩ drabužius, ir apvilksi ⟨את⟩ Aharoną ⟨את⟩ marškiniais, efodo ⟨את⟩ apdangalu, ⟨את⟩ efodu ir ⟨את⟩ choshenu, ir apjuosi jį efodo austu diržu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/5-8.1792472797488.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ir paimsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drabužius"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ir apvilksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marškiniais"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "marškiniais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "efodo apdangalu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "apdangalu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "efodu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "choshenu"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "choshenu"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ir apjuosi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "austu diržu"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:37.493634069Z",
+  "model": "glm-5.3"
+}

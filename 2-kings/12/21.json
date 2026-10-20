@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקשרו קשר",
+      "rationale": "Veiksmažodis ir daiktavardis iš tos pačios šaknies — 'surišo rišmenį', t. y. 'sudarė sąmokslą'; kartojimas prarastas lietuviškai."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית מלא",
+      "rationale": "Bet-Milas — Jėzaus laikų Jeruzalės citadelės pylimas; verčiama kaip vardas, ne 'pildymo namai'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tą, kuris⟩",
+      "rationale": "היורד dalyvinė konstrukcija Bet-Milo apibūdinimui; lietuviškai reikėjo jungiamojo žodžio."
+    }
+  ],
+  "translation": "Ir pakilo jo tarnai ir sudarė sąmokslą, ir nukovė ⟨את⟩ Joašą Bet-Mile, ⟨tą, kuris⟩ nusileidžia į Silą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/12\/21-22.1792480079380.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ir pakilo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ir sudarė"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sąmokslą"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ir nukovė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joašą"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milas"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "nusileidžiantis"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "į Silą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:07:59.381553025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio karalius savo tarnams",
+      "rationale": "Tiesioginis kreipimasis su retoriniu klausimu."
+    }
+  ],
+  "translation": "Ir Jisraelio karalius tarė savo tarnams: Ar nežinote, kad Ramot-Gileadas yra mūsų, o mes tylime ir neimiame jos iš Aramo karaliaus rankos?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/1-4.1792479636809.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "saviems tarnams"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Ar nežinote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mūsų"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadas"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "o mes"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tylime"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "neimiame"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Ramot-Gileadą)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:00:36.810992713Z",
+  "model": "glm-5.3"
+}

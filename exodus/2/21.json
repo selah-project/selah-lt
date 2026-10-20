@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sutiko",
+      "rationale": "ויואל pažodžiui 'nusižadėjo\/pasiryžo' — veiksmo valios veiksmažodis, ne vien sutikimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "tą",
+      "rationale": "lietuvių kalbai reikia rodyamosios formos, hebrajų artikelis neverčiamas"
+    }
+  ],
+  "translation": "Ir Mošė sutiko pasilikti pas ⟨את⟩ tą vyrą, ir tas davė ⟨את⟩ Ciporą, savo dukterią, Mošei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/21-24.1792472151075.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "sutiko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "pasilikti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tą vyrą"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tą vyrą"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporą"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporą"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savo dukterią"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošei"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:51.076444045Z",
+  "model": "glm-5.3"
+}

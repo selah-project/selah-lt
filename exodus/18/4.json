@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אליעזר",
+      "rationale": "Vardas Eliezeris reiškia „mano Elohim — pagalba“ (אלי עזר) — vardo paaiškinimas pats verse.",
+      "verse_note": false
+    },
+    {
+      "kind": "addition",
+      "subject": "kito",
+      "rationale": "Lietuvių kalbai reikia įvardžio, hebrajų turi tik האחד su artikeliu."
+    }
+  ],
+  "translation": "O kito vardas — Eliezeris, nes mano tėvo Elohim — mano pagalba, ir jis išplėšė mane nuo faraono kardo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/1-4.1792472598503.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "o vardas"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kito"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezeris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "mano pagalba"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ir išplėšė mane"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "nuo kardo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraono"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:18.506700123Z",
+  "model": "glm-5.3"
+}

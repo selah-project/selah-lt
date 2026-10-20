@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiškame tekste nėra įvardžio — palapinės šeimininkas suprantamas iš konteksto"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגדל עדר",
+      "rationale": "vietovardis reiškia 'kaimenės bokštą' — piemenų bokštas prie Betliejaus"
+    }
+  ],
+  "translation": "Ir Jisraelis iškeliavo ir ištiesė savo palapinę toliau už Migdal-Ederą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1db5d6684b46e938303ab2c44582b53177b615d453aaa31f2c14a2fe11b121de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/21-24.1792471707442.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "iškeliavo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ištiesė"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "savo palapinę"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "toliau už"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Ederą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:27.442978761Z",
+  "model": "glm-5.3"
+}

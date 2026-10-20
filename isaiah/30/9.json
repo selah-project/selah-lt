@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio su הוא — lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים…בנים",
+      "rationale": "„Sūnūs“ pakartotas du kartus — pamokančioji anakoluto struktūra, lietuviškai išlaikyta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורת יהוה — „Jahvės Tora“, ne „įstatymas“ ar „mokymas“"
+    }
+  ],
+  "translation": "Nes ⟨tai yra⟩ tauta maištaujanti, sūnūs melagingi, sūnūs, kurie nenorėjo klausyti Jahvės Toros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/9-12.1792481190185.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "maištaujanti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "melagingi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "norėjo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "klausyti"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:26:30.186204030Z",
+  "model": "glm-5.3"
+}

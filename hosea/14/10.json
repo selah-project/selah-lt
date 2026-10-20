@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "skaitytojui",
+      "rationale": "Eilutė kviečia skaitytoją: kas išmintingas, teišmano šiuos dalykus — knygos Hošėjos uždangos klausimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדיקים",
+      "rationale": "„Cedeko einantieji“ vietoje įprasto „teisieji“ — išlaikoma šaknis צדק."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישרים \/ צדיקים \/ פשעים",
+      "rationale": "Keliai tiesūs, teisieji jais eina, nusikaltėliai jais krenta — tas pats „jie“ (בם) abu kartus, ironija lietuviškai išlieka."
+    }
+  ],
+  "translation": "Kas išmintingas — teišmano ⟨tai⟩; kas apdairus — tepažįsta ⟨tai⟩; nes tiesūs Jahvės keliai, ir cedeko einantieji eis jais, o nusikaltėliai jais suklups.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/14\/9-10.1792486293579.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "išmintingas"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "teišmano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨tai⟩"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "apdairus"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "tepažįsta ⟨tai⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiesūs"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "keliai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "ir cedeko einantieji"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "eis"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jais"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "o nusikaltėliai"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "suklups"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jais"
+    }
+  ],
+  "timestamp": "2026-10-20T08:51:33.581324499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gimdą⟩",
+      "rationale": "Hebrajų עצר 'sulaikyti, uždaryti' čia neturi daiktavardžio; lietuvių kalbai reikia objekto"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשביר",
+      "rationale": "Hiphil iš שבר 'laužyti' — gimdymo skausmų sukėlimas; kai kurie verčia 'atverti' (jausmų prasme)"
+    },
+    {
+      "kind": "you",
+      "subject": "Sionui per pranašą",
+      "rationale": "Jahvė kreipiasi į gimdančią Siono tautą"
+    }
+  ],
+  "translation": "Ar aš sukelsiu gimdymo skausmus ir nepriversiu gimdyti? — sako Jahvė; ar aš, kuris privertčiau gimdyti, uždarysiau ⟨gimdą⟩? — sako tavo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/9-12.1792482171379.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "ar aš"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "sukelsiu gimdymo skausmus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "priversiu gimdyti"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "kuris privertčiau gimdyti"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "uždarysiau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:42:51.381205644Z",
+  "model": "glm-5.3"
+}

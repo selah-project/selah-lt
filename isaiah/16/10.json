@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nesu⟩",
+      "rationale": "Lietuvių kalbai reikia neiginio, hebrajų כי po השבתי jo neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השבתי",
+      "rationale": "šבת 'pailsinti, nutraukti' — 'sulaikiau, įvedžiau šabatą šūksniui'."
+    }
+  ],
+  "translation": "Ir džiaugsmas ir linksmumas bus pašalinti iš derlingojo lauko, ir vynuogynuose nebus dainuojama, nebus šaukiama; vyno spaudyklose spaudėjas ne mindys vyno — ⟨nesu⟩ aš įvedęs šabatą šūksniui.”",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/16\/9-12.1792480986670.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "ir bus pašalintas"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "džiaugsmas"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ir linksmumas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "derlingojo lauko"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "ir vynuogynuose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "bus dainuojama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "bus šaukiama"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "spaudyklose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "mindys"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "spaudėjas"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "šūksniui"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "aš įvedžiau šabatą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:06.671113116Z",
+  "model": "glm-5.3"
+}

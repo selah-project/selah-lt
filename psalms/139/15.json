@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebraiškai nėra jungiamo veiksmažodžio"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתר",
+      "rationale": "gimdymo paslaptis — 'paslaptoje vietoje' vaizduoja paslėptą kūrimą"
+    }
+  ],
+  "translation": "Mano kaulai ⟨buvo⟩ neslėpti nuo tavęs, kai ⟨buvau⟩ padarytas paslaptyje, išaustas žemės gelmėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/13-16.1792489272694.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "neslėpti"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "neslėpti"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mano kaulai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "padarytas"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "paslaptyje"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "išaustas"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "gelmėse"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:12.695238494Z",
+  "model": "glm-5.3"
+}

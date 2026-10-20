@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 16:41",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šiojeanutrinėje dalyje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד išlaikomas kaip chesed, o ne verčiamas 'gailestingumas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקבו",
+      "rationale": "pažodžiui 'pradurti\/surišti' — 'paskirti, įvardyti'; verčiamųjų nuo 'išreikšti vardu' iki 'paskirti'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לעולם",
+      "rationale": "'per amžius' vs 'amžinai' — pažodžiui 'iki pasislėpusio taško'"
+    }
+  ],
+  "translation": "Ir su jais — Heirmanas ir Jedutunas, ir likusieji išrinktieji, kurie buvo įvardyti vardais, dėkoti Jahvei, nes per amžius ⟨yra⟩ jo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/16\/41-43.1792492979646.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "Ir su jais"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heirmanas"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "ir Jedutunas"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ir likusieji"
+    },
+    {
+      "surface": "הברורים",
+      "gloss": "išrinktieji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "buvo įvardyti"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "vardais"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "dėkoti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T10:42:59.647505357Z",
+  "model": "glm-5.3"
+}

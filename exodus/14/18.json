@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — 'aš Jahvė' tiesiog; lietuvių reikalauja ⟨esu⟩."
+    }
+  ],
+  "translation": "Ir egiptiečiai pažins, kad aš ⟨esu⟩ Jahvė, kai būsiu pašlovintas faraone, jo vežimuose ir jo raiteliuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/17-20.1792472522677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ir pažins"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egiptiečiai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "kai būsiu pašlovintas"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "faraone"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "jo vežimuose"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ir jo raiteliuose"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:02.678929361Z",
+  "model": "glm-5.3"
+}

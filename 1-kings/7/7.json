@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Pasyvinis dalyvis וספון be veiksmažodžio — lietuvių kalbai reikia 'buvo'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהקרקע עד הקרקע",
+      "rationale": "'Nuo grindų iki grindų' — hebrajiškai tas pats žodis du kartus; KJV 'from one side of the floor to the other', kiti 'nuo grindų iki lubų'."
+    }
+  ],
+  "translation": "Ir prieangį sosto, kuriame jis ten teisė, — teismo prieangį jis padarė, ir ⟨buvo⟩ padengta cedru nuo grindų iki grindų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9f3fa261458577b04f46d91862993b20287a830305f166c9a2c46ae4447c7471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/7\/6-8.1792485547585.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ir prieangį"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "sosto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriame"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "jis teisė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "prieangį"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "teismo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jis padarė"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "ir ⟨buvo⟩ padengta"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cedru"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "nuo grindų"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "grindų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:39:07.587384880Z",
+  "model": "glm-5.3"
+}

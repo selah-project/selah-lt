@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחללו\/ונקדשתי\/מקדשכם",
+      "rationale": "Šaknies קדש kartojimas ir priešprieša חלל — 'niekinti' prieš 'pašventinti'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקדשתי",
+      "rationale": "Veikslas svyruoja: 'būsiu pašventintas' (pasyvas) arba 'pašventinsiu save'; KJV 'I will be hallowed'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajiškai sakoma tiesiog 'aš Jahvė', be veiksmažodžio."
+    }
+  ],
+  "translation": "Ir niekinkite ⟨את⟩ mano švento vardo, ir būsiu pašventintas Jisraelio vaikų viduryje — aš ⟨esu⟩ Jahvė, pašventinantis jus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/29-32.1792473606172.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ir ne"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "niekinkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano švento vardo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mano šventą"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ir būsiu pašventintas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "pašventinantis jus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:06.211297903Z",
+  "model": "glm-5.3"
+}

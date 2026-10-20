@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Lietuvių kalbai reikia veiksnio, hebrajų turi tik veiksmažodį su priesaga."
+    },
+    {
+      "kind": "addition",
+      "subject": "labiau nei",
+      "rationale": "Hebrajiškas מן reiškia „nuo\/daugiau už“, išplėsta į lyginamąją konstrukciją."
+    }
+  ],
+  "translation": "Ir Jahvė, tavo Elohim, tave atves į žemę, kurią paveldėjo tavo tėvai, ir tu ją paveldėsi; ir jis tau gera darys, ir padaugins tave labiau nei tavo tėvus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f2f469d4827a15866facddf263dc3d0788e99ec158222deee8159c8c5f9a2ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/5-8.1792475494096.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ir tave atves"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "paveldėjo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tavo tėvai"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ir tu ją paveldėsi"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "ir jis tau gera darys"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ir padaugins tave"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "labiau nei tavo tėvai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:34.098757414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "pažodžiui 'kardo burna\/lūpos' — kalboje 'ašmenimis'; išlaikytas pažodinis vaizdas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש — gyvybės jėga, alsavimas, ne 'siela' viena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחוס יחמל ירחם",
+      "rationale": "triguba neigto gailesčio prieštvanė — visi trys verčiami skirtingais lietuviškais žodžiais"
+    }
+  ],
+  "translation": "Ir po to, sako Jahvė, atiduosiu ⟨את⟩ Cidkijahu, Jihudos karalių, ir ⟨את⟩ jo tarnus, ir ⟨את⟩ tautą, ir ⟨את⟩ likutį šiame mieste — nuo maro, nuo kardo ir nuo badu — į Nevuchadrecaro, Babelio karaliaus, ranką, ir į jų priešų ranką, ir į tų, kurie siekia jų nefes, ranką; ir jis sumuš juos kardo lūpomis — jis nesigailės jų, ir neaplenks, ir nepagailės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/21\/5-8.1792482676176.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ir po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "atiduosiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cidkijahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jihudos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo tarnus"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "likutį"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "likutį"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šiame"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ir nuo"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bado"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevuchadrecaro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelio"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ir ranką"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "jų priešų"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ir ranką"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kurie siekia"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jų nefes"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "ir sumuš juos"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "lūpomis"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "nesigailės"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "neaplenks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "nepagailės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:51:16.178503989Z",
+  "model": "glm-5.3"
+}

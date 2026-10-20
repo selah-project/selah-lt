@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 14:28",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השבע השביע",
+      "rationale": "Infinitive absolute קוסם — „tikrai įpareigojo“; pasikartojanti šaknis pabrėžia priesaikos sunkumą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų turi tik ויעף."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעף",
+      "rationale": "Šaknis עוף reiškia ir 'skristi', ir 'nualpti iš tamsos akims' — čia 'nualinta', ne 'pavargo' (KJV 'faint', YLT 'weary')."
+    }
+  ],
+  "translation": "Ir atsakė vienas iš tautos žmonių ir tarė: Tavo tėvas tikrai įpareigojo priesaika ⟨את⟩ tautą, sakydamas: Prakeiktas žmogus, kuris šiandien valgys duonos. Ir tauta ⟨buvo⟩ nualinta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddf34e821bea535a00ed174e0568f36b19d0207e61c191cb37b21248d6e0ae62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/28-28.1792485420436.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vienas žmogus"
+    },
+    {
+      "surface": "מהעם",
+      "gloss": "iš tautos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "tikrai įpareigojo priesaika"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "įpareigojo priesaika"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "prakeiktas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ir nualinta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    }
+  ],
+  "timestamp": "2026-10-20T08:37:00.437248486Z",
+  "model": "glm-5.3"
+}

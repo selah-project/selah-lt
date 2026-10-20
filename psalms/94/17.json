@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gyvybės jėga,kvėpuojanti būtybė; ne 'siela' viena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דומה",
+      "rationale": "'tyla' arba 'mirties tyla, šeol' — figūriškai mirtis"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "kalbintojas kreipiasi į Jahvę"
+    }
+  ],
+  "translation": "Jei ne Jahvė — pagalba man, būtų vos gyvenusi tyloje mano nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cc28e4c47c64080aef18a956129cbdd10e3b0989220dd5dc66fac0218a1dff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/94\/17-20.1792488697014.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "jei ne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pagalba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "vos"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "gyvenusi"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "tyloje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:37.014609308Z",
+  "model": "glm-5.3"
+}

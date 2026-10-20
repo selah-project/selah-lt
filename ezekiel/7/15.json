@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "dalyvinės konstrukcijos 'kas lauke \/ kas mieste' reikalauja veiksmažodžio lietuvių kalboje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב · דבר · רעב",
+      "rationale": "triejų nelaimių chiazmas: kardas–maras–badas, badas–maras — simetrija aiški hebrajiškame tekste"
+    }
+  ],
+  "translation": "Kardas lauke, o maras ir badas namuose; kas ⟨yra⟩ lauke — kardu mirs, o kas ⟨yra⟩ mieste — badas ir maras jį suės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/7\/13-16.1792483903710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "o maras"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ir badas"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "o kas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "badas"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir maras"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "suės jį"
+    }
+  ],
+  "timestamp": "2026-10-20T08:11:43.713997651Z",
+  "model": "glm-5.3"
+}

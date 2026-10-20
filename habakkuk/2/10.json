@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gerklė, gyvybės jėga, ne 'siela' viena; paliktas kaip nefesh"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוטא נפשך",
+      "rationale": "'nusikaltei savo nefesh' arba 'padarei nefesh nusidėjėle' (JPS 'forfeited thy life')"
+    }
+  ],
+  "translation": "Sumanei gėdą savo namams, nukirsdamas daug tautų — ir nusikaltei ⟨prieš⟩ savo nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/habakkuk\/2\/9-12.1792486830196.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "Sumanei"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "gėdą"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "savo namams"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nukirsdamas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "nusikaltei"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savo nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T09:00:30.198475121Z",
+  "model": "glm-5.3"
+}

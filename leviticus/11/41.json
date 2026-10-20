@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew lacks copula between שקץ and the clause"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרץ\/שרץ",
+      "rationale": "substantive and verb of the same root side by side — 'the swarming thing that swarms' — kept as 'kas šliaužioja ir kirba'"
+    }
+  ],
+  "translation": "Ir visa, kas šliaužioja ir kirba ant žemės, ⟨yra⟩ pasibjaurėjimas — to nevalia valgyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/41-44.1792473320506.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kas šliaužioja"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kirba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "pasibjaurėjimas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgoma"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:20.508123892Z",
+  "model": "glm-5.3"
+}

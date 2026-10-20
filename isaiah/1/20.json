@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Lietuvių kalbai reikia įvardžio, hebrajų tiesiog sako 'kalbėjo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאכלו\/תאכלו",
+      "rationale": "Tas pats veiksmažodis 'valgyti' v. 19 ir v. 20: gėrybių arba jūsų valgys kardas — lietuviškai išlaikyta."
+    }
+  ],
+  "translation": "O jei atsisakysite ir sukilsite, kardu būsite ėdami, nes Jahvės burna ⟨tai⟩ kalbėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e685519ac0c74cb91c2dc0fb34c0d1389f19735189155267a5efbfca93e0c078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/17-20.1792480580962.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "atsisakysite"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ir sukilsite"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "תאכלuo",
+      "gloss": "būsite ėdami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:20.966994533Z",
+  "model": "glm-5.3"
+}

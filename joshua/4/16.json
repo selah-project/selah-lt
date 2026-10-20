@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "įsakyk",
+      "rationale": "imperatyvas — Jahvės įsakymas Jehošuai, nukreiptas per jį kunigams"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "prielinksnis 'prie' išnyko suliejus su 'kalbėjo' lietuvių linksniu"
+    }
+  ],
+  "translation": "Įsakyk ⟨את⟩ kunigams, nešantiies liudijimo skrynią, kad jie pakiltų iš Jordano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "19fcd643dd2c99e5a14445762e0d9bbd97023cf95eb7c589e7cc815feef9f167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/4\/13-16.1792475680404.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "įsakyk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunigams"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigams"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nešantiems"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "liudijimo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "kad jie pakiltų"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordano"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:40.410145314Z",
+  "model": "glm-5.3"
+}

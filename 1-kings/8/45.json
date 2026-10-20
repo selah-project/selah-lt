@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jų teisę",
+      "rationale": "משפטם yra 'teismas\/teisė'; tradiciniai 'apgink jų reikalą' yra aiškinamasis perkėlimas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "danguje",
+      "rationale": "השמים yra dviskaita — 'danguose' būtų literallyks formai, bet lietuviška ausis skaito vientisai"
+    }
+  ],
+  "translation": "tu išklausysi danguje ⟨את⟩ jų maldą ir ⟨את⟩ jų atsiprašymą, ir padarysi jų teisę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/45-48.1792479107835.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "tu išklausysi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "danguje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų maldą"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "jų maldą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų atsiprašymą"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "jų atsiprašymą"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jų teisę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:47.836388654Z",
+  "model": "glm-5.3"
+}

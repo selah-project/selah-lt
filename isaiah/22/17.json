@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טלטל \/ עטה",
+      "rationale": "Dvigubas veiksmažodžių kartojimas — mėtymo ir vyniojimo paradigma, lietuviškai atkartota kartojimu"
+    },
+    {
+      "kind": "crux",
+      "subject": "מטלטלך",
+      "rationale": "KJV 'išveš į nelaisvę' vs YLT\/JPS 'svaidys šen ir ten'; laikomasi pažodinio svaidymo"
+    }
+  ],
+  "translation": "Štai Jahvė svaidys tave šen-ir-ten, šen-ir-ten-svaidymas, galingasis, ir suvynios tave, suvynios.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "32fa59ba57dcbe7bad0e200916733d11fb10661db114c9aab1d2969d9bc3a9bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/17-20.1792481054996.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "svaidys tave šen-ir-ten"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "šen-ir-ten-svaidymas"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "galingasis"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "ir suvynios tave"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "suvynios"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:14.996780215Z",
+  "model": "glm-5.3"
+}

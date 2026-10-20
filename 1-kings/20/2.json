@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨į⟩",
+      "rationale": "Hebrajųlinksnis העירה „mieston“ turi krypties galūnę; lietuviškai reikia prielinkso „į“."
+    }
+  ],
+  "translation": "Ir jis pasiuntė pasiuntinius pas Achabą, Jisraelio karalių, ⟨į⟩ miestą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/20\/1-4.1792479578171.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir pasiuntė"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "į miestą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:59:38.172443087Z",
+  "model": "glm-5.3"
+}

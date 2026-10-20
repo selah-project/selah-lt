@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pripildė ranką",
+      "rationale": "מלא את יד — įšventinimo idiomą 'pripildyti ranką' išlaikytas pažodžiui; dauguma vertimų pakeičia į 'įšventino'"
+    },
+    {
+      "kind": "crux",
+      "subject": "jaunuolis",
+      "rationale": "הנער gali reikšti ir levitą, ir Miką; konteksto svoris — levitas"
+    }
+  ],
+  "translation": "Ir Mika pripildė ⟨את⟩ levito ranką, ir jaunuolis buvo jam kunigu ir buvo Miko namuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f1c672d861749845c7b19b31b07da002fc3b15c5cf21e7b070d7a08cbf327101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/17\/9-12.1792476762607.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ir pripildė"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levito ranką"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levito"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jaunuolis"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miko"
+    }
+  ],
+  "timestamp": "2026-10-20T06:12:42.608746265Z",
+  "model": "glm-5.3"
+}

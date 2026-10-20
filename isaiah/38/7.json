@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrajų kalba neturi būtojo kartinio veiksmažodžio — lietuvių 'padarys' išreiškia būsimąjį יעשה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "'Šis dalykas, kurį jis kalbėjo' — tas pats šaknis דבר kaip daiktvardis ir veiksmažodis, kartojamas iškart"
+    }
+  ],
+  "translation": "Ir šis tau ženklas iš ⟨את⟩ Jahvės, kad Jahvė padarys šį ⟨את⟩ dalyką, kurį kalbėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/38\/5-8.1792481433164.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ir šis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ženklas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "padarys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šį dalyką"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:33.166335296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Lapido žmona",
+      "rationale": "אשת לפידות — 'Lapido žmona' arba žodžių žaismas 'laužų (toršų) žmona'; dauguma laiko, kad tai vyro vardas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pranašė",
+      "rationale": "נביאה — moteriškoji forma nuo 'pranašas'; anot D2, niekada ne 'žynė' ar 'būrėja'."
+    }
+  ],
+  "translation": "O Devora, pranašė, Lapido žmona, teisė ⟨את⟩ Jisraelį tuo metu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/4\/1-4.1792476425128.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "O Devora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "pranašė"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapido"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "teisė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tuo metu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tuo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:05.130327049Z",
+  "model": "glm-5.3"
+}

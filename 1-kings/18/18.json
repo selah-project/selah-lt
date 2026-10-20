@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrajų konstrukcija 'ki im' — ne 'jeigu', o priešprieša: 'ne aš, o tu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר\/עכרתי",
+      "rationale": "Elijahu grąžina Achabui tą patį veiksmažodį 'drumsčiau' — veidrodiškas atsakymas."
+    }
+  ],
+  "translation": "Ir jis tarė: Ne aš drumsčiau ⟨את⟩ Jisraelį, o tu ir tavo tėvo namai — dėl to, kad palikote ⟨את⟩ Jahvės įsakymus ir nuėjote paskui baalus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/17-20.1792479525905.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir jis tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "aš drumsčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dėl to, kad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ir namai"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "palikote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės įsakymus"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "įsakymus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ir nuėjote"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:45.906435701Z",
+  "model": "glm-5.3"
+}

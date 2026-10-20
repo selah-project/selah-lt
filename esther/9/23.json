@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וקבל",
+      "rationale": "„Priėmė“ (paėmė ant savęs) vs „įsipareigojo“ — KJV „undertook“; hebrajiškai paprasčiau „priėmė“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "החלו",
+      "gloss": "Buvo pradėję daryti — šaknis חלל čia „pradėti“, ne „žaisti\/raukyti“."
+    }
+  ],
+  "translation": "Ir žydai priėmė ⟨את⟩ tai, ką buvo pradėję daryti, ir ⟨את⟩ tai, ką Mordochajus buvo jiems parašęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "afb35f8b97601cd5d31cf30a07ffa2c173831fda55d7190397f6c413de80bd54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/9\/21-24.1792491540043.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Ir priėmė"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "žydai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką buvo pradėję"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "buvo pradėję"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "ką parašė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "parašė"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochajus"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T10:19:00.044453071Z",
+  "model": "glm-5.3"
+}

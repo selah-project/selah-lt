@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש — gyvybės jėga, ne „siela“; והכהו נפש — smogti gyvybei, t. y. mirtinai"
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "getr. įvardis, pažymintis pabėgantį žudiką po sudėtingos grandinės"
+    }
+  ],
+  "translation": "O jei atsiras žmogus, nekenčiantis savo artimo, ir pasalos jam, ir pakils prieš jį, ir smogs jam gyvybę ⟨mirtinai⟩, ir mirs, o jis pabėgs į vieną šitų miestų —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/9-12.1792475250198.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atsiras"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nekenčiantis"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ir pasalos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ir pakils"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ir smogs jam"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ir mirs"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "o jis pabėgs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miestų"
+    },
+    {
+      "surface": "האל",
+      "gloss": "šitų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:30.200672248Z",
+  "model": "glm-5.3"
+}

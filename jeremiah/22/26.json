@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "אֹתְךָ čia yra įvardžiuotinis objekto įvardis 'tave', ne daiktavardžio žymeklis — ⟨את⟩ skliaustai nededami"
+    }
+  ],
+  "translation": "Ir išsviesiu tave ir ⟨את⟩ tavo motiną, kuri tave pagimdė, į žemę kitokią, kurioje jūs negimėte, ir ten jūs mirsite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/25-28.1792482665169.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "ir išsviesiu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavo motiną"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tavo motiną"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "tave pagimdė"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "kitokią"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurioje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "jūs negimėte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "jūs mirsite"
+    }
+  ],
+  "timestamp": "2026-10-20T07:51:05.170162647Z",
+  "model": "glm-5.3"
+}

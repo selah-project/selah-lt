@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybių",
+      "rationale": "נפש — kvėpuojanti būtybė, gyvybė; ne 'siela' vėlesne prasme"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynios",
+      "rationale": "skaičiuojamos Bilhos palikuonys"
+    }
+  ],
+  "translation": "Šitie yra Bilhos sūnūs, kuriuos Lavanas davė Rachelei, savo dukteriai; ir ji pagimdė ⟨את⟩ šiuos Jaakovui — visų gyvybių septynios.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/46\/25-28.1792472029098.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanas"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachelei"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savo dukteriai"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir ji pagimdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiuos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybių"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynios"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:49.100378413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 13:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gyvybės jėga, alsavimas, ne platoniškoji 'siela'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Prielinksnis 'prie\/pas' žodžių 'klausyti' linksniuose — lietuvių veiksmažodis jį pasisavina, atskirai neverčiamas"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Tiesioginis įsakymas antruoju asmeniu — 'nesklausyk' — adresuotas Izraeliui"
+    }
+  ],
+  "translation": "nesklausyk tų pranašo arba to sapnų sapnuotojo žodžių, nes Jahvė, jūsų Elohim, bando jus ⟨את⟩, kad žinotų, ar mylite ⟨את⟩ Jahvę, jūsų Elohim, visa savo širdimi ir visa savo siela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/1-4.1792475171664.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausyk"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tų"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חולם",
+      "gloss": "sapnuotojo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sapnų"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מנסה",
+      "gloss": "bando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kad žinotų"
+    },
+    {
+      "surface": "הישכם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "mylite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę, jūsų Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "savo širdimi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "savo siela"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:11.667151506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų tarnavimo sakinys neturi veiksmažodžio; lietuvių kalbai reikia 'yra'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלתי טהור הוא כי לא טahor",
+      "rationale": "Kartojimas 'ne švarus... tikrai ne švarus': Genevos skaitymas 'nors švarus' vs KJV\/JPS 'tikrai ne švarus'."
+    }
+  ],
+  "translation": "Ir Šaulis nieko nekalbėjo tą dieną, nes pamanė: ⟨tai⟩ atsitiktinumas ⟨yra⟩; jis ne švarus, jis tikrai ne švarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da1f45fa6dd406d06d6e96304c494daf3d21690875ea8fea85d277d402b51f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/25-28.1792477509206.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pamanė"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "atsitiktinumas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai ⟨yra⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "švarus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "švarus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:25:09.208904276Z",
+  "model": "glm-5.3"
+}

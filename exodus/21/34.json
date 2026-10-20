@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gyvulys⟩",
+      "rationale": "hebrajiškas המת 'mirusysis' nenurodo rūšies; pridėta, nes lietuvių kalboj reikia daiktavardis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעל \/ בעליו",
+      "rationale": "žodis בעל kartoja abipus — duobės savininkas ir gyulio savininkas, tas pats žodis"
+    }
+  ],
+  "translation": "duobės savininkas atlygins, sidabro sumokės jos savininkui, o mirusysis ⟨gyvulys⟩ bus jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a13dccdae5a4d0edd2f35319f0c825280d35d180de65cd68496d5983fcd67602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/33-36.1792472676766.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "savininkas"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "duobės"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atlygins"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sumokės"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "jos savininkui"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "o mirusysis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:36.768817572Z",
+  "model": "glm-5.3"
+}

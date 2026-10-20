@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra veiksmažodžio 'būti' — 'su Jahve chesed'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Jisraeliui",
+      "rationale": "kvietimas Izraeliui būti vilties"
+    }
+  ],
+  "translation": "Tebibėja Jisraelis Jahvės, nes pas Jahvę ⟨yra⟩ chesed, ir gausybė išpirkimo pas jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/130\/5-8.1792489174145.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Tebibėja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ir gausybė"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "išpirkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:34.146468422Z",
+  "model": "glm-5.3"
+}

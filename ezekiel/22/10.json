@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "Hebrajų kalba neturi veiksnio — sakinyje jis iš ankstesnio konteksto (Jeruzalės vyrai)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nidos",
+      "rationale": "הַנִּדָּה — moters menstruacinės nešvarumo būsena; 'nida' yra terminas, ne paprastas 'nešvarumas'."
+    }
+  ],
+  "translation": "Tėvo nuogumą atidengė ⟨jie⟩ tavyje, nidos nešvarumą jie žemino tavyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/22\/9-12.1792484466241.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuogumą"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atidengė"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavyje"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "nešvarumą"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "nidos"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "žemino"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavyje"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:06.242365187Z",
+  "model": "glm-5.3"
+}

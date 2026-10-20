@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "'Pakels' — KJV\/JPS 'he swear' (pakels ranką priesaikai); pažodžiui tik 'pakels'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חבש",
+      "gloss": "Hebrajiškas חבש — 'rišėjas, tvarstantis žaizdas' (pririšantis tvarstį), ne 'gydytojas' apskritai"
+    }
+  ],
+  "translation": "Jis pakels tą dieną ⟨balsą⟩, sakydamas: Nesiu būsiu — ne, nesiu būsiu rišėjas; namelyje mano nėra duonos, nėra drabužio; nedarykite manęs tautos valdytoju.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/3\/5-8.1792480592960.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "pakels"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nesiu būsiu"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "rišėjas"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "namelyje mano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "drabužio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nedarykite"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "valdytoju"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:32.962970383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערים",
+      "rationale": "KJV 'miestai' vs kai kurie 'priešai' (צרים) ir BSB 'liudytojai' (עדים) — priklausomai nuo sugretinimo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "keliauninkas liovėsi eiti",
+      "rationale": "שבת עבר ארח pažodžiui 'liovėsi einantysis keliu' — ne šabat, o nustojimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "vertu dėmesio",
+      "rationale": "לא חשב אנוש pažodžiui 'žmogaus nelaiko (skaito)'; lietuvių reikalauja ⟨vertu dėmesio⟩"
+    }
+  ],
+  "translation": "Nuniokoti ⟨yra⟩ keliai, keliauninkas liovėsi eiti; sulaužyta sandora, niekinami miestai, žmogus ⟨yra⟩ nelaikomas ⟨vertu dėmesio⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/33\/5-8.1792481236483.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Nuniokoti"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "keliai"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "liovėsi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "keliauninkas"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sulaužyta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandora"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "niekinami"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nelaikomas"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "žmogus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:27:16.485646921Z",
+  "model": "glm-5.3"
+}

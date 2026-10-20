@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 23:29",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew preposition 'to' has no separate Lithuanian word; marked by the dative Balakui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בזה",
+      "rationale": "'in this' rendered as 'čia' (here); literal 'šiame vietoje' would be heavier."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sevens",
+      "rationale": "Verse counts seven altars, seven bulls, seven rams — the sacred full number repeated three times."
+    }
+  ],
+  "translation": "Ir Bileamas tarė Balakui: Pastatyk man čia septynis aukurus ir paruošk man čia septynis jaučius ir septynis avinus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/29-30.1792474425136.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balakui"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "Pastatyk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "aukurus"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ir paruošk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jaučius"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ir septynis"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "avinus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:33:45.137139501Z",
+  "model": "glm-5.3"
+}

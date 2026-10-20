@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybėms",
+      "rationale": "נפש — geriau 'gyvybės jėga, alsavimas', ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ\/תשקצו",
+      "rationale": "veiksmažodis iš to paties šaknies, kur v. 41 daiktavardis — 'pasibjaurėjimo\/pasibjaurėtini'"
+    }
+  ],
+  "translation": "Nesuteikite pasibjaurėjimo ⟨את⟩ savo gyvybėms visa, kas šliaužioja ir kirba, ir nesuteikite jais savęs nešvariu, kad nebūtumėte jais nešvarūs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/41-44.1792473320506.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "suteikite pasibjaurėjimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo gyvybėms"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "savo gyvybėms"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kas šliaužioja"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ir kirba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nesuteikite"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "savęs nešvariu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jais"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "nebūtumėte nešvarūs"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:20.509288727Z",
+  "model": "glm-5.3"
+}

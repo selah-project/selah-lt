@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nebeįtrauksi daugiau",
+      "rationale": "אל תוסף — pažodžiui 'nebedėk\/pridėk'; reiškia 'nedarys to iš naujo', reikia pakartoti rankos uždėjimą."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pamąstyk",
+      "rationale": "זכר מלחמה — pažodžiui 'atsimink mūšį'; alternatyva: 'primink sau mūšį'."
+    }
+  ],
+  "translation": "Uždėk ant jo savo delną — pamąstyk apie kovą, nebeįtrauksi ⟨to⟩ daugiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "26f5f4d136ad7fce20d7e1a277e0e6ac80ad39bc2a91ee078ed41cb8ad21ae26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/40\/29-32.1792490765519.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Uždėk"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "savo delną"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamąstyk"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "apie kovą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "įtrauksi daugiau"
+    }
+  ],
+  "timestamp": "2026-10-20T10:06:05.520383751Z",
+  "model": "glm-5.3"
+}

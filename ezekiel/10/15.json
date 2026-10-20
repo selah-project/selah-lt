@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "היא החיה",
+      "rationale": "Ezekielis pats identifikuoja regėjimą — cherubai yra ta pati gyva būtybė iš Chebar regėjimo."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas היא šioje vietoje — parodojinis „tai“, bet lietuviškai reikia kopulos."
+    }
+  ],
+  "translation": "Ir cherubai pakilo — tai ⟨yra⟩ ta gyva būtybė, kurią mačiau prie Chebar upės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/10\/13-16.1792484039878.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "Ir pakilo"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "cherubai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai ⟨yra⟩"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ta gyva būtybė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "prie upės"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Chebar"
+    }
+  ],
+  "timestamp": "2026-10-20T08:13:59.882626363Z",
+  "model": "glm-5.3"
+}

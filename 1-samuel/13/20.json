@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "את \/ אתו",
+      "rationale": "pirmasis את yra tiesioginis objekto žymuo, o אתו — kirvio rūšies 'kablys, kauptukas': tas pats skambesys, du skirtingi žodžiai vienoje eilutėje."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחרשת \/ מחרשה",
+      "rationale": "du skirtingi žemdirbystės įrankių žodžiai iš tos pačios šaknies חרש — dalmenys ir gradas."
+    }
+  ],
+  "translation": "Ir visi Jisraelio žmonės žengdavo pas pelistiečius pagaląsti kiekvienam ⟨את⟩ savo arklo dalmenį, ir ⟨את⟩ savo kaplį, ir ⟨את⟩ savo kirvį, ir ⟨את⟩ savo gradą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2df49bf26ebbae0f4dd2635862a4c6fc76d011fe6138fffef9c77ee458c8da8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/13\/17-20.1792477240947.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ir žengdavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "pelistiečiai"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "pagaląsti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arklo dalmenį"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "savo arklo dalmenį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kaplį"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "savo kaplį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kirvį"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "savo kirvį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "gradą"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "savo gradą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:20:40.951179863Z",
+  "model": "glm-5.3"
+}

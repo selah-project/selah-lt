@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבני",
+      "rationale": "hebrajiškas ל čia reiškia 'apie', ne 'sūnums tiesiogine prasme'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבכים",
+      "rationale": "vos kartą vartojama pasyvi dalyvė: 'susipynę\/sumišę\/apsupti' — vertėjai skiriasi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נבכים",
+      "rationale": "נבוך pasyvas Tanache beveik nepasikartoja"
+    }
+  ],
+  "translation": "Ir faraonas pasakys apie Jisraelio sūnus: Jie apsipynę žemėje, dykuma uždarė juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae79ed79448e939b4d7305993182dcd9c3fffa5fb5f9a41c185b12c793b16863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/1-4.1792472499237.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ir pasakys"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonas"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "apie sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "apsipynę"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "uždarė"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "juos"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "dykuma"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:39.240135188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra \/ vyksta",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — pridėta lotyniškai su ⟨…⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elnių",
+      "rationale": "אילים čia aukojamieji avinai (stalcai); pagal D4 gyvūnų lentelę איל → elnias, laikomas viena forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ožių-ernių",
+      "rationale": "עתודים — suaugę ožiai-erniai; vienas žodis, sulietas su brūkšneliu"
+    }
+  ],
+  "translation": "Kardas Jahvei ⟨yra⟩ pilnas kraujo, jis sušaltytas riebalais — iš kraujo avinėlių ir ožių-ernių, iš riebalų elnių inkstų; nes auka Jahvei ⟨vyksta⟩ Bocroje, didelis skerdimas Edomo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "51766db3d86bbdc89dfd6cee9811e070c6635de387aa77ff4ae8f89f0a4372ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/34\/5-8.1792481334887.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "sušaltytas riebalais"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "riebalais"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "iš kraujo"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "avinėlių"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "ir ožių-ernių"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "iš riebalų"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "inkstų"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "elnių"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "auka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "Bocroje"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "ir skerdimas"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:54.889323423Z",
+  "model": "glm-5.3"
+}

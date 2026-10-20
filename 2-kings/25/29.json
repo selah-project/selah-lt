@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akivaizdoje",
+      "rationale": "לפניו pažodžiui 'prieš jo veidą' — veidas vietoj veido vartojama poslinkio reikšme"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalba reikalauja sangrąžinį įvardį, hebrajų turi tik חייו 'gyvenimo jo'"
+    }
+  ],
+  "translation": "Ir jis apsikeitė ⟨את⟩ kalėjimo drabužius, ir valgė duoną nuolat jo akivaizdoje visas savo gyvenimo dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/29-30.1792480482526.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "ir apsikeitė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalėjimo drabužius"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "kalėjimo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ir valgė"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duoną"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolat"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "jo akivaizdoje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "savo gyvenimo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:14:42.527960200Z",
+  "model": "glm-5.3"
+}

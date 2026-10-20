@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio būti"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזעק",
+      "rationale": "Nuo šaknies zaʿaq — 'sušuko\/sišaukė', bet kai kurie verčia 'susirinko' pagal LXX kontekstą; laikomasi šaknies reikšmės"
+    }
+  ],
+  "translation": "Ir sušuko Šaulas ir visi žmonės, kurie ⟨buvo⟩ ⟨את⟩ su juo, ir jie atėjo iki mūšio; ir štai — ⟨buvo⟩ kiekvieno kardo 〈kardas〉 prieš artimą, sumaištis labai didelė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/17-20.1792477350483.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Ir sušuko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo",
+      "marks": "žmonės su juo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ir jie atėjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mūšio"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvieno"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "prieš artimą"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "sumaištis"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "didelė"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:30.508539442Z",
+  "model": "glm-5.3"
+}

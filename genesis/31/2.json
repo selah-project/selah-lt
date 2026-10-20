@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כתמול שלשום",
+      "rationale": "Pažodžiui 'kaip vakar ir užvakar' — hebrajiškas idiomas 'kaip anksčiau, kaip visada'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nebebuvo⟩",
+      "rationale": "איננו — neigiamas dalelytė su įvardžiu; veiksmažodis pridedamas lietuviškai"
+    }
+  ],
+  "translation": "Ir Jaakovas pamatė ⟨את⟩ veidą Labano, ir štai — jis ⟨nebebuvo⟩ su juo kaip vakar ir užvakar.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/1-4.1792471623369.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labano"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nebebuvo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kaip vakar"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ir užvakar"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:03.371811527Z",
+  "model": "glm-5.3"
+}

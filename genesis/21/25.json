@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על אדות",
+      "rationale": "Hebrajų dviguba prielinksinė konstrukcija 'al odot' susilieja į vieną lietuvišką 'dėl'."
+    },
+    {
+      "kind": "you",
+      "subject": "Avimelekui",
+      "rationale": "Avrahamo kalba nukreipta tiesiai į Avimeleką, ginčas dėl šulinio."
+    }
+  ],
+  "translation": "Ir Avrahamas priekaištavo ⟨את⟩ Avimelekui dėl šulinio vandens, kurį buvo pagrobę Avimeleko tarnai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "49002eb342b5c2d67127fcb373e7f2c43ed2e5431afb9a74c09f7a5eb374ff74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/21\/25-28.1792471344448.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "priekaištavo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleką"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekui"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "באר",
+      "gloss": "šulinio"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "buvo pagrobę"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnai"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleko"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:24.448965559Z",
+  "model": "glm-5.3"
+}

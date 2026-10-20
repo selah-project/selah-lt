@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "כלbūtų: hebrajiškos kopulos nėra, lietuvių kalbai reikia ⟨yra⟩ poros kartų"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המתפרצים",
+      "rationale": "Veiksmažodis „prasiveržti, prasiveržti pro sieną“ — ta pati šaknis kaip 2 Sam 5,20 Peracim; laikomas pažodinis paveikslas, ne vaidmuo"
+    },
+    {
+      "kind": "you",
+      "subject": "Navalo kalba Davido tarnams",
+      "rationale": "Tiesioginis kreipimasis su retoriniais klausimais"
+    }
+  ],
+  "translation": "Ir Navalas atsakė ⟨את⟩ Davido tarnus ir tarė: Kas yra Davidas, ir kas yra Jischajaus sūnus? Šiandien daugėja tarnų, kurie-tas-kuris-prasiveržia-laukan, kiekvienas iš šalies nuo savo pono veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/9-12.1792477634710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navalas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davido tarnus"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jischajaus"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "daugėja"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tarnų"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "kurie-tas-kuris-prasiveržia-laukan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo … veido"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:14.712262089Z",
+  "model": "glm-5.3"
+}

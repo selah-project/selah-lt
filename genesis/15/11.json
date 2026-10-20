@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išvaikė",
+      "rationale": "וישב iš נשב 'pūsti, sklaidyti' — pažodžiui 'išpūtė juos šalin'; vertėjai rašo 'nuvijo'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נשב hifil",
+      "rationale": "Veiksmažodis נשב hifil visame Tanache vartojamas labai retai — čia jo pirmasis pasirodymas."
+    }
+  ],
+  "translation": "Ir leidosi plėšrieji paukščiai ant lavonų, bet Avramas ⟨את⟩ juos išvaikė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/9-12.1792471311567.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ir leidosi"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "plėšrieji paukščiai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "lavonų"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "išvaikė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:51.569644048Z",
+  "model": "glm-5.3"
+}

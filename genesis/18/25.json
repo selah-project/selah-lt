@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 18:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חללה לך",
+      "rationale": "Priesmė, pažodžiui 'profanuotų dalykas tau', reiškia 'toli nuo tavęs'; kartoja du kartus — retorinis kibimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "חללה לך השפט",
+      "rationale": "Tradiciškai 'Tebūna toli nuo tavęs, kad Tu, visos žemės Teisėjas, nedarytum teismo'; hebraiškas derinimas leidžia ir klausimą, ir tvirtinimą."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/רשע",
+      "rationale": "Teisusis ir nedorėlis — antitezė kartojama du kartus, paronomazija כצדיק כרשע."
+    },
+    {
+      "kind": "you",
+      "subject": "Avrahamo kreipimasis į Jahvę",
+      "rationale": "Tiesioginis kreipimasis į Jahvę per visą prašymo eigą."
+    }
+  ],
+  "translation": "Toli nuo tavęs daryti tokį dalyką — žudyti teisųjį kartu su nedorėliu, kad teisusis būtų kaip nedorėlis; toli nuo tavęs! Ar visa žemės Teisėjas nedarys teismo?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a649f003ff1173488e283ad7b205172bfca930830a85808c11cc1bdb5f850ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/18\/25-28.1792471284926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חללה",
+      "gloss": "toli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "tokį dalyką"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitokį"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "žudyti"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisųjį"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kartu su"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėliu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kad būtų"
+    },
+    {
+      "surface": "כצדיק",
+      "gloss": "teisusis"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "kaip nedorėlis"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "toli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "Teisėjas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darys"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:24.929209915Z",
+  "model": "glm-5.3"
+}

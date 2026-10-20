@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 8:23",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨skirtoje⟩",
+      "rationale": "Lietuvių kalbai reikia ryšio tarp 'dienų žodžių knyga' ir 'Jehudos karaliai'; hebrajiškas למלכי — 'karaliams'."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "Hebrajiškas 'ant' knygos paviršiaus lietuviškai natūraliau kaip 'knygoje'."
+    },
+    {
+      "kind": "you",
+      "subject": "skaitytojui",
+      "rationale": "Retsykų klausimas 'ar jie neparašyti…' kreipiasi tiesiogiai į skaitytoją."
+    }
+  ],
+  "translation": "O likusieji Joramo žodžiai ir visa, ką jis padarė, ar jie neparašyti dienų žodžių knygoje, ⟨skirtoje⟩ Jehudos karaliams?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddc49e6e68c6f8b137e7a74fcbeef09cc9ef6bea5f0ddce0ff496ffa6bd58c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/21-24.1792479910769.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "O likusieji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joramo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "parašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karaliams"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:10.774863416Z",
+  "model": "glm-5.3"
+}

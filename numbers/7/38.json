@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šekelių⟩",
+      "rationale": "Hebrajiškame eilutės gale šekelis neišsakytas — pridėta iš 7,37 konteksto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saują",
+      "rationale": "כף — delnas, saujos dydžio indas; ne 'šaukštas' ar 'smilkalinė'"
+    }
+  ],
+  "translation": "Viena aukso saują, dešimt ⟨šekelių⟩, pilna kvapų smilkymo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8e41c39ce1bb6f63bef988cfa188776c5a8355bf78c3bf5bb1b4642820e88df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/37-40.1792473952540.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "saują"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvapų smilkymo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:25:52.541032368Z",
+  "model": "glm-5.3"
+}

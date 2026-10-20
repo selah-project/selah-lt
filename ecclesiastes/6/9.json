@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame nėra kopulos"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלך נפש",
+      "rationale": "„klajojantis nefešas” vs „duonos ėjimas” \/ „apetito klajojimas” — vertėjai nesutaria"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach gaudymas",
+      "rationale": "רעות רוח — grabaliojimas po vėją; ruach paliktas pagal D2"
+    }
+  ],
+  "translation": "Geriau akimis matomas vaizdas nei klajojantis nefešas; ir tai ⟨yra⟩ hevel ir ruach gaudymas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/6\/9-12.1792491288468.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "geriau"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vaizdas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "akimis"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "klajojimas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefešas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "irgi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ir gaudymas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:48.468804346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 23:18",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja būdinio; hebrajų asmeninis įvardis 'jis' eina be veiksmažodžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "nukautųjų",
+      "rationale": "חלל — 'perdurtieji, nukautieji': ar Avišajus juos užmušė (KJV), ar tik perdūrė (YLT)?"
+    }
+  ],
+  "translation": "O Avišajus, Joabo brolis, Cerujos sūnus, jis buvo trijų vadas; jis pakėlė ⟨את⟩ savo ietį prieš tris šimtus nukautųjų, ir turėjo vardą tarp trijų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8dd1e25a7264f829c11d73911aca7466ad434faefbf6ece08ed2caaf0ab0ca48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/17-20.1792478732468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבישי",
+      "gloss": "O Avišajus"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brolis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerujos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "trijų"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "pakėlė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ietį"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "savo ietį"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nukautųjų"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ir jam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "tarp trijų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:32.470090471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 10:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ועתידתיהם",
+      "rationale": "עתיד - itinis žodis, atsirandantis tik čia; reikšmė neaiški: 'ištekliai', 'svetimi dalykai', vertėjai skiriasi."
+    },
+    {
+      "kind": "crux",
+      "subject": "jų išteklius",
+      "rationale": "Ketibas עתידתיהם vs ktrei ועדתיהם 'jų puldami daugiai'; KJV 'treasures', YLT 'chief ones'."
+    },
+    {
+      "kind": "you",
+      "subject": "Asirijos karalius",
+      "rationale": "Išdidus svetimšalių kalbos citavimas, nukreiptas į save, ne į klausytoją."
+    }
+  ],
+  "translation": "Nes jis tarė: jėga savo rankos aš padariau, ir savo išmintimi, nes esu išmintingas; ir pašalinau tautų ribas, ir jų išteklius išžėriau, ir kaip galiūnas nugrioviau gyventojus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b75d33f570d7a6303becc7380b986ccad6eae46cf37694e23ffe00f7654e4796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/13-16.1792480893508.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "aš padariau"
+    },
+    {
+      "surface": "ובחכמתי",
+      "gloss": "ir savo išmintimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נבנותי",
+      "gloss": "esu išmintingas"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ir pašalinau"
+    },
+    {
+      "surface": "גבולת",
+      "gloss": "ribas"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "ועתידתיהם",
+      "gloss": "jų išteklius"
+    },
+    {
+      "surface": "שושתי",
+      "gloss": "išžėriau"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ir nugrioviau"
+    },
+    {
+      "surface": "כאביר",
+      "gloss": "kaip galiūnas"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "gyventojus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:33.510559760Z",
+  "model": "glm-5.3"
+}

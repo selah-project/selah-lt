@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi kopulos su ונהי šioje pozicijoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek-ybės",
+      "rationale": "צדקתינuo — cedek šaknis, išlaikoma pagal D2, o ne 'teisūs darbai'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עדים",
+      "rationale": "Mėnesinių nutekėjimas (ה ̂ עד kilmė): 'užterštas rūbas' — grubus vaizdas, kurio daugelis vertimų sušvelnina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלנו pakartojimas",
+      "rationale": "Triskart 'visi mes' — visa apimtis, lietuviškai išlaikyta"
+    }
+  ],
+  "translation": "Ir tapome kaip nešvarus ⟨yra⟩ visi mes, ir kaip apdangalas mėnesinių visos mūsų cedek-ybės; ir nuvystame kaip lapas visi mes, ir mūsų kaltės kaip ruach mus nuneša.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/5-8.1792481874497.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "ir tapome"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "kaip nešvarus"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "visi mes"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "ir kaip apdangalas"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mėnesinių"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "mūsų cedek-ybės"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ir nuvystame"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "kaip lapas"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "visi mes"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "ir mūsų kaltės"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "kaip ruach"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "mus nuneša"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:54.498570418Z",
+  "model": "glm-5.3"
+}

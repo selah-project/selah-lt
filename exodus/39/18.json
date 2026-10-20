@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 39:18",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jas⟩",
+      "rationale": "Hebrajiškoje ваיתנם galūnė -em reiškia 'juos', lietuvių reikia atskiro įvardžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "įdėklai",
+      "rationale": "משבצות — brangakmenių įrėminimai, 'išsiuvinėti aptaisai' KJV 'ouches'."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ abu galus dviejų pynių jie pritvirtino prie dviejų įdėklų ir įdėjo ⟨jas⟩ ant efodo pečių, priešais jo priekį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2fa6a78bc6c3ae794dfaa03913f0ea2077449c4a430d52f098ed25b38470ced4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/39\/17-20.1792473120681.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "abu galus dviejų pynių"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abu"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "galus"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "pynių"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "jie pritvirtino"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "įdėklų"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ir įdėjo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "pečių"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "מול",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo priekį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:00.684642615Z",
+  "model": "glm-5.3"
+}

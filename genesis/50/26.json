@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šimto dešimties metų",
+      "rationale": "Amžiaus skaičius — hebrajiškas „šimto ir dešimties metų sūnus“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skrynia",
+      "rationale": "ארון — ta pati žodžio forma kaip Sandoros skrynia; čia paprasta dėžė (sarkofagas)."
+    },
+    {
+      "kind": "elision",
+      "subject": "בן",
+      "rationale": "Hebrajiškas amžiaus posakis „sūnus šimto metų“ lietuviškai neturi atitikmens."
+    }
+  ],
+  "translation": "Ir Jozefas mirė, būdamas šimto dešimties metų, ir jie patepė ⟨את⟩ jį prieskoniais, ir ⟨buvo⟩ paguldytas į skrynią Micraime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/50\/25-26.1792472063862.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "būdamas"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimto"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "dešimties"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ir jie patepė prieskoniais"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "ir ⟨buvo⟩ paguldytas"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "į skrynią"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:23.867245843Z",
+  "model": "glm-5.3"
+}

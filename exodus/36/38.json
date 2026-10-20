@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "veikslas",
+      "rationale": "אין vertinio veiksmo veikslo — “ir ⟨את⟩ jo stulpus” tęsia ankstesnį “padarė”."
+    },
+    {
+      "kind": "measurement",
+      "subject": "penki · penkios",
+      "rationale": "Eilutė skaičiuoja stulpus ir pjoves — penki ir penkios."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ jo stulpus — penkis, ir ⟨את⟩ jų kablius; ir apdengė jų viršūnes ir jų žiedus auksu, o jų penkios pjovės — iš vario.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/36\/37-38.1792472995267.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo stulpai — penki"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "jo stulpai"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "⟨את⟩ penki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų kabliai"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "jų kabliai"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "ir apdengė"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "jų viršūnes"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ir jų žiedus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "o jų pjovės"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "penkios"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš vario"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:55.270724780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "skaičiumi",
+      "rationale": "skaičiavimo motyvas — likę medžiai bus suskaičiuojami, net vaikas juos užrašys"
+    },
+    {
+      "kind": "crux",
+      "subject": "užrašys",
+      "rationale": "יכתבם — 'užrašys' vs 'suskaičiuos' (geneva: 'may tell them'); hebrajiškas veiksmažodis reiškia rašyti"
+    }
+  ],
+  "translation": "Ir miško medžių likusias ⟨būsiančius⟩ skaičiumi, ir vaikas jas užrašys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/17-20.1792480775965.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Ir … likusias"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medžių"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "miško"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičiumi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "būsiančius"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ir vaikas"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "jas užrašys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:35.969192268Z",
+  "model": "glm-5.3"
+}

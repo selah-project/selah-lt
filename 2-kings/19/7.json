@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu „ruach“ — dangaus dvasia ar vėjas, ne vien „dvasia“."
+    },
+    {
+      "kind": "mystery",
+      "subject": "שמועה",
+      "rationale": "Gandas — nenustatytas pranešimas, kurio turinys tekstyra neskelbia."
+    }
+  ],
+  "translation": "Štai aš įdėsiu į jį ruach, ir jis išgirs gandą, ir sugrįš į savo šalį, ir aš jį parblokšiu kardu jo paties šalyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/5-8.1792480275064.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "štai aš"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "įdėsiu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "į jį"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ir išgirs"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "gandą"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ir sugrįš"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "į savo šalį"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "ir aš jį parblokšiu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "jo paties šalyje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:15.065953169Z",
+  "model": "glm-5.3"
+}

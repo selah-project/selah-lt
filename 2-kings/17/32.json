@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "'iš jų pakraščių\/pabaigų': KJV 'iš žemiausiųjų', ASV 'iš savo tarpo' — kas tie kunigai, tekstas neaiškus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aukojo",
+      "rationale": "עשים 'darantys' — kontekst reikalauja 'atliko tarnystę\/aukojo', hebrajų žodis paprastas 'daryti'"
+    }
+  ],
+  "translation": "Ir jie ėmė bijoti ⟨את⟩ Jahvės, ir pasidarė sau iš savo pačių tarpo aukštumų kunigus, ir jie jiems aukojo aukštumų šventyklų namuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/17\/29-32.1792480286753.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bijantys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ir pasidarė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "iš savo pačių tarpo"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "במות",
+      "gloss": "aukštumų"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "darantys"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "aukštumų šventyklų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:26.841296293Z",
+  "model": "glm-5.3"
+}

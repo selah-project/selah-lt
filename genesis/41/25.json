@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas הוא reiškia identifikaciją be veiksmažodžio; lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "Jozefas tiesiogiai kalba Paraonui."
+    }
+  ],
+  "translation": "Ir Jozefas tarė Paraui: Paraono sapnas — ⟨yra⟩ vienas; ⟨את⟩ ką Elohim daro, jis paskelbė Paraonui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3c62cc1bca92a98f6bbdbee56730f533e913673a24b99e1daca77152506db55b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/25-28.1792471858216.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Paraui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraonui"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sapnas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraono"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis ⟨yra⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daro"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "paskelbė"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paraonui"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:58.218295111Z",
+  "model": "glm-5.3"
+}

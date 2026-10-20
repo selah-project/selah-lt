@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם \/ נקמת",
+      "rationale": "to paties šaknies pakartojimas — veiksmažodis ir daiktavardis šalia, lietuvių kalboje 'atkeršykite kerštą' suskaidoma į du žodžius."
+    },
+    {
+      "kind": "idiom",
+      "subject": "būsi suvienytas su savo tauta",
+      "rationale": "תאסף אל עמיך — hebrajiškas mirties eufemizmas: 'būsi surinktas pas savo tautą'."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Įsakymas adresuotas Mošei — įpareigojantis liepiamasis."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Prielinksnis 'iš' su ⟨את⟩ žymekliu — nukreipta į midianiečius."
+    }
+  ],
+  "translation": "Atkeršykite Jisraelio sūnums iš ⟨את⟩ midianiečių; paskui būsi suvienytas su savo tauta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7c912896c21cacdddd03c4f8f40c4ef2b3087d4c364a8a49b59ff26ce1e1e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/31\/2-4.1792485445447.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "atkeršykite"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "kerštą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩",
+      "marks": "midianiečių"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "midianiečių"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "būsi suvienytas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "savo tauta"
+    }
+  ],
+  "timestamp": "2026-10-20T08:37:25.451268959Z",
+  "model": "glm-5.3"
+}

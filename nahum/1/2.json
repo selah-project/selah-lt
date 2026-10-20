@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם ×3",
+      "rationale": "Žodžio נקם (keršyti) triskartinis pakartojimas — pabrėžiantis grėsmingas ritmas, iš dalies prarandamas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ובעל חמה",
+      "rationale": "Pažodžiui „ir valdovas rūstybės“ — idiomą „kertantis rūstybe“ lietuviškai reikia perteikti kitaip."
+    },
+    {
+      "kind": "addition",
+      "subject": "pyktį",
+      "rationale": "Veiksmažodis נוטר pažodžiui „saugo“ — objektas „pyktis“ pridėtas, nes lietuvių kalbai reikia objekto."
+    }
+  ],
+  "translation": "Elohim pavydus ir keršijantis, Jahvė keršija ir gelia rūstybe — keršija Jahvė savo priešams ir saugo ⟨pyktį⟩ prieš savo nekenčiamus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nahum\/1\/1-4.1792486955554.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "pavydus"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ir keršijantis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "keršija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ir gelia"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "rūstybe"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "keršija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "savo priešams"
+    },
+    {
+      "surface": "ונוטר",
+      "gloss": "ir saugo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "prieš savo nekenčiamus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:02:35.556682031Z",
+  "model": "glm-5.3"
+}

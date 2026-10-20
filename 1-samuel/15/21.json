@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 15:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cherem",
+      "rationale": "חרם — pašvęstas sunaikinimui daiktas, ne paprastas 'daiktas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tauta",
+      "rationale": "hebrajų artikelis ה verčiamas žodžiu 'tauta', nors lietuvių artikelio neturi"
+    }
+  ],
+  "translation": "Ir ⟨tauta⟩ paėmė iš grobio avų ir galvijų — pirmąsias ⟨dalis⟩ ⟨to, kas pašvęsta sunaikinimui⟩ — paaukoti Jahvei, tavo Elohim, Gilgale.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/21-24.1792477285623.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "iš grobio"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avys ir ožkos"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ir galvijai"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pirmosios"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pašvęsta sunaikinimui"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "paaukoti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:25.624555632Z",
+  "model": "glm-5.3"
+}

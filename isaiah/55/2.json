@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne „siela”, o gyvybės jėga, alsavimas, alkis; lietuviškai paliekama nefesh."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמעו שמוע",
+      "rationale": "Hebrajų žodžio kartojimas — „klausykite klausydami” — pažymi intensyvą; verčiama „klausykite atidžiai”."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨už tai, kas⟩",
+      "rationale": "Lietuvių kalbai reikia prielinkio ir jungiamojo žodžio, hebrajų kalba jų neturi."
+    }
+  ],
+  "translation": "Kam sveriate sidabrą ⟨už tai, kas⟩ nėra duona, ir savo triūsą ⟨už tai, kas⟩ nepasotina? Klausykite ⟨¶ atidžiai ¶⟩ manęs ir valgykite, kas gera, ir tebepuikuosis riebume jūsų nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/55\/1-4.1792481778648.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "תשקלו",
+      "gloss": "sveriate"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duona"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "ir savo triūsą"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "nepasotina"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "pasotinimas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Klausykite"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "atidžiai klausydami"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ir valgykite"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kas gera"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "tebepuikuosis"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "riebume"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jūsų nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:18.648759299Z",
+  "model": "glm-5.3"
+}

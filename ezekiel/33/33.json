@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi jungties היה čia kaip pilnas veiksmažodis, lietuvių reikia ⟨buvo⟩ ryšiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "sangrąžinis įvardis pridėtas, nes hebrajiškas moteriškos giminės veiksmažodis באה neturi aiškaus daikto"
+    }
+  ],
+  "translation": "Ir kai tai ateina — štai, tai ateina, — tada jie žinos, kad pranašas ⟨buvo⟩ tarp jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "77273e578ea9d0006a84dc8f0376b18b7baf76846041aa89ac041cac467e8500",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/33\/33-33.1792484619373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "ir kai tai ateina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tai ateina"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "tada jie žinos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pranašas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "tarp jų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:23:39.373650373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 4:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "misteris",
+      "rationale": "„Liūtas“ ir „tautų naikintojas“ — artėjanti Babilono kariuomenė vaizduojama žvėrimi, ne vardu."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būsimojo laiko jungties „bus“ po תצינה."
+    }
+  ],
+  "translation": "Liūtas išėjo iš savo tankmės, ir tautų naikintojas išsiruožė, paliko savo vietą, padaryti tavo žemei dykumos, tavo miestai bus sunaikinti, be gyventojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0330dace8a2ade107e04055ff248811b2ee0d12c0952fc8f4a8ec68cd99021a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/4\/5-8.1792482231133.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "liūtas"
+    },
+    {
+      "surface": "מסבכו",
+      "gloss": "iš savo tankmės"
+    },
+    {
+      "surface": "ומשחית",
+      "gloss": "ir naikintojas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "išsiruožė"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "paliko"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "savo vietą"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "padaryti"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tavo žemei"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "dykumos"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tavo miestai"
+    },
+    {
+      "surface": "תצינה",
+      "gloss": "bus sunaikinti"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "be"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gyventojo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:51.137194130Z",
+  "model": "glm-5.3"
+}

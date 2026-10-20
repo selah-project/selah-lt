@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kurį⟩ ⟨jį⟩",
+      "rationale": "lietuvių reikalauja santykinio įvardžio ir objekto įvardžio, kurių hebrajų neturi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausyk",
+      "rationale": "imperatyvas kreipiasi į Jaakovą\/Jisraelį"
+    }
+  ],
+  "translation": "Ir dabar klausyk, Jaakovai, mano tare, ir Jisraeli, ⟨kurį⟩ aš išsirinkau ⟨jį⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/1-4.1792481504089.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausyk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovai"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mano tarnau"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ir Jisraeli"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "išsirinkau"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨jį⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:44.089830048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול neišverstas — ne pragaras, o požeminis mirusiųjų pasaulis"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישברו",
+      "rationale": "šaknis שׂבר — „laukti, tikėtis“; kai kurie skaito iš שׁבר „laužyti, ištirti“; čia „viltis“"
+    }
+  ],
+  "translation": "Nes šeol nebeišpažins tavęs, mirtis tavęs neišgarsins; nebesitiki tie, kurie leidžiasi duobėn, tavo ištikimumo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/38\/17-20.1792481410850.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "išpažins tavęs"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtis"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "išgarsins tavęs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "besitiki"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tie, kurie leidžiasi"
+    },
+    {
+      "surface": "בור",
+      "gloss": "duobėn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨į⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tavo ištikimumo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:10.853759343Z",
+  "model": "glm-5.3"
+}

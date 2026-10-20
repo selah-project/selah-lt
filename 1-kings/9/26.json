@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rationale": "Pažodžiui 'Nendrių jūra'; tradiciškai 'Raudonoji jūra', bet hebrajiškas vaizdas — nendrės."
+    },
+    {
+      "kind": "crux",
+      "subject": "את אלות",
+      "rationale": "את prieš vietovardį — gal DOM žymuo (greta ⟨את⟩ Eloto), gal prielinksnis את 'su, greta'."
+    }
+  ],
+  "translation": "Ir laivybą padarė karalius Šlomo Ecjono Geveryje, kuris ⟨yra⟩ ⟨את⟩ greta Eloto, prie Nendrių jūros kranto, Edomo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "391e4aa4ce5bf703c0e466d1ca6ab4933123c95d460f0b6ca60b7da7dffc8d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/25-28.1792479158367.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ir laivybą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "Ecjono"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Geveryje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elotas"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "greta Eloto"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kranto"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Nendrių"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:38.368744983Z",
+  "model": "glm-5.3"
+}

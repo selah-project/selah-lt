@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ככר",
+      "rationale": "pažodžiui „ratas\/apvalus svoris“ — čia svorio matas talentas."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יעשה",
+      "rationale": "gali būti 3-asis asm. „jis padarys“ — adresatas neįvardytas, kontekstas rodo Mošę."
+    }
+  ],
+  "translation": "Talentą gryno aukso — padarysi ⟨את⟩ ją, ⟨את⟩ visus šiuos indus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e7cf29174a2fe2633c726b898eee82da6e2c35aacfcc3cf688cce3bf866cfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/37-40.1792472740353.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talentą"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "gryno"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus šiuos indus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:40.364667526Z",
+  "model": "glm-5.3"
+}

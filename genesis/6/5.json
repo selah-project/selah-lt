@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra sietuvo; lietuvių reikia ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת\/רע",
+      "rationale": "Žodžių žaismas: piktybė (raat) ir piktas (ra) — ta pati šaknis kartojama"
+    }
+  ],
+  "translation": "Ir Jahvė pamatė, kad didelė ⟨yra⟩ žmogaus piktybė žemėje, ir kiekvienas jo širdies minčių sumanymas — tik piktas visą dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "96d5464a5c116d29fecee872abbecee17a49bd8390ddbbee3285e46954280c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/6\/5-8.1792471114323.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "didelė"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "piktybė"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekvienas"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "sumanymas"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "minčių"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jo širdies"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "רע",
+      "gloss": "piktas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:34.325338063Z",
+  "model": "glm-5.3"
+}

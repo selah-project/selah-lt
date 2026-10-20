@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחר",
+      "rationale": "'aušra' arba 'šviesa': žodis reiškia rytmečio aušrą; kita tradicija skaito kaip 'nėra jokios vilties šviesos'"
+    },
+    {
+      "kind": "crux",
+      "subject": "sąsaja su 8,19",
+      "rationale": "eilutė be veiksnio — ar ji priklauso 8,19 klausimui ('argi ne... už Toros ir liudijimo?'), ar yra atsakymas; skyrybos sprendimas keičia visą sakinį"
+    },
+    {
+      "kind": "elision",
+      "subject": "veiksmažodis",
+      "rationale": "hebrajų eilutė prasideda be veiksmažodžio — 'Linkite' ir 'tai yra' pridėti, pažymėti ⟨…⟩"
+    }
+  ],
+  "translation": "⟨Linkite⟩ prie Toros ir prie liudijimo! Jei jie nekalba pagal šitą žodį — ⟨tai yra⟩ tas, kuriam nėra aušros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/17-20.1792480688329.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "prie Toros"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "ir prie liudijimo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jie kalbės"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pagal žodį"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "aušros"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:08.332847681Z",
+  "model": "glm-5.3"
+}

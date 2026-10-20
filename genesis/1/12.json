@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų neturi kopulos ties „kurio sėkla jame“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "„kad tai yra gerai“ — kopula pridėta, hebrajų sako tik כי טוב"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למינהו",
+      "rationale": "„pagal savo rūšį“ — rūšių suskirstymas, tvarkos sąskaita"
+    }
+  ],
+  "translation": "Ir žemė išaugino žolę — augalą, nešantį sėklą pagal savo rūšį, ir medį, duodantį vaisių, kurio sėkla yra jame, pagal savo rūšį. Ir Elohim pamatė, kad tai ⟨yra⟩ gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/9-12.1792471023140.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "Ir išaugino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "žolę"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "augalą"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "nešantį sėklą"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklą"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "pagal savo rūšį"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ir medį"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "duodantį"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vaisių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sėkla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "pagal savo rūšį"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Ir pamatė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:03.143030447Z",
+  "model": "glm-5.3"
+}

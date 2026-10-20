@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būs⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio šioje dalyje; lietuvių kalbai reikia jungties."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sėklos išliejimas",
+      "rationale": "שכבת זרע pažodžiui 'gulėjimo sėkla' — seksualinio akto eufemizmas."
+    }
+  ],
+  "translation": "Ir kiekvienas drabužis ir kiekviena oda, ant kurios bus sėklos išliejimo, turi būti išplauta vandenyje, ir ⟨būs⟩ nešvari iki vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/17-20.1792473534775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekvienas"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "drabužis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekviena"
+    },
+    {
+      "surface": "עור",
+      "gloss": "oda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant kurios"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "sėklos išliejimo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklos"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ir turi būti išplauta"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandenyje"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ir ⟨būs⟩ nešvari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:54.776424100Z",
+  "model": "glm-5.3"
+}

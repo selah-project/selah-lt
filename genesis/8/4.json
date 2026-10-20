@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dėžė",
+      "rationale": "תבה — „dėžė“ (tą pačią žodžio formą naudoja Mozės krepšys Iš 2,3), ne „laivas“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septintąjį mėnesį, septynioliktą dieną",
+      "rationale": "Tiksli datos apskaita"
+    }
+  ],
+  "translation": "Ir dėžė atsirėmė septintąjį mėnesį, septynioliktą mėnesio dieną, ant Ararato kalnų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/1-4.1792471145571.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ir atsirėmė"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "dėžė"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "mėnesį"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintąjį"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "septynioliktą"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-iolika)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kalnų"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararato"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:05.577189785Z",
+  "model": "glm-5.3"
+}

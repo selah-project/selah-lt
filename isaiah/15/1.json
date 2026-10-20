@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "hebrajų kalba neturi veiksnio; pridėtas įvardis lietuvių sintaksei"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "pakartota dviejų veiksmažodžių pora abiejuose posmuose — chiazmo tipo kartojimas, išlaikytas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nutilo",
+      "rationale": "נדמה — 'tapti tyliais, žūti'; išlaikytas tylos vaizdas, ne tiesiog 'sunaikintas'"
+    }
+  ],
+  "translation": "Pranašystės našta apie Moabą: nes naktį Ar-Moabas buvo nuniokotas, ⟨jis⟩ nutilo; nes naktį Kir-Moabas buvo nuniokotas, ⟨jis⟩ nutilo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/15\/1-4.1792480928120.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pranašystės našta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "buvo nuniokotas"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "nutilo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "buvo nuniokotas"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "nutilo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:08.121499773Z",
+  "model": "glm-5.3"
+}

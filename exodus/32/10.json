@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "įtūžis",
+      "rationale": "אף — pažodžiui 'nosis, šnervės'; Hebrajų pyktis degina nosį, lietuvių kalboje tai išnyksta"
+    },
+    {
+      "kind": "crux",
+      "subject": "palik mane",
+      "rationale": "הניחה לי — 'paleisk mane \/ leisk man': arba Jahvė tikrai ketina sunaikinti, arba išbando Mošę; vertėjai skirstomi"
+    }
+  ],
+  "translation": "Dabar palik mane, kad mano įtūžis užsidegtų prieš juos ir sunaikinčiau juos, ir padarysiu iš tavęs ⟨את⟩ didelę tautą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/9-12.1792472902742.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "palik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mane"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "užsidegtų"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mano įtūžis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "prieš juos"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "sunaikinčiau juos"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "padarysiu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tave",
+      "marks": "didelę tautą"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:22.744413729Z",
+  "model": "glm-5.3"
+}

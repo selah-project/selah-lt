@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškai be veiksmažodžio: חטאת הוא — 'nuodėmės auka tai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "žodis reiškia ir nuodėmę, ir jos atnašą — lietuviškai 'nuodėmės auka' praranda dviprasmybę"
+    }
+  ],
+  "translation": "O ⟨את⟩ jaučio mėsą, ⟨את⟩ jo odą ir ⟨את⟩ jo mėšlą sudeginsi ugnimi už stovyklos ribų — tai nuodėmės auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/13-16.1792472809395.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "mėsą"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mėsą"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jaučio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo odą"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "jo odą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo mėšlą"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "jo mėšlą"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sudeginsi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnimi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "už… ribų"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "stovyklos"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nuodėmės auka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:49.397445713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 8:22",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תועבת מצרים",
+      "rationale": "'micraimiečių pasibjaurėjimas' — tai, ką egiptiečiai laiko pasibjaurėtinu (jų garbinami gyvuliai), ne 'Egipto pasibjaurėjimas mums'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ולא יסקלנו",
+      "rationale": "neigiama forma reiškia retorinį klausimą 'argi jie mūsų neužmuštų?', lietuviškai išlaikytas klausimas"
+    },
+    {
+      "kind": "you",
+      "subject": "to Parohas",
+      "rationale": "Mošės atsakymas kreipiamas tiesiogiai į Parohą"
+    }
+  ],
+  "translation": "Ir Mošė tarė: Netinkama taip daryti, nes micraimiečių pasibjaurėjimą mes aukojame Jahvei, mūsų Elohim; štai, jei aukotume ⟨את⟩ micraimiečių pasibjaurėjimą jų akyse, argi jie mūsų neužmuštų akmenimis?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/8\/21-24.1792472340955.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "netinkama"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "pasibjaurėjimą"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimiečių"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "mes aukojame"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "aukotume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micraimiečių pasibjaurėjimą"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "pasibjaurėjimą"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimiečių"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "jų akyse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "יסקלנו",
+      "gloss": "užmuštų mus akmenimis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:00.957952796Z",
+  "model": "glm-5.3"
+}

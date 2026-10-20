@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio ‘būti’ šioje pastraipoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיר",
+      "rationale": "‘neįeisiu mieste’ — KJV ‘mieste’, ASV\/JPS prideda ‘pykčiu’; hebrajų tekstas turi tik ‘mieste’"
+    }
+  ],
+  "translation": "Nepadarysiu degančio savo pykčio, nesigręšiu sugriauti Efraimo, nes aš El, o ne žmogus; tavo viduryje ⟨esu⟩ šventas, ir neįeisiu mieste ⟨pykčiu⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/11\/9-11.1792486287423.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "padarysiu"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "degančio"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mano pykčio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "gręšiuosi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "sugriauti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavo viduryje"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "įeisiu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    }
+  ],
+  "timestamp": "2026-10-20T08:51:27.424190274Z",
+  "model": "glm-5.3"
+}

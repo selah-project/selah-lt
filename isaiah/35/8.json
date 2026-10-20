@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 35:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų והוא למו neturi veiksmažodžio — lietuvių reikalauja porinio žodžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "והוא למו",
+      "rationale": "'jis jiems' — KJV\/ASV 'it shall be for those (the redeemed)', YLT 'He Himself is with them' (Dievo buvimas); laikomasi neutralaus 'tiems'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואוילים לא יתעו",
+      "rationale": "KJV 'though fools' (net kvailiai nenuklys) prieš BSB 'fools will not stray onto it' (kvailiai jo neis); hebrajų gramatiškai abu įmanomi"
+    }
+  ],
+  "translation": "Ir ten bus kelias ir takas, ir jis bus vadinamas šventu keliu; nešvarus juo neis, jis ⟨yra⟩ tiems, kurie eina keliu, ir kvailiai nenuklys nuo jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be75876a1b44bb3bc798377503c19825ba119cb5c6c409cb254b75bfb2685f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/35\/5-8.1792481352798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "מסלול",
+      "gloss": "kelias"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ir takas"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ir kelias"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bus vadinamas"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעברנו",
+      "gloss": "eis juo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešvarus"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tiems"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kurie eina"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "keliu"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "ir kvailiai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "nuklys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:12.801645011Z",
+  "model": "glm-5.3"
+}

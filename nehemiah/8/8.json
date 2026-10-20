@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפרש",
+      "rationale": "'išskaidytai \/ verčiant' — ar skaitė dalimis, ar verčė į aramėjų kalbą; čia 'aiškiai'."
+    },
+    {
+      "kind": "crux",
+      "subject": "במקרא",
+      "rationale": "מקרא — 'susirinkimas \/ skaitymas': ar 'suprato skaitymą', ar 'suprato susirinkę'; čia 'skaitymą'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורת האלהים — 'Elohim Tora'; 'Tora' neliečiama pagal D2 taisyklę."
+    }
+  ],
+  "translation": "Ir jie skaitė iš knygos, iš Torah, Elohim Įstatymo, aiškiai, ir suteikė supratimą, ir jie suprato skaitymą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7215b9969b34f57d83d0ce51b3750da45096746e7806714168ae3dbd187c66dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/8\/5-8.1792492496562.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ir skaitė"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "iš knygos"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "iš Torah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "aiškiai"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "ir suteikė"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "supratimą"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "ir suprato"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "skaitymą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:34:56.563987340Z",
+  "model": "glm-5.3"
+}

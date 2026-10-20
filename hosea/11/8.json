@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 11:8",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמגנך",
+      "rationale": "Šaknis מגן „skydas“: „tave atiduodu saugodamas\/skydu“ vs „tave perduodu“ — vertėjai skirtingai skaito."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mano gailestauti",
+      "rationale": "נחומי — „mano paguodos, gailesčio jausmai“; „gailestauti“ atspindi nuoširdų Jahvės vidų, ne atgailą žodžio vėlyvąja prasme."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איך אתנך…איך אתנך",
+      "rationale": "Pakartotas šūksis „Kaip gi tave atiduosiu“ — chiazminė struktūra Efraimas\/Jisraelis, Adma\/Cvojimas."
+    }
+  ],
+  "translation": "Kaip gi tave atiduosiu, Efraime, tave atiduodu saugodamas, Jisraeli? Kaip gi tave padarysiu kaip Admą, tave paskirsiu kaip Cvojimą? Apsivertė manyje mano širdis, kartu užsiliepsnojo mano gailestauti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "005f4fa2860f04403716e9d71d8dfb2af30144e20985f8a1d7984936c2ffed04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/11\/5-8.1792486325819.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "kaip gi"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "tave atiduosiu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraime"
+    },
+    {
+      "surface": "אמגנך",
+      "gloss": "tave atiduodu saugodamas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kaip gi"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "tave padarysiu"
+    },
+    {
+      "surface": "כאדמה",
+      "gloss": "kaip Admą"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "tave paskirsiu"
+    },
+    {
+      "surface": "כצבאים",
+      "gloss": "kaip Cvojimą"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "apsivertė"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manyje"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mano širdis"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kartu"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "užsiliepsnojo"
+    },
+    {
+      "surface": "נחומי",
+      "gloss": "mano gailestauti"
+    }
+  ],
+  "timestamp": "2026-10-20T08:52:05.822323087Z",
+  "model": "glm-5.3"
+}

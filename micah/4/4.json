@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kiekvienas",
+      "rationale": "איש pažodžiui 'vyras' — 'kiekvienas' išskleidžia skirstomąją reikšmę"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nebus⟩",
+      "rationale": "hebrajų אין neturi veiksmažodžio; lietuvių reikia ⟨nebus⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vynmedžiu ir figmedžiu",
+      "rationale": "pranašiškas ramybės vaizdas — kiekvienas po savo medžiu — senasis taikos simbolis"
+    }
+  ],
+  "translation": "Ir sėdės kiekvienas po savo vynmedžiu ir po savo figmedžiu, ir ⟨nebus⟩ gąsdinančio, nes Jahvės Cevaot burna kalbėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/4\/1-4.1792486801116.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ir sėdės"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "savo vynmedžiu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ir po"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "savo figmedžiu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir ⟨nebus⟩"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "gąsdinančio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:00:01.119258720Z",
+  "model": "glm-5.3"
+}

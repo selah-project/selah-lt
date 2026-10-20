@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vasarą ir žiemą",
+      "rationale": "קיץ — derliaus metas (vasara), חרף — vėlyvasis derliaus sezonas (žiema); lietuvių sezono pora išreiškia dvi hebrajiškas žodžio formas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "suformavai",
+      "rationale": "יצר — puodžiaus žodis: „nulėpei juos“ būtų dar arčiau formos davimo paveikslo"
+    }
+  ],
+  "translation": "Tu nustatei visas žemės ribas; vasarą ir žiemą tu suformavai jas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/74\/17-20.1792488416586.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "nustatei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "ribas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "vasarą"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ir žiemą"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "suformavai jas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:56.586865732Z",
+  "model": "glm-5.3"
+}

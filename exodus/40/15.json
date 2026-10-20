@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומשחת\/משחת\/משחתם",
+      "rationale": "pakartota ta pati šaknis משח tris kartus — patepimo simetrija"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨būti⟩",
+      "rationale": "infinitive להית išreikštas kaip įterptas žodis"
+    }
+  ],
+  "translation": "Ir patepsi ⟨את⟩ juos, kaip patepei ⟨את⟩ jų tėvą, ir jie kunigaus man; ir jų patepimas jiems bus kunigystei per amžius, jų kartoms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/13-16.1792473094685.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "patepsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "patepsi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "patepei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų tėvą"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jų tėvą"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "kunigaus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "להית",
+      "gloss": "⟨būti⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "jų patepimas"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "kunigystei"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "jų kartoms"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:34.689132501Z",
+  "model": "glm-5.3"
+}

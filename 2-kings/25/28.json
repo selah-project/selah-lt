@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טבות",
+      "rationale": "pažodžiui ”gerus dalykus”; ”gerus žodžius” yra kontekstinis išaiškinimas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "לפנו של אדם ”su juo” — išlaikoma kaip ⟨את⟩"
+    }
+  ],
+  "translation": "Ir kalbėjo ⟨את⟩ su juo gerus žodžius, ir davė ⟨את⟩ jo sostą aukščiau sostų karalių, kurie ⟨את⟩ buvo su juo Babelije.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "daa04817d4643f2ec61e59a9f69bb12a99a5d09d755131e3a160b8ea31c1e0ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/25-28.1792480584785.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ir kalbėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "gerus žodžius"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo sostą"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "jo sostą"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "aukščiau"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sostų"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ buvo su juo"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babelije"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:24.790208883Z",
+  "model": "glm-5.3"
+}

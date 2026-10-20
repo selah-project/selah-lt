@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא רחמה \/ לא עמי",
+      "rationale": "Hozės vaikų vardai Lo-Ruhamah ir Lo-Ammi čia atšaukiami — neigimas לא atsiejamas nuo vardo, lietuviškai perteikta brūkšneliu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasigailėsiu",
+      "rationale": "רחם — glėbesčiuoti, mylėti iš gailesčio; „pasigailėti“ artimiausias, bet praranda giminingumą su vardu Ne-Pasigailėtoji"
+    },
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "hebrajų šneka be veiksmažodžio „mano tauta tu“; lietuviškai pridėta „esi“"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė kalba Jisraeliui",
+      "rationale": "tiesioginis kreipimasis „mano tauta tu esi“ atšaukia atskilimo žodį iš Hoz 1, 9"
+    }
+  ],
+  "translation": "Ir pasėsiu ją sau žemėje, ir pasigailėsiu ⟨את⟩ Ne-Pasigailėtosios, ir sakysiai Ne-Mano-Tautai: mano tauta tu esi, o jis sakys: mano Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/2\/25-25.1792486152426.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ir pasėsiu ją"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ir pasigailėsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ne-Pasigailėtosios"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Pasigailėtoji"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ir sakysiu"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Ne-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T08:49:12.426736659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כי",
+      "rationale": "'Ne, bet' — ar לא paneigia Samuelio patarimą (kurio tekstas cituoja), ar valdo karaliaus reikalavimą"
+    },
+    {
+      "kind": "you",
+      "subject": "Samuelis kalba Izraeliui",
+      "rationale": "Tiesioginis kreipimasis į tautą, primenant jų žodžius"
+    }
+  ],
+  "translation": "Ir pamatėte, kad Nachašas, Amono vaikų karalius, žygiuoja prieš jus, ir pasakėte man: Ne, — karalius karaliaus mums, kai Jahvė, jūsų Elohim, ⟨yra⟩ jūsų karalius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/12\/9-12.1792477199063.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ir pamatėte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachašas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "בא",
+      "gloss": "žygiuoja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "prieš jus"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ir pasakėte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kai Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jūsų karalius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:59.066866190Z",
+  "model": "glm-5.3"
+}

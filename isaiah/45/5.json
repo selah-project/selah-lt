@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“; lietuvių reikalauja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "juosiu",
+      "rationale": "אָזַר pažodžiui „susijuosti“ — galią suteikti kaip juostą."
+    }
+  ],
+  "translation": "Aš ⟨esu⟩ Jahvė, ir nėra kito; be manęs nėra Elohim. Aš juosiu tave, nors tu manęs nepažinai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/45\/5-8.1792481619787.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kito"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "be manęs"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Aš juosiu tave"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nors ne"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tu manęs nepažinai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:39.788398677Z",
+  "model": "glm-5.3"
+}

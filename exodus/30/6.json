@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aronas",
+      "rationale": "ארון — „dėžė“, bet paliktas transkribuotas kaip šventasis daiktas"
+    },
+    {
+      "kind": "crux",
+      "subject": "saminė",
+      "rationale": "הכפרת — „dangtis“ (JPS) arba „apsivalymo vieta“ iš כפר šaknies; lietuviškas „saminė“ — dangtis"
+    }
+  ],
+  "translation": "Ir padėsi ⟨את⟩ jį prieš uždangą, kuri yra prie ⟨את⟩ liudijimo aronų, prieš saminę, kuri yra ant liudijimo, kur susitiksiu su tavimi ten.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/5-8.1792472803870.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ir padėsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį — altorius"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "uždangą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "aroną"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "liudijimo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "saminę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "liudijimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "susitiksiu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:43.872258267Z",
+  "model": "glm-5.3"
+}

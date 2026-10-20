@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja pagalbinio veiksmažodžio, hebrajų jį turi tik kaip galūnę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני האדם",
+      "rationale": "Pažodžiui „žmogaus (ha-adam) sūnūs“ — ne tiesiog „žmonės“"
+    }
+  ],
+  "translation": "Ir Jahvė nužengė pažiūrėti ⟨את⟩ miesto ir ⟨את⟩ bokšto, kurį buvo pastatę žmogaus sūnūs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/11\/5-8.1792471193608.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ir nužengė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "pažiūrėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miesto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "bokšto"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "bokšto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "buvo pastatę"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:53.609570912Z",
+  "model": "glm-5.3"
+}

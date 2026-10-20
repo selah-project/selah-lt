@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תרהו",
+      "rationale": "veiksmažodis רהה Tanache tik čia — antrasis 'bijoti' žodis poroje su פחד"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uola",
+      "rationale": "צור 'uola, skardis' — Jahvės metafora, išlaikytas pažodinis vaizdas, ne 'globėjas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jokios⟩",
+      "rationale": "lietuvių gramatikai reikia objekto abiejose neiginio dalyse — 'uolos, kurios nežinočiau, nėra'"
+    }
+  ],
+  "translation": "Neišsigąskite ir nedrebėkite: argi nuo ano laiko nepranešiau tau ir nepaskelbiau? Ir jūs — mano liudytojai. Ar yra Eloah be manęs? Ir nėra uolos — ⟨jokios⟩ nežinau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3bf59ca5bf086dee7b94323cac2f2c1b0f193fae9112a49c689d8c3dc528bee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/5-8.1792481559459.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "išsigąskite"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "drebėkite"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "nuo ano laiko"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "pranešiau tau"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "ir paskelbiau"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ir jūs"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mano liudytojai"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ar yra"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "be manęs"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "צור",
+      "gloss": "uolos"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nežinau"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:39.462561225Z",
+  "model": "glm-5.3"
+}

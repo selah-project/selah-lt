@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 8:25",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שר שרים",
+      "rationale": "„vyriausiųjų vyriausiasis” — statmena konstrukcija „vado vadas”; graikų ir lietuviškos tradicijos „kunigų kunigaikštis” yra vėlesnė tapatybė."
+    },
+    {
+      "kind": "addition",
+      "subject": "save",
+      "rationale": "יגדיל neturi objekto — „didins ⟨save⟩” pridėta, nes lietuvių kalbai reikalingas objektas."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ובשלוה",
+      "rationale": "„ramybės metu” arba „pačios ramybės [dėka]” — hebrajų konstrukcija abipusė."
+    }
+  ],
+  "translation": "Ir dėl jo išmintingumo jam seksis apgaule jo rankoje, ir savo širdyje jis didins save, ir ramybės metu sunaikins daugelį, ir prieš vyriausiųjų vyriausiąjį jis stosis, bet be rankos jis bus sudaužytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9dd8d9b96f0f894b905cb1f3c4f24097fc53f8860867fe0089a163a056b5f504",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/8\/25-27.1792491799628.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "jo išmintingumo"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "jam seksis"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "apgaule"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    },
+    {
+      "surface": "ובלבבו",
+      "gloss": "ir savo širdyje"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "jis didins save"
+    },
+    {
+      "surface": "ובשלוה",
+      "gloss": "ir ramybės metu"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "sunaikins"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugelį"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir prieš"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vyriausiąjį"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vyriausiųjų"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "jis stosis"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "bet be"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rankos"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "jis bus sudaužytas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:23:19.629137899Z",
+  "model": "glm-5.3"
+}

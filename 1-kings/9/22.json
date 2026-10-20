@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 9:22",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלשיו",
+      "rationale": "šališîm pažodžiui 'trečiasieji' — karinės palydos karininkai; lietuvių lankoje 'adjutantai'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas tekstas neturi veiksmažodžio 'būti'"
+    }
+  ],
+  "translation": "O iš Jisraelio vaikų Šlomo nepaskyrė vergų, nes jie ⟨buvo⟩ karo vyrai, ir jo tarnai, ir jo kunigaikščiai, ir jo adjutantai, ir jo vežimų viršininkai, ir jo raiteliai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0d573152a07a35435982302f8f513eb25bfe4d30db6939325cb44672740dfac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/21-24.1792479095084.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "o iš vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "paskyrė"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ir jo tarnai"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ir jo kunigaikščiai"
+    },
+    {
+      "surface": "ושלשיו",
+      "gloss": "ir jo adjutantai"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ir viršininkai"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "jo vežimų"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "ir jo raiteliai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:35.086203612Z",
+  "model": "glm-5.3"
+}

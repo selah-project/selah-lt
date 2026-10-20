@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 8:8",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתנו",
+      "rationale": "Tai prielinksnis אִתָּנוּ (H854) 'su mumis', ne objekto žymeklis; ⟨את⟩ išlaikomas pagal projektą."
+    },
+    {
+      "kind": "addition",
+      "subject": "esame \/ yra",
+      "rationale": "Lietuvių kalbai reikalinga sangrinda, kurios hebrajų tekstas neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשקר \/ שקר",
+      "rationale": "Šaknis שקר kartojama — 'melą pavertė melaginga pluma'."
+    }
+  ],
+  "translation": "Kaip jūs sakote: Mes ⟨esame⟩ išmintingi, ir Jahvės Tora ⟨yra⟩ ⟨את⟩ su mumis? Iš tiesų, štai, melaginga rašytojų pluma pavertė ⟨את⟩ į melą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1896ed67c21d0c4907c7e0d2fc525f1470799e778eba5f32a85a3a1527766dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/8\/5-8.1792482423037.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Kaip"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jūs sakote"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "išmintingi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "Mes"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "ir Jahvės Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ su mumis"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Iš tiesų"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "į melą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pavertė"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pluma"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melaginga"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "rašytojų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:03.181516878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 2:5",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajiškoje eilutėje nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "ki-'im konstrukcija išversta kaip 'jei ne' — atskiras 'אם' ištirpsta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים \/ שמי השמים",
+      "rationale": "dangus \/ dangaus dangai — pakartota šaknis, lietuviškame kartojime išlieka, bet intensyvumas sumenksta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išlaikyti",
+      "rationale": "יכלכלהו — 'jį išlaikyti\/apimti'; KJV 'contain', lietuviškai 'išlaikyti'"
+    }
+  ],
+  "translation": "Ir kas pajėgtų pastatyti jam namus? Nes dangus ir dangaus dangai negali jo išlaikyti — o kas aš ⟨esu⟩, kad statyčiau jam namus, jei ne tam, kad deginčiau smilkalus priešais jį?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb069e0910010e5f2479aed1aba445be3de15d5a70161c2aa8f12a4be8de214b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/2\/5-8.1792493324220.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "sulaikytų"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jėgą"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "pastatyti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangus"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ir dangaus"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "negali"
+    },
+    {
+      "surface": "יכלכלהו",
+      "gloss": "jo išlaikyti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "o kas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אבנה",
+      "gloss": "statyčiau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "deginčiau smilkalus"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "priešais jį"
+    }
+  ],
+  "timestamp": "2026-10-20T10:48:44.221199317Z",
+  "model": "glm-5.3"
+}

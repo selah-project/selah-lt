@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "״buvo parduodama״",
+      "rationale": "Hebrajiškai nėra veiksmažodžio ״parduoti״ -- tik מלא סאה בשקל, matas už šekelį, be veiksmo -- palikta pačiai tekstui."
+    },
+    {
+      "kind": "measurement",
+      "subject": "siekiai ir šekeliai",
+      "rationale": "Eilutė skaičiuoja kainas -- matas už šekelį, du matai už šekelį -- Matų ir svorių sistema."
+    }
+  ],
+  "translation": "Ir žmonės išėjo ir plėšė ⟨את⟩ Aramo stovyklą, ir buvo matu sijotų miltų už šekelį, ir du matai miežių už šekelį, pagal Jahvės žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/7\/13-16.1792479998851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ir išėjo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ir plėšė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramo stovyklą"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "stovyklą"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "matas"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sijotų miltų"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "už šekelį"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ir du matai"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "miežių"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "už šekelį"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pagal žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:06:38.854288905Z",
+  "model": "glm-5.3"
+}

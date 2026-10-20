@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių perfekto formai „yra prakalbėjęs“ reikia pagalbinio veiksmažodžio, hebrajų turi vieną žodį דבר."
+    }
+  ],
+  "translation": "Kas miršta iš Jerovamo mieste — suės šunys, o kas miršta lauke — suės dangaus paukščiai, nes Jahvė yra prakalbėjęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/9-12.1792479330921.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kas miršta"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "iš Jerovamo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "šunys"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "o kas miršta"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "paukščiai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yra prakalbėjęs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:30.922819088Z",
+  "model": "glm-5.3"
+}

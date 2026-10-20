@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gerklė, gyvybės jėga, alsavimas; 'siela' per siaura."
+    }
+  ],
+  "translation": "Jie sueina, jie slapstosi, jie seka mano kulnus — kaip tykoja mano nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/56\/5-8.1792488147154.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "sueina"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "slapstosi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mano kulnus"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "seka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "tykoja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T09:22:27.155114066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלו",
+      "rationale": "„prašyti“ vs „pasiskolinti“ — šaknis reiškia ir prašymą, ir reikalavimą; lietuvių „teprašo“ palieka dviprasmybę."
+    },
+    {
+      "kind": "addition",
+      "subject": "kiekvienas",
+      "rationale": "Hebrajiškas distributyvinis איש\/אשה — „vyras… moteris“ išskleista į „kiekvienas vyras… kiekviena moteris“."
+    }
+  ],
+  "translation": "Prašau, kalbėk į žmonių ausis, ir teprašo kiekvienas vyras iš ⟨את⟩ savo artimo, ir kiekviena moteris iš ⟨את⟩ savo artimos — sidabro indus ir aukso indus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/11\/1-4.1792472386919.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "į ausis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "teprašo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas vyras"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩",
+      "marks": "savo artimo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ir kiekviena moteris"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩",
+      "marks": "savo artimos"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "savo artimos"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ir indus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:46.922372319Z",
+  "model": "glm-5.3"
+}

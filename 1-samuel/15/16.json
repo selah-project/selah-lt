@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Šaulius",
+      "rationale": "Hebrajų 'ויאמרו לו' neturi įvardžio subjekto — 'ir tarė jam'; 'Šaulius' pridėta, nes lietuvių kalba reikalauja veikėjo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nustok",
+      "rationale": "הרף pažodžiui 'atsileisk, atslūgau' (nuo רפה) — KJV 'Stay', t. y. liaukis teisintis"
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulius",
+      "rationale": "Šmuelio tiesioginis kreipimasis su imperatyvu 'nustok' ir pažadu paskelbti žodį"
+    }
+  ],
+  "translation": "Ir tarė Šmuelis Šauliui: Nustok, ir aš tau paskelbsiu, ⟨את⟩ ką Jahvė man kalbėjo šią naktį. Ir Šaulius tarė jam: Kalbėk.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/13-16.1792477330021.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "nustok"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ir aš paskelbsiu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką Jahvė man kalbėjo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "šią naktį"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:10.024960620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 1:22",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elgiskis",
+      "rationale": "עולל pažodžiui 'nuskinta kaip javai' — čia apibendrinta 'elgtis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — pridėta lietuvių saito"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבא",
+      "rationale": "Jussyvas — prašymas, kad blogis ateitų prieš Jahvės veidą; kai kurie verčia kaip teiginį"
+    }
+  ],
+  "translation": "Teeina prieš tave visa jų blogybė, ir elgiskis su jais, kaip elgeisi su manimi dėl visų mano nusikaltimų, nes daug yra mano atodūsių, ir mano širdis ⟨yra⟩ suirzusi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/1\/21-22.1792491071085.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבא",
+      "gloss": "teeina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "jų blogybė"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "ועולל",
+      "gloss": "ir elgiskis"
+    },
+    {
+      "surface": "למו",
+      "gloss": "su jais"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עוללת",
+      "gloss": "elgeisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "su manimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mano nusikaltimų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "daug"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mano atodūsių"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ir mano širdis"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "suirzusi"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:11.086304143Z",
+  "model": "glm-5.3"
+}

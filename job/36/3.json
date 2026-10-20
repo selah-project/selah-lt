@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 36:3",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Darėjui",
+      "rationale": "לְפֹעֲלִי pažodžiui 'mano Darėjui' — asmens priesaga rodo, kad Elihuas kalba apie savo Kūrėją."
+    },
+    {
+      "kind": "crux",
+      "subject": "cedek",
+      "rationale": "צֶדֶק gali būti 'teisumas' arba 'teisumas, priskiriamas Dievui' — 'pripažinsiu teisumą' vs 'duosiu cedek'."
+    }
+  ],
+  "translation": "Iškelsiu savo žinojimą iš toli, ir savo Darėjui duosiu cedek.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "24e5b87c4aed1074e52d143d36c2a5464aab640f76850493d0b42587f76621a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/1-4.1792490674971.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "iškelsiu"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "savo žinojimą"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "iš toli"
+    },
+    {
+      "surface": "ולפעלי",
+      "gloss": "ir savo Darėjui"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "duosiu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:34.972030096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Paro",
+      "rationale": "Paro tiesiogiai kreipiasi į Mošę ir Aharoną"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העתירו",
+      "rationale": "עתר — deginti smilkalus, perkelkelta: tarpininkauti maldoje"
+    }
+  ],
+  "translation": "Ir Paro šaukė Mošę ir Aharoną bei tarė: Melstkite Jahvei, kad jis pašalintų varles nuo manęs ir nuo mano tautos, ir aš išleisiu ⟨את⟩ tautą, kad ji aukotų Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f1e9202d68b1d591ac3d1dc5fe442b34cbc91c94738930af88ff747b008fc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/8\/1-4.1792472369592.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir šaukė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ir Aharonui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Melstkite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "kad pašalintų"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "varles"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "ir nuo mano tautos"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ir aš išleisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "kad aukotų"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:29.596886097Z",
+  "model": "glm-5.3"
+}

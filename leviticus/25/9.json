@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dieną",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio prie skaitvardžio; hebrajiškas בעשור sako tik „dešimtoje [dalyje]“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išpirkimų",
+      "rationale": "הכפרים daugiskaita — „išpirkimų diena“; daug vertimų turi vienaskaitą"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septintąjį mėnesį, dešimtąją dieną",
+      "rationale": "Tikslus laiko skaičiavimas nustato jovelo paskelbimo dieną"
+    },
+    {
+      "kind": "you",
+      "subject": "jums, izraelitams",
+      "rationale": "Eilutė tiesiogiai kreipiasi į bendruomenę per „jūsų žemėje“"
+    }
+  ],
+  "translation": "Ir tu perleisi triukšmingą šofaro signalą septintąjį mėnesį, dešimtąją mėnesio ⟨dieną⟩; išpirkimų dieną jūs perleisite šofarą visoje jūsų žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/9-12.1792473722635.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "perleisi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofaro"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "triukšmingą signalą"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "septintąjį mėnesį"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "septintąjį"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "dešimtąją"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "išpirkimų"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "perleisite"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofarą"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jūsų žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:02.636422499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "המנחה čia — rytinė auka; pagal taisyklę rašoma 'mincha', ne 'auka' viena."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti' prie ותמלא — lietuvių kalbai reikia 'buvo pilna'."
+    }
+  ],
+  "translation": "Ir atsitiko rytą, kai kilo mincha, štai vanduo ėjo iš Edomo kelio, ir žemė buvo pilna ⟨את⟩ vandens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/3\/17-20.1792479872598.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rytą"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "kai kilo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ėjo"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "iš kelio"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ir buvo pilna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vandens"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:32.600485522Z",
+  "model": "glm-5.3"
+}

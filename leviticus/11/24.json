@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nešvarus",
+      "rationale": "טמא — ritualinis nešvarumas, ne purvas; lietuvių žodis apima abu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iki vakaro",
+      "rationale": "nešvarumo laikas apmatuotas — nuo prisilietimo iki sutemų"
+    }
+  ],
+  "translation": "Ir nuo šitų tapsite nešvarūs: kiekvienas, kuris palies jų dvėselieną, bus nešvarus iki vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/21-24.1792473330631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ir nuo šitų"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "tapsite nešvarūs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kuris palies"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "jų dvėselieną"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvarus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:30.636365823Z",
+  "model": "glm-5.3"
+}

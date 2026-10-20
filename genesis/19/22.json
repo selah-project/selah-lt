@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "דבר",
+      "rationale": "'negaliu padaryti dalyko' — hebraiškai teigiamas daiktavardis su neiginiais, lietuviškai susilieja į 'nieko'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "קרא",
+      "rationale": "Wayyiqtol vienaskaita gali būti beveikinė ('buvo pavadintas') pagal KJV\/JPS; pasirinkta pažodinė 'pavadino' be veikėjo."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Skubėk, pabėk",
+      "rationale": "Skubus imperatyvas, kreipiamasi į Lotą."
+    }
+  ],
+  "translation": "Skubėk, pabėk ten, nes negaliu padaryti ⟨nieko⟩, kol tu neateisi ten. Todėl pavadino ⟨את⟩ miesto vardą Coaru.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/21-24.1792471292748.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Skubėk"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "pabėk"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "galiu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "padaryti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "באך",
+      "gloss": "tu ateisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl to"
+    },
+    {
+      "surface": "כן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Coaras"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:32.752059013Z",
+  "model": "glm-5.3"
+}

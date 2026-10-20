@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga; „siela” būtų klaidingas atspindys."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muzikinis pakartojimo ženklas, išlaikytas kaip „Sela.” be vertimo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מִשְׁפָּט \/ mindžiojimas",
+      "rationale": "Nėra — praleista; eilutės smūgis eina ירדף–ישיג–ירמס–ישכן veiksmažodžių grandine, kuri lietuviškai išlieka."
+    }
+  ],
+  "translation": "Tegul priešas vejasi mano gyvybę ir ją pasiekia, ir mindo žemėn mano gyvenimą, o mano garbę dulkėse įsikurdina. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/7\/5-8.1792487461109.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "vejasi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "priešas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybę"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "ir pasiekia"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ir mindo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mano gyvenimą"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "o mano garbę"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "dulkėse"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "įsikurdina"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:01.110226799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 2:27",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ילדתני",
+      "rationale": "Forma „pagimdei mane“ — moteriškas veiksmažodis, retas kreipinyje į akmenį."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Jungtukas כי čia neverčiamas — lietuvių sakinys jo nereikalauja."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "„Atsuko į mane nugarą“ — Jahvės kreipimasis į Jisraelio namus."
+    }
+  ],
+  "translation": "Sakantys medžiui: „Tu mano tėvas“, ir akmeniui: „Tu mane pagimdei“; jie atsuko į mane nugarą, o ne veidą, o jų bėdos metu sakys: „Kelkis ir išgelbėk mus!“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/2\/25-28.1792482073731.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרים",
+      "gloss": "sakantys"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "medžiui"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "ir akmeniui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "pagimdei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "jie atsuko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "į mane"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nugarą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "o … metu"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "jų bėdos"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "kelkis"
+    },
+    {
+      "surface": "והושיענו",
+      "gloss": "ir išgelbėk mus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:13.759233108Z",
+  "model": "glm-5.3"
+}

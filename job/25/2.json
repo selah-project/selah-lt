@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 25:2",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas beveiksmažodinis sakinyje neturi sietuvo; lietuvių kalba reikalauja ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalomą",
+      "rationale": "שלום — šalomas, išsamiau nei 'taika': pilnybė, gerovė, saugumas"
+    }
+  ],
+  "translation": "Valdžia ir baimė ⟨yra⟩ su ju, darantis šalomą savo aukštybėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f260ba0ec891d3793fd906ea11b87cccd76145fc50e5631fd3fb2fa2693f95b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/25\/1-4.1792490469414.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשל",
+      "gloss": "valdžia"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ir baimė"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su ju"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darantis"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomą"
+    },
+    {
+      "surface": "במרומיו",
+      "gloss": "savo aukštybėse"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:09.414729474Z",
+  "model": "glm-5.3"
+}

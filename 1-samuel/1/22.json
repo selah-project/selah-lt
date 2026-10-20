@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 1:22",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš jį atvesiu",
+      "rationale": "hebrajiškas והבאתיו yra pirmo asmens sangrąžinė forma — moters citata tęsiama be žodžio 'pasakė'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עד עולם",
+      "rationale": "pažodžiui 'iki paslėptojo\/tolimiausio taško' — 'per amžius' yra sustiprinta vertimo prasmė"
+    }
+  ],
+  "translation": "O Chana nebuvo pakilusi aukštyn, nes tarė savo vyrui: kai tik vaikis bus atjunkytas, aš jį atvesiu, ir jis pasirodys prieš ⟨את⟩ Jahvės veidą ir gyvens ten per amžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/1\/21-24.1792476974706.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "O Chana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "buvo pakilusi aukštyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "savo vyrui"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kai tik"
+    },
+    {
+      "surface": "יגמל",
+      "gloss": "bus atjunkytas"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vaikis"
+    },
+    {
+      "surface": "והבאתיו",
+      "gloss": "aš jį atvesiu"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ir jis pasirodys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:14.707436955Z",
+  "model": "glm-5.3"
+}

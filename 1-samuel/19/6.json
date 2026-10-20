@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה אם יומת",
+      "rationale": "prisaikdijimo formulė: 'kiek gyva Jahvė — jei jis bus nužudytas', 'אם' čia ne sąlyga, o priesaikos stiprintuvas"
+    }
+  ],
+  "translation": "Ir išklausė Šaulius Jehonatano balsą, ir prisiekė Šaulius: kiek gyva Jahvė, jis nebus nužudytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/19\/5-8.1792477430438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "išklausė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatano"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "prisiekė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kiek gyva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus nužudytas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:23:50.440232783Z",
+  "model": "glm-5.3"
+}

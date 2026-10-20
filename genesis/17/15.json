@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרי \/ שרה",
+      "rationale": "Vardo keitimas — įvardis prie šaknies 'kunigaikštienė' prideda-he; lietuviškai garsinis žaidimas prarandamas."
+    },
+    {
+      "kind": "you",
+      "subject": "Avrahamui",
+      "rationale": "Tiesioginis kreipimasis į Avrahamą."
+    }
+  ],
+  "translation": "Ir Elohim tarė Avrahamui: Sarajaus tavo žmonai ⟨את⟩ vardą nebevadink Sarajumi, nes Saros vardas jos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/17\/13-16.1792471266401.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamui"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajaus"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tavo žmonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "vadink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vardą"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saros"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vardas jos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:06.404308779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas tekstas neturi veiksmažodžio — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "kunigaikštis Amalekas",
+      "rationale": "Amalekas čia Elifazo sūnus (per sugulovę Timną, eil. 12), o ne tauta — tačiau vardas iš karto reiškia ir amalekiečių tautą"
+    }
+  ],
+  "translation": "Kunigaikštis Korachas, kunigaikštis Gatamas, kunigaikštis Amalekas; šitie yra kunigaikščiai, kilę iš Elifazo Edomo šalyje; šitie yra Ados sūnūs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab86dd4d6c8bbd4fff1470150738a05b42b816ce6bb5dccb55578c12ac854aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/36\/13-16.1792471717235.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "kunigaikštis"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachas"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kunigaikštis"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "Gatamas"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kunigaikštis"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifazo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "šalyje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ados"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:37.237046933Z",
+  "model": "glm-5.3"
+}

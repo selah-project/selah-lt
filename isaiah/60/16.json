@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išpirkėjas",
+      "rationale": "גואל — giminės teisės globėjas-atpirkėjas, ne paprastas 'gelbėtojas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "būsi maitinama",
+      "rationale": "תינקי — tos pašaknies žodžių žaismas su וינקת 'žįsi': 'žysi pieną... būsi žindoma' — hebrajiškas paronomazijos dviejų veiksmažodžių pora"
+    }
+  ],
+  "translation": "Ir žįsi tautų pieną ir karalių krūtų būsi maitinama, ir pažinsi, kad aš — Jahvė, tavo išgelbėtojas ir tavo išpirkėjas, Jaaqovo Galingasis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/60\/13-16.1792481933084.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "ir žįsi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pieną"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ir krūtų"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "būsi maitinama"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ir pažinsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "tavo išgelbėtojas"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ir tavo išpirkėjas"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Galingasis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaaqovo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:53.085567024Z",
+  "model": "glm-5.3"
+}

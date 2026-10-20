@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הושע \/ יהושע",
+      "rationale": "Vardo keitimas prideda י — Hošėja tampa Jehošua, „Jahvė gelbėja“; vardų žaismas prarastas vertime."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "Eilutė užbaigia dvylikos vyrų sąrašą ir vardą vardais."
+    }
+  ],
+  "translation": "Šitie ⟨yra⟩ vardai vyrų, kuriuos Mošė siuntė apžiūrėti ⟨את⟩ šalies; ir Mošė pavadino Hošėją, Nuno sūnų, Jehošua.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c97604a43ec7dacba76615a56fe5bfe938ea16537c63f73733e92c45e0f205d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/13\/13-16.1792474112571.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "siuntė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "apžiūrėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šalies"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalies"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir pavadino"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hošėją"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuno"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:32.572712318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 14:29",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "„dar” su „שנית” sudaro „dar antrą kartą”; įsprausta į vieną žodį."
+    },
+    {
+      "kind": "addition",
+      "subject": "šis",
+      "rationale": "Hebrajų veiksmažodis be subjekto; lietuvių reikalauja įvardį, pažymėta ⟨pas⟩ kontekste veikėjas netrukdo."
+    }
+  ],
+  "translation": "Ir Avšalomas nusiuntė ⟨pas⟩ Joabą, kad jį pasiųstų pas karalių, bet šis nenorėjo ateiti pas jį; ir jis siuntė antrą kartą, bet šis nenorėjo ateiti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/29-32.1792478419489.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nusiuntė"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabą"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kad pasiųstų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (Avšalomą)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "norėjo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir siuntė"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "antrą kartą"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "norėjo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:40:19.490892137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje šioje vietoje nėra copulos."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "Hepar 'jis' nurodo Cuorą, ne Kozbę; kai kurie vertimai jį praleidžia arba supranta kitaip."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeimų galva",
+      "rationale": "אמות — 'bendruomenės, giminės'; ראש אמות pažodžiui 'giminių galva'."
+    }
+  ],
+  "translation": "Ir nužudytos moters, midianitės, vardas ⟨yra⟩ Kozbė, Cuoro duktė, — jis ⟨yra⟩ šeimų galva, tėvo namų Midjane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eff4c36b1f6fc95200c4fea687a22808b955d7ab914eb351baa741cbc510f686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/25\/13-16.1792474451360.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ir vardas"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "nužudytos"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "midianitės"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "Kozbė"
+    },
+    {
+      "surface": "בת",
+      "gloss": "duktė"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Cuoro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "šeimų"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midjane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:11.363766173Z",
+  "model": "glm-5.3"
+}

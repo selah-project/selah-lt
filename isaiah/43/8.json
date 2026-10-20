@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "akli, bet turintys akis",
+      "rationale": "Paradoksas — tauta turi akis ir ausis, bet nemato ir negirdi; hebrajiškas pasakymas su למו dalelyte, lietuviškai perteikta santykiu „turintys“."
+    },
+    {
+      "kind": "you",
+      "subject": "kam",
+      "rationale": "Kreipimasis greičiausiai į tautą arba į liudininkus — imperatyvas הוציא be aiškaus adresato."
+    }
+  ],
+  "translation": "Išvesk tautą — akluosius, kurie turi akis, ir kurčiuosius, kuriems yra ausys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec114a528fb269933b530985c3872a18513e153d524a5f1b9d4b72bd464fa70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/5-8.1792481485116.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "išvesk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "עור",
+      "gloss": "akluosius"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "kurie turi akis"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yra"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ir kurčiuosius"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ausys"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:25.164198967Z",
+  "model": "glm-5.3"
+}

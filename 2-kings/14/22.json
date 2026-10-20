@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "užmigo su savo tėvais",
+      "rationale": "שכב עם אבתיו — mirties eufemizmas, verčiama pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuviška sangrąžos forma, hebrajų turi tik „tėvais“"
+    }
+  ],
+  "translation": "Jis pastatė ⟨את⟩ Eilatą ir grąžino jį Jehudai, po to, kai karalius užmigo su savo tėvais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/14\/21-24.1792480108765.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilatą"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilatą"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "ir grąžino"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Jehudai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "užmigo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    }
+  ],
+  "timestamp": "2026-10-20T07:08:28.766816461Z",
+  "model": "glm-5.3"
+}

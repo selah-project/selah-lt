@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jos",
+      "rationale": "Hebrajiškas וילדו yra be daiktavardžio moteriškos giminės; lietuvių veiksmažodžiui reikalinga giminė — pridėta ⟨jos⟩ suvokimui"
+    },
+    {
+      "kind": "measurement",
+      "subject": "gimdymas",
+      "rationale": "Verse uždaryti ir vėl atidaryti gimdai — kūno paskaita pagal Pr 20,18"
+    }
+  ],
+  "translation": "Ir Avrahamas meldėsi prie Elohim, ir Elohim išgydė ⟨את⟩ Avimelechą ir ⟨את⟩ jo žmoną, ir jo tarnaites, ir jos gimdė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/20\/17-18.1792471332063.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "meldėsi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "išgydė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelechas"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo žmona"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jo žmona"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ir jo tarnaitės"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ir jos gimdė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:12.063999032Z",
+  "model": "glm-5.3"
+}

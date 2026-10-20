@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שכר",
+      "rationale": "„svaigusis gėrimas“ — bendras apibūdinimas, ne konkretus gėrimas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חמץ",
+      "rationale": "gali būti ir „rūgęs vynas“, ne tik actas; „actas“ priimtinesnis"
+    }
+  ],
+  "translation": "nuo vyno ir svaigiojo gėrimo jis susilaikys; vyno acto ir svaigiojo gėrimo acto jis negers, ir jokios užpiltinės iš vynuogių jis negers, ir vynuogių šviežių ir džiovintų jis nevalgys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "743e64924af960efb46e38b43799081fa4ad958eb3537626317e0b8d19f08eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/6\/1-4.1792474012351.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "nuo vyno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ir svaigiojo gėrimo"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "susilaikys"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "actas"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "ir acto"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "svaigiojo gėrimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "gers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir jokios"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "užpiltinės"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "iš vynuogių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "gers"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "ir vynuogių"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "šviežių"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "ir džiovintų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:52.352142646Z",
+  "model": "glm-5.3"
+}

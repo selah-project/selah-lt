@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 16:39",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במה",
+      "rationale": "'Aukštuma' — aukojimo vieta ant kalvos, ne vertimas 'sanktuarija'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר בגבעון",
+      "rationale": "Suitykiantis įnagininkas 'kuri ⟨yra⟩ Gibeone' — hebrajiškai be veiksmažodžio."
+    }
+  ],
+  "translation": "ir ⟨את⟩ Cadoką kunigą bei jo brolius kunigus, prieš Jahvės miškaną, aukštumoje, kuri Gibeone.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7893617a60efc8ed97bbeb8cc214babe4d8d17b50c2542dc488c073f6a8e33e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/16\/37-40.1792492982610.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoką kunigą"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadoką"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ir jo brolius"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priekyje"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "aukštumoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Gibeone"
+    }
+  ],
+  "timestamp": "2026-10-20T10:43:02.611006818Z",
+  "model": "glm-5.3"
+}

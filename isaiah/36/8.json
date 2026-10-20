@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התערב",
+      "rationale": "'duoti įkeitimą \/ laidus' (KJV 'give pledges', Genevos 'give hostages') vs 'sudaryti statymą \/ derėtis' (JPS 'make a wager') — šaknis ערב reiškia ir laidavimą, ir mainus"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "čia את yra prielinksnis 'su' (H854), ne tiesioginio objekto žymeklis ⟨את⟩ (H853)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "du tūkstančius arklių",
+      "rationale": "skaitinė menamo statymo dalis — kariuomenės jėgos matas"
+    },
+    {
+      "kind": "you",
+      "subject": "Chizkijui",
+      "rationale": "paniekinantis iššūkis, nukreiptas į Chizkijų per jo dvariškius"
+    }
+  ],
+  "translation": "Ir dabar sudėk laidus, meldžiu, ⟨את⟩ su mano ponu, Asūro karaliumi: aš duosiu tau du tūkstančius arklių, jei tu gali sau duoti raitelių ant jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/5-8.1792481418313.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "sudėk laidus"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asūro"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "aš duosiu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "du tūkstančius"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "arklių"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "tu gali"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "duoti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "raitelių"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ant jų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:18.316553630Z",
+  "model": "glm-5.3"
+}

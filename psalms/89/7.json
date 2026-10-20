@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "retorinis klausimas",
+      "rationale": "verse kreipiasi klausimu, skelbiančiu, kad niekas nėra lygus Jahvei"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני אלים",
+      "rationale": "„El sūnūs“ — dangaus būtybės; tradicija verčia „galingieji“, „dieviškos būtybės“"
+    }
+  ],
+  "translation": "Nes kas debesyse prilygs Jahvei, kas būsi panašus į Jahvę tarp El sūnų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/5-8.1792488607403.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "debesyse"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "prilygs"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "būsi panašus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "į Jahvę"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tarp sūnų"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:07.404507823Z",
+  "model": "glm-5.3"
+}

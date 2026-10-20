@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje — lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחלליך",
+      "rationale": "חלל — 'pradurti\/žaizdoti' arba 'niekinti\/profanuoti': KJV 'woundeth', JPS 'defile thee'"
+    },
+    {
+      "kind": "you",
+      "subject": "Coro karaliui",
+      "rationale": "Tiesioginis kreipimasis į Tyro karalių per pranašą"
+    }
+  ],
+  "translation": "Ar tikrai sakysi: Elohim ⟨esu⟩ aš, prieš tavo žudiką? Ir tu — žmogus, o ne El, rankoje tavo žalojančiųjų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd19c53dfbe0309efbc63af9679925925d0fa0a8ad0c65e15c996aca46f6bb7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/28\/9-12.1792484518589.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ar tikrai sakyti"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sakysi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "tavo žudiką"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ir tu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rankoje"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "tavo žalojančiųjų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:58.589951154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi copulos prie strėlinė–kapas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "atviras kapas",
+      "rationale": "strėlinė praryja strėles kaip atviras kapas — mirties įvaizdis iš Ps 5,10"
+    }
+  ],
+  "translation": "Jos strėlinė ⟨yra⟩ kaip atviras kapas, visi jie — stiprūs vyrai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/5\/13-16.1792482250866.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "Jos strėlinė"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "kaip kapas"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "atviras"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi jie"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "stiprūs vyrai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:44:10.869680118Z",
+  "model": "glm-5.3"
+}

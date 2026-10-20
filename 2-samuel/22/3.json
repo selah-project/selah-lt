@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צורי",
+      "rationale": "Hebrajiškai 'mano uola' — statusigas skardis, pakartojamas iš 22,2 סלעי; eilutė prasideda be veiksnio, tik šauksmininko grandine"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעי \/ משעי \/ תשעני",
+      "rationale": "Šaknis ישע tris kartus eilutėje — 'išgelbėjimo \/ gelbėtojas \/ išgelbėji' — skambesių seka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ragas",
+      "rationale": "וקרן — 'ragas' kaip jėgos ir pergalės simbolis, ne prancūziškas 'victory horn'"
+    }
+  ],
+  "translation": "Elohim — mano uola, jame slaugausi; mano skydas ir mano išgelbėjimo ragas, mano aukštuma ir mano prieglauda, mano gelbėtojas — nuo smurto tu mane išgelbėji.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/22\/1-4.1792478592910.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mano uola"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "slaugausi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mano skydas"
+    },
+    {
+      "surface": "ווקרן",
+      "gloss": "ir ragas"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mano išgelbėjimo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mano aukštuma"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "ir mano prieglauda"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "mano gelbėtojas"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "nuo smurto"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "tu mane išgelbėji"
+    }
+  ],
+  "timestamp": "2026-10-20T06:43:12.912269518Z",
+  "model": "glm-5.3"
+}

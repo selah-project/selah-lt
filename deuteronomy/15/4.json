@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברך יברכך",
+      "rationale": "asmenuotės kartojimas — pilnas palaiminimas; atkurta dvejopa forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'tik kad' \/ 'išskyrus atvejį, kai' (KJV 'save when') vs 'vis dėlto' — šmitos sąlyga ar pažadas"
+    },
+    {
+      "kind": "addition",
+      "subject": "iš tikrųjų",
+      "rationale": "hebrajų absoliutybės infityvas neturi atskiro žodžio lietuviškai tekste — atkurta per pakartojimą"
+    }
+  ],
+  "translation": "Tiktai kad nebus tarp jūsų neturtingo, nes Jahvė palaimins tave žemėje, kurią Jahvė, tavo Elohim, duoda tau paveldėjimą paveldėti ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/15\/1-4.1792475202478.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "tiktai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tarp jūsų"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "neturtingo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "palaimins ⟨iš tikrųjų⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "palaimins tave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "duoda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "paveldėjimą"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "paveldėti ją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:42.480745719Z",
+  "model": "glm-5.3"
+}

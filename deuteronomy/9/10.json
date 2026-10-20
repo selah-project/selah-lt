@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'ir ant jų ⟨buvo⟩ pagal visus žodžius'; lietuvių kalbai jo reikia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim pirštu",
+      "rationale": "באצבע אלהים — 'Elohim pirštu', ne 'Dievo pirštu': Vardas paliekamas."
+    }
+  ],
+  "translation": "Ir Jahvė davė man ⟨את⟩ dvi akmenines lentas, įrašytas Elohim pirštu, ir ant jų — ⟨buvo⟩ pagal visus žodžius, kuriuos Jahvė kalbėjo su jumis kalne, iš ugnies vidurio, susirinkimo dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9eb203f451b45dc4dc3f145b50af07b8dd7448b17af179f34fe7e38c93880ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/9\/9-12.1792475098151.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvi akmenines lentas"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "lentas"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmenines"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "įrašytas"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "pirštu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ir ant jų"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pagal visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "su jumis"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ugnies"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "susirinkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:44:58.153493226Z",
+  "model": "glm-5.3"
+}

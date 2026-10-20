@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra sangrindos žodžio — pridėta lietuvių kalbai."
+    },
+    {
+      "kind": "measurement",
+      "subject": "įsigijimo formulė",
+      "rationale": "Baigiamasis teisinis pirkties liudijimo sakinys — kas, iš ko ir kas įsigyta."
+    }
+  ],
+  "translation": "Lauko ir olos, kuri yra jame, įsigijimas ⟨yra⟩ iš ⟨את⟩ Cheto sūnų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a33527899d60e9fdd3d1c851099961a8f996658e25a20fc2b16ee53ed9aa957a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/29-32.1792472118424.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "įsigijimas"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ir olos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheto"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:18.427561012Z",
+  "model": "glm-5.3"
+}

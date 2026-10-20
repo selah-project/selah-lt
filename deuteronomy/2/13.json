@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mes",
+      "rationale": "hebrajų veiksmažodis ונעבר neturi veikėjo; lietuviškam būtvardžiui reikia veikėjo — pridėta ⟨mes⟩ pagal kontekstą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועברו … ונעבר",
+      "rationale": "įsakymas ir įvykdymas naudoja tą patį veiksmažodį עבר — pakartojimas išlaikytas"
+    }
+  ],
+  "translation": "Dabar kelkitės ir pereikite sau ⟨את⟩ Nachalą Zeredą, ir mes perėjome ⟨את⟩ Nachalą Zeredą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ac84bd16af5cf35aeb1d4cd78ab0f97c2e4ff2844f1033019636e9829fba0cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/2\/13-16.1792474828025.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "kelkitės"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ir pereikite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachalą Zeredą"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nachalą"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zeredą"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ir mes perėjome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachalą Zeredą"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "Nachalą"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zeredą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:28.026030487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ligą",
+      "rationale": "מחלה — liga, susirgimas; ne „nuodėmė“ ar „pralaimėjimas“, kaip kartais skaitoma"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Isėjimo sandoros žodis kreipiamas į Izraelį per Mošę"
+    }
+  ],
+  "translation": "Ir tarnausite ⟨את⟩ Jahvei, savo Elohim, ir Jis palaimins tavo duoną ir tavo vandenį; ir atimsiu ligą iš tavo vidurio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/25-28.1792472674899.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ir tarnausite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ir palaimins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duoną"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "tavo duoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vandenį"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "tavo vandenį"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ir atimsiu"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ligą"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iš tavo vidurio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:34.901300207Z",
+  "model": "glm-5.3"
+}

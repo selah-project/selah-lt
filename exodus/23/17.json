@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vyrai",
+      "rationale": "זכור yra 'visi tavo vyrai (patinai)', ne tiesiog 'vyrai'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל פני",
+      "rationale": "hebrajiškas 'prie veido' sudėtas į 'Adonai' dėl lietuvių sklandumo"
+    },
+    {
+      "kind": "addition",
+      "subject": "tavo",
+      "rationale": "posesyvinė galūnė -ך išreikšta atskiru žodžiu"
+    }
+  ],
+  "translation": "Tris kartus per metus tavo visi vyrai pasirodys Adonui Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/17-20.1792472670202.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tris"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "per metus"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pasirodys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "tavo vyrai"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:30.203998347Z",
+  "model": "glm-5.3"
+}

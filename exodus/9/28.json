@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קלת אלהים",
+      "rationale": "pažodžiui „Elohim balsai“; KJV „galingi griaustiniai“ išplečia į perkeltinį griaustinį"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא תספון לעמד",
+      "rationale": "pažodžiui „nebepridėsite stovėti“ — hebrajiškas „nebedaryti daugiau“; reikšmė: daugiau nepasiliksite"
+    },
+    {
+      "kind": "you",
+      "subject": "Farasonas Mošei ir Aharonui",
+      "rationale": "tiesioginis prašymas maldauti už jį"
+    }
+  ],
+  "translation": "Melskitės Jahvei — jau gana ⟨buvę⟩ Elohim balsų ir krušos; ir aš paleisiu ⟨את⟩ jus, ir jūs nebepridėsite stovėti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45f0a0a708101b2dcd8388913491dda78a60b7ca9da39a414a691cad7797e1aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/26-28.1792485376155.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "melskitės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "gana"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "buvę"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "balsų"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ir krušos"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ir paleisiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "bepridėsite"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stovėti"
+    }
+  ],
+  "timestamp": "2026-10-20T08:36:16.159516935Z",
+  "model": "glm-5.3"
+}

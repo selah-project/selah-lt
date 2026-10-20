@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajiškame asmeniniame sakinyje veiksmažodžio nėra"
+    },
+    {
+      "kind": "invitation",
+      "subject": "גשו נא אלי",
+      "rationale": "Jozefas kviečia brolius prisiartinti — imperatyvas su minkštinančia dalelyte נא"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גשו \/ ויגשו",
+      "rationale": "pakartota šaknis 'artėti' — kvietimas ir išpildymas tuo pačiu žodžiu"
+    }
+  ],
+  "translation": "Ir Jozefas tarė savo broliams: Prašau, prisiartinkite prie manęs. Ir jie prisiartino. Ir jis tarė: Aš ⟨esu⟩ Jozefas, jūsų brolis, kurį jūs pardavėte ⟨את⟩ mane į Micraimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/45\/1-4.1792472045401.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saviems"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broliams"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "prisiartinkite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "prie manęs"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ir prisiartino"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų brolis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "jūs pardavėte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:05.410664575Z",
+  "model": "glm-5.3"
+}

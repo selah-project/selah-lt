@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 34:4",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "penketukas",
+      "rationale": "penki daiktavardžiai moteriška gimine (silpna, serganti, sulaužyta, nublokšta, pražuvusi) prieš penkis veiksmažodžius su לא — lietuviškai išlaikytas kartojimas, bet giminės dermė dalinai prarasta"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובפרך",
+      "rationale": "paskutinis žodis „ir su žiaurumu“ kabo be veiksmažodžio — hebrajų stilistinė pabaiga, palikta tokia, kokia yra"
+    },
+    {
+      "kind": "addition",
+      "subject": "jomis",
+      "gloss_err": null,
+      "rationale": "lietuvių reikalauja prielinknio linksnio prie veiksmažodžio „viešpataujate“, hebrajų turi tik אתם"
+    }
+  ],
+  "translation": "⟨את⟩ silpnąsias jūs nepastiprinote, ir ⟨את⟩ sergančiųjų negydėte, ir sulaužytosios nesurišote, ir ⟨את〕 nublokštąją negrąžinote, ir ⟨את⟩ pražuvusios neieškojote — o su jėga jomis viešpataujate ⟨את⟩ jomis, ir su žiaurumu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/34\/1-4.1792484687589.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silpnąsias"
+    },
+    {
+      "surface": "הנחלות",
+      "gloss": "silpnąsias"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזקתם",
+      "gloss": "pastiprinote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "sergančiuosius"
+    },
+    {
+      "surface": "החולה",
+      "gloss": "sergančiuosius"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רפאתם",
+      "gloss": "gydėte"
+    },
+    {
+      "surface": "ולנשברת",
+      "gloss": "ir sulaužytajai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חבשתם",
+      "gloss": "surišote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "nublokštąją"
+    },
+    {
+      "surface": "הנדחת",
+      "gloss": "nublokštąją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "grąžinote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "pražuvusiąją"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "pražuvusiąją"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתם",
+      "gloss": "ieškojote"
+    },
+    {
+      "surface": "ובחזקה",
+      "gloss": "o su jėga"
+    },
+    {
+      "surface": "רדיתם",
+      "gloss": "viešpataujate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jomis",
+      "marks": "jas (bandą)"
+    },
+    {
+      "surface": "ובפרך",
+      "gloss": "ir su žiaurumu"
+    }
+  ],
+  "timestamp": "2026-10-20T08:24:47.591174296Z",
+  "model": "glm-5.3"
+}

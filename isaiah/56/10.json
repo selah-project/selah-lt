@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia predikato, hebrajų jį praleidžia."
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "Nuo הזה „regėti regėjimus \/ sapnuoti“: KJV „sleeping, lying down“, JPS „raving“ — laikomasi pažodinio „regintys regėjimus“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebylūs",
+      "rationale": "אלמים pažodžiui „nebylūs, praradę kalbą“ — ne tiesiog „tylūs“."
+    }
+  ],
+  "translation": "Sargybiniai ⟨yra⟩ akli visi, nežino nieko; visi — kaip begėdžiai šunys, nebegali lodoti; regintys regėjimus, gulintys, mylintys snausti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/56\/9-12.1792481746285.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "sargybiniai"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "akli"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "žino"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "šunys"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "nebylūs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "gali"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "lodoti"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "regintys regėjimus"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "gulintys"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "mylintys"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "snausti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:46.286963034Z",
+  "model": "glm-5.3"
+}

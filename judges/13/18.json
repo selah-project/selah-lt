@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame nėra veiksmažodžio — pridėta kopula ⟨yra⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלאי",
+      "rationale": "„Paslaptingas \/ nepažįstamas“ (Genevos, JPS) prieš „nuostabus“ (KJV, ASV); žodis iš šaknies פלא — stebuklingas, neprieinamas."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלאי",
+      "rationale": "Būdvardis פלאי Tanache tik čia."
+    },
+    {
+      "kind": "mystery",
+      "subject": "the name",
+      "rationale": "Pasiuntinys sąmoningai atsisako atskleisti savo vardą — tekstas slepia."
+    }
+  ],
+  "translation": "Ir Jamvės pasiuntinys tarė jam: Kam šito klausi apie mano vardą? Jis ⟨yra⟩ paslaptingas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ce0e3c554e09bceb60a02bdb875403f132b3fea2aca8b4d24f1710aba7e8caf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/17-20.1792476634012.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "pasiuntinys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "klausi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "apie mano vardą"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "paslaptingas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:10:34.040288280Z",
+  "model": "glm-5.3"
+}

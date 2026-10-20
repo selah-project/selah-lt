@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame sakinyje nėra sietuvo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זד\/זדון",
+      "rationale": "tą pačią šaknį žodžių rėmelis — išpuikęs... išdidumas"
+    }
+  ],
+  "translation": "Išpuikęs ir arogantiškas — šaipytojas ⟨yra⟩ jo vardas, darąs su įniršiu išdidumo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/21\/21-24.1792489763947.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "išpuikęs"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "arogantiškas"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "šaipytojas"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "darąs"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "su įniršiu"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "išdidumo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:49:23.948056997Z",
+  "model": "glm-5.3"
+}

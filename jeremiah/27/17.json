@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "į tautą ir kunigus",
+      "rationale": "Neigiama formą „אל“ su liepiamuoju — raginimas neklausyti netikrų pranašų ir tarnauti Babelio karaliui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "griuvėsiai",
+      "rationale": "חרבה pažodžiui „sausra, išdykėjimas → tuštuma“; „griuvėsiai“ perteikia baisią dykrą."
+    }
+  ],
+  "translation": "Neklausykite jų; tarnaukite ⟨את⟩ Babelio karaliui ir gyvenkite. Kodėl šis miestas turi tapti griuvėsiais?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5be01117f3073b00fe12666d113c7d51725eab4bb7794bda23ca90e1bdf629ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/27\/17-20.1792483072585.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "klausykite"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tarnaukite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babelio karaliui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelio"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ir gyvenkite"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "turi tapti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šis"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "griuvėsiais"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:52.586155872Z",
+  "model": "glm-5.3"
+}

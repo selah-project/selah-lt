@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Samuelio žodis",
+      "rationale": "Samuelis kalba Išajui apie matytą sūnų."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ir",
+      "rationale": "גם — „taip pat, netgi“; atpasakojama kaip „ir šito“, kartojant v. 8 atmetimo formulę."
+    }
+  ],
+  "translation": "Ir Išajus pravedė Šamą, ir jis tarė: ir šito Jahvė nepasirinko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/9-12.1792477305243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "pravedė"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Išajus"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Šamą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pasirinko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:45.245332951Z",
+  "model": "glm-5.3"
+}

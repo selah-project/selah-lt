@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunigai ir būrėjai",
+      "rationale": "pelištų kunigai ir būrėjai — ne Izraelio; קוסמים — burėjai magijos rituais, ne נביא pranašai"
+    },
+    {
+      "kind": "you",
+      "subject": "pelištai → kunigai ir būrėjai",
+      "rationale": "tiesioginis kreipimasis su prašymu patarti"
+    }
+  ],
+  "translation": "Ir pašaukė pelištai kunigus ir būrėjus, sakydami: Ką darysime Jahvės skryniai? Paskelbkite mums, kuo ją išsiųsime į jos vietą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/1-4.1792477117076.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Ir pašaukė"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištai"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "ir būrėjus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "darysime"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "skryniai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "Paskelbkite"
+    },
+    {
+      "surface": "במה",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "ją išsiųsime"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "į jos vietą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:37.076919070Z",
+  "model": "glm-5.3"
+}

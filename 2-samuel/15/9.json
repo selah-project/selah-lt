@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "hebrajiškasis veiksnys praleistas, pridėtas įvardis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חברונה",
+      "rationale": "galūnė -ה yra krypties galūnė — „link Chebrono“, išlaikyta lietuviška linksnio galūne"
+    }
+  ],
+  "translation": "Ir tarė jam karalius: Eik su šalomu. Ir ⟨jis⟩ pakilo ir nuėjo Chebronan.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/9-12.1792478320794.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "su šalomu"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ir pakilo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Chebronan"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:40.795130933Z",
+  "model": "glm-5.3"
+}

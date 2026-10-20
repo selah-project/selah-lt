@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמו veiksnys",
+      "rationale": "Kieno išėjimas — Elohim (JPS „jam einant prieš žemę“) ar Jehosefo (KJV „kai jis išėjo“)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפת לא ידעתי אשמע",
+      "rationale": "Lūpos — nežinojau — girdžiu: trumpi žodžiai be veiksnių, eina per autoriaus balsą į tautą"
+    }
+  ],
+  "translation": "Jis padėjo ⟨את⟩ liudijimą Jehosefui, jam išeinant per žemę Micraimo; kalbą, kurios nežinojau, girdžiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/81\/5-8.1792488537881.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "liudijimą"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Jehosefui"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "padėjo"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "jam išeinant"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kalbą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinojau"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "girdžiu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:57.882436733Z",
+  "model": "glm-5.3"
+}

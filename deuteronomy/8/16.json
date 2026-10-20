@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ענתך",
+      "rationale": "„pažemintų“ vs „kankintų“ — ענה reiškia ir nulenkti, ir varginti; čia pasirinktas pažeminimo atspalvis"
+    },
+    {
+      "kind": "mystery",
+      "subject": "man",
+      "rationale": "Manas — „kas tai?“ — maistas, kurio tėvai nepažino, nežinomas dalykas iš nežinomo vardo"
+    }
+  ],
+  "translation": "kuris maitino tave manu dykumoje, kurio tavo tėvai nepažino, kad tave pažemintų ir kad tave išmėgintų, darydamas tau gera tavo pabaigoje",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/13-16.1792475031523.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "kuris maitino tave"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tavo tėvai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "pažemintų tave"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ir kad"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "išmėgintų tave"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "darydamas tau gera"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "tavo pabaigoje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:51.529066931Z",
+  "model": "glm-5.3"
+}

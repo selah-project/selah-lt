@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 62:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "„kuris nėra apleistas“ — hebrajiškas dalyvis neigiamuoju, lietuviškai reikia veiksmažodžio."
+    },
+    {
+      "kind": "you",
+      "subject": "Cionas",
+      "rationale": "„o tave vadins“ — tiesioginis kreipimasis į miestą."
+    }
+  ],
+  "translation": "Ir juos vadins šventąja tauta, Jahvės išpirktaisiais, o tave vadins Ieškomąja, miestu, kuris nėra apleistas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ad2358ce4624816b15fb009e656e446101a8e1ac322b1403fbbbb8e577dc2ca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/62\/9-12.1792481863768.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "ir vadins"
+    },
+    {
+      "surface": "להם",
+      "gloss": "juos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventąja"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "išpirktaisiais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "o tave"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "vadins"
+    },
+    {
+      "surface": "דרושה",
+      "gloss": "Ieškomąja"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "apleistas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:43.769713503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדבר אשר זדו עליהם",
+      "rationale": "'Dalyku, kuriuo jie išpuikavo prieš juos' — kam skiriama 'juos': Egiptui prieš Izraelį (dauguma) ar Egiptui prieš Jahvę; KJV 'jis buvo virš jų'.'"
+    },
+    {
+      "kind": "addition",
+      "subject": "juos",
+      "rationale": "Hebrajiška priesaga -הם reiškia 'prieš juos' — objektas pridėtas lietuviškai ⟨juos⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "האלהים čia mažąja raide — tautų dievai, ne Elohim Vardo prasme."
+    }
+  ],
+  "translation": "Dabar aš žinau, kad Jahvė didesnis už visus dievus, nes jie išpuikiai elgėsi prieš ⟨juos⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/9-12.1792472563242.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Dabar"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aš žinau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didesnis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "už visus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "dalyku, kuriuo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "זדו",
+      "gloss": "išpuikiai elgėsi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "prieš juos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:43.245589698Z",
+  "model": "glm-5.3"
+}

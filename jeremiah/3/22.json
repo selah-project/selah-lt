@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 3:22",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב\/שובבים\/משובה",
+      "rationale": "Keturiskart kartojama šaknis š-w-b — grįžti, nuklydę, nuklydimai; lietuviškai „grįžti\/nuklysti“ tik iš dalies išlaiko žaismą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajiškame tekste nėra „būti“ — pridėta lietuvių kalbos reikalavimu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kvietimas",
+      "rationale": "Jahvės kvietimas grįžti, į kurį tauta atsako „Štai, mes atėjome“."
+    }
+  ],
+  "translation": "Grįžkite, nuklyę sūnūs — aš pagydysiu jūsų nuklydimus. Štai, mes atėjome pas tave, nes tu ⟨esi⟩ Jahvė, mūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/3\/21-24.1792482281993.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "Grįžkite"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "nuklyę"
+    },
+    {
+      "surface": "ארפה",
+      "gloss": "aš pagydysiu"
+    },
+    {
+      "surface": "משובתיכם",
+      "gloss": "jūsų nuklydimus"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "Štai, mes"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "atėjome"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:44:41.995260966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחah čia auka, ne dovana — naudojama mincha pagal D2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא תעלו \/ לא תסכו",
+      "rationale": "Dvi neigiamos formos su עליו — chiazminis pakartojimas, lietuviškai išlaikyta paralelė."
+    }
+  ],
+  "translation": "Neaukosite ant jo svetimo smilkymo, nei deginamosios aukos, nei minchos, ir pylimo aukos nepilsite ant jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/9-12.1792472807608.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "aukosite"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "smilkymo"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "svetimo"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ir deginamosios aukos"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ir minchos"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ir pylimo aukos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "pilsite"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:47.609103564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi būtojo veiksmažodžio — lietuvių jo reikalauja"
+    },
+    {
+      "kind": "crux",
+      "subject": "וסלעו",
+      "rationale": "jo uola — Asirijos tvirtovė arba pats jos gynėjas; KJV 'his strong hold', JPS 'his rock'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אור",
+      "rationale": "u\/ur — 'ugnis' arba 'žibintas'; čia tikriausiai ugnis, lygiagreti krosniai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממגור \/ מגור",
+      "rationale": "žodžio žaismas: 'baimė' ir 'tvirtovė' (migur) — garsinis artimumas"
+    }
+  ],
+  "translation": "Ir jo uola iš baimės praeis, ir jo kunigaikščiai bus pakrikę prie vėliavos, — sako Jahvė, — kurio ugnis ⟨yra⟩ Cione ir kurio krosnis ⟨yra⟩ Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/31\/9-9.1792481154279.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "ir jo uola"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "iš baimės"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "praeis"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ir bus pakrikę"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "prie vėliavos"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "jo kunigaikščiai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cione"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "ir krosnis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:54.280060645Z",
+  "model": "glm-5.3"
+}

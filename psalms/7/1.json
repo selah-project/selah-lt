@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שגיון",
+      "rationale": "šigajonas — klaidžiojantis, paklydęs eilėraštis; pasirodo tik čia ir Ps 3:1 antraštės giminėje"
+    },
+    {
+      "kind": "crux",
+      "subject": "כוש בן ימיני",
+      "rationale": "Kušas benjaminietis: nežinomas asmuo; kai kurie skaito kaip Šauliaus užuomina"
+    }
+  ],
+  "translation": "Šigajonas, Davido, kurį jis giedojo Jahvei, apie Kušo, Jemini sūnaus, žodžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/7\/1-4.1792487433576.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Šigajonas"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "שר",
+      "gloss": "giedojo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "על",
+      "gloss": "apie"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kušo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jemini"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:33.577550713Z",
+  "model": "glm-5.3"
+}

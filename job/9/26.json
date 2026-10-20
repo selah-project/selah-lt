@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ėdalo",
+      "rationale": "אכל tiesiog 'maistas\/ėdalas', ne 'grobis'; plėšrūno vaizdas ateina iš טוש pounce veiksmažodžio"
+    },
+    {
+      "kind": "alternative",
+      "subject": "erelis",
+      "rationale": "נשר gali būt ir erelis, ir grifas; lentelė D4 nustato 'erelis'"
+    }
+  ],
+  "translation": "Jos pralėkė kaip papiruso laivai, kaip erelis puola ant ėdalo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/9\/25-28.1792490204883.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "pralėkė"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laivai"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "papiruso"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaip erelis"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "puola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ėdalo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:56:44.884557126Z",
+  "model": "glm-5.3"
+}

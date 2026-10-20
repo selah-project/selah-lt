@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Sela",
+      "rationale": "מוזיקinis pauzės ženklas paliekamas kaip Sela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודור",
+      "rationale": "kartojimas „kartims ir kartims“ — hebrajiško pakartojimo struktūra"
+    }
+  ],
+  "translation": "Iki amžių įtvirtinsiu tavo sėklą, ir pastatysiu kartims ir kartims tavo sostą. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/5-8.1792488607403.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžių"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "įtvirtinsiu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavo sėklą"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ir pastatysiu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kartims"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ir kartims"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tavo sostą"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:07.404090626Z",
+  "model": "glm-5.3"
+}

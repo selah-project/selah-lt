@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajiškas veiksnys numanomas — kas padarė namus (Elohim ar gimdyvės), lietuviškame sakinyje reikia įvardžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "בתים",
+      "rationale": "'namai' arba 'giminės' — ar Elohim davė gimdyvėms namus, ar palikuonis (BSB 'families of their own')"
+    }
+  ],
+  "translation": "Ir buvo taip: kadangi gimdyvės bijojo ⟨את⟩ Elohim, ⟨jis⟩ padarė joms namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b258e81d015566a98919645efbce63515e3d2b133255fb7d249abb3ba91bf831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/1\/21-22.1792472069593.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo taip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bijojo"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "gimdyvės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "joms"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "namus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:29.595247429Z",
+  "model": "glm-5.3"
+}

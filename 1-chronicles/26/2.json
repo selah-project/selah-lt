@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 26:2",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨turėjo⟩",
+      "rationale": "Hebrajiškai pažodžiui „ir Mošelemjahu — sūnūs“; veiksmažodis pridėtas lietuviškos sintaksės."
+    },
+    {
+      "kind": "measurement",
+      "subject": "eilės tvarka",
+      "rationale": "Sūnų sąrašas eilės tvarka: pirmagimis, antras, trečias, ketvirtas."
+    }
+  ],
+  "translation": "Ir Mošelemjahu ⟨turėjo⟩ sūnų: Zekarjahu pirmagimis, Jidijaelas antras, Zevadjahu trečias, Jatnielis ketvirtas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/26\/1-4.1792493135141.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "Ir Mošelemjahu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Jidijaelas"
+    },
+    {
+      "surface": "השני",
+      "gloss": "antras"
+    },
+    {
+      "surface": "זבדיהו",
+      "gloss": "Zevadjahu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trečias"
+    },
+    {
+      "surface": "יתניאל",
+      "gloss": "Jatnielis"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ketvirtas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:45:35.142027491Z",
+  "model": "glm-5.3"
+}

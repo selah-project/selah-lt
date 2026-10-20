@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 23:4",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi sietuvo 'Šomronas ⟨yra⟩ Ahola' — lietuvių kalbai reikia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהלה \/ אהליבה",
+      "rationale": "Simboliniai vardai iš אהל 'palapinė': Ahola — 'jos palapinė', Aholiba — 'mano palapinė yra joje'; žodžių žaismas dingsta."
+    },
+    {
+      "kind": "you",
+      "subject": "Ezechielis",
+      "rationale": "Tęsiamas kreipimasis 'žmogaus sūnau' prasmingas kontekste, bet ši eilutė jau pasakoja."
+    }
+  ],
+  "translation": "O jų vardai: Ahola, vyresnioji, ir Aholiba, jos sesuo; ir jos buvo mano, ir jos pagimdė sūnus ir dukteris. O jų vardai: Šomronas ⟨yra⟩ Ahola, ir Jerušalaimas ⟨yra⟩ Aholiba.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a8ce53f0725d4bce11c2f22acb68d05cd08d128dd95a8d16b801f743871f1f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/1-4.1792484389341.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמותן",
+      "gloss": "O jų vardai"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Ahola"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "vyresnioji"
+    },
+    {
+      "surface": "ואהליבה",
+      "gloss": "ir Aholiba"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "jos sesuo"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "ir jos buvo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ותלדנה",
+      "gloss": "ir jos pagimdė"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ir dukteris"
+    },
+    {
+      "surface": "ושמותן",
+      "gloss": "O jų vardai"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronas"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Ahola"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ir Jerušalaimas"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Aholiba"
+    }
+  ],
+  "timestamp": "2026-10-20T08:19:49.342899261Z",
+  "model": "glm-5.3"
+}

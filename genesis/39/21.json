@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi kopulos veiksmažodžio היה su prievardu"
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "čia את yra prielinksnis 'su', o ne veiksnio-objekto žymeklis H853; tačiau žymima ⟨את⟩ struktūros tikslumu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesedą",
+      "rationale": "חסד paliekamas kaip chesed — vienas žodis, o ne 'gailestingumas' ar 'meilė' vieni"
+    }
+  ],
+  "translation": "Ir Jahvė ⟨buvo⟩ su ⟨את⟩ Jozefu, ir ištiesė į jį chesedą, ir suteikė jo malonę kalėjimo namų viršininko akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/39\/21-23.1792471812394.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su Jozefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ir ištiesė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "į jį"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesedą"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir suteikė"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "jo malonę"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "שר",
+      "gloss": "viršininko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kalėjimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:12.399089278Z",
+  "model": "glm-5.3"
+}

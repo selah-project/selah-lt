@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחרם",
+      "rationale": "חרם — 'atiduoti naikinimui' arba 'paskelbti cheremu'; čia veikiama pati auka, ne dievai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievams",
+      "rationale": "אלהים čia su artikeliais — kitiems dievams, mažąja raide, ne Elohim Vardas"
+    }
+  ],
+  "translation": "Auka aukojantis dievams bus pašvęstas naikinimui — išskyrus vienintelį Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/17-20.1792472666186.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "auka aukojantis"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bus pašvęstas naikinimui"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "išskyrus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vienintelį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:26.188344134Z",
+  "model": "glm-5.3"
+}

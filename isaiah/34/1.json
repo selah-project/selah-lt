@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "tautos",
+      "rationale": "Verse opens with plural imperatives summoning the nations to hear."
+    },
+    {
+      "kind": "you",
+      "subject": "tautos ir liaudys",
+      "rationale": "Direct address to the nations and peoples."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלה \/ הקשיב",
+      "rationale": "Two Hebrew hearing-verbs; rendered 'išgirsti' and 'įsižiūrėkite' — better 'įsiklausykite' for הקשיב (prick up the ears)."
+    }
+  ],
+  "translation": "Prisiartinkite, tautos, išgirsti, ir liaudys, įsižiūrėkite: teišgirsta žemė ir jos pilnatvė, pasaulis ir visi jos vaisiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/34\/1-4.1792481346594.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "prisiartinkite"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "išgirsti"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ir liaudys"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "įsižiūrėkite"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "teišgirsta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ir jos pilnatvė"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasaulis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "jos vaisiai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:06.595887214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaip atėjūnas",
+      "rationale": "לגור reiškia laikinai svetimoje vietoje gyventi; vienas žodis išskleistas į frazę"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד",
+      "rationale": "'Sunkus' badas — hebrajiškas sunkumo paveikslas, kuris lietuvių kalboje išlieka"
+    }
+  ],
+  "translation": "Ir įvyko badas žemėje, ir Avramas nužengė į Micraimą, kad ten gyventų kaip atėjūnas, nes badas žemėje buvo sunkus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/9-12.1792471200773.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "badas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nužengė"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "kad gyventų kaip atėjūnas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sunkus"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "badas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:00.775410399Z",
+  "model": "glm-5.3"
+}

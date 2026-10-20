@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta copula ⟨yra⟩\/„buvo“ laikui nusakyti."
+    },
+    {
+      "kind": "crux",
+      "subject": "ענו",
+      "rationale": "„romus, nuolankus“ prieš „vargšas, prislėgtas“ — pasirinktas „romus“, kaip įprasta."
+    },
+    {
+      "kind": "crux",
+      "subject": "autorystė",
+      "rationale": "Jei Mošė pats rašė Torą, kaip jis save vadina romiausiu? — senas komentatorių klausimas."
+    }
+  ],
+  "translation": "O vyras Mošė buvo labai romus, labiau už visus žmones, kurie ⟨yra⟩ ant žemės paviršiaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "435b65bc1f297010d79e0e39b0e4fc7154eb0e7eade173b68263d77f6fe9906d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/12\/1-4.1792474206930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "O vyras"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "romus"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labiau už visus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paviršiaus"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:06.949694198Z",
+  "model": "glm-5.3"
+}

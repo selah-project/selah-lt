@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Lietuvių kalbai reikia wolf įvardžio, hebrajiškoje sutartoje konstrukcijoje „אמו“ jo nėra atskirai"
+    }
+  ],
+  "translation": "Ir jis apsigyveno Parano dykumoje, ir jo motina paėmė jam žmoną iš Micraimo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bdb4a19750bc8a0e638a503b0be8c13a3c70dc5ed549da04267a91041179b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/21\/21-24.1792471356630.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ir apsigyveno"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parano"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jo motina"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žmoną"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:36.633227325Z",
+  "model": "glm-5.3"
+}

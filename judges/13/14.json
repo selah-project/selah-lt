@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 13:14",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šekar",
+      "rationale": "שכר — 'svaigusis gėrimas' vietoje tradicinio 'stiprusis gėrimas', kad išliktų šaknies reikšmė 'girti'"
+    },
+    {
+      "kind": "elision",
+      "subject": "היין",
+      "rationale": "מגפן היין — status constructus 'vyno vynmedis'; lietuviškai 'iš vynmedžio' vienas žodis neša abu"
+    }
+  ],
+  "translation": "Nuo visko, kas išeina iš vynmedžio, ji nevalgys, nei vyno, nei svaigiojo gėrimo negers, ir jokios nešvaraties nevalgys; viską, ką įsakiau jai, ji laikysis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/13-16.1792476678726.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "nuo visko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "iš vynmedžio"
+    },
+    {
+      "surface": "היין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vyno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ir svaigiojo gėrimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nei"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "gers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir jokios"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nešvaraties"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nei"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nevalgys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "צויתיה",
+      "gloss": "įsakiau jai"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ji laikysis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:18.727636969Z",
+  "model": "glm-5.3"
+}

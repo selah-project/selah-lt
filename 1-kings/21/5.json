@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų beveik neturi kopulivos klausime „kas čia“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוחך — tavo ruach (dvasia), ne vien 'nuotaika'; Izabelė klausia apie jo dvasios būseną"
+    }
+  ],
+  "translation": "Ir atėjo pas jį Izebelė, jo žmona, ir kalbėjo jam: Kas čia ⟨yra⟩, kad tavo ruach niūrus ir tu nevalgai duonos?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/5-8.1792479606619.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelė"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jo žmona"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "tavo ruach"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "niūrus"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ir tu ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "valgai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:00:06.620519178Z",
+  "model": "glm-5.3"
+}

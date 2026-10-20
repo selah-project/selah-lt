@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' būtajame laike — pridėta kopula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Kirjat-Arba",
+      "rationale": "eiliutė fiksuoja senąjį miesto vardą — vardų sąrašo funkcija"
+    }
+  ],
+  "translation": "Ir Jehuda žygiavo prieš kanaanietį, gyvenantį Chevrono ⟨mieste⟩ — o Chevrono vardas anksčiau buvo Kirjat-Arba — ir jie sumušė ⟨את⟩ Šešajų, ir ⟨את⟩ Achimaną, ir ⟨את⟩ Talmajų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/9-12.1792476281114.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir žygiavo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanietį"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "gyvenantį"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevrone"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "o vardas"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevrono"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "anksčiau"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ir sumušė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešajų"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešajų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Achimaną"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achimaną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Talmajų"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmajų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:41.116265476Z",
+  "model": "glm-5.3"
+}

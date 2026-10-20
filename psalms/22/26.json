@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתך",
+      "rationale": "pridedamoji את reikšmė išnyksta šiuolaikiniuose vertimuose „iš tavęs“; čia pažymėta ⟨את⟩ ženklu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יראיו",
+      "rationale": "„jo bijo“ (visų, kurie bijo Jahvės) arba „tavo bijo“ — hebrajiška galūnė -יו rodo jį\/tave."
+    }
+  ],
+  "translation": "Iš tavęs ⟨את⟩ mano šlovė dideliame susirinkime; mano pažadus įvykdysiu prieš tuos, kurie jo bijo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/22\/25-28.1792487651216.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ iš tavęs",
+      "marks": "mano šlovė"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mano šlovė"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "susirinkime"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dideliame"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mano pažadus"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "įvykdysiu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "tuos, kurie jo bijo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:14:11.217073516Z",
+  "model": "glm-5.3"
+}

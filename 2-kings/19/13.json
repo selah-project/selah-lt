@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas klausimas neturi veiksmažodžio — lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Sancheribo žodžiai",
+      "rationale": "Retorinis klausimas, mestas Judo karaliui per pasiuntinius"
+    }
+  ],
+  "translation": "Kur ⟨yra⟩ Chamato karalius, ir Arpado karalius, ir Sefarvajimo miesto karalius, Hena ir Iva?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/13-16.1792480339725.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "kur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamato"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ir karalius"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpado"
+    },
+    {
+      "surface": "ו מלך",
+      "gloss": "ir karalius"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajimo"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ir Iva"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:19.746832918Z",
+  "model": "glm-5.3"
+}

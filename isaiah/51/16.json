@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 51:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "hebrajų sakinys 'mano tauta tu' be veiksmažodžio, lietuvių prideda 'esi'"
+    },
+    {
+      "kind": "you",
+      "subject": "Cionui",
+      "rationale": "tiesioginis kreipimasis per cituojamą Jahvės žodį"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנטע שמים וליסד ארץ",
+      "rationale": "pakartoja v. 13 'ištiesusį dangą ir įsteigusį žemę' — tas pats kūrimo veiksmas perleidžiamas tarnui"
+    }
+  ],
+  "translation": "Ir padėjau savo žodžius į tavo burną ir paunksnėje savo rankos pridengiau tave, kad pasodinčiau dangų ir įsteigčiau žemę, ir sakyčiau Cionui: mano tauta — tu ⟨esi⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/51\/13-16.1792481792512.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "Ir padėjau"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "savo žodžius"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "į tavo burną"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ir paunksnėje"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "כסיתיך",
+      "gloss": "pridengiau tave"
+    },
+    {
+      "surface": "לנטע",
+      "gloss": "kad pasodinčiau"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "וליסד",
+      "gloss": "ir įsteigčiau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "ir sakyčiau"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Cionui"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:32.513939551Z",
+  "model": "glm-5.3"
+}

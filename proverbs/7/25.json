@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the son \/ to the children",
+      "rationale": "Tęsiamas tiesioginis kreipimasis iš 7, 24 į vaikus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelizmas",
+      "rationale": "Dvi lygiagretės neigiamo įsakymo eilutės: širdis\/keliai — klaidžiojimas\/takai."
+    }
+  ],
+  "translation": "Nevesk savo širdies link jos kelių, neklaidžiok jos takais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/7\/25-27.1792489505386.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יֵשְׂטְ",
+      "gloss": "nevesk"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "link"
+    },
+    {
+      "surface": "דְּרָכֶיהָ",
+      "gloss": "jos kelių"
+    },
+    {
+      "surface": "לִבֶּךָ",
+      "gloss": "savo širdies"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תֵּתַע",
+      "gloss": "neklaidžiok"
+    },
+    {
+      "surface": "בִּנְתִיבוֹתֶיהָ",
+      "gloss": "jos takais"
+    }
+  ],
+  "timestamp": "2026-10-20T09:45:05.387061094Z",
+  "model": "glm-5.3"
+}

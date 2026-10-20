@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "title",
+      "subject": "antraštė",
+      "rationale": "Eilutė yra psalmės antraštė, ne kūno dalis — dauguma vertimų jos tekstą perkelia ar atmeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעטף",
+      "rationale": "'apsigaubia \/ nualpsta \/ praranda viltį' — veiksmažodis reiškia apsigaubti, metaforiškai nusilimti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skundą",
+      "rationale": "שיח הוא 'mąstymas \/ atodūsis \/ skundas' — pasirinkta 'skundas' kaip maldos turinys"
+    }
+  ],
+  "translation": "Malda prislėgtojo, kai ⟨jis⟩ apsigaubia ⟨šermantysis⟩, ir prieš Jahvę išpila savo skundą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/102\/1-4.1792488789047.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "malda"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "prislėgtojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "apsigaubia"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ir prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "išpila"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "savo skundą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:09.047773932Z",
+  "model": "glm-5.3"
+}

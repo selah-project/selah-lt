@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "stiprino jo ranką",
+      "rationale": "Hebrajiškas idiomatas ויחזק את ידו — 'stiprinti ranką' reiškia drąsinti, skatinti; paliktas pažodžiui."
+    },
+    {
+      "kind": "crux",
+      "subject": "באלההים",
+      "rationale": "'Elohim dėka' arba 'su Elohim' arba 'Elohim vardu' — prielinksnis ב leidžia kelis skaitymus."
+    }
+  ],
+  "translation": "Ir atsikėlė Jonatanas, Šaulo sūnus, ir nuėjo pas Davidą į Chorešą, ir stiprino jo ⟨את⟩ ranką Elohim ⟨dėka⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/13-16.1792477589111.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir atsikėlė"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatanas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "į Chorešą"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ir stiprino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo ranką"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim ⟨dėka⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:29.116153438Z",
+  "model": "glm-5.3"
+}

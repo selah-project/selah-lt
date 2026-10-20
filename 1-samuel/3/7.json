@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas pasyvas be pagalbinio veiksmažodžio — lietuviškai reikia 'buvo atskleistas'"
+    }
+  ],
+  "translation": "O Šmuelas dar nepažino ⟨את⟩ Jahvės, ir dar nebuvo atskleistas jam Jahvės žodis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/3\/5-8.1792477031664.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "o Šmuelas"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "dar ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ir dar ne"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "buvo atskleistas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:11.665202616Z",
+  "model": "glm-5.3"
+}

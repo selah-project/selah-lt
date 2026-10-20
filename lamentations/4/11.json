@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "pažodžiui 'nosies deginimas' — įniršis; verčiama 'rūstybės deginimas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "אף pažodžiui 'nosis, šnervės' — įtūžio metafora"
+    }
+  ],
+  "translation": "Jahvė baigė ⟨את⟩ savo įnūį, išliejo savo rūstybės deginimą, ir uždegė ugnį Cione, ir ji surijo jos pamatus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/4\/9-12.1792491087501.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "baigė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo įnūį"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "savo įnūį"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "išliejo"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "deginimą"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "savo rūstybės"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "ir uždegė"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnį"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cione"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir ji surijo"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "jos pamatus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:27.502771088Z",
+  "model": "glm-5.3"
+}

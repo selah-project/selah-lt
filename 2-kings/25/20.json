@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וילך",
+      "rationale": "Hifil 'privesti, atvesti' — 'nuvedė' pas karalių, o ne ėjo pats."
+    }
+  ],
+  "translation": "Ir Nebuzaradanas, skerdikų viršininkas, paėmė ⟨את⟩ juos ir nuvedė ⟨את⟩ juos pas Babilono karalių Riblai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/17-20.1792480593053.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "Nebuzaradanas (objektas — suimtuosius)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradanas"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viršininkas"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "skerdikų"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir nuvedė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "pas Babilono karalių"
+    },
+    {
+      "surface": "על",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:33.057573930Z",
+  "model": "glm-5.3"
+}

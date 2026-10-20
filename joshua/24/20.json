@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהי נכר",
+      "rationale": "Pažodžiui 'svetimo dievai' — mažąja raide, nes tautų dievai, ne Elohim."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושב",
+      "rationale": "'Grįš, atsisuks' — veiksmas kartojasi struktūroje: 'darė gera' \/ 'darys pikta'."
+    }
+  ],
+  "translation": "Jeigu paliksite ⟨את⟩ Jahvę ir tarnausite svetimiems dievams, tai jis atsisuks ir darys jums pikta, ir sunaikins ⟨את⟩ jus, po to, kai jums darė gera.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/24\/17-20.1792476240061.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "paliksite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ir tarnausite"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svetimiems"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "atsisuks"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ir darys pikta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ir sunaikins"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po to, kai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "darė gera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:00.066053103Z",
+  "model": "glm-5.3"
+}

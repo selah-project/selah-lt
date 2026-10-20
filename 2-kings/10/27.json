@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "למחראות",
+      "rationale": "Žodis 'išvietės' (macabarinės duobės) Tanache tik čia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתצו",
+      "rationale": "Tas pats veiksmažodis pakartotas du kartus — stulpo ir namo griovimas suderintas"
+    }
+  ],
+  "translation": "Ir sugriovė ⟨את⟩ Baalo stulpą, ir sugriovė ⟨את⟩ Baalo namą, ir padarė ⟨jį⟩ išvietėms iki šios dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/25-28.1792479971399.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Ir sugriovė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stulpą"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stulpą"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalo"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ir sugriovė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalo"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ir padarė jį"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "išvietėms"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šios dienos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:06:11.607657865Z",
+  "model": "glm-5.3"
+}

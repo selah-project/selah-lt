@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בת בליעל",
+      "rationale": "Pažodžiui 'niekšybės dukteris' — hebrajiškas posakis niekingam žmogui; 'Belial' vėliau tapo vardu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "Pažodžiui 'prieš akis' — čia 'laikyti už'; veiksmažodis תתן 'duoti' su לפני reiškia 'palaikyti, laikyti'."
+    }
+  ],
+  "translation": "Neduok ⟨את⟩ savo tarnaitės už niekšybės dukterį, nes iš gausos mano aimanavimo ir mano kartėlio kalbėjau iki šiol.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/1\/13-16.1792476942556.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Neduok (ne)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Neduok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tarnaitę"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "savo tarnaitės"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "už"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterį"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "niekšybės"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "iš gausos"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "mano aimanavimo"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ir mano kartėlio"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "šiol"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:42.558755832Z",
+  "model": "glm-5.3"
+}

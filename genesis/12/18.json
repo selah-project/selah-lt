@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — הוא veikia kaip predikatas su pridėta lietuviška kopula."
+    },
+    {
+      "kind": "you",
+      "subject": "to Avram",
+      "rationale": "Faraono klausimas tiesiogiai kreipiamas į Avramą."
+    }
+  ],
+  "translation": "Ir faraonas pašaukė Avramą ir tarė: Kas tai yra, ką man padarei? Kodėl man nepasakei, kad ji — tavo žmona?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/17-20.1792471214915.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir pašaukė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonas"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Avramą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "padarei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "pasakei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tavo žmona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:14.916154034Z",
+  "model": "glm-5.3"
+}

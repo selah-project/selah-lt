@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זולל",
+      "rationale": "Pažodžiui 'iššvaistantis, išlepęs' — 'valkata, išlaidūnas'; 'paleistuvys' laiko tik dalį paveikslo."
+    },
+    {
+      "kind": "you",
+      "subject": "vyriesiems",
+      "rationale": "Tiesioginis kreipimasis į miesto vyresniuosius — oficialus skundas teismo vietoje."
+    }
+  ],
+  "translation": "ir pasakys jo miesto vyriesiems: Šis mūsų sūnus atkaklus ir neklusnus, jis neklauso mūsų balso — paleistuvys ir girtuoklys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/21\/17-20.1792475309500.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ir pasakys"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyriesiems"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "jo miesto"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "mūsų sūnus"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "atkaklus"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ir neklusnus"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klauso"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "mūsų balso"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "paleistuvys"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ir girtuoklys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:48:29.503235999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 28:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה išlaikyta kaip cedek, ne 'teisumas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקו\/למשקלת",
+      "rationale": "matų (vadas, svirtis) vaizdas siejasi su pamatiniu akmenimi 28,16 — statybos ir teismo matai"
+    }
+  ],
+  "translation": "Ir padarysiu teismą ⟨kaip⟩ matą ir cedeką ⟨kaip⟩ svirtį, ir kruša nubrauks melo prieglaudą, o slėptuvę vandens nuplaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/17-20.1792481152131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ir padarysiu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "⟨kaip⟩ matą"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ir cedeką"
+    },
+    {
+      "surface": "למשקלת",
+      "gloss": "⟨kaip⟩ svirtį"
+    },
+    {
+      "surface": "ויעה",
+      "gloss": "ir nubrauks"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "kruša"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "prieglaudą"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melo"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "o slėptuvę"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "nuplaus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:52.133126563Z",
+  "model": "glm-5.3"
+}

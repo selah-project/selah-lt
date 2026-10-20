@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jahvė",
+      "rationale": "hebrajiškame sakinyje nėra veiksnio — ⟨Jahvė⟩ pridėta iš 4, 4 konteksto"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויחר לקין",
+      "rationale": "pažodžiui 'Kainui įkaito' — Hebrew idiom for anger kindling within someone"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויפלו פניו",
+      "rationale": "pažodžiui 'jo veidas nukrito' — liūdesio ar nusivylimo išraiška"
+    }
+  ],
+  "translation": "O ⟨Jahvė⟩ į Kainą ir į jo minchą nepažvelgė, ir Kainui labai užsidegė, ir jo veidas nukrito.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/5-8.1792471015931.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "o į"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainą"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir į"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "jo minchą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "pažvelgė"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "užsidegė"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "Kainui"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ir nukrito"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo veidas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:55.933727967Z",
+  "model": "glm-5.3"
+}

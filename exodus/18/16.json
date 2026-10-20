@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Toras",
+      "rationale": "תורתיו — 'jo Tora'; Tora kaip mokymas, ne 'įstatymai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jis ateina",
+      "rationale": "דבר בא — pažodžiui 'reikalas ateina'; daiktavardis, ne žmogus"
+    }
+  ],
+  "translation": "Kai jiems būna reikalas, jis ateina pas mane, ir aš teisiu tarp žmogaus ir tarp jo artimo, ir pranešu ⟨את⟩ Elohim įstatus ir ⟨את⟩ jo Toras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/13-16.1792472565979.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reikalas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "ir aš teisiu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jo artimo"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ir pranešu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim įstatus"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "įstatus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo Toras"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "jo Toras"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:45.982252936Z",
+  "model": "glm-5.3"
+}

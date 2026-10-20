@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sukvėpino",
+      "rationale": "ויקטר — 'pavertė kvapais dūmuose': ne tiesiog 'sudegino', bet deginimas kaip kvapioji auka."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Sangrindos sakinys 'kurie yra ant vidaus' — hebrajų kalba įvardžio veiksmažodžio neturi."
+    }
+  ],
+  "translation": "Ir paėmė ⟨את⟩ visą taukus, kurie yra ant vidaus, ir ⟨את⟩ kepenų ataugą, ir ⟨את⟩ dvi inkstus bei ⟨את⟩ jų taukus, ir Mošė sukvėpino ant altoriaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/13-16.1792473316316.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą taukus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vidaus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kepenų ataugą"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ataugą"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kepenų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "dvi inkstus"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "inkstus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų taukus"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "jų taukus"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "sukvėpino"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant altoriaus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:16.320262650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu „ruach“ — vėjas\/Dvasia\/paklydimas vienu žodžiu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עועים",
+      "rationale": "Žodis „iškreiptumas“ (עַוְעֶה) Tanache vartojamas tik čia ir 19 m. pranašystėse."
+    }
+  ],
+  "translation": "Jahvė įmaišė jos vidun iškreiptumo ruach, ir jie paklydino ⟨את⟩ Micraimą visame jo darbe — kaip svirdinėja girtuoklis savo vėmaluose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/13-16.1792480938782.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "įmaišė"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "jos vidun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "iškreiptumo"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "ir jie paklydino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimą"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimą"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visame"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "jo darbe"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "kaip svirdinėja"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "girtuoklis"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "savo vėmaluose"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:18.783626956Z",
+  "model": "glm-5.3"
+}

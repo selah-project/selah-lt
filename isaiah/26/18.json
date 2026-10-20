@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu — vėjas\/ruach, kūrinys tuščias kaip oras"
+    },
+    {
+      "kind": "crux",
+      "subject": "ir žemės gyventojai nenukris",
+      "rationale": "JPS skaito 'neprikelsime pasaulio gyventojų'; KJV 'nežlugo' — hebraiškas יפלו dviprasmis"
+    }
+  ],
+  "translation": "Nešiojome nėštumą, raistomės — ir pagimdėme kaip ruach; išgelbėjimų žemėje nepadarysime, ir žemės gyventojai nenukris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/17-20.1792481152145.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "nešiojome nėštumą"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "raistomės"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "pagimdėme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "išgelbėjimų"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "padarysime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "nukris"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojai"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:52.146683307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "besiplečiantis",
+      "rationale": "כנטותו: 'besiplečiantis' (JPS) prieš 'svyrantis vakaro link' (KJV) — šešėlys ilgėja arba smunka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skėris",
+      "rationale": "ארבה — skėrių spiežiaus vabzdys, ne žiogas"
+    }
+  ],
+  "translation": "Kaip šešėlys, besiplečiantis, aš praėjau; buvau nublokštas kaip skėris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/109\/21-24.1792488951904.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "kaip šešėlys"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "besiplečiantis"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "aš praėjau"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "buvau nublokštas"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "kaip skėris"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:51.905663762Z",
+  "model": "glm-5.3"
+}

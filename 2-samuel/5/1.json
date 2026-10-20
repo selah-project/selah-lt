@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tavo kaulai ir tavo mėsa",
+      "rationale": "עצם ובשר — giminystės idiomatika 'kraujo ir kaulo', palikta pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' — štai mes ⟨esame⟩ tavo kaulai"
+    },
+    {
+      "kind": "you",
+      "subject": "Davido pavardijimas",
+      "rationale": "gentys tiesiogiai kalbina Davidą"
+    }
+  ],
+  "translation": "Ir atėjo visos Jisraelio gentys pas Davidą į Chevroną ir kalbėjo, sakydamos: Štai mes — tavo kaulai ir tavo mėsa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c909a1ea56e0ce6e86ad0101cc3e8ed79f9b51450695ea3f4602cd2f79510c14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/1-4.1792478105991.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "gentys"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "į Chevroną"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamos"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "štai mes"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "tavo kaulai"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ir tavo mėsa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    }
+  ],
+  "timestamp": "2026-10-20T06:35:05.992365958Z",
+  "model": "glm-5.3"
+}

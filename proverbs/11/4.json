@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה pagal D2 rašoma cedek — ne „teisumas“ vienas"
+    }
+  ],
+  "translation": "Nepadeda turtas rūstybės dieną, o cedek gelbės iš mirties.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/11\/1-4.1792489658972.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "padeda"
+    },
+    {
+      "surface": "הון",
+      "gloss": "turtas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "rūstybės"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "o cedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "gelbės"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iš mirties"
+    }
+  ],
+  "timestamp": "2026-10-20T09:47:38.973382297Z",
+  "model": "glm-5.3"
+}

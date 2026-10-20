@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo taip⟩",
+      "rationale": "ויהי — pasakojimo formulė, lietuvių kalbai reikia jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palaiminti",
+      "rationale": "לברכו — sveikinantis pasisveikinimas, kurio tradiciniai vertimai „pasveikinti“ praranda žodžio כל pažadintą šaknį"
+    }
+  ],
+  "translation": "Ir ⟨buvo taip⟩: kai tik jis baigė kelti deginamąją auką, — ir štai Samuelis ateina. Ir išėjo Šaulis pasitikti jo, palaiminti jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/13\/9-12.1792477189278.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir ⟨buvo taip⟩"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "kai tik jis baigė"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "kelti"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamąją auką"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelis"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "Ir išėjo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "pasitikti jo"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "palaiminti jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:49.279413131Z",
+  "model": "glm-5.3"
+}

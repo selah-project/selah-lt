@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "liudininkas",
+      "rationale": "שמע 'girdintis' čia verčiamas 'liudininkas' — tas, kuris girdi priesaiką, yra jos liudininkas"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם לא",
+      "rationale": "prisaikdinimo formulė 'jeigu ne...' — klausimas, ar 'jeigu nepadarysime', ar patvirtinimas 'tikrai padarysime (kaip sakei)'"
+    }
+  ],
+  "translation": "Ir Gilado vyresnieji tarė Jiftachui: Jahvė tebūna liudininkas tarp mūsų, jeigu nepadarysime pagal tavo žodį — taip ir padarysime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/11\/9-12.1792476667321.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresnieji"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilado"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftachui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tebūna"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "girdintis"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "tarp mūsų"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "pagal tavo žodį"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "padarysime"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:07.323517936Z",
+  "model": "glm-5.3"
+}

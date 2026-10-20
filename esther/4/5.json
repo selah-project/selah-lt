@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨eiti⟩",
+      "rationale": "Hebrew 'al Mordochiej' reiškia pavedimą 'pas', veiksmažodis pridėtas lietuviškai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eunuchai",
+      "rationale": "מסריסים verčiami 'eunuchai', o ne 'rūmininkai' — žodžio forma išlaikoma"
+    }
+  ],
+  "translation": "Ir sušaukė Esterė Haataką, iš karaliaus eunuchų, kurį jis buvo pastatęs priešais ją, ir įsakė jam ⟨eiti⟩ pas Mordochiejų, sužinoti, kas tai yra ir dėl ko tai yra.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/4\/5-8.1792491476671.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ir sušaukė"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterė"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Haataką"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "iš eunuchų"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "buvo pastatęs"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "priešais ją"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ir įsakė jam"
+    },
+    {
+      "surface": "על",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordochiejų"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sužinoti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai yra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai yra"
+    }
+  ],
+  "timestamp": "2026-10-20T10:17:56.672547135Z",
+  "model": "glm-5.3"
+}

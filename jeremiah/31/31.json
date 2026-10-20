@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Štai ateina dienos",
+      "rationale": "הנה kreipia skaitytojo dėmesį į skelbiamą ateitį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sudarysiu",
+      "rationale": "כרתי pažodžiui 'iškirsiu' — sandora hebrajiškai 'pjaunama'"
+    }
+  ],
+  "translation": "Štai ateina dienos, sako Jahvė, ir sudarysiu su ⟨את⟩ Jisraelio namu ir su ⟨את⟩ Jehudos namu naują sandorą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/31\/29-32.1792483064989.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "ir sudarysiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "su ⟨את⟩",
+      "marks": "Jehudos namu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "naują"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:44.992091761Z",
+  "model": "glm-5.3"
+}

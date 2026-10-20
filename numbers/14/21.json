@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני",
+      "rationale": "Prisiekimo formulė 'gyvas esu aš' — Heb. be veiksmažodžio 'esu' po gyvas."
+    },
+    {
+      "kind": "addition",
+      "subject": "esąs",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio, hebrajų jį praleidžia."
+    }
+  ],
+  "translation": "Bet, gyvas esąs aš, — ir Jahvės šlovė pripildys ⟨את⟩ visą žemę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "56797c2b2f10d33c88938f5a9bc846550580d21977451bd9ded42a070af4d92f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/14\/21-24.1792474175795.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "bet"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "esąs aš"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "pripildys"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą žemę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:29:35.796591613Z",
+  "model": "glm-5.3"
+}

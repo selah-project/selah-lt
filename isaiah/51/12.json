@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi sakinio su veiksmažodžiu; lietuvių reikalauja jungties."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "Pakartotas 'aš, aš' — pabrėžimas, išlaikytas pažodžiui."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "אַתּ įvardis 'tu', ne DOM žymiklis."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelis",
+      "rationale": "Jahvės atsakymas į ankstesnį kvietimą — kreipimasis į ištremtąją tautą."
+    }
+  ],
+  "translation": "Aš, aš ⟨esu⟩ tas, kuris jus guodžia. Kas tu, kad bijai mirtingo žmogaus, Adomo sūnaus, kuris duodamas kaip žolė?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/51\/9-12.1792481765705.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "kuris jus guodžia"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "kad bijai"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "mirtingo žmogaus"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirštančio"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adomo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "kaip žolė"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "duodamas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:05.706980854Z",
+  "model": "glm-5.3"
+}

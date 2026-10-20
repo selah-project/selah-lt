@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "pažodžiui 'kardo burna' — lietuviškai 'kardo ašmenimis' arba pažodžiui 'kardo burna'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלחו באש",
+      "rationale": "pažodžiui 'pasiuntė ugnin' — 'padegė'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Teisėjų 1,8 ir 1,21",
+      "rationale": " čia Jėhudas užima Jerušalaimą, bet 1,21 sakoma, kad jebusiečiai tebegyvena Jerušalaime — vertėjai ginčijasi dėl chronologijos"
+    }
+  ],
+  "translation": "Ir kovėsi Jėhudos sūnūs prieš Jerušalaimą, ir užėmė ⟨את⟩ ją, ir sumušė ją kardo būdu, ir ⟨את⟩ miestą paleido ugnyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/5-8.1792476310051.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ir kovėsi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėhudos"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "prieš Jerušalaimą"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ir užėmė"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ir sumušė ją"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pagal burną"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "miestą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "paleido"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:05:10.054071573Z",
+  "model": "glm-5.3"
+}

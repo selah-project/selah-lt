@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על ישראל",
+      "rationale": "Hebrajų על su צוה reiškia „paskirti virš“ — čia „paveda tau ⟨virš⟩ Jisraelį“, ne vien „dėl“."
+    },
+    {
+      "kind": "you",
+      "subject": "Saliamonui",
+      "rationale": "Tęsinys Dovydo pamokymo sūnui — pageidavimas ir pavedimas."
+    }
+  ],
+  "translation": "Tegul tik Jahvė duoda tau išmintį ir supratimą, ir paveda tau ⟨את⟩ Jisraelį, kad saugotum Jahvės, tavo Elohim, Torą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/22\/9-12.1792493143536.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tegul tik"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duoda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "išmintį"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ir supratimą"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "ir paveda tau"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨virš⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "kad saugotum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T10:45:43.537819484Z",
+  "model": "glm-5.3"
+}

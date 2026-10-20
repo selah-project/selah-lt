@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškoji sąsaja tarp רוח כביר ir אמרי פיך neturi veiksmažodžio — lietuvių kalbai reikia⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach' — vėjas, kvapas ir dvasia viename žodyje, o ne tik 'vėjas'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kaip galingas vėjas",
+      "rationale": "Daugelis vertimų skaito palyginimą („kaip stiprus vėjas“), bet hebrajų kalba neturi palyginimo dalelytės — tai gali būti tapatumo sakinys"
+    }
+  ],
+  "translation": "Iki kada tu kalbėsi šituos dalykus, ir ⟨yra⟩ ruach galinga — tavo burnos žodžiai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1b62b7878a3a5e5ad81207b3d56f1d1fab88982d4c68cc16b2e2013db98ca7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/8\/2-3.1792494204505.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אן",
+      "gloss": "kada"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "kalbėsi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šituos dalykus"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ir ruach"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "galinga"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavo burnos"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:24.506071108Z",
+  "model": "glm-5.3"
+}

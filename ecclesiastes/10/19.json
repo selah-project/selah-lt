@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחם",
+      "rationale": "Pažodžiui 'duoną daro juokui' — 'duona' kaip vaišės; vertėjai skiriasi: 'puota' (KJV) vs pažodžiui 'duona'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaišes",
+      "rationale": "לחם pažodžiui 'duona\/maistas', čia per metaforą — vaišės"
+    }
+  ],
+  "translation": "Juokui daro vaišes, ir vynas džiugina gyvybę, ir sidabras atsiliepia ⟨את⟩ į viską.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/10\/17-20.1792491285747.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Juokui"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "daro vaišes"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "vaišes"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vynas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "džiugina"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ir sidabras"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atsiliepia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "į viską"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "į viską"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:45.748561165Z",
+  "model": "glm-5.3"
+}

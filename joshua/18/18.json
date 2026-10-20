@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "petį",
+      "rationale": "כתף reiškia „petys“ — geografiškai šlaito ar keteros viršus, ne „šonas“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sienos aprašymas",
+      "rationale": "sienos eigos aprašymas su kryptimis"
+    }
+  ],
+  "translation": "ir kirto į petį priešais Aravą šiaurės pusėje, ir nusileido į Aravą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/18\/17-20.1792476103693.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ir kirto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "petį"
+    },
+    {
+      "surface": "מול",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Aravą"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "šiaurės pusėje"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ir nusleido"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "į Aravą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:43.696899369Z",
+  "model": "glm-5.3"
+}

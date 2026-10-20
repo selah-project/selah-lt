@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "veiksmažodis הוסג (passyvas) išskaidytas į 'nustumtas' + ⟨yra⟩ nereikia — lietuvių veikiamoji raiška apima asmenį be kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "personifikacija",
+      "rationale": "teismas, cedek, tiesa, tiesumas veikia kaip asmenys — gatvėje tampa mūšio lauku, kur tiesa puola"
+    }
+  ],
+  "translation": "Ir teismas nustumtas atgal, o cedek stovi toli; nes tiesa suklupo gatvėje, ir tiesumas negali įeiti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/59\/13-16.1792481988012.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסג",
+      "gloss": "ir nustumtas"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "atgal"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "o cedek"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "toli"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "suklupo"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "gatvėje"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesa"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "ir tiesumas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "gali"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "įeiti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:48.014712078Z",
+  "model": "glm-5.3"
+}

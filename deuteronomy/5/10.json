@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לאלפים",
+      "rationale": "tūkstančiai kartų prieš trečią–ketvirtą kartą 5,9 — skaičių kontrastas"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאלפים",
+      "rationale": "„tūkstančiams (kartų)“ arba „tūkstantajai kartai“ — JPS renka kartų skaičių"
+    }
+  ],
+  "translation": "ir darysiu chesed tūkstančiams, tiems, kurie mane myli, ir tiems, kurie saugo mano įsakymus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/5\/9-12.1792474917631.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ir darau"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tūkstančiams"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tiems, kurie mane myli"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ir tiems, kurie saugo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mano įsakymus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:57.633326853Z",
+  "model": "glm-5.3"
+}

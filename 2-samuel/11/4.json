@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מתקדשת",
+      "rationale": "From קדש 'holy' — the Hebrew says she was 'sanctifying\/purifying herself'; kept as 'šventėsi' per the one-root rule, not 'apsivalė'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקחה",
+      "gloss-note": "ויקחה 'took her' — some moderns read coercion into the passive verb; Hebrew states only 'he took'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מטמאתה",
+      "rationale": "The clause dates the act to her ritual purity cycle — a temporal datum on which the plot of v. 5 depends."
+    }
+  ],
+  "translation": "Ir Davidas išsiuntė pasiuntinius ir paėmė ⟨את⟩ ją; ji atėjo pas jį, ir jis gulėjo su ja, — o ji šventėsi nuo savo nešvarumo, — ir sugrįžo į savo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/11\/1-4.1792478286229.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ir paėmė ją"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ir gulėjo"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "su ja"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "o ji"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "šventėsi"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "nuo savo nešvarumo"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ir sugrįžo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "savo namus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:06.232190601Z",
+  "model": "glm-5.3"
+}

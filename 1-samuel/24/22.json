@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם po „prisiek“",
+      "rationale": "Hebrajiškas priekis su אם — „prisiek, kad neišnaikinsi…“ arba skundžiamasis „ar tu išnaikinsi?“; senesni vertimai renkasi neigiamą užtikrintą formą."
+    },
+    {
+      "kind": "you",
+      "subject": "Saulas kalba Davidui",
+      "rationale": "Reikalavimas prisiekti, tiesioginis kreipimasis „prisiekš man“."
+    }
+  ],
+  "translation": "Ir dabar prisiekš man Jahvės vardu: ar tu išnaikinsi ⟨את⟩ mano sėklą po manęs, ir ar tu sunaikinsi ⟨את⟩ mano vardą iš mano tėvo namų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/21-23.1792477585444.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "prisiekš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvės vardu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "tu išnaikinsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano sėklą"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mano sėklą"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po manęs"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir ar"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "tu sunaikinsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano vardą"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mano vardą"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "iš namų"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:25.447183137Z",
+  "model": "glm-5.3"
+}

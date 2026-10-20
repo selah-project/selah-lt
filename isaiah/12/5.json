@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio būti šiame sakinyje — lietuvių reikalauja ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאות",
+      "rationale": "Paaukštinimas\/didybė — vienas žodis, išverstas kaip „puikų dalyką“ su pridėtu daiktavardžiu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאות\/מידעת",
+      "rationale": "Skambus poravimas: „didybę padarė \/ žinoma yra“ — hebrajiškojo ritmo lietuvių kalba atkurti negali"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Grokite Jahvei",
+      "rationale": "Daugybinis paliepimas — visas eilutės kreipinys į bendruomenę"
+    }
+  ],
+  "translation": "Grokite Jahvei, nes jis padarė puikų dalyką; tai yra žinoma visoje ⟨žemėje⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/12\/5-6.1792480762762.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Grokite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "puikų dalyką"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "yra žinoma"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:22.762790656Z",
+  "model": "glm-5.3"
+}

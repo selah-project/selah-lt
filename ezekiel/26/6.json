@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 26:6",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridedama saitą „esu“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dukterys",
+      "rationale": "בנותיה — priemiesčiai ant kranto, ne tik tiesioginės dukterys; paveikslas paliekamas pažodžiui."
+    }
+  ],
+  "translation": "Ir jos dukterys, kurios lauke, kardu bus nužudytos, ir jos pažins, kad aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5dfbacc625686cc148434a6f589aafc586d744b4ff647996018f75352079bc76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/26\/5-8.1792484531473.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנותיה",
+      "gloss": "ir jos dukterys"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "תהרגנה",
+      "gloss": "bus nužudytos"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir jos pažins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:22:11.474564378Z",
+  "model": "glm-5.3"
+}

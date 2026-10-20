@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nusiskutimas plikai",
+      "rationale": "לקרחה — plikumas, gedulo ženklas; atvaizduota veiksmu, nes lietuviškai plikumas nėra kvietimo forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "audeklas",
+      "rationale": "שק — ašutinis gadulinis audeklas; atvaizduota bendriniu „audeklu“"
+    }
+  ],
+  "translation": "Ir šaukė Adonai, Jahvė Cevaot, tą dieną į verksmą ir raudą, į nusiskutimą plikai ir į apsijuosimą audeklu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/9-12.1792481014635.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir šaukė"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "į verksmą"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "ir raudą"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "į nusiskutimą plikai"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "ir į apsijuosimą"
+    },
+    {
+      "surface": "שק",
+      "gloss": "audeklu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:34.636950171Z",
+  "model": "glm-5.3"
+}

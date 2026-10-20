@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "įvardis pridėtas, nes lietuvių kalbai reikia veiksnio, hebrajų jį turi veiksmažodyje"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "pažodžiui „Jahvės akyse“ — vertinamoji formulė, išlaikyta pažodžiui"
+    }
+  ],
+  "translation": "Ir jis darė pikta Jahvės akyse, kaip darė Menašė, jo tėvas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "786749ba22c8d02d0acd4246740a4f77ff037717b5a2c0492ab61c67e7a47b5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/21\/17-20.1792480384903.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "darė"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pikta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darė"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašė"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jo tėvas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:13:04.904743041Z",
+  "model": "glm-5.3"
+}

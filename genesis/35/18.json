@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 35:18",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש — ne „siela“, o gyvybės kvapas; čia vaizduojama, kaip kvapas išeina iš mirštančiosios."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ben-Oni \/ Binjamin",
+      "rationale": "Rachelių duoda vardą „mano sielvarto sūnus“, tėvas jį pakeičia į „dešinės sūnus“ — vardų dvilypumas lietuviškai transkribuojamas, prasmė prarandama."
+    }
+  ],
+  "translation": "Ir įvyko, jos nefeš išeinant — nes ji mirė, — kad ji pavadino jo vardą Ben-Oni, o jo tėvas pavadino jį Binjaminu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6cd8e878af2df6832deba07b441bcee78f8fc312bff1d93a079b503c8462c15c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/17-20.1792471751690.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "išeinant"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "jos nefeš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "ji mirė"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "Oni"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "o jo tėvas"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjaminu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:11.691742114Z",
+  "model": "glm-5.3"
+}

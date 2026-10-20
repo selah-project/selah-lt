@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su",
+      "rationale": "עם reikšmės את čia pažymi Avramą kaip bendrakeleivį — lietuviškai reikia prielinksnio 'su'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחדו \/ יחדו",
+      "rationale": "v.6 dvigubas 'kartu' — pakartojimas pabrėžia nesugebėjimą gyventi drauge"
+    }
+  ],
+  "translation": "Ir Avramui, kuris ėjo su ⟨את⟩ Avramu, ⟨buvo⟩ avys ir ožkos, galvijai ir palapinės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/13\/5-8.1792471234328.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lotui"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kuris ėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avys ir ožkos"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ir galvijai"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ir palapinės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:34.329633918Z",
+  "model": "glm-5.3"
+}

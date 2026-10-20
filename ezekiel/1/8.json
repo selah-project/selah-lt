@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio — kopula pridėta skliaustuose"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רבעיהם",
+      "rationale": "Pažodžiui „jų ketvirtosios dalys“ — verstą kaip „pusės“ keturiomis kryptimis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturių",
+      "rationale": "Keturjunga pakartota: rankos, veidai ir sparnai — viskas keturiese"
+    }
+  ],
+  "translation": "Ir žmogaus rankos po jų sparnais jų keturiose pusėse, ir jų veidai bei jų sparnai — ⟨buvo⟩ jų visų keturių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/1\/5-8.1792483700462.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ir rankos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "jų sparnais"
+    },
+    {
+      "surface": "על",
+      "gloss": "jų"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "keturiose"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "pusėse"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ir jų veidai"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "bei jų sparnai"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "jų visų keturių"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:20.464414187Z",
+  "model": "glm-5.3"
+}

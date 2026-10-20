@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — ne „siela“, o gyvybės jėga, kvėpavimas; čia: nenuskriauskime gyvybės"
+    },
+    {
+      "kind": "crux",
+      "subject": "nesmūkime gyvybės",
+      "rationale": "נכנו נפש verčiama 'nenuskinkime jo gyvybės' arba tiesiog 'nežudykime jo'; hebrajiškai objektas — נפש, ne 'jis'"
+    }
+  ],
+  "translation": "Ir išgirdo Reubenas ir išplėšė jį iš jų rankos, ir tarė: nesmūkime gyvybės ⟨nefš⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/37\/21-24.1792471871208.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubenas"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "ir išplėšė jį"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iš jų rankos"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "smūkime"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:11.210325086Z",
+  "model": "glm-5.3"
+}

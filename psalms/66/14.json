@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בצר לי",
+      "rationale": "pažodžiui 'suspaudimas man' — 'mano suspaudimas', sielvieto metafora iš fizinio ankštumo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kuriuos pravėrė mano lūpos",
+      "rationale": "פצו pažodžiui 'perplėšė' — lūpos atsidaro tarsi perplėštos; 'pravėrė' švelnina paveikslą"
+    }
+  ],
+  "translation": "kuriuos pravėrė mano lūpos, ir mano burna kalbėjo mano suspaudime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce51aa0c7d8c513297c772cd0cae23854a57a1d85e0edc23e6c70d37ad62e0f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/66\/13-16.1792488201122.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "pravėrė"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mano lūpos"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mano burna"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "suspaudime"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mano"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:21.122799174Z",
+  "model": "glm-5.3"
+}

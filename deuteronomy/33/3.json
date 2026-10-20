@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חבב",
+      "rationale": "חבב kaip veiksmažodis 'mylėti\/branginti' sutinkamas tik čia (ir vardo חובב atveju) Tanache."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא מדברתיך",
+      "rationale": "Kas iškelia ir kas iš ko? Alternatyvos: 'kiekvienas priima tavo žodžius' (KJV) arba 'jis (Jahvė) iškelia juos pagal tavo žodžius'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Nors veiksmažodis ישא netiesioginis, lietuvių reikalauja objekto."
+    }
+  ],
+  "translation": "Taip, jis mylėjo tautas; visi jo šventieji — tavo rankoje, ir jie sutūpė prie tavo kojų; jis iškelia ⟨juos⟩ iš tavo žodžių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "39e85ab2e9b07d420b4f3a56b08668d0b1e10b096e72a843cea554185d4ea437",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/1-4.1792475618980.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "taip"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "mylėjo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "jo šventieji"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tavo rankoje"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ir jie"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "sutūpė"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "prie tavo kojų"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "iškelia"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "iš tavo žodžių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:38.988085374Z",
+  "model": "glm-5.3"
+}

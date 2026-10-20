@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨laukia⟩",
+      "rationale": "Hebrajiškai veiksmažodžio nėra — nefesh 'yra' Adonai; lietuviškai reikalingas veiksmažodis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש – gyvybės jėga, ne 'siela' viena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבקר\/שמרים",
+      "rationale": "pakartotas sargybos-rytas dėmuo, eksponentinis ryto laukimo vaizdas — kartojimas išlaikytas"
+    }
+  ],
+  "translation": "Mano nefesh ⟨laukia⟩ Adonai labiau nei sargybos ryto saulėtekio — sargybos ryto saulėtekio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/130\/5-8.1792489174145.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai ⟨laukia⟩"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "sargybos"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ryto saulėtekio"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "sargybos"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ryto saulėtekio"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:34.146321464Z",
+  "model": "glm-5.3"
+}

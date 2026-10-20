@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהיכלך על ירושלם",
+      "rationale": "'Iš tavo rūmų, ⟨esančių⟩ virš Jerušalaimo' arba 'dėl tavo šventyklos Jerušalaime' — prielinkis על dviprasmis."
+    },
+    {
+      "kind": "addition",
+      "subject": "esančių",
+      "rationale": "Lietuvių kalbai reikia santykio žodžio tarp rūmų ir Jerušalaimo."
+    }
+  ],
+  "translation": "Dėl tavo rūmų virš Jerušalaimo karaliai tau atgabens dovanų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/29-32.1792488354248.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "dėl tavo rūmų"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "atgabens"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "karaliai"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dovanų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:54.249076456Z",
+  "model": "glm-5.3"
+}

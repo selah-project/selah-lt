@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Įsakymas Mošei riboti tautą aplink kalną"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Negalimas sudėtinis veiksmažodis 'mirtimi mirs' — infinitivus absolutus, lietuviškai 'tikrai bus baudžiamas mirtimi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בקצהו",
+      "rationale": "'jo krašte\/gale' — ne 'prie pakraščio', bet ties jo riba"
+    }
+  ],
+  "translation": "Ir apibrėšk ⟨את⟩ tautą iš visų pusių, sakydamas: Saugokitės, kad neiltumėte ant kalno ir nesiliestumėte prie jo krašto; kiekvienas, kuris palies kalną, tikrai bus baudžiamas mirtimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66dda5231d17377caef8e1b3a3c34613f0b1454d322acd057333e77c7a394032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/19\/9-12.1792472535556.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Ir apibrėšk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "iš visų pusių"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Saugokitės"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨patys⟩"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "neiltumėte"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ant kalno"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ir nesiliestumėte"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "prie jo krašto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kuris palies"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirčia"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus baudžiamas mirtimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:15.568705632Z",
+  "model": "glm-5.3"
+}

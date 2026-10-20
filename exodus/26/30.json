@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפט",
+      "rationale": "čia mishpat reiškia 'pavyzdį, tvarką, formą', ne 'teismą' — priskirta struktūrine prasme"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "tiesioginis įsakymas Mošei — pastatyti pagal kalbe parodytą pavyzdį"
+    }
+  ],
+  "translation": "Ir pastatysi ⟨את⟩ miškaną pagal jo mishpatą, kurį tau parodė ⟨ant⟩ kalno.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/29-32.1792472781339.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ir pastatysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "pagal jo mishpatą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "parodė"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ant kalno"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:21.341277634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "namą",
+      "rationale": "בית הרכבים — 'namas' reiškia šeimą-giminę, ne pastatą"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jirmejaho sūnų",
+      "rationale": "ירמיהו čia Rechabo giminės žmogus, ne pranašas — tas pats vardas, kitas asmuo"
+    }
+  ],
+  "translation": "Ir aš paėmiau ⟨את⟩ Jaazanją, Jirmejaho sūnų, Jechabcanjaho sūnų, ir ⟨את⟩ jo brolius, ir ⟨את⟩ visus jo sūnus, ir ⟨את⟩ visą rechabitų namą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5a63b4c1703e1bfb7b0639a655569b502daf91bd1b9fb4ba04ba8e69dd183bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/35\/1-4.1792483196691.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ir aš paėmiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaazanją"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Jaazanją"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejaho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Jechabcanjaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo brolius"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo brolius"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus jo sūnus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą rechabitų namą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "rechabitų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:59:56.700387358Z",
+  "model": "glm-5.3"
+}

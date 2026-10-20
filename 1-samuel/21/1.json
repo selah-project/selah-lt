@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨atgal⟩",
+      "rationale": "Hebr. בא sako tik „ėjo“; kryptis į miestą pridėta, nes lietuviškai trūksta linkmės"
+    },
+    {
+      "kind": "crux",
+      "subject": "eilutės numeracija",
+      "rationale": "Hebrajiškame tekste ši eilutė užbaigia 20 skyrių; verčiantys skirsto skirtingai (JPS čia pradeda 21)"
+    }
+  ],
+  "translation": "Ir jis atsikėlė ir išėjo, o Jonatanas ėjo ⟨atgal⟩ į miestą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/21\/1-4.1792477686772.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir atsikėlė"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "o Jonatanas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ėjo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "į miestą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:06.773708209Z",
+  "model": "glm-5.3"
+}

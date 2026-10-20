@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minchos",
+      "rationale": "מנחה čia — miltų auka; paliekamas garsas 'mincha' pagal D2, ne 'dovana' ar 'auka' viena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "libacijos",
+      "rationale": "נסכים — 'liejamosios aukos' (vynas ir vanduo); 'libacijos' yra ritualo terminas, ne pažodinis vertimas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Lietuvių kalbai reikia įvardžio, rodančio į aukas iš v. 27–30; hebrajų kalba jį turi tik veiksmažodžio asmenyje."
+    }
+  ],
+  "translation": "Be nuolatinės deginamosios aukos ir jos minchos ⟨tai⟩ darysite — ⟨jos⟩ be ydų bus jums — ir jų libacijos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/29-31.1792474562552.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "deginamosios aukos"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "nuolatinės"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "ir jos minchos"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darysite"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "be ydų"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ir jų libacijos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:02.553893699Z",
+  "model": "glm-5.3"
+}

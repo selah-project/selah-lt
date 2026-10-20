@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tepėjomis",
+      "rationale": "לרקחות — moteriškos kvapiųjų tepalų ruošėjos; 'vaistininkės' būtų per vėlyva sąvoka"
+    },
+    {
+      "kind": "you",
+      "subject": "jis jums ims",
+      "rationale": "Samuelio kalba tautai apie būsimą karalių — tiesioginis įspėjimas"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ jūsų dukteris jis ims tepėjomis, virėjomis ir kepėjomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/8\/13-16.1792477036089.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jūsų dukteris"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "jūsų dukteris"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "jis ims"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "tepėjomis"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ir virėjomis"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ir kepėjomis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:16.090129008Z",
+  "model": "glm-5.3"
+}

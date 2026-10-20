@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמלק",
+      "rationale": "Hebrajų עמלק — tautos vardas vienaskaitoje; lietuviškai natūralu daugiskaita „amalekiečiai“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויצל \/ הציל",
+      "rationale": "Eilutė kartoja tą pačią šaknį n-c-l (išplėšti, išgelbėti) du kartus — Davidas „išplėšė“ viską ir „išplėšė“ žmonas; lietuviškai išskaidyta į du skirtingus veiksmažodžius."
+    }
+  ],
+  "translation": "Ir Davidas atgavo ⟨את⟩ viską, ką buvo paėmę amalekiečiai, ir ⟨את⟩ abi savo žmonas išgelbėjo Davidas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/17-20.1792477772352.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "atgavo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viską"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "buvo paėmę"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "amalekiečiai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "abi savo žmonas"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "savo žmonas"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "išgelbėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:32.354053829Z",
+  "model": "glm-5.3"
+}

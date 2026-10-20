@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mažasis sūnus",
+      "rationale": "הקטן gali reikšti 'jauniausias' arba tiesiog 'mažesnis'; bet Chamas buvo antrasis iš trijų — o prakeiksmas krinta ant Kenaano, todėl 'jauniausias' problematiškas"
+    },
+    {
+      "kind": "elision",
+      "subject": "את אשר",
+      "rationale": "aleph-tav rodo į visą sakinį 'ką padarė jo sūnus' — taisyklė laikoma su ⟨את⟩ žymekliu prieš 'ką'"
+    }
+  ],
+  "translation": "Ir Noachas pabudo nuo savo vyno ir sužinojo ⟨את⟩, ką jam padarė jo mažasis sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/21-24.1792471093014.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ir pabudo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachas"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "nuo savo vyno"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ir sužinojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką jam padarė jo mažasis sūnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mažasis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:13.018407036Z",
+  "model": "glm-5.3"
+}

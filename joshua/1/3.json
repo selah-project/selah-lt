@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Prielinksnis ištirpsta linksnyje — 'Mošei'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Hebrajiška forma נתתיו turi įvardį '-ją' priesagoje, tad lietuviškas 'ją' yra hebrajų tekste."
+    }
+  ],
+  "translation": "Kiekviena vieta, kurią jūsų pėdos padas mindžios ⟨jοje⟩, — ją aš jums daviau, kaip kalbėjau Mošei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30b15dc5f2f1deb881c888d1939f98d478454c1c548751c06f65420249dfcb96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/1\/1-4.1792475752252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekviena"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "mindžios"
+    },
+    {
+      "surface": "כף",
+      "gloss": "padas"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "jūsų pėdos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨joje⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ją daviau"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:52.254914424Z",
+  "model": "glm-5.3"
+}

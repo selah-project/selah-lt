@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמלטה \/ נמלטנו",
+      "rationale": "kartojamas 'išslysti' — paukštis ir mes, paralelizmas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gyvybės jėga, ne 'siela'"
+    }
+  ],
+  "translation": "Mūsų nefesha išslydo kaip paukštis iš spąstų paukštininkų — spąstai sudužo, ir mes išsigelbėjome.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/124\/5-8.1792489196448.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "mūsų nefesha"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kaip paukštis"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "išslydo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "iš spąstų"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "paukštininkų"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "spąstai"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "sudužo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ir mes"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "išsigelbėjome"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:56.449063720Z",
+  "model": "glm-5.3"
+}

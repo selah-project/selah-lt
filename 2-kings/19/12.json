@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "retorinis klausimas",
+      "rationale": "Klausimas be atsakymo — grasinimo retorika, nukreipta į Chizkijahu per pasiuntinius."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievai",
+      "rationale": "אלהי הגוים čia tautų dievai mažąja raide — ne Elohim Izraelio Dievo prasme."
+    }
+  ],
+  "translation": "Ar išgelbėjo juos ⟨את⟩ tautų dievai, kuriuos sunaikino mano tėvai — ⟨את⟩ Gozaną ir ⟨את⟩ Haraną, ir Recefą bei Edeno sūnus, kurie Telasare?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/9-12.1792480273300.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Ar-išgelbėjo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "tautų dievai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievai"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "שחתu",
+      "gloss": "sunaikino"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "mano-tėvai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozaną"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozaną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir-⟨את⟩",
+      "marks": "Haraną"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haraną"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ir-Recefą"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir-sūnūs"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telasare"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:13.304946787Z",
+  "model": "glm-5.3"
+}

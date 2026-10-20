@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lūpomis kardo",
+      "rationale": "לפי חרב pažodžiui 'kardo burna' — kalbos idioma, reiškianti kardo ašmenį"
+    },
+    {
+      "kind": "you",
+      "subject": "pasakojimas",
+      "rationale": "perkeltinė kovos užbaigtis; kreipinio nėra"
+    }
+  ],
+  "translation": "Ir Jehošua nugalėjo ⟨את⟩ Amaleką ir ⟨את⟩ jo tautą lūpomis kardo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/17\/13-16.1792472530677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "nugalėjo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleką"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleką"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo tautą"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo tautą"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "lūpomis"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:10.680581486Z",
+  "model": "glm-5.3"
+}

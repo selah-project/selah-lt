@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "Pažodžiui 'prie Jahvės veido' — idiomą 'priešais Jahvę' išlaikyta pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "jas",
+      "rationale": "Hebrajų kalba neturi veikiamojo daiktavardžio; 'jas' rodo, kad kunigas priveda aukas"
+    }
+  ],
+  "translation": "Ir kunigas prives ⟨את⟩ jas prie Jahvės veido ir atliks ⟨את⟩ jo auką už nuodėmę ir ⟨את⟩ jo deginamąją auką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06211f9695620e15c46bcac92e0aa13af01076b858afc6a5864325e98ab479ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/6\/13-16.1792473986268.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ir kunigas prives"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prie ... veido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir atliks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo auką už nuodėmę"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jo auką už nuodėmę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jo deginamąją auką"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "jo deginamąją auką"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:26.269835459Z",
+  "model": "glm-5.3"
+}

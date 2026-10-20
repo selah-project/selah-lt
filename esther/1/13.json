@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksnio-sakinio tarinio jungties; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dat",
+      "rationale": "דת — persiškos kilmės žodis, reiškiantis karališkąjį įstatymą; paliktas pagal hebrajišką skambesį"
+    }
+  ],
+  "translation": "Ir karalius tarė išminčiams, pažįstantims laikus — nes toks ⟨yra⟩ karaliaus žodis prieš visus, pažįstančius dat ir teismą:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/1\/13-16.1792491444276.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "išminčiams"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "pažįstantims"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "laikus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toks"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "pažįstančius"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ir teismą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:17:24.276804950Z",
+  "model": "glm-5.3"
+}

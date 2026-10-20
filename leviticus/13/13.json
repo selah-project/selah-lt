@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "caraat",
+      "rationale": "צרעת — transkribuota kaip caraat, ne „raupsai“, nes apima daugelį odos negalavimų"
+    },
+    {
+      "kind": "you",
+      "subject": "kunigas",
+      "rationale": "Instrukcija tiesiogiai kreipiasi į kunigą kaip sprendėją"
+    }
+  ],
+  "translation": "Ir kunigas pažiūrės, ir štai — jei caraat apdengė ⟨את⟩ visą jo kūną, tai jis paskelbs ⟨את⟩ negą švariu: jis visas pavirto baltumu — švarus jis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/13-16.1792473385150.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "pažiūrės"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "apdengė"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "caraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą jo kūną"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jo kūną"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "paskelbs švariu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negą"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negą"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "jis visas"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "pavirto"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "baltumu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "švarus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:25.152506718Z",
+  "model": "glm-5.3"
+}

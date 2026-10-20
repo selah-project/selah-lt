@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šiame sakinyje."
+    },
+    {
+      "kind": "idiom",
+      "subject": "השלום",
+      "rationale": "„Ar ramybė?“ — hebrajų pasveikinimas-klausimas apie gerovę, ne paprastas klausimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זנוני",
+      "rationale": "„Ištvirkavimai“ — hebrajiškai kartu reiškia ir dievų atmetimo padarymą, idolatriją."
+    }
+  ],
+  "translation": "Ir atsitiko, Jehoramui pamačius ⟨את⟩ Jėhu, jis tarė: „Ar ramybė, Jėhu?“ O šis tarė: „Kokia ramybė, kol Izebelės, tavo motinos, ištvirkavimai ir jos burtai ⟨yra⟩ daugybė?“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/21-24.1792479915419.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "pamačius"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoramas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jėhu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jėhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Ar ramybė"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jėhu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kokia"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ramybė"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "ištvirkavimai"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelės"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tavo motinos"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "ir jos burtai"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "daugybė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:15.421392995Z",
+  "model": "glm-5.3"
+}

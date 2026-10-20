@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta kopula."
+    },
+    {
+      "kind": "crux",
+      "subject": "כליו",
+      "rationale": "'įrankiai\/ginklai' arba perskaityta iš כלי 'šykštuolis' kaip būsenos aprašymas; čia — 'įrankiai'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לחבל",
+      "rationale": "של 'suardyti, pražudyti' arba 'imti į užstatą' — kontekstas remia 'suardyti'."
+    }
+  ],
+  "translation": "Ir šykštuolio — jo įrankiai yra pikti: jis sugalvoja piktus kėslus suardyti nuolankiuosius melagingais žodžiais, net kai neturintis kalba teisų žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/32\/5-8.1792481272660.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְכֵלַי",
+      "gloss": "ir šykštuolio"
+    },
+    {
+      "surface": "כֵּלָיו",
+      "gloss": "jo įrankiai"
+    },
+    {
+      "surface": "רָעִים",
+      "gloss": "pikti"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "זִמּוֹת",
+      "gloss": "piktus kėslus"
+    },
+    {
+      "surface": "יָעַץ",
+      "gloss": "sugalvoja"
+    },
+    {
+      "surface": "לְחַבֵּל",
+      "gloss": "suardyti"
+    },
+    {
+      "surface": "עֲנָוִים",
+      "gloss": "nuolankiuosius"
+    },
+    {
+      "surface": "בְּאִמְרֵי",
+      "gloss": "melagingais žodžiais"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "melu"
+    },
+    {
+      "surface": "וּבְדַבֵּר",
+      "gloss": "nors kalba"
+    },
+    {
+      "surface": "אֶבְיוֹן",
+      "gloss": "neturintis"
+    },
+    {
+      "surface": "מִשְׁפָּט",
+      "gloss": "teisų žodį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:27:52.662982466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame tekste nėra sietuvo"
+    },
+    {
+      "kind": "you",
+      "subject": "jos",
+      "rationale": "„jos“ nurodo 48, 3 miestą — Cijoną; įvardis lietuvių kalboje reikalingas, nes hebrajiškasis בארמנותיה pats turi priesagą"
+    }
+  ],
+  "translation": "Elohim jos citadelėse ⟨yra⟩ žinomas kaip užuovėja.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/48\/1-4.1792488034017.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "jos citadelėse"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "žinomas"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kaip užuovėja"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:34.018356924Z",
+  "model": "glm-5.3"
+}

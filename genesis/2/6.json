@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אד",
+      "rationale": "„rūkas“ (AKJV, JPS) prieš „šaltiniai“ (BSB) — akadiškas edu „požeminis tvanas“; žodis beveik hapax."
+    },
+    {
+      "kind": "substitution",
+      "subject": "paviršių",
+      "rationale": "פני pažodžiui „veidas“ — dirvos veidas, lietuviškai „paviršius“."
+    }
+  ],
+  "translation": "ir rūkas kilo iš žemės ir laistė ⟨את⟩ visą dirvos paviršių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/5-8.1792471030909.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ir rūkas"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ir laistė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą dirvos paviršių"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dirvos paviršių"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dirvos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:10.912416291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדנים קשה",
+      "rationale": "Daugiskaita 'ponai' su vienaskaitos būdvardžiu 'žiaurus' — vienas žiaurus valdovas ar keli; lietuvių 'žiaurių ponų' laikosi daugiskaitos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "האדון čia apie Dievą — Adonai, ne 'ponas'; נאם יהוה pagal D3: 'sako Jahvė'"
+    }
+  ],
+  "translation": "Ir atiduosiu ⟨את⟩ Micraimą į žiaurių ponų ranką, ir galingas karalius viešpataus juose — sako Adonai Jahvė Cevaot.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/1-4.1792480948064.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Ir atiduosiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micraimą"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimą"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ponų"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "žiaurių"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ir karalius"
+    },
+    {
+      "surface": "עז",
+      "gloss": "galingas"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "viešpataus"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:28.065954840Z",
+  "model": "glm-5.3"
+}

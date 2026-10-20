@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Jahvės sod — paslapties taryba; kloustas: kas joje iš tiesų stovėjo?"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברי",
+      "rationale": "Keturi senieji rankraščiai ir LXX turi 'jo žodį' (דברו); Masoretų 'mano žodis' — staigus perėjimas prie pirmojo asmens."
+    }
+  ],
+  "translation": "Nes kas stovėjo Jahvės taryboje ir matė, ir girdėjo ⟨את⟩ jo žodį? Kas atkreipė dėmesį į mano žodį ir išgirdo?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3a8e35e201ea6cd5a52c1481b337449f9982870ed986b6d12374e16c2810f1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/23\/17-20.1792482861330.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "taryboje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir matė"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ir girdėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo žodį"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jo žodį"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "atkreipė dėmesį"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mano žodį"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:54:21.332184556Z",
+  "model": "glm-5.3"
+}

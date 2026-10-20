@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "negalėjo",
+      "rationale": "hebrajiškas tekstas sako tik „išsekę pereiti“; negalėjimas išplaukia iš konteksto, bet lietuvių kalbos sintaksė reikalauja veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פגרו",
+      "rationale": "„išsekti“ — hebrajiškas פגר reiškia „atleisti, suglebti“, kūnas kaip nukritęs"
+    }
+  ],
+  "translation": "Ir vaikėsi Davidas — jis ir keturi šimtai vyrų, — o du šimtai vyrų stojo, kurie išseko ⟨ir⟩ negalėjo pereiti ⟨את⟩ Besoro upelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/9-12.1792477733745.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ir vaikėsi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ir keturi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "o stojo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "du šimtai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "išseko"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "pereiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besoro upelio"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upelio"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besoro"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:53.748381355Z",
+  "model": "glm-5.3"
+}

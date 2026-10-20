@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 9:10",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "Hebrajų neturi veiksmažodžio 'būti' šioje predikatyvo vietoje; lietuvių reikalauja."
+    },
+    {
+      "kind": "alternative",
+      "subject": "upė",
+      "rationale": "הנהר su artikeliumi dažnai reiškia konkrečiai Eufratą, bet pažodžiui tiesiog 'upė'."
+    }
+  ],
+  "translation": "Ir aš iškirsiu vežimus iš Efraimo ir žirgą iš Jerušalaimo, ir bus nukirstas karo lankas; ir jis kalbės taiką tautoms, ir jo valdžia ⟨bus⟩ nuo jūros iki jūros ir nuo upės iki žemės pakraščių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/9\/9-12.1792487240573.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "ir aš iškirsiu"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vežimus"
+    },
+    {
+      "surface": "מאפרים",
+      "gloss": "iš Efraimo"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ir žirgą"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "iš Jerušalaimo"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ir bus nukirstas"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lankas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir jis kalbės"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "taiką"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "tautoms"
+    },
+    {
+      "surface": "ומשלו",
+      "gloss": "ir jo valdžia"
+    },
+    {
+      "surface": "מים",
+      "gloss": "nuo jūros"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "ir nuo upės"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "pakraščių"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:07:20.575539928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje"
+    }
+  ],
+  "translation": "Ir aš mačiau, kad ji susitepė — vienas kelias ⟨yra⟩ abiem joms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dacb64c37969304caf8c5961234958764c13c2b9ee9ee0b393d1fcb25f11c250",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/13-16.1792484399065.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ir aš mačiau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "ji susitepė"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kelias"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "abiem joms"
+    }
+  ],
+  "timestamp": "2026-10-20T08:19:59.066055049Z",
+  "model": "glm-5.3"
+}

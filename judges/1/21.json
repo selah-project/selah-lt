@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 1:21",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את בני בנימן",
+      "rationale": "antrasis את čia veikia kaip 'su' — prielinksnis עם reikšme, lietuvių atitinka 'su'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הורישו",
+      "rationale": "יָרַשׁ reiškia 'paimti paveldint išvarant' — 'išnaikino' yra artimas, bet praranda paveldėjimo atspalvį"
+    }
+  ],
+  "translation": "O ⟨את⟩ jebusiečius, gyvenančius Jerušalaime, Binyamino sūnūs neišnaikino; ir jebusietis gyvena ⟨את⟩ su Binyamino sūnumis Jerušalaime iki šios dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bfbd6d658551afc9c4164d4b0087372210940f72c2693ebb409819130c5c8352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/21-24.1792476280417.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jebusiečius"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusiečius"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyvenančius"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "išnaikino"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamino"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir gyvena"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusietis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnumis"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamino"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šios dienos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:40.418129736Z",
+  "model": "glm-5.3"
+}

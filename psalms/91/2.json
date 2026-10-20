@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומצודתי",
+      "rationale": "מצודה gali reikšti 'tinklas' arba 'tvirtovė'; čia renkamasi 'tvirtovė', kaip dauguma vertimų."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Giesmė kreipiasi tiesiogiai į Jahvę."
+    }
+  ],
+  "translation": "Sakysiu Jahvei: mano prieglauda ir mano tvirtovė, mano Elohim — Juo pasitikėsiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/91\/1-4.1792488723998.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sakysiu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mano prieglauda"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ir mano tvirtovė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "pasitikėsiu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Juo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:03.998747230Z",
+  "model": "glm-5.3"
+}

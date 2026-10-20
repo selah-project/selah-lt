@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Pažodžiui 'veidu į' — 'prieš, veidu ĵ' susitraukia į lietuvių 'prie'."
+    },
+    {
+      "kind": "elision",
+      "subject": "וְ (atpasakojimo jungtukas)",
+      "rationale": "Iškritęs vav — verse pavesta veiksmų seka, išnyksta ir vav, ir asmenuotė aiški."
+    }
+  ],
+  "translation": "Ir privedei ⟨ir⟩ ⟨את⟩ levitus prie Susitikimo palapinės, ir sušaukei ⟨את⟩ visą Jisraelio sūnų bendriją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a97a43cdd00fe534410a6ebd3d64555d6e2ad71b243f07290e3eb9d1ee9b105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/8\/9-12.1792474061986.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ir privedei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prie (veidas-į)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susitikimo"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "ir sušaukei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą bendriją"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bendriją"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:27:41.986812822Z",
+  "model": "glm-5.3"
+}

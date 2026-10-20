@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje išraiškoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sparnuotas",
+      "rationale": "כנף pažodžiui 'sparnas' — vartojama kaip paukščio apibūdinimas"
+    }
+  ],
+  "translation": "pavidalą bet kurios gyvulių rūšies, kuri ⟨yra⟩ žemėje, pavidalą bet kurio sparnuoto paukščio, kuris skraja danguje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/4\/17-20.1792474961318.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "pavidalą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bet kurios"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyvulių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pavidalą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bet kurio"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "paukščio"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sparnuoto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "skraja"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "danguje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:42:41.319847542Z",
+  "model": "glm-5.3"
+}

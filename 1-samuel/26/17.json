@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Davido balsas",
+      "rationale": "hebrajiškas קול דוד — konstruktas, lietuviškai prireikė kartoti „balsą“"
+    },
+    {
+      "kind": "you",
+      "subject": "Šauliui",
+      "rationale": "Šaulis kreipiasi tiesiogiai į Davidą, Davidas atsako karaliui"
+    }
+  ],
+  "translation": "Ir Šaulis atpažino ⟨את⟩ balsą — Davido balsą, ir tarė: Ar tai tavo balsas, mano sūnau Davide? Ir Davidas tarė: Mano balsas, pone karaliau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/17-20.1792477810529.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "atpažino"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "tavo balsas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnau"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovidas"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mano balsas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pone"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:10.535638926Z",
+  "model": "glm-5.3"
+}

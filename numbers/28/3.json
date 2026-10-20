@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 28:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kopulos tarp זה ir האשה"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בני שנה",
+      "rationale": "pažodžiui 'sūnūs metų' — metafora jaunam gyvuliui, lietuviškai 'metukų'"
+    }
+  ],
+  "translation": "Ir sakyk jiems: ši yra ugnies auka, kurią atnešite Jahvei: avinėlius, metukus, be trūkumo, du per dieną — nuolatinė deginamoji auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5b90edf946f889fa14d15da624c04cc5724aa28e13f03e1958766bb81328d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/1-4.1792474587409.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ir sakyk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ugnies auka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "atnešite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "avinėlius"
+    },
+    {
+      "surface": "בני",
+      "gloss": "metukus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "be trūkumo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dieną"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolatinė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:27.411567281Z",
+  "model": "glm-5.3"
+}

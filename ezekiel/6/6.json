@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 6:6",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמנים → saulės stulpai",
+      "rationale": "Pažodžiui 'saulės atvaizdai\/stulpai'; kai kur verčiama 'kaduginiai' iš panašaus חמר."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų veiksmažodis 𝑦𝑎šam reiškia 'būti apleistam'."
+    },
+    {
+      "kind": "elision",
+      "subject": "למען",
+      "rationale": "Hebrajų 'dėl to, kad' — jungia eilutės dalis; lietuviškai palikta 'kad'."
+    }
+  ],
+  "translation": "Visose jūsų gyvenvietėse miestai bus nuniokoti, o aukštumos — pavergtos dykyme, kad jūsų aukurai būtų nuniokoti ir sunaikinti, jūsų stabai sudaužyti ir sunaikinti, jūsų saulės stulpai nukirsti, ir jūsų darbai ištrinti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/6\/5-8.1792483839339.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "visose"
+    },
+    {
+      "surface": "מושבותיכם",
+      "gloss": "jūsų gyvenvietėse"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "bus nuniokoti"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "o aukštumos"
+    },
+    {
+      "surface": "תישמנה",
+      "gloss": "pavergtos dykyme"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "būtų nuniokoti"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "ir sunaikinti"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "jūsų aukurai"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "sudaužyti"
+    },
+    {
+      "surface": "ונשבתו",
+      "gloss": "ir sunaikinti"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "jūsų stabai"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "nukirsti"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "jūsų saulės stulpai"
+    },
+    {
+      "surface": "ונמחו",
+      "gloss": "ir ištrinti"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "jūsų darbai"
+    }
+  ],
+  "timestamp": "2026-10-20T08:10:39.345431568Z",
+  "model": "glm-5.3"
+}

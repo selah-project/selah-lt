@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šiame sakinyje; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה אהבתי",
+      "rationale": "šauksminė daiktavardžio konstrukcija — „ką (mylėti) aš mylėjau“ — džiaugsmo šauksmas, iš dalies prarandamas"
+    }
+  ],
+  "translation": "Kaip myliu tavo Torą — visą dieną ji ⟨yra⟩ mano apmąstymas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/97-100.1792489106669.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "myliu"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tavo Torą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "mano apmąstymas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:26.670267084Z",
+  "model": "glm-5.3"
+}

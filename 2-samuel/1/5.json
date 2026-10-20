@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "jaunuoliui",
+      "rationale": "Davido klausimas tiesiogiai kreipiamas į pranešusį jaunuolį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "iš kur žinai",
+      "rationale": "אֵיךְ pažodžiui 'kaip', čia 'iš kur' — klausimas apie žinojimo šaltinį."
+    }
+  ],
+  "translation": "Ir Davidas tarė jaunuoliui, kuris jam pranešė: Iš kur žinai, kad mirė Šaulis ir Jonatanas, jo sūnus?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/5-8.1792477900463.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jaunuoliui"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "jaunuoliui"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "kuris pranešė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "איך",
+      "gloss": "iš kur"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "žinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ir Jonatanas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:31:40.463979010Z",
+  "model": "glm-5.3"
+}

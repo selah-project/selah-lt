@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לציים",
+      "rationale": "'Dykumos gyventojai' — žmonės arba laukiniai žvėrys; BSB renka žvėris, KJV žmones."
+    },
+    {
+      "kind": "you",
+      "subject": "Tu",
+      "rationale": "Tiesioginis kreipimasis į Elohim per visą psalmę."
+    }
+  ],
+  "translation": "Tu sutrupinai Levjatano galvas, davei jį ⟨kaip⟩ maistą tautai, dykumos gyventojams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/74\/13-16.1792488402848.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "sutrupinai"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvas"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Levjatano"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "davei jį"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "maistą"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "dykumos gyventojams"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:42.849304180Z",
+  "model": "glm-5.3"
+}

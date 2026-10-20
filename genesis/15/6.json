@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "įskaityta cedek-u",
+      "rationale": "צדקה: 'įskaityta teisumu' arba 'įskaityta jam už teisumą' — garsiausia Tanacho vertimo sąsmauka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "šaknis צדק laikoma transliteruota kaip cedek, o ne verčiama vienu žodžiu 'teisumas'"
+    }
+  ],
+  "translation": "Ir jis patikėjo Jahvę, ir ⟨tai⟩ buvo jam įskaityta cedek-u.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/5-8.1792471233950.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "ir patikėjo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "ir ⟨tai⟩ buvo įskaityta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek-u (teisumu)"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:33.953208332Z",
+  "model": "glm-5.3"
+}

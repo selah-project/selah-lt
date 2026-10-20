@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iš⟩",
+      "rationale": "lietuvių reikalauja prielinksnio hebrajų konstrukto grandžiai išreikšti"
+    }
+  ],
+  "translation": "Tegu jis teisia vargšus ⟨iš⟩ tautos, tegu gelbėja neturtingų vaikus ir sutriuškina engėją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/72\/1-4.1792488339805.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "teisia"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "vargšus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "gelbėja"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "neturtingų"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "sutriuškina"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "engėją"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:39.806446511Z",
+  "model": "glm-5.3"
+}

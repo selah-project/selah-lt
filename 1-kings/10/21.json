@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 10:21",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi žodžio „būti“ esamajame laike"
+    },
+    {
+      "kind": "crux",
+      "subject": "זהב סגור",
+      "rationale": "pažodžiui „uždarytas auksas“; verčiama „grynas auksas“ arba „rafinuotas auksas“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "turto aprašymas",
+      "rationale": "eiliutė skaičiuoja ir įvertina karaliaus turto medžiagas — auksą ir sidabrą"
+    }
+  ],
+  "translation": "Ir visi karaliaus Šlomo gėrimo indai ⟨buvo⟩ aukso, ir visi Libano miško namų indai ⟨buvo⟩ iš gryno aukso; sidabro nebuvo — jis nebuvo laikomas nieko vertas Šlomo dienomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f728de0c6fd16c5177883f32b3f7c392303070f915dd2313f65a93adfbce50a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/10\/21-24.1792479070319.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indai"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "gėrimo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "יער",
+      "gloss": "miško"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libano"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "gryno"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "buvo laikomas"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienomis"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "nieko vertas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:10.320596162Z",
+  "model": "glm-5.3"
+}

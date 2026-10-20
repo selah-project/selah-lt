@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור \/ עזוב",
+      "rationale": "„Uždarytas ir paliktas“ — arba „nei vergo, nei laisvojo“ (BSB), arba „apsuptas ir apleistas“; hebrajiški veiksmažodžiai reiškia „sulaikyti“ ir „palikti“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Copula pridėta, nes hebrajiškame asmenavime jos nėra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצור \/ עזוב \/ עזר",
+      "rationale": "Trauksos paronomazija: du kartiniai žodžiai prasideda alefu — prieš „gelbėtoją“; lietuviškai skiemenų aidas prarandamas."
+    }
+  ],
+  "translation": "Nes Jahvė pamatė ⟨את⟩ Jisraelio vargą, kad jis labai kartus: ⟨buvo⟩ nieko neuždaryto ir nieko nepalikto, ir nėra gelbėtojo Jisraeliui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/14\/25-28.1792480149371.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vargą"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vargą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ir nieko"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "neuždaryto"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ir nieko"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "nepalikto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "gelbėtojo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:09.374208197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 60:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונהרת",
+      "rationale": "'nušvisi' (švytėti) vs KJV 'teka' — hebrajiškas veiksmažodis reiškia spindėti, ne tekėti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "turtai",
+      "rationale": "חיל — jėga, kariuomenė, turtas; čia tikriausiai materialieji ištekliai"
+    }
+  ],
+  "translation": "Tuomet tu pamatysi ir nušvisi, ir išsigąsi, ir prasiplės tavo širdis, nes į tave apsisuks jūros gausybė, tautų turtai ateis pas tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "00cb4385c2fef0c074be0944cca7dba7054fe21fb565244ba2bf8776676a51d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/60\/5-8.1792481902355.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "תראי",
+      "gloss": "pamatysi"
+    },
+    {
+      "surface": "ונהרת",
+      "gloss": "ir nušvisi"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ir išsigąsi"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ir prasiplės"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "apsisuks"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "į tave"
+    },
+    {
+      "surface": "המון",
+      "gloss": "gausybė"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "turtai"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pas tave"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:22.356421490Z",
+  "model": "glm-5.3"
+}

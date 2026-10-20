@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gyvybės jėga, kvėpavimas, ne „siela“; transliteruota, kad išliktų vienas žodis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išplėšei",
+      "rationale": "הצל — nuplėšti, ištraukti; „išgelbėti“ praranda fizinį paveikslą"
+    },
+    {
+      "kind": "crux",
+      "subject": "šeol žemiausioji",
+      "rationale": "תחתיה — „apačioje“ ar kaip vardas „žemiausias šeol“; KJV 'lowest hell'"
+    }
+  ],
+  "translation": "Nes tavo chesed man didelis, ir išplėšei mano nefesh iš žemiausiojo šeol.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/86\/13-16.1792488598152.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavo chesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ir išplėšei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "iš šeol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "žemiausiojo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:58.152909404Z",
+  "model": "glm-5.3"
+}

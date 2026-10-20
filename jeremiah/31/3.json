@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואהבת \/ אהבתיך",
+      "rationale": "meilės šaknies kartojimas — 'meile… pamylėjau' išlaiko garsą, bet ne veiksmažodžio daugiskaitą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משכתיך חסד",
+      "rationale": "pažodžiui 'traukiau tave chesed' — prielinksniui 'su' hebrajiškai nėra atitikmens"
+    }
+  ],
+  "translation": "Iš tolo Jahvė man pasirodė: meile amžina pamylėjau tave, todėl pritraukiau tave chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08e8e53d41bee481dacc59128f5c0b7656e52706dce41d9ce5b7784d9ed1d4ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/31\/1-4.1792483060158.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "iš tolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pasirodė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "meile"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžina"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "pamylėjau tave"
+    },
+    {
+      "surface": "על",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tai"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "prietraukiau tave"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:40.160742646Z",
+  "model": "glm-5.3"
+}

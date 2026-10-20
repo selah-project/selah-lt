@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 16:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo darbo laiko veiksmažodžio, hebrajų jo neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sąrašas",
+      "rationale": "Kaip Įst 16,11 — septynetas silpnųjų (levas, atėjūnas, našlaitis, našlė) kartojasi, parodant, kad džiaugsmas priklauso ir bežemiams."
+    }
+  ],
+  "translation": "Ir džiaugsies savo šventėje — tu, tavo sūnus ir tavo duktė, tavo tarnas ir tavo tarnaitė, ir levas, ir atėjūnas, ir našlaitis, ir našlė, kurie ⟨yra⟩ tavo vartuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/16\/13-16.1792475193309.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "Ir džiaugsies"
+    },
+    {
+      "surface": "בחגך",
+      "gloss": "savo šventėje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "tavo sūnus"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ir tavo duktė"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ir tavo tarnaitė"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "ir levas"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ir atėjūnas"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "ir našlaitis"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "ir našlė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "tavo vartuose"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:33.310819699Z",
+  "model": "glm-5.3"
+}

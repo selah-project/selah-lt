@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והרגו אתי ואתך יחיו",
+      "rationale": "Chiazmas: 'nužudys mane — o tave paliks gyvą'; įpareigojimas יחיו yra causazywus — 'leis gyvuoti'"
+    },
+    {
+      "kind": "you",
+      "subject": "Avramas Sarajai",
+      "rationale": "Kalba tęsiasi kaip tiesioginis kreipimasis į Sarają"
+    }
+  ],
+  "translation": "Ir bus: kai micraimiečiai pamatys ⟨את⟩ tave, jie pasakys: 'Tai jo žmona', ir nužudys ⟨את⟩ mane, o ⟨את⟩ tave paliks gyvą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/9-12.1792471200773.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "pamatys"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave",
+      "marks": "tave"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "micraimiečiai"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "pasakys"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jo žmona"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "nužudys"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mane",
+      "marks": "mane"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "o ⟨את⟩ tave",
+      "marks": "tave"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "paliks gyvą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:00.776704423Z",
+  "model": "glm-5.3"
+}

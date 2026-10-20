@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pyktis",
+      "rationale": "אף pažodžiui „nosis\/veidas” — Hebrajų idiomą חרה אף („deginti nosį”) lietuvių perteikia žodžiu pyktis."
+    },
+    {
+      "kind": "crux",
+      "subject": "jis",
+      "rationale": "יסיר vienaskaita („jis atgręš”) prieš daugiskaitą „jie tarnaus” — veikėjas neaiškus: svainis, žentas ar tauta."
+    }
+  ],
+  "translation": "nes jis atgręš ⟨את⟩ tavo sūnų nuo manęs, ir jie tarnaus kitiems dievams; ir įsidegs Jahvės pyktis ant jūsų, ir jis tave greitai sunaikins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/7\/1-4.1792474995057.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "atgręš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo sūnų"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavo sūnų"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ir jie tarnaus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitiems"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ir įsidegs"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pyktis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ant jūsų"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ir sunaikins tave"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "greitai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:15.062756593Z",
+  "model": "glm-5.3"
+}

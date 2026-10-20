@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 18:33",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לתמו",
+      "rationale": "'be taiklo' \/ 'vangiai' \/ 'paprastumu' — atsitiktinai ar naiviai traukiantis lanką"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sužeistas",
+      "rationale": "החolיתי pažodžiui 'aš susirgau \/ pasiligavau' — ne įprastas žodis žaizdai"
+    },
+    {
+      "kind": "elision",
+      "subject": "be taiklo",
+      "rationale": "hebrajų לתמו vienu žodžių; lietuvių reikia poros žodžių, pažymėta ⟨…⟩"
+    }
+  ],
+  "translation": "Ir kažkoks vyras ėmė traukti lanką ⟨be taiklo⟩ ir sudavė ⟨את⟩ Jisraelio karalių tarp jungčių ir tarp šarvo, ir tarė vežėjui: Apsuk ranką savo ir išvežk mane iš stovyklos, nes aš sužeistas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8a70f12c3b5665ec5fded76358fa2ab49ab4e23b27f588a3e229f49fe249ccda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/18\/33-34.1792493589982.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ir kažkoks vyras"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ėmė traukti"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "lanką"
+    },
+    {
+      "surface": "לתמו",
+      "gloss": "be taiklo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir sudavė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio karalių"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "jungčių"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "השרין",
+      "gloss": "šarvo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "vežėjui"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "Apsuk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ranką savo"
+    },
+    {
+      "surface": "והוצאתני",
+      "gloss": "ir išvežk mane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "stovyklos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "החolיתי",
+      "gloss": "aš sužeistas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:53:09.983072457Z",
+  "model": "glm-5.3"
+}

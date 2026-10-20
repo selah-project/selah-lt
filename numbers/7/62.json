@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šekelių",
+      "rationale": "Hebrajiškame tekste žodis 'šekelis' praleistas; skaičius 'dešimt' reiškia svorį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כף",
+      "rationale": "Žodis reiškia delną\/saują — indo forma pavadota pagal rankos dalį; 'šaukštas' prarastų paveikslą."
+    }
+  ],
+  "translation": "Viena aukso sauja, dešimt ⟨šekelių⟩, pilna kvapų smilkymo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a66e33cb036e417747146b6857261a9b9386a738bbb559b77f2ef0699ac2dc0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/61-64.1792474050337.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "sauja"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvapų smilkymo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:27:30.338544446Z",
+  "model": "glm-5.3"
+}

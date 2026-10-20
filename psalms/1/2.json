@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrajų priešpriešos jungtukas 'ki im' — neigiamam kiečiui priešpriešinti, išversta kaip 'o atvirkščiai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מąso kartodamas",
+      "rationale": "הגה reiškia 'kartoti bumu, murmti' — kaip skaitant balsu; 'mąstyti' vienas praranda skambinį kartojimą"
+    }
+  ],
+  "translation": "O ⟨atvirkščiai⟩ — jo malonumas ⟨yra⟩ Jahvės Toroje, ir apie jo Torą jis mąso ⟨kartodamas⟩ dieną ir naktį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/1\/1-4.1792487452311.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "O ⟨atvirkščiai⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨atvirkščiai⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Toroje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "jo malonumas"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ir apie jo Torą"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "jis mąso ⟨kartodamas⟩"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ir naktį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:52.313912660Z",
+  "model": "glm-5.3"
+}

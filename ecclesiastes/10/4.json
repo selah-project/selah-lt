@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח המושל",
+      "rationale": "„Valdovo ruach“ — ar pyktis („ūmas“, KJV), ar dvasia apskritai; laikomasi žodžio formos ruach."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרפא",
+      "rationale": "Pažodžiui „gydymas, vaistas“: verčiama „švelnumas“ (JPS), „atsileidimas“ (KJV) arba „raminimas“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנח \/ יניח",
+      "rationale": "To pats veiksmažodis ינח kartojamas: „nepalik“ ir „nuramina“ — hebrajiškoje sintaksėje skambės sąskambys."
+    }
+  ],
+  "translation": "Jei valdovo ruach pakyla prieš tave, nepalik savo vietos, nes švelnus ramumas nuramina didelius nusikaltimus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/10\/1-4.1792491307474.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "valdovo"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "pakyla"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "savo vietos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "palik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "gydantis ramumas"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "nuramina"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "nusikaltimus"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "didelius"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:07.475682116Z",
+  "model": "glm-5.3"
+}

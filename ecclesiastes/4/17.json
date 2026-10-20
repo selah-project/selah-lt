@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje palyginimo konstrukcijoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעשות רע",
+      "rationale": "arba 'kad daro pikta', arba 'kaip daryti pikta' — kur 'pikta' yra dalykas, kurio jie neišmano"
+    },
+    {
+      "kind": "elision",
+      "subject": "מתת…זבח",
+      "rationale": "pažodžiui 'duoti kvailių auką'; lietuviškame tekste tvarka pakeista į 'duodant auką kaip kvailiai'"
+    },
+    {
+      "kind": "you",
+      "subject": "skaitytojui",
+      "rationale": "tiesioginis paliepimas 'saugok savo žingsnį' kreipiasi į skaitytoją"
+    }
+  ],
+  "translation": "Saugok savo žingsnį, kai eini į Elohim namus, ir ⟨yra⟩ geriau būti arti klausantis, negu duodant auką kaip kvailiai, nes jie nežino, kaip daro pikta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c4c40bfc66b7e8e7dd4175a5c71ccfeea7371971a9eea5a61070d695542db2b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/4\/17-17.1792491169987.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Saugok"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "savo žingsnį"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "eini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ir ⟨yra⟩ arti"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "klausantis"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "negu duodant"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "kvailiai"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "auką"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "jie ne"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "žino"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kaip daro"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pikta"
+    }
+  ],
+  "timestamp": "2026-10-20T10:12:49.988113286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאשמו",
+      "rationale": "'pasidarė kalti' (ASV, JPS) vs 'tapo dykuma' (KJV) — שמם ir אשם giminingi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרו",
+      "rationale": "'išdegė' vs 'nyksta' — חרר reiškia ir kaitinti, ir džiūti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirtingųjų",
+      "rationale": "אנוש — 'mirusieji\/mirtingieji', ne paprastas 'žmonės' (adam)"
+    }
+  ],
+  "translation": "Dėl to prakeikimas suėdė žemę, ir jos gyventojai pasidarė kalti; dėl to išdegė žemės gyventojai, ir liko mirtingųjų — ⟨tik⟩ maža dalis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/5-8.1792481062371.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "prakeikimas"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "ir pasidarė kalti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "išdegė"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "gyventojai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "ir liko"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirtingųjų"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "maža dalis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:22.372751757Z",
+  "model": "glm-5.3"
+}

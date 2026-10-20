@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su jos pamatais",
+      "rationale": "hebrajų kalba eina paprastu sąrašu „в“ (vav); lietuvių struktūrai reikėjo jungties „su“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškanas",
+      "rationale": "משכן pagal D2 rašomas pagal skambesį, ne „padangtė“"
+    }
+  ],
+  "translation": "Ir atnešė ⟨את⟩ miškaną pas Mošę: ⟨את⟩ palapinę ir ⟨את⟩ visus jos įrankius, jos kablius, jos lentas, jos skersinius ir jos stulpus su jos pamatais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/39\/33-36.1792473108778.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ir atnešė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palapinę"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus įrankius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jos įrankius"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "jos kablius"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "jos lentas"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "jos skersinius"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ir jos stulpus"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "su jos pamatais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:48.779900903Z",
+  "model": "glm-5.3"
+}

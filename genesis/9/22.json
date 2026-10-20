@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuogumą",
+      "rationale": "ערות — nuogumas, gėdingas apsinuoginimas; ne 'gėdingi nariai'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kenaano tėvas",
+      "rationale": "Kenaanas minimas čia ir 9,25, nors nuogumą matė Chamas — ar prakeiksmas krinta ant Kenaano už tėvo darbą, visada buvo ginčijamas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lauke",
+      "rationale": "בחוץ — 'užeigą' reiškia 'išorėje'; Wyclif'o 'without forth' rodo tą pačią ribą tarp palapinės viduje ir lauko"
+    }
+  ],
+  "translation": "Ir Chamas, Kenaano tėvas, pamatė ⟨את⟩ savo tėvo nuogumą ir apie tai pranešė savo dviems broliams lauke.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b8f6c63e2d032f4adeee804f4d6e61814b2a88dc75d9bc4d41ab05de4036a2a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/21-24.1792471093014.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamas"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tėvo nuogumą"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nuogumą"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ir pranešė"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "saviems dviems"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broliams"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "lauke"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:13.017127965Z",
+  "model": "glm-5.3"
+}

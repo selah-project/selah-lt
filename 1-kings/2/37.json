@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע \/ מות תמות",
+      "rationale": "Dvigubas infinitivo absoliuto stiprinimas — „žinok tikrai“, „mirtimi mirsi“ — lietuvių kalboje atkurtas prievartine konstrukcija."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמך יהיה בראשך",
+      "rationale": "„Tavo kraujas ant tavo galvos“ — atsakomybė už savo mirtį tenka pačiam; paliktas pažodžiui, nes paveik."
+    },
+    {
+      "kind": "you",
+      "subject": "Šimeiui",
+      "rationale": "Karaliaus Saliamono tiesioginis kreipimasis į Šimeį su sąlyga ir mirties nuosprendžiu."
+    }
+  ],
+  "translation": "Ir bus: tavo išėjimo dieną, kai peržengsi ⟨את⟩ Kidrono upelį, žinok tikrai, kad mirtimi mirsi — tavo kraujas bus ant tavo galvos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2053a203f57817654ee25c73335ce21bfead64a04f546083d70d2e92c82bd3c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/37-40.1792478861878.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tavo išėjimo"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "kai peržengsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kidrono upelį"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upelį"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidrono"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žinok"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mirsi"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "tavo kraujas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "ant tavo galvos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:41.880463015Z",
+  "model": "glm-5.3"
+}

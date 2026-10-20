@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תקע",
+      "rationale": "hebrajiškas veiksmažodis reiškia 'įkalti stakes \/ pastatyti palapinę'; verstą 'įsikurti'"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (prieš אחיו)",
+      "rationale": "čia את iš tiesų prielinksnis 'su'; lietuvių kalboje žodis 'su' atlieka šį vaidmenį"
+    }
+  ],
+  "translation": "Ir Lavanas pasivijo ⟨את⟩ Jaakovą; o Jaakovas buvo įsikūręs savo palapine kalne, ir Lavanas įsikūrė ⟨את⟩ su savo broliais Gilado kalne.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/25-28.1792471645719.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "pasivijo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakovą"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovą"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "o Jaakovas"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "buvo įsikūręs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo palapine"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "savo palapine"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ir Lavanas"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "įsikūrė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su",
+      "marks": "savo broliais"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo broliais"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilado"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:25.720757835Z",
+  "model": "glm-5.3"
+}

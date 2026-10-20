@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בנה בניתי",
+      "rationale": "Begalinis vardais — „statydamas pastačiau“ — hebrajų pastiprinimas, įprastai „tikrai pastačiau“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבול",
+      "rationale": "Retas žodis „zeibulas“ — iškilusi gyvenamoji vieta; paliktas pagal skambesį, ne „buveinė“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולמים",
+      "rationale": "Daugiskaita „per amžius“, ne vienaskaita „amžinai“ — hebrajiška forma išlaikoma."
+    }
+  ],
+  "translation": "Statydamas pastačiau namą — zeibulą ⟨tau⟩, tvirtą vietą tavo sėdėjimui per amžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/13-16.1792479117104.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Statydamas"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "pastačiau"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zeibulą"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tau⟩"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "tvirtą vietą"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "tavo sėdėjimui"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "per amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:57.105786807Z",
+  "model": "glm-5.3"
+}

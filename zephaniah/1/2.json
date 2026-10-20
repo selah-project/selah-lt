@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "Infinitivus absolutus — tas pats veiksmažodis dukart sustiprinti; išversta 'nurausiu, visiškai nurausiu'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פני האדמה",
+      "rationale": "Pažodžiui 'žemės veidas' — išversta 'žemės paviršius'"
+    }
+  ],
+  "translation": "Nurausiu, visiškai nurausiu viską nuo žemės paviršiaus, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4021e183a6dc0a69f24944a07976629ba197901745dce7f6e923394dc1b655cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zephaniah\/1\/1-4.1792487012798.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "nurausiu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "visiškai nurausiu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paviršiaus"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:03:32.800526218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילות",
+      "rationale": "„stirnos“ (patelės) prieš „ąžuolai“ (אילות kaip אלות): KJV skaito verčiantis veršiavimui, YLT\/BSB — ąžuolams."
+    },
+    {
+      "kind": "crux",
+      "subject": "כלו אמר כבוד",
+      "rationale": "„visi sako: Šlovė“ prieš „viskas ⟨yra⟩ šlovė“ — hebrajiškai be veikėjo giminės."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחולל \/ יחשף",
+      "rationale": "Garso garsmo vaizdas — sukimas ir nuginimas, viso psalmo 29 „balsas“ pasikartojimo dalis."
+    }
+  ],
+  "translation": "Jahvės balsas verčia stirnas suktis ir nuogina miškus, o Jo rūmuose ⟨yra⟩ šaukimas: „Šlovė!“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/29\/9-11.1792487707169.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "verčia suktis"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "stirnas"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ir nuogina"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "miškus"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "o Jo rūmuose"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "šaukimas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yra šaukiantis"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Šlovė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:07.170471546Z",
+  "model": "glm-5.3"
+}

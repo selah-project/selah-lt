@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tada",
+      "rationale": "pabrėžiantis 'jūs' reikalauja laiko palydovo lietuvių tekste"
+    },
+    {
+      "kind": "you",
+      "subject": "tautai",
+      "rationale": "šoteriai kreipiasi į visą Jisraelio tautą antruoju asmeniu daugiskaita"
+    }
+  ],
+  "translation": "Ir įsakė ⟨את⟩ tautai, sakydami: Kai pamatysite ⟨את⟩ Jahvės, jūsų Elohim, sandoros skrynią ir kunigus levitus, nešančius ⟨את⟩ ją, tada jūs iškeliaukite iš savo vietos ir žygiuokite paskui ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/3\/1-4.1792475719809.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ir įsakė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "kai pamatysite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės, jūsų Elohim, sandoros skrynią"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandoros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ir kunigus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nešančius"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "sandoros skrynią"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "tada jūs"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "iškeliaukite"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "iš savo vietos"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ir žygiuokite"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paskui ją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:19.813558907Z",
+  "model": "glm-5.3"
+}

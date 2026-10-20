@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך\/מרבית",
+      "rationale": "Du skirtingi palūkanų žodžiai — 'įkandimas' ir 'daugėjimas' — lietuvių turi vieną žodį, todėl antrasis išskirtas kaip 'priedas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "palūkanos",
+      "rationale": "נשך pažodžiui 'įkandimas' — palūkanos, kurios 'kandžioja' skolintoją."
+    }
+  ],
+  "translation": "⟨את⟩ savo sidabrą neduok jam už palūkanas ir už priedą neduok savo maisto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/37-40.1792473685976.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sidabrą"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "savo sidabrą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neduok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "už palūkanas"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ir už priedą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neduok"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "savo maisto"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:25.990637030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפדם אגאלם",
+      "rationale": "KJV skaito kaip pažadą ('išpirksiu'), JPS kaip klausimą ('ar išpirksiu?') — kontekstas (bausmė) remia klausimą"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "KJV 'aš būsiu tavo maras' vs ASV\/JPS 'kur tavo maras?' — hebrajiškas kirčiavimas dviprasmis"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחם",
+      "rationale": "'atgaila' (KJV) vs 'gailestumas' (JPS) — šaknis נחם reiškia abu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאול \/ מות",
+      "rationale": "Pora 'šeol–mirtis' kartojama chiastiškai, lietuvių kalboje paralelizmas išlieka"
+    }
+  ],
+  "translation": "Ar iš šeol rankos juos išpirksiu? Ar iš mirties juos atpirksiu? Kur tavo maras, mirtie? Kur tavo pražūtis, šeole? Gailestumas paslėptas nuo mano akių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/13\/13-15.1792486350492.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "ar juos išpirksiu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "iš mirties"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "ar juos atpirksiu"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo maras"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtie"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "tavo pražūtis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeole"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "gailestumas"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "paslėptas"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nuo mano akių"
+    }
+  ],
+  "timestamp": "2026-10-20T08:52:30.494617212Z",
+  "model": "glm-5.3"
+}

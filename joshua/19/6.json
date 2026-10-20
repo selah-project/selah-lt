@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — skaičiaus sąsaja su miestais reiškiama gretimumu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tryslika miestų",
+      "rationale": "sąrašo apibendrinimas skaičiumi"
+    }
+  ],
+  "translation": "ir Beit-Levaotą, ir Šaruheną — miestai trylika, ir jų gyvenvietės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5afb7e6d7ad35e5837bb0236e60c8a22bc1993d4bb3d4b9b006d725767b6e2ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/19\/5-8.1792476082199.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ir Beit-"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "Levaotą"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "ir Šaruheną"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lika"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ir jų gyvenvietės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:22.200046597Z",
+  "model": "glm-5.3"
+}

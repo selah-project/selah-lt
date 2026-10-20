@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Pažodžiui 'atėjo dienose' — hebrajiškas senatvės idiomas 'paseno, atėjo dienų'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨daug⟩",
+      "rationale": "Lietuvių kalbai reikia kiekinio žodžio, hebrajiškas idiomas jo neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "būdavo šilta",
+      "rationale": "יחם — pažodžiui 'šilti, įšilti'; neveikiamoji lietuviška forma nusako būseną."
+    }
+  ],
+  "translation": "Ir karalius Davidas paseno, atėjo ⟨daug⟩ dienų, ir jie apklojo jį drabužiais, bet jam nebūdavo šilta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/1\/1-4.1792478669364.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ir karalius"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "paseno"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ir apklojo jį"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "drabužiais"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "būdavo šilta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:29.365055074Z",
+  "model": "glm-5.3"
+}

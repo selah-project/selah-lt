@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškame nėra būtojo laiko jungties — pridedama kaip žymeklis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בור…בור",
+      "rationale": "pakartota duobė — hebrajiškas pasikartojimas, kuris pabrėžia tuštumą"
+    }
+  ],
+  "translation": "Ir paėmė jį, ir įmetė ⟨את⟩ jį į duobę; o duobė buvo tuščia, ⟨neyra⟩ jos vandens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/37\/21-24.1792471871208.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ir paėmė jį"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ir įmetė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "į duobę"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "o duobė"
+    },
+    {
+      "surface": "רק",
+      "gloss": "buvo tuščia"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "joje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:11.212741422Z",
+  "model": "glm-5.3"
+}

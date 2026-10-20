@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esate",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' esamajame laike."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaip žvaigždės dangaus",
+      "rationale": "Tautos gausumas matuojamas dangaus žvaigždžių skaičiumi — Pr 15, 5 pažado atgarsis."
+    }
+  ],
+  "translation": "Jahvė, jūsų Elohim, padaugino ⟨את⟩ jus, ir štai šiandien jūs esate kaip žvaigždės dangaus gausybės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/9-12.1792474818661.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "padaugino"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ir štai jūs"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "kaip žvaigždės"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "gausybės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:18.663571644Z",
+  "model": "glm-5.3"
+}

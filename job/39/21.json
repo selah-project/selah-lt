@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 39:21",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kasa",
+      "rationale": "יחפרו — KJV 'paweth' (kasąs kanopomis) vs laiškinė reikšmė 'kasa\/rausia'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ginkluotuosius",
+      "rationale": "נשק — ginklai; čia kolektyviškai 'ginkluotieji vyrai'."
+    }
+  ],
+  "translation": "Jis kasa slėnyje ir džiaugiasi savo jėga, išeina prieš ginkluotuosius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1e795df4c01c40cf2040d147a68b6b5249969709ced8fa9a1cc0923d82e08344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/39\/21-24.1792490726645.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפרו",
+      "gloss": "kasa"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "slėnyje"
+    },
+    {
+      "surface": "וישיש",
+      "gloss": "ir džiaugiasi"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "savo jėga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ginkluotuosius"
+    }
+  ],
+  "timestamp": "2026-10-20T10:05:26.645641605Z",
+  "model": "glm-5.3"
+}

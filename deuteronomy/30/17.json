@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis vienaskaita į Izraelį per Mozę."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus kitus",
+      "rationale": "אלהים אחרים čia ne Elohim, o tautų dievai — mažąja raide."
+    }
+  ],
+  "translation": "O jei atsigręš tavo širdis ir tu neklausysi, ir būsi nuvarytas į šalį, ir pulsiesi prieš kitus dievus ir tarnosi jiems,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/17-20.1792475594760.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jei"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "atsigręš"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausysi"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "ir būsi nuvarytas į šalį"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ir pulsiesi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "prieš dievus"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitus"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ir tarnosi jais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:14.761890831Z",
+  "model": "glm-5.3"
+}

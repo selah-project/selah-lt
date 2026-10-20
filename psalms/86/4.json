@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sielą",
+      "rationale": "נפש — gyvybės jėga, alsavimas, ne tik 'siela'"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas maldauja",
+      "rationale": "Tiesioginis kreipimasis į Adonai"
+    }
+  ],
+  "translation": "Pradžiugink savo tarno sielą, nes pas tave, Adonai, savo sielą iškeliu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/86\/1-4.1792488637468.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Pradžiugink"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sielą"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "savo tarno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savo sielą"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "iškeliu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:37.469367917Z",
+  "model": "glm-5.3"
+}

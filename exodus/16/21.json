@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valgį",
+      "rationale": "כפי אכלו — pažodžiui 'pagal savo valgymo burną': burna yra matas, ne porcija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "pakartotas 'rytas rytais' — kasrytinis ritmas, lietuvių kalboje perteikta 'ryto rytais'"
+    }
+  ],
+  "translation": "Ir jie rinko ⟨את⟩ jį ryto rytais, kiekvienas pagal savo valgį, o kai saulė įkaito, jis ištirpo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/16\/21-24.1792472570135.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ir jie rinko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ryto"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "rytais"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "pagal savo burną"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "valgį"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "o kai įkaito"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saulė"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "jis ištirpo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:50.137173046Z",
+  "model": "glm-5.3"
+}

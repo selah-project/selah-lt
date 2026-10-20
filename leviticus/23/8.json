@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "Hebrajų kalba neturi kopulos — praleistas veiksmažodis, pridėtas lietuvių kalboje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynias dienas",
+      "rationale": "Eilutė nustato septynių dienų laikotarpį ir septintosios dienos susirinkimą"
+    }
+  ],
+  "translation": "Ir aukosite ugnies auką Jahvei septynias dienas; septintąją dieną ⟨bus⟩ šventas susirinkimas; jokio vergiško darbo nedirbkite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/5-8.1792473629894.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "Ir aukosite"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies auką"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintąją"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "susirinkimas"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "vergiško"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dirbkite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:29.929337942Z",
+  "model": "glm-5.3"
+}

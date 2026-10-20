@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Lietuvių reikalauja objekto įvardžio „jį“ pažado įvykdymui, hebrajiškas veiksmažodis jo neturi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה verčiama transkripcija, ne „dovana“ ar „auka“"
+    }
+  ],
+  "translation": "Ir pažins Jahvę Micraimas, ir Micraimas pažins ⟨את⟩ Jahvę tą dieną, ir aukos skerdieną ir minchą, ir duos pažadą Jahvei ir įvykdys jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/21-24.1792480923131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ir bus pažintas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Micraimui"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir pažins"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ir aukos"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "skerdiena"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ir mincha"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "ir duos pažadą"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "pažadą"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ir įvykdys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:03.132156467Z",
+  "model": "glm-5.3"
+}

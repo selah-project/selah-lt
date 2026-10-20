@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "pasisotina",
+      "rationale": "KJV 'pilni syvų' — šaknis שבע čia greičiau 'gerokai pasimaitina' vandeniu iš 13 eilutės; pasirinkta 'pasisotina'."
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "לבנון veiksmo darėjas nėra įvardytas; 'jis' pridėta gramatiškai."
+    }
+  ],
+  "translation": "Pasisotina Jahvės medžiai, Libano kedrai, kuriuos jis pasodino.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/13-16.1792488811094.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Pasisotina"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "medžiai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "kedrai"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "pasodino"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:31.095116217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אראנו\/אשורנו",
+      "rationale": "du sinonimai 'regėti' ir 'apžiūrėti' — pakartota regėjimo pora, lietuvių kalboje skamba kaip du skirtingi žodžiai"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבדד",
+      "rationale": "'atskirai\/vienišai': tauta gyvenanti atsiskyrusi nuo tautų — viena Rebeccos tautų funkcija, kitos skaito kaip atskiro gyvenimo šlovę"
+    }
+  ],
+  "translation": "Nes iš uolų viršūnių aš jį regiu ir iš kalvų jį stebiu: šitai, tauta vieni gyvens, ir tarp tautų ji nebus skaitoma.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/9-12.1792474452696.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "iš viršūnių"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "uolų"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "aš jį regiu"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "ir iš kalvų"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "jį stebiu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "vieni"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ir tarp tautų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "bus skaitoma"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:12.697786180Z",
+  "model": "glm-5.3"
+}

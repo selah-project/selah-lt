@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Aharonui ir jo sūnums",
+      "rationale": "Tiesioginis kreipimasis į Aaroną, po Nadavo ir Abihudo mirties."
+    },
+    {
+      "kind": "substitution",
+      "subject": "svaigusis gėrimas",
+      "rationale": "שכר — apibendrintas apsinuodijimo gėrimas, ne tik 'stiprus alkoholis'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "Hebrajiškas prielinksnis 'su' išlaikytas kaip ⟨את⟩ žymuo lietuviškoje glose."
+    }
+  ],
+  "translation": "Vyno ir svaigiojo gėrimo negerk nei tu, nei tavo sūnūs ⟨את⟩ su tavimi, kai įeinate į susitikimo palapinę, kad nemirtumėte — amžinas įstatas jūsų kartoms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/10\/9-12.1792473303758.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ir svaigiojo gėrimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "gerk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ir tavo sūnūs"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "su tavimi ⟨את⟩"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "kai įeinate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susitikimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "mirtumėte"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "įstatymas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsų kartoms"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:03.760954311Z",
+  "model": "glm-5.3"
+}

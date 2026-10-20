@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את + asmens priesaga 'jį' — rodo į 'visą žodį', lietuviškai išreikšta žodžiu 'tą'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Įsakymas kreipiamas į Izraelį per 'jums' — tiesioginis adresatas"
+    }
+  ],
+  "translation": "⟨את⟩ visą žodį, kurį aš įsakau ⟨את⟩ jums, ⟨את⟩ tą saugokite vykdyti; nepridėk prie jo ir neatimk iš jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/1-4.1792475171664.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą žodį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "įsakau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tą"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saugokite"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "vykdyti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "pridėk"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "prie jo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "atimk"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:11.665801380Z",
+  "model": "glm-5.3"
+}

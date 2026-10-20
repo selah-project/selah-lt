@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "hebrajiškas שאל be veiksnio — 'tauta' iš konteksto, pridėta lietuviškai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "duona",
+      "rationale": "לחם — duona kaip maistas apskritai; čia mana, bet tekstas sako tik 'dangaus duona'"
+    }
+  ],
+  "translation": "Jie paprašė, ir jisis atnešė putpelių, ir dangaus duona pasotino juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/105\/37-40.1792488844475.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "jie paprašė"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atnešė"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "putpelių"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ir duoną"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "pasotino juos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:04.476018831Z",
+  "model": "glm-5.3"
+}

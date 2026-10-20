@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש — ne 'siela', o gyvybės jėga; קצר נפש — nekantra, pakantumo riba; KJV 'his soul was grieved'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותקצר נפשו",
+      "rationale": "Kieno nekantra: Jahvės (KJV, JPS) ar Jisraelio (kai kurie sekant עמל ישראל)? Čia laikoma — Jahvės"
+    }
+  ],
+  "translation": "Ir jie pašalino ⟨את⟩ svetimųjų dievus iš savo vidurio ir tarnavo ⟨את⟩ Jahvei; ir jo nekantra sutrumpėjo nuo Jisraelio vargo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/10\/13-16.1792476471870.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Ir jie pašalino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetimųjų dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "svetimųjų"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "iš savo vidurio"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ir tarnavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ir sutrumpėjo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo nekantra"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nuo vargo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:51.873783628Z",
+  "model": "glm-5.3"
+}

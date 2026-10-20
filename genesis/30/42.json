@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silpna",
+      "rationale": "עטף pažodžiui 'apsigaubti\/nukaršti' — vertėjai skaito 'silpnos\/ SILPNOS'; vaizdas — gyvuliai, apsivilkę plonu kailiu"
+    },
+    {
+      "kind": "elision",
+      "subject": "jų",
+      "rationale": "hebrajiškas ישים neturi priebalsio objekto — 'nedėdavo [lazdų]' suprantama iš 30,41 konteksto"
+    }
+  ],
+  "translation": "O kai kaimenė būdavo silpna, jis jų nedėdavo; ir būdavo, kad silpnieji atitekdavo Labanui, o stiprieji — Jaakovui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7def11520fd0a55328150e46a9097a7845e15b54accd58f7ec7c6a23d8a0863c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/30\/41-43.1792471615936.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "o kai būdavo silpna"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kaimenė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "dėdavo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir būdavo"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "silpnieji"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Labanui"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "o stiprieji"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovui"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:55.939847923Z",
+  "model": "glm-5.3"
+}

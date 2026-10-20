@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבער",
+      "rationale": "tą pati šaknį reiškia 'kvailas\/bukas' ir 'deginti' — žodžių žaismas: stabmeldys 'sudegė' iki bukumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח — kvėpavimas, vėjas, dvasia; stabai neturi kvapo gyvybės"
+    },
+    {
+      "kind": "addition",
+      "subject": "nuo \/ juose",
+      "rationale": "prielinksniai ir įvardis pridėti lietuvių gramatikai, hebrajų turi tik statuso konstrukcijas"
+    }
+  ],
+  "translation": "Bukas tapo kiekvienas žmogus ⟨nuo⟩ supratimo, susigėdo kiekvienas liejikas ⟨nuo⟩ stabo, nes jo lietais — apgaulė, ir nėra ⟨juose⟩ ruach.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/10\/13-16.1792482351032.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "bukas tapo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "⟨nuo⟩ supratimo"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "susigėdo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "liejikas"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "⟨nuo⟩ stabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "apgaulė"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "jo lietais"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨juose⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T07:45:51.034463105Z",
+  "model": "glm-5.3"
+}

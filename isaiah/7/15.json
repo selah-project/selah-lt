@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sviestas",
+      "rationale": "חמאה — rūgusio \/ varškėto pieno produktas, ne sviestas moderniąja prasme."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sviestas ir medus",
+      "rationale": "Maistas — laukinės, nusiaubtos žemės simbolis (plg. 7,22), ne prabangos."
+    }
+  ],
+  "translation": "Sviestas ir medų jis valgys, kad išmoktų atstumti pikta ir rinktis gera.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/7\/13-16.1792480662310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "sviestas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ir medaus"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "kad žinotų"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "atstumti"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "piktą"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "ir rinktis"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "gerą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:42.319681212Z",
+  "model": "glm-5.3"
+}

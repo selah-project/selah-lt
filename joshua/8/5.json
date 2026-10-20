@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' esamajame laike, pridėta 'bus'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניהם",
+      "rationale": "pažodžiui 'jų veidu (akivaizdoje)' — prieš juos \/ jų akyse"
+    }
+  ],
+  "translation": "Ir aš bei visa tauta, kuri ⟨את⟩ su manimi, prisiartinsime prie miesto; ir bus, kad kai jie išeis mums priešais, kaip pirmąkart, mes pabėgsime jų akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/8\/5-8.1792475846622.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ su manimi",
+      "marks": "su manimi"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "prisiartinsime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "išeis"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "mums priešais"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pirmąkart"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "pabėgsime"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "jų akyse"
+    }
+  ],
+  "timestamp": "2026-10-20T05:57:26.626542392Z",
+  "model": "glm-5.3"
+}

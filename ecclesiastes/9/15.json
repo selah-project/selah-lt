@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מסכן...המסכן",
+      "rationale": "Kartojamas tas pats žodis „neturtingasis” — kontrastas tarp išgelbėjimo ir užmiršimo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואדם",
+      "rationale": "„Žmogus” čia bendras — „niekas” ne visai tikslu, hebrajų sako „žmogus neprisiminė”."
+    }
+  ],
+  "translation": "Ir rastas jame vyras neturtingas, išmintingas, ir jis išgelbėjo ⟨את⟩ miestą savo išmintimi; bet žmogus neprisiminė ⟨את⟩ to neturtingojo vyro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/13-16.1792491302186.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ir rastas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "neturtingas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "išmintingas"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ir išgelbėjo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miestą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "savo išmintimi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "bet žmogus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "prisiminė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to neturtingojo vyro"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "neturtingojo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:02.187597764Z",
+  "model": "glm-5.3"
+}

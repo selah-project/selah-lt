@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teisūs",
+      "rationale": "צדיקים pagal D2 būtų cedek-šaknis, bet būdvardinis 'צדיק' čia reiškia 'teisųjį'; lentelė fiksuoja šaknies vienovę šventus dalykus"
+    },
+    {
+      "kind": "crux",
+      "subject": "להתפאר",
+      "rationale": "Hithpael: 'kad būčiau pašlovintas' vs JPS 'kuriais aš didžiuojuosi'; pasirinkta pasyvi reikšmė"
+    },
+    {
+      "kind": "you",
+      "subject": "Sione",
+      "rationale": "'tavo tauta' — kreipimasis į Sioną iš Iz 60 skyriaus monologo"
+    }
+  ],
+  "translation": "Ir tavo tauta — visi jie teisūs, per amžius jie paveldės žemę; ūglis, mano pasodintas sodinimas, mano rankų darbas, kad ⟨tuo⟩ šlovėčiausi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/60\/21-22.1792481854816.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "ir tavo tauta"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi jie"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "teisūs"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "jie paveldės"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ūglis"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "mano pasodintas sodinimas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano rankų"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "kad šlovėčiausi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:34.816833979Z",
+  "model": "glm-5.3"
+}

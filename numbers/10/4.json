@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tūkstančių galvos",
+      "rationale": "Struktūra pagal tūkstančius — karo ir sutelkimo skaičiavimo vienetas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אלפי",
+      "rationale": "„Tūkstančiai“ gali reikšti ir gimines\/klanus, ne tik skaičių 1000"
+    }
+  ],
+  "translation": "O jei į vieną pūs, susirinks pas tave vadai, Jisraelio tūkstančių galvos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec48da0700fefbb516884a805dba57a3c68612e51ba1ddd8845f108caf35819d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/10\/1-4.1792474092192.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jei"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "į vieną"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "pūs"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "susirinks"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "vadai"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:12.193858568Z",
+  "model": "glm-5.3"
+}

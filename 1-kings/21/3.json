@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "Pažodžiui 'toli nuo manęs nuo Jahvės' — priesaikos atmetimo formulė, įprastai 'ne duok Jahvė'."
+    },
+    {
+      "kind": "you",
+      "subject": "Navotas → Ahabas",
+      "rationale": "Navoto atsakymas tiesiogiai kreipiamas į karalių."
+    }
+  ],
+  "translation": "O Navotas tarė Ahabui: toli nuo manęs nuo Jahvės duoti ⟨את⟩ paveldėjimą mano tėvų tau!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01a5e0bb6a3783713ab68c36590379f09096fa3fcbca25581b35f1c5ef10ddde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/2-4.1792485587845.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navotas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabą"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "toli nuo manęs"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "nuo Jahvės"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "duoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paveldėjimą mano tėvų"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldėjimą"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mano tėvų"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T08:39:47.846913383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra šnekamojo veiksmažodžio — bevardė giminė lietuvių kalboje jo reikalauja."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kalendorius",
+      "rationale": "Mėnesių skaičiavimo ir metų pradžios nustatymas."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis per Mošę į visą bendruomenę."
+    }
+  ],
+  "translation": "Šis mėnuo jums — mėnesių galva, pirmasis jis jums metų mėnesių ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/1-4.1792472388124.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Šis mėnuo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mėnesių"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "pirmasis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "mėnesių"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "metų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:48.125854524Z",
+  "model": "glm-5.3"
+}

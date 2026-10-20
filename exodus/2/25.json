@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ir Elohim pažino",
+      "rationale": "וידע אלהים neturi objekto — 'Elohim pažino' be objekto vs pridėtas 'juos' (KJV 'had respect unto them', ASV 'took knowledge of them')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Lietuvių kalbai reikia objekto; hebrajiškame tekstė jis praleistas"
+    }
+  ],
+  "translation": "Ir Elohim pamatė ⟨את⟩ Jisraelio vaikus, ir Elohim pažino ⟨juos⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "49ad89dbcddadfe72b8195cda99bca004bdb2b4a60382f34451387ab6b0010c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/25-25.1792472056248.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio vaikus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "pažino"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:16.250164450Z",
+  "model": "glm-5.3"
+}

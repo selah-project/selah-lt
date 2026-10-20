@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebėjų kalboje nėra veiksmažodžio „būti“ — pridėta lietuvių kalbos griovio"
+    },
+    {
+      "kind": "crux",
+      "subject": "pirmųjų",
+      "rationale": "ראשנים: KJV „pirmųjų (protėvių)“ vs citeretorium „pirmosios sandros“ — kas buvo pirmieji, žmonės ar sandora"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sandora",
+      "rationale": "ברית verčiama kaip „sandora“, ne „paktas“ ar „sąjunga“ — viena forma visame Tanache"
+    }
+  ],
+  "translation": "Ir aš prisiminsiu jiems sandrą pirmųjų, kuriuos išvedžiau iš Micraimo žemės tautų akivaizdoje, būti jiems Elohim — aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/45-46.1792473780646.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Ir aš prisiminsiu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandora"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "pirmųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "išvedžiau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "juos — pirmuosius (protėvius)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "להית",
+      "gloss": "būti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:00.647177061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 12:11",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalboje be veiksmažodžio: 'aš jums ženklas'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio namams",
+      "rationale": "Pranašo veiksmas — ženklas namams, Dievo įsakymas jį paskelbti."
+    }
+  ],
+  "translation": "Sakyk: aš ⟨esu⟩ jums ženklas; kaip aš padariau, taip bus padaryta jiems — į tremtį, į nelaisvę jie eis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a875efaf8815459ff2378d6db2361dd8dafd85698f0e7801817bae6010309c87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/12\/9-12.1792483978163.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sakyk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מופתכם",
+      "gloss": "jums ženklas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "padariau"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bus padaryta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "į tremtį"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "į nelaisvę"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jie eis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:58.165962697Z",
+  "model": "glm-5.3"
+}

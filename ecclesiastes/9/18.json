@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“, lietuvių sakiniui jo reikia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טובה…טובה",
+      "rationale": "Eilutė prasideda ir baigiasi žodžiu טובה — chiazminis apėjimas, iš dalies prarandamas vertime."
+    }
+  ],
+  "translation": "Geresnė ⟨yra⟩ išmintis už karo įrankius, bet vienas nusidėjėlis pražudo daug gero.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/17-18.1792491247654.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Geresnė"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išmintis"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "už įrankius"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "karo"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "bet nusidėjėlis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "pražudo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gero"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daug"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:07.654870036Z",
+  "model": "glm-5.3"
+}

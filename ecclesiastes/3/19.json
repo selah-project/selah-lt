@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 3:19",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — trūkstama kopula pridėta lietuviškai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקרה ×3",
+      "rationale": "Trigubas kartojimas 'lemtis' — ritminė struktūra, lietuvių kalboje išlaikyta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "havel",
+      "rationale": "הבל — garas\/kvapas, tuštybė; paliktas kaip skambesys, tai Koheleto bazinis žodis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח — vienas žodis: kvapas, vėjas, dvasia; neverčiamas, kad išliktų dviprasmybė."
+    }
+  ],
+  "translation": "Nes žmonių sūnums — ⟨yra⟩ lemtis, ir gyvulių — ⟨yra⟩ lemtis, viena jiem lemtis: kaip miršta šis, taip miršta tas, ir vienas ruach visiems, ir žmogaus pranašumo prieš gyvulį ⟨nėra⟩ — nes visa — havel.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dfb8a8d82ebe75d74ded223b1ad854c5731910650ba362ccba8c0948f1750746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/3\/18-19.1792494256160.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "lemtis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "ir lemtis"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulių"
+    },
+    {
+      "surface": "ומקרה",
+      "gloss": "ir lemtis"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "kaip miršta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "מות",
+      "gloss": "miršta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ir ruach"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "ומותר",
+      "gloss": "ir pranašumas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulį"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havel"
+    }
+  ],
+  "timestamp": "2026-10-20T11:04:16.161266990Z",
+  "model": "glm-5.3"
+}

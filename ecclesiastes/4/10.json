@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "Šaknis אוי 'vargas'; čia persidengia 'o jei' ir 'vargas tam' — JPS skaito 'vargas vienišam', pažodžiui laikomasi 'o jei vienas kris'"
+    },
+    {
+      "kind": "addition",
+      "subject": "vargas jam",
+      "rationale": "Įterpta iš šaknies אוי, kuri slypi ואילו"
+    }
+  ],
+  "translation": "Nes jei jie kris, vienas pakels ⟨את⟩ savo draugą; o jei vienas kris — ⟨vargas jam⟩, nes nėra antrojo, kuris jį pakeltų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/4\/9-12.1792491192557.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "kris"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "pakels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo draugą"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "savo draugą"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kris"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "antrojo"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "pakelti jį"
+    }
+  ],
+  "timestamp": "2026-10-20T10:13:12.558429565Z",
+  "model": "glm-5.3"
+}

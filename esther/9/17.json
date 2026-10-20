@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas tekstas neturi veiksmažodžio — pridėta kopula su ⟨…⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "datos",
+      "rationale": "Eilutė skaičiuoja mėnesio Adaro dienas — trylikta, keturiolikta"
+    }
+  ],
+  "translation": "Tryliktoji mėnesio Adaro diena ⟨yra⟩ ⟨jiems⟩, o keturioliktąją jo ⟨dieną⟩ ilsėjosi ir padarė ⟨את⟩ ją vaišių ir džiaugsmo diena.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79510cfeb26d7ecae0168f2569aed7439651330c63e3ab7fc839d9eb7948e51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/9\/17-20.1792491558860.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trys"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adaro"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "ir ilsėjosi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "keturių"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dieną"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "vaišių"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ir džiaugsmo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:19:18.861338166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שקופים",
+      "rationale": "Šis būdvardis hebrajų Tanache minimas tik čia — reiškia sužiedrintus ar paslėptus langų rėmus."
+    },
+    {
+      "kind": "crux",
+      "subject": "šaqufim atumim",
+      "rationale": "Vertimai skiriasi: 'sutvirtinti, uždari' (JV', 'su žaliuzėmis' arba 'atidaryti plačiai viduje, siauri išorėje' (JPS) — hebrajiškas tekstas dviprasmis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaqufim atumim",
+      "rationale": "Rečiausias statybos terminas Tanache — paliktas kaip transliteruotas žodis, kad nebūtų prarastas originalus vaizdas."
+    }
+  ],
+  "translation": "Ir namui jis padarė langus — šaqufimus, sutrauktais rėmais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/1-4.1792478967938.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namui"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "langus"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "šaqufimus"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "sutrauktais rėmais"
+    }
+  ],
+  "timestamp": "2026-10-20T06:49:27.941362867Z",
+  "model": "glm-5.3"
+}

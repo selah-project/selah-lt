@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבלי משים",
+      "rationale": "'be pastangos' arba 'niekam nekreipiant dėmesio' arba 'be pėdsako' — dalykas be priežasties ar be stebėtojo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "jungtukas pridėtas lietuvių sintaksės laidai"
+    }
+  ],
+  "translation": "Nuo ryto iki vakaro jie sutriuškinami, ⟨ir⟩ be likimo — per amžius jie pražūsta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/4\/17-20.1792490043304.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Nuo ryto"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "iki vakaro"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "sutriuškinami"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "be"
+    },
+    {
+      "surface": "משים",
+      "gloss": "likimo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "pražūsta"
+    }
+  ],
+  "timestamp": "2026-10-20T09:54:03.305739615Z",
+  "model": "glm-5.3"
+}

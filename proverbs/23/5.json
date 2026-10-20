@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעוף",
+      "rationale": "Ta pati šaknis reiškia 'skristi' ir 'apalpti\/temti akyse': 'ar akyse tau aptems' arba 'ar išskris' — vertėjai skirtingai renkasi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשה יעשה",
+      "rationale": "Infinitivus absolutus — 'padarys padarys' — pabrėžtinis kartojimas, lietuviškai išskaidyta į 'padaręs pasidarys'."
+    }
+  ],
+  "translation": "Ar leisi savo akims išskrieti prie jo, o jo ⟨jau⟩ nebėra? Juk sau padarys sparnus, kaip erelis, ir nuskris į dangų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/23\/5-8.1792489894913.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "ar leisi išskrieti"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "savo akims"
+    },
+    {
+      "surface": "בו",
+      "gloss": "prie jo"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "o jo nebėra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padaręs"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "pasidarys"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sparnus"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaip erelis"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ir nuskris"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "į dangų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:51:34.913745682Z",
+  "model": "glm-5.3"
+}

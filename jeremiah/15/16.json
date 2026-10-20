@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 15:16",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tavo vardas buvo iškviestas ant manęs",
+      "rationale": "נקרא שמך עלי — 'tavo vardas iškviestas ant manęs' vs KJV 'aš esu vadinamas tavo vardu'; hebrajų constructas išlaikytas pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų participas praleidžia kopulą"
+    }
+  ],
+  "translation": "Buvo rasti tavo žodžiai, ir aš juos suvalgiau, ir tavo žodis man buvo džiaugsmui ir širdies linksmybei, nes tavo vardas buvo iškviestas ant manęs, Jahve, Elohim Cevaot.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/15\/13-16.1792482553144.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמצאו",
+      "gloss": "buvo rasti"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodžiai"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ir aš juos suvalgiau"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לששון",
+      "gloss": "džiaugsmui"
+    },
+    {
+      "surface": "ולשמחת",
+      "gloss": "ir linksmybei"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "buvo iškviestas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:13.147419641Z",
+  "model": "glm-5.3"
+}

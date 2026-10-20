@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 1:10",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כגילכם",
+      "rationale": "gi levanas gali reikšti ir 'amžių', ir 'valandą\/metų ratą' — 'jūsų amžiaus vaikai' vs 'jūsų bendraamžiai'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וחיבתם את ראשי למלך",
+      "rationale": "pažodžiui 'padarytumėte mano galvą kaltą karaliui' — lietuviškai 'kaltintumėte mano galvą', idiomos dalinis praradimas"
+    },
+    {
+      "kind": "you",
+      "subject": "Danieliui",
+      "rationale": "eunuchų valdovo kalba tiesiogiai kreipiamasi į Danielį"
+    }
+  ],
+  "translation": "Ir eunuchų valdovas tarė Danieliui: Aš bijauosi ⟨את⟩ savo valdovo, karaliaus, kuris paskyrė ⟨את⟩ jūsų maistą ir ⟨את⟩ jūsų gėrimą; kodėl jis matytų ⟨את⟩ jūsų veidus niūresnius nei vaikų, kurie jūsų amžiaus, ir jūs kaltintumėte ⟨את⟩ mano galvą karaliui?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/1\/9-12.1792491542033.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שר",
+      "gloss": "valdovas"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuchų"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danieliui"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bijauosi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo valdovo, karaliaus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "valdovo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "paskyrė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų maistą"
+    },
+    {
+      "surface": "מאכלכם",
+      "gloss": "jūsų maistą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jūsų gėrimą"
+    },
+    {
+      "surface": "משתיכם",
+      "gloss": "jūsų gėrimą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "matytų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų veidus"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "jūsų veidus"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "niūresnius"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nei"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "כגילכם",
+      "gloss": "jūsų amžiaus"
+    },
+    {
+      "surface": "וחיבתם",
+      "gloss": "ir kaltintumėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano galvą"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mano galvą"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    }
+  ],
+  "timestamp": "2026-10-20T10:19:02.034357633Z",
+  "model": "glm-5.3"
+}

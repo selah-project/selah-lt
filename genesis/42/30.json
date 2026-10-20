@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valdytojas",
+      "rationale": "אדני הארץ — 'žemės ponas\/valdytojas', žmogus, ne Dievas, todėl ne Adonai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "padarė mus šnipais",
+      "rationale": "ויתן אתנו כמרגלים — pažodžiui 'ir padėjo mus kaip šnipus'"
+    }
+  ],
+  "translation": "Kalbėjo ⟨את⟩ su mumis tas vyras, žemės valdytojas, atšiauriai ir padarė ⟨את⟩ mus šnipais ⟨את⟩ žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5933c0637e91465dd8ddabbdc8d586683311ae72728660062db239ddca332a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/29-32.1792471921920.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vyras"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "valdytojas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ su mumis"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "atšiauriai"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mus"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "šnipais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemės"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:01.922439289Z",
+  "model": "glm-5.3"
+}

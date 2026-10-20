@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vidudienis",
+      "rationale": "צהרים — dviskaita „dviguba šviesa“, vidudienis; dviskaitos forma lietuviškai prarandama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כאור \/ כצהרים",
+      "rationale": "Šviesa \/ dviguba šviesa — hebrajų kalboje fonetinis sąskambis, lietuvių kalboje neakivaizdus"
+    }
+  ],
+  "translation": "ir išves kaip šviesą tavo cedeką, o tavo teisę — kaip vidudienį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/5-8.1792487856484.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ir išves"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kaip šviesą"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tavo cedeką"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "o tavo teisę"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kaip vidudienį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:36.484724912Z",
+  "model": "glm-5.3"
+}

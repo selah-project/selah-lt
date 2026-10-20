@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 27:6",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šiena",
+      "rationale": "šן pažodžiui 'dantis' — čia dramblio kaulas"
+    },
+    {
+      "kind": "crux",
+      "subject": "bat-ašurim",
+      "rationale": "'Ašurimų dukteris' — KJV 'Ašūro bendruomenė', ASV\/JPS 'įdėta į medį (pušį\/kėną)'; hebrajiškas vaizdas dviprasmis"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משוט",
+      "rationale": "משוט 'irklas' Tanache retas, čia daugiskaita su galūne"
+    }
+  ],
+  "translation": "Iš Bašano ąžuolų jie padarė tavo irklus; tavo denį jie padarė iš šienos, Ašurimų dukters, iš Kitimų salų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb68945cd2dfb6c5526b0615606e03fd4832e266a4f84f0d022975654ec02bc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/27\/5-8.1792484564136.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלונים",
+      "gloss": "ąžuolų"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "iš Bašano"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jie padarė"
+    },
+    {
+      "surface": "משוטיך",
+      "gloss": "tavo irklus"
+    },
+    {
+      "surface": "קרשך",
+      "gloss": "tavo denį"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jie padarė"
+    },
+    {
+      "surface": "שן",
+      "gloss": "iš šienos"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Ašurimų dukters"
+    },
+    {
+      "surface": "אשרים",
+      "gloss": "Ašurimų"
+    },
+    {
+      "surface": "מאיי",
+      "gloss": "iš salų"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitimų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:22:44.136997777Z",
+  "model": "glm-5.3"
+}

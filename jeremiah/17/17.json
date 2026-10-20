@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Hebrajų kalba neturi kopulgos prie מחסי אתה — lietuvių reikalauja „esi“"
+    },
+    {
+      "kind": "crux",
+      "subject": "למחתה",
+      "rationale": "„ištirpimas, griuvėsiai, siaubas“: KJV „terror“, JPS „ruin“ — pasirinkta „pražūtis“ kaip abiejų pusė"
+    }
+  ],
+  "translation": "Nebūk man pražūtimi: mano prieglauda tu esi blogio dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5f3a97e9fd36d4cafd0ae33144cdf0145dbdc9b61d5b9e07560777f8d777984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/17\/17-20.1792482709094.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "pražūtimi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mano prieglauda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:51:49.095591886Z",
+  "model": "glm-5.3"
+}

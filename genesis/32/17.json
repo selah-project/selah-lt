@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 32:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tarpas",
+      "rationale": "רוח čia reiškia atstumą, tarpą — ne dvasią ir ne vėją"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "šnekos žymuo prieš „tarnams“ lietuviškai nebereikalingas"
+    }
+  ],
+  "translation": "Ir jis atidavė į savo tarnų rankas kiekvieną bandą atskirai, ir tarė savo tarnams: Pereikite mano akivaizdoje, ir padarykite tarpą tarp bandos ir tarp bandos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/17-20.1792471628745.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ir atidavė"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į rankas"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savo tarnų"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "bandą"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "bandą"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "atskirai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savo tarnams"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pereikite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mano akivaizdoje"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "tarpą"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "padarykite"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "bandos"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "bandos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:08.747155886Z",
+  "model": "glm-5.3"
+}

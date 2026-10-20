@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žmonija",
+      "rationale": "בשר 'kūnas, mėsa, viskas, kas turi kūną' čia apima visą gyvą kūną"
+    },
+    {
+      "kind": "you",
+      "subject": "Noachui",
+      "rationale": "Elohim kreipiasi tiesiogiai į Noachų"
+    }
+  ],
+  "translation": "Ir Elohim tarė Noachui: visos žmonijos galas atėjo prieš mane, nes žemė pilna smurto dėl jų; ir štai aš juos naikinsiu kartu su ⟨את⟩ žeme.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/6\/13-16.1792471128440.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noachui"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "galas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "žmonijos"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "smurto"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "dėl jų"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "ir štai aš"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "juos naikinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žeme"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žeme"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:48.441923022Z",
+  "model": "glm-5.3"
+}

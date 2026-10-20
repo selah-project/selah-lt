@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Šaulio atsakymas",
+      "rationale": "Šaulis „Atnešiau ⟨את⟩ Agagą... ⟨את⟩ Amaleką skyriau chermui“ — pats jo teisinimasis apnuogina nesąžiningumą: Agagas gyvas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chermui",
+      "rationale": "החרם — skirti chermui, visiškam sunaikinimui kaip pašventintam"
+    }
+  ],
+  "translation": "Ir tarė Šaulis Šmueliui: Kad klusau į Jahvės balsą ir ėjau keliu, kuriuo Jahvė mane siuntė, ir atvedžiau ⟨את⟩ Agagą, Amaleko karalių, o ⟨את⟩ Amaleką skyriau chermui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/17-20.1792477312668.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmueliui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "klusau"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "į balsą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ir ėjau"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "keliu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "siuntė mane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "ir atvedžiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagą"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "Amaleką"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleką"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "skyriau chermui"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:52.672198337Z",
+  "model": "glm-5.3"
+}

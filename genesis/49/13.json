@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 49:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajiškame nėra veiksmažodžio, pridėta ⟨bus⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירכתו",
+      "rationale": "„šonas\/pakraštys“ — KJV „riba“, JPS „šonas“; laikomasi žodžio formos"
+    },
+    {
+      "kind": "you",
+      "subject": "Zevulunui",
+      "rationale": "Jokūbo palaiminimas tiesiogiai kreipiasi į Zevuluną"
+    }
+  ],
+  "translation": "Zevulunas prie jūrų įlankos gyvens, ir jis bus įlanka laivams, ir jo šonas ⟨bus⟩ iki Cido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/13-16.1792472073813.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulunas"
+    },
+    {
+      "surface": "לחוף",
+      "gloss": "prie įlankos"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūrų"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "לחוף",
+      "gloss": "įlanka"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laivams"
+    },
+    {
+      "surface": "וירכתו",
+      "gloss": "ir jo šonas"
+    },
+    {
+      "surface": "על",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Cido"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:33.905959344Z",
+  "model": "glm-5.3"
+}

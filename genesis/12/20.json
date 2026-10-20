@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "אשר לו — pažodžiui „kas jam“; lietuvių kalbai reikia veiksmažodžio."
+    }
+  ],
+  "translation": "Ir faraonas įsakė dėl jo vyrams, ir jie išsiuntė ⟨את⟩ jį ir ⟨את⟩ jo žmoną, ir ⟨את⟩ viską, kas jam buvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/17-20.1792471214915.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ir įsakė"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dėl jo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonas"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrams"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ir jie išsiuntė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo žmoną"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jo žmoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "viską"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam ⟨buvo⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:14.916680668Z",
+  "model": "glm-5.3"
+}

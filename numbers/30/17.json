@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio „būti“; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "įstatymų sąrašo uždarymas",
+      "rationale": "Eilutė apibendrina ir užbaigia įstatymų rinkinį — teisinis-ataskaitinis sandas"
+    }
+  ],
+  "translation": "Šie yra įstatymai, kuriuos įsakė Jahvė ⟨את⟩ Mošei — tarp vyro ir jo žmonos, tarp tėvo ir jo dukters, jos jaunystės dienomis tėvo namuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/30\/17-17.1792474698403.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "įstatymai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ir jo žmonos"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ir jo dukters"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "jos jaunystės dienomis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "jos tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:18.404427771Z",
+  "model": "glm-5.3"
+}

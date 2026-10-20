@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההוא",
+      "rationale": "Pabrėžiamasis įvardis: „ar tas [vyras] pasakė ir nepadarys?“ — KJV „Jis“, JPS „kai Jis pasakė“; lietuviškame Klausiamajame sakinyje pridėta ⟨ar⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gailėtųsi",
+      "rationale": "נחם pažodžiui „atsikvėpti, atgailauti“ — čia „pakeisti sprendimą“, ne atgaila."
+    }
+  ],
+  "translation": "Ne žmogus Elas, kad meluotų, ir ne žmogaus sūnus, kad gailėtųsi: ⟨ar⟩ jis pasakė ir nepadarys, ⟨ar⟩ kalbėjo ir neįvykdys?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/17-20.1792474485172.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elas"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "kad meluotų"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ir sūnus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "kad gailėtųsi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ar⟩ jis"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "padarys"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "neįvykdys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:45.174888577Z",
+  "model": "glm-5.3"
+}

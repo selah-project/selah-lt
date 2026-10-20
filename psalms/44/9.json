@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šloviname⟩",
+      "rationale": "Hebrajų prielinksnis ב reiškia „Elohim [dėka]“ — lietuviškam sakiniui reikia veiksmažodžio su žodžiu Elohim adverbialiu vaidmeniu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išpažįstame",
+      "rationale": "נודה iš ידה — „mesti, lankstyti (ranką)“, t. y. garbinti ištiestomis rankomis, ne tik žodžiu"
+    }
+  ],
+  "translation": "Elohim ⟨šloviname⟩ visą dieną, ir tavo vardą iki amžių išpažįstame. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/44\/9-12.1792487960647.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "šloviname"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ir tavo vardą"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iki amžių"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "išpažįstame"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:20.648112194Z",
+  "model": "glm-5.3"
+}

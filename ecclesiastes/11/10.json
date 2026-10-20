@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksnio sakinio 'הילדות והשחרות הבל' — lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "juosvumas",
+      "rationale": "השחרות iš שחר 'juodas' — juodaplaukė jaunystė; 'juosvumas' laiko žodžio paveikslą"
+    },
+    {
+      "kind": "you",
+      "subject": "jaunajam",
+      "rationale": "tęsia tiesioginį kreipimąsi į jaunąjį iš 11,9"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hevel",
+      "rationale": "galima 'tuštybė', bet hevel — pasikartojantis Mokytojo žodis (hebel, 'kvapas'), išlaikomas skambesiu"
+    }
+  ],
+  "translation": "Ir atšauk rūstį nuo savo širdies, ir atitolink blogį nuo savo kūno, nes vaikystė ir juosvumas ⟨yra⟩ hevel.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/11\/9-10.1792491378629.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Ir atšauk"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "rūstį"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "nuo savo širdies"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ir atitolink"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogį"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "nuo savo kūno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "vaikystė"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ir juosvumas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-10-20T10:16:18.629712531Z",
+  "model": "glm-5.3"
+}

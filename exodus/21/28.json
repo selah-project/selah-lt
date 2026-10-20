@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סקול יסקל",
+      "rationale": "Nepilnas veiksmažodžio kartojimas — „akmenimis būtinai bus užmuštas“; lietuvių kalboje tai atlikta prieveiksmiu „būtinai“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "užsmežo",
+      "rationale": "נגח pažodžiui „ smeigti ragais“ — veiksmažodis apima ir ragų dūrimą, ir puolimą apskritai."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩ miršta",
+      "rationale": "Hebrajų ומת be veikėjo; lietuvių kalbai reikia prisegtos santykinės nuorodos."
+    }
+  ],
+  "translation": "Ir jeigu jautis užsmežo ⟨את⟩ vyrą arba ⟨את⟩ moterį ir ⟨tas⟩ miršta, jautis būtinai užmušamas akmenimis, ir jo mėsos negalima valgyti, o jaučio šeimininkas nekaltas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/25-28.1792472644679.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ir jeigu"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "užsmežo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jautis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyrą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moterį"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moterį"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ir miršta"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "užmušamas akmenimis"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "būtinai bus užmuštas"
+    },
+    {
+      "surface": "השור",
+      "gloss": "jautis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo mėsą"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jo mėsą"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "o šeimininkas"
+    },
+    {
+      "surface": "השור",
+      "gloss": "jaučio"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nekaltas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:04.689834045Z",
+  "model": "glm-5.3"
+}

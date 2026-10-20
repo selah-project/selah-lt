@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 18:27",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש yra „gerklė, kvapas, gyvybės jėga“, ne nemateriali siela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפשו יחיה",
+      "rationale": "pažodžiui „savo nefę pagyvins“ — lietuvių „išlaikys gyvą“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וצדקה",
+      "rationale": "„cedeka“ pagal D2; kitas skaitymas — „teisumingumą“"
+    }
+  ],
+  "translation": "O kai nedorėlis nusigręžia nuo savo nedorybės, kurią darė, ir daro teismą bei cedeką — jis ⟨את⟩ savo gyvybę išlaikys gyvą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "864b819036b539c4b0bb4dee775955bcb51c34b789c2b2763f92bf39bcba4473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/18\/25-28.1792484269048.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "o kai nusigręžia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėlis"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "nuo savo nedorybės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darė"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ir daro"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ir cedeką"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo gyvybę"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savo gyvybę"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "išlaikys gyvą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:17:49.049630621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Įvertinamasis „jis“ pridėta lietuvių kalbos struktūrai"
+    },
+    {
+      "kind": "crux",
+      "subject": "למס עבד",
+      "rationale": "„priverstinio darbo mokesčio vergas“ — žodžių tvarka hebrajiškai „ir tapo vergu mokesčiui“"
+    }
+  ],
+  "translation": "Ir pamatė poilsį, kad ⟨jis⟩ geras, ir ⟨את⟩ žemę, kad ji maloni, ir palenkė savo pečią nešti, ir tapo mokesčių mokėtoju vergu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/13-16.1792472073813.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ir pamatė"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "poilsį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žemę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "maloni"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ir palenkė"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "savo pečią"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "nešti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mokesčių mokėtoju"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:33.908013809Z",
+  "model": "glm-5.3"
+}

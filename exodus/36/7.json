@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medžiaga",
+      "rationale": "מלאכה čia reiškia atneštą medžiagą, ne patį darbą — KJV 'stuff'; hebrajiškas žodis tas pats, kaip v. 6 'darbas'."
+    }
+  ],
+  "translation": "Ir ⟨medžiagos⟩ buvo užtektinai visam darbui ⟨את⟩ jį padaryti — ir dar liko pertekliaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "70e0a573d22175f2d62c4d148e418f6016907ff583f2ef00d4e4230758561f65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/36\/5-8.1792473068306.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Ir medžiagos"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "דים",
+      "gloss": "užtektinai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "darbui"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "padaryti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jį",
+      "marks": "darbą"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ir dar liko pertekliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:08.311122586Z",
+  "model": "glm-5.3"
+}

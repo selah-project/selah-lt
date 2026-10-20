@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žmogų",
+      "rationale": "נפש — kvėpuojanti gyvybė, asmens gyvenimas, ne atskira „siela“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי עדים",
+      "rationale": "Pažodžiui „pagal liudytojų burną“ — lietuviškai „pagal liudytojų ⟨žodį⟩“"
+    },
+    {
+      "kind": "addition",
+      "subject": "žodį",
+      "rationale": "Pridėta skliaustuose, nes „burna“ viena manytų keistai"
+    }
+  ],
+  "translation": "Kas tik nukaus žmogų, pagal liudytojų ⟨žodį⟩ turi būti nužudytas ⟨את⟩ žudikas; o vienas liudytojas negali liudyti prieš žmogų, kad jis mirtų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/29-32.1792474799512.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kas tik"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nukaus"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pagal burną"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "liudytojų"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "turi būti nužudytas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žudikas"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žudikas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "o liudytojas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "negali"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "liudyti"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "prieš žmogų"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kad mirtų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:59.515433453Z",
+  "model": "glm-5.3"
+}

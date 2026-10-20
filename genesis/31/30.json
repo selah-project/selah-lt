@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך הלכת \/ נכסף נכספתה",
+      "rationale": "Dvigubas infinitivo absoliutas — 'eidamas išėjai, ilgėdamasis ilgeisi' — stiprinamoji struktūra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "אלהי čia Lavano stabai — mažąja raide 'dievus', ne Elohim Vardo forma."
+    }
+  ],
+  "translation": "Ir dabar, kadangi tu išėjai — nes labai ilgeisi savo tėvo namų, — kodėl pavogei ⟨את⟩ mano dievus?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/29-32.1792471658229.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "eidamas"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "tu išėjai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "labai ilgėdamasis"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "tu ilgeisi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "pavogei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano dievus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:38.232302951Z",
+  "model": "glm-5.3"
+}

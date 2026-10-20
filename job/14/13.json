@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 14:13",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Hebrajų optinė formulė 'kas duotų' — noro išraiška, ne klausimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "Lit. 'tavo nosis\/veidas' — Hebraus idiomas reiškia įniršį."
+    },
+    {
+      "kind": "secret",
+      "subject": "šeolas",
+      "rationale": "Šeolas — paslėptumo vieta: Hiobas prašo būti paslėptas, kol praūžs įniršis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "חק",
+      "rationale": "Paskirtas laiko terminas — skaičiavimo motyvas."
+    }
+  ],
+  "translation": "Kas gi duotų, kad šeole mane paslėptum, kad mane paslėptum, kol atsigręš tavo įnirsis, kad paskirtum man terminą ir mane atsimintum!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3087ca0decee4a556cb3ce3aed10884c8f681cccec4703ecfed155bbec7f3a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/14\/13-16.1792490308910.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duotų"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "šeole"
+    },
+    {
+      "surface": "תצפנני",
+      "gloss": "paslėptum mane"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "paslėptum mane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "atsigręš"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tavo įnirsis"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "paskirtum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "חק",
+      "gloss": "terminą"
+    },
+    {
+      "surface": "ותזכרני",
+      "gloss": "ir mane atsimintum"
+    }
+  ],
+  "timestamp": "2026-10-20T09:58:28.911251061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 7:9",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "obuolių",
+      "rationale": "תפוח — greičiausiai kvapnusis obuolas, galbūt citrinvas; obuolys — priimtina, bet ne vienareikšmė"
+    },
+    {
+      "kind": "addition",
+      "subject": "jos",
+      "rationale": "Lietuvių reikalauja visaždžio priesagos ה-, hebrajų artikelis neverčiamas"
+    }
+  ],
+  "translation": "Tariau: užlipsiu į finikę, įsitversiu jos šakelių — ir tepabūna tavo krūtys kaip vynmedžio kekės, o tavo nosies kvapas kaip obuolių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/7\/9-12.1792490934408.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Tariau"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "užlipsiu"
+    },
+    {
+      "surface": "בתמר",
+      "gloss": "į finikę"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "įsitversiu"
+    },
+    {
+      "surface": "בסנסניו",
+      "gloss": "jos šakelių"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ir tepabūna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "tavo krūtys"
+    },
+    {
+      "surface": "כאשכלות",
+      "gloss": "kaip kekės"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "vynmedžio"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "o kvapas"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tavo nosies"
+    },
+    {
+      "surface": "כתפוחים",
+      "gloss": "kaip obuolių"
+    }
+  ],
+  "timestamp": "2026-10-20T10:08:54.409138076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 13:9",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra sangraudos — pridėta lietuviška ⟨yra⟩ „Jahvė yra mano Elohim“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atsiliepsiu",
+      "rationale": "אענה — atsiliepsiu, bet hebrajiškai veiksmas rašomas su ⟨את⟩ prijungtiniu objektu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trečioji dalis",
+      "rationale": "Eilutė tęsia trečiosios dalies skaičiavimą iš 13,8 — dalis, kuri lieka."
+    }
+  ],
+  "translation": "Ir įvesiu ⟨את⟩ trečiąją dalį į ugnį ir išgryninsiu juos, kaip gryninaamas sidabras, ir išmėginsiu juos, kaip išmėginamas auksas. Jis šauksis mano vardo, ir aš atsiliepsiu ⟨jį⟩. Pasakysiu: mano tauta jis, ir jis sakys: Jahvė ⟨yra⟩ mano Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/13\/9-9.1792487194688.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "ir įvesiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trečiąją dalį"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "trečiąją dalį"
+    },
+    {
+      "surface": "באש",
+      "gloss": "į ugnį"
+    },
+    {
+      "surface": "וצרפתים",
+      "gloss": "ir išgryninsiu juos"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "kaip gryninaamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sidabras"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "ir išmėginsiu juos"
+    },
+    {
+      "surface": "כבחן",
+      "gloss": "kaip išmėginamas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auksas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "auksas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "šauksis"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mano vardo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "atsiliepsiu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "pasakysiu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T09:06:34.690328079Z",
+  "model": "glm-5.3"
+}

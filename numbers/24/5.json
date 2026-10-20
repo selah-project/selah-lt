@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהליך\/כאהלים",
+      "rationale": "hebrajiškai אהליך (palapinės, v. 5) skamba taip pat kaip אהלים (almedžiai, v. 6) — šis sąskambis lietuviškai prarandamas"
+    },
+    {
+      "kind": "elision",
+      "subject": "yra",
+      "rationale": "hebrajiškai nėra veiksmažodžio 'yra' — šauksmo forma 'Kokie geri [yra]...'"
+    }
+  ],
+  "translation": "Kokie geri tavo palapinės, Jaakovai, tavo miškanai, Jisraeli!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/24\/5-8.1792474443110.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kokie"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "geri"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "tavo palapinės"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovai"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "tavo miškanai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:03.111257053Z",
+  "model": "glm-5.3"
+}

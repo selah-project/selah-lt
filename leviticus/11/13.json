@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפרס",
+      "rationale": "Paukščio tapatybė neaiški: lūžtuvą turintis erelis, barzdotasis grifas arba according to some osprey — vertėjai nesutaria."
+    },
+    {
+      "kind": "hapax",
+      "subject": "העזניה",
+      "rationale": "Pavadinimas visame Tanache vartojamas tik čia — paukščio tapatybė neaiški."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šqec",
+      "rationale": "שקץ verčiamas skambesiu, ne žodžiu 'niekšystė' — viena šaknis eilutėje pakartota."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ šituos jūs laikysite nešvariais tarp paukščių — jų negalima valgyti, jie — šqec: ⟨את⟩ erelis, ⟨את⟩ peresas ir ⟨את⟩ azniją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/13-16.1792473288045.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "šituos"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šituos"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "laikysite nešvariais"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "paukščių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "galima valgyti"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "šqec"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erelis"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "erelis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "peresas"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "peresas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "azniją"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azniją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:48.046632380Z",
+  "model": "glm-5.3"
+}

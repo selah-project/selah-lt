@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 18:37",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje — pridėta jungties"
+    },
+    {
+      "kind": "crux",
+      "subject": "הסבת את לבם אחרנית",
+      "rationale": "'Tu atsukei jų širdis atgal': kas atsuko — Jahvė ar Elijas (kaip kai kurie verčia)?"
+    },
+    {
+      "kind": "you",
+      "subject": "Elijaus malda",
+      "rationale": "Tiesioginis kreipimasis į Jahvę"
+    }
+  ],
+  "translation": "Atsakyk man, Jahve, atsakyk man, ir težino šis tauta, kad Tu ⟨yra⟩ Jahvė, Elohim, ir kad Tu atsukei ⟨את⟩ jų širdis atgal.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e73263b2b224ed270ab18371faed27b323945380c3fc4ae3262dbdbd1b3b0a08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/37-40.1792479601455.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Atsakyk man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "atsakyk man"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir težino"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ir kad Tu"
+    },
+    {
+      "surface": "הסבת",
+      "gloss": "atsukai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų širdis"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "jų širdis"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "atgal"
+    }
+  ],
+  "timestamp": "2026-10-20T07:00:01.455922114Z",
+  "model": "glm-5.3"
+}

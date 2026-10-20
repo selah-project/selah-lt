@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 4:6",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המס",
+      "rationale": "מס — prievartinis darbas ir mokestis darbu; „prievartiniai darbai“ vietoj bendro „mokestis“"
+    }
+  ],
+  "translation": "ir Achišaras ⟨buvo⟩ virš namų, ir Adoniramas, Abdos sūnus, ⟨buvo⟩ virš prievartinių darbų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/4\/5-8.1792478874375.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחישר",
+      "gloss": "ir Achišaras"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "ואדנירם",
+      "gloss": "ir Adoniramas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עבדא",
+      "gloss": "Abda"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "המס",
+      "gloss": "prievartinių darbų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:54.376690669Z",
+  "model": "glm-5.3"
+}

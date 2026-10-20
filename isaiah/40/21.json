@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų pasyvui lietuvių reikia pagalbinio veiksmažodžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלוא",
+      "rationale": "keturiskart pakartotas klausimas — retorinė litota, klustelbiantis klausimų šuoras"
+    },
+    {
+      "kind": "invitation",
+      "subject": "keturi klausimai",
+      "rationale": "eilutė tiesiogiai kreipiasi į klausytoją per pakartotinus klausimus"
+    },
+    {
+      "kind": "you",
+      "subject": "Jokūbo palikuonims",
+      "rationale": "kreipimasis į Išajaus klausytojus (Izraelį)"
+    }
+  ],
+  "translation": "Ar nežinote? Ar negirdėjote? Ar nebuvo paskelbta jums nuo pradžios? Ar nesupratote žemės pamatų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/40\/21-24.1792481543718.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "žinote"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "girdėjote"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "buvo paskelbta"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "nuo pradžios"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "supratote"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "pamatų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:23.720088277Z",
+  "model": "glm-5.3"
+}

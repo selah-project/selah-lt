@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנאת\/יקנא",
+      "rationale": "to paties šaknies pavydas\/pavydėti kartojimas dviejose eilutės pusėse, lietuviškai išlieka."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וצררי",
+      "rationale": "„Jehudos priešai“ arba „tie, kurie Jehudą spaudžia“ — צרר reiškia ir priešiškumą, ir suspaudimą."
+    }
+  ],
+  "translation": "Ir nusisuks Efraimo pavydas, ir Jehudos spaudėjai bus nukirsti: Efraimas nepavydės ⟨את⟩ Jehudos, o Jehuda nespaus ⟨את⟩ Efraimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/11\/13-16.1792480866301.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ir nusisuks"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "pavydas"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ir spaudėjai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bus nukirsti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "pavydės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "o Jehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "spaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraimo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:06.303677114Z",
+  "model": "glm-5.3"
+}

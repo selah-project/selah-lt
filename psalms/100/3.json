@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אנחנו",
+      "rationale": "Keturi skaitmenys: 'o ne mes patys', 'ir mes esame jo', 'jo mes esame' (imperatyvas), 'jo — mes'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiška sakinio dalis neturi veiksmažodžio; lietuvių kalba reikalauja 'yra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרעיתו",
+      "rationale": "מרעית — 'ganykla' (vieta), KJV 'his pasture' kartu su 'sheep' — metafora lietuviškai perteikta per 'ganyklos kaimenė'"
+    }
+  ],
+  "translation": "Žinokite, kad Jahvė ⟨yra⟩ Elohim; ⟨jis⟩ padarė mus, o ne mes ⟨patys⟩; ⟨esame⟩ jo tauta ir jo ganyklos kaimenė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/100\/1-4.1792488808631.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "žinokite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨jis⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "padarė mus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes ⟨patys⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo tauta"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ir kaimenė"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "jo ganyklos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:28.632117418Z",
+  "model": "glm-5.3"
+}

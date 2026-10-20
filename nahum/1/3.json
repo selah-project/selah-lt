@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Pažodžiui „ilgi nosis\/šnervės“ — idiomą reiškia „lėtas rūstybėn, kantrus“."
+    },
+    {
+      "kind": "addition",
+      "subject": "kaltųjų",
+      "rationale": "Hebrajiškas ונקה לא ינקה „neišvaldęs neišvalys“ — infinitivus absolutus neturi objekto; „kaltųjų“ pridėta dėl aiškumo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקה\/ינקה",
+      "rationale": "To paties veiksmažodžio kartojimas su neiginiais — pabrėžianti nepajudinamumo figūra."
+    }
+  ],
+  "translation": "Jahvė lėtas rūstybėn ir didis jėga, ir neužtaria kaltųjų: Jahvei — jo kelias viesule ir audroje, o debesys — jo kojų dulkės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nahum\/1\/1-4.1792486955554.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lėtas"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "rūstybėn"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ir didis"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ir neužtaria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "užtaria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "viesule"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "ir audroje"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jo kelias"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "o debesys"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "dulkės"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jo kojų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:02:35.557029101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן חמש ושבעים שנה",
+      "rationale": "Pažodžiui „septyniasdešimt ir penkerių metų sūnus“ — hebrajiškas amžiaus sakymas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septyniasdešimt penkeri metai",
+      "rationale": "Amžiaus skaičius nurodomas tiksliai"
+    }
+  ],
+  "translation": "Ir Avramas išėjo, kaip buvo jam kalbėjęs Jahvė, ir Lotas ėjo su ⟨את⟩ juo; o Avramui buvo septyniasdešimt penkeri metai, kai jis išėjo iš Charano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "48dae3107b717a84488cb1e3640694173b75f57bbc269dd139f107c20e0f6a0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/1-4.1792471231470.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ir išėjo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "buvo kalbėjęs"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "su juo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotas"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "o Avramui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "buvo ⟨metų⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "penkeri"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metai"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ir septyniasdešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kai jis išėjo"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "iš Charano"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:31.472660234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 29:29",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלא את יד",
+      "rationale": "Hebrajiškas idiomatas 'užpildyti ranką' = pašventinti kunigystėn; išlaikytas pažodžiui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למשחה",
+      "gloss-fallback": "",
+      "rationale": "Pašventimo patepimo veiksmas — 'patepti', ne 'paskirti'."
+    }
+  ],
+  "translation": "Ir šventieji drabužiai, kurie yra Aharonui, tebūna jo sūnums po jo, kad juose būtų patepti ir kad juose būtų užpildyta ⟨את⟩ jų ranka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "61ff768f0e41d42f0ce194214e82b726afcc6a7836771006f1c0f7e091784123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/29-32.1792472824903.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגדי",
+      "gloss": "ir drabužiai"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventieji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tebūna"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "jo sūnums"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po jo"
+    },
+    {
+      "surface": "למשחה",
+      "gloss": "kad būtų patepti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "ולמלא",
+      "gloss": "ir kad būtų užpildyta"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų ranka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jų ranka"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:04.904175789Z",
+  "model": "glm-5.3"
+}

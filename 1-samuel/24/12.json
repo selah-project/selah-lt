@@ -1,0 +1,162 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראה גם ראה \/ דע וראה",
+      "rationale": "dvigubas įsakymas „pažiūrėk, taip pažiūrėk“ ir „žinok ir pamatyk“ — retorinis kartojimas, lietuviškai išlaikytas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefeš — geriau „gyvybė“ nei „siela“; žodis reiškia alsuojančią gyvybę"
+    },
+    {
+      "kind": "you",
+      "subject": "Šauliui",
+      "rationale": "Davido kreipimasis „mano tėve“ — garbingas kreipinys į karalių, ne biologinis tėvas"
+    }
+  ],
+  "translation": "Ir mano tėve, pažiūrėk — taip, pažiūrėk ⟨את⟩ savo apsiausto kraštą mano rankoje, nes aš nukirpau ⟨את⟩ tavo apsiausto kraštą ir nenžudžiau tavęs. Žinok ir pamatyk, kad mano rankoje nėra blogio nei nusikaltimo, ir aš nenusidėjau tau, o tu medžioji ⟨את⟩ mano gyvybę, kad atimtum ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/9-12.1792477639162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "Ir mano tėve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pažiūrėk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pažiūrėk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraštą"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kraštą"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "tavo apsiausto"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mano rankoje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "aš nukirpau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraštą"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kraštą"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "tavo apsiausto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "nžudžiau tavęs"
+    },
+    {
+      "surface": "דע",
+      "gloss": "Žinok"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ir pamatyk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mano rankoje"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogio"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "nusikaltimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nusidėjau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "medžioji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyvybę"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybę"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "kad atimtum ją"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:19.167202577Z",
+  "model": "glm-5.3"
+}

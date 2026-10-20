@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Laikas veikti Jahvei",
+      "rationale": "עת לעשות ליהוה: 'laikas, kai Jahvė turi veikti' arba 'laikas Jahvei veikti'; KJV 'for thee, LORD, to work' vs YLT 'for Jehovah to work'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Torą",
+      "rationale": "תורה išlaikomas kaip Tora, ne 'įstatymas'."
+    }
+  ],
+  "translation": "Laikas veikti Jahvei — jie panaikino tavo Torą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "095805a4d67a7ce4febdb9a397e0d36a56f1924d64f8ef20eb9b5d33d8d2a3d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/125-128.1792489120010.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Laikas"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "veikti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "jie panaikino"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tavo Torą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:40.011645191Z",
+  "model": "glm-5.3"
+}

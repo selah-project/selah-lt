@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškas אשר מתחת nėra veiksmažodžio; lietuvių reliatyvinis sakinys jo reikalauja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין…בין",
+      "rationale": "Kartojamas „tarp… ir tarp” sudaro simetrišką padalijimo struktūrą — vandenys apačioje ir vandenys viršuje."
+    }
+  ],
+  "translation": "Ir Elohim padarė ⟨את⟩ skliautą ir perskyrė vandenis, kurie ⟨yra⟩ po skliautu, ir vandenis, kurie ⟨yra⟩ virš skliauto; ir tapo taip.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/5-8.1792471050932.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skliautą"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "skliautą"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ir perskyrė"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandenų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "skliautu"
+    },
+    {
+      "surface": "וין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandenų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "virš"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "skliauto"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:30.937734985Z",
+  "model": "glm-5.3"
+}

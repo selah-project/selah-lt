@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 18:6",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame tekste nėra būtojo laiko veiksmažodžio — „jums dovana“ yra beveik be veiksmažodžio konstrukcija."
+    },
+    {
+      "kind": "crux",
+      "subject": "נתנים ליהוה",
+      "rationale": "„atiduoti Jahvei“ arba „duoti Jahvės (dovana)“ — priklauso nuo to, ar ל priskiriama Jahvei kaip davėjui, ar kaip gavėjui."
+    }
+  ],
+  "translation": "O aš, štai, paėmiau ⟨את⟩ jūsų brolius levitus iš vidurio Jisraelio vaikų — jums ⟨yra⟩ dovana, atiduoti Jahvei, atlikti ⟨את⟩ Susitikimo palapinės tarnybą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41e449fae83bf3008b62ecd12719ffd04901d52e4a220a19d6c6c531a19fc611",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/18\/5-8.1792474297473.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "paėmiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų brolius levitus"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų brolius"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "dovana"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "atiduoti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "atlikti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Susitikimo palapinės tarnybą"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tarnybą"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susitikimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:31:37.475124975Z",
+  "model": "glm-5.3"
+}

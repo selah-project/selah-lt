@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — „Jahvė už mane“ be kopulos"
+    },
+    {
+      "kind": "you",
+      "subject": "kalbantysis",
+      "rationale": "išpažintimi kalbantis „aš“ kreipiasi per retorinį klausimą"
+    }
+  ],
+  "translation": "Jahvė ⟨yra⟩ už mane, nebijosiu — ką man padarys žmogus?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/118\/5-8.1792489018811.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "už mane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bijosiu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "padarys"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:58.812086990Z",
+  "model": "glm-5.3"
+}

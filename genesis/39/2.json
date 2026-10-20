@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Čia את yra prielinksnis „su“, ne daiktavardo žymeklis; Todė ⟨את⟩ žymuo čia netaikomas, perduota kaip ⟨su⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויהי",
+      "rationale": "Trigubas „ir buvo“ — penkių kartų pakartota pradžia vėliau 39 skyriuje, pažyminti kylančią Jozefo eigą."
+    }
+  ],
+  "translation": "Ir Jahvė buvo ⟨את⟩ ⟨su⟩ Jozefu, ir jis tapo vyru, kuriam sekdavosi, ir jis buvo namuose savo pono, micraičio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/39\/1-4.1792471863822.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨su⟩",
+      "marks": "Jozefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "kuriam sekasi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "micraičio"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:03.827268403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כרכב",
+      "rationale": "relezė\/apvadas aplink aukuro viršų — 'compas' KJV yra klaidinantis; verčiama 'apvadas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "hebrajų turi tik אתה su prielinksniu תחת; lietuvių reikalauja daiktavardį-įvardį."
+    }
+  ],
+  "translation": "Ir įdėsi ⟨את⟩ ją po apačia po apvadu aukuro, ir tinklelis bus iki pusės aukuro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/27\/5-8.1792472749190.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ir įdėsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po apačia"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "apvadu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "apačioje"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "tinklelis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pusės"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:49.191265085Z",
+  "model": "glm-5.3"
+}

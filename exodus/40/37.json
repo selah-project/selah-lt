@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Šeiminis įvardis pridėtas lietuvių kalbai, hebrajų jo neturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה \/ העלתו",
+      "rationale": "Tas pats veiksmažodis עלה pakartojamas — kilti\/debesiui kilti; lietuvių kalboje kartojimas sušvelnintas"
+    }
+  ],
+  "translation": "O jeigu debesis nepakildavo, jie nekeliaudavo iki tos dienos, kai jis pakildavo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "971eb927d76f0771d652adbe0c5b5540bb2959252e955d25b5a7f67b9b6a0580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/37-38.1792473081775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "pakildavo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "debesis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "keliaudavo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "kai jis pakildavo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:21.776121834Z",
+  "model": "glm-5.3"
+}

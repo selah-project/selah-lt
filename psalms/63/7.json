@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mąstau",
+      "rationale": "הגה — murmti, kuždėti, kramtyti žodžius lūpomis; „mąstyti“ praranda garsinį murmėjimo vaizdą"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kai",
+      "rationale": "אם čia ne sąlyga („jei“), o laiko dalelytė — „kai\/tada“, kaip rodo senieji vertimai"
+    }
+  ],
+  "translation": "Kai prisimenu Tave ant savo guolio, nakties sargybose mąstau apie Tave.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/63\/5-8.1792488223540.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kai"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "prisimenu Tave"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "savo guolio"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "nakties sargybose"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "mąstau"
+    },
+    {
+      "surface": "בך",
+      "gloss": "apie Tave"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:43.541591382Z",
+  "model": "glm-5.3"
+}

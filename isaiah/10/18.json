@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne 'siela' metafizine prasme, o gyvybės jėga, alsavimas; paliktas nefesh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמסס נסס",
+      "rationale": "paronomazija: masas\/nasas — tas pats šaknies skambesys, lietuviškai perteikta dviguba forma 'silpstančio išsekimas'"
+    }
+  ],
+  "translation": "Ir suės miško ir derlingojo lauko šlovę nuo nefesh iki kūno, ir bus kaip silpstančio išsekimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/17-20.1792480775965.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "Ir … šlovę"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "miško"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "ir derlingojo lauko"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "nuo nefesh"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūno"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "suės"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "kaip silpstančio"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "išsekimas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:35.968797842Z",
+  "model": "glm-5.3"
+}

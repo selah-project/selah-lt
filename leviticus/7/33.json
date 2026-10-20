@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shelamim",
+      "rationale": "השלמim — shelamim (pagal skambesį, ne „taikos auka“ viena)"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia šnambio, kurio hebrajų kalba neturi"
+    }
+  ],
+  "translation": "Iš Aharono sūnų tas, kuris aukoja ⟨את⟩ shelamim aukos kraują ir ⟨את⟩ riebalus, — jam teks dešinysis blauzikaulis kaip dalis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/33-36.1792473184248.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "tas, kuris aukoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shelamim aukos kraują"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim aukos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "riebalus"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "riebalus"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "iš … sūnų"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "teks"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "blauzikaulis"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dešinysis"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "kaip dalis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:04.251578268Z",
+  "model": "glm-5.3"
+}

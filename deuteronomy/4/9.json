@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש yra gyvybės jėga, alsavimas — ne „siela“ viena"
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "atgalinis dėmuo „sau“ lietuviškame „saugok save“ išsilieja, atskirai neberašomas"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Mošė tiesiogiai kreipiasi į tautą — įsakymas perduoti sūnums ir anūkams"
+    }
+  ],
+  "translation": "Tik saugok save ir labai sergėk savo nefesh, kad neužmirštum ⟨את⟩ dalykų, kuriuos matė tavo akys, ir kad jie nepasitrauktų iš tavo širdies visas tavo gyvenimo dienas; ir pranešei juos savo sūnums ir savo sūnų sūnums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7594eb7a7ab4aa5745c8cb6a7a44ab2b85fb01332cbc5f8576cbb2f3167bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/4\/9-12.1792474945298.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Tik"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "saugok"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ir sergėk"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savo nefesh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "užmirštum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalykus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dalykų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "matė"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavo akys"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "ir kad ne"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "pasitrauktų"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "iš tavo širdies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "tavo gyvenimo"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "ir pranešei"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "savo sūnums"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "ir savo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sūnų sūnums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:42:25.299642973Z",
+  "model": "glm-5.3"
+}

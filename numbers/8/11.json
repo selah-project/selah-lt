@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנופה",
+      "rationale": "Pažodžiui 'pamojimas\/purtymas' — 'pakėlimo auka', 'pamainymo auka' ar tiesiog 'pamojimo ritualas'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "Čia prielinksnis min ('iš, nuo'), bet tomis pačiomis raidėmis kaip את — ar levitai atnašaujami 'iš' (atiduodami) Jisraelio sūnų, ar 'už juos'."
+    },
+    {
+      "kind": "elision",
+      "subject": "וְ (atpasakojimo jungtukas)",
+      "rationale": "Iškritęs vav, lietuvių sakinyje nereikalinga."
+    }
+  ],
+  "translation": "Ir Aharonas pamojo ⟨ir⟩ levitus — pamainymo auka — veidu ĵ Jahvę iš ⟨את⟩ Jisraelio sūnų, ir jie buvo skirti atlikti Jahvės tarnybą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a97a43cdd00fe534410a6ebd3d64555d6e2ad71b243f07290e3eb9d1ee9b105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/8\/9-12.1792474061986.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ir pamojo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "pamainymo auka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "veidu ĵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir jie buvo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "atlikti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarnybą"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "tarnybą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:27:41.987306150Z",
+  "model": "glm-5.3"
+}

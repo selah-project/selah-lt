@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis ⟨jis⟩",
+      "rationale": "Įvardžiai, reikalingi lietuvių kalboje, hebrajų dalelyse tik implicitiškai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Bat Ševa",
+      "rationale": "בת שבע — vardas, neverčiamas kaip 'septynios dukters'"
+    }
+  ],
+  "translation": "Kai ateis pas jį Natanas pranašas, po to, kai jis įėjo pas Bat Ševą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/51\/1-4.1792488112993.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kai ateis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanas"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "po to, kai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "įėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:52.994434353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kopulos klausime „מה לעם“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kas ⟨yra⟩ tautai",
+      "rationale": "pažodžiui „kas tautai?“ — hebrajiškas „kas nutiko X?“ posakis"
+    }
+  ],
+  "translation": "Ir štai Šaulius ėjo paskui galvijus iš lauko, ir Šaulius paklausė: kas ⟨yra⟩ tautai, kad ji verkia? Ir jie papasakojo jam ⟨את⟩ žodžius vyrų iš Jabešo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/11\/5-8.1792477155252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ėjo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "galvijus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir paklausė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ji verkia"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ir papasakojo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodžius"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabešo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:15.253671510Z",
+  "model": "glm-5.3"
+}

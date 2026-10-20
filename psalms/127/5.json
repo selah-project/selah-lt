@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jie nebūs sugėdinti",
+      "rationale": "יבשו gali būti trečiasis asm. vns. (jis nebūs sugėdintas — tėvas) arba dgs. (jie — vaikai-strėlės); verčiau dgs., nes ידברו dgs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי\/אשר",
+      "rationale": "„Laimingas... kuris“ — אשרי ir אשר skambuoja panašiai, lietuviškai žaismas prarandamas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "strėlinė",
+      "rationale": "vaizdas — pilna strėlinė kaip saikas; tėvo stiprybė matuojama vaikų skaičiumi."
+    }
+  ],
+  "translation": "Laimingas tas vyras, kuris pripildė ⟨את⟩ savo strėlinę jais — jie nebūs sugėdinti, nes jie kalbės ⟨את⟩ su priešais vartuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/127\/5-5.1792489155502.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Laimingas"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "tas vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pripildė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo strėlinę"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "savo strėlinę"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "jais"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "būs sugėdinti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "jie kalbės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su priešais"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vartuose"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:15.502830393Z",
+  "model": "glm-5.3"
+}

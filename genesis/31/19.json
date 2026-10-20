@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "terafimai",
+      "rationale": "התרפים — šeimos stabeliai; paliktas hebrajiškas žodis, ne 'dievai' ar 'atvaizdai'"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "lietuvių reikalauja būtojo laiko helperio, hebrajų veiksmažodis 'pavogė' be jo"
+    }
+  ],
+  "translation": "O Labanas buvo išėjęs kirpti ⟨את⟩ savo avių, ir Rašelė pavogė ⟨את⟩ terafimus, kurie buvo jos tėvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/17-20.1792471632446.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וולבן",
+      "gloss": "o Labanas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "buvo išėjęs"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "kirpti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo avių"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "savo avių"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "ir pavogė"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rašelė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimus"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "buvo jos tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:12.450643672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 34:24",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "Hebrajiškas דברתי neturi įvardžio; pridėta 'tai' dėl lietuvių skambesio."
+    },
+    {
+      "kind": "elision",
+      "subject": "נשיא",
+      "rationale": "Sakinys be veiksmažodžio — 'mano tarnas Davidas kunigaikštis' — lietuviškame tekste irgi be copula."
+    }
+  ],
+  "translation": "Ir aš, Jahvė, būsiu jiems Elohim, o mano tarnas Davidas — kunigaikštis jų tarpe; aš, Jahvė, tai kalbėjau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/34\/21-24.1792484712945.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ir aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "būsiu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "o mano tarnas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kunigaikštis"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "jų tarpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    }
+  ],
+  "timestamp": "2026-10-20T08:25:12.946863961Z",
+  "model": "glm-5.3"
+}

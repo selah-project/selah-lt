@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיה",
+      "rationale": "חיה čia laukiniai žvėrys, priešingai negu גyvuliai בהמה — gyvulių-laukinių-gyvulių pora išlaiko skirtumą."
+    }
+  ],
+  "translation": "Ir tavo gyvuliams, ir laukiniams gyvuliams, kurie tavo žemėje — visas jos derlius bus ėdimui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/5-8.1792473668349.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ir tavo gyvuliams"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ir laukiniams gyvuliams"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "tavo žemėje"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jos derlius"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ėdimui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:08.352126865Z",
+  "model": "glm-5.3"
+}

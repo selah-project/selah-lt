@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų participe לקח nėra kopulos — pridėta, kad derėtų su kontekstu"
+    }
+  ],
+  "translation": "Ir Jahvė Elohim išsiuntė jį iš Edeno sodo dirbti ⟨את⟩ žemės, iš kurios jis buvo paimtas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/3\/21-24.1792471021509.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ir išsiuntė jį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "iš sodo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeno"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "dirbti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemę"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "paimtas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iš ten"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:01.513533953Z",
+  "model": "glm-5.3"
+}

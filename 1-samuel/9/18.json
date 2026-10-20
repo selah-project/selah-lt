@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių klausimui reikia veiksmažodžio; hebrajų kalba tik 'kur — regėtojo namas'."
+    },
+    {
+      "kind": "you",
+      "subject": "Šaulius kreipiasi į Šmuelį",
+      "rationale": "Tiesioginis kreipimasis 'pasakyk man, meldžiu'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "regėtojo namas",
+      "rationale": "Šaulius ieško paslėpto — kur yra regėtojas, jam nežinoma."
+    }
+  ],
+  "translation": "Ir Šaulius priartėjo prie ⟨את⟩ Šmuelio vartų viduryje ir tarė: Pasakyk man, meldžiu, kur yra regėtojo namas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/9\/17-20.1792477167302.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "priartėjo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šmuelio"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelio"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vartų"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Pasakyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kur"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "regėtojo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:27.304026432Z",
+  "model": "glm-5.3"
+}

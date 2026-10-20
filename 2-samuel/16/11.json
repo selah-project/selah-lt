@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 16:11",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש yra 'gerklė, kvapas, gyvybės jėga', ne atskira 'siela'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל · ואל",
+      "rationale": "lietuvių naudininkas 'Avišajui, tarnams' pasako kryptį, atskiras prielinksnis nereikalingas"
+    },
+    {
+      "kind": "you",
+      "subject": "Davido žodžiai tarnams",
+      "rationale": "įsakymo forma: 'palikite jį'"
+    }
+  ],
+  "translation": "Ir tarė Davidas Avišajui ir visiems savo tarnams: štai mano sūnus, išėjęs iš mano įsčių, siekia ⟨את⟩ mano gyvybės — o juo labiau dabar šis Benjaminietis; palikite jį, tegul keikia, nes taip jam tarė Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa3ea732bc9e47d22f162419bc3012e6a4957ca7ff8eb8c494de33f640ce2ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/9-12.1792478337741.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avišajui"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "savo tarnams"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "iš mano įsčių"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "sieks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano gyvybę"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybę"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "o dar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juo labiau"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Benjaminietis"
+    },
+    {
+      "surface": "הנחו",
+      "gloss": "palikite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ir tegul keikia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:57.744629146Z",
+  "model": "glm-5.3"
+}

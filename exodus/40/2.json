@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškanas",
+      "rationale": "משכן pagal D2 rašomas miškan, ne „padangtė“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "data",
+      "rationale": "Nurodytas tikslus laikas — pirmojo mėnesio pirmoji diena"
+    }
+  ],
+  "translation": "Pirmojo mėnesio pirmąją dieną pastatysi ⟨את⟩ miškaną — susirinkimo palapinę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "af3a6f9d1178b2ebfe7257f1540c18410aa2bbac99c3b36de40c24189ac49020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/1-4.1792473097657.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmojo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pirmąją"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "pastatysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susirinkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:37.660252642Z",
+  "model": "glm-5.3"
+}

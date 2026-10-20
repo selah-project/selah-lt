@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "seksite",
+      "rationale": "'eiti įstatuose' — hebrajų idiomą 'vaikščioti pagal' lietuviškai 'sekti'"
+    }
+  ],
+  "translation": "Jei mano įstatus seksite, ir ⟨את⟩ mano įsakymus saugosite, ir įvykdysite ⟨את⟩ juos —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/1-4.1792473737496.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mano įstatus"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "seksite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mano įsakymus"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mano įsakymus"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saugosite"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ir įvykdysite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:17.500549446Z",
+  "model": "glm-5.3"
+}

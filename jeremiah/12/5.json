@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 12:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išdidume",
+      "rationale": "גאון סוסים — 'žirgų aukštumas'; JPS 'thickets of Jordan', KJV 'swelling' — hebrajiškai 'puikybė\/iškilumas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ge'on ha-Yarden",
+      "rationale": "'Jordano išdidumas' (sąsmaukos tankmė) vs 'Jordano patvinimas' — vertėjai nesutaria"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "gloss": "שלום — 'taika, gerovė, saugumas' — vienas žodis, išlaikytas pagal skambesį"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeremijui",
+      "rationale": "Jahvė kreipiasi tiesiogiai į pranašą retoriniu klausimu"
+    }
+  ],
+  "translation": "Jei su pėstiviais bėgai ⟨את⟩ ir jie tave nuvargino, kaip varžysisi su žirgais? Ir šalom žemėje tu pasitiki — kaip elgsies Jordano išdidume?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/5-8.1792482573694.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pėstivius"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "pėstiviai"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "bėgai"
+    },
+    {
+      "surface": "וילאוך",
+      "gloss": "ir jie tave nuvargino"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "תתחרה",
+      "gloss": "varžysisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žirgus"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "žirgai"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ir žemėje"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "pasitiki"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ir kaip"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "elgsies"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "išdidume"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordano"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:33.697168452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sukvėpina",
+      "rationale": "הקטיר — 'daryti kvapą', smilkymas ugnimi; vienas žodis vienam hebrajiškam žodžiui"
+    }
+  ],
+  "translation": "Ir kunigas sukvėpina ⟨את⟩ taukus ant aukuro, ir krūtinė bus Aharonui ir jo sūnums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/29-32.1792473203926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "sukvėpina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taukus"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "krūtinė"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ir jo sūnums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:23.928605525Z",
+  "model": "glm-5.3"
+}

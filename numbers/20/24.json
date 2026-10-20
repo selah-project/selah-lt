@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 20:24",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bus surinktas pas savo tautą",
+      "rationale": "Heb. יאסף אל עמיו — mirties eufemizmas, 'bus surinktas pas savo tautą'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריתם \/ מריבה",
+      "rationale": "'Sukėlėte' (mərītem) ir 'Meriba' (mərīvā) — ta pati šaknis מרה, žodžių žaismas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mano burną",
+      "rationale": "Heb. פי 'mano burna' = mano įsakymas; paliktas pažodžiui, nes formos tikslumas svarbus."
+    }
+  ],
+  "translation": "Aharonas bus surinktas pas savo tautą, nes jis neis į žemę, kurią daviau Jisraelio sūnums, nes jūs sukėlėte prieš ⟨את⟩ mano burną prie Meribos vandenų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8ec2d459ebd51e0f58c967080a560f829e3f364c02ccaf25e776f5bc818dcf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/20\/21-24.1792474368001.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאסף",
+      "gloss": "bus surinktas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "על",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מריתם",
+      "gloss": "sukėlėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano burną"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mano burną"
+    },
+    {
+      "surface": "למי",
+      "gloss": "prie vandenų"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:32:48.003695559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבל תחבל",
+      "rationale": "Verbo pakartojimas — „jei skolą imdamas užstatą imsi“; KJV čia skaito visai kitą sakinį apie skolinimą pinigų (Iš 22, 24 KJV numeracija)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל תחבל",
+      "rationale": "Infinitivus absolutus — tas pats žodis dukart, lietuvių kalboje išreikšta vienu veiksmažodžiu „užstotini“."
+    }
+  ],
+  "translation": "Jei užstotini apdarą savo artimo, iki saulės nusileidimo grąžinsi jį jam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/25-28.1792472637718.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "užstotini"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "imti užstatu"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "apdarą"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nusileidimo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saulės"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "grąžinsi jį"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:57.718972378Z",
+  "model": "glm-5.3"
+}

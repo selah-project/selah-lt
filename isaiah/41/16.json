@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "הוֹתָם čia yra įvardis „juos“, ne H853 žymeklis — verčiama įvardžiu, ne ⟨את⟩ ženklu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "ורוח išlaikytas kaip „vėjas“ pagal taisyklę — vienas hebrajiškas žodis, daug reikšmių"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vėjimas",
+      "rationale": "זרה vėjavimas tęsia v. 15 kulimo paveikslą — kalvos tampa pelais, kuriuos išneša vėjas"
+    }
+  ],
+  "translation": "Tu juos vėjosi, ir vėjas juos išneš, ir audra išblaškys ⟨את⟩ juos; o tu džiaugsies per Jahvę, Izraelio Šventajam garsiesi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/41\/13-16.1792481539871.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "juos vėjosi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ir vėjas"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "juos išneš"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ir audra"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "išblaškys"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "džiaugsies"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "per Jahvę"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Šventajam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelio"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "garsiesi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:19.875626225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד verčiamas skambesiu 'chesed', ne vienu žodžiu 'gailestingumas' ar 'gerumas'"
+    }
+  ],
+  "translation": "Nes chesed aš norėjau, o ne aukojimą, ir Elohim pažinimą — labiau nei deginamasias aukas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/6\/5-8.1792486174481.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aš norėjau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukojimą"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ir pažinimą"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "labiau nei deginamosios aukos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:49:34.483071939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 25:28",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "והיה tarpininkaujantysis 'ir bus' lietuvių kalboje tampa kopula, pridėta skliaustuose"
+    },
+    {
+      "kind": "measurement",
+      "subject": "jubiliejaus metai",
+      "rationale": "žemės grąžinimas susietas su penkiasdešimtųjų metų — jubiliejaus — skaičiumi"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד",
+      "rationale": "'kol išeis jubiliejaus metais' — hebrajiškas עד שנת היובל ('iki jubiliejaus metų') sujungtas su ויצא į vieną sakinio dalyką, kad nereikėtų kartoti"
+    }
+  ],
+  "translation": "O jei jo ranka nesuras pakankamai, kad jam grąžintų, tai jo parduotasis liks ⟨yra⟩ rankoje pirkėjo, kol jubiliejaus metais išeis, ir jis sugrįš į savo valdą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/25-28.1792473730536.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nesuras"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "די",
+      "gloss": "pakankamai"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "kad grąžintų"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tai ⟨yra⟩"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "jo parduotasis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rankoje"
+    },
+    {
+      "surface": "הקנה",
+      "gloss": "pirkėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "metais"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "jubiliejaus"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "išeis"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "jubiliejaus metu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ir sugrįš"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "į savo valdą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:10.538817155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 25:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "prielinksnis-su-את\tmieste\tglaudžiamas\tį\t„iš“ —\tאת\tžymuo\tišlaikomas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "metų skaičius",
+      "rationale": "kaina\tskaičiuojama\tpagal\tmetus\tiki\tjovelio"
+    }
+  ],
+  "translation": "Pagal metų skaičių po jovelio pirksi ⟨את⟩ iš savo artimo; pagal derliaus metų skaičių jis pardavinės tau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/13-16.1792473664347.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "Pagal ... skaičių"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metų"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "jovelio"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "pirksi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "iš savo artimo"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "pagal ... skaičių"
+    },
+    {
+      "surface": "שני",
+      "gloss": "metų"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "derliaus"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "pardavinės"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:04.351761159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajų kalba nutyli jungtį 'Aš Faraonas' — lietuvių reikalauja 'esu'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pakels ranką ar koją",
+      "rationale": "hebrajiškas idiomatas 'rankos ar kojos pakėlimas' = joks veiksmas be leidimo, versta pažodžiui"
+    },
+    {
+      "kind": "you",
+      "subject": "Faraonas",
+      "rationale": "tiesioginis kreipimasis į Josefą"
+    }
+  ],
+  "translation": "Ir tarė Faraonas Josefui: Aš ⟨esu⟩ Faraonas, ir be tavęs joks vyras nepakels ⟨את⟩ savo rankos nei ⟨את⟩ savo kojos visoje Micraimo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/41-44.1792471978608.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefui"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonas"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "ir be tavęs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "pakels"
+    },
+    {
+      "surface": "איש",
+      "gloss": "joks vyras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo rankos"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savo kojos"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "savo kojos"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:58.611515597Z",
+  "model": "glm-5.3"
+}

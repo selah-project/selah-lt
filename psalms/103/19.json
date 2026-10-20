@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiškas sufiksinis posessyvas כסאו jau turi 'jo', lietuviškas 'savo' būtinas derinimui"
+    }
+  ],
+  "translation": "Jahvė danguje įtvirtino savo sostą, ir jo karalystė viskuo valdo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/103\/17-20.1792488796592.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "danguje"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "įtvirtino"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "savo sostą"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "ir jo karalystė"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "viskuo"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "valdo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:16.593363651Z",
+  "model": "glm-5.3"
+}

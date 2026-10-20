@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' pasakojamojoje laiko formoje; lietuvių kalbai reikia copula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל אחיהם",
+      "rationale": "el gali reikšti 'prieš' (skundas prieš brolius) arba 'į\/į savo brolius'; pasirinkta 'prieš' pagal kontekstą"
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ didelis tautos ir jų žmonų šauksmas prieš jų brolius jehudiečius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3e4851fd4e7ef30bc5bc4836abad8c6a6d0fede2e092517c8fc697a5af5f4465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/5\/1-4.1792492354969.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ir ⟨buvo⟩"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "šauksmas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ir jų žmonų"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "didelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "jų brolius"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "jehudiečius"
+    }
+  ],
+  "timestamp": "2026-10-20T10:32:34.970212525Z",
+  "model": "glm-5.3"
+}

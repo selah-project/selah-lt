@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrew lacks a verb in 'I HaShem your Elohim'; copula added in brackets"
+    },
+    {
+      "kind": "elision",
+      "subject": "שכר",
+      "rationale": "rendered 'svaigusis gėrimas' — intensely alcoholic liquor, one Hebrew word into several"
+    }
+  ],
+  "translation": "Duonos nevalgėte, vyno ir svaigiojo gėrimo negėrėte, kad žinotumėte, kad aš ⟨esu⟩ Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ff286b507b05a5626bad7cbdae800b9101d58252de0e53c40754f216738c457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/5-8.1792475473900.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "valgėte"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vyno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ir svaigiojo gėrimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "gerėte"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "žinotumėte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:13.901777613Z",
+  "model": "glm-5.3"
+}

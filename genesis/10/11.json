@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשור",
+      "rationale": "Ar Asuras (asmuo — Nimrodas) išėjo į Asiriją (KJV 'Asshur' kaip žmogus), ar pats Nimrodas nuėjo į Asiriją — dvejopa tradicija."
+    },
+    {
+      "kind": "crux",
+      "subject": "רחבת עיר",
+      "rationale": "'Rechobot-ir' — ar tai vietovardis, ar pažodžiui 'miesto gatvės\/plotai' (YLТ)."
+    }
+  ],
+  "translation": "Iš tos žemės išėjo į Asiriją ir pastatė ⟨את⟩ Ninevę ir ⟨את⟩ Rechobot-ir bei ⟨את⟩ Kalachą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/10\/9-12.1792471212629.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tos"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "į Asiriją"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninevę"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Rechobot-ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-ir (miesto)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Kalachą"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalachą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:12.632882396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio; hebrajų tekstas jo neturi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vieną… vieną… vieną",
+      "rationale": "Kiekviena duonos rūšis suskaičiuota — po vieną iš kiekvienos rūšies."
+    }
+  ],
+  "translation": "ir vieną apvalią duoną, ir vieną aliejaus duonos paplotį, ir vieną ploną paplotį iš neraugintos duonos krepšio, kuris yra priešais Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de9eba46137dc3f9b4ff257c7f82b5d036ed93fc83a00c3635d5a3aac73a2787",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/21-24.1792472856717.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "ir apvalią duoną"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duoną"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ir paplotį"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejaus"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "ir ploną paplotį"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "iš krepšio"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "neraugintos duonos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:36.722268594Z",
+  "model": "glm-5.3"
+}

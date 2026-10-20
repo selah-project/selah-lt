@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 2:35",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨laiką⟩",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio su 'visą dienų'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש — gyvybės jėga, ne 'siela' viena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "prieš mano mašiachą",
+      "rationale": "Kai kurie skaito 'prieš mane, savo pateptąjį' — hebrajiška construct priklauso nuo vokalizacijos"
+    }
+  ],
+  "translation": "Ir pastatysiu sau ištikimą kunigą; kaip mano širdyje ir mano nefese, taip jis darys; ir pastatysiu jam ištikimą namą, ir jis vaikščios prieš mano mašiachą visą dienų ⟨laiką⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/33-36.1792476944563.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימתי",
+      "gloss": "ir pastatysiu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sau"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigą"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ištikimą"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "mano širdyje"
+    },
+    {
+      "surface": "ובנפשי",
+      "gloss": "ir mano nefese"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jis darys"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ir pastatysiu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ištikimą"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "ir jis vaikščios"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "משיחי",
+      "gloss": "mano mašiachą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų ⟨laiką⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:44.564768074Z",
+  "model": "glm-5.3"
+}

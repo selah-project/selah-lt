@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajiškai nėra veiksmažodžio 'būti' — pridėta dėl lietuvių kalbos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "acacijos medis",
+      "rationale": "šeol į šitah — vertimas pagal rūšį, ne garsą"
+    },
+    {
+      "kind": "measurement",
+      "subject": "penki stulpai, penki pagrindai",
+      "rationale": "skaičiavimas — nurodytas tikslus skaičius"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "tiesioginis nurodymas antrajam asmeniui"
+    }
+  ],
+  "translation": "Ir padarysi uždangai penkis stulpus iš acacijos medžio, ir apdengsi ⟨את⟩ juos auksu, ir jų kabliai bus auksiniai, ir užlinsi jiems penkis pagrindus iš vario.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6fd89f2242ad5ed448d7d7851e5776c762e569c2bcb336fbac1c32c3742ab346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/37-37.1792472712587.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "uždangai"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "penkis"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "stulpus"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "iš acacijos medžio"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ir apdengsi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "jų kabliai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksiniai"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ir užlinsi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "penkis"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pagrindus"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš vario"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:12.587708526Z",
+  "model": "glm-5.3"
+}

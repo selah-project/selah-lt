@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "pažodžiui 'ant mano veido' — reiškia 'mano akivaizdoje, mano veido atžvilgiu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "turėsi",
+      "rationale": "יהיה לך pažodžiui 'nebus tau' — lietuvių skambi norma 'neturėsi'"
+    }
+  ],
+  "translation": "Neturėsi kitų dievų mano veido akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/5\/5-8.1792474919224.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "turėsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievų"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitų"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veidą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:59.225763109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הנחילות",
+      "rationale": "Neḥilot — darkus žodjis, spėjama 'fleitos' arba 'paveldėjimai'; paliktas pagal skambesį."
+    },
+    {
+      "kind": "crux",
+      "subject": "nechilot",
+      "rationale": "Vertėjai svyruoja: 'fleitos' (muzikos nurodymas) vs 'paveldėjimai' (iš נחל)."
+    }
+  ],
+  "translation": "Chorvedžiui, prie nechilot — Davidui psalmė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/5\/1-4.1792487413762.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Chorvedžiui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nechilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmė"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:13.762993235Z",
+  "model": "glm-5.3"
+}

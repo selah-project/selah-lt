@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישכרו",
+      "rationale": "Veiksmažodis pažodžiui reiškia 'pasigėrė \/ aprūko'; dauguma vertimų sušvelnina į 'linksminosi' — čia išlaikytas pažodinis 'pasigėrė'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמש ידות",
+      "rationale": "Pažodžiui 'penkios rankos (porcijų)' — 'ranka' kaip saiko viena porcija; išversta 'penkiais kartais'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "penkiais kartais",
+      "rationale": "Porcijų santykis suskaičiuotas: Benjamino dalis penkiskart didesnė už kitų"
+    }
+  ],
+  "translation": "Ir jisėmė porcijas ⟨מאת⟩ jo veido jiems, ir Bu-benjamino porcija padidėjo penkiais kartais daugiau už visų jų porcijas, ir jie gėrė ir pasigėrė su juo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01d6fa1745fece849ce750ffe78d7ec93126aace953cb752294d15420147a5a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/43\/33-34.1792471899273.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ir jis ėmė"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "porcijas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "jo veido"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jo veido"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "ir padidėjo"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "porcija"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamino"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "už porcijas"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visų jų"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "penkiais"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "kartais"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ir jie gėrė"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "ir pasigėrė"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:39.276954259Z",
+  "model": "glm-5.3"
+}

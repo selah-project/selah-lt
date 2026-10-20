@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "padarysi",
+      "rationale": "Antrasis asmens įsakymas Mošei — tiesioginis nurodymas skirtiui."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקטר קטרת",
+      "rationale": "Toji pati šaknis ktar pakartota — 'smilkymui smilkiamųjų', dėmuo prarasta lietuviškame derinyje."
+    }
+  ],
+  "translation": "Ir padarysi smilkymo altorių — kvapams deginti; iš akacijos medžio padarysi ⟨את⟩ jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/1-4.1792472843308.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ir padarysi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "smilkymo altorių"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "deginti"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvapams"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacijos"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (altorių)"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:23.309544591Z",
+  "model": "glm-5.3"
+}

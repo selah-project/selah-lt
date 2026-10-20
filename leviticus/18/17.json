@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zimah",
+      "rationale": "זמה yra 'piktas sumanymas'; 'nedorybė' laikosi piktosios paskirties, bet ne plano paveikslo"
+    },
+    {
+      "kind": "elision",
+      "subject": "שארה הנה",
+      "rationale": "'jos giminaitės — jos pačios': hebraiškas sutankinimas išskleistas į du žodžius"
+    },
+    {
+      "kind": "you",
+      "subject": "adresatas",
+      "rationale": "Įstatymo kalba tiesiogiai kreipiasi į Izraelį"
+    }
+  ],
+  "translation": "Moters ir jos dukters nuogumo neatskleisi; jos sūnaus dukters ⟨את⟩ ir jos dukters dukters ⟨את⟩ neimsi ne, kad atskleistum jos nuogumą — jos kraujo giminaitės jos yra, tai nedorybė ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a05889e1099dd6b5e49bc51fd66988a953cdf55fb93ed9cf36eb849d22b92d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/17-20.1792473495721.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuogumo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ir jos dukters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atskleisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos sūnaus dukters"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jos sūnaus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jos dukters dukters"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "jos dukters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "neimsi"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "kad atskleistum"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "jos nuogumą"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "jos kraujo giminaitės"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jos yra"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nedorybė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:15.723866909Z",
+  "model": "glm-5.3"
+}

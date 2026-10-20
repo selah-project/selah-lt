@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 13:33",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio 'būti' — pridėta kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה \/ נחלתם",
+      "rationale": "Žodžio 'paveldėjimo dalis' kartojimas — tai, ko Levas negavo, ir pats Jahvė yra ta pati dalis."
+    }
+  ],
+  "translation": "O Levo genčiai Mošė nedavė jokios paveldėjimo dalies — Jahvė, Jisraelio Elohim, ⟨yra⟩ jų paveldėjimo dalis, kaip jis jiems kalbėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c12a2625d1b3f195a9a199c95644170c22b002095613fa3b98c24dc8e9a97da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/13\/33-33.1792475919796.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשבט",
+      "gloss": "o genčiai"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "paveldėjimo dalies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats jis"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "jų paveldėjimo dalis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T05:58:39.796938868Z",
+  "model": "glm-5.3"
+}

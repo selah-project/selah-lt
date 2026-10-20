@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mano \/ tavo",
+      "rationale": "hebrajiškos formos רעי\/רעיך vienaskaitos galūnėse jau turi savininką; lietuviškai reikia įvardžio"
+    },
+    {
+      "kind": "you",
+      "subject": "Lotas",
+      "rationale": "Avramas tiesiogiai kreipiasi į Lotą"
+    },
+    {
+      "kind": "invitation",
+      "subject": "te nebūna barnio",
+      "rationale": "Avramo malonus prašymas-šaukimas nutraukti ginčą"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prielinksnis 'prie, į' suliejamas su linksniu 'Lotui'"
+    }
+  ],
+  "translation": "Ir Avramas tarė Lotui: te nebūna, meldžiu, barnio tarp manęs ir tavęs, ir tarp mano piemenų ir tarp tavo piemenų, nes mes — vyrai broliai ⟨esame⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06e976347f2316a08f954f210adf39444b26af9fa88fd7e473b9740501988198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/13\/5-8.1792471234328.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te nebūna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "būna"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "barnis"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ir tavęs"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mano piemenų"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tavo piemenų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broliai"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:34.331742760Z",
+  "model": "glm-5.3"
+}

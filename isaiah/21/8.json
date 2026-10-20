@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 21:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "Kam skirta: KJV 'O Lord' (Dievui) vs BSB 'my lord' (sargybinio pranešimas valdovui); čia žmogaus valdovas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kaip⟩",
+      "rationale": "Palyginimas 'šaukė kaip liūtas' prideda lyginamąjį žodį, kurio hebrajų tekstas neturi."
+    }
+  ],
+  "translation": "Ir šaukė ⟨kaip⟩ liūtas: Ant sargybos bokšto, mano pone, aš stoviu nuolat dieną, ir savo poste aš stoviu visas naktis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/21\/5-8.1792480991801.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir šaukė"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "⟨kaip⟩ liūtas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "sargybos bokšto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stoviu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolat"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "savo poste"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stoviu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הלילות",
+      "gloss": "naktis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:11.802648746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מסית",
+      "rationale": "veiksmažodis 'badyti, kurstyti (kaip gyvatės įgeltas)' — verrta 'kursto', prarandamas 'įgėlimo' paveikslas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתנו ×3",
+      "rationale": "triguba aleph-tav grandinė — atiduoti, nužudyti, išvežti — chiastiškas smūgio kartojimas, lietuviškai tik iš dalies"
+    }
+  ],
+  "translation": "nes Barukas, Nerijos sūnus, kursto tave prieš mus, kad atiduotum mus į kašdėjų ranką — nužudyti mus ir išvežti mus į Babiloną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ba5154067492da588a57230b5b76ceec4b7810b281e30b1a4d2a8a831df81b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/43\/1-4.1792483512074.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerijos"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "kursto"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "prieš mus"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "תת",
+      "gloss": "atiduotum"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mus",
+      "marks": "mus į kašdėjų ranką"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kašdėjų"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "nužudyti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mus",
+      "marks": "mus nužudyti"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "ir išvežti"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mus",
+      "marks": "mus išvežti į Babiloną"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "į Babiloną"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:12.078114414Z",
+  "model": "glm-5.3"
+}

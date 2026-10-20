@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקרא בשם יהוה",
+      "rationale": "pausalinis hebrajų posakis „šaukti vardu“ — skelbti \/ paskelbti vardą; lietuviškai paliktas pažodžiui"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויתיצב",
+      "rationale": "refleatyvinė forma — „stovėjo stovėdamas, stojo tvirtai“, ne vien „atsistojo“"
+    }
+  ],
+  "translation": "Ir Jahvė nusileido ⟨debesyje⟩, ir stojo ten su juo, ir šaukė Vardo ⟨את⟩ Jahvės vardu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b979dfa7ed0b504af275711cd3fd3cc778850328720949595d5771685a5d0e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/34\/5-8.1792472937553.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ir nusileido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "debesyje"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ir stojo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir šaukė"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:57.555326407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajiškas teksta neturi veiksmažodžio — pridėta sąsaja"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיום",
+      "rationale": "'nuo dienos' — ar 'nuo amžių' (kaip BSB), ar pažodžiui 'nuo dienos'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיבנה",
+      "rationale": "'atšauks\/atgręš' — vertėjai: 'kas tai sunaikins', 'kas tai sutrukdys'"
+    }
+  ],
+  "translation": "Taip pat nuo dienos aš ⟨esu⟩ tas, ir nėra kas išplėštų iš mano rankos; aš veiksiu, ir kas tai atšauks?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/13-16.1792481466224.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "nuo dienos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iš mano rankos"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "išplėšiančio"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "aš veiksiu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "tai atšauks"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:06.231349557Z",
+  "model": "glm-5.3"
+}

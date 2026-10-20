@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio tiesioginiame surove; lietuvių reikalauja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "gretinimo konstrukcija הוא עמק המלך be veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nugalėtoj",
+      "rationale": "מהכות pažodžiui 'nušlus' — smūgio žodis, o ne 'žudynės'"
+    }
+  ],
+  "translation": "Ir Sedomo karalius išėjo jo pasitikti, jam sugrįžus nugalėtoj ⟨את⟩ Kedorlaomerą ir ⟨את⟩ karalius, kurie ⟨buvo⟩ ⟨את⟩ su juo, į Šaveh slėnį — tai ⟨yra⟩ karaliaus slėnis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/14\/17-20.1792471227845.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomo"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "jo pasitikti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "jo sugrįžimo"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "nugalėtoj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomerą"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomerą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "karalius"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "slėnį"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "Šaveh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "slėnis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:27.846798110Z",
+  "model": "glm-5.3"
+}

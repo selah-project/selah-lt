@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "žmonėms",
+      "rationale": "Mošė tiesiogiai kreipiasi į tautą: 'Nebijokite'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתכם בא האלהים",
+      "rationale": "Hebraiškas žodžių eilės svoris: 'jums atėjo Elohim išbandyti' — ar אתכם priklauso 'išbandyti jus', ar 'atėjo jums'."
+    }
+  ],
+  "translation": "Ir Mošė tarė žmonėms: Nebijokite, nes atėjo Elohim ⟨את⟩ jus išbandyti, ir kad jo baimė būtų jūsų veiduose, kad nenusidėtumėte.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/17-20.1792472587331.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "žmonėms"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonėms"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bijokite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "tam, kad"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "išbandyti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ir kad"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būtų"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "jo baimė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "jūsų veidų"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "nusidėtumėte"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:07.336125623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזירך",
+      "rationale": "Derivatyvas nuo נזיר: KJV 'nekeliamo vynmedžio' vs hebrajiškai 'tavo atskirtojo\/naziro' — vynmedys, paliktas tarsi naziros statusui."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ספיח",
+      "rationale": "Savaiminis, paties nesusėtas derlius — rečiau vartojamas žodis, jo vaizdas lietuviškai išskleidžiamas keliais žodžiais."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבתון",
+      "rationale": "Žodis šabat-as kartojasi visame skyriuje; išlaikyta šaknis šabat-."
+    }
+  ],
+  "translation": "Paauglių savaiminį derlių iš tavo pjūties nenukirsi, ir ⟨את⟩ vynuoges tavo atskirojo nelesk — savaiminio-šabato metai ⟨yra⟩ žemei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/5-8.1792473668349.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paauglių savaiminį derlių"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "paauglių savaiminis derlius"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "iš tavo pjūties"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "nenukirsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vynuoges"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "vynuoges"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "tavo atskirojo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "nelesk"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "metai"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "savaiminio-šabato"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "žemei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:08.351485393Z",
+  "model": "glm-5.3"
+}

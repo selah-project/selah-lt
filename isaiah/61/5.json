@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajų kalba neturi kopulos, lietuvių reikalauja"
+    }
+  ],
+  "translation": "Ir svetimieji stovės ir ganyti jūsų avis ir ožkas, o svetimųjų vaikai bus jūsų žemdirbiai ir jūsų vyndariai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c489af6f3f13a43d2ea2e976fda700f782fbea5b87b2526aa609737e7dfe9e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/61\/5-8.1792481955412.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ir stovės"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimieji"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ir ganyti"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "jūsų avis ir ožkas"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "o vaikai"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svetimųjų"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "jūsų žemdirbiai"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ir jūsų vyndariai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:15.412811180Z",
+  "model": "glm-5.3"
+}

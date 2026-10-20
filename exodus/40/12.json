@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Įsakymas Mošei privesti Aharoną ir jo sūnus prie susitikimo palapinės ir nuplauti juos vandeniu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "susitikimo palapinė",
+      "rationale": "אהל מועד pažodžiui „paskirtojo laiko palapinė“; lietuvių tradicijoje įsigalėjo „susitikimo palapinė“."
+    }
+  ],
+  "translation": "Ir privesi ⟨את⟩ Aharoną ir ⟨את⟩ jo sūnus prie įėjimo į susitikimo palapinę, ir nuplausi ⟨את⟩ juos vandeniu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/9-12.1792473105663.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Ir privesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "įėjimo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susitikimo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ir nuplausi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "Aharoną ir jo sūnus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandeniu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:45.668367835Z",
+  "model": "glm-5.3"
+}

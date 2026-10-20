@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vieną⟩",
+      "rationale": "Hebrew says just דבר 'a word'; 'vieną' supplied to match the idiom 'one word'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kalbėk",
+      "rationale": "king's imperative invites the woman to speak — the pivot of the scene"
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui",
+      "rationale": "handmaid addresses 'my lord the king' directly"
+    }
+  ],
+  "translation": "Ir tarė moteris: Tegul kalba, meldžiu, tavo tarnaitė ⟨vieną⟩ žodį mano ponui karaliui. Ir jis tarė: Kalbėk.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/9-12.1792478249227.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "tegu kalba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "tavo tarnaitė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mano ponui"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir jis tarė"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kalbėk"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:29.231810037Z",
+  "model": "glm-5.3"
+}

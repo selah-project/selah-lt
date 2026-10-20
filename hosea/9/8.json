@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sargybinis",
+      "rationale": "צופה participle: 'Ephraim's watchman [was] with my God' (KJV\/JPS) vs YLT 'Ephraim is looking away from my God' — the same verb as Hosea's watchman title."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew verbless clauses require a copula in Lithuanian; supplied where the ellipsis demands it."
+    }
+  ],
+  "translation": "Efraimo sargybinis — su mano Elohim; pranašui — paukštininko spąstai ant visų jo kelių, neapykanta jo Elohim namuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5d09eb92835de4ae541378ac56adfdc09d8c44d03eb1f4968286b21c3baf902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/9\/5-8.1792486306548.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "sargybinis"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pranašui"
+    },
+    {
+      "surface": "פח",
+      "gloss": "spąstai"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "paukštininko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jo kelių"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "neapykanta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T08:51:46.549847623Z",
+  "model": "glm-5.3"
+}

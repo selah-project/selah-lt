@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגדי השרד",
+      "rationale": "„Austi drabužiai“ vs „tarnybos drabužiai“ — hebrajiškas שרד siejamas su siuvimu\/audimu, ne su tarnyba."
+    },
+    {
+      "kind": "measurement",
+      "subject": "drabužių sąrašas",
+      "rationale": "Sąrašo dalis: tarnavimo drabužiai, Ahirono šventi drabužiai, sūnų drabužiai."
+    }
+  ],
+  "translation": "⟨את⟩ austus drabužius tarnauti šventovėje, ⟨את⟩ šventus drabužius kunigui Aharonui ir ⟨את⟩ jo sūnų drabužius kunigauti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/17-20.1792472918155.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "austus drabužius"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "austus"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "tarnauti"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "šventovėje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šventus drabužius"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventus"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kunigui Aharonui"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnų drabužius"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigauti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:38.156627144Z",
+  "model": "glm-5.3"
+}

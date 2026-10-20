@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kitiems dievams",
+      "rationale": "אלהים אחרים — čia mažąja raide 'dievai' svetimiems dievams, ne Elohim Vardo forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא צויתי",
+      "rationale": "'kurių aš neįsakiau (garbinti)' arba 'kurias aš uždraudžiau' — neigiamosios galios ginčas"
+    }
+  ],
+  "translation": "ir nueis, tarnaus kitiems dievams ir parpuols jiems — saulei, ar mėnuliui, ar visai dangaus kariaunai, kurios aš neįsakiau —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/17\/1-4.1792475263472.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nueis"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "tarnaus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitiems"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ir parpuols"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "ir saulei"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "mėnuliui"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kariaunai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "aš įsakiau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:43.475041549Z",
+  "model": "glm-5.3"
+}

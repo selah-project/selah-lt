@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 14:9",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kalbėtojas",
+      "rationale": "Neaišku, ar „ką man dar su stabais“ sako Efraimas (KJV), ar Jahvė („ką man [dar] su stabais?“ — YLT, BSB); hebrajiškai subjektas neišreikštas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje."
+    },
+    {
+      "kind": "crux",
+      "subject": "עניתי",
+      "rationale": "„Atsakiau“ arba „aš varginau\/išbandžiau“ — tos pačios šaknies reikšmės."
+    }
+  ],
+  "translation": "Efraimas: ką man dar su stabais? Aš atsakiau ir jį įžiūrėsiu; aš ⟨esu⟩ kaip žaliuojantis kiparisas — iš manęs tavo vaisius randamas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/14\/9-10.1792486293579.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "לעצבים",
+      "gloss": "su stabais"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "atsakiau"
+    },
+    {
+      "surface": "ואשורנו",
+      "gloss": "ir jį įžiūrėsiu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "כברוש",
+      "gloss": "kaip kiparisas"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "žaliuojantis"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "iš manęs"
+    },
+    {
+      "surface": "פריך",
+      "gloss": "tavo vaisius"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "randamas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:51:33.580680721Z",
+  "model": "glm-5.3"
+}

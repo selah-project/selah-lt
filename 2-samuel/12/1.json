@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Nathano pasakojimas",
+      "rationale": "Jėzaus palyginimo formos kreipimasis: pasakojimas traukia Davidą į sprendimą."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ראש (ruš)",
+      "rationale": "Retas žodis „skurdžius“ — plonas, bet neklaidingas su galva (roš)."
+    }
+  ],
+  "translation": "Ir Jahvė pasiuntė ⟨את⟩ Nataną pas Davidą, ir jis atėjo pas jį ir tarė jam: Du vyrai buvo viename mieste — vienas turtingas, o vienas skurdžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/1-4.1792478257334.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir pasiuntė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nataną"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nataną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Du"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "viename mieste"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "turtingas"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "turtingas"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "o vienas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "skurdžius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:37.336227252Z",
+  "model": "glm-5.3"
+}

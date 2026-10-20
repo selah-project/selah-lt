@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 16:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mano⟩",
+      "rationale": "Hebrajiškas נדחי neturi įvardžio; „mano“ suteikia kalbėtojui tapatybę (Izajo \/ Siono perspektyva)."
+    },
+    {
+      "kind": "crux",
+      "subject": "כלה שד",
+      "rationale": "„Baigėsi grobimas“ arba „grobikas baigė“ — šaknis שׁדד\/שׁד žaidžia tarp naikintojo ir jo veiksmo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סתר…סתרי",
+      "rationale": "3 eilutės סתרי „slėpkite“ ir סתר „priedanga“ — ta pati šaknis, malda ir atsakymas."
+    }
+  ],
+  "translation": "Tegul pas tave gyvena ⟨mano⟩ išvarytieji, Moabai; būk jiems priedanga nuo naikintojo veido, nes baigėsi engėjas, baigėsi grobimas, sutrypta iš krašto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "86aef55c88c6abaebbbd0cdbb38eae1e97a3a11d224c676b6f1fd42f20eddb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/16\/1-4.1792480953686.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "tegyvena"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "išvarytieji"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabai"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "būk"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "priedanga"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo veido"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "naikintojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "baigėsi"
+    },
+    {
+      "surface": "המץ",
+      "gloss": "engėjas"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "baigėsi"
+    },
+    {
+      "surface": "שד",
+      "gloss": "grobimas"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "pražuvo"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "trypiantieji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "krašto"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:33.688020117Z",
+  "model": "glm-5.3"
+}

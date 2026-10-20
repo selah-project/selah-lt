@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sandalas ant Edomo",
+      "rationale": "hebrajiškas paprotys — mesti sandalą reiškia perimti nuosavybę ar paniekinti; pažodžiui išlaikyta"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי פלשת התרעעי",
+      "rationale": "„dėl manęs girkis” (KJV, JPS) prieš „ant manęs šūksiu” (BSB skaito veikėją Jahvę) — Hitpa'el(tvora) rūšis leidžia abu"
+    }
+  ],
+  "translation": "Moabas — mano praustuvas, ant Edomo mesiu savo sandalą, dėl manęs, Pelešete, girkis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/60\/9-12.1792488194676.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "praustuvas"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "mesiu"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandalą"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dėl manęs"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešete"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "girkis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:14.676865653Z",
+  "model": "glm-5.3"
+}

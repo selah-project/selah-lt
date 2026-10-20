@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ko nors⟩",
+      "rationale": "hebrajiškasis יכשולו beipulačiai 'suklupta', objektas pridėtas lietuvių kalbai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "hebrajiškoji konstrukcija 'jeigu ne' = 'nebent'; verčiant pažodžiui, draudžiamosios ribos matosi aiškiau"
+    }
+  ],
+  "translation": "Nes jie nemiega, jeigu nedarė pikta, ir jų miegas pagrobtas, jeigu nepargriovė ⟨ko nors⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "15d8dd39002aa2e386be7f1f8e8af954a8e0aa301ca4468f360cf21b53f01aa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/4\/13-16.1792489469463.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "miega"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "darė pikta"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "ir pagrobtas"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "jų miegas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "pargriovė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:44:29.464568236Z",
+  "model": "glm-5.3"
+}

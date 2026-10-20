@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Pronominatas pridėtas lietuviškai; hebrajiškas יהוא (aramiškos kilmės 'būti') reiškia 'ten yra\/būna'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jie išpila jį",
+      "rationale": "יריקו pažodžiui 'ištuština save' — pats debesis nieko nevaldo; lietuviškai pridėtas objektas 'jį' (lietų)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול \/ שיפול",
+      "rationale": "Kartojama ta pati šaknis נפל 'kristi' — medis krenta, kur krinta; kartojimas lietuvių iš dalies išlaikytas."
+    }
+  ],
+  "translation": "Jei debesys prisipildo lietaus, jie išpila jį ant žemės; ir jei medis krenta pietuose arba šiaurėje — vietoje, kur medis krenta, ten ⟨jis⟩ būna.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/11\/1-4.1792491336766.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "prisipildo"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "debesys"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "lietaus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "jie išpila"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "krenta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medis"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "pietuose"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "arba jei"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "šiaurėje"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kur krenta"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "medis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "būna"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:36.767365410Z",
+  "model": "glm-5.3"
+}

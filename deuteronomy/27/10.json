@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balsą",
+      "rationale": "Hebrew 'bəqol' literally 'in the voice', rendered by accusative 'balsą' as idiom of obedience"
+    }
+  ],
+  "translation": "Ir klausysi Jahvės, savo Elohim, balso, ir darysi ⟨את⟩ jo įsakymus ir ⟨את⟩ jo įstatus, kuriuos aš tau įsakau šiandien.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/9-12.1792475416738.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ir klausysi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ir darysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo įsakymus"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "jo įsakymus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jo įstatus"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "jo įstatus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "tau įsakau"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:16.761234125Z",
+  "model": "glm-5.3"
+}

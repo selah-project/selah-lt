@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמלונה",
+      "rationale": "Reiškia „kaip trobelė\/palapinė“ arba „kaip hamakas“ — žemė siūbuoja kaip lengvas, neįtvirtintas statinys."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נוע תנוע",
+      "rationale": "To paties veiksmažodžio kartojimas — svyruoja-svyruoja, tęsia 24,19 ritmo struktūrą."
+    }
+  ],
+  "translation": "Svyruoja, svyruoja žemė kaip girtuoklis, ir siūbuoja kaip trobelė, ir sunkus ant jos jos nusikaltimas, ir ji kris ir nebeatsikels.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/17-20.1792481104946.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "Svyruoja"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "svyruoja"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kaip girtuoklis"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "ir siūbuoja"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kaip trobelė"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ir sunkus"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ant jos"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "jos nusikaltimas"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "ir ji kris"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nebe"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "קום",
+      "gloss": "atsikels"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:04.948036511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מבן עשרים שנה",
+      "rationale": "Pažodžiui „nuo dvidešimties metų sūnaus“ — hebrajų išsireiškimas amžiui nurodyti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "amžiaus riba",
+      "rationale": "Skaičiavimo kriterijus — dvidešimt metų ir vyresni, einantys į kariuomenę"
+    }
+  ],
+  "translation": "Nuo dvidešimties metų ir aukščiau — visi, einantys į kariuomenę Jisraelyje, tuos suskaičiuokite pagal jų kariuomenes, tu ir Aharonas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/1-4.1792473849614.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Nuo sūnaus"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukščiau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "einantys"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "į kariuomenę"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "suskaičiuokite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tuos"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pagal jų kariuomenes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ir Aharonas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:09.615976444Z",
+  "model": "glm-5.3"
+}

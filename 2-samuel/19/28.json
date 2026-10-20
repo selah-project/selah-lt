@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje — pridėta ⟨yra⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירגל",
+      "rationale": "Veiksmažodis iš šaknies רגל 'koja' — tas pats šaknies vaizdas, kaip Mefibošeto neišprižiūrėtų kojų (v. 25) ir jo šlubumo (פסח): šmeižėjas 'vaikščioja kojomis' apie tarną."
+    },
+    {
+      "kind": "you",
+      "subject": "Mefibošetas → karaliui Davidui",
+      "rationale": "Tiesioginis prašymas 'daryk, kas gera tavo akyse' — kreipimasis į karalių kaip teisėją."
+    }
+  ],
+  "translation": "nes jis apšmeižė tavo tarną mano ponui karaliui; bet mano ponas karalius ⟨yra⟩ kaip Elohim pasiuntinys, tad daryk, kas gera tavo akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/25-28.1792478559897.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "nes apšmeižė"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "tavo tarną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mano ponui"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "bet mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "kaip pasiuntinys"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "tad daryk"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kas gera"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akyse"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:39.899674607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "suėdė",
+      "rationale": "תאכל pažodžiui 'valgė' — ugnis 'prarijo' juos; lietuviškai 'suėdė\/prarijo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש \/ ותאכל",
+      "rationale": "ugnis, kurią jie atnešė, ir ugnis, kuri juos 'suėdė' — tas pats žodis אש du kartus per dvi eilutes"
+    }
+  ],
+  "translation": "Ir išėjo ugnis nuo Jahvės veido ir suėdė ⟨את⟩ juos, ir jie mirė priešais Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/10\/1-4.1792473348923.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "nuo veido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir suėdė"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ir jie mirė"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:48.927159280Z",
+  "model": "glm-5.3"
+}

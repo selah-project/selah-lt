@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvau",
+      "rationale": "Hebrajiškoji sandara „keturiasdešimties metų sūnus“ neturi veiksmažodžio; pridėta ⟨buvau⟩ su galūne."
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturiasdešimties metų",
+      "rationale": "Skaičiuojami Kalevo metai — amžius kaip matas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "metų",
+      "rationale": "בן ארבעים שנה pažodžiui „keturiasdešimties metų sūnus“ — hebrajiškas amžiaus sakymas."
+    }
+  ],
+  "translation": "Keturiasdešimties metų buvau, kai Mošė, Jahvės tarnas, išsiuntė mane iš Kadešo Barneos apžiūrėti ⟨את⟩ žemę, ir aš jam grąžinau ⟨את⟩ žodį, kaip buvo su mano širdimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3228cea5e9ee0d13a6e61600ceb225fd217f8feaabfe4a73ff4c017facdb59bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/14\/5-8.1792475951666.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "keturiasdešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "buvau"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "kai išsiuntė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tarnas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mane",
+      "marks": "mane — iš Kadešo Barneos"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadešo"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneos"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "apžiūrėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ir grąžinau"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "žodį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mano širdimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:59:11.669819134Z",
+  "model": "glm-5.3"
+}

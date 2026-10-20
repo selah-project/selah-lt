@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויגל",
+      "rationale": "veiksmažodis pažodžiui „nurengti, apnuoginti“ — čia „ištremti“, gėdingas nuogumas išlieka tik hebrajiškai."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויכה...וימתם",
+      "rationale": "dviejų veiksmažodžių seka „nukirto ir nužudė“ — vienas įvykis, dvi pakopos."
+    }
+  ],
+  "translation": "Ir Babilono karalius nukirto ⟨את⟩ juos ir nužudė juos Rivloje, Chamato krašte; taip Jėuda buvo ištremtas nuo savo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e859e4cfbdca3a70711b2928860f719c91ab916c40b3bfd3c5c6df804cc5d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/52\/25-28.1792483799599.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "nukirto"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "Babilono karalius juos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "nužudė"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivloje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "krašte"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamato"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "buvo ištremtas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "savo žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:09:59.601171656Z",
+  "model": "glm-5.3"
+}

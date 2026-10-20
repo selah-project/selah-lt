@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akimis",
+      "rationale": "לעינים pažodžiui „akims \/ akimis“ — vertėjai dažnai rašo „vietoj akių“ arba „mūsų vedliu“, bet hebrajiškas paveikslas yra „būti akimis“."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Chobabui",
+      "rationale": "Mošė maldaus būdu (אל נא) kviečia uošvį likti su tauta."
+    }
+  ],
+  "translation": "Ir tarė: „Prašau, nepalik ⟨את⟩ mūsų, nes tu žinai, kaip mes stovyklaujame dykumoje, ir tu būsi mums akimis.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/10\/29-32.1792474135032.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Prašau (ne)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "nepalik"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ mūsų",
+      "marks": "mūsų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl to"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tu žinai"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "mes stovyklaujame"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ir tu būsi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "akimis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:28:55.034245721Z",
+  "model": "glm-5.3"
+}

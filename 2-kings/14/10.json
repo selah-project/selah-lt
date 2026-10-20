@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכבד",
+      "rationale": "„Tuščias širdies išdidėjimas — „būk garbingas“ ar sarkastiškas „pasipuikuok“; dauguma verčia sarkazmu."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehoašas Amacyjahu",
+      "rationale": "Tiesioginis kreipimasis į Jechudos karalių su patarimu ir perspėjimu."
+    }
+  ],
+  "translation": "Juk sumušei ⟨את⟩ Edomą, ir tavo širdis tave iškėlė — pasidžiauk ⟨ tuo ⟩ ir sėsk savo namuose; o kodėl tu žadinsi nelaimę, kad krisi tu ir Jechuda su tavimi?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/14\/9-12.1792480084000.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "juk sumušei"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "sumušei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomą"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomą"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ir tave iškėlė"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "pasidžiauk"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ir sėsk"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "savo namuose"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "o kodėl"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "žadinsi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nelaimę"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "kad krisi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ir Jechuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:08:04.001806842Z",
+  "model": "glm-5.3"
+}

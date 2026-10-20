@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajiškame sakinyje nėra veiksmažodžio — pridėta kopula „esu“."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחת אלהים אני",
+      "rationale": "Klausiamoji forma: „ar aš Elohim vietoje?“ — nuoroda į Pr 30, 2; vieni skaito kaip klausimą, kiti kaip teiginį „aš esu po Elohim“."
+    },
+    {
+      "kind": "you",
+      "subject": "broliams",
+      "rationale": "Jozefas tiesiogiai kreipiasi į brolius: „nebijokite“."
+    }
+  ],
+  "translation": "Ir Jozefas tarė jiems: nebijokite, nes ar aš ⟨esu⟩ vietoje Elohim?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08234d931fdabe92398d69dd06243c33c2752fd01a5554c59c8f2c52857005be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/50\/17-20.1792472131232.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bijokite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:31.240264396Z",
+  "model": "glm-5.3"
+}

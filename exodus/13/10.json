@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "laikas",
+      "rationale": "kartojimo ciklas — „iš dienų dienoms“ — skaičiuojamas laikas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "pažodžiui „nuo dienų iki dienų“, t. y. kasmet; išlaikytas pažodinis vaizdas"
+    }
+  ],
+  "translation": "Ir saugosi ⟨את⟩ šį įstatymą jo metu, iš dienų dienoms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4049d8ad094d0133afa0bd7845caab51ad8f79d6d6be687d3261d2b662c440e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/13\/9-12.1792472435616.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ir saugosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šį įstatymą"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "įstatymą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šį"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "jo metu"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "iš dienų"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "dienoms"
+    }
+  ],
+  "timestamp": "2026-10-20T05:00:35.622201981Z",
+  "model": "glm-5.3"
+}

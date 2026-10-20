@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta seksama liepa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל — 'garas, tuštybė, atodūsis'; paliktas skambesys su paaiškinimu, vienas žodis vietoj dviejų."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kažkas⟩",
+      "rationale": "Hebrajų kalba veiksmo subjekto nenurodo — kirto kažkas nenustatytas."
+    }
+  ],
+  "translation": "Nes tautų papročiai ⟨yra⟩ hebel — tuštybė, nes medį iš miško ⟨kažkas⟩ kirto, rankų darbas, dailidės, kirviu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/10\/1-4.1792482411610.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "papročiai"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel — tuštybė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medį"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "iš miško"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "kirto"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rankų"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dailidės"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "kirviu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:46:51.613028339Z",
+  "model": "glm-5.3"
+}

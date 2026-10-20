@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio — pridėta kaip predikatas"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסורי",
+      "rationale": "retas žodis: 'mano atsiskyrėliai' arba 'tie, kurie pasitraukia' (plg. ylt 'My apostates')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקוה \/ מקור",
+      "rationale": "viltis (מקוה) ir šaltinis (מקור) — tas pats vandens laukimo paveikslas, lietuviškai prarandama"
+    }
+  ],
+  "translation": "Jisraelio viltis ⟨yra⟩ Jahvė: visi, kurie Tave palieka, bus sugėdinti, mano atsiskyrėliai žemėje bus įrašyti, nes paliko šaltinį gyvojo vandens — ⟨את⟩ Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/17\/13-16.1792482732404.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "viltis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "kurie Tave palieka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bus sugėdinti"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "mano atsiskyrėliai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "bus įrašyti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "paliko"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "šaltinį"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T07:52:12.405627136Z",
+  "model": "glm-5.3"
+}

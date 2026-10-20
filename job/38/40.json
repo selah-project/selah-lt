@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "job 38:40",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "dalelytė 'jų\/ tam' neturi atskiro lietuviško žodžio"
+    },
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "hebraiškai nėra įvardžio — laukiniai liūtai iš 38,39"
+    }
+  ],
+  "translation": "Kai jie pūpso guoluose, tūno lindynėje pasalai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "053b7bac583f82af32c71f671b8ea84d97fb4177a0497b3ae4b63baadb7a7160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/38\/37-40.1792490723508.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ישחו",
+      "gloss": "pūpso"
+    },
+    {
+      "surface": "במעונות",
+      "gloss": "guoluose"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tūno"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "lindynėje"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pasalai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:05:23.509280894Z",
+  "model": "glm-5.3"
+}

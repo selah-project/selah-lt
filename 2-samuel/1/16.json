@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tebūna⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio; bevardė raiška 'tavo kraujas ant tavo galvos'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמיך על ראשך",
+      "rationale": "pažodžiui 'tavo kraujas ant tavo galvos' — atsakomybės formulė, išlaikyta pažodžiui"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pateistasis",
+      "rationale": "משיח apie karalių — 'pateptasis', ne 'Mesijas'"
+    }
+  ],
+  "translation": "Ir Davidas tarė jam: Tavo kraujas ⟨tebūna⟩ ant tavo galvos, nes tavo paties burna liudijo prieš tave, sakydama: Aš nužudžiau ⟨את⟩ Jahvės pateistąjį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/13-16.1792477923538.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Tavo kraujas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tavo galvos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavo burna"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "liudijo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "nužudžiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės pateistąjį"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "pateistąjį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:03.540354750Z",
+  "model": "glm-5.3"
+}

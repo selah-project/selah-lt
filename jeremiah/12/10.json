@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רעים",
+      "rationale": "'Ganytojai' — kartu ir 'banda gananti': užpuolikų tautos pavaizduotos kaip ganytojai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה",
+      "rationale": "Šaknies š-m-m kartojimas tęsiamas ir 12,11 eilutėje."
+    }
+  ],
+  "translation": "Dažnai ganytojai sunaikino mano vynuogyną, sutrypė ⟨את⟩ mano dalį, padarė ⟨את⟩ mano geidžiamąją dalį dykuma į šventą? — ⟨dykuma nuniokota⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1569b722d48746dd5808517ab5af8bee91e20db1beed9eeb2356b376e1a815e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/9-12.1792482539935.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "ganytojai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dažnai"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "sunaikino"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mano vynuogyną"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "sutrypė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano dalį"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "mano dalį"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano geidžiamąją dalį"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "dalį"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "mano geidžiamąją"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nuniokota"
+    }
+  ],
+  "timestamp": "2026-10-20T07:48:59.937748203Z",
+  "model": "glm-5.3"
+}

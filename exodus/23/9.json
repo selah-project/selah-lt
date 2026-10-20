@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש — gerklė, alsavimas, gyvybės jėga; tradiciniai vertimai čia rašo 'širdį'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/גרים",
+      "rationale": "žodžio גר pakartojimas tris kartus — atsvečio įsakymas grindžiamas patirtimi, lietuviškai išlieka"
+    }
+  ],
+  "translation": "Ir atsvečio nespausk, jūs gi pažįstate ⟨את⟩ atsvečio gyvybę, nes buvote atsvečiai Micraimo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/9-12.1792472653553.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ir atsvečio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "spausk"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "jūs gi"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "pažįstate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atsvečio gyvybę"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "atsvečio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "atsvečiai"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "buvote"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:13.557115023Z",
+  "model": "glm-5.3"
+}

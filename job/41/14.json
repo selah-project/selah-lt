@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 41:14",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siaubas",
+      "rationale": "דאבה pažodžiui 'suglebimas, ilgėjimasis' — iš baimės silpstanti būsena, čia pateikta kaip 'siaubas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų neturi veiksmažodžio 'būti' — 'guli' + pridėta kopula."
+    }
+  ],
+  "translation": "Jo sprande guli ⟨yra⟩ jėga, ir prieš jį šoka siaubas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/41\/13-16.1792490813823.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצוארו",
+      "gloss": "jo sprande"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "guli ⟨yra⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "ולפניו",
+      "gloss": "ir prieš jį"
+    },
+    {
+      "surface": "תדוץ",
+      "gloss": "šoka"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "siaubas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:06:53.824001402Z",
+  "model": "glm-5.3"
+}

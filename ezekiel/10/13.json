@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 10:13",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קורא הגלגל",
+      "rationale": "Ar ratai buvo „šaukiami“ vardu Galgalas (KJV, Geneva), ar kažkas šaukia ratams (YLT) — hebrajiškas siejimas dviprasmis."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגלגל",
+      "rationale": "Galgal — retas ratų pavadinimas, skiriamas nuo įprasto ofan; čia tarsi ratų vardas-vokiantis."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas klausevas neturi pagalbinio veiksmažodžio."
+    }
+  ],
+  "translation": "Ratams — jiems ⟨buvo⟩ šaukiama mano ausyse: „Galgalas!“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/10\/13-16.1792484039878.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאופנים",
+      "gloss": "Ratams"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "šaukiama"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Galgalas!"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "mano ausyse"
+    }
+  ],
+  "timestamp": "2026-10-20T08:13:59.879523260Z",
+  "model": "glm-5.3"
+}

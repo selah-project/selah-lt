@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 26:23",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atgulė su savo tėvais",
+      "rationale": "Hebrajiška mirties eufemija וישכב עם אבתיו — „atgulė su savo tėvais“ — reiškia „mirus“."
+    },
+    {
+      "kind": "crux",
+      "subject": "laidojimo lauke",
+      "rationale": "Hebrajiškai בשדה הקבורה — „laidojimo LAUKE“, ne karalių kapavietės viduje; KJV „in the field of the burial“; Wycliffe klaidingai skaito „ne palaidojo“."
+    }
+  ],
+  "translation": "Ir Ozijas atgulė su savo tėvais, ir jie palaidojo ⟨את⟩ jį su jo tėvais laidojimo lauke, priklausančiame karaliams, nes jie sakė: jis raupsuotas; ir Joatamas, jo sūnus, karaliavo vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "231358bb0cd8f3a7d8330678e504f376aef05f60740b3107e1f843eb709e22f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/26\/21-23.1792493710482.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ir atgulė"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Ozijas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ir jie palaidojo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jo tėvais"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "הקבורה",
+      "gloss": "laidojimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "priklausančiame karaliams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jie sakė"
+    },
+    {
+      "surface": "מצורע",
+      "gloss": "raupsuotas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir karaliavo"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Joatamas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:55:10.483952994Z",
+  "model": "glm-5.3"
+}

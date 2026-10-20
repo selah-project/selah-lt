@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tvirtą išmintį",
+      "rationale": "תושיה — retas žodis: tikra, tvirta išmintis, ne paprasta חכמה"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרב הודעת",
+      "rationale": "KJV 'paskelbei daug teisingai' vs skaitoma kaip sarkazmas — 'ką čia gausiai parodei'"
+    },
+    {
+      "kind": "you",
+      "subject": "tavęs (Ijovo žodžiai Bildadui)",
+      "rationale": "tiesioginis sarkastiškas adresato kreipimasis"
+    }
+  ],
+  "translation": "Kaip tu pataręs tam, kuris neturi išminties, o tvirtą išmintį gausiai paskelbei!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/26\/1-4.1792490480579.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kaip"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "tu pataręs"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "neturi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išminties"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "o tvirtą išmintį"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "gausiai"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "paskelbei"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:20.580045765Z",
+  "model": "glm-5.3"
+}

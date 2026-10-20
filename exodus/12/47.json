@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "darys",
+      "rationale": "עשה 'daryti' — šalutiniai vertimai rašo 'švęsti\/laikytis', hebrajiškas žodis yra 'daryti'."
+    }
+  ],
+  "translation": "Visa Jisraelio bendruomenė darys ⟨את⟩ jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/45-48.1792472496809.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bendruomenė"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "darys"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (pesachą)"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:36.812294116Z",
+  "model": "glm-5.3"
+}

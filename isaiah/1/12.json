@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לראות פני",
+      "rationale": "pažodžiui 'matyti mano veidą' — išplėsta reikšme 'pasirodyti man'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mindami",
+      "rationale": "רמס חצרי pakibus forma be jungiamo — lietuvių dalyvis prideda ryšį su šalutiniu veiksmu"
+    }
+  ],
+  "translation": "Kai ateinate pasirodyti mano veidui — kas iš jūsų rankos šito reikalavo? mindami mano kiemus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/9-12.1792480534020.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "ateinate"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "pasirodyti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veidui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "reikalavo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šito"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "iš jūsų rankos"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "mindami"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "mano kiemus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:34.025219303Z",
+  "model": "glm-5.3"
+}

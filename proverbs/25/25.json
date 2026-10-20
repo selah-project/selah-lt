@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gerkle\/life-force gyvybė; „siela“ yra tradicinis, bet siauresnis"
+    },
+    {
+      "kind": "addition",
+      "subject": "Kaip … taip",
+      "rationale": "hebrajiškame palyginime nėra „kaip … taip“ jungties, pridėta struktūrai aiškinti"
+    }
+  ],
+  "translation": "Kaip vėsus vanduo pavargusiai sielai, taip gera žinia iš tolimos šalies.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/25\/25-28.1792489901824.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "vėsus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pavargusiai"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sielai"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "iš tolimos"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "gera žinia"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "šalies"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "tolimos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:51:41.824801123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השבץ",
+      "rationale": "Šis žodis („sukaistis, susipynimas”) randamas tik šioje Tanacho vietoje; verčiama pagal šaknies „apsipynimas” paveikslą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש yra „kvėpuojanti būtybė, gerklė, gyvybės jėga”, ne siela atskirai nuo kūno."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמד נא עלי",
+      "rationale": "„Stok ant manęs” arba „stok šalia manęs” — vertėjai skiriasi: žudymo prašymas ar mirties palydėjimas."
+    }
+  ],
+  "translation": "Ir jis tarė man: Stok, prašau, ant manęs ir užmušk mane, nes mane suėmė sukaistis, nes visa mano gyvybė dar manyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/9-12.1792477927881.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "Stok"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "ir užmušk mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "mane suėmė"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "sukaistis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:07.882237992Z",
+  "model": "glm-5.3"
+}

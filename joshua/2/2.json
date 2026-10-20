@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "Hebrajų Infinitivus constructus לחפר neturi jungtuko — pridėta konstrukcijai baigti"
+    },
+    {
+      "kind": "secret",
+      "subject": "žvalgų misija",
+      "rationale": "Pranešimas karaliui atskleidžia, kas turėjo būti slapta — misijos slapsumas sulaikomas priešų"
+    }
+  ],
+  "translation": "Ir pranešta Jericho karaliui, sakant: Štai vyrai atėjo čionai naktį iš Jisraelio sūnų, kad išžvalgytų ⟨את⟩ šalį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/1-4.1792475753402.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir pranešta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "čionai"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "iš sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kad išžvalgytų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šalį"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:53.405306321Z",
+  "model": "glm-5.3"
+}

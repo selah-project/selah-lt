@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח reiškia vėją, kvapą ir dvasią vienu žodžiu; paliktas kaip ruach, kad nebūtų prarastas daugiareikšmiškumas"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוכר...רוח",
+      "rationale": "kas drumstia vandenį, paveldi vėją — sutrikdytas namas veda į tuščią, pagautą orą"
+    }
+  ],
+  "translation": "Kas drumstia savo namą, paveldės ruach, ir kvailys ⟨yra⟩ tarnas išmintingam-širdies.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/11\/29-31.1792489649054.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "kas drumstia"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namą"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "paveldės"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ir tarnas"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "kvailys"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "išmintingam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    }
+  ],
+  "timestamp": "2026-10-20T09:47:29.055264544Z",
+  "model": "glm-5.3"
+}

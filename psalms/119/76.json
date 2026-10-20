@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד — ištikima meilė, gailestingumas; paliktas skambesys vieno žodžio prasmei išlaikyti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kaip pažadėjai",
+      "rationale": "כאמרתך pažodžiui 'pagal tavo sakymą'; 'pagal tavo žodį' būtų labiau pažodžiui."
+    }
+  ],
+  "translation": "Tebūna, maldauju, tavo chesed man paguodai, kaip pažadėjai savo tarnui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/73-76.1792489122160.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Tebūna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "maldauju"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavo chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "man paguodai"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "kaip pažadėjai"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "savo tarnui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:42.161797924Z",
+  "model": "glm-5.3"
+}

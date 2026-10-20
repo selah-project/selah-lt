@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra saisamo veiksmažodžio; lietuvių kalba jo reikalauja."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "Rečiau naudojama forma: 'giesmė' arba 'gynimas, pastiprinimas' — KJV 'song' prieš kai kurių 'defence'."
+    }
+  ],
+  "translation": "Jah ⟨yra⟩ mano jėga ir giesmė, ir jis tapo man išgelbėjimu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/118\/13-16.1792489056141.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "mano jėga"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ir giesmė"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "išgelbėjimu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:36.142203171Z",
+  "model": "glm-5.3"
+}

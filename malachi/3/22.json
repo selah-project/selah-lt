@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "atsiminkite",
+      "rationale": "imperatyvas, tiesioginis kreipimasis į Jisraelį — Tanacho paskutinis įsakymas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותו",
+      "rationale": "čia asmens įvardis 'jį', ne aleph-tav žymiklis; glose 'jam'"
+    }
+  ],
+  "translation": "Atsiminkite mano tarno Mošės Torą, kurią įsakiau ⟨את⟩ jam Chorebe visam Jisraeliui — įstatus ir teismus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a7fd7a022fee10f2285b367ffb653fa990268be66f6fccffe371f6aec4b35ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/3\/21-24.1792487397049.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "atsiminkite"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torą"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošės"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mano tarno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "įsakiau"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jam"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chorebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨visam⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "įstatus"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ir teismus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:09:57.052210269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "joks",
+      "rationale": "‘Ne žmogus teks’ — lietuvių kalboje reikia žodžio ‘joks’, kad neigtų bet kurį asmenį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "Kartojamas ‘gam’ — ‘taip pat žmogus... taip pat gyvuliai’ — gradacija nuo žmonių iki banda, išlaikyta kartojimu."
+    }
+  ],
+  "translation": "Ir joks žmogus neteks su tavimi, taip pat joks žmogus tepasirodo visame kalne; taip pat avys ir ožkos bei galvijai tebegania priešais tą kalną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f91e99dbbd63c3aeef2239d1ae6461368a1ccd96c2fca88ced504e513e33c62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/34\/1-4.1792472930289.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ir joks žmogus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "teks"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "joks žmogus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "pasirodo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visame"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avys ir ožkos"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "bei galvijai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "begania"
+    },
+    {
+      "surface": "אל",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "מול",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:50.291743728Z",
+  "model": "glm-5.3"
+}

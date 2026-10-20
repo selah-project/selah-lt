@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tiesioginis kreipimasis į Elohim — maldos pradžia"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mano mąstyme",
+      "rationale": "בשיחי gali reikšti ir „mano skunde“ — kontempliacija ar deklaratyvinis skundas"
+    }
+  ],
+  "translation": "Išgirsk, Elohim, mano balsą mano mąstyme; nuo priešo baimės saugok mano gyvybę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/64\/1-4.1792488248507.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Išgirsk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mano balsą"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mano mąstyme"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "nuo baimės"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "priešo"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "saugok"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mano gyvybę"
+    }
+  ],
+  "timestamp": "2026-10-20T09:24:08.508070574Z",
+  "model": "glm-5.3"
+}

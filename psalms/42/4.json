@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja būtojo laiko kopulos; hebrajų היתה yra veiksmažodis „tapti\/būti“."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ašaros — duona",
+      "rationale": "Hebrajiškas paveikslas: ašaros vietoje maisto; išlaikytas pažodžiui."
+    }
+  ],
+  "translation": "Mano ašaros ⟨buvo⟩ man duona dieną ir naktį, kai jie sako man visą dieną: kur tavo Elohim?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/42\/1-4.1792487933418.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mano ašaros"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duona"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "וילה",
+      "gloss": "ir naktį"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kai sako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T09:18:53.419419368Z",
+  "model": "glm-5.3"
+}

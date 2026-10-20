@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvylika tūkstančių",
+      "rationale": "Skaičius nurodo nukautų Edomo vyrų kiekį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נהרים",
+      "rationale": "Dviskaita — „dvejų upių Aramas“ (Eufratas ir Tigras); lietuviškame variante dviskaita lieka tik skambesyje."
+    }
+  ],
+  "translation": "Kai jis kovojo su ⟨את⟩ Aramu-Naharaim ir su ⟨את⟩ Aramu-Cova, ir Joabas grįžo ir nukovė ⟨את⟩ Edomą Druskos slėnyje — dvylika tūkstančių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/60\/1-4.1792488226531.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "kai jis kovojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramas-Naharaimas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramas-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaimas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "su ⟨את⟩",
+      "marks": "Aramas-Cova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramas-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir grįžo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir nukovė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomas"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomą"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "slėnyje"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "druskos"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvylika"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dvylika)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:46.531989425Z",
+  "model": "glm-5.3"
+}

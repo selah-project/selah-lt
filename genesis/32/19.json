@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 32:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dovana",
+      "rationale": "מנחה čia dovana žmogui, ne auka — todėl ne „mincha“"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "hebrajiškas הוא kaip predikatas „ji yra“ lietuviškai išskleidžiamas"
+    }
+  ],
+  "translation": "Tai tu atsakysi: Tavo tarno Jaakovo; tai dovana, pasiųsta mano ponui Esavui; ir štai, jis pats irgi eina už mūsų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/17-20.1792471628745.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ir atsakysi"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "tavo tarno"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dovana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "pasiųsta"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mano ponui"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavui"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "irgi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis pats"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "už mūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:08.749394664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 10:22",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה čia — 'teisumas\/teisėtumas'; paliktas kaip cedek pagal D2, kad šaknis matytųsi."
+    },
+    {
+      "kind": "crux",
+      "subject": "שוטף צדקה",
+      "rationale": "'trykš teisumu' vs 'plaukia su teisumu' — sunaikinimas, apipiltas teisumu ar tekantis teisumu."
+    }
+  ],
+  "translation": "Nes jei tavo tauta, Jisraeli, būtų kaip jūros smėlis, tik likutis jo sugrįš — sunaikinimas, nulemtas, trykš cedek.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/21-24.1792480794055.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "būtų"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tavo tauta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "kaip smėlis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "likutis"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sugrįš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jo"
+    },
+    {
+      "surface": "כליון",
+      "gloss": "sunaikinimas"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "nulemtas"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "trykš"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:54.057114904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 14:31",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atgulė su savo tėvais",
+      "rationale": "Mirties eufemizmas — וישכב pažodžiui „atsigulė“."
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalbai reikia prisilinearinio įvardžio; hebrajų turi tik „su tėvais jo“ (suffiksu)."
+    }
+  ],
+  "translation": "Ir Rechavamas atgulė su savo tėvais, ir buvo palaidotas su savo tėvais Davido mieste; o jo motinos vardas — Naama, amonietė; ir Avijamas, jo sūnus, ėmė karaliauti vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "836c0da14ed9c6386f277c99fcfd9d7a68274cef15136c3518d40b9ca84a5047",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/30-31.1792485541414.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Ir atgulė"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavamas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ir buvo palaidotas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "o vardas"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jo motinos"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "Naama"
+    },
+    {
+      "surface": "העמנית",
+      "gloss": "amonietė"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir ėmė karaliauti"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijamas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:39:01.415771491Z",
+  "model": "glm-5.3"
+}

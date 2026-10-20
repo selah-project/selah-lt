@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tą",
+      "rationale": "Lietuviškam santykių žodžiui „už“ reikia daiktavardžio, hebrajiškai veiksmažodis „pabėgusį“ eina pats"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכהן",
+      "rationale": "Tekste tiesiog „kunigo“; tradicija skaito „vyriausiojo kunigo“ (plg. 35,25.28)"
+    }
+  ],
+  "translation": "Ir neimkite išpirkos už ⟨tą⟩, kuris pabėgo į savo prieglaudos miestą, kad grįžtų gyventi krašte iki kunigo mirties.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/29-32.1792474799512.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "imkite"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "išpirkos"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "už pabėgusį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "savo prieglaudos"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kad grįžtų"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gyventi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "krašte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirties"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:59.516789319Z",
+  "model": "glm-5.3"
+}

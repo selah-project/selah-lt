@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "Kreipinys 'Tavo sostas, Elohim' arba 'Elohim sostas — tavo' (JPS) arba 'Dieviškasis tavo sostas' — garsus vertimo ginčas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ševet mišor šévet malkhutekhá",
+      "rationale": "Pakartotas žodis ševet — chiastic kartinys, lietuviškai išlaikytas."
+    }
+  ],
+  "translation": "Tavo sostas, Elohim, ⟨yra⟩ amžinai ir per amžius; tiesumo skeptras — tavo karalystės skeptras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/45\/5-8.1792488055684.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "tavo sostas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinai"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ir per amžius"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptras"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "tiesumo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "skeptras"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "tavo karalystės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:55.685060578Z",
+  "model": "glm-5.3"
+}

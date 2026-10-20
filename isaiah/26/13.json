@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ponai",
+      "rationale": "אדנים čia apie žmogaus valdovus, todėl 'ponai', o ne Adonai"
+    },
+    {
+      "kind": "crux",
+      "subject": "buvo mūsų ponais",
+      "rationale": "בעלונו — 'valdė mus \/ buvo mūsų ponais' arba 'suėmė mus į nuosavybę'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "tiesioginis kreipimasis į Jahvę"
+    }
+  ],
+  "translation": "Jahve, mūsų Elohim, ponai be tavęs buvo mūsų ponais; tik tavimi vien mes minėsime tavo vardą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/13-16.1792481142575.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "buvo mūsų ponais"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ponai"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "be tavęs"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tavimi"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "mes minėsime"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:42.576967243Z",
+  "model": "glm-5.3"
+}

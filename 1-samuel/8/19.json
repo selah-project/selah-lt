@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא כי אם",
+      "rationale": "hebrajiškas atsakymo idiomas 'Ne, bet...' — pabrėžtas atsisakymas"
+    },
+    {
+      "kind": "you",
+      "subject": "žmonės",
+      "rationale": "tauta kalba Samueliui — atsisakymo kalba"
+    }
+  ],
+  "translation": "Bet žmonės atsisakė klausyti Šmuelio balso ir tarė: Ne, bet karalius bus virš mūsų —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/8\/17-20.1792477020108.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "ir atsisakė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "klausyti"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelio"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "virš mūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:00.109310895Z",
+  "model": "glm-5.3"
+}

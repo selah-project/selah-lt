@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לא ימוט",
+      "rationale": "Hebrajiškas 'nebus pajudintas' — lietuviškoje niegyne su veiksmažodžiu skamba sunkiai, laikoma artima forma"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Žymeklis ⟨את⟩ prieš אלה išlaikomas tekste, glose suplautas su objektu"
+    }
+  ],
+  "translation": "Savo sidabrą jis duoda ne už palūkanas ir kyšio prieš nekaltąjį neima — kas daro ⟨את⟩ šiuos dalykus, nebus pajudintas per amžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/15\/5-5.1792487462694.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "savo sidabrą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "duoda"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "už palūkanas"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ir kyšio"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nekaltąjį"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šiuos dalykus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bus pajudintas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:02.695540842Z",
+  "model": "glm-5.3"
+}

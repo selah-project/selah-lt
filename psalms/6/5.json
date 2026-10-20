@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesas",
+      "rationale": "נפש – ne 'siela', o alsuojanti gyvybė, gerklė, gyvybės jėga"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Grįžk, Jahve",
+      "rationale": "Kalbantisysis šaukia Jahvę grįžtant – tiesioginis kreipimasis"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Tiesioginis maldos kreipimasis į Jahvę"
+    }
+  ],
+  "translation": "Grįžk, Jahve, ištrauk mano nefesą, išgelbėk mane dėl tavo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/6\/5-8.1792487420085.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Grįžk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ištrauk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesą"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "išgelbėk mane"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:20.086357782Z",
+  "model": "glm-5.3"
+}

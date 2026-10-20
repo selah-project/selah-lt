@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jam⟩",
+      "rationale": "hebrajiškas נתנו „duoti“ neturi įvardžio — lietuvių kalbai reikia ⟨jam⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "להרע עמדי",
+      "rationale": "pažodžiui „daryti pikta su manimi“ — posakis reiškia „man kenkti“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עשרת מנים",
+      "rationale": "„dešimt kartų“ — skaičiuojamas kirtimų kiekis."
+    }
+  ],
+  "translation": "Ir jūsų tėvas apmulkino mane ir pakeitė ⟨את⟩ mano užmokestį dešimt kartų, bet Elohim neleido ⟨jam⟩ daryti pikta su manimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/5-8.1792471666924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Ir jūsų tėvas"
+    },
+    {
+      "surface": "התל",
+      "gloss": "apmulkino"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mane"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "ir pakeitė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano užmokestį"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mano užmokestį"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kartų"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "leido"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "daryti pikta"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "su manimi"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:46.927569934Z",
+  "model": "glm-5.3"
+}

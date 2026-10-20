@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 17:6",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nebuvo⟩",
+      "rationale": "Hebrajų אין — sangrindis neiginys 'nėra'; lietuvių reikalauja būtojo laiko veiksmažodžio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך \/ ישר",
+      "rationale": "Priešprieša: nėra karaliaus (מלך) — kiekvienas pats sprendžia, kas ישר; eilutė skaitma iškart po 17,5 ir po 21,25."
+    }
+  ],
+  "translation": "Tomis dienomis ⟨nebuvo⟩ karaliaus Jisraelyje; kiekvienas darė, kas teisinga jo paties akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/17\/5-8.1792476756955.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "tomis dienomis"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "toms"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas vyras"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "kas teisinga"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "jo akyse"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darys"
+    }
+  ],
+  "timestamp": "2026-10-20T06:12:36.957437267Z",
+  "model": "glm-5.3"
+}

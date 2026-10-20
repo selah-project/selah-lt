@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrajiškas prielinksnis 'prie, į' lietuvių linksniuojamam vardui nereikalingas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגישה \/ ויגש",
+      "rationale": "Tas pats veiksmažodis 'prisiartinti\/prinešti' prašyme ir atsakyme — pakartota"
+    }
+  ],
+  "translation": "Ir Davidas tarė Avjatarui kunigui, Achimelecho sūnui: Prašau, prinešk man efodą. Ir Avjataras prinešė ⟨את⟩ efodą Davidui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/5-8.1792477760428.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatarui"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnui"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelecho"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "prinešk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodą"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ir prinešė"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjataras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodą"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodą"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidui"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:20.432049135Z",
+  "model": "glm-5.3"
+}

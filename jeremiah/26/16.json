@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 26:16",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " ⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio su אין — 'nėra' jį pakeičia be skliaustų, nes lietuvių neiginys tą pačią funkciją"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nuosprendis",
+      "rationale": "משפט teismo sprendimo terminas — 'mirties nuosprendis', ne 'nusipelnė mirties'"
+    }
+  ],
+  "translation": "Ir kunigaikščiai bei visi žmonės tarė kunigams ir pranašams: nėra šiam žmogui mirties nuosprendžio, nes Jahvės, mūsų Elohim, vardu jis kalbėjo mums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/13-16.1792482836033.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunigams"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigams"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "pranašams"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "šiam žmogui"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiam"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "nuosprendžio"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirties"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T07:53:56.035300600Z",
+  "model": "glm-5.3"
+}

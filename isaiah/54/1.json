@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Verse opens with three feminine imperatives summoning Zion to sing."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "Feminine singular addressee, the barren woman, i.e. Zion\/Jerusalem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רני\/רנה",
+      "rationale": "Imperative 'giedok' and noun 'giesmė' share the root רנן; repetition kept in Lithuanian."
+    }
+  ],
+  "translation": "Džiauksmu giedok, nevaisingoji, kuri negimdei; pratrūk džiaugsmo giesme ir šauk, kuri nebuvai gimdžiusi, nes daugiau vaikų turi apleistoji nei susituokusi, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/1-4.1792481789664.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "giedok džiaugsmu"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "nevaisingoji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "negimdei"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "pratrūk"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "džiaugsmo giesme"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "ir šauk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "buvai gimdžiusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "apleistoji"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "negu vaikų"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "susituokusios"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:29.665511689Z",
+  "model": "glm-5.3"
+}

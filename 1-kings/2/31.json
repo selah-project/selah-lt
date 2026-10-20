@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 2:31",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dėl nieko pralietą kraują",
+      "rationale": "KJV 'innocent blood' — hebrajiškai דמי חנם yra 'veltui pralietas kraujas', be žodžio 'nekaltas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "mano",
+      "rationale": "אבי — 'mano tėvo' sufiksuotra forma, lietuvių kalboje atskiras žodis 'mano'."
+    }
+  ],
+  "translation": "Ir karalius tarė jam: padaryk, kaip jis kalbėjo, ir pulk jį, ir palaidok jį; ir tu nuimsi dėl nieko pralietą kraują, kurį Joabas liejo, nuo manęs ir nuo mano tėvo namų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "29063703a068d4864c6594e17d487518d98a1e6b6d17bde520a56f799173aef2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/29-32.1792478850715.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padaryk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "pulk"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "וקברתו",
+      "gloss": "palaidok jį"
+    },
+    {
+      "surface": "והסירת",
+      "gloss": "nuimsi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "dėl nieko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "liejo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ir nuo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:30.717581474Z",
+  "model": "glm-5.3"
+}

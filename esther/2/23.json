@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "teisingas",
+      "rationale": "וימצא — 'buvo rastas', t. y. siekimas buvo patvirtintas; lietuvių reikalauja papildomo žodžio sklandumui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medis",
+      "rationale": "עץ — pažodžiui 'medis'; vėlesnė persiška praktika 'pakarti' reiškė ir sugrūsti ant kuolo, bet hebrajų žodis yra medis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienų įvykių knyga",
+      "rationale": "Karališkosios metraščių knygos įrašas — registravimo aktas, kuris vėliau Ester 6 įgis reikšmės."
+    }
+  ],
+  "translation": "Ir reikalas buvo ištirtas ir rastas ⟨teisingas⟩, ir abu jie buvo pakarti ant medžio; ir tai buvo įrašyta dienų įvykių knygoje karaliaus akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/2\/21-23.1792491406569.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ir buvo ištirtas"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "reikalas"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ir rastas"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "ir buvo pakarti"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ir buvo įrašyta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "įvykių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:16:46.570644472Z",
+  "model": "glm-5.3"
+}

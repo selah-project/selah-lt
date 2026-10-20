@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 12:21",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kol vaikas gyveno",
+      "rationale": "בעבור pažodžiui 'dėl vaiko gyvo'; sulietuvinta kaip laiko sąlyga"
+    },
+    {
+      "kind": "you",
+      "subject": "tarnai Davidui",
+      "rationale": "tiesioginis klausimas Davidui iš tarnų"
+    }
+  ],
+  "translation": "Ir tarė jo tarnai jam: koks tai dalykas, kurį padarei? Kol vaikas gyveno, pasninkavai ir verktei, o kai vaikas mirė, tu pakilai ir valei duonos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d31da3a0cb420da2352f89f387e51be2c39559b0a256069cd70c9da6de2b55bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/21-24.1792478228088.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "koks"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dalykas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "padarei"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kol"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyveno"
+    },
+    {
+      "surface": "צמת",
+      "gloss": "pasninkavai"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "ir verktei"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "o kai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "pakilai"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir valei"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:08.089892958Z",
+  "model": "glm-5.3"
+}

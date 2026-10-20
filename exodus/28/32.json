@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 28:32",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "hebrajų היה nėra kopula, bet lietuvių reikalauja būties veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kraštas",
+      "rationale": "שפה pažodžiui „lūpa“ — čia apsiuvo kraštas, lietuviškai „lūpa“ klaidintų"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šarvų marškiniai",
+      "rationale": "תחרא — retas žodis, drobinių šarvų marškiniai (kausė)"
+    }
+  ],
+  "translation": "Ir jo viršaus anga ⟨bus⟩ jo viduryje; jo angai aplink ⟨bus⟩ kraštas — audimo darbas; kaip šarvų marškinių anga ⟨bus⟩ jam — jis nebus perplėštas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "18be3693f201b29cb80dcf31b15c0175d3e4fbfb0dfeeeda4fffba6a9507687d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/28\/29-32.1792472852113.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir ⟨bus⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "anga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jo viršaus"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "jo viduryje"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "kraštas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bus⟩"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "jo angai"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplink"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbas"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "audimo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kaip anga"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "šarvų marškinių"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bus⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "bus perplėštas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:32.122030778Z",
+  "model": "glm-5.3"
+}

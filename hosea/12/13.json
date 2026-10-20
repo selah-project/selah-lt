@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "avis",
+      "rationale": "שמר reiškia tik 'saugojo\/ganė'; 'avis' pridėta, nes kontekstas — gyvulių ganyba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באשה...ובאשה",
+      "rationale": "kartojimas 'dėl žmonos — ir dėl žmonos', išlaikytas lietuviškai"
+    }
+  ],
+  "translation": "Ir pabėgo Jaakovas į Aramo lauką, ir Jisraelis tarnavo dėl žmonos, ir dėl žmonos ganė ⟨avis⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/12\/13-15.1792486294928.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ir pabėgo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lauką"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ir tarnavo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "dėl žmonos"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ir dėl žmonos"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ganė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:51:34.929577713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Nendrių jūra",
+      "rationale": "ים סוף is literally 'Sea of Reeds (papyrus)'; tradition renders 'Red Sea'"
+    }
+  ],
+  "translation": "Ir jie iškeliavo iš Elimo ir įsirengė stovyklą prie Nendrių jūros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b101526cf2285cc686a8221a513c002cecaaa88bcf8ba56102d82993b875a0ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/33\/9-12.1792474734685.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ir jie iškeliavo"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "iš Elimo"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ir įsirengė stovyklą"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Nendrių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:54.686812915Z",
+  "model": "glm-5.3"
+}

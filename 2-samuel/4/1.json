@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atslėgo jo rankos",
+      "rationale": "Hebrajiškas וירפו ידיו — rankos atsipalaidavo — reiškia drąsos netekimą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų veiksmažodis נבהלו yra būsenos veiksmažodis; lietuvių kalbai reikia pagalbinio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבהלו",
+      "rationale": "Veiksmažodis reiškia vidinį virpėjimą ir staigų išgąstį — vienas žodis visam sąstingiui."
+    }
+  ],
+  "translation": "Ir išgirdo Šaūlo sūnus, kad mirė Avneris Chebrone, ir atslėgo jo rankos, ir visas Jisraelis ⟨buvo⟩ apimtas baimės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/4\/1-4.1792477979469.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaūlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneris"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chebrone"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "ir atslėgo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jo rankos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "apimtas baimės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:59.470816469Z",
+  "model": "glm-5.3"
+}

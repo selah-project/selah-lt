@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyva būtybė",
+      "rationale": "נפש חיה — „gyva kvėpuojanti būtybė“, ne „siela“"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškame כי מחיה nėra — būtina kopula lietuvių kalboje praleista (אשר be veiksmažodžio)"
+    }
+  ],
+  "translation": "ir aš prisiminsiu ⟨את⟩ savo sandorą, kuri ⟨yra⟩ tarp manęs ir tarp jūsų, ir tarp visos gyvos būtybės visame kūne; ir daugiau vandens nebus tvanu, naikinti visą kūną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/13-16.1792471119677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ir aš prisiminsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sandorą"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ir tarp jūsų"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "būtybės"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gyvos"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visame"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "tvanu"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "naikinti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūną"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:39.719348039Z",
+  "model": "glm-5.3"
+}

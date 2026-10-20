@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi copula šioje vietoje"
+    },
+    {
+      "kind": "you",
+      "subject": "kalbantysis",
+      "rationale": "'Aš žinau' — asmeninis liudijimas, kreipimasis į bendruomenę"
+    }
+  ],
+  "translation": "Nes aš žinau, kad Jahvė yra didis, ir mūsų Adonai — virš visų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/135\/5-8.1792489218058.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ir mūsų Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "virš visų"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:18.059437416Z",
+  "model": "glm-5.3"
+}

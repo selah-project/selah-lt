@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המסים",
+      "rationale": "Retas žodis — sausos šakos, žabai; laikomasi pažodinio vaizdo."
+    },
+    {
+      "kind": "crux",
+      "subject": "מפניך גוים ירגזו",
+      "rationale": "KJV\/BSB stato tai kaip pageidavimą („kad tautos drebėtų“), JPS — kaip bendrą tiesą („tautos dreba“); pasirinkta siekiamųjų nuotaika."
+    }
+  ],
+  "translation": "Kaip įkaitinta ugnisDeganti šakiena — kaip ugnis užverda vandenį — kad būtų parodytas tavo vardas tavo priešams, kad tavo veidu tautos sudrebėtų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/1-4.1792481971926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "kaip įkaitinta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "šakiena"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandenį"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "užverda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "kad būtų parodytas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardas"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "tavo priešams"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "tavo veidu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "sudrebėtų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:31.927496696Z",
+  "model": "glm-5.3"
+}

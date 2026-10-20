@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 22:22",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Avjatarui",
+      "rationale": "Tiesioginis kreipimasis Davido į pabėgusį kunigą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybių",
+      "rationale": "נפש — alsuojanti gyvybė, ne 'siela'."
+    },
+    {
+      "kind": "addition",
+      "subject": "aš esu kaltas",
+      "rationale": "Hebrajiškas סבתי 'apsukau, privedžiau' — lietuviškai reikia aiškesnės kaltės išraiškos."
+    }
+  ],
+  "translation": "Ir tarė Davidas Avjatarui: Aš žinojau tą dieną, kad Doegas edomitas yra ten, kad jis tikrai praneš Šauliui; aš esu kaltas dėl visų gyvybių tavo tėvo namų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/22\/21-23.1792477580924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "לאביתר",
+      "gloss": "Avjatarui"
+    },
+    {
+      "surface": "סבתי",
+      "gloss": "aš sukėliau"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dėl visų"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybių"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:20.925206530Z",
+  "model": "glm-5.3"
+}

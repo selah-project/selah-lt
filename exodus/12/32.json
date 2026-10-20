@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Paro kreipimasis į Mošę ir Aharoną",
+      "rationale": "Įsakymų serija tęsiasi — imkite, eikite, palaiminkite."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם",
+      "rationale": "גם kartojamas tris kartu — taip pat jūs, taip pat gyvuliai, taip pat mane — maldaujančio karaliaus balsas."
+    }
+  ],
+  "translation": "Imkite ir savo avis ir ožkas, ir savo galvijus, kaip kalbėjote, ir eikite, ir palaiminkite ⟨את⟩ mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/29-32.1792472476257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "savo avis ir ožkas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "savo galvijus"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Imkite"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "kalbėjote"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ir eikite"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ir palaiminkite"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mane",
+      "marks": "mane"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:16.272287679Z",
+  "model": "glm-5.3"
+}

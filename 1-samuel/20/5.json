@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יָשֹׁב אֵשֵׁב",
+      "rationale": "Būdvardinio dalinio formos (infinitive absolute) kartojimas — „tikrai sėdėsiu“; lietuvių kalboje paryškinimas išreiškiamas veiksmažodžiu „tikrai“."
+    },
+    {
+      "kind": "crux",
+      "subject": "חֹדֶשׁ",
+      "rationale": "„jaunatis“ (naujojo mėnesio šventė) prieš „mėnuo“ — čionykštis kontekstas yra karaliaus stalas jaunaties dieną."
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas → Jehonatanui",
+      "rationale": "Tiesioginis kreipimasis į Jonataną dėl slapto plano."
+    }
+  ],
+  "translation": "Ir tarė Davidas Jehonatanui: Štai rytoj jaunatis, ir aš tikrai sėdėsiu su karaliumi valgyti; tuomet paleisk mane, ir aš pasislėpsiu lauke iki trečiojo vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/5-8.1792477550418.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jaunatis"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rytoj"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sėdėsiu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "paleisk mane"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "ir aš pasislėpsiu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "trečiojo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:25:50.420110718Z",
+  "model": "glm-5.3"
+}

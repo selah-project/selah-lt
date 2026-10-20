@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "neapipjaustytomis lūpomis",
+      "rationale": "ערל שפתים pažodžiui 'apipjaustytomis lūpomis' — dauguma verčia pažodžiui; kai kurie 'nerangiu liežuviu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו \/ ישמעני",
+      "rationale": "kartojamas veiksmažodis 'klausyti' — retorinis Mošės argumentas a fortiori"
+    }
+  ],
+  "translation": "Ir Mošė kalbėjo Jahvės akivaizdoje, sakydamas: štai Jisraelio sūnai manęs neklauso — ir kaip man klausys faraonas, o aš neapipjaustytomis lūpomis?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "545ea1f4a6602fa0bfabb86682381dc1b161d19c993465e9cb173a8b7fe77780",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/6\/9-12.1792472193539.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ir kaip"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "klausys manęs"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "neapipjaustytomis"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lūpomis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:33.541763642Z",
+  "model": "glm-5.3"
+}

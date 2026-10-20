@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "איש אחד",
+      "rationale": "Pažodžiui 'vienas vyras' — be artikolio, lietuvių kalbai papildomų žodžių nereikia."
+    }
+  ],
+  "translation": "Ir vienas vyras pamatė ir pranešė Joabui, tardamas: Štai mačiau ⟨את⟩ Avšalomą, kabantį ąžuole.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "97089caf189c1052d268500a7a1033c44b03908a25321c6a47753e31d56617c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/18\/9-12.1792478451202.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ir pamatė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ir pranešė"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Joabui"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tardamas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšalomą"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avšalomą"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "kabantį"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ąžuole"
+    }
+  ],
+  "timestamp": "2026-10-20T06:40:51.204452004Z",
+  "model": "glm-5.3"
+}

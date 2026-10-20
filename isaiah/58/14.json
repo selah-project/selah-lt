@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 58:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "dalinys predikatas be veiksmažodžio 'būti' hebrajų kalboje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עֹנֶג",
+      "rationale": "'šabatas — malonumas' (v.13) virsta 'tu gausi malonumą Jahvėje' — ta pati šaknis ענג"
+    },
+    {
+      "kind": "invitation",
+      "subject": "atlygis už šabatą",
+      "rationale": "v.13–14 yra pažadas, susietas su sąlyga — kvietimas laikytis šabato"
+    }
+  ],
+  "translation": "tada tu gausi malonumą Jahvėje, ir aš tave pasodinsiu raitą ant žemės aukštumų, ir maitinsiu tave Jaakovo, tavo tėvo, paveldėjimu, nes Jahvės burna ⟨yra⟩ prakalbusi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "25ac35dfc8d68c7cd3c03c04176c6051f0c3dcefab9e322937eeeb3f3735fe5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/58\/13-14.1792481859928.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "gausi malonumą"
+    },
+    {
+      "surface": "על",
+      "gloss": "Jahvėje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "והרכבתיך",
+      "gloss": "ir aš tave pasodinsiu raitą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "aukštumų"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "והאכלתיך",
+      "gloss": "ir maitinsiu tave"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldėjimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "prakalbusi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:39.929197549Z",
+  "model": "glm-5.3"
+}

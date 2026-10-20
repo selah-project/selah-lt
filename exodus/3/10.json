@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Elohim tiesiogiai kreipiasi į Mošę — imperatyvas 'eik' ir siuntimo žodis."
+    },
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "Hebrajų veikiažodis yra imperatyvas 'išvesk'; 'kad išvestum' — jungiamasis tikslas, pridėtas lietuvių sintaksės."
+    }
+  ],
+  "translation": "Ir dabar eik, ir aš pasiųsiu tave pas Parohą, kad išvestum ⟨את⟩ mano tautą, Jisraelio vaikus, iš Micraimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/3\/9-12.1792472261871.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "eik"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ir aš pasiųsiu tave"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohą"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "kad išvestum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano tautą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:41.874592744Z",
+  "model": "glm-5.3"
+}

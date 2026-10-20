@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiška galūnė אלהיכם 'jūsų Elohim' perteikta įvardžiu 'savo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תדבקו",
+      "rationale": "דבק — 'limpti, prisiklijuoti, tvirtai laikytis'; 'lipkite' išlaiko šaknies paveikslą"
+    }
+  ],
+  "translation": "Bet prie Jahvės, savo Elohim, lipkite, kaip darėte iki šitos dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ffbca2cd3e5d72b7710b0ecbc9dea0d788b58c7df322c8a50d194b9b9ceb234d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/23\/6-8.1792485434511.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tiktai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "prie Jahvės"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "lipkite"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "darėte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:37:14.515328918Z",
+  "model": "glm-5.3"
+}

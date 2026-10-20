@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Pažodžiui 'prieš veidą' — atkurta kaip 'veidu į', kad išliktų kūno paveikslas."
+    },
+    {
+      "kind": "elision",
+      "subject": "וְ (atpasakojimo jungtukas)",
+      "rationale": "Iškritęs vav su asmenuojamuoju būdu, lietuvių sakinyje nereikalinga."
+    }
+  ],
+  "translation": "Ir privedei ⟨ir⟩ ⟨את⟩ levitus veidu į Jahvę, ir Jisraelio sūnūs uždėjo ⟨ir⟩ ⟨את⟩ savo rankas ant levitų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a97a43cdd00fe534410a6ebd3d64555d6e2ad71b243f07290e3eb9d1ee9b105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/8\/9-12.1792474061986.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ir privedei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "veidu į"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ir uždėjo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo rankas"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "savo rankas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:27:41.987068112Z",
+  "model": "glm-5.3"
+}

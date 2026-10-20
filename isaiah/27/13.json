@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 27:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šofaras",
+      "rationale": "שופר — avino ragas, neverčiamas į 'trimitas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tą",
+      "rationale": "ההוא — hebrajiškas pabrėžiamasis įvardis, lietuvių kalboje sulietas su 'dieną'"
+    },
+    {
+      "kind": "crux",
+      "subject": "האבדים",
+      "rationale": "'žuvę\/prapultys' — KJV 'ready to perish', JPS 'lost'"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraelio ištamdytiesiems",
+      "rationale": "eiliutė kreipiasi į Asire ir Micraime išsklaidytą tautą, šaukiant juos šofaru"
+    }
+  ],
+  "translation": "Ir atsitiks tą dieną: bus pučiamas didysis šofaras, ir ateiš tie, kurie žuvo Asiro šalyje, ir išskirstyti Micraimo šalyje, ir nusilenks Jahvei šventajame kalne Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "383bb2fc9260a960d2d0c24f3de469e48d2b4f1177080c9cd4592c1effda48f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/27\/13-13.1792481046031.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir atsitiks"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "bus pučiamas"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "šofaras"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didysis"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ir ateiš"
+    },
+    {
+      "surface": "האבדים",
+      "gloss": "tie, kurie žuvo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "šalyje"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asiro"
+    },
+    {
+      "surface": "והנדחים",
+      "gloss": "ir išskirstyti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "šalyje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ir nusilenks"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "šventajame kalne"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventajame"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:06.032208959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "šaknis שיה Tamache pasirodo tik čia — 'mesti, apleisti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Uola",
+      "rationale": "צור — 'Uola' kaip Jahvės epitetas, išlaikytas laipsniškai"
+    }
+  ],
+  "translation": "Uolą, kuri tave pagimdė, tu apleidai ir užmiršai El, kuris tave sukūrė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/32\/17-20.1792475587768.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Uolą"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "kuri tave pagimdė"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "tu apleidai"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "ir užmiršai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "kuris tave sukūrė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:07.772456124Z",
+  "model": "glm-5.3"
+}

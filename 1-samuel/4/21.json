@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי כבוד",
+      "rationale": "Vardas I-Kavod reiškia „ne-šlovė“; žodis כבוד kartojamas vardelyje ir sakinyje — vardas yra pats sakinys."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלה",
+      "rationale": "Žodis reiškia „nurengti, išvaryti į tremtį“; versta „dingo“ vietoš pažodinio „buvo nurengta \/ išvyta“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "rationale": "Priegaizdis אל čia ne kryptis „į“, o priežastis „dėl“ — versta „dėl to, kad“."
+    }
+  ],
+  "translation": "Ir ji pavadino berniuką I-Kavod, sakydama: Dingo šlovė iš Jisraelio — dėl to, kad buvo paimta Elohim skrynia, ir dėl jos uošvio bei jos vyro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/4\/21-22.1792477013795.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ir pavadino"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "bernio vardą"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Dingo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iš Jisraelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dėl to, kad"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "buvo paimta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynia"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "jos uošvio"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "ir jos vyro"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:53.796553839Z",
+  "model": "glm-5.3"
+}

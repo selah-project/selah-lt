@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "pažodžiui 'sėkla' — ir sėkla, ir palikuonys; lietuvių 'sėkla' išlaiko abu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן ביתי",
+      "rationale": "'mano namo sūnus' — namuose gimęs tarnas ar įvaikis; vertėjai skiriasi"
+    }
+  ],
+  "translation": "Ir tarė Avramas: Štai man Tu nedavei sėklos, ir štai mano namo sūnus paveldės ⟨את⟩ mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/1-4.1792471249098.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "davei"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklos"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mano namo"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "paveldės"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:49.102477633Z",
+  "model": "glm-5.3"
+}

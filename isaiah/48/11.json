@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mano vardas⟩",
+      "rationale": "hebrajų veiksmažodis יחל neturi subjekto — vertėjai prideda „vardas“ (plg. 48, 9)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למעני למעני",
+      "rationale": "dvigubas kartojimas — pabrėžimas, kad Jahvė veikia dėl savo paties, ne dėl Jokūbo"
+    }
+  ],
+  "translation": "Dėl savęs, dėl savęs aš padarysiu, nes kaip ⟨mano vardas⟩ būtų išniekintas? Ir savo šlovės kitam neduosiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/9-12.1792481588681.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "dėl savęs"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "dėl savęs"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aš padarysiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "būtų išniekintas"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ir savo šlovės"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kitam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "duosiu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:08.683194443Z",
+  "model": "glm-5.3"
+}

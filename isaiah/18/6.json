@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 18:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קץ \/ חרף",
+      "rationale": "hebrajiški veiksmažodžiai 'vasaroti\/žiemoti' išversti aplinkiniu 'praleis vasarą\/žiemą'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עליו",
+      "rationale": "hebrajų vienaskaita 'ant jo' — lietuviškai daugiskaita 'ant jų', nes kalbama apie paliktuosius"
+    }
+  ],
+  "translation": "Kartu bus palikti plėšriesiems kalnų paukščiams ir žemės gyvuliams; plėšrusis paukštis praleis ant jų vasarą, ir visi žemės gyvuliai praleis ant jų žiemą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "845e90fd0fe0e4ca67aaf26c4b5f4ee3c0f2494cc19f87e6d6ed1e5703721f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/18\/5-7.1792480981650.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעזבו",
+      "gloss": "bus palikti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kartu"
+    },
+    {
+      "surface": "לעיט",
+      "gloss": "plėšriesiems paukščiams"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnų"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ir gyvuliams"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "וקץ",
+      "gloss": "ir praleis vasarą"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "plėšrusis paukštis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "gyvuliai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "תחרף",
+      "gloss": "praleis žiemą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:01.652009104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "graveriu",
+      "rationale": "חרט — įrankis (graveris, raižiklis); LXX skaito 'čiulptuvu', t. y. liepsnoje išlydyta"
+    },
+    {
+      "kind": "crux",
+      "subject": "tavo dievai",
+      "rationale": "daugiskaita אלהיך, nors veršius vienas — JPS vienaskaita 'tavo dievas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievai",
+      "rationale": "אלהים čia apie stabą — mažąja raide, ne Elohim"
+    }
+  ],
+  "translation": "Ir jis paėmė iš jų rankų ir apdirbo ⟨את⟩ jį graveriu, ir padarė jį lietu ausų veršiu, ir jie tarė: Štai tavo dievai, Jisraeli, kurie išvedė tave aukštyn iš Micraimo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/1-4.1792472943772.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "iš jų rankų"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ir apdirbo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "graveriu"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ir padarė jį"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "veršiu"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "lietu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo dievai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "išvedė tave aukštyn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:03.776179223Z",
+  "model": "glm-5.3"
+}

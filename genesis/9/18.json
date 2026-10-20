@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia darinio, hebrajų veiksmažodis ויהיו eina sakinio pradžioje kaip „Ir atsitiko“, bet čia veikia kaip kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laivo",
+      "rationale": "תבה pažodžiui „dėžė“; lietuvių įprastinė forma „laivas“."
+    }
+  ],
+  "translation": "Ir Noacho sūnūs, išėję iš laivo, ⟨buvo⟩ Šemas, Chamu ir Jafetas; o Chamas — jis ⟨yra⟩ Kenaano tėvas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d6e25f5d983e9c8a7e8f75e5177c9253f6fce8d1dbb674a2fb616b5055bb201b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/17-20.1792471088206.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacho"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "išėję"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "laivo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šemas"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ir Chamas"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ir Jafetas"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "o Chamas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaano"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:08.207165165Z",
+  "model": "glm-5.3"
+}

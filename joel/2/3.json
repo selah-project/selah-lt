@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 2:3",
+  "book": "joel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "Verse 2:3 final suffix: 'jam' (the land — nothing escaped it) vs 'jam' (the people — no escape for them); Lithuanian renders 'nuo jo' following the army sense."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תלהט",
+      "rationale": "Literally 'licks' — flame licking like a tongue; rendered 'laižo', which keeps the picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "jis\/juo",
+      "rationale": "Verse 2:3 first suffixes are spelled out as pronouns because Lithuanian 'prieš\/po' require a case-marked pronoun."
+    }
+  ],
+  "translation": "Prieš ⟨jis⟩ ugnis ryja, ir po ⟨juo⟩ liepsna laižo; kaip Edeno sodas — žemė prieš jį, o po jo — dykuma ir niauri šastis; ir net išgelbėtojo ⟨nuo⟩ jo nebuvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/2\/1-4.1792486508394.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "prieš jis"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ryja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ir po juo"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "laižo"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "liepsna"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "kaip sodas"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edeno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "o po jo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ir niauri šastis"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir net"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "išgelbėtojo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nuo jo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:55:08.396053380Z",
+  "model": "glm-5.3"
+}

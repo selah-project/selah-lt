@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Čia אַתְ yra įvardis 'tu' (ne tiesioginis objekto žymeklis H853) — laikoma ⟨tu⟩ forma, nes rašmenys tie patys"
+    },
+    {
+      "kind": "invitation",
+      "subject": "medžiai → figmedis",
+      "rationale": "Kvietimas 'eik, karaliausi' — paraboliaus siūlantis šauksmas"
+    }
+  ],
+  "translation": "Ir medžiai tarė figmedžiui: Eik tu, karaliausi ⟨את⟩ virš mūsų!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1845ae5388ae6fde99c8733b6c239fc665e80c6ad542e64e2353d183492a84ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/9\/9-12.1792476540088.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "medžiai"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "figmedžiui"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Eik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karaliausi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "virš mūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:09:00.089919673Z",
+  "model": "glm-5.3"
+}

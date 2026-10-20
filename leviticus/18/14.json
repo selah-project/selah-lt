@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תקרב",
+      "rationale": "Veiksmažodis reiškia 'artintis'; čia santuokos artumo eufemizmas — 'prie jos neisi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio su הוא"
+    }
+  ],
+  "translation": "Tėvo brolio nuogumo neatskleisi; prie jo žmonos neisi — tavo teta ji ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/13-16.1792473470033.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuogumo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brolio"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tėvo tavo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atskleisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jo žmonos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "eisi"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "tavo teta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:50.037984086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svetimų moterų",
+      "rationale": "נכריות — 'svetimas, ateivis'; ne tik 'užsienio', bet ir 'kitoks, ne savas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב ... לאהבה",
+      "rationale": "'mylėjo' v. 1 ir 'meilei' v. 2 — ta pati šaknis, meilės tema kalbama su ironija"
+    }
+  ],
+  "translation": "O karalius Šlomo mylėjo daug svetimų moterų — ir ⟨את⟩ faraono dukterį: moabites, amonites, edomites, cidonietes, hetites.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/1-4.1792479253378.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "o karalius"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mylėjo"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "moterų"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "svetimų"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "daug"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "faraono dukterį"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterį"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraono"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moabites"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "amonites"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "edomites"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "cidonietes"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hetites"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:13.380043044Z",
+  "model": "glm-5.3"
+}

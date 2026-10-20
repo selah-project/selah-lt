@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "moters",
+      "rationale": "lietuvių kalbai reikia daiktavardžio, hebrajas turi tik dviejų moterų statusų pavadinimus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — gyvybės jėga, ne nemateriali siela"
+    }
+  ],
+  "translation": "O našlės ir skyrybomis atskirtos moters pažadas — visa, ką ji surišo ant savos sielos, įsigalios jai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/30\/9-12.1792474659186.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "o pažadas"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "našlės"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ir skyrybomis atskirtos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "surišo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "savos sielos"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "įsigalios"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:37:39.187883860Z",
+  "model": "glm-5.3"
+}

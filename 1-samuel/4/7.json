@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Dievas",
+      "rationale": "pelistieji sako אלהים — daugiskaitinė forma svetimšalių lūpomis; 4,8 dėl daugiskaitos galūnės 'šitie dievai', čia vienaskaita pagal jų tarimą."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אתמול שלשם",
+      "rationale": "'vakar ir užvakar' — hebrajų idiomą 'iki šiol' perteikia du laiko žodžiai."
+    }
+  ],
+  "translation": "Ir išsigando pelistieji, nes jie tarė: Dievas atėjo į stovyklą. Ir jie tarė: Vargas mums, nes nebuvo taip anądien nei užanuodien!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/4\/5-8.1792477061296.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ir išsigando"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "pelistieji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "jie tarė"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Dievas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "stovyklą"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir jie tarė"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Vargas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "anądien"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "užanuodien"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:41.297729097Z",
+  "model": "glm-5.3"
+}

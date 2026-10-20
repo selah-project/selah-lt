@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mėnesį",
+      "rationale": "חָדְשׁוֹ pažodžiui „naujoji mėnulio diena“; čia laiko vienetas — mėnuo"
+    },
+    {
+      "kind": "addition",
+      "subject": "kiekvieną",
+      "rationale": "אִישׁ skirstomasis — aptarnavimas ėjo ratu per mėnesius"
+    }
+  ],
+  "translation": "Ir šie paskirtieji išlaikė ⟨את⟩ karalių Saliamoną ir ⟨את⟩ visus, kurie priėjo prie karaliaus Saliamono stalo, kiekvieną savo mėnesį — nepristigo jokio daikto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/5\/5-8.1792478909669.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "išlaikė"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "paskirtieji"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių Saliamoną"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Saliamoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus, kurie priėjo prie stalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kurie priėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Saliamono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "savo mėnesį"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "pristigo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "jokio daikto"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:29.671085646Z",
+  "model": "glm-5.3"
+}

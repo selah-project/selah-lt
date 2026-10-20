@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 5:11",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų turi ויהי, bet lietuvių vardui su veiksmažodžiu reikia poros — čia ויהי priklauso „buvo išmintingesnis“, tad antroji dalis gauna įdėtinį ⟨buvo⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardų sąrašas",
+      "rationale": "išvardyti keturi garsiausi išminčiai — Eitanas, Heimanas, Kalkolas, Darda — kaip išminties matas"
+    }
+  ],
+  "translation": "Ir jis buvo išmintingesnis už visus žmones — už Eitaną ha-Ezrachitį, ir Heimaną, ir Kalkolą, ir Dardą, Macholo sūnus — ir jo vardas ⟨buvo⟩ tarp visų tautų aplinkui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/5\/9-12.1792478925452.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחכם",
+      "gloss": "Ir jis buvo išmintingesnis"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "už visus"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "מאיתן",
+      "gloss": "už Eitaną"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ha-Ezrachitį"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "ir Heimaną"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "ir Kalkolą"
+    },
+    {
+      "surface": "ודרדע",
+      "gloss": "ir Dardą"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "Macholo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tarp visų"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplinkui"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:45.454369763Z",
+  "model": "glm-5.3"
+}

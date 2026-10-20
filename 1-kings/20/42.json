@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש — ne 'siela', o gyvybės jėga; 'gyvybė' šiame kontekste."
+    },
+    {
+      "kind": "you",
+      "subject": "pranašo žodis Izraelio karaliui",
+      "rationale": "Tiesioginis kreipimasis į karalių su Jahvės tardamu teismu."
+    },
+    {
+      "kind": "crux",
+      "subject": "איש חרמי",
+      "rationale": "'vyras, mano skirtas sunaikinimui' — החרם paaukojimas\/sunaikinimui; Ben-Hadadas paleistas iš cherem paskirtojo."
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "והיתה — moteriškos giminės su נפשך suderinta forma; išplėsta į 'tai bus'."
+    }
+  ],
+  "translation": "Ir jis tarė jam: Taip sako Jahvė: Kad tu paleidai iš savo rankos ⟨את⟩ vyrą mano cheremui skirtą, tai tavo gyvybė bus vietoje jo gyvybės ir tavo tauta vietoje jo tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/20\/41-43.1792479515658.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir jis tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Kad"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "tu paleidai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyrą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "mano cheremui skirtą"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "tai bus"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo gyvybė"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo gyvybės"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ir tavo tauta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:35.658861459Z",
+  "model": "glm-5.3"
+}

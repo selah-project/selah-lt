@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matė garsus",
+      "rationale": "Hebrajiškai 'mato balsus' — regos veiksmai su girdimais daiktais, prancūziškai vadinama sinestezija."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ ראים",
+      "rationale": "Matymo šaknies kartojimas: žmonės 'mato', paskui 'pamatė' ir nusigando."
+    }
+  ],
+  "translation": "Ir visi žmonės matė ⟨את⟩ garsus ir ⟨את⟩ liepsnas bei ⟨את⟩ šofaro garsą ir ⟨את⟩ kalną, rūkantį; ir žmonės, pamatę, drebėjo ir stojo toli.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/17-20.1792472587331.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "matė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garsus"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "garsus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "liepsnas"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "liepsnas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "bei ⟨את⟩",
+      "marks": "šofaro garsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "garsą"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "šofaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kalną"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rūkantį"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "drebėjo"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ir stojo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "toli"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:07.334668062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "viršininkų hierarchija",
+      "rationale": "Dešimtinė teismo struktūra pagal tūkstančius, šimtus, penkiasdešimt ir dešimtis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vyrai-galiaūnai",
+      "rationale": "אנשי חיל — 'vyrai jėgos': pajėgūs, turtingi ar narsūs vyrai; vienas hebrajiškas posakis dviem lietuviškais žodžiais."
+    }
+  ],
+  "translation": "Ir Mošė išsirinko vyrus-galiaūnus iš viso Jisraelio ir padarė ⟨את⟩ juos vyriausiaisiais virš tautos: viršininkus tūkstančių, viršininkus šimtų, viršininkus penkiasdešimtų ir viršininkus dešimčių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/25-27.1792472538805.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "išsirinko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "galiaūnus"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš viso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "vyriausiuosius"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "vyriausiaisiais"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viršininkus"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viršininkus"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtų"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viršininkus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "penkiasdešimtų"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ir viršininkus"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dešimčių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:18.807838155Z",
+  "model": "glm-5.3"
+}

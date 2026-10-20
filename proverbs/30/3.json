@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aš⟩",
+      "rationale": "Hebrajų veiksmažodis turi asmens galūnę, lietuvių kalbai reikia įvardžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "šventųjų",
+      "rationale": "קדשים daugiskaita — 'šventųjų' arba pagarbos daugiskaita 'Šventojo' (Dievo)"
+    }
+  ],
+  "translation": "Ir neišmokau išminties, ir šventųjų pažinimo ⟨aš⟩ nežinau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/30\/1-4.1792490011107.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "išmokau"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išminties"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ir pažinimo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "šventųjų"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nežinau"
+    }
+  ],
+  "timestamp": "2026-10-20T09:53:31.108472949Z",
+  "model": "glm-5.3"
+}

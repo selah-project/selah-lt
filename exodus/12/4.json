@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "asmenų",
+      "rationale": "נפש yra gyvybės jėga, alsuojanti būtybė — ne „siela“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨poreikį⟩",
+      "rationale": "Hebrajiškas לפי אכלו „pagal jo valgymą“ lietuvių kalboje reikalauja papildomo daiktavardžio."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičius",
+      "rationale": "Žmonių skaičiavimas pagal valgymo poreikį — porcijų apskaičiavimas."
+    }
+  ],
+  "translation": "Ir jei namų per maža ėriukui, tai jis ir jo kaimynas, artimiausias jo namams, ims pagal asmenų skaičių: kiekvienas pagal savo valgymo ⟨poreikį⟩ įskaičiuosite ant ėriuko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/1-4.1792472388124.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ir jei"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "per maža"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "būti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ėriukui"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ims"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "ir jo kaimynas"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "artimiausias"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jo namams"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "pagal skaičių"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "asmenų"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pagal"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "savo valgymo"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "įskaičiuosite"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "השה",
+      "gloss": "ėriuko"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:48.127895024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Lietuvių kalbai reikia žodžio tarp šono ir veidročio; hebrajų kalbos šonas neturi būdvardžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "gems",
+      "rationale": "Brangakmenių vardai (odemas, pitdah, bareketas) — tiksli tapatybė nežinoma; transliteruota, ne spėta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "four rows",
+      "rationale": "Brangakmenių skaičiavimas — keturios eilės po tris akmenis."
+    }
+  ],
+  "translation": "Ir jie įdėjo ⟨את⟩ į jį keturis brangakmenių eilių: eilę — odemas, pitdah ir bareketas — ⟨tai⟩ viena eilė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c97b73b8eced2e0d6a47fb121a208afe1c590378384d54c7f290d1262810eff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/39\/9-12.1792473018823.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "Ir jie įdėjo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "į jį"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "keturis"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "eilių"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "brangakmenių"
+    },
+    {
+      "surface": "טור",
+      "gloss": "eilę"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odemas"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "pitdah"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ir bareketas"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "eilė"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "viena"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:18.826837820Z",
+  "model": "glm-5.3"
+}

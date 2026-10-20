@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų fraseologijoje 'ji — didžioji aukštuma' be veiksmažodžio; lietuviška kopula pridėta skliaustuose"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלות\/יעלה",
+      "rationale": "deginamoji auka (olá, 'kas kyla') ir veiksmažodis 'kelti aukštyn' — tas pats šaknis, dūmo kilimas į viršų"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tūkstantį",
+      "rationale": "skaičius išreikštas pilnai, kaip hebrajų tekste"
+    }
+  ],
+  "translation": "Ir karalius nuėjo į Gibeoną ten aukoti, nes ji ⟨buvo⟩ didžioji aukštuma; tūkstantį deginamųjų aukų įleido Šlomas ant to aukuro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/3\/1-4.1792478829127.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "į Gibeoną"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "aukoti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "aukštuma"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "didžioji"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstantį"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "deginamųjų aukų"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "įleido"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:09.129504291Z",
+  "model": "glm-5.3"
+}

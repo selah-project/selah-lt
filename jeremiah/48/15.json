@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 48:15",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלה",
+      "rationale": "„užlipo ant jo miestų“ — verčiama „užimti“; kitaip skaitoma „pasikėlė iš savo miestų“ (pabėgėliai, kaip KJV)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų nėra „būti“ veiksmažodžio sakinio gale, lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יהוה צבאות",
+      "rationale": "tvrk.: Jahvė Cevaot — ne „Galybių Viešpats“"
+    }
+  ],
+  "translation": "Nuniokotas Moabas, ir jo miestai užimti, ir išrinktieji iš jo jaunuolių nužengė į skerdyklą, — sako karalius, Jahvė Cevaot ⟨yra⟩ jo vardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/48\/13-16.1792483508658.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Nuniokotas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ir jo miestai"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "užimti"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "ir išrinktieji"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "iš jo jaunuolių"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nužengė"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "į skerdyklą"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:08.660605139Z",
+  "model": "glm-5.3"
+}

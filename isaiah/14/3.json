@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skausmas",
+      "rationale": "עצב reiškia ir skausmą, ir rūpestį, ir dievybę — lietuviškai pasirinktas „skausmas“"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "עבד בך — puasis būdinys lietuviškai reikalauja „buvai verčiamas“"
+    }
+  ],
+  "translation": "Ir įvyks dieną, kai Jahvė suteiks tau poilsį nuo tavo skausmo ir nuo tavo nerimo, ir nuo sunkiojo darbo, kuriuo buvai verčiamas dirbti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7cdb14f693c68ea96e85396ab6aad4f6669ce0dd7b22b2b5c7a10e64d7e1cdab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/1-4.1792480850583.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir įvyks"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "suteiks poilsį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "nuo tavo skausmo"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "ir nuo tavo nerimo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ir nuo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sunkiojo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "buvai verčiamas dirbti"
+    },
+    {
+      "surface": "בך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:50.586550648Z",
+  "model": "glm-5.3"
+}

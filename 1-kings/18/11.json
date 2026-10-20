@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra čia",
+      "rationale": "Hebrajų turi tik 'Štai Elijas'; 'yra čia' pridėta dėl lietuvių sintaksės"
+    }
+  ],
+  "translation": "Ir dabar tu sakai: Eik, pasakyk savo ponui: Štai Elijas yra čia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/9-12.1792479440537.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sakei"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakyk"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "savo ponui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:20.539128490Z",
+  "model": "glm-5.3"
+}

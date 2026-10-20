@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Iz 55,1",
+      "rationale": "Kvietimas „eikite, pirkite ir valgykite” — iškilmingas šaukimas visiems ištroškusiems."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שברו",
+      "rationale": "Pažodžiui „grūdų pirkėjas” (šaknis שבר — prekiauti grūdais); verčiama „pirkite”."
+    },
+    {
+      "kind": "addition",
+      "subject": "su šauktuku",
+      "rationale": "Lietuviškas šauktuvas pridedas prie hebrajiško הוי („ei!”)."
+    }
+  ],
+  "translation": "Ei, visi ištroškę, eikite prie vandenų, ir kuris neturi sidabro, eikite, pirkite ir valgykite; taip, eikite, pirkite be sidabro ir be kainos vyno ir pieno!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/55\/1-4.1792481778648.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ištroškę"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikite"
+    },
+    {
+      "surface": "למים",
+      "gloss": "prie vandenų"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir kuris"
+    },
+    {
+      "surface": "אין",
+      "gloss": "neturi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sau⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikite"
+    },
+    {
+      "surface": "שבru",
+      "gloss": "pirkite"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ir valgykite"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "taip, eikite"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "pirkite"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "be"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "ir be"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "kainos"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vyno"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ir pieno"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:18.648544939Z",
+  "model": "glm-5.3"
+}

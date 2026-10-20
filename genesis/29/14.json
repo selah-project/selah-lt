@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esi",
+      "rationale": "Hebrew lacks copula in the clause 'my bone and my flesh you'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mano kaulas ir mano kūnas",
+      "rationale": "עצמי ובשרי — kinship idiom, literal body terms kept"
+    }
+  ],
+  "translation": "Ir Lavanas tarė jam: juk tu esi mano kaulas ir mano kūnas. Ir jis pasiliko pas jį mėnesį dienų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/29\/13-16.1792471512658.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "juk"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mano kaulas"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ir mano kūnas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "pasiliko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mėnesį"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:45:12.756224606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio būti; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביה יהוה",
+      "rationale": "Trumpoji Vardo forma Jah (ביה) ir pilnas Vardas יהוה pastatyti greta — vardų rezonansas, kurį lietuvių kalba gali tik išlaikyti gretindama Jah ir Jahvė"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "„Adi ad“ — pasikartojantis „amžinai, amžinai“; lietuviškai vienas „amžinai“ atspindi ilgį, bet kartojimo ritmas prarastas"
+    }
+  ],
+  "translation": "Pasitikėkite Jahve amžinai, nes Jah — Jahvė ⟨yra⟩ amžių uola.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/1-4.1792481104368.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Pasitikėkite"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "amžinai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "amžinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צור",
+      "gloss": "uola"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "amžių"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:04.370486614Z",
+  "model": "glm-5.3"
+}

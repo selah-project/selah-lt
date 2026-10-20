@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שת לב",
+      "rationale": "pažodžiui 'padėti širdį' — lietuviškai 'prikelti širdį' \/ 'kreipti dėmesį'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "širdis",
+      "rationale": "לב hebrajiškai yra valios ir proto centras, ne tik jausmų"
+    }
+  ],
+  "translation": "Ir Paro atsigręžė ir nuėjo į savo namus, ir neprikėlė širdies net ⟨ir⟩ tam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/21-24.1792472206871.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ir atsigręžė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "שת",
+      "gloss": "prikėlė"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "savo širdies"
+    },
+    {
+      "surface": "גם",
+      "gloss": "net"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "⟨ir⟩ tam"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:46.874659822Z",
+  "model": "glm-5.3"
+}

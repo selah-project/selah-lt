@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 21:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi copula, pridėta lietuviškai su ⟨…⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas → Achimelechas",
+      "rationale": "tiesioginis kreipimasis į kunigą klausimu apie ginklą"
+    }
+  ],
+  "translation": "Ir tarė Davidas Achimelechui: ar nėra čia po tavo ranka ieties ar kardo? nes nei savo kardą, nei savo ginklus nepasiėmiau į ranką, nes karaliaus reikalas ⟨buvo⟩ skubus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6efd213180c175abf468ca10b49c8143be695c213b911d0096cf7044a8c8acaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/21\/9-12.1792477658831.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Achimelechui"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ar nėra"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yra"
+    },
+    {
+      "surface": "פה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tavo ranka"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ieties"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nei"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "savo kardą"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nei"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "savo ginklus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "pasiėmiau"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reikalas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "נחוץ",
+      "gloss": "skubus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:38.832455732Z",
+  "model": "glm-5.3"
+}

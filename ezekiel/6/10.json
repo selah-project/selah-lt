@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' sakinype 'aš Jahvė'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל חנם",
+      "rationale": "'ne į veltui' — hebrajų konstrukcija 'ne veltui', lietuvių kalboje išskaidyta."
+    }
+  ],
+  "translation": "Ir jie žinos, kad aš ⟨esu⟩ Jahvė; ne veltui aš kalbėjau padaryti jiems šitą blogį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7b6dc33cfc3d92e724979e52220827db6580521a35954bb460169b90a3a0de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/6\/9-12.1792483883163.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ir žinos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "veltui"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aš kalbėjau"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "padaryti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "šitą blogį"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:11:23.166326710Z",
+  "model": "glm-5.3"
+}

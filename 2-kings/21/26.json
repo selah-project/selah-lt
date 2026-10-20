@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "Hebrajiškas veiksmažodis neturi aiškaus veikėjo — „palaidojo“ be subjekto, pridėta „jie“."
+    }
+  ],
+  "translation": "Ir jie palaidojo ⟨את⟩ jį jo kape, Uzos sode, ir jo sūnus Jošijahu tapo karaliumi vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/21\/25-26.1792480365538.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Ir jie palaidojo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "jo kape"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sode"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzos"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir tapo karaliumi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:45.539499118Z",
+  "model": "glm-5.3"
+}

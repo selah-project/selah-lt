@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "Pažodžiui „badas sustiprėjo“ — verčiama „tapo nepakeliamas“, nes lietuvių apie badą taip nesakoma."
+    },
+    {
+      "kind": "measurement",
+      "subject": "data",
+      "rationale": "Nurodyta mėnesio diena — devintoji; hebrajų tekstas mini tik devintąją, mėnuo (ketvirtas) suprantamas iš konteksto."
+    }
+  ],
+  "translation": "Devintąją mėnesio dieną badas mieste tapo nepakeliamas, ir šalies žmonėms nebuvo duonos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/1-4.1792480576588.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Devintąją"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio dieną"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "tapo nepakeliamas"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "badas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "žmonėms"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalies"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:16.591454475Z",
+  "model": "glm-5.3"
+}

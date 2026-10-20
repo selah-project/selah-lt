@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שהם",
+      "rationale": "šoham — 'oniksas', 'berylas'; brangakmenio tapatybė nežinoma, išlaikomas pagal skambesį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chošenas",
+      "rationale": "חשן tradiciškai 'krūtinės skydas'; išlaikomas hebrajiškas skambesys"
+    }
+  ],
+  "translation": "šohamo akmenų ir įstatomųjų akmenų efodui ir chošenui",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/5-8.1792472718929.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "akmenų"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "šohamo"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ir įstatomųjų akmenų"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "įstatomųjų"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "efodui"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ir chošenui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:18.930537820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "pažodžiui 'nuo veido vandenų' — idiomatinis 'dėl, prieš', išgelbėjimas nuo kažko"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laivas",
+      "rationale": "תבה yra 'dėžė, skrynia' — ne laivas sukorpusas"
+    }
+  ],
+  "translation": "Ir Noachas įėjo, ir jo sūnūs, ir jo žmona, ir jo sūnų žmonos ⟨su⟩ juo ⟨את⟩ į laivą, nuo ⟨veido⟩ tvano vandenų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5fdc6fdc8bb821ffef137ea86b05cd5c3fc06210067f4e9db426cc08f3122da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/7\/5-8.1792471082074.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "įėjo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachas"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ir jo sūnūs"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ir jo žmona"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ir žmonos"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "su juo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "laivą"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo ⟨veido⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandenų"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tvano"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:02.075873079Z",
+  "model": "glm-5.3"
+}

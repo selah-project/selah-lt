@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 2:26",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "האיתיך — tvirtinamasis „yra“ + „tu“; lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "you",
+      "subject": "kalba Danieliui",
+      "rationale": "karaliaus klausimas adresuotas Danieliui-Beltešacui"
+    }
+  ],
+  "translation": "Atsakė karalius ir tarė Danieliui, kurio vardas Beltešacas: ar tu ⟨esi⟩ pajėgus man parodyti sapną, kurį mačiau, ir jo aiškinimą?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d119cf6ce1316d0eb8337f2b5f6cc3fbea8743594596ab4d956e0aa4bc5a413b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/2\/25-28.1792491670619.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Atsakė"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Danieliui"
+    },
+    {
+      "surface": "די",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltešacas"
+    },
+    {
+      "surface": "האיתיך",
+      "gloss": "ar tu ⟨esi⟩"
+    },
+    {
+      "surface": "כהל",
+      "gloss": "pajėgus"
+    },
+    {
+      "surface": "להודעתני",
+      "gloss": "man parodyti"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "sapną"
+    },
+    {
+      "surface": "די",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ir aiškinimą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:21:10.620026709Z",
+  "model": "glm-5.3"
+}

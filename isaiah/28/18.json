@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוט\/שוטף",
+      "rationale": "derinys 'botagas, plakantis' — alliteracija iš dalies išlaikyta 'plakanti audra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול → šeol, ne 'pragaras'"
+    }
+  ],
+  "translation": "Ir jūsų sandora su ⟨את⟩ mirtimi bus panaikinta, ir jūsų regėjimas su ⟨את⟩ šeoliu nesilaikys; plakanti audra, kai praeis, jūs būsite jai tamsumynu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/17-20.1792481152131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Ir bus panaikinta"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "jūsų sandora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mirtimi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "ir jūsų regėjimas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šeoliu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeoliu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "silaikys"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "plakanti"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "audra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "praeis"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "jūs būsite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jai"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tamsumynu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:52.133668785Z",
+  "model": "glm-5.3"
+}

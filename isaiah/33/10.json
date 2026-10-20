@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "hebrajų veiksmažodžio asmens forma nešioja 'aš'; lietuvių aiškumui įdėtas į skliaustus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עתה x3",
+      "rationale": "trigubas 'dabar' — pakilimo ritmas, išlaikytas"
+    }
+  ],
+  "translation": "Dabar ⟨aš⟩ pakilsiu, — sako Jahvė, — dabar būsiu išaukštintas, dabar save iškelsiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/33\/9-12.1792481221306.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Dabar"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "pakilsiu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "būsiu išaukštintas"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "save iškelsiu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:27:01.307686843Z",
+  "model": "glm-5.3"
+}

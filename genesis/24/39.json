@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ponui",
+      "rationale": "אדני apie žmogų — 'ponui', ne 'Adonai'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אולי",
+      "rationale": "'O jeigu' — hebrajiškoji abejonės formulė, lietuvių kalboje perteikta kaip klausimas 'o jeigu…?'."
+    }
+  ],
+  "translation": "Ir aš tariau savo ponui: o jeigu moteris nepas eis manęs?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/37-40.1792471468103.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ir tariau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ponui"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "o jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "is"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui mane"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:28.105119576Z",
+  "model": "glm-5.3"
+}

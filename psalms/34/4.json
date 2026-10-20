@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Čia את H854 — prielinksnis 'su', ne veiksnio žymuo; lietuviškai 'su manimi', ⟨את⟩ ženklas išlaikytas glosoje."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Išaukštinkite",
+      "rationale": "Kvietimas bendrijai bendrai šlovinti Jahvęs vardą."
+    }
+  ],
+  "translation": "Išaukštinkite Jahvę ⟨את⟩ su manimi, ir kartu iškelkime jo vardą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/34\/1-4.1792487841892.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Išaukštinkite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "su manimi ⟨את⟩"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ir iškelkime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kartu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:21.893972662Z",
+  "model": "glm-5.3"
+}

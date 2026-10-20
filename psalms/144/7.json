@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svetimšalių",
+      "rationale": "מיד בני נכר pažodžiui „iš svetimųjų sūnų rankos“; „sūnūs“ lietuvių praėjimui sulietas į vieną žodį"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "malda kreipiasi tiesiai į Jahve"
+    }
+  ],
+  "translation": "Ištiesk savo rankas iš aukštybių, išplėšk mane ir išgelbėk mane iš vandenų daugybės, iš svetimšalių rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/144\/5-8.1792489350447.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ištiesk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "savo rankas"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "iš aukštybių"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "išplėšk mane"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ir išgelbėk mane"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "iš vandenų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugybės"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "svetimšalių"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "svetimų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:30.448240557Z",
+  "model": "glm-5.3"
+}

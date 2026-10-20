@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laivas",
+      "rationale": "תבה yra „dėžė“; „laivas“ yra vaidmuo, ne forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu: vėjas, kvapas, Dvasia — vienas žodis"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "אתו čia yra šalia esantis את (su), o ne objekto žymeklis; išlaikytas ⟨את⟩ žymeniu"
+    }
+  ],
+  "translation": "Ir Elohim atsiminė ⟨את⟩ Noachą ir ⟨את⟩ visą gyvūniją ir ⟨את⟩ visus gyvulius, kurie ⟨את⟩⟨su juo⟩ buvo laive, ir Elohim perleido ruach per žemę, ir vanduo nuslūgo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/1-4.1792471145571.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ir atsiminė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachą"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą gyvūniją"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gyvūniją"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus gyvulius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "laive"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir perleido"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "על",
+      "gloss": "per"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ir nuslūgo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vanduo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:05.573270424Z",
+  "model": "glm-5.3"
+}

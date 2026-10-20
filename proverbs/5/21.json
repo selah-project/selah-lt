@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio jungties; lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sveria",
+      "rationale": "מפלס — 'išlyginti kelią \/ mintyse pasverti'; čia reiškia 'apmąstyti, išmatuoti', ne vien 'sverti'."
+    },
+    {
+      "kind": "you",
+      "subject": "žmogaus keliai",
+      "rationale": "Prijaučiančioji kalba apie žmogaus kelius, kuriuos Jahvė mato."
+    }
+  ],
+  "translation": "Nes prieš Jahvės akis yra žmogaus keliai, ir visus jo takus Jis sveria.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/5\/21-23.1792489446974.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "keliai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visus"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "jo takus"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "sveria"
+    }
+  ],
+  "timestamp": "2026-10-20T09:44:06.974567857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתו",
+      "rationale": "'vietoj jo \/ už jį patį' (savo vardu) vs. JPS 'straightway' (tuojau) — skaitoma iš תחת, bet tradicija skiriasi."
+    },
+    {
+      "kind": "crux",
+      "subject": "למי ארץ",
+      "rationale": "'Kieno yra žemė?' — užuomina: karalystė priklauso tam, su kuo sandora."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אִתִּי čia prielinksnis 'su manimi', ne DOM את; ⟨את⟩ žymeklis nededamas, nes tai ne objekto žymeklis."
+    }
+  ],
+  "translation": "Ir Avneris siuntė pasiuntinius pas Davidą ⟨vietoj jo⟩ sakydami: Kieno yra žemė? — sakydami: Sudaryk savo sandorą ⟨את⟩ su manimi, ir štai mano ranka bus su tavimi, kad atgręžčiau pas tave ⟨את⟩ visą Jisraelį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/9-12.1792477927245.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir siuntė"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneris"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "⟨vietoj jo⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Kieno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yra žemė"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "Sudaryk"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ su manimi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano ranka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bus su tavimi"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "kad atgręžčiau"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą Jisraelį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:07.247328290Z",
+  "model": "glm-5.3"
+}

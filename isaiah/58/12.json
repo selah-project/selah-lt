@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 58:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kils tie, kurie⟩",
+      "rationale": "hebrajiškas veiksmažodis 'statys' daugiskaitoje be veikėjo — 'iš tavęs statys' prireikia veikėjo lietuviškai"
+    },
+    {
+      "kind": "crux",
+      "subject": "דור ודור",
+      "rationale": "dėl ko statoma — 'kartų kartų pamatus' (sąlyga) ar 'daugelio kartų pamatus' (objektas); laikausi antrojo, kaip KJV\/JPS"
+    },
+    {
+      "kind": "elision",
+      "subject": "לשבת",
+      "rationale": "'įsikūnijimui gyventi' — takai, kuriais gyvenama; sutraukta į 'gyvenimui'"
+    }
+  ],
+  "translation": "Ir iš tavęs ⟨kils tie, kurie⟩ statys senovės griuvėsius, kartų pamatus tu pakelsi, ir tave vadins spragos užtaisytoju, kelių gyvenimui atstatytoju.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/58\/9-12.1792481943185.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ir statys"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iš tavęs"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "griuvėsius"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senovės"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "pamatus"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kartų"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ir kartų"
+    },
+    {
+      "surface": "תקומם",
+      "gloss": "pakelsi"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ir vadins"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tave"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "užtaisytoju"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "spragos"
+    },
+    {
+      "surface": "משבב",
+      "gloss": "atstatytoju"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "kelių"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gyvenimui"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:03.187025912Z",
+  "model": "glm-5.3"
+}

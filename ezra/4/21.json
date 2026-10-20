@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טעם \/ טעמא",
+      "rationale": "aramėjiškas žodis iš pradžių reiškia 'skonį'; čia teisminis sprendimas ar įsakymas, ne skonis."
+    },
+    {
+      "kind": "you",
+      "subject": "Rechumui, Šimšajui ir jų bendrams",
+      "rationale": "Karaliaus Artachšastos įsakymas tiesiogiai kreipiasi į laiško gavėjus."
+    },
+    {
+      "kind": "elision",
+      "subject": "aramėjų kalba",
+      "rationale": "Visa eilutė (kaip ir visa Ezros dalis 4,8–6,18) parašyta aramėjiškai, ne hebrajiškai."
+    }
+  ],
+  "translation": "Dabar duokite įsakymą sustabdyti šiuos vyrus, ir šis miestas tebūna nestatomas, kol iš manęs bus duotas įsakymas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/4\/21-24.1792492113284.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "duokite"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "įsakymą"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "sustabdyti"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "ir miestas"
+    },
+    {
+      "surface": "דך",
+      "gloss": "šis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "tebūna statomas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iš manęs"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "įsakymas"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "bus duotas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:28:33.284508005Z",
+  "model": "glm-5.3"
+}

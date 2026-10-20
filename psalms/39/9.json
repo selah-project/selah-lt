@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nevidonas",
+      "rationale": "נבל — beprotybės įvaizdis: kvailys, kuris sako širdyje „nėra Elohim“; ne vien „kvailys“"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei (kalbantieji psalme)",
+      "rationale": "maldos kreipimasis, neigiama prašymo forma אל + imperatyvas"
+    }
+  ],
+  "translation": "Iš visų mano nusikaltimų išplėšk mane; nevidono pajuoka nepadaryk manęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/39\/9-12.1792487915310.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mano nusikaltimų"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "išplėšk mane"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "pajuoka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevidono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "padaryk manęs"
+    }
+  ],
+  "timestamp": "2026-10-20T09:18:35.310760702Z",
+  "model": "glm-5.3"
+}

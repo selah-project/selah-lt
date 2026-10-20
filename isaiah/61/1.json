@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio — pridėta lietuviška kopula"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פקח קוח",
+      "rationale": "idioma „atvėrimas-pakėlimas“ — kalėjimo durelių atvėrimas — Tanache tik čia tokia forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרור",
+      "rationale": "„laisvė“ vs pažodžiui „dror“ — laisvas tekėjimas, paleidimas pagal Jubiliejų (Kun 25, 10)"
+    }
+  ],
+  "translation": "Adonai Jahvės ruach ⟨yra⟩ ant manęs, nes Jahvė patepė ⟨את⟩ mane skelbti gerąją žinią nuolankiesiems, siuntė mane sutvarstyti sutrūkinėjusios širdies ⟨žmones⟩, paskelbti belaisviams laisvę ir pririštiesiems atvėrimą-pakėlimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9110b8a18c681086226b48e2c25f4b2f116eb1a40fad64a7d4925090a2db74e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/61\/1-4.1792481992720.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "יען",
+      "gloss": "nes"
+    },
+    {
+      "surface": "משח",
+      "gloss": "patepė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "skelbti gerąją žinią"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "nuolankiesiems"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "siuntė mane"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "sutvarstyti"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "sutrūkinėjusiems"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "paskelbti"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "belaisviams"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "laisvę"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "ir pririštiesiems"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "atvėrimą"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "pakėlimą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:52.722012570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nekelk gandos",
+      "rationale": "pažodžiui 'nekėlk girdėjimo' — נשא שמע, idiomą 'skleisti žinią' atkuriu veiksmažodžiu 'kelk'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tuščios gandos",
+      "rationale": "šוא gali reikšti ir 'melagingos', ir 'tuščios' — pasirinkta 'tuščios' kaip platesnė"
+    }
+  ],
+  "translation": "Nekelk tuščios gandos; nedėk savo rankos su nedorėliu, kad būtum smurto liudytojas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/1-4.1792472699977.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kelk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gandos"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tuščios"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "dėk"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėliu"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kad būtum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudytojas"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "smurto"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:59.979610410Z",
+  "model": "glm-5.3"
+}

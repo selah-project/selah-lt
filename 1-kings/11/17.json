@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio būsenai apibūdinti"
+    },
+    {
+      "kind": "crux",
+      "subject": "Adadas \/ Hadadas",
+      "rationale": "tas pats asmuo vadinamas dviem vardo formomis (אדד \/ הדד); išlaikomos abi, kaip hebrajų tekste"
+    }
+  ],
+  "translation": "Ir pabėgo Adadas — jis ir edomitai, keli iš tarnų jo tėvo, ⟨su juo⟩ — ateiti į Micraimą; o Hadadas ⟨buvo⟩ jaunas bernaitis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3163b2c09e3725e2b5055e959743d2c8ed86c75491d81d56ba6fedc3f1d06e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/17-20.1792479284062.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ir pabėgo"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adadas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ir vyrai"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomitai"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "iš tarnų"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jo tėvo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo",
+      "marks": "su juo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimą"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "o Hadadas"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jaunas bernaitis"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mažas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:44.063029724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 36:19",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מאמצי",
+      "rationale": "מאמץ 'jėgos pastangos, resursai' — tik čia Tanache."
+    },
+    {
+      "kind": "crux",
+      "subject": "שועך",
+      "rationale": "שוע gali būti 'šauksmas' arba 'turtas' — KJV 'riches' vs ASV 'cry'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dėl⟩",
+      "rationale": "Prielinksnis pridėtas, siejant 'ne auksas' su klausimu."
+    }
+  ],
+  "translation": "Ar išdėstys tavo šauksmą? Ne — ⟨dėl⟩ aukso, ir visi stiprybės įtempimai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/17-20.1792490688660.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היערך",
+      "gloss": "ar išdėstys"
+    },
+    {
+      "surface": "שועך",
+      "gloss": "tavo šauksmas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "מאמצי",
+      "gloss": "įtempimai"
+    },
+    {
+      "surface": "כח",
+      "gloss": "stiprybės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:48.660924897Z",
+  "model": "glm-5.3"
+}

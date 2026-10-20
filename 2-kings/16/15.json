@@ -1,0 +1,213 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לְבַקֵּֽר",
+      "rationale": "šaknis בקר reiškia „tikrinti, ieškoti, sprendimą priimti“ — kas per apklaima per varinį altorių, neaišku; vertimai svyruoja nuo „būrimuisi“ iki „man apsispręsti“"
+    },
+    {
+      "kind": "you",
+      "subject": "kunigui Urijui",
+      "rationale": "tiesioginis karaliaus Achazo paliepimas antruoju asmeniu (תִּזְרֹ֑ק)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skerdimų",
+      "rationale": "זֶבַח pažodžiui „skerdimas, auka“ — ne specifinė aukos rūšis"
+    }
+  ],
+  "translation": "Ir įsakė jam karalius Achazas — ⟨את⟩ Uriją kunigą — sakydamas: ant didžiojo altoriaus sukvėpink ⟨את⟩ rytinę degintą auką ir ⟨את⟩ vakaro minchą, ir ⟨את⟩ karaliaus degintą auką, ir ⟨את⟩ jo minchą, ir ⟨את⟩ degintą auką visos šalies tautos, jų minchą ir jų pylimus; o visą degintos aukos kraują ir visą skerdimų kraują ant jo tu pašlakstyk; o varinis altorius tebūna man apklausimui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/13-16.1792480299537.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "Ir įsakė jam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achazas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriją kunigą"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriją"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altoriaus"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "didžiojo"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "sukvėpink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rytinę degintą auką"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "degintą auką"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rytinę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vakaro minchą"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchą"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "karaliaus degintą auką"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "degintą auką"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo minchą"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "jo minchą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "degintą auką visos tautos"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "degintą auką"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalies"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "jų minchą"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ir jų pylimus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "o visą"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "degintos aukos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visą"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "skerdimų"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "tu pašlakstyk"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "o varinis altorius"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "varinis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tebūna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "apklausimui"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:39.540411458Z",
+  "model": "glm-5.3"
+}

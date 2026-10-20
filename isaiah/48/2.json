@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškos sąsajos nėra, lietuvių kalbai reikia žodžio 'yra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקראו",
+      "rationale": "pažodžiui 'buvo pašaukti (iš šventojo miesto)' — veiksmažodis pasyvus, 'jie vadina save' interpretacija iš konteksto"
+    }
+  ],
+  "translation": "Nes šventojo miesto ⟨vardu⟩ jie vadina save ir ant Jisraelio Elohim remiasi — Jahvė Cevaot ⟨yra⟩ jo vardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/1-4.1792481678525.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventojo"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "jie vadina save"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "jie remiasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vardas jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:38.527302152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 40:3",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalboje be veiksmažodžio — 'jo išvaizda kaip vario išvaizda'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "matavimo nendrė",
+      "rationale": "Nendrė ir linų virvė — šventyklos matavimo įrankiai; matavimo scenos pradžia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varis",
+      "rationale": "נחשת — varis\/bronza; lietuvių tradicijoje dažnai 'bronza'."
+    }
+  ],
+  "translation": "Ir atvedė mane ⟨את⟩ ten, ir štai vyras, kurio išvaizda buvo kaip vario išvaizda, ir linų virvė jo rankoje, ir matavimo nendrė; ir jis stovėjo vartuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "84f70214e5fe999decba9cfc87d9b3f554c983178566108eafeb60697f29857e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/40\/1-4.1792485935679.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "ir atvedė"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "jo išvaizda"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "kaip išvaizda"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "ופתיל",
+      "gloss": "ir virvė"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "linų"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ir nendrė"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "matavimo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "vartuose"
+    }
+  ],
+  "timestamp": "2026-10-20T08:45:35.682778112Z",
+  "model": "glm-5.3"
+}

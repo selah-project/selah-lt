@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų neturi veiksmažodžio — „jis sunkus“ parafrastinė stovimoji konstrukcija be kopulos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "Pažodžiui „nuo veido to bado“ — idiomatinis priežasties junginys."
+    }
+  ],
+  "translation": "Ir gausumo nebebus žinoma žemėje ⟨dėl⟩ to bado po to, nes jis ⟨yra⟩ labai sunkus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "707135df527a495ed53f1842b562018b6d5d81081ad5295b816a6f51a9e6f962",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/29-32.1792471848646.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ir nebebus"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "žinoma"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "gausumo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "bado"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sunkus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:48.649158689Z",
+  "model": "glm-5.3"
+}

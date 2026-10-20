@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "lietuvių reikalauja būtojo laiko formos, hebrajų veiksmažodis jos neturi"
+    }
+  ],
+  "translation": "Ir vyras padarė taip, kaip buvo taręs Josefas, ir vyras atvedė ⟨את⟩ vyrus į Josefo namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8bfaadb19cb1dd2a0f16b19a3632f1fdb933e5d6e836695ab8319008c57dda33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/43\/17-20.1792471945412.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "buvo taręs"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atvedė"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyrus"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "į namus"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:25.413909487Z",
+  "model": "glm-5.3"
+}

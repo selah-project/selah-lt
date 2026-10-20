@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo (virš)",
+      "rationale": "hebrajiškai be veiksmažodžio; prielinksnis 'virš' pridėtas pagal 23, 20 paralelę"
+    },
+    {
+      "kind": "crux",
+      "subject": "kunigai",
+      "rationale": "בני דוד כהנים: LXX 'aulagogoi' (rūmų eunucai), KJV 'chief rulers'; hebrajiškas žodis tas pats kaip 8, 17 — 'kunigai'"
+    },
+    {
+      "kind": "crux",
+      "subject": "keretiečiai ir peletiečiai",
+      "rationale": "etniniai vardai vs 'sargybiniai\/bėgikai' (LXX 'doryforoi') — palikti kaip vardai pagal skambesį"
+    }
+  ],
+  "translation": "ir Benajahu, Jehojados sūnus, ⟨buvo⟩ virš keretiečių ir peletiečių, ir Davido sūnūs ⟨buvo⟩ kunigai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/8\/17-18.1792478016807.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "ir Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojados"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ir keretiečiai"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "ir peletiečiai"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:36.808489757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav su asmenuote („ją“) sulietas į įprastą lietuvišką įnaginį įvardį, ⟨את⟩ ženklelis nebeatskiriamas"
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Lietuvių kalbai reikalingas įnaginis įvardis, hebrajų turi tik אתו"
+    }
+  ],
+  "translation": "Ir jie pasiuntė pasiuntinius pas Kirjat-Jearimo gyventojus, sakydami: Pelištų atidavė ⟨את⟩ Jahvės skrynią. Nusileiskite, pakelkite ją pas save.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/21-21.1792477005195.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ir jie pasiuntė"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jearimo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "atidavė"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės skrynią"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "Nusileiskite"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "pakelkite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩  ją"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "pas save"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:45.196317474Z",
+  "model": "glm-5.3"
+}

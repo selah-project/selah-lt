@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 66:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואנכי מעשיהם",
+      "rationale": "Sąvokos trūksta: 'Ir aš [pažįstu] jų darbus' arba 'Ir aš — jų darbai ir mintys [ateis teismui]'; hebraiškai veiksmažodžio nėra."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨man žinomi⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio tarp 'aš' ir 'jų darbai'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלשנות → kalbas",
+      "rationale": "לשון pažodžiui 'liežuvis' — čia 'kalbos, tautos'."
+    }
+  ],
+  "translation": "Ir aš — jų darbai ir jų mintys ⟨man žinomi⟩; ateina ⟨valanda⟩ surinkti ⟨את⟩ visas tautas ir kalbas, ir jos ateis bei pamatys ⟨את⟩ mano šlovę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a756507780e62a250ad5e9b62395a8ccc38398181d4739e90a1a13b3f4f31bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/17-20.1792482164749.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "jų darbai"
+    },
+    {
+      "surface": "ומחשבתיהם",
+      "gloss": "ir jų mintys"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "לקבץ",
+      "gloss": "surinkti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas tautas ir kalbas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "והלשנות",
+      "gloss": "ir kalbas"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ir ateis"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ir pamatys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano šlovę"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mano šlovę"
+    }
+  ],
+  "timestamp": "2026-10-20T07:42:44.752477001Z",
+  "model": "glm-5.3"
+}

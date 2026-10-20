@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mano pone",
+      "rationale": "אדני čia apie žmogų — 'ponas', ne 'Adonai', nes kreipiamasi į tarną"
+    }
+  ],
+  "translation": "Ir ji tarė: Gerk, mano pone. Ir skubėdama nuleido savo ąsotį ant savo rankos ir pagirdė ⟨את⟩ jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/17-20.1792471393132.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ir ji tarė"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "gerk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "ir skubėdama"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "nuleido"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "savo ąsotį"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "ir pagirdė ⟨את⟩ jį",
+      "marks": "jį (tarną)"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:13.134728275Z",
+  "model": "glm-5.3"
+}

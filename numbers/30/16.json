@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "nešti kaltę",
+      "rationale": "נשא עון — pažodžiui 'nešti kaltę', hebrajiškas idiomatas 'prisiimti atsakomybę už nuodėmę'"
+    },
+    {
+      "kind": "crux",
+      "subject": "jos kaltę",
+      "rationale": "עונה — kieno kaltę neša vyras: versijos skiriasi dėl skyriaus ribų; hebrajiškai aiškiai 'jos (žmonos) kaltę', nes vėliau paneigęs prisiima ją pats"
+    }
+  ],
+  "translation": "O jeigu jis jas panaikina — panaikina ⟨אתם⟩ po to, kai išgirdo, — tai jis neš ⟨את⟩ jos kaltę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/30\/13-16.1792474707065.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jeigu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "panaikinti"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "panaikins"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "jas — įžadus ir pančius"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po to"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kai išgirdo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "tai jis neš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos kaltę"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "jos kaltę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:27.068169162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 24:4",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — pridėta lietuvių kopula"
+    },
+    {
+      "kind": "idiom",
+      "subject": "dangstyti savo kojas",
+      "rationale": "להסך את רגליו — eufemizmas: pažodžiui 'pasidengti kojas', iš tikrųjų — gamtinį reikalą atlikti"
+    }
+  ],
+  "translation": "Ir atėjo prie avių aptvarų prie kelio, ir ten ⟨yra⟩ ola; ir įėjo Šaulas dangstyti ⟨את⟩ savo kojų, o Davidas ir jo vyrai sėdėjo olos gelmėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/1-4.1792477669299.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ir atėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "גדרות",
+      "gloss": "aptvarų"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avių"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "kelio"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir ten"
+    },
+    {
+      "surface": "מערה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir įėjo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulas"
+    },
+    {
+      "surface": "להסך",
+      "gloss": "dangstyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kojų"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "savo kojų"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "o Davidas"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ir jo vyrai"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "gelmėse"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "olos"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "sėdėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:49.304663104Z",
+  "model": "glm-5.3"
+}

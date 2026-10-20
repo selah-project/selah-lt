@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "Lietuvių kalbai reikia objekto, hebrajų כשמע jokio daiktavardžio neturi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jis liovėsi",
+      "rationale": "ויחדל pažodžiui 'pasidarė silpnas\/nustojo' — 'liovėsi' išlaiko veiksmą"
+    }
+  ],
+  "translation": "Ir atsitiko, kai tai išgirdo Baša, jis liovėsi statęs ⟨את⟩ Ramą ir apsigyveno Tircoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1a641ef8e65ea0471c6e9c89ecf8404cd71cf19e9ca7a80dc338217715fead2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/15\/21-24.1792479445893.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "kai tai išgirdo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "jis liovėsi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "statęs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramą"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramą"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir apsigyveno"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircoje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:25.894705950Z",
+  "model": "glm-5.3"
+}

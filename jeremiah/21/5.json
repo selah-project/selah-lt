@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ranka \/ ranka",
+      "rationale": "יד ir זרוע — abi 'ranka\/ ranka'; זרוע laikoma 'ranka' pagal hebrajišką vaizdą, ne 'rankove'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף חמה קצף",
+      "rationale": "trijų pykčio žodžių kaupimas — nosies\/karščio\/skeldos vaizdai lietuvių atskiromis šaknimis"
+    }
+  ],
+  "translation": "Ir kausiuosi aš su ⟨את⟩ jumis ištiesta ranka ir stipria ranka, ir rūstybėje, ir įniršyje, ir dideliu įtūžyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/21\/5-8.1792482676176.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "Ir kausiuosi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "su ⟨את⟩ jumis",
+      "marks": "jumis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ištiesta"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ir ranka"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "stipria"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ir rūstybėje"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ir įniršyje"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "ir įtūžyje"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dideliu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:51:16.177733227Z",
+  "model": "glm-5.3"
+}

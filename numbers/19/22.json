@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — alsuojanti būtybė, gyvybė; ne 'siela' filosofine prasme"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "įvardis pridėtas aiškinti, ką נגעת objektas reiškia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמא\/יטמא",
+      "rationale": "nešvarusis daro nešvarų — tos pačios šaknies kartojimas, lietuvių atskirais žodžiais iš dalies prarandama"
+    }
+  ],
+  "translation": "Ir visa, ką nešvarusis palies, bus nešvaru, ir gyvybė, kuri tai paliečia, bus nešvari iki vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c07d8611f331d49baaa80897c1b68859fa62f12f5393b1f4e79e4e1e372b5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/19\/21-22.1792474313946.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "palies"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nešvarusis"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvaru"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "ir gyvybė"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "kuri paliečia"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "bus nešvari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:31:53.947238630Z",
+  "model": "glm-5.3"
+}

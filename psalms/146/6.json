@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Papildytas sietuvas 'kas juose yra'"
+    }
+  ],
+  "translation": "Kuriantis dangų ir žemę, ⟨את⟩ jūrą ir ⟨את⟩ visa, kas juose ⟨yra⟩; saugantis tiesą per amžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "df2325d84195eeda451fcf47037af6d3c7fb2a77f3bf3cf53c2d0809185a5939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/146\/5-8.1792489375812.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Kuriantis"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ir žemę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūrą"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūrą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "saugantis"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesą"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:55.813158523Z",
+  "model": "glm-5.3"
+}

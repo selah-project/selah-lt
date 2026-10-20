@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 13:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨taip⟩",
+      "rationale": "hebrajų והיה neturi pilno predikato, lietuvių kalba reikalauja"
+    },
+    {
+      "kind": "crux",
+      "subject": "כצבי",
+      "rationale": "צבי – gazelė arba 'švytinti' (panašiai kaip Ct 2, 9); čia 'gazelė' kaip genamas žvėris"
+    }
+  ],
+  "translation": "Ir bus ⟨taip⟩: kaip genama gazelė, kaip avis, kurios niekas nesuria – kiekvienas į savo tautą trauks, ir kiekvienas į savo kraštą bėgs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/13\/13-16.1792480769952.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "kaip gazelė"
+    },
+    {
+      "surface": "מדח",
+      "gloss": "genama"
+    },
+    {
+      "surface": "וכצאן",
+      "gloss": "kaip avis"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kurios nėra"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "kuris surenka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "trauks"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ir kiekvienas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "savo kraštą"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "bėgs"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:29.955297540Z",
+  "model": "glm-5.3"
+}

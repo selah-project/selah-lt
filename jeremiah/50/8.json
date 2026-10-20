@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "bėkite... išeikite",
+      "rationale": "imperatyvai, kreipimasis į išgyvenusiuosius Babilone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ožiai-vedliai",
+      "rationale": "עתודים — suaugę ožiai-eržilai, kurie eina pirma kaimenės; 'vedliai' pridėta, nes vien 'ožiai' prarastų palyginimo point'ą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צאן\/עתודים",
+      "rationale": "piemenų metaforos tęsinys iš 50,6–7: pasiklydusi kaimenė dabar gauna ožius-vedlius"
+    }
+  ],
+  "translation": "Bėkite iš Babilono vidurio ir iš Kasdų krašto išeikite, ir būkite kaip ožiai-vedliai prieš kaimenę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/50\/5-8.1792483582448.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "bėkite"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ir iš krašto"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdų"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "išeikite"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir būkite"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "kaip ožiai-vedliai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kaimenę"
+    }
+  ],
+  "timestamp": "2026-10-20T08:06:22.451006011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veikiamosios raiškos; lietuvių kalbai reikia pagalbinio žodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "griuvėsiai",
+      "rationale": "לחרבה pažodžiui „sausrumo vieta, išdžiūvusi dykra“ — derinta su dykumos vaizdiniu."
+    }
+  ],
+  "translation": "Mūsų šventumas ir mūsų puošnumo namai, kuriuose mūsų tėvai Tave šlovino, ⟨yra⟩ paversti ugnies deginimu, ir visi mūsų mylimiausieji dalykai ⟨yra⟩ paversti griuvėsiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/9-11.1792482040116.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "mūsų šventumas"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "ir mūsų puošnumas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuose"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "Tave šlovino"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "mūsų tėvai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "virto"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "deginimu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnies"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "mūsų mylimiausieji"
+    },
+    {
+      "surface": "היה",
+      "gloss": "virto"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "griuvėsiais"
+    }
+  ],
+  "timestamp": "2026-10-20T07:40:40.117390177Z",
+  "model": "glm-5.3"
+}

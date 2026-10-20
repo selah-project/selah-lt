@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesa",
+      "rationale": "נפש — gerklė, gyvybės jėga, ne 'siela' viena"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "'iš mūšio, kuris buvo prieš mane' vs 'nuo tų, kurie arti manęs' (ylt) — קרב gali būti ir 'kova', ir 'artumas'"
+    }
+  ],
+  "translation": "Jis išpirko į taiką mano nefesą iš mūšio, kuris buvo prieš mane, nes daugelis buvo su manimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/55\/17-20.1792488121381.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "išpirko"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "į taiką"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesą"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iš mūšio"
+    },
+    {
+      "surface": "לי",
+      "gloss": "prieš mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "daugelis"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "su manimi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:22:01.381925255Z",
+  "model": "glm-5.3"
+}

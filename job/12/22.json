@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "gilumos iš tamsos",
+      "rationale": "Eilutė kalba apie paslėptus, gilius dalykus, kuriuos Elohim vienas apnuogina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mirties-šešėlis",
+      "rationale": "צלמות — sulaužyta dvigubumo forma (צל+מות), verčiama jungtiniu, ne vienu žodžiu 'tamsa'."
+    }
+  ],
+  "translation": "Jis apnuogina gilumas iš tamsos ir išveda į šviesą mirties-šešėlį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/12\/21-24.1792490239334.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "apnuogina"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "gilumas"
+    },
+    {
+      "surface": "מני",
+      "gloss": "iš"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamsos"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išveda"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "į šviesą"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "mirties-šešėlį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:57:19.335416622Z",
+  "model": "glm-5.3"
+}

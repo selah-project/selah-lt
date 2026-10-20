@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 14:19",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Prievaizdo על prieš ספר lietuviškame locative nelieka atskiro žodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dienų reikalų knyga",
+      "rationale": "Hebrajų ספר דברי הימים pažodžiui — „dienų reikalų knyga“, ne vėlesnis „kronikų“ pavadinimas."
+    },
+    {
+      "kind": "invitation",
+      "subject": "štai",
+      "rationale": "הנם kreipia skaitytojo žvilgsnį į rašytinį šaltinį."
+    }
+  ],
+  "translation": "O likusieji Jerovamo reikalai — kaip jis kariavo ir kaip karaliavo — štai jie parašyti dienų reikalų knygoje Jisraelio karalių ⟨dalykuose⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/17-20.1792479387688.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "o likusieji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "reikalai"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerovamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kariavo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir kaip"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliavo"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "štai jie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "parašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "reikalų"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:27.690200208Z",
+  "model": "glm-5.3"
+}

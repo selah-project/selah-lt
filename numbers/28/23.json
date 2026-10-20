@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi sietuvo, lietuvių kalbai jo reikia."
+    },
+    {
+      "kind": "elision",
+      "subject": "לעלת",
+      "gloss": "parodyti, kad ל prieš 'olá yra konstrukto žymuo be atskiro žodžio."
+    }
+  ],
+  "translation": "Be rytinės deginamosios aukos, kuri ⟨yra⟩ nuolatinė deginamoji auka, ⟨tai⟩ padarysite ⟨את⟩ šitai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "77265568bed59cc19cfaf7d395f544448a295edd6d84bc1c11c2d893476da041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/21-24.1792474554513.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "deginamosios aukos"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rytinės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "deginamajai aukai"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "nuolatinė"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "padarysite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:35:54.514910077Z",
+  "model": "glm-5.3"
+}

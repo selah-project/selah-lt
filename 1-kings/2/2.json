@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "einu visos žemės keliu",
+      "rationale": "Hebrajiškas eufemismas mirčiai — 'visos žemės kelias'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "būk stiprus ir būk vyras",
+      "rationale": "Davido imperatyvas, tiesioginis paliepimas sūnui."
+    }
+  ],
+  "translation": "Aš einu visos žemės keliu, o tu būk stiprus ir būk vyras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "489c9ae87a3338533d9795033615cd80831b06c72cc1d2c2291513ad6cd78e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/1-4.1792478878901.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "einu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "keliu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "ir būk stiprus"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ir būk"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vyras"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:58.902888880Z",
+  "model": "glm-5.3"
+}

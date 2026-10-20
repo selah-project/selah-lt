@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 3:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנוף תחנף",
+      "rationale": "Toji pati šaknis pakartota du kartus — „suderinta suteršta“, infinitivinis stiprinimas, lietuvių kalboj prarandamas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨žmona⟩",
+      "rationale": "„tampa kito vyro“ — hebrajiškai moteris neištarta, bet prasmė reikalauja žodžio."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė kalba Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis į tautą kaip į ištekėjusią moterį."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ושוב אלי",
+      "rationale": "Kvietimas sugrįžti — raginimo veiksmažodis su imperatyvo jėga."
+    }
+  ],
+  "translation": "Sakoma: štai jei vyras atleidžia ⟨את⟩ savo žmoną, ir ji nueina nuo ⟨את⟩ jo, ir tampa kito vyro ⟨žmona⟩ — ar jis dar sugrįš pas ją? Ar ta šalis nėra labai suteršta? Ir tu svetimavai su daugeliu meilužių, bet grįžk pas mane, — sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/3\/1-4.1792482172007.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sakoma"
+    },
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "atleidžia"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo žmoną"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savo žmoną"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ir ji nueina"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "nuo ⟨את⟩ jo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vyrui"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kitam"
+    },
+    {
+      "surface": "הישוב",
+      "gloss": "ar sugrįš"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "pas ją"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "חנוף",
+      "gloss": "labai suteršta"
+    },
+    {
+      "surface": "תחנף",
+      "gloss": "suteršta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ta šalis"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ta pati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir tu"
+    },
+    {
+      "surface": "זנית",
+      "gloss": "svetimavai"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "su meilužiais"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugeliu"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "bet grįžk"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:42:52.008730595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 10:10",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasielgėte išdavikiškai",
+      "rationale": "מעל — slapta išsižadėti, veikti neištikimai; ne paprastas „nusikaltimas“"
+    },
+    {
+      "kind": "crux",
+      "subject": "וותשיבו",
+      "rationale": "Nuoroda: „apgyvendinti“ svetimas moteris vs „vesti“ — šaknis ישב, sėdinti, čia be את žymeklio"
+    },
+    {
+      "kind": "you",
+      "subject": "jūs",
+      "rationale": "Ezros tiesioginis kreipimasis į susirinkusiuosius"
+    }
+  ],
+  "translation": "Ir stojo kunigas Ezra ir tarė jiems: jūs pasielgėte išdavikiškai, apsigyvendinote svetimas moteris, pridėdami prie Jisraelio kaltės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/10\/9-12.1792492205447.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir stojo"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "pasielgėte išdavikiškai"
+    },
+    {
+      "surface": "ותשיבו",
+      "gloss": "apgyvendinote"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "svetimas"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "pridėdami"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "אשמת",
+      "gloss": "kaltės"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:30:05.448379336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, kurio hebrajų והיה čia neturi kaip pilno predikato su daiktais."
+    },
+    {
+      "kind": "elision",
+      "subject": "משתיהם",
+      "rationale": "'Jų gėrimai\/puotos' — verčiama 'jiems puotose', daiktavardis tampa aplinkybe."
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ jiems puotose kanklės ir nebelis, būgnas ir fleita, ir vynas — o ⟨את⟩ darbo Jahvės jie neįžiūri, ir veikalo Jo rankų jie nepamatė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/9-12.1792480664319.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kanklės"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ir nebelis"
+    },
+    {
+      "surface": "תף",
+      "gloss": "būgnas"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "ir fleita"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vynas"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "jiems puotose"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "darbo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "įžiūri"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "o veikalo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "Jo rankų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pamatė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:44.326726614Z",
+  "model": "glm-5.3"
+}

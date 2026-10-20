@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Subject pronoun supplied; Hebrew verb implies Aaron from v. 3"
+    },
+    {
+      "kind": "substitution",
+      "subject": "menora",
+      "rationale": "ha-menorah is the seven-branched lampstand; transliterated rather than 'žvakidė'"
+    }
+  ],
+  "translation": "Ant tyriosios menoros jis sutvarkys ⟨את⟩ lempas Jahvės akivaizdoje nuolat.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d0a6f1922c881d88ff586a735e3a0b656ac8882ea3492ba0426b30e2a77fb0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/24\/1-4.1792473716084.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ant"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menoros"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "tyriosios"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "jis sutvarkys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lempas"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lempas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolat"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:56.086985194Z",
+  "model": "glm-5.3"
+}

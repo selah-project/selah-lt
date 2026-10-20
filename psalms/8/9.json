@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viskas, kas",
+      "rationale": "Hebrajų עבר yra dalyvis be daiktavardžio; lietuviškai pridėta „viskas, kas“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kas keliauja",
+      "rationale": "עבר verčiamas „eina“ arba „keliauja per“ — abu teisingi"
+    }
+  ],
+  "translation": "Dangaus paukščiai ir jūros žuvys, viskas, kas eina jūrų keliais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/8\/9-10.1792487463467.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "paukščiai"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ir žuvys"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kas eina"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "keliais"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūrų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:03.468443005Z",
+  "model": "glm-5.3"
+}

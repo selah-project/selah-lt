@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ביום",
+      "rationale": "„dieną“ sulietas su „baigus“ — hebrajiškas „tą dieną, kai baigė“ persidengia su veiksmažodžiu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימשח…ויקדש",
+      "rationale": "poros „patepė–pašventino“ kartojimas apie miškaną ir aukurą — chiazminė struktūra"
+    }
+  ],
+  "translation": "Ir atsitiko Mošei baigus statyti ⟨את⟩ miškaną: jis patepė jį ir pašventino jį bei visus jo indus, ir ⟨את⟩ aukurą bei visus jo indus; jis patepė juos ir pašventino juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/1-4.1792473967376.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "baigus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "statyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "jis patepė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ir pašventino"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus jo indus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jo indus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "aukurą"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus jo indus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jo indus"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "jis patepė juos"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ir pašventino"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "aukurą ir indus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:07.378559047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi būdinio veiksmažodžio — ויהי pridedama kaip „ir buvo“"
+    },
+    {
+      "kind": "you",
+      "subject": "pranašui",
+      "rationale": "Jahvės žodis kreipiamas į Jeremiją"
+    }
+  ],
+  "translation": "Ir buvo žodis Jahvės man, sakant:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6fd5716016d62dd7263d1382dc0b8c91f5b5c3c5c283d117e3f9bbf972495db1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/18\/5-8.1792482697112.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "sakant"
+    }
+  ],
+  "timestamp": "2026-10-20T07:51:37.113411595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 35:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio su „džiaugsmas ant jų galvų“ — pridėta santrumpa."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיגו",
+      "rationale": "נשג „pasieks \/ juos aplankys“ — KJV „obtain“ vs „overtake“; čia „pasieks“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנה · שמחה · ששון",
+      "rationale": "Trys džiaugsmo žodžiai eilėje — pakartota garsų gausa, lietuvių kalboje sumažėja."
+    }
+  ],
+  "translation": "Ir Jahvės išpirktieji sugrįš, ir ateis į Cioną su giesme, ir amžinas džiaugsmas ⟨bus⟩ ant jų galvų; džiugumą ir linksmumą jie pasieks, ir pabėgs sielvartas ir atodūsis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "40429b73887078280b88c88f0006d7b9e6e0aabf1f2f8075b8740cb9270de90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/35\/9-10.1792481332527.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופדויי",
+      "gloss": "ir išpirktieji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "sugrįš"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ir ateis"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cioną"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "su giesme"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "ir džiaugsmas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "jų galvų"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "džiugumas"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ir linksmumas"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "jie pasieks"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "ir pabėgs"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "sielvartas"
+    },
+    {
+      "surface": "ואנחה",
+      "gloss": "ir atodūsis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:52.529449236Z",
+  "model": "glm-5.3"
+}

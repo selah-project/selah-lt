@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במוצק",
+      "rationale": "Šaknis reiškia 'siaurumas': 'vanduo suvaromas' (ledu) vs. kai kurie skaito 'išliejamas plačiai' — priešingos reikšmės."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių reikalauja jungiamojo žodžio."
+    }
+  ],
+  "translation": "Nuo El alsavimo duodamas ledas, ir vandens plotas ⟨yra⟩ suvaromas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/37\/9-12.1792490696424.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "nuo alsavimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duodamas"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ledas"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ir plotas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "suvaromas į siaurumą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:56.425047857Z",
+  "model": "glm-5.3"
+}

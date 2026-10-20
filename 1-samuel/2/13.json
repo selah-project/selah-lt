@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio — lietuvių skaitmeninis sakinys jo reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mėsos šakutė",
+      "rationale": "המזלג — šakutė; „mėsos“ pridėta pagal kontekstą, hebrajiškas žodis tik „šakutė“"
+    }
+  ],
+  "translation": "Ir kunigų paprotys su ⟨את⟩ žmonėmis ⟨buvo⟩ toks: kiekvienas vyras, kai prie aukos aukodavo, ateidavo kunigo vaikas, kol mėsa virė, ir mėsos šakutė, kuriai trys dantys, ⟨buvo⟩ jo rankoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/13-16.1792476995798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "ir paprotys"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmonėmis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonėmis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukodavo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "auką"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ir ateidavo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "virė"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mėsa"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "ir mėsos šakutė"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dantys"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:35.799418312Z",
+  "model": "glm-5.3"
+}

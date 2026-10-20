@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 38:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מר ... מר",
+      "rationale": "dvigubas „karta, karta“ — dviejų skirtingų šaknų pasikartojimas, lietuviškai eina tik pakartojimu"
+    },
+    {
+      "kind": "crux",
+      "subject": "חשקת נפשי משחת בלי",
+      "rationale": "„pamilai mano gyvybę“ + „iš duobės sunaikinimo“: veiksmažodis reiškia „prisirišti, mylėti“, tačiau čia vartojamas elipsiškai — „išgelbėti“; KJV „in love to my soul delivered it“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — alsuojanti gyvybė, ne siela atskirai nuo kūno"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir ištraukei ją",
+      "rationale": "hebrajiškas elipsės veiksmas įvardytas aiškiai, kad sakinys suprantamas"
+    }
+  ],
+  "translation": "Štai, dėl ramybės man buvo karta karta; o tu pamilai mano gyvybę ⟨ir ištraukei ją⟩ iš nykimo duobės, nes užmetei už savo nugaros visas mano nuodėmes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/38\/17-20.1792481410850.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "dėl ramybės"
+    },
+    {
+      "surface": "מר",
+      "gloss": "karta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מר",
+      "gloss": "karta"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "חשקת",
+      "gloss": "pamilai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "iš nykimo duobės"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nykimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "užmetei"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "už"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "savo nugaros"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mano nuodėmes"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:10.852958480Z",
+  "model": "glm-5.3"
+}

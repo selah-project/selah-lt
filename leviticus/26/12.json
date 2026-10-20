@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לכם לאלהים \/ לי לעם",
+      "rationale": "chiazminis pakartojimas 'jums — Elohim \/ man — tauta', sandaros lygiu išlaikytas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "pagal D1 Elohim neverčiamas — ne 'Dievas'"
+    }
+  ],
+  "translation": "Ir vaikščiosiu jūsų viduryje, ir būsiu jums Elohim, o jūs būsite man tauta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/9-12.1792473717831.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ir vaikščiosiu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "jūsų viduryje"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ir būsiu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "o jūs"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "būsite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tauta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:57.834163517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 2:12",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — ne 'siela', o gyvybės jėga, alsavimas; čia ji 'išsilieja' kaip skystis"
+    },
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "Įvardis pridėtas — hebrajų kalboje jį reiškia veiksmažodžio forma"
+    }
+  ],
+  "translation": "Savo motinoms jie klausia: kur javai ir vynas? Kai jie alpsta kaip sužeistieji miesto aikštėse, kai jų gyvybė išsilieja jų motinų glėbian.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8fc38a95343f5aa09460a62b0642f218cfb89b45f756efe1ea6bea2aa8d77776",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/2\/9-12.1792491089850.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמתם",
+      "gloss": "savo motinoms"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "jie klausia"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "javai"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ir vynas"
+    },
+    {
+      "surface": "בהתעטפם",
+      "gloss": "kai jie alpsta"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "kaip sužeistieji"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "aikštėse"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "בהשתפך",
+      "gloss": "kai išsilieja"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jų gyvybė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "חיק",
+      "gloss": "glėbį"
+    },
+    {
+      "surface": "אמתם",
+      "gloss": "jų motinų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:29.851536820Z",
+  "model": "glm-5.3"
+}

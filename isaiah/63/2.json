@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדם \/ אדום",
+      "rationale": "'raudonas' ir 'Edomas' — tos pačios šaknies skambesys, lietuviškai prarasta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausimas",
+      "rationale": "Tiesioginis klausimas kalbančiajam, tęsia 1 eilutės dialogą"
+    }
+  ],
+  "translation": "Kodėl raudonas tavo apdaras, ir tavo drabužiai kaip spaudančiojo vyno spūdoje?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/1-4.1792481979394.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "raudonas"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "tavo apdaras"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ir tavo drabužiai"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kaip spaudančiojo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "vyno spūdoje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:39.395948152Z",
+  "model": "glm-5.3"
+}

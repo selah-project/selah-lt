@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "zovas",
+      "rationale": "הזב — tas, kuris turi tekėjimą; transliteruojama, kad šaknis זוב išliuktų matoma visame skyriuje"
+    },
+    {
+      "kind": "crux",
+      "subject": "balnas",
+      "rationale": "המרכב gali reikšti ir balną, ir vežimą — senesni vertimai skiriasi (Wycliffe 'sadil', kiti 'saddle')"
+    }
+  ],
+  "translation": "Ir kiekvienas balnas, ant kurio joja zovas, bus netyras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/9-12.1792473507257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ir kiekvienas"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "balnas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "joja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zovas"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus netyras"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:27.258245001Z",
+  "model": "glm-5.3"
+}

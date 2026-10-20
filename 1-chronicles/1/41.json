@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "giminės sąrašas",
+      "rationale": "Edomoitų vardų genealogija — vardų sąrašas."
+    },
+    {
+      "kind": "crux",
+      "subject": "Hamranas",
+      "rationale": "חמרן čia „Hamranas“; Pr 36, 26 turi „Hemdanas“ — tas pats vardas kita tradicija."
+    }
+  ],
+  "translation": "Anos sūnūs: Dišonas. Ir Dišono sūnūs: Hamranas, Ešbanas, Jitranas ir Keranas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8bc117251654fe37e7267fe37e8a13563b90e405d5489420e4f02955bd28d55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/1\/41-44.1792492610425.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anos"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dišonas"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dišono"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Hamranas"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ir Ešbanas"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ir Jitranas"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ir Keranas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:36:50.426185461Z",
+  "model": "glm-5.3"
+}

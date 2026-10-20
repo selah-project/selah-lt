@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Jahvė⟩",
+      "rationale": "hebrajiškai veiksnys neįrašytas — 'וימיתהו' veikėjas aiškus iš konteksto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "perleido",
+      "rationale": "ויסib pažodžiui 'apgręžė \/ nukreipė' karalystę — sukti, perkelti"
+    }
+  ],
+  "translation": "Ir neklausė Jahvės, todėl ⟨Jahvė⟩ jį nužudė ir perleido ⟨את⟩ karalystę Davidui, Ješajaus sūnui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/10\/13-14.1792492799312.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו לא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "klausė"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "nužudė jį"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "perleido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalystę"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karalystę"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnui"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ješajaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:39:59.313302137Z",
+  "model": "glm-5.3"
+}

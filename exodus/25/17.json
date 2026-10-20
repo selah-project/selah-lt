@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "išmatavimai",
+      "rationale": "Tikslios kaporet rozmaro: 2,5 alkūnės ilgio, 1,5 alkūnės pločio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaporet",
+      "rationale": "כפרת reiškia dangtį, iš šaknies כפר — dengti\/apygardyti; rašoma pagal hebrajišką skambesį, ne „gailestingumo sostas“."
+    }
+  ],
+  "translation": "Ir padarysi kaporet iš gryno aukso: dvi alkūnės ir pusę — jos ilgis, ir alkūnė bei pusė — jos plotis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/17-20.1792472768394.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "gyro"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvi alkūnės"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ir pusę"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "jos ilgis"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ir alkūnė"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "bei pusė"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jos plotis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:08.395485300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siaubo",
+      "rationale": "מפחד yra staigus išgąstis — objektas, kurio bijoma, ir pats jausmas kartu."
+    },
+    {
+      "kind": "you",
+      "subject": "tikinčiajam",
+      "rationale": "Eilutė tiesiogiai kreipiasi į globojamąjį antruoju asmeniu."
+    }
+  ],
+  "translation": "Nebijosi nakties siaubo, strėlės, skrendančios dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/91\/5-8.1792488708119.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bijosi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "siaubo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nakties"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "strėlės"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "skrendančios"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dieną"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:48.120010143Z",
+  "model": "glm-5.3"
+}

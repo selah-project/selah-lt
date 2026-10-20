@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — pridėta lietuvių gramatikos"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Madmana\/Makbena",
+      "rationale": "Vietos vardai — 'tėvas' čia reiškia vietos įkūrėją ar klano galvą, ne literalų tėvą"
+    }
+  ],
+  "translation": "Ir ji pagimdė ⟨את⟩ Šaafą, Madmanos tėvą, ⟨את⟩ Ševą, Makbenos tėvą, ir Gibeos tėvą; o Kalevo dukra ⟨buvo⟩ Aksa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aef7991da73ef566f7174d8fe41457b8092978111924c3a3f6cc1862f9b61042",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/2\/49-52.1792492674679.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ir ji pagimdė"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Šaafą"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvą"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Madmanos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ševą"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Ševą"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvą"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Makbenos"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ir tėvą"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Gibeos"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "o dukra"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevo"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    }
+  ],
+  "timestamp": "2026-10-20T10:37:54.679548476Z",
+  "model": "glm-5.3"
+}

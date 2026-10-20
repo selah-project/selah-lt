@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "hebrajiškas veiksmažodis תרוממנה pats reiškia 'bus iškelti' — kopula pridėta gramatiškai aiškumo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרן",
+      "rationale": "ragas — jėgos ir garbės simbolis; pakartotas du kartus kaip kontrastas tarp nedoriečių ir teisojo"
+    }
+  ],
+  "translation": "Ir visus nedoriečių ragus nukirsiu, o teisojo ragai bus iškelti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/75\/9-11.1792488373017.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visus"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ragus"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "nedoriečių"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "nukirsiu"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "bus iškelti"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ragai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisojo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:13.017939816Z",
+  "model": "glm-5.3"
+}

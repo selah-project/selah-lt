@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 18:24",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהי",
+      "rationale": "Micho stabai — mažąja raide 'mano dievai', ne Elohim Vardas; jis pats juos 'padarė'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "Pažodžiui 'kas tau?' — Michos klausimas atsako į Dano klausimą ta pačia formule."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה לך \/ מה לי",
+      "rationale": "Dano 'kas tau?' (v. 23) ir Micho 'kas man dar?' (v. 24) — ta pati 'mah le-' forma abiem kryptim."
+    }
+  ],
+  "translation": "Ir jis tarė: ⟨את⟩ mano dievus, kuriuos padariau, jūs paėmėte, ir ⟨את⟩ kunigą, ir nuėjote — o kas man dar beliko? Ir kodėl jūs man sakote: kas tau?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/18\/21-24.1792476794893.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir jis tarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano dievus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "padariau"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "jūs paėmėte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kunigą"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    },
+    {
+      "surface": "ותלכו",
+      "gloss": "nuėjote"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "o kas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar beliko"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ir kodėl"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨tai⟩"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "jūs sakote"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:13:14.895411150Z",
+  "model": "glm-5.3"
+}

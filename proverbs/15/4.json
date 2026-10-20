@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "ברוח — ruach kaip „dvasia, kvapas, vėjas”; vienas žodis, kelios reikšmės, todėl skambesys išlaikytas."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברוח",
+      "rationale": "Vertėjai nesutaria: „lūžis dvasioje” (asmens vidus) arba „lūžis per ruach” (dėl pučiančio vėjo\/vėjo pavidalu)."
+    }
+  ],
+  "translation": "Gydanti liežuvyje — gyvybės medis, o jo iškraipymas — lūžis ruach.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1dbb6b61c51e32a8483406ff6189bf1a75b3af0070713da52b291f512e58573",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/15\/1-4.1792489709574.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "gydanti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "liežuvyje"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "medis"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "o iškraipymas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "lūžis"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruach"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:29.575688719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם תשים",
+      "rationale": "sąlyga „jei padarysi“ prieš bevardė atskaitos forma; JPS skaito „kadangi jis pasiūlė save“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש — geriau „gyvybė, alsavimas“, ne „siela“"
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "hebrajiškai veiksmažodis be įvardžio; lietuvių kalbai reikia veikėjo"
+    }
+  ],
+  "translation": "O Jahvei patiko jį sutriuškinti, susirgdyti jį; jei ⟨tu⟩ padarysi jo gyvybę kaltės atnaša, jis pamatys palikuonis, pratęs dienas, ir Jahvės pageidavimas jo rankoje klestės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/53\/9-12.1792481782025.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "O Jahvė"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "patiko"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "jį sutriuškinti"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "susirgdyti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kaltės atnaša"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo gyvybę"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pamatys"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "palikuonis"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "pratęs"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "ir pageidavimas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "klestės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:22.026204531Z",
+  "model": "glm-5.3"
+}

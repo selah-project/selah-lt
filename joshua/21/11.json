@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨miestą⟩ · ⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio prie „Anako tėvo“ ir jungties „ji yra Chevronas“ eilutės tapatybės aiškumui."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kirjat-Arba, Anako tėvo",
+      "rationale": "Neaišku, kas čia tėvas: Arba yra Anako tėvas, o Kirjat-Arba — miesto pavadinimas („Arbos miestas“), ar „miestas, priklausęs Anako tėvui“."
+    }
+  ],
+  "translation": "Ir jie davė jiems ⟨את⟩ Kirjat-Arbą, Anako tėvo ⟨miestą⟩ — ji ⟨yra⟩ Chevronas — Jehudos kalne, ir ⟨את⟩ jos priemiestį visur aplinkui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/9-12.1792476210853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Arbą"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anako"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevronas"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jos priemiestį"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jos priemiestis"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "visur aplinkui"
+    }
+  ],
+  "timestamp": "2026-10-20T06:03:30.857886069Z",
+  "model": "glm-5.3"
+}

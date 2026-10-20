@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "akmuo ir akmuo",
+      "rationale": "Pakartojimas אבן ואבן reiškia 'du skirtingus svorio akmenis'; dauguma vertimų pakeičia į 'įvairūs svarsčiai'."
+    },
+    {
+      "kind": "you",
+      "subject": "Iisraeli",
+      "rationale": "Įsakymas kreipiamas tiesiogiai į tavąjį (sg.) — Iisraelį."
+    }
+  ],
+  "translation": "Neturi būti tavo krepšyje akmuo ir akmuo, didelis ir mažas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5b7e9f571d5089c7dfde532e86a96fdf45aa99d72df71c6af646362df46534ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/25\/13-16.1792475359471.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tebus"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tavo"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "tavo krepšyje"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "akmuo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ir akmuo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "didelis"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ir mažas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:19.472729544Z",
+  "model": "glm-5.3"
+}

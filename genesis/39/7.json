@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ponas",
+      "rationale": "אדוניו čia apie žmogų — „ponas“, ne Adonai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pakėlė akis",
+      "rationale": "נשא עיניה — pažodžiui išlaikyta, reiškia „susidomėjo, geidė“"
+    },
+    {
+      "kind": "you",
+      "subject": "į Josefą",
+      "rationale": "Žmonos tiesioginis kalbos aktas — įsakymas „Gulk su manimi“"
+    }
+  ],
+  "translation": "Ir atsitiko po šių dalykų, kad jo pono žmona pakėlė ⟨את⟩ savo akis į Josefą ir tarė: Gulk su manimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6cb89b38fe57823e7b93867d9971969a9a91d111bfb450f881f1729ae48c953e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/39\/5-8.1792471835390.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "šių dalykų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šių"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "pakėlė"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jo pono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo akis"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "savo akis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefą"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "Gulk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "su manimi"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:35.396275643Z",
+  "model": "glm-5.3"
+}

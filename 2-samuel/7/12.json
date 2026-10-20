@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 7:12",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "su",
+      "rationale": "את prieš אבתיך čia yra prielinksnis „su“ (שכב את = gulėti su), o ne tiesioginis objekto žymuo ⟨את⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושכבת את אבתיך",
+      "rationale": "pažodžiui „gulsi su savo tėvais“ — eufemizmas, reiškiantis mirtį; išlaikytas žodis žodin."
+    }
+  ],
+  "translation": "Kai prisipildys tavo dienos ir gulsi ⟨את⟩ su savo tėvais, aš pakelsiu ⟨את⟩ tavo sėklą po tavimi, kuri išeis iš tavo įsčių, ir įtvirtinsiu ⟨את⟩ jo karalystę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/7\/9-12.1792478066705.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "prisipildys"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tavo dienos"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ir gulsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ir pakelsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo sėklą"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tavo sėklą"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "po tavimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeis"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "iš tavo įsčių"
+    },
+    {
+      "surface": "והכינתי",
+      "gloss": "ir įtvirtinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo karalystę"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "jo karalystę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:26.709529391Z",
+  "model": "glm-5.3"
+}

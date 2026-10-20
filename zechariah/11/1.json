@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių reikalauja sangrąžinį įvardį, hebrajų turi tik galūnę -יך"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Atverk, Lebanonai",
+      "rationale": "Verslas kreipiasi į Libaną kaip į asmenį, imperatyvas su šauksmininku"
+    }
+  ],
+  "translation": "Atverk, Lebanonai, savo duris, ir ugnis suės tavo kedrus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/11\/1-4.1792487225689.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Atverk"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanonai"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "savo duris"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir suės"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "tavo kedrus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:07:05.690175509Z",
+  "model": "glm-5.3"
+}

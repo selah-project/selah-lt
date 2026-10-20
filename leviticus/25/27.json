@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "metų skaičiavimas",
+      "rationale": "pardavimo metų skaičiavimas — atpirkimo kaina skaičiuojama pagal likusius metus iki jubiliejaus"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai jis",
+      "rationale": "hebrajiškas veiksmažodis וחשב pradeda sakinį be aiškaus veikėjo; pridėta šaknis iš ankstesnės eilutės"
+    }
+  ],
+  "translation": "tai jis suskaičiuos ⟨את⟩ metus nuo savo pardavimo ir grąžins ⟨את⟩ perviršų žmogui, kuriam pardavė, ir sugrįš į savo valdą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/25-28.1792473730536.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "tai jis suskaičiuos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "metus"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "nuo savo pardavimo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ir grąžins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perviršų"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "perviršų"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "žmogui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriam"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "pardavė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ir sugrįš"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "į savo valdą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:10.538502635Z",
+  "model": "glm-5.3"
+}

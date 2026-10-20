@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "prasmės kreipinys",
+      "rationale": "Retrozinis klausimas 'Kas man duotų…' — geismo ištarta malda be aiškaus adresato."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kuris yra⟩",
+      "rationale": "אשר בשער pažodžiui 'kuris prie vartų'; pridėta 'yra' dėl lietuvių sintaksės."
+    }
+  ],
+  "translation": "Ir Davidas geidė ir tarė: Kas man duotų atsigerti vandens iš šulinio, ⟨kuris yra⟩ Beit Lecheme, prie vartų!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a9e64c49c5f3f3e0d565f343396199ca6f2b624bdf681ca9cba4147e459c03a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/13-16.1792478741282.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "ir geidė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "man duotų atsigerti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "iš šulinio"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "prie vartų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:41.284137601Z",
+  "model": "glm-5.3"
+}

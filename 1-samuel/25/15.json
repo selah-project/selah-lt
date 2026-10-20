@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Žodžio היו čia nėra — predikatas be veiksmažodžio, lietuviškai reikia 'buvo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nepraleidome nieko",
+      "rationale": "פקדנו מאומה pažodžiui 'neapsilankėme nė taškelio' — nieko netrūko, jokio nuostolio."
+    }
+  ],
+  "translation": "Tie vyrai buvo mums labai geri, ir nebuvome įžeisti, ir nieko nepraleidome visas dienas, kai ⟨את⟩ su jais vaikščiojome, būdami lauke.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/13-16.1792477705575.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Tie vyrai"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "geri"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "buvome įžeisti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "nepraleidome"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "vaikščiojome"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ su jais"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "būdami"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:25.578265512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרום עם הארץ",
+      "rationale": "„Aukštieji žemės tautos“ — ar מרום reiškia iškiliuosius žmones (taip KJV), ar aukštumas, viršų, ar šalies aukštumas (taip YLT); čia „aukštieji“ apie iškilusius."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבלה נבלה · אמללה נבלה",
+      "rationale": "אבל\/נבל paronomazija — „nuliūdo–nuvyto“ garsinis aidas lietuvių kalba iš dalies išlaikytas asmenvardžių galūnių ritmu, bet ne skambesiu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨žmonės⟩",
+      "rationale": "מרום pažodžiui „aukštumas“; žodis „žmonės“ pridėtas, kad būtų aišku, jog kalbama apie iškiluosius."
+    }
+  ],
+  "translation": "Nuliūdo, nuvyto žemė, nusilpo, nuvyto pasaulis; nusilpo aukštieji ⟨žmonės⟩ tautos žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0eefc8af49c179054712df3c85ce8d98161160f1c6551019c7820f00d6724d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/1-4.1792481115337.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Nuliūdo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nuvyto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nusilpo"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nuvyto"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pasaulis"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nusilpo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "aukštieji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:15.339482738Z",
+  "model": "glm-5.3"
+}

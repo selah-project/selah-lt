@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מטות",
+      "rationale": "pažodžiui „lazdos\/šakos“, čia gentys\/giminės — vaizdinė reikšmė prarasta"
+    },
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "hebrajiškas veiksmažodis turi asmens rodiklį, atskiras įvardis pridėtas aiškumo dėlei"
+    }
+  ],
+  "translation": "Tik burtų keliu bus dalijama ⟨את⟩ žemė; pagal jų tėvų giminių vardus jie paveldės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c29c42420bbee179a834c21e85299ab5f508dc0b93f14ce3b4b0bb623421972e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/53-56.1792474605651.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "burtų keliu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "bus dalijama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemė"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "pagal vardus"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "giminių"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "jie paveldės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:45.653641535Z",
+  "model": "glm-5.3"
+}

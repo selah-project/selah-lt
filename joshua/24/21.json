@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "hebrajiškas prielinksnis net atskiro žodžio — liepsnos vardo vietoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "neigiamame atsakyme כי reiškia „o, bet“ — „Ne, o Jahvę tarnausime“; kai kurie verčia „ne, nes“"
+    }
+  ],
+  "translation": "Ir tauta tarė Jehošua: Ne, o ⟨את⟩ Jahvę mes tarnausime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/24\/21-24.1792476250760.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "mes tarnausime"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:10.762081903Z",
+  "model": "glm-5.3"
+}

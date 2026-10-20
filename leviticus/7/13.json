@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalomimų auka",
+      "rationale": "שלמים — atlygio auka; tradiciškai „taikos auka“, bet šaknis reiškia atlyginti, užbaigti."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "„ant\/prie“ lietuviškai išsklaidyta į „prie“ — prievartinis ryšys tarp duonos ir aukos."
+    }
+  ],
+  "translation": "Prie raugintos duonos papločių jis privalo atnešti savo atnašą, prie padėkos aukos, savo šalomimų aukos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/13-16.1792473186517.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "papločių"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "raugintos"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "jis privalo atnešti"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "savo atnašą"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "aukos"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "padėkos"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "savo šalomimų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:06.518483545Z",
+  "model": "glm-5.3"
+}

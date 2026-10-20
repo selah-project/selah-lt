@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių reikalauja veiksnį nusakančios nuosavybės formos, hebrajų turi tik galūnę -הם"
+    },
+    {
+      "kind": "crux",
+      "subject": "tik Jahvei",
+      "rationale": "רק ליהוה: ar aukojimas aukštumose buvo „tik Jahvei” (leidžiamas), ar „tačiau” kontrastas — vertėjai skiriasi"
+    }
+  ],
+  "translation": "Tačiau žmonės ⟨vis⟩ dar aukojo aukštumose, tik Jahvei, savo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/33\/17-20.1792493898798.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Tačiau"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨vis⟩ dar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "aukojo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "aukštumose"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T10:58:18.799358798Z",
+  "model": "glm-5.3"
+}

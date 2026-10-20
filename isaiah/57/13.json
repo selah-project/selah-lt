@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח — vienas žodis: vėjas, kvapas, dvasia; lietuvių verstas įvairiai, čia išlaikytas kaip ruach"
+    },
+    {
+      "kind": "irony",
+      "subject": "teišgelbėja",
+      "rationale": "Hebrajiškas laikas — ironiškas pareiškimas: tavo rinkėjai teišgelbėja tave, kai rėksi (pejoras, o ne pažadas)"
+    }
+  ],
+  "translation": "Kai rėksi, teišgelbėja tave tavo susirinkimai; ruach nuneš ⟨את⟩ visus juos, tuštybė paims. O tas, kuris ieško prieglobsčio manyje, paveldės žemę ir užvaldys mano šventąjį kalną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/57\/13-16.1792481896065.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "kai rėksi"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "teišgelbėja tave"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "tavo susirinkimai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus juos"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visus juos"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nuneš"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "paims"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tuštybė"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "o tas, kuris ieško prieglobsčio"
+    },
+    {
+      "surface": "בי",
+      "gloss": "manyje"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "paveldės"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ir užvaldys"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mano šventąjį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:16.066134415Z",
+  "model": "glm-5.3"
+}

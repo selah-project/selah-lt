@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew nominal clause lacks copula; Lithuanian requires it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pašventinti",
+      "rationale": "יקדיש here means 'set apart as an offering' — the firstborn is already Jahvė's by right and cannot be dedicated again."
+    }
+  ],
+  "translation": "Tačiau pirmagimis, kuris kaip pirmagimis atitenka Jahvei iš gyulių — niekas jo negali pašventinti ⟨את⟩: arba jautis, arba ėriukas — Jahvės jis ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/25-28.1792473789903.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tačiau"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "atitenka kaip pirmagimis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "iš gyulių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "gali pašventinti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niekas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "אם",
+      "gloss": "arba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jautis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "arba"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ėriukas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:09.904748657Z",
+  "model": "glm-5.3"
+}

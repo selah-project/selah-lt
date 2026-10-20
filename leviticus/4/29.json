@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuodėmės auka",
+      "rationale": "חטאת yra ir nuodėmė, ir jos aukojama auka — lietuvių kalboje reikia skirti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "holokausto auka",
+      "rationale": "עלה — auka, kylanti dūmuose aukštyn"
+    }
+  ],
+  "translation": "Ir uždės ⟨את⟩ savo ranką ant nuodėmės aukos galvos, ir skerdžiant skers ⟨את⟩ nuodėmės auką vietoje, kur skerdžiama holokausto auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/29-32.1792473189417.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ir uždės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nuodėmės aukos"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ir skerdžiant skers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuodėmės auką"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "nuodėmės auką"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kur skerdžiama holokausto auka"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:09.419612472Z",
+  "model": "glm-5.3"
+}

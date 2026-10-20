@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "tetaria dabar Jisraelis",
+      "rationale": "Psalmas kviečia Jisraelį ištarti šiuos žodžius kaip savo išpažintį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "apspaudė",
+      "rationale": "צרר 'suspausti, apsupti vargu' — lietuviškai 'apspaudė' išlaiko spaudimo paveikslą."
+    },
+    {
+      "kind": "addition",
+      "subject": "kartų",
+      "rationale": "רבת 'daug' — pridėta 'kartų', nes lietuvių kalbai reikia daiktavardio."
+    }
+  ],
+  "translation": "Dainė laiptų. Daug kartų apspaudė mane nuo jaunų dienų — tetaria dabar Jisraelis:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/129\/1-4.1792489170868.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Dainė"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "laiptų"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Daug kartų"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "apspaudė mane"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "nuo jaunų dienų"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "tetaria"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:30.868937203Z",
+  "model": "glm-5.3"
+}

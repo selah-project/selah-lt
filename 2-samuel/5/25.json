@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בֹאֲךָ",
+      "rationale": "'ateinant tave' — hebraiškai antroji asmens forma ('kol tu ateisi'), vertėjai dažnai paverčia beasmeniu 'iki ateinančio'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מִגֶּבַע",
+      "rationale": "BSB skaito Gibeoną (Givėoną) vietoj Gėvos"
+    }
+  ],
+  "translation": "Ir Davidas padarė taip, kaip įsakė jam Jahvė, ir sumušė ⟨את⟩ filistiečius nuo Gėvos iki ateinantį Gezerą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/25-25.1792478006942.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ir padarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "įsakė jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir sumušė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistiečius"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiečius"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "nuo Gėvos"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ateinantį"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:26.943744063Z",
+  "model": "glm-5.3"
+}

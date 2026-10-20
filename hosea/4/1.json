@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio su ריב ליהוה; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "chesed",
+      "rationale": "חסד verčiamas skambesiu, ne kaip 'gailestingumas' vienas"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausykite, Jisraelio sūnūs",
+      "rationale": "Eilutė prasideda šaukiamuoju 'šim'u' — kreipimasis į Jisraelį"
+    }
+  ],
+  "translation": "Klausykite žodžio Jahvės, Jisraelio sūnūs, nes byla yra Jahvės su žemės gyventojais: nes nėra tiesos, nėra chesed ir nėra Elohim pažinimo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/4\/1-4.1792486168076.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Klausykite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodžio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "byla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yra Jahvės"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gyventojais"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesos"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pažinimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T08:49:28.077249664Z",
+  "model": "glm-5.3"
+}

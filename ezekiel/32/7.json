@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בכבותך",
+      "rationale": "Infinitivus konstrukcija 'gesinant tave' verčiama polinksniniu dalyviu 'gesindamas tave'."
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Priešvardis prie 'šviesos' pridėtas lietuvių gramatikai, hebrajų turi tik יאיר אורו."
+    }
+  ],
+  "translation": "Ir gesindamas tave uždengsiu dangų, ir sutemdysiu ⟨את⟩ jo žvaigždes; saulę uždengsiu debiesiu, ir mėnulis nešvies savo šviesos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/32\/5-8.1792485661795.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "uždengsiu"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "gesindamas tave"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "ir sutemdysiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo žvaigždes"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "jo žvaigždes"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saulę"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "debiesiu"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "uždengsiu"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ir mėnulis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "švies"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "savo šviesos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:41:01.798533806Z",
+  "model": "glm-5.3"
+}

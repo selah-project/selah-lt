@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ten⟩",
+      "rationale": "Hebrajų dalyvis neturi vietos nurodymo — pridėta nusakyti, kur stovyklaujanti tauta."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sudavė karaliui",
+      "rationale": "הכה — 'sudavė, nukovė'; čia eufemizmas 'nutrenkė karalių', lietuviškai paliktas pažodinis 'sudavė'."
+    }
+  ],
+  "translation": "Ir išgirdo tauta, stovyklaujanti ⟨ten⟩, sakant: Zimris sukėlė sąmokslą ir taip pat sudavė ⟨את⟩ karaliui; tad visas Jisraelis paskelbė karaliumi ⟨את⟩ Omrį, kariuomenės vadą, virš Jisraelio, tą dieną, stovykloje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/13-16.1792479392255.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "stovyklaujanti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sukėlė sąmokslą"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimris"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "sudavė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karaliui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "tad paskelbė karaliumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrį"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrį"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kariuomenės"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "stovykloje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:32.257268910Z",
+  "model": "glm-5.3"
+}

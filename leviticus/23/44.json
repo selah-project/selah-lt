@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Netiesioginė linkuočių konstrukcija lietuviškai aprėpia „אל“ be atskiro žodžio."
+    }
+  ],
+  "translation": "Ir Mošė paskelbė ⟨את⟩ Jahvės paskirtuosius laikus Jisraelio vaikams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/41-44.1792473717450.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ir paskelbė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės paskirtuosius laikus"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "paskirtuosius laikus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:57.452046971Z",
+  "model": "glm-5.3"
+}

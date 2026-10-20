@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 1:27",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאת",
+      "rationale": "'iš' arba 'nuo' — ar šis dalykas kilo iš karaliaus (jo įsakymu) ar be jo žinios."
+    },
+    {
+      "kind": "substitution",
+      "subject": "atskleidei",
+      "rationale": "הודעת pažodžiui 'padarei žinomą'."
+    }
+  ],
+  "translation": "Ar iš ⟨את⟩ mano valdovo karaliaus tikrai kilo šis dalykas, ir neatskleidei ⟨את⟩ savo tarnui, kas sės mano valdovo karaliaus soste po jo?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e0b35e2ff16ad281eb331f8fc5edfcc6b58259e4beea55d604ccd517a359a17f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/1\/25-28.1792478816289.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano valdovo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tikrai kilo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "šis dalykas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "atskleidei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tarnui"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "savo tarnui"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sės"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sosto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano valdovo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po jo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:56.291522135Z",
+  "model": "glm-5.3"
+}

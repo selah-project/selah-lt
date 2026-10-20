@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "jeremiah 51:53",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאתי",
+      "rationale": "Hebrajų 'iš su manimi' — מן + עם; lietuvių pasako 'iš manęs'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שדדים",
+      "rationale": "Dalminis dalyvis iš שדד 'niokoti' — 'naikintojai' vietoj 'plėšikai'."
+    }
+  ],
+  "translation": "Kadangi Babilonas kils iki dangaus ir kadangi įsitvirtins aukštumoje savo jėgos, iš ⟨את⟩ manęs ateis į ⟨ją⟩ naikintojai, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ad7b4dfafeaf5916ec42dec905accf8f6c8e70bf73ccbcf545e7b6bc16ee3d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/51\/53-56.1792483746067.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kadangi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kils"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "iki dangaus"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ir kadangi"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "įsitvirtins"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "aukštumoje"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "savo jėgos"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "iš ⟨את⟩ manęs",
+      "marks": "naikintojai"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "שדדים",
+      "gloss": "naikintojai"
+    },
+    {
+      "surface": "לה",
+      "gloss": "į ⟨ją⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:09:06.069209364Z",
+  "model": "glm-5.3"
+}

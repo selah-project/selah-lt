@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 13:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פרצות",
+      "rationale": "Per įtrūkiai sienoje — pranašai turėjo stoti į spragas gynybos vietoje; paveikslas, ne tik žodis."
+    },
+    {
+      "kind": "addition",
+      "subject": "jūs",
+      "rationale": "Lietuvių kalbai reikia veiksnio; hebrajų veiksmažodžio galūnė -tem jau jį turi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדר\/תגדרו",
+      "rationale": "Šaknies kartojimas: 'statėte aptvarą — aptvarą'; lietuviškai išlaikyta ta pačia šaknimi."
+    }
+  ],
+  "translation": "Nėjote jūs aukštyn į įtrūkius ir nestatėte aptvaros aplink Jisraelio namus, kad stovėti mūšyje Jahvės dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72ed175dec5826e7a630a874e940e5a426fbd934e59fdf403e97e88b14f64b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/13\/5-8.1792484045734.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "nėjote jūs aukštyn"
+    },
+    {
+      "surface": "בפרצות",
+      "gloss": "į įtrūkius"
+    },
+    {
+      "surface": "ותגדרו",
+      "gloss": "ir nestatėte aptvaros"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "aptvara"
+    },
+    {
+      "surface": "על",
+      "gloss": "aplink"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "kad stovėti"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mūšyje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:14:05.735653152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "už mane",
+      "rationale": "Hebrew ממני is literally 'from me'; Lithuanian idiom requires 'stipresni už mane'"
+    }
+  ],
+  "translation": "Jis išplėšė mane iš priešo mano galingo, iš tų, kurie manęs nekenčia, nes jie buvo stipresni už mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "322f4695f62187937a5e88e2c99bd9a4b80b355dee0e0e3204e251d20701d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/22\/17-20.1792478677468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "išplėšė mane"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "iš priešo mano"
+    },
+    {
+      "surface": "עז",
+      "gloss": "galingo"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "iš tų, kurie nekenčia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "jie buvo stiprūs"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "už mane"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:37.469372442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerusalemo gyventojams",
+      "rationale": "Ezekielio pranašystė tiesiogiai kreipiasi į miesto vyresniuosius."
+    },
+    {
+      "kind": "addition",
+      "subject": "prieš",
+      "rationale": "בכם pažodžiui 'jumyse\/vietoj jūsų'; lietuvių kalbai reikia prielinksnio 'prieš'."
+    }
+  ],
+  "translation": "Ir išvesiu ⟨את⟩ jus iš jos vidurio, ir duosiu ⟨את⟩ jus į svetimšalių ranką, ir įvykdysiu prieš jus teismus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/9-12.1792483967000.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ir išvesiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "iš jos vidurio"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ir duosiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimšalių"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ir įvykdysiu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "prieš jus"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "teismus"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:47.002158596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pateptasis",
+      "rationale": "משיח apie karalių verčiamas 'pateptasis', ne 'Mesijas'"
+    },
+    {
+      "kind": "you",
+      "subject": "Avišajus",
+      "rationale": "Davido kreipimasis į Avišajų draudžia žudyti Šaulių"
+    }
+  ],
+  "translation": "Ir Davidas tarė Avišajui: Nesugadink jo, nes kas ištiesė ranką prieš Jahvės pateptąjį ir ⟨liks nekenčiamas⟩?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/9-12.1792477766730.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Avišajui"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avišajus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "sugadink jo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ištiesė"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "prieš pateptąjį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ir liks nekenčiamas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:26.731533367Z",
+  "model": "glm-5.3"
+}

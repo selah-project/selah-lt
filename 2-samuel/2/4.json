@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra tie",
+      "rationale": "hebrajiškai pažodžiui 'Javešo-Gileado vyrai, kurie palaidojo Šaulių' — daiktavardis be veiksmažodžio, lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "patepė",
+      "rationale": "משח — patepti aliejumi; iš šios šaknies vardas mašiach (pateptasis)"
+    }
+  ],
+  "translation": "Ir atėjo Jehudos vyrai ir ten patepė ⟨את⟩ Davidą karaliumi over namui Jehudos. Ir pranešė Davidui, sakydami: Javešo-Gileado vyrai yra tie, kurie palaidojo ⟨את⟩ Šaulių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e905cb85735a5fa2fc556902924befdced506971f552e9d777a60e5b71eab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/2\/1-4.1792477958253.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ir atėjo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "ir patepė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "over"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namui"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ir pranešė"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Javešo"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "palaidojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaulių"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:38.255237571Z",
+  "model": "glm-5.3"
+}

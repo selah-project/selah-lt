@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iki⟩",
+      "rationale": "hebrajų ״היום שלשה״ — ״šiandien tris״ — reiškia ״prieš tris dienas״; lietuviškai reikia prielinksnio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jaunikis iš Micraimo",
+      "rationale": "נער מצרי — pažodžiui ״jaunikis, Micraimo žmogus״"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas kreipiasi į egiptietį",
+      "rationale": "tiesioginis klausimas įtamsonam įvekliui"
+    }
+  ],
+  "translation": "Ir Davidas tarė jam: Kam tu priklausai ir iš kur tu esi? Ir jis tarė: Jaunikis iš Micraimo aš, vergas vienam amalekiečiui vyrui, ir mano ponas paliko mane, nes sirgau ⟨iki⟩ šios dienos tris dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/13-16.1792477766699.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ir iš kur"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš čia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jaunikis"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vienam vyrui"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amalekiečiui"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "ir paliko mane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "sirgau"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šią dieną"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tris"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:26.701645497Z",
+  "model": "glm-5.3"
+}

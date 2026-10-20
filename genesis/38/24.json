@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 38:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ותשרף",
+      "rationale": "hebrajiškas neatlyginamasis „ir ji bus sudeginta“ be veiksmo atlikėjo — lietuvių kalbai pridėta пасmerkta forma"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trijų mėnesių",
+      "rationale": "laikas skaičiuojamas — nėštumo trimestras"
+    }
+  ],
+  "translation": "Ir įvyko maždaug po trijų mėnesių, ir buvo pranešta Judai, sakydama: svetimavo Tamarė, tavo marti, ir netgi štai ji nėščia nuo svetimavimo. Ir Juda tarė: išveskite ją, ir tepasmerkta sudegti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "11ed1b370a345aba85a5f575cde4aa5e4905a101db18c05d975b57137169c0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/38\/21-24.1792471846154.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "כמשלש",
+      "gloss": "maždaug po trijų"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mėnesių"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ir buvo pranešta"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "svetimavo"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarė"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "tavo marti"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir netgi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "nėščia"
+    },
+    {
+      "surface": "לזנונים",
+      "gloss": "nuo svetimavimo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "הוציאוה",
+      "gloss": "išveskite ją"
+    },
+    {
+      "surface": "ותשרף",
+      "gloss": "ir sudeginta"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:46.158986089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasidarė tvirta",
+      "rationale": "ויחזק yra veikiamoji forma: širdis 'pasidarė stipri', ne 'buvo sukietinta' kaip KJV."
+    }
+  ],
+  "translation": "Ir pasidarė tvirta Faraono širdis, ir jis jų neklausė, kaip buvo kalbėjęs Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/13-16.1792472246899.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "pasidarė tvirta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir neklausė"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "neklausė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "buvo kalbėjęs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:26.901981125Z",
+  "model": "glm-5.3"
+}

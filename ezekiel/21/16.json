@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 21:16",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרטה \/ מרוטה",
+      "rationale": "šaknies מרט (šveisti) tvirtinimas chiasmo struktūroje — 'išgaląsta... nušvesta' pora kartojasi iš 21,14"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויתן veikėjas",
+      "rationale": "hebrajiškai veikėjas nepaminėtas — 'davė' be subjekto, kontekste Jahvė"
+    }
+  ],
+  "translation": "Ir jis davė ⟨את⟩ ją nušvesti, kad būtų griebiama delnu: ji išgaląsta — kardas, ir ji nušvesta — atiduoti ⟨את⟩ ją žudiko rankon.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f266c1441b9214d38266bec65d8b5f0f602a4cdcd60f5e349152295a4d8c73ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/21\/13-16.1792484233853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ir davė"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (kardą)"
+    },
+    {
+      "surface": "למרטה",
+      "gloss": "nušvesti"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "kad būtų griebiama"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "delnu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "išgaląsta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ir ji"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "nušvesta"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "atiduoti"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (kardą)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rankon"
+    },
+    {
+      "surface": "הורג",
+      "gloss": "žudiko"
+    }
+  ],
+  "timestamp": "2026-10-20T08:17:13.855028400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול verčiama kaip šeol, ne „pragaras“ — tai požeminis mirusiųjų pasaulis, ne bausmės vieta"
+    }
+  ],
+  "translation": "Jahvė žudo ir prikelia, nuveda žemyn į šeol ir iškelia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/5-8.1792476881852.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "žudo"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ir prikelia"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "nuveda žemyn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "į šeol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ir iškelia"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:41.853747656Z",
+  "model": "glm-5.3"
+}

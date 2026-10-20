@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "„maišytoji minia” vs „visi kiti (mišrūnai) tautos” — tas pats žodis reiškia ir maišymą, ir likutį."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארץ הברית",
+      "rationale": "„sandaros kraštas” (Egiptas, su kuriuo sudaryta sandora) vs „sutarties krašto vyrai” — kam priklauso הברית."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אתם",
+      "rationale": "Čia greičiau prielinksnis עִמָּם „su jomis”, ne את H853 žymiklis; glose paliktas ⟨את⟩ pagal taisyklę, bet pridėta „su jomis”."
+    }
+  ],
+  "translation": "Kušas ir Putas, ir Ludas, ir visa maišytoji minia, ir Kubas, ir sandaros krašto sūnūs — ⟨את⟩ kartu su jomis jie kris kalaviju.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/30\/5-8.1792484517621.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kušas"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ir Putas"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ir Ludas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mašytoji minia"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "ir Kubas"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "krašto"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sandaros"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kartu su jomis",
+      "marks": "su jomis (su Egiptu)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kalaviju"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "jie kris"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:57.622333186Z",
+  "model": "glm-5.3"
+}

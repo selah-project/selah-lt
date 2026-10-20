@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Esu gyvas",
+      "rationale": "חי אני — Jahvės prisaikdimo formulė"
+    },
+    {
+      "kind": "elision",
+      "subject": "nebegalėsite",
+      "rationale": "hebrajų sakinyje nėra neiginio — 'jeigu dar bus jums' reiškia 'niekada nebebus', lietuvių teksto neiginys suprastas iš šnekos veiksmo"
+    }
+  ],
+  "translation": "Esu gyvas, — sako Adonai Jahvė, — jeigu dar kartą bus jums leista sakyti šitą palyginimą Jisraelyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/18\/1-4.1792484073461.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Esu aš"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar kartą"
+    },
+    {
+      "surface": "משל",
+      "gloss": "sakyti palyginimą"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "palyginimą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    }
+  ],
+  "timestamp": "2026-10-20T08:14:33.463844054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Efraimas ir Samarijos gyventojai",
+      "rationale": "Tai puikybės kalba — žodžiai, kuriuos taria žmonės po smūgio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sikomoros",
+      "rationale": "שקמים — sikomoro figmedis, ne įprastas „platanas“."
+    }
+  ],
+  "translation": "„Plytos puolė — bet sumūrysime tašytu akmeniu; sikomoros nukirstos — bet kedrus pastatysime jų vietoje.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/9\/9-12.1792480832795.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "plytos"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "puolė"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "bet tašytas akmuo"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "sumūrysime"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikomoros"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "nukirstos"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "bet kedrai"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "pakeisime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:32.798010914Z",
+  "model": "glm-5.3"
+}

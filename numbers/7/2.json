@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio „būti“ — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "rationale": "„vyriausieji“ vietoj „kunigaikščiai“ — iškeltieji, genties vadai"
+    },
+    {
+      "kind": "measurement",
+      "subject": "הפקדים",
+      "rationale": "nuoroda į Sk 1 surašymą — suskaičiuotieji"
+    }
+  ],
+  "translation": "Ir prisiartino Jisraelio vyriausieji, jų tėvų namų galvos — jie ⟨yra⟩ giminių vyriausieji, jie, kurie stovi prie suskaičiuotųjų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/1-4.1792473967376.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Ir prisiartino"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "vyriausieji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "vyriausieji"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "giminių"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kurie stovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "suskaičiuotųjų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:07.379221544Z",
+  "model": "glm-5.3"
+}

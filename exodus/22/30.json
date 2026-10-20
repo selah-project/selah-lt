@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paplėšytos",
+      "rationale": "טרפה literally means prey — an animal torn by beasts; rendered as one hyphenated picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Lithuanian requires the pronoun object that Hebrew marks with אתו."
+    }
+  ],
+  "translation": "Ir jūs būsite man šventi vyrai; mėsos, lauke paplėšytos, nevalgysite — šuniui mesite ⟨את⟩ ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/29-30.1792472630524.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ir jūs būsite šventi vyrai"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventi"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "būsite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ir mėsos"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "paplėšytos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "valgysite"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "šuniui"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "mesite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:50.526425422Z",
+  "model": "glm-5.3"
+}

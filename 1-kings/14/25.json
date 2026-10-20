@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "užpuolė",
+      "rationale": "עלה pažodžiui 'pakilo, žygiavo aukštyn prieš' — ėjimas aukštyn į Jerušalaimą kartu yra puolimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "hebrajų ויהי sakinio struktūrai lietuvių reikia jungiamojo žodžio"
+    }
+  ],
+  "translation": "Ir atsitiko penktaisiais karaliaus Rechavamo metais, kad Šišakas, Micraimo karalius, užpuolė Jerušalaimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80edccb1bd8991d69023936a1eb78523550bc1fc31a72819daaab35e9f47c076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/25-28.1792479362942.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "metais"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "penktaisiais"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechavamo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "užpuolė (paėjo prieš)"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Šišakas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:02.942792329Z",
+  "model": "glm-5.3"
+}

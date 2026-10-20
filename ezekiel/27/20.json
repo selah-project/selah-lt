@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi kopulos"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חפש",
+      "rationale": "Žodis randamas tik čia — 'kas laisvai patiesta', kilimas; YLT 'rūbai laisvės' pažodžiui"
+    }
+  ],
+  "translation": "Dedanas buvo tavo pirklys kilimais jodymui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "332b4a14755d7a8a9173d6a2d9ada812b92fa8c05fd028dcc0117ee378e2b6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/27\/17-20.1792484592897.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "Dedanas"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "tavo pirklys"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "rūbais"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "laisvais (kilimais)"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "jodymui"
+    }
+  ],
+  "timestamp": "2026-10-20T08:23:12.898750392Z",
+  "model": "glm-5.3"
+}

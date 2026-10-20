@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי ישוחח",
+      "rationale": "šaknis שיח — galvoti, kalbėti, svarstyti: „kas apsakys jo kartą?“ (KJV) arba „kas apie tai susimąstys?“ (ASV\/JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "daugiskaitinė galūnė -mo po vienaskaitos „smūgis“ — „jiems“ yra archajiškas daugiskaitinis; vieni skaito „mano tautai“, kiti laiko galūnę originalia paslaptimi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "visa eilutė",
+      "rationale": "eilutė sąmoningai uždaroma neatrasta nuoroda — nei kas įsakė, nei kam skirtas smūgis; tekstas sako mažiau, nei skaitytojas norėtų"
+    }
+  ],
+  "translation": "Iš suvaržymo ir iš teismo jis buvo paimtas; o ⟨את⟩ jo kartą — kas apie ją susimąstys? Nes jis buvo nukirstas iš gyvųjų žemės — už mano tautos sukiltimą smūgis jiems.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/53\/5-8.1792481822906.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "iš suvaržymo"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ir iš teismo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "buvo paimtas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "jo kartą"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "jo karta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "susimąstys"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "buvo nukirstas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvųjų"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "už sukiltimą"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautos"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "smūgis"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jiems"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:02.907621250Z",
+  "model": "glm-5.3"
+}

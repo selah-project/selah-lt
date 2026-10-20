@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "suskaičiavo",
+      "rationale": "levitų censas pagal šeimas — skaičiavimo veiksmas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשיאים",
+      "rationale": "'vadai' — pažodžiui 'išaukštintieji', gentyse toksvadžiai"
+    }
+  ],
+  "translation": "Ir Mošė, Aharonas ir susirinkimo vadai suskaičiavo ⟨את⟩ Kehato sūnus pagal jų šeimas ir pagal jų tėvų namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4c83d4d49ff09bd6e8bee4806ad167b5ed717e9dd24195f8788eacce3df5adab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/4\/33-36.1792473905275.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ir suskaičiavo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ir Aharonas"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "ir vadai"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "susirinkimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kehato sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehato"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ir pagal namus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:25:05.276499412Z",
+  "model": "glm-5.3"
+}

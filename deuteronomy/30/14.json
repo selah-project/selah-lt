@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "žodis arti",
+      "rationale": "tekstas tiesiogiai kreipiasi į klausytoją: žodis jo burnoje ir širdyje"
+    }
+  ],
+  "translation": "Nes labai arti tavęs ⟨yra⟩ tas žodis — tavo burnoje ir tavo širdyje, kad jį darytum.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/13-16.1792475505574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "arti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tavęs"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tas žodis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "tavo burnoje"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ir tavo širdyje"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "kad jį darytum"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:45.576077095Z",
+  "model": "glm-5.3"
+}

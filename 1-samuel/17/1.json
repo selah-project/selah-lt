@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "žemėje",
+      "rationale": "עם שם vietoje ל רodija priklausymą; lietuviškai reikia „Judo žemėje“"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפס דמים",
+      "rationale": "vietovardis Efes-Damimas, verčiamas skambesiu, ne reikšme"
+    }
+  ],
+  "translation": "Ir peleistiečiai susirinko ⟨את⟩ savo stovyklas į karą, ir susirinko prie Socho, kuris yra Judo ⟨žemėje⟩, ir apsistojo tarp Socho ir tarp Azekos, Efes-Damime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/1-4.1792477371493.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ir susirinko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peleistiečiai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo stovyklas"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "savo stovyklas"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "į karą"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ir susirinko"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sochas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judo"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ir apsistojo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Socho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekos"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damime"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:51.495321785Z",
+  "model": "glm-5.3"
+}

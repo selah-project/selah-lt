@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio jungties; lietuvių žodžių tvarkai reikalinga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח išlaikoma kaip ruach — dvasia, vėjas ir kvapas yra vienas žodis"
+    }
+  ],
+  "translation": "Ir ruach pakėlė mane ir atvedė mane į vidinį kiemą, ir štai pilnas Jahvės šlovės ⟨yra⟩ namas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/43\/5-8.1792486015816.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "pakėlė mane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "ir atvedė mane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kiemą"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "vidinį"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:46:55.817591820Z",
+  "model": "glm-5.3"
+}

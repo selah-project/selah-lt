@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga, ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהבת...אהבו",
+      "rationale": "meilės šaknies kartojimas, lietuviškame tekste susilpnėja"
+    }
+  ],
+  "translation": "Ir Jehonatanas vėl prisaikdino ⟨את⟩ Davidą, nes jį mylėjo; nes jis mylėjo jį ⟨את⟩, kaip savo paties gyvybę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "412ef326fcacdd60a42bc9303c70198c17f6db1dbac8c57450312d05b84266e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/17-20.1792477455148.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "vėl prisaikdino"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanas"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "prisaikdino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "nes jį mylėjo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (Davidą)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "kaip meilę"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savo gyvybei"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "mylėjo jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:24:15.183365963Z",
+  "model": "glm-5.3"
+}

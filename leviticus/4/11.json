@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על ראשו",
+      "rationale": "dvi tradicijos: 'su galva ir kojomis' (KJV, JPS) arba 'be galvos ir kojų' (YLT 'besides') — hebrajiškas על abu leidžia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mėšlą",
+      "rationale": "פרש — išmatos, išgydytas liekanas; žodis tik Kuniguose"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ odą jaučio, ir ⟨את⟩ visą jo mėsą — ⟨su⟩ jo galva ir ⟨su⟩ jo kojomis, ir jo vidurius, ir jo mėšlą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/4\/9-12.1792473181550.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "odą"
+    },
+    {
+      "surface": "עור",
+      "gloss": "odą"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "jaučio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą jo mėsą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jo mėsą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jo galva"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "jo kojomis"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ir jo vidurius"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ir jo mėšlą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:01.553715805Z",
+  "model": "glm-5.3"
+}

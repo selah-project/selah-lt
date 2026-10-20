@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pažįsta \/ sergsti",
+      "rationale": "יודע: „pažįsta“ pažodžiui, arba „rūpinasi, sergsti“ (JPS „regardeth“, BSB „guards“)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך…דרך",
+      "rationale": "Pakartotas „kelias“ dengia abiejų eilių būsenas — chiastiškas Ps 1 įrėmimas"
+    }
+  ],
+  "translation": "Nes Jahvė pažįsta teisiųjų kelią, o bedievių kelias pražus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/1\/5-6.1792487366805.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pažįsta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "kelią"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "teisiųjų"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "o kelias"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedievių"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "pražus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:09:26.807114569Z",
+  "model": "glm-5.3"
+}

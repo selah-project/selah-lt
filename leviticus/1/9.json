@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rami kvapnybė",
+      "rationale": "ניחוח pažodžiui 'ramus, poilsio pilnas kvapas' — lietuvių kalboje dažniai 'malonus kvapas'"
+    },
+    {
+      "kind": "elision",
+      "subject": "המזבחה",
+      "gloss": "Hebrajiškas priešdėlis 'ant-' suprastas kaip 'ant aukuro' viename žodyje"
+    }
+  ],
+  "translation": "Jo vidurius ir jo kojas jis nuplaus vandeniu, ir kunigas sukvėpins ⟨את⟩ viską ant aukuro — deginamoji auka, ugnies atnaša, rami kvapnybė Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/1\/9-12.1792473132866.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "jo vidurius"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "jo kojas"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "nuplaus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandeniu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "sukvėpins"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viską"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies atnaša"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kvapnybė"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "rami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:12.868770998Z",
+  "model": "glm-5.3"
+}

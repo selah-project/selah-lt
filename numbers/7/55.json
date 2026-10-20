@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 7:55",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "translation",
+      "rationale": "Vertime įsivėlė klaida — turi būti: „vienas sidabrinis purslinas, septyniasdešimt šekelių šventyklos šekeliu; abu pilni smulkios miltų, maišyto aliejumi, minchai.“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה — aukos rūšies vardas, verčiamas skambesiu, ne „auka“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "šekeliai",
+      "rationale": "Tikslios svorio grandys: 130 ir 70 šekelių pagal šventyklos šekelį."
+    }
+  ],
+  "translation": "Jo auka: viena sidabrinė lėkštė, sverianti šimtas trisdešimt šekelių, vienas sidabrinis purslinas šimtas? ne — septyniasdešimt šekelių šventyklos šekeliu; abu pilni smulkios miltų, maišyto aliejumi minchai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "18c1efa408c04988c53a80acfadcf5b7c39eec59cbae4805606937c87a790bea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/53-56.1792473986406.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבנו",
+      "gloss": "Jo auka"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "lėkštė"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrinė"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trisdešimt"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "šimtas"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "sverianti"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "purslinas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabrinis"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septyniasdešimt"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekelių"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "šekeliu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventyklos"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abu"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pilni"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "smulkios miltų"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "maišyto"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "aliejumi"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "minchai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:26.407238576Z",
+  "model": "glm-5.3"
+}

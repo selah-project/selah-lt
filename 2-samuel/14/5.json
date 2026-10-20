@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajiškame nėra veiksmažodžio „būti“ — pridėta ⟨esu⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "karalius → moterį",
+      "rationale": "Karalius tiesiogiai kreipiasi į Tekoos moterį klausimu „Kas tau?“"
+    }
+  ],
+  "translation": "Ir karalius tarė jai: Kas tau? Ir ji tarė: Išties, moteris našlė aš ⟨esu⟩, ir mano vyras mirė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/5-8.1792478274399.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ir ji tarė"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "išties"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "našlė"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mano vyras"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:54.401453754Z",
+  "model": "glm-5.3"
+}

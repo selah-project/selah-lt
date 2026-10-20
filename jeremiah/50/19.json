@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neefas",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga, alkis; ne 'siela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ganyklos vaizdas",
+      "rationale": "v.17 ėriukas → v.19 ganykla ir sotis: išblaškyta avis parvedama į pievą"
+    }
+  ],
+  "translation": "Ir sugrąžinsiu ⟨את⟩ Jisraelį į jo ganyklą, ir jis ganysis Karmelyje ir Bašane, ir Efraimo kalne bei Gileade pasisotins jo neefas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/50\/17-20.1792483606698.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "sugrąžinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jo ganyklą"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ganysis"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelyje"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "ir Bašane"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "ir Efraimo kalne"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "bei Gileade"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "pasisotins"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo neefas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:06:46.701323902Z",
+  "model": "glm-5.3"
+}

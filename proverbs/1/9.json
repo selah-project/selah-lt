@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas tekstas neturi svarstyklės žodžio — pridėta ⟨jie — ...⟩ struktūrai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לוית\/חן",
+      "rationale": "pririšamas vainikas-malonė: vienas retas paveikslas, lietuviškai vainikas praranda „pririšimo“ atspalvį"
+    }
+  ],
+  "translation": "Nes jie — malonės vainikas ant tavo galvos, ir vėriniai ant tavo gerklės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/1\/9-12.1792489381129.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "vainikas"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonės"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ant tavo galvos"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ir vėriniai"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ant tavo gerklės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:43:01.130399663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "pažodžiui ‘kas tau?’ — lietuviškai ‘kas tau nutiko \/ kuo tu nusikentei’"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנך \/ בני",
+      "rationale": "chiazminis apsikeitimas ‘tavo sūnus — mano sūnus’ — moterų sandorio simetrija"
+    }
+  ],
+  "translation": "Ir karalius jai tarė: Kas tau? Ir moteris tarė: Ši moteris man sakė: Duok ⟨את⟩ savo sūnų, ir valgysime jį šiandien, o ⟨את⟩ mano sūnų valgysime rytoj.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c6f1a96d620082cfdd351ca1709737b16e15d2b76f3a607175a588ee22557fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/25-28.1792479828987.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "Ši"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sakė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Duok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sūnų"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "savo sūnų"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ir valgysime jį"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "mano sūnų"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnų"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "valgysime"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rytoj"
+    }
+  ],
+  "timestamp": "2026-10-20T07:03:48.990217582Z",
+  "model": "glm-5.3"
+}

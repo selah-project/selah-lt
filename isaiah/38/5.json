@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "elided אל",
+      "rationale": "Lietuvių linksnis (naudininkas) pakeičia prielinksnį אל, todėl atskira glosa nereikalinga"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשרה",
+      "rationale": "Penkiolika — vienas lietuviškas žodis hebrajų žodžiams חמש עשרה, antasis susilieja"
+    }
+  ],
+  "translation": "Eik ir sakyk Chizkijahui: Taip sako Jahvė, Davido, tavo tėvo, Elohim: Išgirdau ⟨את⟩ tavo maldą, pamačiau ⟨את⟩ tavo ašaras — štai, aš pridėsiu prie tavo dienų penkiolika metų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/38\/5-8.1792481433164.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakyk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahui"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "išgirdau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo maldą"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "tavo maldą"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "pamačiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo ašaras"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "tavo ašaras"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "štai, aš"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "pridėsiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pije"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tavo dienų"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "penkiolika"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨penkiolika⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:33.165086226Z",
+  "model": "glm-5.3"
+}

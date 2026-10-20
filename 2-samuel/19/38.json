@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 19:38",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mano ponu",
+      "rationale": "אדני čia apie žmogų — karalių — todėl 'ponas', ne Adonai"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "hebrajiškai ši eilutė yra 39-oji"
+    }
+  ],
+  "translation": "Tegul tavo tarnas grįžta, kad numirčiau savo mieste, prie mano tėvo ir mano motinos kapo; ir štai tavo tarnas Kimhamas teis su mano ponu karaliumi, ir padaryk jam ⟨את⟩ tai, kas gera tavo akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/37-40.1792478487597.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "tegul grįžta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "kad numirčiau"
+    },
+    {
+      "surface": "בעירי",
+      "gloss": "savo mieste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "prie"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kapo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ir mano motinos"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "כמהם",
+      "gloss": "Kimhamas"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "teis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir padaryk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, kas gera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gera"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akyse"
+    }
+  ],
+  "timestamp": "2026-10-20T06:41:27.598663311Z",
+  "model": "glm-5.3"
+}

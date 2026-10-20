@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨po⟩",
+      "rationale": "Lietuvių kalbai reikia prielinksnio, hebrajų turi tik du daiktavardžius „מעט מזער“ — mažai mažumo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ar ne",
+      "rationale": "Klausimas į adresatą — retorinis klausimas apie netolimą ateitį"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מעט מזער",
+      "rationale": "Laiko matas — „labai mažai mažumo“, sutankinta laiko išraiška"
+    }
+  ],
+  "translation": "Ar ne dar ⟨po⟩ labai trumpo laiko, ir Lebanonas virs Karmelu, ir Karmelas bus laikomas mišku?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "040888d57d601ac67184603210ccfac979d0af3707afae0561ea52fa8887bffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/29\/17-20.1792481173763.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "labai trumpo"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "laiko"
+    },
+    {
+      "surface": "וושב",
+      "gloss": "virs"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanonas"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Karmelu"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ir Karmelas"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "mišku"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bus laikomas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:26:13.764136518Z",
+  "model": "glm-5.3"
+}

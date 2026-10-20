@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas sakinys visai be veiksmažodžio — vardų sakinys be kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהן מורה \/ תורה",
+      "rationale": "מורה ir תורה — ta pati šaknis ירה (mokyti): mokytojas ir mokymas, garsų kartojimas"
+    }
+  ],
+  "translation": "Ir daug dienų Jisraeliui ⟨buvo⟩ be Elohim tiesos, be kunigo mokytojo ir be Toros.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/15\/1-4.1792493526548.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "Ir dienų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "be"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesos"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ir be"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mokytojo"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ir be"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toros"
+    }
+  ],
+  "timestamp": "2026-10-20T10:52:06.549786808Z",
+  "model": "glm-5.3"
+}

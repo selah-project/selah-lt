@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨prusų⟩",
+      "rationale": "hebrajų kalboje nėra žodžio 'kas' ar 'išprusų' — participe 'mirusį' perteikiamas linksniuojančiai lietuvių kalbai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכלו...יאכלו",
+      "rationale": "kartojamas tas pats veiksmažodis 'suės' miesto ir lauko atveju — simetrinė prakeiksmo struktūra"
+    }
+  ],
+  "translation": "Mirusį iš Achabo ⟨prusų⟩ mieste suės šunys, o mirusį lauke suės dangaus paukščiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/21-24.1792479554978.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "mirusį"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "iš Achabo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "šunys"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "o mirusį"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "paukščiai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:59:14.979340834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גנב יגנב",
+      "rationale": "infinitivus absolutus: 'vogti bus-vogta' — veiksmo tikrumo patvirtinimas, išversta paprasta forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "Hebrew verse 11 corresponds to KJV 22:12"
+    }
+  ],
+  "translation": "O jei ⟨už⟩ jį pavogta, jis atsiteisins savininkui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/9-12.1792472643554.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jei"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "pavogta"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "bus pavogta"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "iš jo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atsiteisins"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "savininkui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:03.559057561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨su⟩",
+      "rationale": "Prielinksnis pridėtas lietuviškai išreikšti בְ־ reikšmei „su tautos nykimu“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "didybė",
+      "rationale": "הדרת pažodžiui „puošyba, papuošimas“ — karaliaus garbės paveikslas."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רזון",
+      "rationale": "Valdovo titulas רָזוֹן Tanache sutinkamas tik čia ir Prieš 14:35 — retas žodis."
+    }
+  ],
+  "translation": "Tautos gausumoje — karaliaus didybė, o ⟨su⟩ tautos nykimu — valdovo griuvėsiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/14\/25-28.1792489685313.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "gausume"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "didybė"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "o nykstant"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "griuvėsiai"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "valdovo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:05.314374105Z",
+  "model": "glm-5.3"
+}

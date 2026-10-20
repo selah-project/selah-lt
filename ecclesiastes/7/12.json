@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצל...בצל",
+      "rationale": "Pakartotas 'šešėlis' — paralelizmas: išmintis ir sidabras abu teikia prieglobstį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvena savininkams",
+      "rationale": "תחיה בעליה pažodžiui 'prilaiko gyvastį savo šeimininkams' — dalies vertimas į 'gyvena \/ gyvuoja'."
+    }
+  ],
+  "translation": "Nes šešėlis — išmintis, šešėlis — sidabras, bet pažinimo pranašumas yra tas, kad išmintis įpareigoja gyventi savininkams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/7\/9-12.1792491268319.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "šešėlis"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "išmintis"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "šešėlis"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "bet pranašumas"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pažinimo"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "išmintis"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "gyvena \/ gyvuoja"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "savininkams"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:28.320153320Z",
+  "model": "glm-5.3"
+}

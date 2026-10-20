@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio „yra“ sakinyje „yda jame“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש\/יחלל\/מקדשם",
+      "rationale": "Šaknies קדש kartojimas prieš חלל — pašventinti vs. išniekinti, lietuviškama dalinai"
+    }
+  ],
+  "translation": "Tik iki uždangos jis neįeis ir prie aukuro neprieis, nes yda jame ⟨yra⟩; ir jis nepaniekins ⟨את⟩ mano šventyklų, nes aš esu Jahvė, kuris jas pašventina.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a42b5bc31cb5eabb7e25781a611f821d630ae940254865bd7ee2cf7a43494325",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/21-24.1792473575052.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "uždangos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "įeis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "prieis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מום",
+      "gloss": "yda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "paniekins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano šventyklas"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mano šventyklas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "pašventina jas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:35.055341890Z",
+  "model": "glm-5.3"
+}

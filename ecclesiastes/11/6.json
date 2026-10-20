@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ar",
+      "rationale": "Hebrajiškas אי 'kuris' išplėstas į lietuvišką jungiamąjį 'ar' tiesioginiam klausimui."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pasėk",
+      "rationale": "Paliepimas skaitytojui veikti nepaisant nežinojimo."
+    }
+  ],
+  "translation": "Rytą pasėk ⟨את⟩ savo sėklą, o vakare neleisk pailsėti savo rankai, nes tu nežinai, ar pasiseks šis ar tas, ar abu kartu bus geri.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/11\/5-8.1792491413803.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Rytą"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "pasėk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sėklą"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "savo sėklą"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "o vakare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "leisk pailsėti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo ranka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "žinai"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "pasiseks"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "abu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kartu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "geri"
+    }
+  ],
+  "timestamp": "2026-10-20T10:16:53.804656581Z",
+  "model": "glm-5.3"
+}

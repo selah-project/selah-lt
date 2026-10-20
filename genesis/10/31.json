@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalbas",
+      "rationale": "לשון pažodžiui 'liežuvis' — kalba kaip kalbos organas"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti'"
+    }
+  ],
+  "translation": "Šitie ⟨yra⟩ Šemo sūnūs pagal jų šeimas, pagal jų kalbas, jų kraštuose, pagal jų tautas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0741288a5e05ad3123a128136ca148adf359fbccb1704843267d84e29bd46f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/10\/29-32.1792471185002.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šemo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "pagal jų kalbas"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "jų kraštuose"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "pagal jų tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:45.005412971Z",
+  "model": "glm-5.3"
+}

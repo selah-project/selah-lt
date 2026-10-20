@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מירושלם ומשמרון",
+      "rationale": "„iš Jerušalimo ir iš Šomeronono“ — verglintis מ dažniausiai skaitomas kaip lyginimas („daugiau negu Jerušalės ir Šomeronas“, KJV\/JPS) arba kaip kilmė („jie iš ten“); laikiausi lyginimo su ⟨daugiau negu⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האליל",
+      "gloss": "dievaitis",
+      "rationale": "אליל pažodžiui „nieko vertas dalykas, tuštybė“ — vartojau „dievaitis“, nes kontekstas apie stabmeldystę."
+    }
+  ],
+  "translation": "Kaip mano ranka pasiekė karalystes dievaičių ir jų stabus — ⟨daugiau negu⟩ Jerušalime ir Šomerone,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/9-12.1792480819367.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "pasiekė"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano ranka"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "karalystes"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "dievaičių"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "ir jų stabus"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Jerušalime"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "ir Šomerone"
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:19.370080695Z",
+  "model": "glm-5.3"
+}

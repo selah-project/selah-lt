@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם ונושע",
+      "rationale": "Apmėtyta vieta: „juose yra išlikimas amžinai“ (JPS „upon them have we stayed“) arba „nuo amžių juose ⟨gyvenome⟩, kad būtume išgelbėti“; pasirinktas pažodinis „juose ⟨yra⟩ amžinai“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדק",
+      "gloss": "Gloss laikoma cedek, ne „teisumas“, pagal D2 taisyklę."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra · kelias",
+      "rationale": "Hebrajų frazė בהם עולם neturi veiksmažodžio; lietuvių reikalauja ⟨yra⟩ ir daiktavardžio."
+    }
+  ],
+  "translation": "Tu sutikai ⟨את⟩ džiaugiantįjį ir darantį cedek — tavo keliuose jie tave prisimena; štai, tu supykai, ir mes nusidėjome; juose ⟨yra⟩ išliekantis-amžinai ⟨kelias⟩, ir būsime išgelbėti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/1-4.1792481971926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "tu sutikai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "džiaugiantįjį ir darantį cedek"
+    },
+    {
+      "surface": "שש",
+      "gloss": "džiaugiantįjį"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir darantį"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "tavo keliuose"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "jie tave prisimena"
+    },
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "supykai"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ir mes nusidėjome"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "išliekantis-amžinai"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ir būsime išgelbėti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:31.928145993Z",
+  "model": "glm-5.3"
+}

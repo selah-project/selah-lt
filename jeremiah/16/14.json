@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 16:14",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "hebrajų veiksmažodis יאמר yra asmens formoje, lietuvių reikia pasyvo su 'bus sakoma'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חי יהוה",
+      "rationale": "prisaikdijimo formulė 'gyvas Jahvė' — 15 eilutėje ji bus apversta naujam išvedimui"
+    }
+  ],
+  "translation": "Todėl štai ateina dienos, sako Jahvė, ir nebebus sakoma: 'Kaip gyvas Jahvė, kuris išvedė ⟨את⟩ Jisraelio sūnus iš Micraimo žemės',",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/16\/13-16.1792482621169.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bus sakoma"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "be"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "išvedė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:21.171362430Z",
+  "model": "glm-5.3"
+}

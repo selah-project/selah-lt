@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 30:9",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "priezodis",
+      "rationale": "מלה čia 'priezodis, posakis' — tapatybė, kurią kartoja kiti, ne vien 'žodis'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jų giesmė",
+      "rationale": "נגינתם gali reikšti ir 'jų muzika, styginis grojimas' — Hiobas tapęs jų muzikos objektu"
+    }
+  ],
+  "translation": "Ir dabar jų giesmės tapau, ir tapau jiems priezodžiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "57d5de49dde4a81945093c5003ad912d9acd590ef6fdf31bbc3eb5d5ddab5d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/30\/9-12.1792490560649.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "jų giesmės"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tapau"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ir tapau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "למלה",
+      "gloss": "priezodžiu"
+    }
+  ],
+  "timestamp": "2026-10-20T10:02:40.649750690Z",
+  "model": "glm-5.3"
+}

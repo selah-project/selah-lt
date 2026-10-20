@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "turėjo",
+      "rationale": "hebrajiškas tekstas neturi veiksmažodžio; pridėta, nes lietuvių kalbai reikia predikato"
+    },
+    {
+      "kind": "measurement",
+      "subject": "aštuoniolika",
+      "rationale": "sąrašo skaičius — vartų sargų suskaičiavimas"
+    }
+  ],
+  "translation": "Ir Meshelemjahu turėjo sūnų ir brolių, stiprių vyrų, aštuoniolika.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a516b2e8f326db5408bf23218b7f6178301d0055a18587f63cb867a6dbd136cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/26\/9-12.1792493119333.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "Ir Meshelemjahu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "ir brolių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "stiprūs"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "aštuoni"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "olika"
+    }
+  ],
+  "timestamp": "2026-10-20T10:45:19.334085259Z",
+  "model": "glm-5.3"
+}

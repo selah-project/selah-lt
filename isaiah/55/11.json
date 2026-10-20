@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 55:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישוב…ריקם",
+      "rationale": "žodis „grįš“ kartojasi su 55,10 lietumi — lietus ir žodis negrįžta tušti, tos pačios vaizdo linijos"
+    },
+    {
+      "kind": "addition",
+      "subject": "jį",
+      "rationale": "hebrajų šalutinis sakinys „אשר שלחתיו“ turi pridėtą įvardį -ו, lietuviškai „jį“ pažymėtas skliaustais tekste nenaudotas, bet per lygiavimą priskirtas siuntimo veiksmui"
+    }
+  ],
+  "translation": "Taip bus mano žodis, kuris išeina iš mano burnos: jis negrįš pas mane tuščias, nes įvykdys ⟨את⟩ tai, ko norėjau, ir sėkmingai atliks tai, kam jį siunčiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/55\/9-12.1792481777375.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mano žodis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "iš mano burnos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "grįš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tuščias"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jog⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "įvykdys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, ko norėjau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tai, ką"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "norėjau"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ir sėkmingai atliks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tai, kam"
+    },
+    {
+      "surface": "שלחתיו",
+      "gloss": "jį siunčiau"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:17.376937069Z",
+  "model": "glm-5.3"
+}

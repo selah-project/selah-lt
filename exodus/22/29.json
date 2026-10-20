@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "septynias dienas \/ aštuntą dieną",
+      "rationale": "Verse counts days to fix when the firstborn animal is given."
+    },
+    {
+      "kind": "substitution",
+      "subject": "avimis ir ožkomis",
+      "rationale": "צאן is a collective for sheep and goats; one Hebrew word, several in Lithuanian."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jūs duosite",
+      "rationale": "תתנו is plural, while תעשה is singular — the addressee shifts from individual to community."
+    }
+  ],
+  "translation": "Taip daryk su savo jaučiu ir su savo avimis bei ožkomis: septynias dienas jis bus su savo motina, o aštuntą dieną duosite ⟨את⟩ jį man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/29-30.1792472630524.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "daryk"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "su savo jaučiu"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "su savo avimis ir ožkomis"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "savo motina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "aštuntą dieną"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "aštuntą"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "duosite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:50.525441981Z",
+  "model": "glm-5.3"
+}

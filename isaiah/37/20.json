@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajų neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje; lietuvių kalbai jis reikalingas."
+    },
+    {
+      "kind": "you",
+      "subject": "Chizkijaus malda",
+      "rationale": "Baigiamasis tiesioginis kreipimasis į Jahvę imperatyvu 'išgelbėk mus'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "malda",
+      "rationale": "Imperatyvas 'išgelbėk mus' — prašymo, kvietimo veiksmas."
+    }
+  ],
+  "translation": "O dabar, Jahve, mūsų Elohim, išgelbėk mus iš jo rankos, ir tepažįsta visos žemės karalystės, kad tu ⟨esi⟩ Jahvė, tu vienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/37\/17-20.1792481413390.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "o dabar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "išgelbėk mus"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "iš jo rankos"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir tepažįsta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karalystės"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "tu vienas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:13.392092474Z",
+  "model": "glm-5.3"
+}

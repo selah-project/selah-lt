@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הוריש",
+      "rationale": "ירש čia reiškia išvyti ir paveldėti kraštą; „išnaikino“ — siauresnis vaizdas"
+    },
+    {
+      "kind": "addition",
+      "subject": "jobject pronoun",
+      "rationale": "„jo viduryje“ — hebrajiškas בקרבו reiškia jo (Efraimo) viduryje"
+    }
+  ],
+  "translation": "Efraimas neišnaikino ⟨את⟩ kanaaniečio, gyvenančio Gezeryje, ir kanaanietis apsigyveno jo viduryje, Gezeryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "675c1e7abe6427963a3a2b0cafd907c1789438b44ad8c46743cdae32ad2a4f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/29-32.1792476292421.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Efraimas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "išnaikino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanietį"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanietį"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "gyvenantį"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezeryje"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir apsigyveno"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanietis"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "jo viduryje"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezeryje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:04:52.422657922Z",
+  "model": "glm-5.3"
+}

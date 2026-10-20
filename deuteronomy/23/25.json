@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כנפשך — nefesh",
+      "rationale": "„pagal savo norą“ — nefesh čia apetiškąjį „geidimą“, ne sielą"
+    },
+    {
+      "kind": "addition",
+      "subject": "jų",
+      "rationale": "hebrajiškai daiktavardis tiesiog implikuojamas, veikia tik veiksmažodis „nedėsi“"
+    }
+  ],
+  "translation": "Kai ateisi į savo artimo vynuogyną, valgysi vynuoges pagal savo norą, iki soties, bet į savo indą jų nedėsi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/23\/25-26.1792475352165.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ateisi"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "į vynuogyną"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "savo artimo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "valgysi"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "vynuoges"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "pagal savo norą"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "iki soties"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "bet į"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "savo indą"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dėsi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:12.167222941Z",
+  "model": "glm-5.3"
+}

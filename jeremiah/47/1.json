@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko pagalbinio veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Paro",
+      "gloss": " פרעה — Egipto karalių titulas, paliktas kaip vardas"
+    }
+  ],
+  "translation": "Kuris buvo žodis Jahvės Jeremijui, pranašui, apie peletiejus, dar prieš Paro išmušant ⟨את⟩ Azą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/47\/1-4.1792483452194.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiją"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apie"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peletiejus"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dar prieš"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "išmušant"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azą"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:04:12.195480803Z",
+  "model": "glm-5.3"
+}

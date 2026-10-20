@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pavogti širdį",
+      "rationale": "גנב את לב — 'pavogti iš ko nors širdį' reiškia 'išėjo slapta, neįspėjęs'; KJV 'unawares' praranda vaizdą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויגנב \/ ותגנב",
+      "rationale": "tas pats veiksmažodis 'vogti' 19 ir 20 eilutėse: Rašelė vagia terafimus, Jaakovas vagia širdį — paralelė lietuviškai išlieka"
+    }
+  ],
+  "translation": "Ir Jaakovas pavogė ⟨את⟩ širdį Labano aramiečio — nepasakęs jam, kad jis bėga.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/17-20.1792471632446.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ir pavogė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "širdį"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdį"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labano"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramiečio"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nepasakęs"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "(pasakyti)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bėga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:12.451579121Z",
+  "model": "glm-5.3"
+}

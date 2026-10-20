@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנחה",
+      "rationale": "Čia duoklė Davidui, ne auka; vartojamas „mincha“ pagal D2, nors kontekstas — duoklė."
+    },
+    {
+      "kind": "addition",
+      "subject": "tapo",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio „tapo“, hebrajų turi ויהיו — išlaikytas."
+    }
+  ],
+  "translation": "Ir sumušė ⟨את⟩ Moabą, ir moabiečiai tapo Davidui tarnais, nešantys minchą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/18\/1-4.1792492989300.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ir sumušė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabą"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabą"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moabiečiai"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tarnais"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nešantys"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:43:09.301488114Z",
+  "model": "glm-5.3"
+}

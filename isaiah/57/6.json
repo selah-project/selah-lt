@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 57:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלקי ... חלקך",
+      "rationale": "Žodžio žaismas: חלק „lygus akmuo“ ir חלק „dalis, porcija“ — tavo dalis yra lygieji akmenys, lietuviškai skamba tik iš dalies."
+    },
+    {
+      "kind": "addition",
+      "subject": "akmenys",
+      "rationale": "Lietuvių reikalauja daiktavardžio „akmenys“ prie „lygiųjų“ — hebrajiškas מ construct suponuoja jį iš konteksto."
+    },
+    {
+      "kind": "crux",
+      "subject": "אנחם",
+      "rationale": "„Ar būsiu paguostas \/ atsiprašysiu \/ būsiu ramus dėl šitų?“ — retorinis klausimas: ne."
+    },
+    {
+      "kind": "elision",
+      "subject": "הם הם",
+      "rationale": "Kartojamas „jie, jie“ — sakinio emfazė; išlaikyta dvigubai, bet lietuvių įprastų vieno."
+    }
+  ],
+  "translation": "Tarp lygiųjų upelio akmenų — tavo dalis, jie, jie — tavo lotas; net jiems liejai išpasą, įnešei minchą. Argi ⟨dėl⟩ šitų būsiu ramus?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/57\/5-8.1792481834298.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחלקי",
+      "gloss": "tarp lygiųjų"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upelio"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "tavo dalis"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "tavo lotas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "net"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "liejai"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "išpasą"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "įnešei"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchą"
+    },
+    {
+      "surface": "העל",
+      "gloss": "⟨dėl⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitų"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "būsiu ramus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:14.299928675Z",
+  "model": "glm-5.3"
+}

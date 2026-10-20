@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 32:25",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jau⟩",
+      "rationale": "Hebrajų dalyka neturi laiko žymens; lietuvių kalbai reikia skirti esamąjį nuo būsimojo"
+    },
+    {
+      "kind": "crux",
+      "subject": "o miestas atiduotas",
+      "rationale": "Hebrajiškas ו — 'kai\/tarsi' ar prieštaravimo 'o' — vis dar tebesitęsianti Jerusalemės užimimo paradokso kaina"
+    }
+  ],
+  "translation": "Ir Tu tarė man: Adonai Jahve, nusipirk sau lauką už sidabrą ir iškviesk liudytojus — o miestas ⟨jau⟩ atiduotas į kasdų ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "04b4c806d9b6d367d87cfe6bb7ca413bce049a87a4847da8178076157c3d4ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/25-28.1792483134316.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ir Tu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "nusipirk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "savęs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauką"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "už sidabrą"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "ir iškviesk liudytojus"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "liudytojus"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "o miestas"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "atiduotas"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:54.317163877Z",
+  "model": "glm-5.3"
+}

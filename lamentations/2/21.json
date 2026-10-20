@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 2:21",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "'ף — nosies\/veido žodis, reiškia ir rūstybę, įniršį; čia 'savo įniršio'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Hebrajų kalba neturi objekto įvardžio prie הרגת, lietuvių kalbai jis reikalingas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרגת \/ טבחת",
+      "rationale": "Du žodžiai 'nužudei' ir 'skerdei' — skerdimo vaizdas iš gyvulių aukojimo perkeltas į žmones"
+    }
+  ],
+  "translation": "Gulėjo žemėje gatvėse vaikas ir senis; mano mergelės ir mano jaunuoliai krito nuo kardo — nužudei ⟨juos⟩ dieną savo įniršio, skerdei, nepagailėjai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "528e7fd1689e97538e8746c702faebdb2837b334c6e5e632666c15acc0db40b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/2\/21-22.1792491066094.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכבו",
+      "gloss": "gulėjo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "gatvėse"
+    },
+    {
+      "surface": "נער",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ir senis"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "mano mergelės"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ir mano jaunuoliai"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "krito"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nuo kardo"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "nužudei"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "savo įniršio"
+    },
+    {
+      "surface": "טבחת",
+      "gloss": "skerdei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "pagailėjai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:11:06.095689490Z",
+  "model": "glm-5.3"
+}

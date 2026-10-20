@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas genealogijos sąrašas neturi veiksmažodžio; lietuvių kalbai reikia ⟨buvo⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kunigų giminių sąrašas",
+      "rationale": "vardų sąrašas — kunigų skyrių skaičiavimas"
+    }
+  ],
+  "translation": "Micho brolis ⟨buvo⟩ Išijas; iš Išijo sūnų ⟨buvo⟩ Zekarjas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a15782b328511ddba91fb40b16770ba92dacd0ecbf9702de576347a8e31ce138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/24\/25-28.1792493082968.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Micho brolis"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Micho"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Išijas"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "iš sūnų"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Išijo"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:44:42.968935886Z",
+  "model": "glm-5.3"
+}

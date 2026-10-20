@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškame sąraše nėra kopulos; lietuvių kalbai reikia ⟨buvo⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "kunigai",
+      "rationale": "čia du kunigai (Cadokas ir Achimelechas) eina kartu, o 8,18 Davido sūnūs taip pat vadinami כהנים — 'kunigai' vs 'aukšti pareigūnai'"
+    }
+  ],
+  "translation": "ir Cadokas, Achitubo sūnus, ir Achimelechas, Aviataro sūnus, ⟨buvo⟩ kunigai, ir Serajahus ⟨buvo⟩ raštininkas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/8\/17-18.1792478016807.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "ir Cadokas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitubo"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ir Achimelechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Aviataro"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ir Serajahus"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "raštininkas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:36.808068997Z",
+  "model": "glm-5.3"
+}

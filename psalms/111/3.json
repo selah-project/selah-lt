@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — vardinis sakinys be kopulos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeka",
+      "rationale": "צדקה pagal D2 rašoma 'cedek' šaknies žodžiu, ne vien 'teisumu'."
+    }
+  ],
+  "translation": "Didybė ir švytėjimas ⟨yra⟩ jo darbas, ir jo cedeka stovi per amžius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/111\/1-4.1792488996514.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Didybė"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ir švytėjimas"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "jo darbas"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ir jo cedeka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:36.515423408Z",
+  "model": "glm-5.3"
+}

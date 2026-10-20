@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 22:21",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nedorybė",
+      "rationale": "נבלה — 'kvailystė, išniekinimas'; lietuvių 'nedorybė' arti 'wanton deed' (JPS)"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiškas סמיכות 'namuose tėvo jos' — lietuviškai pridėta 'savo' sklandumui"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "מקרבך — įsakymas kreipiamas į bendruomenę 'iš tavo vidurio'"
+    }
+  ],
+  "translation": "ir išveskite ⟨את⟩ mergaitę prie durų jos tėvo namų, ir jos miesto vyrai užmuš ją akmenimis, ir ji mirs, nes ji padarė nedorybę Jisraelyje, ištvirkaudama savo tėvo namuose; ir tu pašalinsi piką iš savo vidurio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f2829f5f6a2edff0ac3297e2d8d0ae1d249907aceb7521191e23b2d670c98a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/22\/21-24.1792475431468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציאו",
+      "gloss": "ir išveskite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mergaitę"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mergaitę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "durų"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "jos tėvo"
+    },
+    {
+      "surface": "וסקלוה",
+      "gloss": "ir užmuš ją"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "jos miesto"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "akmenimis"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "ir ji mirs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ji padarė"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "nedorybę"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ištvirkaudama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ir tu pašalinsi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "piką"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "iš savo vidurio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:31.470211357Z",
+  "model": "glm-5.3"
+}

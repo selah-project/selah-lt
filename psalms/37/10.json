@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ten⟩",
+      "rationale": "hebrajiškas ואיננו 'ir jo nėra' — pridedama vietos nuoroda, kurios hebrajų kalba neturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין \/ ואיננו",
+      "rationale": "dvigubas 'nėra' — bedievis dingsta tiek pats, tiek jo vietoje; lietuvių kalboje kartojimas išlaikytas"
+    }
+  ],
+  "translation": "Ir dar ⟨truputį⟩, ir nėra bedievio; tu įsižiūrėsi ⟨į⟩ jo vietą, ir jo ⟨ten⟩ nėra.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/9-12.1792487823411.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ir dar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "truputį"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bedievio"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "tu įsižiūrėsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨į⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "jo vietą"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ir jo nėra"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:03.412812597Z",
+  "model": "glm-5.3"
+}

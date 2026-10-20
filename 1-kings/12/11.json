@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר \/ איסר",
+      "rationale": "тот же корень יסר kartojamas — 'baudė\/bausiu', paralelizmas išlieka"
+    },
+    {
+      "kind": "crux",
+      "subject": "skorpionais",
+      "rationale": "בעקרבים — rašykta 'skorpionai' arba mazguotos rimbos su metaliniais smaigaliais; tradicija laiko skorpionais"
+    }
+  ],
+  "translation": "O dabar mano tėvas užkrovė ant jūsų sunkų jungą, o aš pridėsiu prie jūsų jungo; mano tėvas baudė ⟨את⟩ jus rykštėmis, o aš bausiu ⟨את⟩ jus skorpionais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/9-12.1792479244156.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "O dabar"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvas"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "užkrovė"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ant jūsų"
+    },
+    {
+      "surface": "על",
+      "gloss": "jungą"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sunkų"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "pridėsiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jūsų jungo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvas"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "baudė"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "rykštėmis"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "bausiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "skorpionais"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:04.160467511Z",
+  "model": "glm-5.3"
+}

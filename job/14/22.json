@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — alsuojanti būtybė, gyvybės jėga, ne nemateriali siela."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "„ant\/jo viduje“ — tradicija skaito „jo kūne“ (Genevos „while his flesh is upon him“), laikoma, kad skausmas lieka tiesiog jam."
+    }
+  ],
+  "translation": "Tik jo kūnas ant jo kenčia skausmą, ir jo gyvybė dėl jo liūdi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/14\/21-22.1792490297987.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jo kūnas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "kenčia skausmą"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ir jo gyvybė"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dėl jo"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "liūdi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:58:17.988459972Z",
+  "model": "glm-5.3"
+}

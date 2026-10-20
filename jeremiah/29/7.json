@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "Šalomas kartojamas tris kartus (šalom ha-ir, bi-šlomah, šalom) — žodžio žiedas, lietuviškai išlaikytas vienu žodžiu „gerovė“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gerovė",
+      "rationale": "Šalom reiškia ir taiką, ir gerovę, ir pilnatvę; čia apie miesto klestėjimą, ne tik taiką."
+    }
+  ],
+  "translation": "Ir siekite ⟨את⟩ miesto, į kurį ištrėmiau ⟨את⟩ jus, ten, gerovės, ir melskitės už jį Jahvei, nes jo gerovėje jums bus gerovė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1af612c01df6bd153c36ede63f58f99bbb5d6e39210c23582630a0668df099a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/29\/5-8.1792483021438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "Ir siekite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerovės"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "gerovės"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "į kurį"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "ištrėmiau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "ir melskitės"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "jo gerovėje"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "gerovė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:01.439923647Z",
+  "model": "glm-5.3"
+}

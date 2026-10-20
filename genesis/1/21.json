@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taninus",
+      "rationale": "התנינם — jūrų milžiniai\/monstrai; paliktas skambesys, ne 'banginiai' ar 'rokai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — kvėpuojanti gyvybė, ne 'siela' plačiąja prasme"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajiškas žodžių junginys 'kad gerai' be daiktavardžio; lietuvių kalbai reikia subjekto"
+    }
+  ],
+  "translation": "Ir Elohim sukūrė ⟨את⟩ didžiuosius taninus, ir ⟨את⟩ kiekvieną gyvą nefesh, šliaužiančią ⟨tą⟩, kurią vandenys išvedė pagal jų rūšis, ir ⟨את⟩ kiekvieną sparnuotą paukštį pagal jo rūšį; ir Elohim pamatė, kad ⟨tai⟩ gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "27cee0be9fa308979bc21a1a5fee43f06903801d28a065447bb7f92d0bc241ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/21-24.1792471027620.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "sukūrė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didžiuosius taninus"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "taninus"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "didžiuosius"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kiekvieną gyvą nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gyvą"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "šliaužiančią"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "išvedė"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandenys"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "pagal jų rūšis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kiekvieną sparnuotą paukštį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "paukštį"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sparnuotą"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "pagal jo rūšį"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:07.622030352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio „būti“ šioje predikatyvo konstrukcijoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשר",
+      "rationale": "Pažodžiui „kūnui“ (visam kūnui); lietuvių kalboje per siaura, tad per keičiama į „mirtingoji žmonija“"
+    },
+    {
+      "kind": "you",
+      "subject": "skaitytojui \/ bendruomenei",
+      "rationale": "Psalmės 136 priedainio struktūra: kiekviena eilutė kreipiasi į bendruomenę"
+    }
+  ],
+  "translation": "Duodantis duoną visai mirtingajai žmonijai, nes amžiams ⟨yra⟩ jo chesedas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/136\/25-26.1792489244232.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "duodantis"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duoną"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mirtingajai žmonijai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amžiams"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jo chesedas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:44.232990493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelenai",
+      "rationale": "הדשן — „riebalai\/taukai“ nuo aukuro; tradiciškai „pelenai“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזבח…מזבח",
+      "rationale": "aukuras pakartojamas pradžioje ir gale — chiastrokas įrėminimas, lietuvių kalboi išlieka."
+    }
+  ],
+  "translation": "Ir aukuras plyšo, ir pelenai išsivarvė iš aukuro pagal ženklą, kurį dievo vyras davė Jahvės žodžiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/13\/5-8.1792479319795.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "ir aukuras"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "plyšo"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "ir išsivarvė"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "pelenai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "pagal ženklą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dievo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "žodžiu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:19.796043707Z",
+  "model": "glm-5.3"
+}

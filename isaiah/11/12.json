@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Veikėjas hebrajiškame veiksmažodyje neįvardytas; įvardis pridėtas skliaustuose"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kraštų",
+      "rationale": "כנפות pažodžiui 'sparnų' — 'žemės sparnai' reiškia kraštus; YLT 'sparnai' išlaiko paveikslą, lietuviškai 'kraštai'"
+    }
+  ],
+  "translation": "Ir ⟨jis⟩ iškels vėliavą tautoms ir surinks išvarytuosius Jisraelio, o išblaškytąsias Jehudos susirinks iš keturių žemės kraštų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "40ad29122bc801ab7c835e82fd8e3a800f1174ce92c6bcc5b7ddf1f553f906dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/11\/9-12.1792480895269.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Ir iškels"
+    },
+    {
+      "surface": "נס",
+      "gloss": "vėliavą"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "tautoms"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "ir surinks"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "išvarytuosius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "o išblaškytąsias"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "susirinks"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "iš keturių"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "kraštų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:35.277000214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesė",
+      "rationale": "נפש — kvėpuojanti gyvybė, ne „siela“ vien; transliteruota, kad išliktų formos ryšys su נפש"
+    },
+    {
+      "kind": "addition",
+      "subject": "tegul laimina",
+      "rationale": "hebrajų kalba veiksmažodis ברכי kartojasi suprastai; lietuvių kalbai reikia ..\/sujungiamojo veiksmažodžio ..\/\/..\/"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalmės pradžia",
+      "rationale": "imperatyvas savajai nefesės dalis — tekstas kviečia šlovinti"
+    }
+  ],
+  "translation": "Davido. Laimink, mano nefesė, ⟨את⟩ Jahvę, ir visa, kas manyje, ⟨tegul laimina⟩ ⟨את⟩ jo šventąjį vardą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/103\/1-4.1792488801105.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Laimink"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "kas manyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo šventąjį vardą"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "šventąjį jo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:21.105663431Z",
+  "model": "glm-5.3"
+}

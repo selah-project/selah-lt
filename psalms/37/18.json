@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "palikimas",
+      "rationale": "נחלה — paveldėta dalis, gimtinės žemė, ne tik 'palikimas'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dienas",
+      "rationale": "'Jahvė pažįsta' — pažinti hebrajiškai reiškia globoti, rūpintis, ne vien žinoti"
+    }
+  ],
+  "translation": "Jahvė pažįsta neišmanusių blogio dienas, ir jų palikimas amžinai liks.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/17-20.1792487870920.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "pažįsta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "nepriekaištingųjų"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ir jų palikimas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amžinai"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "liks"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:50.921609832Z",
+  "model": "glm-5.3"
+}

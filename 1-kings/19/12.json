@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קול דממה דקה",
+      "rationale": "garsioji crux: „tylus ir švelnus balsas“ vs pažodžiui „balsas tylos alsavimo, menkas“ — demama daqka"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba praleidžia kopulą — „ne ugnyje Jahvė“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "balsas tylos alsavimo",
+      "rationale": " Jahvės buvimas ne ugnyje ar drebėjime, o tyliame alsavime — sąmoningai užslėptas apreiškimas"
+    }
+  ],
+  "translation": "Ir po drebėjimo — ugnis, ne ugnyje ⟨yra⟩ Jahvė; ir po ugnies — balso tylos alsavimas menkas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/19\/9-12.1792479567845.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ir po"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "drebėjimo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ir po"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ugnies"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "tylos alsavimas"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "menkas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:59:27.847425136Z",
+  "model": "glm-5.3"
+}

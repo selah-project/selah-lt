@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שים פנים",
+      "rationale": "„Pasti savo veidą prieš” — hebrajų idiomą reiškia nusiteikti priešiškai; paliktas pažodžiui, nes vaizdas svarbus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Molechas",
+      "rationale": "המולך su artikeliu — dievo vardas Molechas („karalius”), ne paprastas žodis „karalius”."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זנה",
+      "rationale": "„Ištvirkauti paskui” vartojama apie stabmeldystę — dvasinės svetimavimo metaforos kartojimas eilutėje du kartus."
+    }
+  ],
+  "translation": "Tai aš atkreipsiu ⟨את⟩ savo veidą į tą žmogų ir į jo giminę, ir išnaikinsiu jį bei ⟨את⟩ visus, kurie ištvirkauja paskui jį, ištvirkaudami paskui Molechą, iš jų tautos vidurio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/5-8.1792473579292.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "atkreipsiu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "į žmogų"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ir į jo giminę"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ir išnaikinsiu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "kurie ištvirkauja"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paskui jį"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ištvirkaudami"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molechą"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "jų tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:39.294784260Z",
+  "model": "glm-5.3"
+}

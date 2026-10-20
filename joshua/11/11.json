@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvoji esybė",
+      "rationale": "נפש — kvėpavimas, gyvybės jėga, ne 'siela' kaip atskira esybė"
+    },
+    {
+      "kind": "substitution",
+      "subject": "briauna",
+      "rationale": "לפי חרב pažodžiui 'kardo burna' — kardo ašmenys"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pašventino sunaikinimui",
+      "rationale": "החרם — חרם, pašventintas sunaikinimui; 'visiškai sunaikinti' praranda šventumo šaknį"
+    }
+  ],
+  "translation": "Ir jie nukaldavo ⟨את⟩ visą gyvąją esybę, kuri joje buvo, kardo briauna — viską pašventino sunaikinimui; neliko nė vieno, kuris kvėpuotų, o ⟨את⟩ Hacorą jis sudegino ugnimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/9-12.1792475937568.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "nukaldavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą gyvąją esybę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "gyvąją esybę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "briauna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardo"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pašventino sunaikinimui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "liko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nė vieno"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "kuris kvėpuotų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hacorą"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hacorą"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sudegino"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:58:57.569762174Z",
+  "model": "glm-5.3"
+}

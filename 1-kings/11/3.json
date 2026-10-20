@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "700 + 300",
+      "rationale": "skaičiai išdėstyti tiksliai: septyni šimtai kunigaikštenių, trys šimtai sugulovių"
+    },
+    {
+      "kind": "addition",
+      "subject": "turėjo",
+      "rationale": "hebrajiškas ויהי לו — 'ir buvo jam', į lietuvių kalbą perkelta kaip 'turėjo'"
+    }
+  ],
+  "translation": "Ir turėjo jis žmonų — kunigaikštenių septynis šimtus, ir sugulovių tris šimtus; ir jo žmonos nukreipė ⟨את⟩ jo širdį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/1-4.1792479253378.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žmonų"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "kunigaikštenių"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ir sugulovių"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tris"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ir nukreipė"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jo žmonos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo širdį"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jo širdį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:13.381507671Z",
+  "model": "glm-5.3"
+}

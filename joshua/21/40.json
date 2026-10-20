@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 21:40",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "likimas",
+      "rationale": "גורל — pažodžiui 'akmenukas', burtų metamas akmenukas; 'likimas' praranda daikto vaizdą"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "veiksmažodis ויהי išskaidytas į 'ir buvo' — lietuvių kalbai reikia veiksmažodžio"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvylika miestų",
+      "rationale": "eilutė užbaigia Merari giminių miestų skaičiavimą"
+    }
+  ],
+  "translation": "Visi tie miestai — Merari sūnums, pagal jų šeimas, tiems, kurie liko iš levitų šeimų; ir jų likimas buvo miestų dvylika.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb8f822dead556476f59ef2c288b995b269a191a46c598b23198b0ca0383db01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/37-40.1792476175133.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "tiems, kurie liko"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "iš šeimų"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitų"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "jų likimas"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miestų"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvylika"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(dvylika)"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:55.136702850Z",
+  "model": "glm-5.3"
+}

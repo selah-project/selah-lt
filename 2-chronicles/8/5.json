@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערי מצור",
+      "rationale": "literally 'cities of siege-enclosure'; rendered as 'apsaugos miestai' — įtvirtintų miestų reikšmė"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "sąrašas be veiksmažodžio — lietuvių kalbai reikia šturmo sudėties, čia išspręsta brūkšneliu"
+    }
+  ],
+  "translation": "Ir jis pastatė ⟨את⟩ Beit Choroną aukštutinį ir ⟨את⟩ Beit Choroną žemutinį — apsaugos miestai, sienomis, vartais ir skląsčiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/8\/5-8.1792493441385.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ir jis pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Choroną aukštutinį"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choroną"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "aukštutinį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Beit Choroną žemutinį"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Choroną"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "žemutinį"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "apsaugos-tvirtovės"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "vartai"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ir skląstis"
+    }
+  ],
+  "timestamp": "2026-10-20T10:50:41.386229189Z",
+  "model": "glm-5.3"
+}

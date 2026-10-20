@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulos šioje predikatyvo konstrukcijoje"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רפה ידים",
+      "rationale": "Pažodžiui 'nuleistas rankų' — lietuviškai 'nuleidęs rankas', idiomas atitinka"
+    }
+  ],
+  "translation": "Ir ateisiu ant jo, kai ⟨jis⟩ bus pavargęs ir nuleidęs rankas, ir įvarysiu ⟨את⟩ jam baimės, ir pabėgs visa tauta, kuri ⟨yra⟩ ⟨את⟩ su juo, ir nutrenksiu ⟨את⟩ karalių vieną jį ⟨vieną⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/1-4.1792478376941.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ir ateisiu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kai jis"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "pavargęs"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "ir nuleidęs"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rankas"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "ir įvarysiu baimės"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jam",
+      "marks": "jam"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "ir pabėgs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ir nutrenksiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "vieną jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:36.943399258Z",
+  "model": "glm-5.3"
+}

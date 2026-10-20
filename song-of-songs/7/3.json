@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“; lietuvių brūkšnys atstoja_elipsę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "juosmuo",
+      "rationale": "שרר pažodžiui „virkštelė, liemens juosta“; tradicinis „ bambukas“ čia netinka — eilutė apie juosmens formą"
+    }
+  ],
+  "translation": "Tavo juosmuo — apvali taurė, netrūkstanti vyno mišinio; tavo pilvas — kviečių sūkuras, apjuostas lelijomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/7\/1-4.1792490943165.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "tavo juosmuo"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "taurė"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "apvali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "netrūkstanti"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "vyno mišinio"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tavo pilvas"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "sūkuras"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "kviečių"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "apjuostas"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "lelijomis"
+    }
+  ],
+  "timestamp": "2026-10-20T10:09:03.165927236Z",
+  "model": "glm-5.3"
+}

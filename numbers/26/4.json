@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "Lietuviška rodomoji dalelytė „tai“ pridėta prieš vardyno pradžią (26,5 ir toliau), hebrajų tekstas jos neturi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census age",
+      "rationale": "Skaičiavimo amžiaus riba pakartota — nuo dvidešimties metų ir aukščiau."
+    }
+  ],
+  "translation": "Nuo dvidešimties metų ir aukščiau, kaip įsakė Jahvė ⟨את⟩ Mošei; tai Jisraelio sūnūs, išėję iš Micraimo žemės:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/1-4.1792474519561.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukščiau"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "išėję"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:35:19.564172863Z",
+  "model": "glm-5.3"
+}

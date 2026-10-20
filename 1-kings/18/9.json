@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "Hebrajų 'į ranką' — į valdžią, lietuvių 'į rankas' išlaiko vaizdą"
+    },
+    {
+      "kind": "you",
+      "subject": "tu",
+      "rationale": "Obadija kreipiasi tiesiogiai į Eliją"
+    }
+  ],
+  "translation": "Ir jis tarė: Ką esu nusidėjęs, kad tu atiduodi ⟨את⟩ savo tarną į Ahabo ranką mane užmušti?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/9-12.1792479440537.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "esu nusidėjęs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atiduodi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tarną"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "savo tarną"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabo"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "mane užmušti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:20.538540387Z",
+  "model": "glm-5.3"
+}

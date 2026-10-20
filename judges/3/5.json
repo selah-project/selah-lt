@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "hebrajiškas artikelis ה-",
+      "rationale": "Lietuvių kalba artikelio neturi, tautų vardų artikelis neperduodamas"
+    }
+  ],
+  "translation": "Ir Jisraelio sūnūs gyveno kenaaniečių, hitų, emoriečių, perizų, hivų ir jebusiečių viduryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/3\/5-8.1792476334922.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ir Jisraelio sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "gyveno"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniečių"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitų"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "emoriečių"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "perizų"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "hivų"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "jebusiečių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:05:34.923809213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "susierzinimo",
+      "rationale": "רגז — suirutė, nerimas, sąmyšis; lietuviškai 'susierzinimas' apima tik dalį lauko"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילוד אשה",
+      "rationale": "žmogus gimęs iš moters — Hiobo eilėraštis apie žmogaus trapumą"
+    }
+  ],
+  "translation": "Žmogus, gimas iš moters, trumpų dienų ir sočiai susierzinimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/14\/1-4.1792490266208.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "gimęs"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "iš moters"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "trumpų"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir sočiai"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "susierzinimo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:57:46.209494213Z",
+  "model": "glm-5.3"
+}

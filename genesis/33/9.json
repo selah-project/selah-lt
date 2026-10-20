@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų יש — būties žodis; veiksnio–tarinio jungties formą pabrėžia lietuvių žodinis tvarkas"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "KJV „I have enough“ prieš YLT „abundance“ — Esavas sako „gausybė“, ne „užtenka“; kontrastas su Jokūbo „viską turiu“ 33,11"
+    }
+  ],
+  "translation": "Ir tarė Esavas: Man ⟨yra⟩ gausybė, mano broli; tebūna tau, kas tavo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/33\/9-12.1792471609372.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavas"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gausybė"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mano broli"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "tebūna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tavo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:49.373708652Z",
+  "model": "glm-5.3"
+}

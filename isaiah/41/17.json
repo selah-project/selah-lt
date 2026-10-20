@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 41:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nėra⟩",
+      "rationale": "Hebrew ואין tiesiog neigia — į lietuvių kalbą reikia veiksmažodžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשתה",
+      "rationale": "Retas veiksmažodis — 'išdžiūti, sustingti'; KJV 'faileth', kiti 'perdžiūvo'"
+    }
+  ],
+  "translation": "Vargdieniai ir stokojantieji ieško vandens, bet ⟨nėra⟩; jų liežuvis ištroškęs perdžiūvo. Aš, Jahvė, jiems atsakysiu, aš, Jisraelio Elohim, jų nepaliksiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/41\/17-20.1792481516728.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העניים",
+      "gloss": "vargdieniai"
+    },
+    {
+      "surface": "והאביונים",
+      "gloss": "ir stokojantieji"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ieško"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bet nėra"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jų liežuvis"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ištroškęs"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "perdžiūvo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אענם",
+      "gloss": "jiems atsakysiu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעזבם",
+      "gloss": "jų nepaliksiu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:56.730290066Z",
+  "model": "glm-5.3"
+}

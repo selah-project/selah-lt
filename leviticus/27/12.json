@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין טוב ובין רע",
+      "rationale": "pažodžiui „tarp gero ir tarp blogo“ — lietuviškai „ar geras, ar blogas“"
+    },
+    {
+      "kind": "you",
+      "subject": "kunigas",
+      "rationale": "„pagal tavo įvertį, kunige“ — tekstinis kreipimasis į kunigą antrajam asmenyje"
+    }
+  ],
+  "translation": "Ir kunigas įvertins jį ⟨את⟩, ar geras, ar blogas; pagal tavo įvertį, kunige, taip bus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/9-12.1792473791746.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Ir kunigas įvertins"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jį (gyulį)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "blogas"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "pagal tavo įvertį"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunige"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:11.748254224Z",
+  "model": "glm-5.3"
+}

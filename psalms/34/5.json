@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bausmių",
+      "rationale": "מגורות yra 'baimės, gąsdinimai', ne kančios."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išplėšė",
+      "rationale": "נצל — nuplėšti, ištraukti; 'išgelbėjo' praranda fizinį paveikslą."
+    }
+  ],
+  "translation": "Ieškojau ⟨את⟩ Jahvės, ir jis man atsakė, ir iš visų mano baimių mane išplėšė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/34\/5-8.1792487789664.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ieškojau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ir jis man atsakė"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ir iš visų"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mano baimių"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mane išplėšė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:29.664574635Z",
+  "model": "glm-5.3"
+}

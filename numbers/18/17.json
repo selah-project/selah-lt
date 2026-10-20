@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 18:17",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „jie šventi“ — pridėta copula"
+    },
+    {
+      "kind": "you",
+      "subject": "Aaronui ir kunigams",
+      "rationale": "Įstatymo nurodymas apie pirmagimius, kreipiamasis į kunigus"
+    }
+  ],
+  "translation": "Tik jaučio pirmagimio, ar avies pirmagimio, ar ožkos pirmagimio neperkuok — šventi jie ⟨yra⟩: ⟨את⟩ jų kraują pašlakstyk ant aukuro, o ⟨את⟩ jų riebalus sudegink kaip ugnyje sudeginamą auką, malonaus kvapo Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b34d383721a9e3becf3d33cf969c415450cf34c8ec211c491c07e0091d193407",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/18\/17-20.1792474305331.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jaučio"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimio"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "avies"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimio"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ožkos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "perkuok"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų kraują"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "jų kraują"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "pašlakstyk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų riebalus"
+    },
+    {
+      "surface": "חלבם",
+      "gloss": "jų riebalus"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "sudegink"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnyje sudeginama auka"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "kvapui"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "malonus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:31:45.336514442Z",
+  "model": "glm-5.3"
+}

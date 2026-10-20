@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gėda",
+      "rationale": "קלון — gėda, negarbė; būtinybė išrinkti vieną žodį dėl daugiakalbystės hebrajų kalboje"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "tiesioginis kreipimasis į Jahvę — maldos prašymas"
+    }
+  ],
+  "translation": "Užpildyk jų veidus gėda, ir tesieško jie tavo vardo, Jahve.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/83\/17-19.1792488572869.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Užpildyk"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "jų veidus"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "gėda"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ir tesieško jie"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tavo vardo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:32.870253997Z",
+  "model": "glm-5.3"
+}

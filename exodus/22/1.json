@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמים",
+      "rationale": "Dauginis 'kraujai' reiškia kraujo kaltę; alternatyvos: 'kraujo atsakomybės nėra' (JPS) prieš pažodinį 'kraujo už jį nėra'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "במחתרת",
+      "rationale": "Gali reikšti ne tik naktinį įsilaužimą, bet ir požeminį kasimą — pažodinis paveikslas prarastas."
+    }
+  ],
+  "translation": "Jei vagis bus rastas įsilaužiantį ir nukautas, kad jis mirtų — nėra už jį kraujo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/1-4.1792472702373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "įsilaužiantį"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bus rastas"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "vagis"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ir nukautas"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "kad mirtų"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "kraujo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:02.374767550Z",
+  "model": "glm-5.3"
+}

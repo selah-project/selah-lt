@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 9:6",
+  "book": "amos",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame vardų sakinyje nėra sanciuoklio 'yra'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואגדתו",
+      "rationale": "aguda — 'ryšulys, gauja, skliautas': 'rišlioji galia' vs dangaus 'skliautas'; pasirinktas skliautas kaip dangaus-žemės vaizdas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעלותו",
+      "rationale": "ma'alot — ir 'aukštieji kambariai', ir 'laiptai \/ aukštyn vedantis statinys'"
+    }
+  ],
+  "translation": "Kuris stato danguje savo aukštuosius kambarius ir savo skliautą ant žemės įkuria; kuris pašaukia jūros vandenis ir išpila juos ant žemės veido — Jahvė ⟨yra⟩ jo vardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/amos\/9\/5-8.1792486667446.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבונה",
+      "gloss": "Kuris stato"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "danguje"
+    },
+    {
+      "surface": "מעלותו",
+      "gloss": "savo aukštuosius kambarius"
+    },
+    {
+      "surface": "ואגדתו",
+      "gloss": "ir savo skliautą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "įkuria"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "kuris pašaukia"
+    },
+    {
+      "surface": "למי",
+      "gloss": "vandenis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "וישפכם",
+      "gloss": "ir išpila juos"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:57:47.447997099Z",
+  "model": "glm-5.3"
+}

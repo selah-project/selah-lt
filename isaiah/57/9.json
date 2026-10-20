@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "„pas karalių“ arba, perskaičius priebalsius, „pas Molechą“ (kaip BSB) — raganos įrodymas nevienareikšmis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צריך",
+      "rationale": "retas צִיר „pasiuntinys\/siuntinys“; KJV „messengers“ — čia laikoma tą reikšmę."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šeol — ne „pragaro“ bausmė, o požemio buveinė."
+    }
+  ],
+  "translation": "Tu keliavai pas karalių su aliejumi ir dauginai savo kvapnius tepalus, ir siuntei savo pasiuntinius toli, ir nusigynei iki šeol.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/57\/9-12.1792481812743.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "tu keliavai"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pas karalių"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "su aliejumi"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "ir dauginai"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "savo kvapnius tepalus"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "ir siuntei"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "savo pasiuntinius"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "toli"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "ir nusigynei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:52.743793331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאור ×3",
+      "rationale": "žodis 'kanalas' kartojamas tris kartus — priklausomybės nuo Nilo ritmas, kuris lietuviškai iš dalies išlieka"
+    },
+    {
+      "kind": "crux",
+      "subject": "עָרוֹת",
+      "rationale": "KJV 'paper reeds', ASV 'meadows' — šaknis ערה reiškia 'nuogas', čia 'nuogi lygūs plotai'"
+    }
+  ],
+  "translation": "Nuoguos plotai prie kanalo, prie kanalo burnos, ir viskas, kas pasėta prie kanalo, išdžius, išblaistyta bus ir jo nebeliks.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/5-8.1792480949798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuoguos plotai"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burnos"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kanalo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir viskas"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "kas pasėta"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "prie kanalo"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "išdžius"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "išblaistyta bus"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ir jo nebeliks"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:29.799338965Z",
+  "model": "glm-5.3"
+}

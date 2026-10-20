@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nida",
+      "rationale": "נדה — atmetimas, nešvarumas, mėnesinių nešvarumas; išlaikytas skambesys 'nida', ne 'mėnesinės'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tekėjimas",
+      "rationale": "זוב — laisvas tekėjimas, sąnarių išskyros; išlaikytas tekėjimo paveikslas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nešvari",
+      "rationale": "טמאה — ritualinė nešvaruma, ne purvina"
+    }
+  ],
+  "translation": "ir dėl moters jos nidoje, ir dėl tekančiojo — ⟨את⟩ jo tekėjimą, vyrui ir moteriai, ir vyrui, kuris guli su nešvaria.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d54101215110467fd7b6f3f70a21f53c39e0f6c04e3a941d60aff002d0f9f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/33-33.1792473461074.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "ir dėl moters jos nidoje"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "jos nidoje"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "ir tekančiojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo tekėjimą"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "jo tekėjimą"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "vyrui"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "ir moteriai"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "ir vyrui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "guli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nešvaria"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:41.075011671Z",
+  "model": "glm-5.3"
+}

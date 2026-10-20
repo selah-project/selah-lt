@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šventykla",
+      "rationale": "המקדש čia reiškia šventuosius daiktus, kuriuos kehatiečiai nešiojo, ne pastatą"
+    },
+    {
+      "kind": "addition",
+      "subject": "kiti",
+      "rationale": "והקימו veikėjas — kiti, ne kehatiečiai; hebrajų kalba subjekto nesako"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד באם",
+      "rationale": "'kol jie atvyko' arba 'iki jų atvykimo' — miškanas turėjo būti pastatytas prieš atvykstant"
+    }
+  ],
+  "translation": "Ir iškeliavo kehatiečiai, nešantys šventyklą, ir kiti pastatė ⟨את⟩ miškaną, kol jie atvyko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/10\/21-24.1792474067060.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ir iškeliavo"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "kehatiečiai"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nešantys"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "šventyklą"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškaną"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "באם",
+      "gloss": "jie atvyko"
+    }
+  ],
+  "timestamp": "2026-10-20T05:27:47.060528058Z",
+  "model": "glm-5.3"
+}

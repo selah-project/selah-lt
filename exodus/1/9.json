@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio — pridėta siejimo forma"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "אל עמו lietuviškai susilieja su „tarė savo tautai“ — atskiro žodžio nereikia"
+    },
+    {
+      "kind": "you",
+      "subject": "Faraonas savo tautai",
+      "rationale": "Tiesioginis kreipimasis į Micraimo tautą"
+    }
+  ],
+  "translation": "Ir jis tarė savo tautai: Štai tauta, Jisraelio vaikai, ⟨yra⟩ gausi ir stipresnė už mus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/1\/9-12.1792472112131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir jis tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gausi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ir stipresnė"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "už mus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:12.132215388Z",
+  "model": "glm-5.3"
+}

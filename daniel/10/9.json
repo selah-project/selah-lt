@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajiškame gale nėra veiksmažodžio — „mano veidas žemės link“ neturi saito, pridėta tik saito forma."
+    },
+    {
+      "kind": "crux",
+      "subject": "נרדם",
+      "rationale": "„Sustingęs giliu miegu \/ transas“ — žodis reiškia apsvaigimą nuo miego, ne įprastą užmigimą."
+    }
+  ],
+  "translation": "Ir išgirdau ⟨את⟩ jo žodžių balsą, ir kai išgirdau ⟨את⟩ jo žodžių balsą, aš buvau giliai įmigęs ant savo veido, o mano veidas ⟨buvo⟩ žemės link.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "587eabe128b1bd583d88dcf7b5ea24bd8595405efeb5594c1e293eb45fd001ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/10\/9-12.1792491977048.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ir išgirdau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo žodžių balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jo žodžių"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ir kai išgirdau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo žodžių balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jo žodžių"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "buvau"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "giliai įmigęs"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "savo veido"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "o mano veidas"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "žemės link"
+    }
+  ],
+  "timestamp": "2026-10-20T10:26:17.048819021Z",
+  "model": "glm-5.3"
+}

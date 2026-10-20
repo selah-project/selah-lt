@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני המקנה ההוא",
+      "rationale": "Neaiškus posakis: „varė priešais tą gyvulius“ — ar prieš anksčiau grobį turėtus Amaleko gyvulius, ar priešais visą kaimenę kaip vagies ženklą."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Lietuvių kalbai reikia objekto įninkio, hebrajų veiksmažodis נהגו jo neturi."
+    }
+  ],
+  "translation": "Ir Davidas paėmė ⟨את⟩ visą avų kaimenę ir galvijus; varė ⟨juos⟩ priešais tuos gyvulius, ir sakė: „Šitas — Davido grobis.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/17-20.1792477772352.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą avų kaimenę ir galvijus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avų kaimenę"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ir galvijus"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "varė"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "tuos gyvulius"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuos"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir sakė"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šitas"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "grobis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:32.355350545Z",
+  "model": "glm-5.3"
+}

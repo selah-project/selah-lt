@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "retorinis klausimas",
+      "rationale": "klusimas nukreiptas į skaitytoją per pasitymo stabams kontekstą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצר \/ הועיל",
+      "rationale": "žodžių žaismas tarp „formuoti“ ir „būti naudingam“ — Iš 44, 9–10 pasikartojanti pora"
+    }
+  ],
+  "translation": "Kas nuliedino dievą ir išliejo stabą, kuris nė kiek nepadeda?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/9-12.1792481620618.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "nuliedino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dievą"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ir stabą"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "išliejo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nė kiek"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "nepadeda"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:40.619506636Z",
+  "model": "glm-5.3"
+}

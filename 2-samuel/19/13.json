@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esate",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ dabartiniame laike — lietuvių kalbai reikia ⟨esate⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "eilutės padėtis",
+      "rationale": "Hebrajiškas tekstas čia atitinka tai, ką KJV verčia kaip 19:12; vertimų numeracija skiriasi"
+    }
+  ],
+  "translation": "Mano broliai jūs ⟨esate⟩, mano kaulai ir mano mėsa jūs ⟨esate⟩, ir kodėl jūs būsite paskutiniai sugrąžinti ⟨את⟩ karalių?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/13-16.1792478536783.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mano broliai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mano kaulai"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ir mano mėsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ir kodėl"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "būsite"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "paskutiniai"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sugrąžinti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:16.783934080Z",
+  "model": "glm-5.3"
+}

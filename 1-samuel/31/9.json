@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבשר",
+      "rationale": "Šaknis reiškia 'būti šviežiam, linksmam' — čia 'paskelbti gerąją žinią', ne vien 'skelbti'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישלחו",
+      "rationale": "Gali reikšti ir 'išsiuntė pasiuntinius'; objektas hebrajiškai nepaminėtas, todėl pridėta ⟨žinią⟩."
+    }
+  ],
+  "translation": "Ir nukirto ⟨את⟩ jo galvą, ir nurengė ⟨את⟩ jo ginklus, ir išsiuntė žinią po plištiečių krašto visur aplinkui — paskelbti gerąją žinią jų stabų namuose ir ⟨את⟩ tautai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/31\/9-12.1792477908120.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "ir nukirto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo galvą"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jo galvą"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ir nurengė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo ginklus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jo ginklus"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po krašto"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plištiečių"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visur aplinkui"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "paskelbti gerąją žinią"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "jų stabų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:31:48.121278473Z",
+  "model": "glm-5.3"
+}

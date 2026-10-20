@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עד",
+      "rationale": "עד yra liudytojas (daiktavardis), ne tik įpareigojančioji sąvoka; čia: liudytojas prieš jus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "התורה išlaikomas kaip Tora, ne „įstatymas“"
+    }
+  ],
+  "translation": "Imkite ⟨את⟩ šį Toros knygos raštą ir padėkite ⟨את⟩ jį prie šono sandoros skrynios, ⟨את⟩ Jahvės, jūsų Elohim, skrynies, ir jis ten bus prieš jus liudytojas amžinai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/31\/25-28.1792475624991.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "imkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šį Toros knygos raštą"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raštą"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toros"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šį"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ir padėkite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "prie šono"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynios"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandoros"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "בך",
+      "gloss": "prieš jus"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "amžinai liudytoju"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:44.996271773Z",
+  "model": "glm-5.3"
+}

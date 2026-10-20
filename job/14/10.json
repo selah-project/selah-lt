@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atiduos kvapą",
+      "rationale": "גוע — iškvėpti, išleisti paskutinį kvapą; 'atsiduoti' ne apie mirtį vien."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואיו",
+      "rationale": "גבר\/אדם pora: stiprusis vyras ir žmogus — hebrajų žodžių žaismas tarp galingumo ir žmogiškumo."
+    }
+  ],
+  "translation": "O stiprusis vyras mirs ir ⟨būs⟩ nukirstas, žmogus atiduos kvapą — ir kur jis?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/14\/9-12.1792490297161.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "o stiprusis vyras"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "ir ⟨būs⟩ nukirstas"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "atiduos kvapą"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ir kur jis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:58:17.161859516Z",
+  "model": "glm-5.3"
+}

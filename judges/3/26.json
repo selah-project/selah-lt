@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפסילים",
+      "rationale": "„Stabai“ vs KJV „akmenys (karjerai)“ — hebrajiškas žodis reiškia iškaltus atvaizdus; Efraimo kalnas turėjo vietą, pavadintą Pagiriai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השעירתה",
+      "rationale": "Krypties galūnė -ה reiškia „Seiros link“; lietuviškai išreikšta prielinksniu „į“."
+    }
+  ],
+  "translation": "Ir Ehudas pabėgo, kol jie delsė, ir jis perėjo ⟨את⟩ stabus, ir pabėgo į Seirą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fde9a3ea26724fc17eca2af8103b5b8a84c6e5b20c36d6ca1169f9f5241d6ffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/3\/25-28.1792476371725.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "Ir Ehudas"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "pabėgo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "jie delsė"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stabus"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "stabus"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ir pabėgo"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "į Seirą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:06:11.727776707Z",
+  "model": "glm-5.3"
+}

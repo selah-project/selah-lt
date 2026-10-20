@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra (brūkšneliai)",
+      "rationale": "hebrajų kalba neturi veiksmažodinio sietuvo — pridėta skirties struktūra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשקים",
+      "rationale": "rečiau žodis — 'susiejantys strypai\/juostos', verčiama 'sujungimo juostos'"
+    }
+  ],
+  "translation": "ir jo stulpai — dvidešimt, ir jų pamatai — dvidešimt, iš žalvario; stulpų kabliai ir jų sujungimo juostos — iš sidabro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/27\/9-12.1792472729776.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "ir jo stulpai"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ir jų pamatai"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš žalvario"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "kabliai"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stulpų"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ir jų sujungimo juostos"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iš sidabro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:29.779075659Z",
+  "model": "glm-5.3"
+}

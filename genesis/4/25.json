@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שת \/ שת",
+      "rationale": "Vardas Šetas (שת) ir veiksmažodis שת („paskyrė, padėjo“) — tas pats skambesys; lietuviškai žodžių sąskamba dingsta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pažino",
+      "rationale": "Hebrajų ידע („pažino“) čia eufemizmas sueičiai; lietuvių „pažino“ išlaiko literalią formą."
+    },
+    {
+      "kind": "addition",
+      "subject": "ji",
+      "rationale": "Hebrajų veiksmažodžio giminė rodo moterį, bet lietuviškai reikia įvardžio."
+    }
+  ],
+  "translation": "Ir Adamas dar kartą pažino ⟨את⟩ savo žmoną, ir ji pagimdė sūnų, ir ji pavadino ⟨את⟩ jo vardą Šetas, nes Elohim paskyrė man kitą sėklą vietoje Hebelio, nes Kainas jį užmušė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d5039aab7eff64e99e045ff1470e47bea53718d013b96923875afc30cd990bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/25-26.1792470997201.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ir pažino"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamas"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar kartą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo žmoną"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savo žmoną"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir ji pagimdė"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ir ji pavadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo vardą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šetas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שת",
+      "gloss": "paskyrė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklą"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kitą"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "užmušė"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:37.202511017Z",
+  "model": "glm-5.3"
+}

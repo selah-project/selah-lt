@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "maldino Jahvės veidą",
+      "rationale": "לחל את פני — pažodžiui 'maldinti veidą', t. y. melsti palankumo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחץ\/לחץ",
+      "rationale": "Daikavardis ir veiksmažodis iš tos pačios šaknies (לחץ 'spausti\/spaudimas') — kartojimas išlaikytas žodžiu 'spaudimas\/spaudė'."
+    }
+  ],
+  "translation": "Ir Jehoachazas maldino ⟨את⟩ Jahvės veidą, ir Jahvė jį išgirdo, nes Jis matė ⟨את⟩ Jisraelio spaudimą, nes ⟨את⟩ juos spaudė Aramo karalius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/13\/1-4.1792480189417.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "maldino"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachazas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "išgirdo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "matė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio spaudimą"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "spaudimą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "spaudė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos — Aramo karaliaus spaudžiamieji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:49.420171001Z",
+  "model": "glm-5.3"
+}

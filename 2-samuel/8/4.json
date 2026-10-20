@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "skaičiai",
+      "rationale": "Grobio skaičiavimas: 1700 raitelių, 20 000 pėsčiųjų, 100 paliktų vežimų — skaičius sako tai, ką sako hebrajų kalba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרכב → karo vežimų arkliams",
+      "rationale": "עקר pažodžiui reiškia išrauti arba perkirpti sausgysles — taikoma vežimų arkliams, ne patiems vežimams."
+    },
+    {
+      "kind": "crux",
+      "subject": "1700 vs 7000",
+      "rationale": "Čia „septyni šimtai raitelių“, o 1 Met 18,4 — „septyni tūkstančiai“; tarp teksto liudijimų yra skirtumas."
+    }
+  ],
+  "translation": "Ir pagavo Davidas iš jo tūkstantį ir septynis šimtus raitelių bei dvidešimt tūkstančių pėsčiųjų; ir Davidas perkirpo sausgysles ⟨את⟩ visiems karo vežimų ⟨arkliams⟩, bet paliko iš jų šimtą karo vežimų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/8\/1-4.1792478123360.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "pagavo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstantį"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir septynis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "raitelių"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pėsčiųjų"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "perkirpo sausgysles"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visiems karo vežimų arkliams"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karo vežimų"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "paliko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimtą"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "karo vežimų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:35:23.367706475Z",
+  "model": "glm-5.3"
+}

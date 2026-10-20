@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai be veiksmažodžio — būtojo laiko kopula pridėta lietuviškai."
+    },
+    {
+      "kind": "invitation",
+      "subject": "išklausykite",
+      "rationale": "Impetyvas — tiesioginis kreipimasis į Jerušalaimo valdytojus."
+    },
+    {
+      "kind": "you",
+      "subject": "pašaipos vyrai",
+      "rationale": "Kreipiamasi į Juozijo karaliaus dvaro pašaipininkus, valdančius tautą Jerušalaime."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצון \/ לצו",
+      "rationale": "לצון (pašaipa) skamba kaip לצו v. 13 pabaigoje — buvęs „tzav la-tzav“ dabar atsigręžia į pašaipininkus."
+    }
+  ],
+  "translation": "Todėl išklausykite Jahvės žodį, pašaipos vyrai, valdantieji šitą tautą, kuri ⟨yra⟩ Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a3d843adeac8e2ed79abcfc8b3baafd026a84d4ee51fd1f5bc18dfaa019fcaed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/13-16.1792481179630.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "išklausykite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "pašaipos"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "valdantieji"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šitą tautą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:26:19.632446806Z",
+  "model": "glm-5.3"
+}

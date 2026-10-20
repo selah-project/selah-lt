@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tas⟩",
+      "rationale": "dalyvio artikelis išreikštas įvardžiu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המגביהי \/ המשפילי",
+      "rationale": "„aukština save“ ir „nulenkia save“ — priešingų veiksmažodžių pora, lietuviškai išlaikyta"
+    }
+  ],
+  "translation": "⟨tas⟩, kuris nusilenkia žemai, kad matytų dangų ir žemę —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/113\/5-8.1792488926643.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "kuris nusilenkia žemai"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kad matytų"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ir žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:26.644303600Z",
+  "model": "glm-5.3"
+}

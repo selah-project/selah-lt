@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 32:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩, ⟨jūsų⟩",
+      "rationale": "Lietuvių kalbai reikalingi jungtukas ir įvardis, kurių hebrajų kalba neturi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "verpalai ant juosmens",
+      "rationale": "Dauguma versijų prideda 'avaiskūnį', bet hebrajiškas tekstas sako tik 'juosmenį'."
+    }
+  ],
+  "translation": "Drebėkite, ramiąsios; virpėkite, pasitikinčiosios! Nusivilkite ⟨ir⟩ apsinuoginkite, ir apjuoskite ⟨jūsų⟩ juosmenį!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/32\/9-12.1792481207635.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרדו",
+      "gloss": "Drebėkite"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "ramiąsios"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "virpėkite"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "pasitikinčiosios"
+    },
+    {
+      "surface": "פשטה",
+      "gloss": "Nusivilkite"
+    },
+    {
+      "surface": "וערה",
+      "gloss": "apsinuoginkite"
+    },
+    {
+      "surface": "וחגורה",
+      "gloss": "ir apjuoskite"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חלצים",
+      "gloss": "juosmenį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:26:47.637950793Z",
+  "model": "glm-5.3"
+}

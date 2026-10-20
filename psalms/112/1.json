@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kuris",
+      "rationale": "hebrajiškame dalykiniame dalyvį siejančios sąsajos nėra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Ps 111–112",
+      "rationale": "abu psalmai — abėcėliniai akrostichai, pradedami halalu Jah; tai prarasta vertime"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Šlovinkite Jah",
+      "rationale": "psalmė prasideda pamokančiu kvietimu šlovinti"
+    }
+  ],
+  "translation": "Šlovinkite Jah! Laimingas vyras, kuris bijo ⟨את⟩ Jahvę, jo įsakymais jis didžiai džiaugiasi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/112\/1-4.1792488927294.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Šlovinkite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Laimingas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kuris bijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "jo įsakymais"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jis džiaugiasi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "didžiai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:27.294576261Z",
+  "model": "glm-5.3"
+}

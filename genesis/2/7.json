@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyva būtybe",
+      "rationale": "נפש חיה — nefesh yra gerklė\/kvapas\/gyvybės jėga, ne nemateriali „siela“; tas pats žodis vartojamas ir gyvuliams (Pr 1, 20)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/האדמה",
+      "rationale": "žmogus formuojamas iš dirvos — adam iš adamah, garsinis ryšys lietuviškai negirdimas."
+    }
+  ],
+  "translation": "Ir Jahvė Elohim suformavo ⟨את⟩ žmogų — dulkėmis iš dirvos — ir įpūtė į jo šnerves gyvybės alsavimą, ir žmogus tapo gyva būtybe.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/5-8.1792471030909.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "Ir suformavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmogų"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkėmis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dirvos"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ir įpūtė"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "į jo šnerves"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "alsavimą"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "gyva būtybe"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gyva"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:10.913012924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "Hebrajiškas עמו „tautos“ konstrukte neturi posesyvo; lietuviškai reikia „jo tautos“."
+    },
+    {
+      "kind": "crux",
+      "subject": "נא",
+      "rationale": "Dalelytė נא: „meldžiu“ \/ patvirtinimas „taip, dabar“ — KJV „now“, YLT „I pray you“."
+    }
+  ],
+  "translation": "Pažadus Jahvei ištesėsiu — jau dabar, viso ⟨jo⟩ tautos akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7a3a4f1a8d8db24521d7447c46690e18552aedf57499aac071f3d047980d5eda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/116\/17-19.1792489013289.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Pažadus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ištesėsiu"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jau dabar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "viso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨jo⟩ tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:53.289991618Z",
+  "model": "glm-5.3"
+}

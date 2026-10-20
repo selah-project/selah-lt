@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dovaną",
+      "rationale": "מנחה čia žemiška dovana, ne auka, tad ne 'mincha'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "pakartotas 'ki' — 'nes… kad' — hebrajiška instrumentinė priežasties grandinė"
+    }
+  ],
+  "translation": "Ir jie paruošė ⟨את⟩ dovaną iki Jozefo atėjimo vidurdienį, nes buvo girdėję, kad ten jie valgys duonos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/43\/25-28.1792471932554.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "paruošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dovaną"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dovaną"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "atėjimo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefo"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "vidurdienį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "buvo girdėję"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jie valgys"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:12.555497496Z",
+  "model": "glm-5.3"
+}

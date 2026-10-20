@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "žmones",
+      "gloss": "Hebrajų 'atgabeno' neturi tiesioginio objekto — 'žmonės' pridėta, nes lietuvių reikalauja objekto."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירשו",
+      "rationale": "'Paveldėjo' — hebrajiškas ירש reiškia užimti išstumiant ankstesnius gyventojus."
+    }
+  ],
+  "translation": "Ir Asūro karalius atgabeno ⟨žmones⟩ iš Babelio, iš Kutos, iš Avos, iš Chamato ir iš Sefarvajimo, ir apgyvendino juos Šomrono miestuose vietoje Jisraelio sūnų; ir jie paveldėjo ⟨את⟩ Šomroną ir gyveno jo miestuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cc1348da170b4db4434b0507138ddfc262b1bed3c7b5f87a0d2fffcc29cb6730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/17\/21-24.1792480258138.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "atgabeno"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asūro"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "iš Babelio"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "iš Kutos"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "iš Avos"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "iš Chamato"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "iš Sefarvajimo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "apgyvendino"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "miestuose"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrono"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "paveldėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šomroną"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomroną"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "gyveno"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "jo miestuose"
+    }
+  ],
+  "timestamp": "2026-10-20T07:10:58.142180657Z",
+  "model": "glm-5.3"
+}

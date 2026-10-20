@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — 'jis Elohim', 'geras tas žodis'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievų vardu",
+      "rationale": "אלהיכם apie Baalą — mažąja raide 'dievų', ne Elohim."
+    },
+    {
+      "kind": "you",
+      "subject": "į Baalo pranašus ir tautą",
+      "rationale": "Elijahu kreipiasi į visus susirinkusiuosius — iššūkio sąlygos."
+    }
+  ],
+  "translation": "Ir jūs šaukite savo dievų vardu, o aš šauksiu Jahvės vardu; ir būsimasis-atliekantis — tas Elohim, kuris atsakys ugnimi, jis ⟨yra⟩ Elohim. Ir visa tauta atsakė ir tarė: Geras ⟨yra⟩ tas žodis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "89de9cf74c8d70d13359da6100c330ee6c813adf9b19db53b96309e4dbe54d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/21-24.1792479573442.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "ir jūs šaukite"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo dievų"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "o aš"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "šauksiu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "atsakys"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tas žodis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:59:33.445497365Z",
+  "model": "glm-5.3"
+}

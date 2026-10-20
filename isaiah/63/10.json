@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח išlaikytas kaip „ruach“ pagal D2 — vėjas, kvapas, dvasia vienu žodžiu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועצבו",
+      "rationale": "„sukė skausmą \/ liūdino“ arba „erzino, provokavo“ — verčia „sukė skausmą“ kaip artimiausią pažodinį"
+    }
+  ],
+  "translation": "Bet jie sukilo ir sukė skausmą ⟨את⟩ jo šventajam ruach; tada jis atsivertė jiems į priešą, ir pats kovėsi su jais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/9-12.1792481906930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "bet jie"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "suko"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ir sukė skausmą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo šventajam ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jo šventajam"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ir atsivertė"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "į priešą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "kovėsi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "su jais"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:26.931805894Z",
+  "model": "glm-5.3"
+}

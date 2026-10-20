@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 39:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ki ihje šalom veemet",
+      "rationale": "„juk mano dienomis bus šalom ir emet“ — ar tai dėkingumas („tebūna mano dienomis“), ar konstatavimas („bus“), ar slepiamas savanaudiškumas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prepozicija אל prieš vardą lieka tik vardų linksnyje"
+    }
+  ],
+  "translation": "Ir Chizkijahu tarė Jesajahu: Geras tas žodis, kurį kalbėjai. Ir jis tarė: Juk mano dienomis bus šalom ir emet.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f43e87876d296f2e8ba9598ef0784c4e916ca9e07395f605b0bb186da5cccb95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/39\/5-8.1792481433119.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajahu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Geras"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kalbėjai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Juk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ir emet"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mano dienomis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:33.121573631Z",
+  "model": "glm-5.3"
+}

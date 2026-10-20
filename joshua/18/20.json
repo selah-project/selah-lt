@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "lietuvių kalbai reikia kopulos, hebrajų jos neturi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "paveldėjimo ribos",
+      "rationale": "ribuoti paveldą šeimoms — skirstymo aktas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדמה",
+      "rationale": "„priekis“ reiškia ir rytus — saulėtekio kryptis"
+    }
+  ],
+  "translation": "ir Jardenas apriboja ⟨את⟩ ją rytų pakraštyje; šitai ⟨yra⟩ Binjamino sūnų paveldėjimas pagal jo ribas visame aplinkui, pagal jų šeimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/18\/17-20.1792476103693.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "ir Jardenas"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "apriboja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pakraštyje"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "rytų"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldėjimas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamino"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "pagal jo ribas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visame aplinkui"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:43.698299604Z",
+  "model": "glm-5.3"
+}

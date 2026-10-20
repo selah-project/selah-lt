@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nešvarus",
+      "rationale": "טמא — ritualinė nešvarumo būsena, ne fizinis nešvarumas; lietuvių 'nešvarus' artimiausias Tanacho registrui."
+    },
+    {
+      "kind": "addition",
+      "subject": "nebe",
+      "gloss": "Hebrajų 'לא' paprasčiausiai 'ne', bet kontekste — tolimesnės apžiūros atsisakymas."
+    }
+  ],
+  "translation": "Ir kunigas jį apžiūrės, ir štai — žvynas išplito odoje; kunigas nebeieškos gelsvo plauko: jis nešvarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da17471640b31bb56fbdc1b98310d255aaf4ad65a3a06f40cc02f087ad012b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/33-36.1792473404275.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "apžiūrės jį"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "išplito"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "žvynas"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "odoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "ieškos"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "plauko"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "gelsvo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešvarus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:44.278692372Z",
+  "model": "glm-5.3"
+}

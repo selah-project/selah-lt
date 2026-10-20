@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulios — 'šventas Jisraelis Jahvei' yra vardininko sakinys be 'yra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעה",
+      "rationale": "'blogis\/nelaimė' — Hebrajų žodis reiškia ir moralinį blogį, ir nelaimę"
+    }
+  ],
+  "translation": "Šventas Jisraelis Jahvei, jo derliaus pirmiena; visi jį valgantys bus kalti, nelaimė ateis ant jų — sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6af2e5c5a4b11c549c8a82a011af0178168ec588d3cbbfce4139e838fb465c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/2\/1-4.1792482087076.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Šventas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "pirmiena"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "derliaus jo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "valgantys jį"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bus kalti"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nelaimė"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:27.142867719Z",
+  "model": "glm-5.3"
+}

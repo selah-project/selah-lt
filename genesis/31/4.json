@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨atvykti⟩",
+      "rationale": "Hebrajiškas 'siuntė ir pakvietė' — be papildomo veiksmažodžio lietuviškai skambėtų neužbaigtai"
+    },
+    {
+      "kind": "elision",
+      "subject": "ל prieš רחל",
+      "rationale": "Hebrajiška prielinksnio ל- prieš vardą lietuviškai išreiškiama linksniu"
+    }
+  ],
+  "translation": "Ir Jaakovas siuntė ⟨ir⟩ pakvietė Rachelę ir Leją ⟨atvykti⟩ į lauką, pas savo kaimenę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/1-4.1792471623369.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "siuntė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "pakvietė"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rachelę"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ir Leją"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "į lauką"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "savo kaimenę"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:03.372751306Z",
+  "model": "glm-5.3"
+}

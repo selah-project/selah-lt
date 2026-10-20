@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrew lacks copula between sons-list and names; omitted in Lithuanian as clause structure permits"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני מרשה",
+      "rationale": "KJV reads 'sons of Mareshah'; BSB emends to 'Mareshah his second son' — text as transmitted says 'sons of Mareshah, father of Hebron'"
+    }
+  ],
+  "translation": "Ir Kalebo, Jerachmeelio brolio, sūnūs: Meiša, jo pirmagimis — jis Zifo tėvas; ir Marešos sūnūs — Chevrono tėvas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "585488fd096983c21d0941df3348217db687536d2d027879f3e84d60a9714a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/2\/41-44.1792492602908.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ir sūnūs"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brolio"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerachmeelio"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Meiša"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "jo pirmagimis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marešos"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvas"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevrono"
+    }
+  ],
+  "timestamp": "2026-10-20T10:36:42.909141420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dienen",
+      "rationale": "hebrajiškas באחד sako 'pirmą [dieną]'; žodis 'dieną' pridėtas lietuviškai, kadangi Hebrew vardo neturi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "laikas",
+      "rationale": "data — pirmasis mėnuo, antrieji metai, pirma mėnesio diena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškanas",
+      "rationale": "המשכן verčiamas skambesiu 'miškanas', ne 'padangtė'"
+    }
+  ],
+  "translation": "Ir atsitiko pirmąjį mėnesį, antraisiais metais, pirmąją mėnesio dieną, buvo pastatytas miškanas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/17-20.1792473105836.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "pirmąjį mėnesį"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "pirmąjį"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "metais"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "antraisiais"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "pirmąją dieną"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "buvo pastatytas"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:45.838796457Z",
+  "model": "glm-5.3"
+}

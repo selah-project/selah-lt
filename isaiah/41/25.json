@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vieną",
+      "rationale": "Hebrajiškai nėra žodžio „vienas“ — veiksnys išplaukia iš veiksmažodžio „pabudinau“."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאת",
+      "rationale": "Čia veiksmažodis אתה („atėjo“), o ne prielinksnis את — nesupainioti su aleph-tav žymekliu."
+    },
+    {
+      "kind": "crux",
+      "subject": "mindo clay",
+      "rationale": "Puodžiaus vaizdas: valdytojai maldomi kaip molis po puodžiaus koja — keramikos, ne karo metafora."
+    }
+  ],
+  "translation": "Pabudinau ⟨vieną⟩ iš šiaurės, ir jis atėjo; nuo saulės tekėjimo jis šauksis mano vardo, ir ateis ant valdytojų kaip ant molio, ir kaip puodžius mindys žemes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/41\/25-28.1792481551011.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "pabudinau"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iš šiaurės"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "ir jis atėjo"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "nuo tekėjimo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saulės"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "jis šauksis"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mano vardo"
+    },
+    {
+      "surface": "ובא... ויבא",
+      "gloss": "ir ateis"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "ant valdytojų"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ant molio"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "ir kaip"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "puodžius"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "mindys"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "žemes"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:31.013320841Z",
+  "model": "glm-5.3"
+}

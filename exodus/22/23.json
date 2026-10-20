@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלמנות \/ יתמים",
+      "rationale": "Atsakas „akis už akį”: kas skriaudžia našlę ir našlaitį, pats atims žmoną našlei ir vaikus našlaičiams — ta pati leksika grįžta kaip bausmė."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "Pažodžiui 'mano nosis, šnervės' — įprastas Hebrajų pykčio įvaizdis, išverstas 'mano pyktis'."
+    }
+  ],
+  "translation": "Ir užsidegs mano pyktis, ir išžudysiu jus ⟨את⟩ kardu, ir jūsų žmonos taps našlėmis, ir jūsų sūnūs — našlaičiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/21-24.1792472647020.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ir užsidegs"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mano pyktis"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ir išžudysiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir taps"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "jūsų žmonos"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "našlėmis"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ir jūsų sūnūs"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "našlaičiais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:07.024986082Z",
+  "model": "glm-5.3"
+}

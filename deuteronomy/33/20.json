@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברוך מרחיב גד",
+      "rationale": "'palaimintas tas, kuris praplatina Gadą' (apibėžta) vs 'palaimintas Gadui praplatinta' — kieno veiksmas neaiškus"
+    }
+  ],
+  "translation": "Ir apie Gadą tarė: Palaimintas ⟨yra⟩ tas, kuris praplatina Gadą; kaip lvė jis gyvena ir plėšia žastą, taip pat viršugalvį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45a4f86ff8126d6224031df365beb6b1ec601ca080e1ac3c536cbf075c024bf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/17-20.1792475633785.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "ir apie Gadą"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "palaimintas"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "kuris praplatina"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadą"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "kaip lvė"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "jis gyvena"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ir plėšia"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "žastą"
+    },
+    {
+      "surface": "אף",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "viršugalvį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:53.795152139Z",
+  "model": "glm-5.3"
+}

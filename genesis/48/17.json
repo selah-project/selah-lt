@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 48:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתה",
+      "rationale": "Hebrew feminine self-form אֹתָהּ with 3fs suffix points at the hand; rendered as pronoun 'ją'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ją",
+      "rationale": "Lithuanian requires the object pronoun for the removal action"
+    }
+  ],
+  "translation": "Ir pamatė Jozefas, kad jo tėvas deda savo dešinę ranką ant Efraimo galvos, ir tai pasirodė bloga jo akyse; ir jis parėmė savo tėvo ranką, kad ją nuimtų nuo Efraimo galvos ant Menasės galvos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "21316c13a6af0a71331f53839085133eea8eac6eb22f71438c102d435895d6ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/48\/17-20.1792472069170.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ir pamatė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "deda"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jo tėvas"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "savo dešinę"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ir pasirodė bloga"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "jo akyse"
+    },
+    {
+      "surface": "ויתמך",
+      "gloss": "ir jis parėmė"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "kad nuimtų"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (tėvo ranką)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:29.172117582Z",
+  "model": "glm-5.3"
+}

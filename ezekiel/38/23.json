@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 38:23",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Lietuviškame „aš esu Jahvė“ reikalinga kopula, kurios hebrajų tekstas neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hitpael",
+      "rationale": "Du hitpael atspindžiai — והתגדלתי \/ והתקדשתי — ir ונודעתי \/ וידעו šaknies ידע kartojimas: pažinimas kaip ratas."
+    }
+  ],
+  "translation": "Ir pasididinsiu save ir pašventinsiu save, ir būsiu pažintas daugelio tautų akyse, ir jos pažins, kad aš esu Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae1143ca43e705c992ee53b893e855eb45bbc6150cf5f8d25b48dbc176d006ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/38\/21-23.1792485779908.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתגדלתי",
+      "gloss": "pasididinsiu save"
+    },
+    {
+      "surface": "והתקדשתי",
+      "gloss": "pašventinsiu save"
+    },
+    {
+      "surface": "ונודעתי",
+      "gloss": "būsiu pažintas"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugelio"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir jos pažins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:42:59.910711923Z",
+  "model": "glm-5.3"
+}

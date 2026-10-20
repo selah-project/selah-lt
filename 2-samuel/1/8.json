@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš esu",
+      "rationale": "Hebrajų turi tik vardą ir įvardį עמלקי אנכי; veiksmažodis įtrauktas į glosą beveik pažodžiui, tvarka išsaugota."
+    },
+    {
+      "kind": "crux",
+      "subject": "ketib ויאמר \/ qere ואמר",
+      "rationale": "Consonant text skaito 'ir jis tarė', masoretų qere taiso į 'o aš atsakiau'; verčiu pagal qre, kaip tradicija."
+    }
+  ],
+  "translation": "Ir jis tarė man: Kas tu esi? O aš atsakiau jam: Amalekietis aš esu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/5-8.1792477900463.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "o aš atsakiau"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekietis"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš esu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:31:40.464873823Z",
+  "model": "glm-5.3"
+}

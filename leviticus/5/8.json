@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio jungties santykyje su אשר."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומלק",
+      "rationale": "Techninis kunigų terminas: 'nulaužti sąnarą' — KJV 'wring off' (nulaužti) prieš JPS 'pinch off' (nupjauti); jis reiškia kaklo nulaužimą taip, kad galva liktų prisegta."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא יבדיל",
+      "rationale": "'Neatskirs jos' — objektas nenurodytas hebrajų kalboje: galva, kūnas arba paukštis apskritai."
+    }
+  ],
+  "translation": "Ir jis atneš ⟨את⟩ juos pas kunigą, ir kunigas prideda ⟨את⟩ tą, kuris ⟨yra⟩ už nuodėmės auką, pirmąjį, ir nusuko ⟨את⟩ jo galvą nuo priekio jo sprando, bet neatskirs jos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9579d647cab57ee5f3777417c061ce5638f9ec9bbc4edc4289796e5296baf01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/8-8.1792494066264.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ir atneš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ir prideda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tą, kuris yra už nuodėmės auką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tą, kuris"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "už nuodėmės auką"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "pirmąjį"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ir nusuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo galvą"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jo galvą"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "nuo priekio"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "jo sprando"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "atskirs"
+    }
+  ],
+  "timestamp": "2026-10-20T11:01:06.265846306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וינגע\/נגעים",
+      "rationale": "Veiksmažodis ir daiktavardis iš tos pačios šaknies נגע — „ištiko smūgiais“, lietuvių kalboi šakninis ryšys prarandamas."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh's house",
+      "rationale": "Smailė nukreipta į faraono namus kaip ištiktą objektą."
+    }
+  ],
+  "translation": "Ir Jahvė ištiko ⟨את⟩ faraoną dideliais smūgiais ir ⟨את⟩ jo namus dėl Sarajos, Avramo žmonos, reikalo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/17-20.1792471214915.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "ir ištiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraoną"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraoną"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "smūgiais"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dideliais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo namus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jo namus"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "reikalo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajos"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmonos"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:14.915893231Z",
+  "model": "glm-5.3"
+}

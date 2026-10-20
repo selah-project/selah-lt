@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "be ydos",
+      "rationale": "תמים yra 'visas, nepriekaištingas' — šaknis 'svetimas trūkumams'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaltos auka",
+      "rationale": "אשם — kaltė ir jos auka vienu žodžiu; lietuviškai reikia dviejų"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ savo kaltos auką jis atneš Jahvei — aviną be ydos iš avų ir ožkų, pagal tavo įvertinimą, kaip kaltos auką, kunigui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/25-26.1792473147504.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jo kaltos auką"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "jo kaltos auka"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "jis atneš"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "איל",
+      "gloss": "avinas"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "be ydos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avų ir ožkų"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "pagal tavo įvertinimą"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "kaip kaltos auką"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:27.507323170Z",
+  "model": "glm-5.3"
+}

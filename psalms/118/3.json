@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית אהרן",
+      "rationale": "Kunigų giminė vadinama ‘namais’ — statuso genealogija, ne pastatas"
+    },
+    {
+      "kind": "you",
+      "subject": "Aharono namai",
+      "rationale": "Tiesioginis kreipimasis į kunigų šeimą"
+    }
+  ],
+  "translation": "Tesako ⟨dabar⟩ Aharono namai: nes amžiams ⟨trunka⟩ jo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/118\/1-4.1792489033461.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Tesako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨dabar⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amžiams"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:13.462382468Z",
+  "model": "glm-5.3"
+}

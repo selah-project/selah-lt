@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame tekste nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesedai",
+      "rationale": "חסד — ištikimoji meilė, ne 'gailestingumas' vienas"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "tiesioginis kreipimasis į Adonai maldos skunde"
+    }
+  ],
+  "translation": "Kur ⟨yra⟩ tavo pirmieji chesedai, Adonai, kuriuos prisekei Davidui savo ištikimybe?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/49-52.1792488678289.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tavo chesedai"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pirmieji"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "prisekei"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "savo ištikimybe"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:18.289835869Z",
+  "model": "glm-5.3"
+}

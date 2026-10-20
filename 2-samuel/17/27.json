@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 17:27",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "veiksmas",
+      "rationale": "Sakinys nutrūksta be sakinio veiksno (jis atplaukia v. 28 'atnešė') — hebrajų stiliumi, išlaikyta nutrūkusi konstrukcija."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨miesto⟩",
+      "rationale": "'Raba of the children of Ammon' — pridėta 'miesto', kad lietuviškai konstrukcija skambėtų natūraliai."
+    },
+    {
+      "kind": "hapax",
+      "subject": "לא דבר",
+      "rationale": "Lo Debaras — vietovardis, rašomas kaip žodžių pora 'ne dalykas', vardo reikšmė matoma hebrajiškai."
+    }
+  ],
+  "translation": "Ir atsitiko, atėjus Davidui į Machanaimą, Šobis, Nachašo sūnus iš Rabos, Amono vaikų ⟨miesto⟩, ir Machiras, Amielio sūnus iš Lo Debaro, ir Barzilajus gileadietis iš Rogelimo",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9342efdd948b0524c34945d52739feee20d4ed996c5472f6aae5ca98303c976e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/25-28.1792478387404.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "atėjus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "į Machanaimą"
+    },
+    {
+      "surface": "ושבי",
+      "gloss": "o Šobis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachašo"
+    },
+    {
+      "surface": "מרבת",
+      "gloss": "iš Rabos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "ומכיר",
+      "gloss": "ir Machiras"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielio"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "iš Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debaro"
+    },
+    {
+      "surface": "וברזלי",
+      "gloss": "ir Barzilajus"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "gileadietis"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "iš Rogelimo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:47.409233242Z",
+  "model": "glm-5.3"
+}

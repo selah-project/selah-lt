@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu „ruach“, ne „dvasia“ viena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "įnirsis",
+      "rationale": "אף pažodžiui „nosis“; pyktis hebrajiškai — nosies liepsna"
+    }
+  ],
+  "translation": "Ir Elohim ruach užgriuvo Šaulių, kai jis išgirdo ⟨את⟩ šituos žodžius, ir jo įnirsis suliepsnojo labai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/11\/5-8.1792477155252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "ir užgriuvo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliaus"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "kai jis išgirdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodžius"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šituos"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ir suliepsnojo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jo nosis, įnirsis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:15.253903892Z",
+  "model": "glm-5.3"
+}

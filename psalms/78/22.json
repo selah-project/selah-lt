@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "Lietuvių kalbai reikia posesyvinio įvardžio; hebrajų galūnė -ו jau turi reikšmę"
+    }
+  ],
+  "translation": "Nes jie netikėjo Elohim ir nepasitikėjo ⟨jo⟩ išgelbėjimu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/21-24.1792488426571.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "tikėjo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "pasitikėjo"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "⟨jo⟩ išgelbėjimu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:06.572760608Z",
+  "model": "glm-5.3"
+}

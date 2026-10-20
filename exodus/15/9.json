@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש — gerklė, gyvybė, alsavimas; verčiama skambesiu 'nefeš', ne 'siela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naikins",
+      "rationale": "תורישמו iš ירש pažodžiui 'paveldės juos \/ išstums juos', čia 'pribaigs'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "verbalų virtinė",
+      "rationale": "Šeši paeiliui einantys pirmo asmens veiksmažodžiai — priešo pasipūtimo ritmas"
+    }
+  ],
+  "translation": "Priešas tarė: Vysiuos įveiksiu, pasidalinsiu grobį, mano nefeš pasisotins jais, ištrauksiu kalaviją, mano ranka juos naikins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/15\/9-12.1792472430009.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "priešas"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "vysiuos"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "įveiksiu"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "pasidalinsiu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "grobį"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "pasisotins jais"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefeš"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ištrauksiu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "kalaviją"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "naikins juos"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano ranka"
+    }
+  ],
+  "timestamp": "2026-10-20T05:00:30.011790401Z",
+  "model": "glm-5.3"
+}

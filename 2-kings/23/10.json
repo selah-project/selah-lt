@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "per ugnį",
+      "rationale": "להעביר באש — „pervesti per ugnį“ (pašventinimo apeiga) arba „sudeginti“; tekstas sako „pervesti“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Hinomo sūnų",
+      "rationale": "בני הנם gali būti ir vietovardis „Ben-Hinomas“ kaip vienas vardas"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "rationale": "„niekas neleistų žmogui“ — איש įlietas į bendrą neiginį"
+    }
+  ],
+  "translation": "Ir jis suteršė ⟨את⟩ Tofetą, kuris yra Hinomo sūnų slėnyje, kad niekas neleistų žmogui pervesti ⟨את⟩ savo sūnaus ir ⟨את⟩ savo dukters per ugnį Molechui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/9-12.1792480481811.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "suteršė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofetą"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofetą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "slėnyje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinomo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pervesti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sūnaus"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savo sūnaus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo dukters"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "savo dukters"
+    },
+    {
+      "surface": "באש",
+      "gloss": "per ugnį"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molechui"
+    }
+  ],
+  "timestamp": "2026-10-20T07:14:41.813135384Z",
+  "model": "glm-5.3"
+}

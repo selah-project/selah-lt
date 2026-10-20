@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 36:33",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "visa eilutė",
+      "rationale": "Garsiai ginčijama vieta: griausmas praneša apie Dievą ar apie audrą; KJV 'garas', JPS 'audra, kylanti'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨audros⟩",
+      "rationale": "עולה pažodžiui 'kylanti' — daiktavardis 'audra' pridėtas, nes lietuvių kalbai reikia daiktavardžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "griausmas",
+      "rationale": "רעו gali būti ir 'jo draugas' (רֵעֵהוּ) — pasirinkta 'griausmas' (רוע) pagal audros kontekstą."
+    }
+  ],
+  "translation": "Apie jį praneša jo griausmas, gyvuliai taip pat dėl kylančios ⟨audros⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be0adad3afb7befb6e8b08d81733aaffd13ffbfddb7ffaa4c3ceb466d4133ece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/33-33.1792490620421.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגיד",
+      "gloss": "praneša"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "apie jį"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "jo griausmas"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "gyvuliai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kylančios"
+    }
+  ],
+  "timestamp": "2026-10-20T10:03:40.421908015Z",
+  "model": "glm-5.3"
+}

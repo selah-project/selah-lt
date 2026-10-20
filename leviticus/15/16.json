@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi kopulos veiksmažodyje וטמא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išliejimas",
+      "rationale": "שכבת זרע pažodžiui 'sėklos gulėjimas' — eufemizmas lytiniam aktui ar išliejimui"
+    }
+  ],
+  "translation": "Ir vyrui, kai iš jo išeina sėklos išliejimas, jis nusiprausia vandeniu ⟨את⟩ visą savo kūną ir ⟨yra⟩ nešvarus iki vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/13-16.1792473526468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ir vyrui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jo"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "išliejimas"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklos"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "nusiprausia"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandeniu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą savo kūną"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "savo kūną"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ir ⟨yra⟩ nešvarus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:46.470647235Z",
+  "model": "glm-5.3"
+}

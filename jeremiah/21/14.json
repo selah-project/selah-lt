@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 21:14",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aplankysiu",
+      "rationale": "פקד reiškia 'aplan­kyti' tiek palankiai, tiek bausdamas; KJV 'punish' praranda žodžio dviprasmybę."
+    },
+    {
+      "kind": "addition",
+      "subject": "prieš",
+      "rationale": "עַל su פקד reiškia priešišką apsilankymą — lietuviškai pridėta ⟨prieš⟩, kad bausmės atspalvis būtų girdimas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "suės",
+      "rationale": "אכל 'valgyti' apie ugnį — hebrajiškas vaizdas išlaikytas pažodžiui."
+    }
+  ],
+  "translation": "Ir Aš aplankysiu ⟨prieš⟩ jus pagal jūsų darbų vaisių — sako Jahvė — ir uždegsiu ugnį jos miške, ir ji suės viską aplink ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8da9f4f90fc9529e13a11df371ade0dbfcc531f6a67c5857d6187853851b5f5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/21\/13-14.1792482636549.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וּפָקַדְתִּי",
+      "gloss": "Ir Aš aplankysiu"
+    },
+    {
+      "surface": "עֲלֵיכֶם",
+      "gloss": "⟨prieš⟩ jus"
+    },
+    {
+      "surface": "כִּפְרִי",
+      "gloss": "pagal vaisių"
+    },
+    {
+      "surface": "מַעַלְלֵיכֶם",
+      "gloss": "jūsų darbų"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "וְהִצַּתִּי",
+      "gloss": "ir uždegsiu"
+    },
+    {
+      "surface": "אֵשׁ",
+      "gloss": "ugnį"
+    },
+    {
+      "surface": "בְּיַעְרָהּ",
+      "gloss": "jos miške"
+    },
+    {
+      "surface": "וְאָכְלָה",
+      "gloss": "ir ji suės"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "סְבִיבֶיהָ",
+      "gloss": "tai, kas aplink ją"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:36.549731263Z",
+  "model": "glm-5.3"
+}

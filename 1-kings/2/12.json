@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Sheloma",
+      "rationale": "שלמה — vardas pagal hebrajišką skambesį 'Sheloma', ne bažnytinis 'Saliamonas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų veiksmažodis ותכן pats sako 'buvo įtvirtinta', sans 'buvo' nereikalingas bet gramatiškai reikalingas lietuvių kalboje"
+    }
+  ],
+  "translation": "Ir Sheloma atsisėdo ant Dovydo, savo tėvo, sosto, ir jo karalystė buvo stipriai įtvirtinta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/9-12.1792478778277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "Ir Sheloma"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atsisėdo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sosto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ir buvo įtvirtinta"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "jo karalystė"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "stipriai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:18.280211963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suskaičiuoti",
+      "rationale": "פקד čia suguldytinė rūšis — 'buvo paskaičiuoti per surašymą', ne paprastas 'skaičiuoti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tarp",
+      "rationale": "בתוך pažodžiui 'viduryje'; čia 'tarp' dėl lietuvių sklandumo"
+    }
+  ],
+  "translation": "O levitai nebuvo suskaičiuoti tarp Jisraelio sūnų, kaip įsakė Jahvė ⟨את⟩ Mošei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef6d5233f45fc54302a04b268faf068c4ed3ff5d388de2ff8f3fca5bd8dae41e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/2\/33-34.1792473861783.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "o levitai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "buvo suskaičiuoti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:21.783696998Z",
+  "model": "glm-5.3"
+}

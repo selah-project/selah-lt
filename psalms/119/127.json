@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "labiau nei",
+      "rationale": "Hebrajų prielinksnis מ ('nuo, už') reiškia viršijimo lyginimą; lietuvių kalbai reikia 'labiau nei'."
+    }
+  ],
+  "translation": "Dėl to mylėjau tavo įsakymus — labiau nei auksą, taip, labiau nei gryną auksą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "095805a4d67a7ce4febdb9a397e0d36a56f1924d64f8ef20eb9b5d33d8d2a3d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/125-128.1792489120010.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mylėjau"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tavo įsakymus"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "labiau nei auksą"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "taip, labiau nei gryną auksą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:40.011829727Z",
+  "model": "glm-5.3"
+}

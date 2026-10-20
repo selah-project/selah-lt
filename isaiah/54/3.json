@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפרצי",
+      "rationale": "Same root פרץ as 54:1 פצחי — breaking forth in song and breaking forth in space."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשמות",
+      "rationale": "Same root as 'apleistoji' in 54:1 — the desolate now applies to cities, not the woman."
+    }
+  ],
+  "translation": "Nes tu prasiverši dešinėn ir kairėn, ir tavo sėkla paveldės tautas, o apleistas miestas vėl apgyvendins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/54\/1-4.1792481789664.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dešinėn"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ir kairėn"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "prasiverši"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ir tavo sėkla"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "paveldės"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "o miestas"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "apleistas"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "vėl apgyvendins"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:29.666171323Z",
+  "model": "glm-5.3"
+}

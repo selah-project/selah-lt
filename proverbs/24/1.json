@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Čia את H854 'su jais', ne DOM את H853; lietuviškame tekste reikia ⟨su⟩ jais, kad būtų aišku."
+    },
+    {
+      "kind": "elision",
+      "subject": "su",
+      "rationale": "Hebrajų אתם pats reiškia 'su jais'; lietuvių reikalauja atskiro žodžio ⟨su⟩."
+    }
+  ],
+  "translation": "Nepavydėk pikties vyrams ir negeisk būti ⟨את⟩ jais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/24\/1-4.1792489881340.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "pavydėk"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "pikties vyrams"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pikties"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "geisk"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "būti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jais",
+      "marks": "būti su jais — čia prielinksnis את (H854), ne objekto žymeklis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:51:21.340904682Z",
+  "model": "glm-5.3"
+}

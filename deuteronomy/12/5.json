@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשכנו תדרשו",
+      "rationale": "KJV 'his habitation shall ye seek' vs 'his habitation ye shall seek' — hebrajiškas įsakymo žodžių eilės tvarkos klausimas; išlaikyta pažodinė struktūra."
+    },
+    {
+      "kind": "addition",
+      "subject": "vienaskaita 'ateisi'",
+      "rationale": "Hebrajų kalboje eilutėje keičiamasi tarp daugiskaitos (תדרשו) ir vienaskaitos (ובאת) — išlaikyta kaip yra."
+    }
+  ],
+  "translation": "Bet į tą vietą, kurią išsirinks Jahvė, jūsų Elohim, iš visų jūsų giminių, kad įdėtų ⟨את⟩ savo vardą ten, — jos namų ieškosite, ir ateisi ten.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/5-8.1792475210152.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨tačiau⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tą vietą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "išsirinks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "jūsų giminių"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "kad įdėtų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo vardą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "savo vardą"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "jos buveinės"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "ieškosite"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ir ateisi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-20T05:46:50.153400639Z",
+  "model": "glm-5.3"
+}

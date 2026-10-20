@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nebus⟩",
+      "rationale": "ואין — neigimas be veiksmažodžio, lietuviškai reikia būti."
+    },
+    {
+      "kind": "you",
+      "subject": "pranašystė",
+      "rationale": "Eilutė nukreipta į Damasko likimą — klausytojas kviečiamas matyti paliktus miestus."
+    }
+  ],
+  "translation": "Palikti Aroero miestai — kaimenėms jie bus, ir gulės ten, ir ⟨nebus⟩ kas gąsdintų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/17\/1-4.1792480929485.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "Palikti"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroero"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "kaimenėms"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "jie bus"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ir gulės"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir ⟨nebus⟩"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kas gąsdintų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:09.486611153Z",
+  "model": "glm-5.3"
+}

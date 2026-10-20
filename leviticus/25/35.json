@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 25:35",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "jo ranka nuslūgsta",
+      "rationale": "Hebrajų idiomą 'ranka krenta' reiškia netekti pajėgumo; išlaikytas pažodžiui, nes lietuviškas vaizdas taip pat suprantamas"
+    },
+    {
+      "kind": "crux",
+      "subject": "גר ותושב",
+      "rationale": "Ar tai nusigyvenusio brolio būsena (kaip atėjūnas jis gyvens su tavimi — ASV\/JPS), ar nurodymas elgtis su juo kaip su atėjūnu (KJV); pasirinktas pirmasis"
+    }
+  ],
+  "translation": "Ir jei tavo brolis nusigyvens ir jo ranka nusilps pas tave, tai jį palaikysi — kaip atėjūną ir laikinąjį gyventoją — ir jis gyvens su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46d80eba8ec9f8da3be1799650deb753dd01ee6e5a81bd9bfea8a4d73cd8a9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/33-36.1792473681061.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "nusigyvens"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolis"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ir nusilps"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "והחזקת",
+      "gloss": "ir palaikysi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "גר",
+      "gloss": "atėjūnas"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "ir laikinasis gyventojas"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:21.064570808Z",
+  "model": "glm-5.3"
+}

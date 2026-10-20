@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל...אל...אל",
+      "rationale": "Žodžio אל „ne“ kartojimas du kartus ir אֵל „El“ pabaigoje — to paties skambmens pakartojimas, lietuviškai pranyksta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "meldimas",
+      "rationale": "Eilutė — tiesioginis šauksmas Elohim veikti, ne tykoti"
+    }
+  ],
+  "translation": "Elohim, nebūk tylinčiu ⟨savo atžvilgiu⟩, netylėk ir neveršk ramybės, El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/83\/1-4.1792488541700.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "tylėk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "tylek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "verk ramybes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:01.700707314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ · ⟨buvimo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio — lietuvių reikalauja jungties ir daiktavardžio_formos."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעי \/ מפלה",
+      "rationale": "Dvi skirtingos šaknies tą pačią reikšmę — griuvėsių krūva — hebrajiškame ritme, lietuvių tai išlygina."
+    }
+  ],
+  "translation": "Našta Damasko. Štai Damaskas ⟨yra⟩ pašalinamas nuo ⟨buvimo⟩ miestu, ir jis bus griuvėsių krūva.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/17\/1-4.1792480929485.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Našta"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskas"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pašalinamas"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "nuo miesto"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "griuvėsių"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "krūva"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:09.486404825Z",
+  "model": "glm-5.3"
+}

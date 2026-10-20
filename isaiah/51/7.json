@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה verčiama 'Tora', ne 'įstatymas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nesibaiminkite⟩",
+      "rationale": "Antras אל תחתו perrašomas pilna forma, nes lietuvių neigiamas sakinys reikalauja pilno veiksmažodžio"
+    },
+    {
+      "kind": "you",
+      "subject": "Toros tautai",
+      "rationale": "Tiesioginis kreipimasis 'klausykite manęs' į tuos, kurių širdyje Tora"
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausykite manęs",
+      "rationale": "Imperatyvinis šaukimas klausyti"
+    }
+  ],
+  "translation": "Klausykite manęs, cedek žinantieys, tauta, kurios širdyje mano Tora: nebijokite mirtingojo žmogaus paniekinimo ir dėl jų keiksmų nesigailiškaukite ⟨nesibaiminkite⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/51\/5-8.1792481777927.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "klausykite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "manęs"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "žinantieys"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mano Tora"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "kurios širdyje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bijokite"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "paniekinimo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mirtingojo žmogaus"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "ir jų keiksmų"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "nesibaiminkite"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:17.928589672Z",
+  "model": "glm-5.3"
+}

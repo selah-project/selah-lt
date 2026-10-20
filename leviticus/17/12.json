@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "כל נפש — 'kiekviena gyva būtybė, kiekvienas asmuo', ne 'siela'"
+    }
+  ],
+  "translation": "Dėl to pasakiau Jisraelio sūnums: jokia nefesh iš jūsų nevalgys kraujo, ir ateivis, gyvenantis tarp jūsų, nevalgys kraujo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/17\/9-12.1792473555596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "pasakiau"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokia"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "iš jūsų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ir ateivis"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gyvenantis"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "tarp jūsų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraujo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:15.601140055Z",
+  "model": "glm-5.3"
+}

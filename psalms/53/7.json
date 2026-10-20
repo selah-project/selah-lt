@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "hebrajiškas pageidinimo idiomas 'kas duotų' — lietuvių klausimas išlaiko prašymo gaidą"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "'sugrąžins nelaisvę' — šaknis שוב 'grįžti': 'sugrąžins iš tremties' arba 'atstatys buvusią padėtį'; šaknies žaismas su בשוב prarandamas"
+    }
+  ],
+  "translation": "Kas duos iš Ciono išgelbėjimus Jisraeliui? Kai Elohim sugrąžins savo tautos nelaisvę, džiūgaus Jaakovas, džiaugsis Jisraelis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/53\/5-7.1792488130445.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duos"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "iš Ciono"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "išgelbėjimus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kai sugrąžins"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nelaisvę"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautos"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "džiūgaus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "džiaugsis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:22:10.446423547Z",
+  "model": "glm-5.3"
+}

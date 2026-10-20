@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 29:28",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savo veidu žemėn puolė",
+      "rationale": "משתחוים — atsispindintis žemąsias: puolė veidu žemėn, ne vien 'garbino'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "hebrajiškas הכל 'visas' be daiktavardžio; 'visa tai' lietuviškai reikalauja ⟨tai⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיר משורר \/ החצצרות מחצצרים",
+      "rationale": "darna: daiktavardis + veiksmažodis iš tos pačios šaknies (šir-mešorer, chaṣoṣrot-mechaṣṣerim)"
+    }
+  ],
+  "translation": "Ir visas susirinkimas savo veidu žemėn puolė, ir dainius dainavo, ir trimitininkai trimitavo — visas ⟨tai⟩, kol baigėsi deginamoji auka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8a7fc72e528992c1f18c545008699e6cec50ffbf3981f675830c0984c4fff8a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/29\/28-28.1792494292941.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ir visas"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "susirinkimas"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "savo veidu žemėn puolė"
+    },
+    {
+      "surface": "והשיר",
+      "gloss": "ir dainius"
+    },
+    {
+      "surface": "משורר",
+      "gloss": "dainavo"
+    },
+    {
+      "surface": "והחצצרות",
+      "gloss": "ir trimitininkai"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "trimitavo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "baigėsi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamoji auka"
+    }
+  ],
+  "timestamp": "2026-10-20T11:04:52.942244440Z",
+  "model": "glm-5.3"
+}

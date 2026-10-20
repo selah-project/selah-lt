@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום \/ יישן",
+      "rationale": "Du skirtingi žodžiai snauduliui ir miegui — paralelizmas, išlaikytas kaip „apsnūsta \/ miega”."
+    },
+    {
+      "kind": "you",
+      "subject": "piligrimas",
+      "rationale": "Eilutė kreipiasi į kelio paveikslą kalbančiojo — ne tiesioginis adresatas, bet tęsia 3 eilutės „tave”."
+    }
+  ],
+  "translation": "Štai jis neapsnūsta ir nemiega — Jisraelio saugotojas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/121\/1-4.1792489209722.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "apsnūsta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "miega"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "saugotojas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:09.723330957Z",
+  "model": "glm-5.3"
+}

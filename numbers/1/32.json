@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 1:32",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨iš⟩ ir ⟨—⟩",
+      "rationale": "Lietuvių kalbai reikia prielinksnio ir skyrybos dviejų konstrukto grandžių 'Josefo vaikų — Efraimo vaikų' atskirti."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census criteria",
+      "rationale": "Ta pati sąrašo taisyklė: nuo dvidešimties metų, išeinantys į pulką."
+    }
+  ],
+  "translation": "Iš Josefo vaikų — Efraimo vaikų — jų giminės pagal jų šeimas, pagal jų tėvų namus, vardų skaičiumi, nuo dvidešimties metų ir aukštyn, visi, išeinantys į karo pulką,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dcd183f9aadd9828ff5268ea4ca299cc0beda65074aa3b1e62aec81f53e4b3ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/29-32.1792473828422.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "jų giminės"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pagal namus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "skaičiumi"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "vardų"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukštyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeinantys"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "į karo pulką"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:48.424897039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio šioje pozicijoje — היה eina po כי, ⟨buvo⟩ perkelta prie כי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pirkti grūdų",
+      "rationale": "לשבר — veiksmas 'kirsti sandorį dėl grūdų', vienas žodis verčiamas fraze"
+    }
+  ],
+  "translation": "Ir atėjo Jisraelio sūnūs pirkti grūdų tarp atvykstančiųjų, nes badas ⟨buvo⟩ Kanaano šalyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/5-8.1792471903931.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "pirkti grūdų"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "atvykstančiųjų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "badas"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "šalyje"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaano"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:43.933153234Z",
+  "model": "glm-5.3"
+}

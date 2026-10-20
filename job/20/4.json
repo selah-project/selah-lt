@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jobui",
+      "rationale": "Cofaras tiesiogiai klausia Jobo — retorinis klausimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškai nėra veiksmažodžio; lietuvių kalbai reikia kopulos"
+    }
+  ],
+  "translation": "Ar šitai žinai nuo seno, nuo tada, kai žmogus buvo pastatytas ant žemės?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "50095f45bec52eb3b23d729625fbb0aa98ce81112b054f66b5b82fa6bd957b70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/20\/1-4.1792490430043.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ar žinai"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seno"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "שים",
+      "gloss": "buvo pastatytas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:00:30.044566672Z",
+  "model": "glm-5.3"
+}

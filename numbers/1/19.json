@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suskaičiavo",
+      "rationale": "פקד 'aplankyti\/surinkti į sąrašą' — surašymo kontekste 'peržiūrėti skaičiuojant'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "surašymas",
+      "rationale": "Cenzas atliktas kaip Jahvė įsakė."
+    }
+  ],
+  "translation": "Kaip įsakė Jahvė ⟨את⟩ Mošei, taip jis juos suskaičiavo Sinajaus dykumoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/17-20.1792473842182.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Kaip"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "taip jis juos suskaičiavo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinajaus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:02.187271606Z",
+  "model": "glm-5.3"
+}

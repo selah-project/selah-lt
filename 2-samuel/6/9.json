@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skrynia",
+      "rationale": "ארון yra 'dėžė\/skrinė'; 'sandoros skrynia' būtų pridėtas vėlesnis apibūdinimas"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas",
+      "rationale": "Davidas kreipiasi klausimu į save — klausimo forma, vedanti klausytoją"
+    }
+  ],
+  "translation": "Ir Davidas pabijojo ⟨את⟩ Jahvės tą dieną ir tarė: Kaip ateis pas mane Jahvės skrynia?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/6\/9-12.1792478070784.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "pabijojo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:30.785409145Z",
+  "model": "glm-5.3"
+}

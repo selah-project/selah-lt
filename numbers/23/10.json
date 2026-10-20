@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dulkės ir ketvirtoji dalis",
+      "rationale": "skaičiavimo vaizdas — gausa, kurios negalima išmatuoti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש yra 'gerklė\/kvapas\/gyvybės jėga', ne 'siela' klasikine prasme"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "'ketvirtoji dalis' — gali reikšti vieną iš keturių stovyklos dalių arba tiesiog 'krūvą'; JPS verčia per metaforą 'palikuonys'"
+    }
+  ],
+  "translation": "Kas suskaičiuos Jaakovo dulkes ir ⟨את⟩ ketvirtą dalį Jisraelio skaičių? Te miršta mano gyvybė tiesiųjų mirtimi, ir tebūna mano pabaiga kaip jų!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/9-12.1792474452696.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "suskaičiuos"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkes"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ir skaičių"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ketvirtą dalį Jisraelio"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ketvirtą dalį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "te miršta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "tiesiųjų"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir tebūna"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "mano pabaiga"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kaip jų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:12.698844219Z",
+  "model": "glm-5.3"
+}

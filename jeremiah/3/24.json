@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gėda",
+      "rationale": "הבשת čia greičiausiai užuomina į Baalą — „gėdingas daiktas“; paliktas tiesioginis „gėda“, kad išliktų hebrajiškas vaizdas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכלה",
+      "rationale": "„Suėdė“ — gėda vaizduojama kaip rijikas, suėdantis tėvų darbo vaisius, bandą ir vaikus."
+    }
+  ],
+  "translation": "O gėda suėdė ⟨את⟩ mūsų tėvų triūsą nuo mūsų jaunystės: ⟨את⟩ jų avis ir ⟨את⟩ jų galvijus, ⟨את⟩ jų sūnus ir ⟨את⟩ jų dukteris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/3\/21-24.1792482281993.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "O gėda"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsų tėvų triūsą"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "triūsą"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "mūsų tėvų"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "nuo mūsų jaunystės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų avis"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "jų avis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų galvijus"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "jų galvijus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų sūnus"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "jų sūnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų dukteris"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "jų dukteris"
+    }
+  ],
+  "timestamp": "2026-10-20T07:44:41.996388505Z",
+  "model": "glm-5.3"
+}

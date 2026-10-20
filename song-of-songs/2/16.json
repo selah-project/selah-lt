@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "brūkšneliai",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — 'man' ir 'jam' su priklausymo reikšme, lietuvių kalbai reikia jungties ženklo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "gano tarp lelijų",
+      "rationale": "Participija gali būti ir apibūdinimas ('ganytojas tarp lelijų'), ir veiksmas ('jis gano')."
+    }
+  ],
+  "translation": "Mano mylimasis — man, ir aš — jam, tas, kuris gano tarp lelijų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/2\/13-16.1792490858845.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "mano mylimasis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ir aš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "tas, kuris gano"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "tarp lelijų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:38.846603228Z",
+  "model": "glm-5.3"
+}

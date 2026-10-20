@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "torim",
+      "rationale": "תּוֹרִים — 'eilės, vijai, apyrankės': verčiamas 'vijai' (KJV 'rows', JPS 'circlets'), nes tiksli reikšmė neaiški."
+    },
+    {
+      "kind": "addition",
+      "subject": "karolių eilėmis",
+      "rationale": "Hebr. חֲרוּזִים tiesiog 'suveržti karoliai'; žodis 'eilėmis' pridėtas pagal kontekstą, nėra atskiro hebrajiško žodžio."
+    }
+  ],
+  "translation": "Žavūs tavo skruostai su vijais, tavo kaklas su karolių eilėmis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/1\/9-12.1792490822073.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "žavūs"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "tavo skruostai"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "su vijais"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "tavo kaklas"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "su karoliais"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:02.074359307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבעה \/ שבע",
+      "rationale": "šulinio vardas Šiba ir miesto vardas Beer-Šeba — tas pats skambesys, prarasta lietuviškai"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio sakinio 'miesto vardas yra Beer-Šeba'"
+    }
+  ],
+  "translation": "Ir jis pavadino ⟨את⟩ ją Šiba; todėl miesto vardas yra Beer-Šeba iki šios dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/26\/33-35.1792471416311.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir pavadino"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją (Šiba)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Šiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestas"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šios"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:36.312696932Z",
+  "model": "glm-5.3"
+}

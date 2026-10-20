@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi jos santvarkos veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išvijo",
+      "rationale": "הבריחו pažodžiui 'pabėgo iš \/ privertė bėgti' — privertė Gat gyventojus bėgti"
+    }
+  ],
+  "translation": "ir Berija ir Šema — jie ⟨buvo⟩ šeimų galvos gyventojams Ajalono; jie išvijo ⟨את⟩ Gat gyventojus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/8\/13-16.1792492781247.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "ir Berija"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ir Šema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "šeimų"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "gyventojams"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalono"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "išvijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat gyventojus"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-10-20T10:39:41.248352476Z",
+  "model": "glm-5.3"
+}

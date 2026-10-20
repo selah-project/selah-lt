@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Krypties prielinksniukas אל susilieja su lietuvišku linksniu 'Sarajai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tu",
+      "rationale": "אַתָּה čia — įvardis 'tu', ne aleph-tav objekto žymeklis ⟨את⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Avramas Sarajai",
+      "rationale": "Tiesioginis kreipimasis į žmoną prieš įeinant į Micraimą"
+    }
+  ],
+  "translation": "Ir įvyko, kai jis artinosi įeiti į Micraimą, kad jis tarė Sarajai, savo žmonai: Štai dabar aš žinau, kad tu — gražaus veido moteris.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/12\/9-12.1792471200773.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "artinosi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "įeiti"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajai"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savo žmonai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aš žinau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "gražaus"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "veido"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:00.776212852Z",
+  "model": "glm-5.3"
+}

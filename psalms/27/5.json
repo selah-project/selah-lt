@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסתרני \/ בסתר",
+      "rationale": "tas pones šaknis סתר kartojama — 'paslėps mane \/ slaptojoje vietoje', kalbinis aidas"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiškos galūnės ו (אהלו) reiškia 'jo palapinė', lietuviškai reikia įvardžio"
+    }
+  ],
+  "translation": "Nes jis paslėps mane savo palapinėje blogio dieną, paslėps mane savo palapinės slaptojoje vietoje, ant uolos jis mane išaukštins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/27\/5-8.1792487771858.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "paslėps mane"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "savo palapinėje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "blogio"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "paslėps mane"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "slaptojoje vietoje"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "savo palapinės"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ant uolos"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "išaukštins mane"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:11.858638600Z",
+  "model": "glm-5.3"
+}

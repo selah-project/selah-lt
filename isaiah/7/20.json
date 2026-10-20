@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 7:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "skutimas",
+      "rationale": "Visiškas kūno nuskutimas — galva, kojos, barzda — hebrajų kultūroje gėdos ir vergijos ženklas, ne paprasta kirpimo scena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "samdytu skustuvu",
+      "rationale": "תער השכירה — „samdytas skustuvas“ yra karalius Asiro karalius, samdomas karo grobiui; ironija prarandama lietuviškai tik iš dalies."
+    },
+    {
+      "kind": "crux",
+      "subject": "už Upės",
+      "rationale": "נהר be artikelio — greičiausiai Eufratas, bet tekstas sako tik „upė“."
+    }
+  ],
+  "translation": "Tą dieną Adonai nuskus samdytu skustuvu — už Upės, Asiro karaliumi — ⟨את⟩ galvą ir kojų plaukus, ir net ⟨את⟩ barzdą nukapos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "079c2e14bb824b8fe56427ec2eaf70b8aba376ea67bd2e9da0c84bbfed3e2295",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/7\/17-20.1792480716747.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "nuskus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "skustuvu"
+    },
+    {
+      "surface": "השכירה",
+      "gloss": "samdytu"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "už"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Upės"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galvą"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galvą"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ir plaukus"
+    },
+    {
+      "surface": "הרגלים",
+      "gloss": "kojų"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir net"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barzdą"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "barzdą"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "nukapos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:36.753200626Z",
+  "model": "glm-5.3"
+}

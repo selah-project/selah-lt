@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקצו",
+      "rationale": "„baisėjosi \/ pasibjaurėjo \/ buvo apimti baimės“ — KJV „grieved“ vs JPS „adread“; šaknis reiškia ir pasibjaurėjimą, ir baimę"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כן … ירבה … וכן … יפרץ",
+      "rationale": "„Kuo … tuo …“ konstrukcija atkartoja כן — proporcingumoretorika"
+    }
+  ],
+  "translation": "Bet kuo labiau jie spaudė ⟨את⟩ jį, tuo labiau jis daugėjo ir tuo labiau sklido; ir jie baisėjosi dėl Jisraelio vaikų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/1\/9-12.1792472112131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Bet kuo labiau"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "jie spaudė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tuo labiau"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "jis daugėjo"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ir tuo labiau"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "sklido"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ir jie baisėjosi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:12.136537491Z",
+  "model": "glm-5.3"
+}

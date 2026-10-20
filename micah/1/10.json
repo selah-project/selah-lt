@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עפרה \/ עפר",
+      "rationale": "Vietovardis Bet ha-Efra ('dulkių namas') skamba kaip עפר 'dulkės' — žodžių žaismas įeinantis į lietuvių kalbą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו אל תבכו",
+      "rationale": "Šaknies בכה kartojimas su neigimu — 'neverkite verkdami'"
+    }
+  ],
+  "translation": "Gate neskelkite, neverkite; Bet ha-Efroje voliokitės dulkėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/1\/9-12.1792486739411.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "skelkite"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "verkite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "verkite"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ha-Efroje"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dulkėse"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "voliokitės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:58:59.414531860Z",
+  "model": "glm-5.3"
+}

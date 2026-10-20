@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 16:14",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jie (padarė)",
+      "rationale": "Hebrajų kalba neturi įvardžio עשה veiksmui — pridėta, kad aiškėtų, jog tai Ela."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Prielinksnis 'ant\/prie' lietuvių locatyvo glostomas knygoje — atskirai neverčiamas."
+    }
+  ],
+  "translation": "O likusieji Elos žodžiai ir visa, ką jis padarė — argi jie ne užrašyti Jisraelio karalių dienų žodžių knygoje?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/13-16.1792479392255.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "o likusieji"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jis padarė"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "argi ne"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "užrašyti"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:32.256803596Z",
+  "model": "glm-5.3"
+}

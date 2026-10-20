@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-samuel 20:36",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החצים \/ החצי",
+      "rationale": "daugiskaita 'strėlės' pakeičiama vienaskaita 'strėlė' — viena iš jų, praleista pro berniuką, yra ženklas Davidui"
+    },
+    {
+      "kind": "secret",
+      "subject": "strėlė už berniuko",
+      "rationale": "šaudymas — užkoduotas pranešimas Davidui, slepiamas nuo berniuko"
+    }
+  ],
+  "translation": "Ir jis tarė savo berniukui: Bėk, surask dabar ⟨את⟩ strėles, kurias aš šaudau. Ir berniukas bėgo, o jis iššovė strėlę, kad ji pralėktų pro jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "87c2e699b1021beda4cf7eccdea89774c3abb6e67fd29e6b552a6a6796381392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/33-36.1792477474500.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "savo berniukui"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "Bėk"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "surask"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "strėles"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "strėles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurias"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "šaudau"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bernijukas"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "bėgo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "iššovė"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "strėlę"
+    },
+    {
+      "surface": "להעברו",
+      "gloss": "kad pralėktų pro jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:24:34.678696981Z",
+  "model": "glm-5.3"
+}

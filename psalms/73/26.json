@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kūnas",
+      "rationale": "שארי — pažodžiui 'mano kūnas\/gležnas kūniškumas', ne tik mėsa"
+    },
+    {
+      "kind": "crux",
+      "subject": "צור לבבי",
+      "rationale": "Pažodžiui 'uola mano širdžiai'; tradiciniai vertimai 'stiprybė mano širdies' praranda uolos paveikslą"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Pridėta kopula prieš Elohim, pažymėta ⟨yra⟩"
+    }
+  ],
+  "translation": "Baigiasi mano kūnas ir mano širdis — uola mano širdžiai ir mano dalis ⟨yra⟩ Elohim amžinai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/73\/25-28.1792488395444.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Baigiasi"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "mano kūnas"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "ir mano širdis"
+    },
+    {
+      "surface": "צור",
+      "gloss": "uola"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mano širdžiai"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "ir mano dalis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amžinai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:35.445579478Z",
+  "model": "glm-5.3"
+}

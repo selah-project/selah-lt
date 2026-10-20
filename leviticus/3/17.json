@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "amžinas",
+      "rationale": "עולם pažodžiui 'nepagaunamas regėjimas — laiko prasmė', čia 'nesibaigiantis laikas'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Tiesioginis kreipimasis į Izraelio bendruomenę: 'jūsų kartoms... nevalgysite'."
+    }
+  ],
+  "translation": "Amžinas įstatas jūsų kartoms visose jūsų gyvenamosiose vietose: jokio taukų ir jokio kraujo nevalgysite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/3\/17-17.1792473076132.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "įstatas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsų kartoms"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visose"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "jūsų gyvenamosiose vietose"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taukų"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir jokio"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "valgysite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:16.135235954Z",
+  "model": "glm-5.3"
+}

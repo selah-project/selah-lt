@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rūstis",
+      "rationale": "אפך pažodžiui 'tavo nosis \/ šnervės' — Hebrajoje pykčio vaizdas; lietuvių reikalauja 'rūstis'"
+    },
+    {
+      "kind": "you",
+      "subject": "sakysi",
+      "rationale": "tiesioginis kreipimasis į Izraelį, kuris kalbės 'tą dieną'"
+    }
+  ],
+  "translation": "Ir sakysi tą dieną: Dėkoju tau, Jahve, nes pykai ant manęs; tavo rūstis atsigręžė, ir tu mane paguodei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/12\/1-4.1792480781097.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakysi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "dėkoju tau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "pykai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "atsigręžė"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tavo rūstis"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "ir tu mane paguodei"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:41.098437547Z",
+  "model": "glm-5.3"
+}

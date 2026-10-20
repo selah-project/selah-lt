@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh — gyvybė\/guonis, ne 'siela'; 'savo gyvybei' vietoj 'prieš savo sielą'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו שקר",
+      "rationale": "kas padarė netiesą — 'aš savo gyvybei' ar 'jo (Avšalomo) gyvybei': KJV\/JPS 'mane own life', ASV 'his life'"
+    },
+    {
+      "kind": "addition",
+      "subject": "prieš mane",
+      "rationale": "מנגד — 'priešingoje pusėje'; 'prieš mane' pridėta aiškumui"
+    }
+  ],
+  "translation": "arba būčiau padaręs savo gyvybei ⟨netiesą⟩ — joks dalykas nesislepia nuo karaliaus, o tu pats pasistatytum prieš mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/18\/13-16.1792478544252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "būčiau padaręs"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "savo gyvybei"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨netiesą⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir joks"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalykas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "sislepia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "pasistatytum"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "prieš mane"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:24.253324527Z",
+  "model": "glm-5.3"
+}

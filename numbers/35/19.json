@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "goel ha-dam",
+      "rationale": "גֹּאֵל הַדָּם: 'kraujo išpirkėjas' (giminės teisės terminas) vs 'keršytojas' \/ 'kraujo atkeršytojas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא ... הוא",
+      "rationale": "pabrėžtinis įvardis kartojamas abiejose pusėse — 'pats jis' nužudo, 'pats jis' tai daro"
+    }
+  ],
+  "translation": "Kraujo išpirkėjas pats nužudys ⟨את⟩ žudiką; kai jį sutiks, jis pats jį nužudys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7586cc054bbc5446ac83ba04e306b024ba0ed143a00ce0567eb54937f1eb3b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/17-20.1792474787346.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "išpirkėjas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "nužudys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žudiką"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žudiką"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "kai sutiks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pats"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "nužudys jį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:47.348615455Z",
+  "model": "glm-5.3"
+}

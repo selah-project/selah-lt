@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Achimelekui",
+      "rationale": "Saulis tiesiogiai kreipiasi į kunigą: „Išklausyk dabar, Achitubo sūnau“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mano pone",
+      "rationale": "אדני čia apie žmogų — karalių, todėl „pone“, ne „Adonai“."
+    }
+  ],
+  "translation": "Ir Saulis tarė: Išklausyk dabar, Achitubo sūnau. Ir jis tarė: Štai aš, mano pone.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/22\/9-12.1792477613867.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulis"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Išklausyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnau"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitubo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Štai aš"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:53.870787953Z",
+  "model": "glm-5.3"
+}

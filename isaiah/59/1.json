@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Jo⟩",
+      "rationale": "Hebrajiškai veidas nėra — possessyvinis įvardis įdėtas lietuvių aiškumui"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הן",
+      "rationale": "Eilutė prasideda šauksmu „Štai“ — kreipimasis į Izraelį prieš smerkimą"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Pranašas kreipiasi į tautą, atsakydamas į jų skundą, kad Jahvė negelbėja"
+    }
+  ],
+  "translation": "Štai, nėra sutrumpėjusi Jahvės ranka, kad negalėtų gelbėti, ir nėra apsunkinusi ⟨Jo⟩ ausis, kad negalėtų girdėti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/59\/1-4.1792481941565.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "sutrumpėjusi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "kad negalėtų gelbėti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "apsunkinusi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ausis"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kad negalėtų girdėti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:01.566373545Z",
+  "model": "glm-5.3"
+}

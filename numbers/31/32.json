@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų ויהי — „ir atsitiko \/ buvo“; lietuvių predikatas pridėtas kaip lotas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "675 000 avių",
+      "rationale": "Tikslus grobio skaičius — skaičių sąrašo pradžia."
+    },
+    {
+      "kind": "crux",
+      "subject": "עם הצבא",
+      "rationale": "„Karo tautos žmonės“ arba „karo vyrai \/ kariuomenė“ — hebrajiškas posakis nurodo karius kaip karo įrankį."
+    }
+  ],
+  "translation": "Ir grobis — tai, kas liko iš karo vylių plėštos dalies, kurią apiplėšė karo tautos žmonės — ⟨buvo⟩ avys ir ožkos: šeši šimtai tūkstančių ir septyniasdešimt tūkstančių ir penki tūkstančiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "49ad611f8d320ac7fdb1d8727df9fe6c64af2dea47416f1259dcfa6efa4e2fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/31\/29-32.1792474663637.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "grobis"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kas liko"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "iš plėštos dalies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "apiplėšė"
+    },
+    {
+      "surface": "עם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "karo tautos"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avys ir ožkos"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šeši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ir septyniasdešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "ir penki"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančiai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:37:43.639639230Z",
+  "model": "glm-5.3"
+}

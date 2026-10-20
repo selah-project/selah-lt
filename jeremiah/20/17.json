@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrew perfect here is a wish (unreal), lietuvių reikalauja būtjo kondicionalo ar žymos"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרת עולם",
+      "rationale": "„amžinas nėštumas” vs „visada nėščia” — ar įsčios amžinai nešioja, ar nėštumas niekad nesibaigia gimimu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרחם \/ רחמה",
+      "rationale": "įsčios pakartotos dviejose eilutės pusėse, mirtis ir gimimas siejami vienu žodžiu"
+    }
+  ],
+  "translation": "Kad jis nenumarė manęs iš įsčių, ir mano motina būtų ⟨buvo⟩ man mano kapas, ir jos įsčios — amžinas nėštumas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5aee41d2bf5352fd03a176f25d6af4076a67b5337f999d1161051f94e52687bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/20\/17-18.1792482649511.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "nenumarė manęs"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "iš įsčių"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir būtų ⟨buvo⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mano motina"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "mano kapas"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "ir jos įsčios"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "nėštumas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:49.512161787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Micraimo žmonėms",
+      "rationale": "Jozefas tiesiogiai atsako daugiskaitos imperatyvu: 'Atiduokite savo gyvulius'"
+    },
+    {
+      "kind": "elision",
+      "subject": "duonos",
+      "rationale": "Hebrajų tekstas nesako, ką duos — tik 'duosiu už jūsų gyvulius'; JPS prideda 'bread', čia neišplėsta"
+    }
+  ],
+  "translation": "Ir Jozefas tarė: Atiduokite savo gyvulius, ir aš jums duosiu už jūsų gyvulius, jei sidabras baigėsi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a51b62e2f7bc8211133233ec5d47505da490841aeaa2a1103317798e61db0390",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/47\/13-16.1792472027790.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "atiduokite"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "savo gyvulius"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ir duosiu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "už jūsų gyvulius"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "baigėsi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabras"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:47.801603818Z",
+  "model": "glm-5.3"
+}

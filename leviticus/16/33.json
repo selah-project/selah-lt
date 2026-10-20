@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר x3",
+      "rationale": "Šaknis כפר (dengti, padengti) kartojama tris kartus — permaldavimo veiksmas kartojimu pabrėžiamas."
+    },
+    {
+      "kind": "measurement",
+      "subject": "אחת בשנה",
+      "rationale": "Kartą per metus — metinio permaldavimo laiko nustatymas (16,34)."
+    }
+  ],
+  "translation": "Ir permaldos ⟨את⟩ šventyklą šventumo, ir ⟨את⟩ susitikimo palapinę, ir ⟨את⟩ aukurą permaldos; ir už kunigus, ir už visą susirinkimo tautą permaldos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d3a8d3ce0f13146418a6c3e69e0f795069a2a6bb31222b9ebc1f74a596db30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/16\/33-34.1792473470208.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Ir permaldos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šventyklą šventumo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "šventyklą"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "susitikimo palapinę"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susitikimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "aukurą"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "permaldos"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir už"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir už"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "susirinkimo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "permaldos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:50.210351838Z",
+  "model": "glm-5.3"
+}

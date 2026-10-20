@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כף kaip matas",
+      "rationale": "כף čia — delnos dydžio indas; vaizdas „delnas“ išlaikytas žodžiu delčia"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨šekelių⟩",
+      "rationale": "hebrajiškame tekste šis daiktavardis praleistas — „dešimt“ be „šekelių“, pridedama iš konteksto"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimt",
+      "rationale": "smilkalų indo svorio nurodymas"
+    }
+  ],
+  "translation": "viena aukso delčia, dešimt ⟨šekelių⟩, pilna kvapniais dūmais;",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/25-28.1792473964980.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "delčia"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilna"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvapniais dūmais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:04.982120221Z",
+  "model": "glm-5.3"
+}

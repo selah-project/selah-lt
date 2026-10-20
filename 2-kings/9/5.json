@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 9:5",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šis",
+      "rationale": "paskutinis ויאמר be subjekto — lietuviškame tekste reikia įvardžio"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prieš מי krypties prielinksnis lietuvių klausimamajame „kam“ jau savyje"
+    }
+  ],
+  "translation": "Ir atėjęs — ir štai kariuomenės vadai sėdėjo; ir jis tarė: Žodį turiu tau, vade. Ir Jehu tarė: Kam iš mūsų visų? Ir šis tarė: Tau, vade.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/5-8.1792479916817.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjęs"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vadai"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "kariuomenės"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "sėdėjo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir jis tarė"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "לי",
+      "gloss": "turiu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "השר",
+      "gloss": "vade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "מכלנו",
+      "gloss": "iš mūsų visų"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "השר",
+      "gloss": "vade"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:16.818281032Z",
+  "model": "glm-5.3"
+}

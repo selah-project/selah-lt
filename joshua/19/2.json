@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ševa",
+      "rationale": "Kai kurie vertėjai (JPS, ASV) mano, kad ושבע yra tas pats miestas kaip Beer Ševa — 'Beer Ševa, tai yra Ševa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi jungties."
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ jiems jų paveldėjime Beer Ševa, ir Ševa, ir Molada.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7bb391ebb91805c11919be2c7d00e25cf8c3f27cce6458c16ca839dd03defb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/19\/1-4.1792476041676.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir ⟨buvo⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "jų paveldėjime"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir Ševa"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ir Molada"
+    }
+  ],
+  "timestamp": "2026-10-20T06:00:41.677063916Z",
+  "model": "glm-5.3"
+}

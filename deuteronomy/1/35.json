@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "Neiginio priesaga אם su priesaga — hebrajų prisaikos posakis 'tikrai ne', išversta 'ne vienas'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרע \/ הטובה",
+      "rationale": "Piktoji karta prieš gerąją žemę — hebrajų priešprieša, išlaikyta."
+    }
+  ],
+  "translation": "Ne vienas iš šių vyrų, šitos piktosios kartos, pamatys ⟨את⟩ gerąją žemę, kurią prisiekiau duoti jūsų tėvams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/33-36.1792474850044.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pamatys"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vienas... vyras"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "iš vyrų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šių"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "kartos"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "piktosios"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gerąją žemę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gerąją"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisiekiau"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "duoti"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "jūsų tėvams"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:50.048190243Z",
+  "model": "glm-5.3"
+}

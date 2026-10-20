@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עברי",
+      "rationale": "Hebrajas — etnonimas, nėra asmens vardo: 'hebrajas' mažąja raide."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פתר",
+      "rationale": "Veiksmažodis 'atverti\/atidaryti' sapną — lietuvių reikalauja 'išaiškino', prarandamas atvėrimo paveikslas."
+    }
+  ],
+  "translation": "Ir ten buvo ⟨את⟩ su mumis jaunuolis, hebrajas, tarnas saro-žudikų; ir papasakojome jam, ir jis išaiškino mums ⟨את⟩ mūsų sapnus — kiekvienam pagal jo sapną išaiškino.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/9-12.1792471838114.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ir ten"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ su mumis"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jaunuolis"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebrajas"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tarnas"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "saro"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "žudikų"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "ir papasakojome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "ir jis išaiškino"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mūsų sapnus"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "mūsų sapnus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienam"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "pagal jo sapną"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "išaiškino"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:38.129788707Z",
+  "model": "glm-5.3"
+}

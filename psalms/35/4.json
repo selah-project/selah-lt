@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybės",
+      "rationale": "נפש čia — gyvybė, ne nemateriali siela; priešai medžioja gyvybę."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו",
+      "rationale": "Du gėdos veiksmažodžiai (išblykšti ir nurausti) apsupa eilutę — chiazminis gėdos rėmas."
+    }
+  ],
+  "translation": " Tegul sugėdijami ir suteršiami jie, ieškantys mano gyvybės; tegul atsitraukia atgal ir pirštais parausta jie, kurstantys man pikta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/35\/1-4.1792487837563.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Tegul sugėdijami"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ir suteršiami"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ieškantys"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybės"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "tegul atsitraukia"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "atgal"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ir pirštais parausta"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "kurstantys"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "man pikta"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:17.564330475Z",
+  "model": "glm-5.3"
+}

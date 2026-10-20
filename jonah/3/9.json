@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחרון אפו",
+      "rationale": "pažodžiui 'degimas jo nosies' — hebrajiškas pykčio posakis, išverstas 'įniršio karščio'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "savo",
+      "rationale": "אפו yra 'jo nosis', priskirtas חרון — glosuota kaip įvardis, nes lietuvių posakis 'savo' jau apima"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי-sakinio forma",
+      "rationale": "'מי יודע' — atvira viltis: 'kas žino, gal…' vs 'kas žino ar' (abejonė); hebrajiškai tai vilties, ne desperacijos klausimas"
+    },
+    {
+      "kind": "invitation",
+      "subject": "karaliaus žodis Ninevai",
+      "rationale": "kalba kreipiasi į visus — atgailos šaukimas su viltimi"
+    }
+  ],
+  "translation": "Kas žino — gal sugrįš ir gailėsis Elohim, ir grįš nuo savo įniršio karščio, kad nepražūtume?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jonah\/3\/9-10.1792486679799.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "žino"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sugrįš"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ir gailėsis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ir grįš"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "nuo įniršio karščio"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "savo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "pražūtume"
+    }
+  ],
+  "timestamp": "2026-10-20T08:57:59.800017460Z",
+  "model": "glm-5.3"
+}

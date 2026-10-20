@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין זרעיו",
+      "rationale": "„Tarp jo rankų\/pečių“ — זרוע is ranka iki peties; smūgis tarp pečių, kad strėlė pasiektų širdį."
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Priklausomybė ⟨jo⟩ pridėta prie „širdį“ dėl aiškumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החצי",
+      "rationale": "Žodis חץ čia vienaskaitos strėlė, ne „pusė“ — ta pati šaknis kaip מחצה, padalinta."
+    }
+  ],
+  "translation": "O Jėhu įtempė ranką su lanku ir smogė ⟨את⟩ Jehoramą tarp jo pečių, ir strėlė išėjo pro ⟨jo⟩ širdį, ir jis kėlė kelius savo vežime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/21-24.1792479915419.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "O Jėhu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "įtempė"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "su lanku"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir smogė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoramas"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoramas"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "jo pečių"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "strėlė"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "pro jo širdį"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "ir kėlė kelius"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "savo vežime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:15.422282422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "hebrajiškai nėra įvardžio prie הכין — veikėjas numanomas"
+    },
+    {
+      "kind": "crux",
+      "subject": "kuris pasirodė Davidui",
+      "rationale": "נראה לדויד — ar kalnas pasirodė Davidui, ar Jahvė pasirodė Davidui ant kalno (kaip KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "grindimo aikštė",
+      "rationale": "גרן — derliaus gręžimo aikštė, paplotas kiemas"
+    }
+  ],
+  "translation": "Ir pradėjo Šlomohas statyti ⟨את⟩ namą Jahvės Jerušalaime, Morijos kalne, kuris pasirodė Davidui, jo tėvui, — kurį ⟨jis⟩ paruošė vietoje, kurioje buvo Davidas, Arnano jebusiečio grindimo aikštėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/3\/1-4.1792493287245.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "pradėjo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomohas"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "statyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Morijos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pasirodė"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidui"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "jo tėvui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "paruošė"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "grindimo aikštėje"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnano"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jebusiečio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:48:07.245949218Z",
+  "model": "glm-5.3"
+}

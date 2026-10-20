@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 3:21",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeshė",
+      "rationale": "נפש — gyvybės jėga, kvapas, ne „siela“ viena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדיק išverstas „cedek žmogus“ — žodžio formos išlaikymas, lietuvių kalbai reikia daiktavardžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיו יחיה",
+      "rationale": "Hebrajų žodžių žaismas — infinitivas absoliutus + veiksmažodis „gyvas gyvens“, lietuviškai neišlaikomas pilnai"
+    }
+  ],
+  "translation": "O tu, jei įspėjai cedek žmogų, kad cedek nenusidėtų, ir jis nenusidėjo — gyvas jis gyvens, nes buvo įspėtas, o tu ⟨את⟩ savo nefeshę išgelbėjai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce1fd9b7754db233cf6f8c9e177d2e75b93b8da23e275e1d33cb8e151e1970f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/3\/21-24.1792483863757.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "הזהרתו",
+      "gloss": "įspėjai jį"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nusidėtų"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nusidėjo"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "buvo įspėtas"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o tu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo nefeshę"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savo nefeshę"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "išgelbėjai"
+    }
+  ],
+  "timestamp": "2026-10-20T08:11:03.758222059Z",
+  "model": "glm-5.3"
+}

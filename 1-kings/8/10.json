@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הענן מלא",
+      "rationale": "hebrajiškas veiksmažodis „malė“ — „užpildė debesis“; lietuviškai traukinys „debesies pilnas“ išlaiko tą patį įvykį"
+    }
+  ],
+  "translation": "Ir atsitiko, kunigams išeinant iš šventumos, debesies pilnas ⟨את⟩ Jahvės namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3322cbf9f976ddaf995e9e42db9169e314950c62af09e9637c6e267168c53e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/10-12.1792485549475.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "išeinant"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigams"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventumos"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ir debesis"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės namus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:39:09.476803982Z",
+  "model": "glm-5.3"
+}

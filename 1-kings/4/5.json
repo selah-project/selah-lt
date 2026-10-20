@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta copula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רעה המלך",
+      "rationale": "„Karaliaus draugas“ — greičiausiai oficialus titulas, ne paprastas draugystės apibūdinimas"
+    }
+  ],
+  "translation": "Ir Azarjahu, Natano sūnus, ⟨buvo⟩ virš paskirtųjų; ir Zavudas, Natano sūnus, kunigas, ⟨buvo⟩ karaliaus draugas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/4\/5-8.1792478874375.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Ir Azarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanas"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "paskirtųjų"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "ir Zavudas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanas"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "draugas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:54.376323272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cherem",
+      "rationale": "להחרימם — skirti cheremui, t. y. pašvęsti visiškam sunaikinimui; lietuviškai išskleista į 'pašvęsdami jas naikinimui'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תנצל",
+      "rationale": "Nors forma leistų ir teiginį 'tu būsi išgelbėtas!', čia retorinis klausimas, kaip rodo verčiuose nuo Genevos."
+    }
+  ],
+  "translation": "Štai tu girdėjai ⟨את⟩ tai, ką padarė Ašūro karaliai visoms šalims, pašvęsdami ⟨את⟩ jas naikinimui — ir ar tu būsi išgelbėtas?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/9-12.1792480273300.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "girdėjai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, ką padarė Ašūro karaliai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tai-ką"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karaliai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visoms"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "šalims"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "pašvęsdami-juos-naikinimui"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ir-tu"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "būsi-išgelbėtas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:13.303883509Z",
+  "model": "glm-5.3"
+}

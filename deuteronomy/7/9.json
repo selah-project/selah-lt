@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' sakinio 'Jahvė, tavo Elohim, ⟨yra⟩ Elohim' viduje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesedą",
+      "rationale": "חסד išlaikomas kaip chesed, o ne verčiamas į 'gailestingumas'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "iki tūkstantos kartos",
+      "rationale": "Skaičius kartų — laiko matas atsakomojo chesedo ribai."
+    }
+  ],
+  "translation": "Ir tu žinosi, kad Jahvė, tavo Elohim, ⟨yra⟩ Elohim — tas ištikimasis El, kuris saugo sandorą ir chesedą tiems, kurie jį myli, ir tiems, kurie laikosi jo įsakymų, iki tūkstantos kartos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/7\/9-12.1792475064710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ir tu žinosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tas El"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "ištikimasis"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kuris saugo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "ir chesedą"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "tiems, kurie jį myli"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ir tiems, kurie laikosi"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "jo įsakymų"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "iki tūkstantos"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kartos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:44:24.712111769Z",
+  "model": "glm-5.3"
+}

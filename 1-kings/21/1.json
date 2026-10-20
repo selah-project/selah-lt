@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'turėti' — היה 'buvo' su ל-"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "santykinis žodis ištirpęs lietuviškoje struktūroje, pridėta ⟨kuris⟩ reikšmė"
+    }
+  ],
+  "translation": "Ir įvyko po šių dalykų: Nabotui izreėliui buvo vynuogynas Izreelyje, šalia rūmų Achabo, Šomrono karaliaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/1-4.1792479603374.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "šių dalykų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šių"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vynuogynas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "Nabotui"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "izreėliui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Izreelyje"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "šalia"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "rūmų"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrono"
+    }
+  ],
+  "timestamp": "2026-10-20T07:00:03.375674155Z",
+  "model": "glm-5.3"
+}

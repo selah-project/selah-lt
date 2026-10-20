@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra brėžiniai",
+      "rationale": "Lietuvių kalbai reikia brūkšnio\/copulos, kurių hebrajų neturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר\/יצר",
+      "rationale": "Molio ir puodžiaus pora — formuotojo metafora, žinoma iš Jer 18"
+    }
+  ],
+  "translation": "Ir dabar, Jahve, Tu mūsų Tėvas; mes — molis, o Tu mūsų puodžius, ir visi mes — Tavo rankų darbas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/64\/5-8.1792481874497.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "mūsų Tėvas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "mes"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "molis"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "o Tu"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "mūsų puodžius"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ir darbas"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Tavo rankų"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "visi mes"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:54.498951363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Šomeronas",
+      "rationale": "שמרון pagal hebrajišką skambesį, ne 'Samarija'"
+    }
+  ],
+  "translation": "Ir jis nuėjo iš ten į Karmelio kalną, ir iš ten sugrįžo į Šomeroną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddf62ee82b9b87effe246795d58c041c049fa2ef9937e172cb0b3ddd9f5109c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/2\/25-25.1792479661895.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iš ten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kalną"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelio"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ir iš ten"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sugrįžo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeroną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:01:01.896253877Z",
+  "model": "glm-5.3"
+}

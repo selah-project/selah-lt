@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiose predikatinėse konstrukcijose."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקדש",
+      "rationale": "'šventume' vs 'sanktoryje\/sventykloje' — senesni vertimai skaito kaip vietą."
+    }
+  ],
+  "translation": "Elohim, šventume ⟨yra⟩ tavo kelias; kas ⟨yra⟩ didis El kaip Elohim?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/77\/13-16.1792488405796.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "šventume"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tavo kelias"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didis"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kaip Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:45.796723491Z",
+  "model": "glm-5.3"
+}

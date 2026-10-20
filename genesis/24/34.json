@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrew verbless clause; copula supplied"
+    }
+  ],
+  "translation": "Ir jis tarė: Aš — Avrahamo tarnas ⟨esu⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd2d7f0eb189bf0756cf03c4b40165ecf269f055ccba20bff34e32ac3aa4a01f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/33-36.1792471472614.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tarnas"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:32.616403301Z",
+  "model": "glm-5.3"
+}

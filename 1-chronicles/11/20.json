@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא שם",
+      "rationale": "kaip parašyta — 'ir ne vardas tarp trijų'; KJV skaito ולו ('ir jam buvo vardas'); Hebrew kaip yra: jis nebuvo tarp Trijų"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iškėlė",
+      "rationale": "עורר pažodžiui 'pabudino\/pamojavo' ietį — nešioti, kelti ginklą"
+    }
+  ],
+  "translation": "Ir Avišajus, Joabo brolis, jis buvo galva tiems trims; ir jis iškėlė ⟨את⟩ savo ietį prieš tris šimtus nukautųjų, ir ⟨ne⟩ šlovė tarp trijų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/11\/17-20.1792492865186.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Ir Avišajus"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "brolis"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galva"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "tiems trims"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "iškėlė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ietį"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "savo ietį"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tris"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtus"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nukautųjų"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ⟨ne⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "tarp trijų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:41:05.188194024Z",
+  "model": "glm-5.3"
+}

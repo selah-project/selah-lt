@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ceraat",
+      "rationale": "צרעת apibūdinta transkribavimu, nes vienas lietuviškas žodis (raupsai) sutapatintų su kita liga"
+    },
+    {
+      "kind": "measurement",
+      "subject": "diagnostikos taisyklė",
+      "rationale": "Kunigo apžiūra — struktūrinė registracijos procedūra"
+    }
+  ],
+  "translation": "Kai ceraat žaizdė pasirodys žmogui, jis bus atvestas pas kunigą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf112fd9d88e557a50c7eefe5f66867285070aa8f1b078b92fe30de7d213cd86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/9-12.1792473398156.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "žaizdė"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ceraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "pasirodys"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "žmogui"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "bus atvestas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:38.157993104Z",
+  "model": "glm-5.3"
+}

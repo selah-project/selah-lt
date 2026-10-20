@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stiprinsiu širdį",
+      "rationale": "מחזק — 'stiprinsiu' (kaip hebrajų kalba sako) prieš 'sustiprinsiu' arba 'padarysiu kietą'; vertėjai ginčijasi, ar tai Dievo veiksmas, ar leidimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pašlovintas",
+      "rationale": "כבד šaknis reiškia 'būti sunkiam'; čipuliuota — 'būsiu sunkus\/garbingas' nuo faraono."
+    }
+  ],
+  "translation": "O aš — štai, aš stiprinsiu ⟨את⟩ egiptiečių širdį, kad jie eitų paskui juos, ir būsiu pašlovintas faraone ir visoje jo kariuomenėje, jo vežimuose ir jo raiteliuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/17-20.1792472522677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "O aš"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "štai"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "stiprinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "širdis"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdį"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egiptiečių"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "kad jie eitų"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paskui juos"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ir būsiu pašlovintas"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "faraone"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ir visoje"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "jo kariuomenėje"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "jo vežimuose"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ir jo raiteliuose"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:02.678313802Z",
+  "model": "glm-5.3"
+}

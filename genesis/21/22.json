@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 21:22",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškoji predikato konstrukcija „עמך“ neturi veiksmažodžio — lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Krypties prielinksnis iliejasi su linksniu „Avrahamui“"
+    }
+  ],
+  "translation": "Ir atsitiko tuo metu, kad Avimelechas ir Fikolas, jo kariuomenės vadas, tarė Avrahamui, sakydami: Elohim ⟨yra⟩ su tavimi visame ką tu darai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bdb4a19750bc8a0e638a503b0be8c13a3c70dc5ed549da04267a91041179b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/21\/21-24.1792471356630.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tuo metu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechas"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "ir Fikolas"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "jo kariuomenės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daraiai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:36.634113666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 41:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų veiksmažodžio nėra — אתו 'su juo' predikatas pridėtas lietuviškai"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תוך הבור",
+      "rationale": "Skaitoma 'jiduose prie duobės' arba 'įmetė į duobės vidurį' (kaip KJV); čia pažodinis 'prie duobės vidurio'"
+    }
+  ],
+  "translation": "Ir atsitiko, jiems įėjus į miesto vidurį, kad Jišmaelas, Netanijos sūnus, juos užmušė ⟨את⟩ prie duobės vidurio — jis ir vyrai, kurie ⟨buvo⟩ su juo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a78970f09215ed57da5668784f37613b8ec26d95f5e81c0bcbfae548b9e23b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/41\/5-8.1792483336683.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "כבואם",
+      "gloss": "jiems įėjus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidurį"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "kad užmušė"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaelas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanijos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidurio"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "duobės"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ir vyrai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "su juo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:02:16.686324311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "miegos su savo tėvais",
+      "rationale": "Hebrajų idiomos 'gulėti su savo tėvais' — mirties eufemizmas, išlaikytas pažodžiui."
+    },
+    {
+      "kind": "you",
+      "subject": "Dovydui",
+      "rationale": "Batšeba tiesiogiai kalba karaliui Dovydui."
+    }
+  ],
+  "translation": "Ir bus, kai mano ponas karalius miegos su savo tėvais, tai aš ir mano sūnus Šeloma būsime nusidėjėliai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/1\/21-24.1792478774353.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "kai… miegos"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "būsime"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir mano sūnus"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šeloma"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "nusidėjėliai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:14.354156387Z",
+  "model": "glm-5.3"
+}

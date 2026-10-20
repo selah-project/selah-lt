@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 22:15",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų neturi būtojo laiko veiksmažodžio 'buvo' — pridėta kopula"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתחרה בארז",
+      "rationale": "'varžytis\/gyventi cedru' — KJV 'closest in cedar', JPS 'excel in cedar'; šaknis תחרה — rungtyniauti"
+    }
+  ],
+  "translation": "Ar tu karaliausi, nes tu varžaisi cedru? Tavo tėvas — ar jis nevalgė ir negėrė, ir darė teismą bei cedeką? Tuomet jam buvo gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/13-16.1792482633149.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התמלך",
+      "gloss": "Ar tu karaliausi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מתחרה",
+      "gloss": "varžaisi"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cedru"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Tavo tėvas"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "valgė"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ir gėrė"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir darė"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "bei cedeką"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Tuomet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:33.150945178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל",
+      "rationale": "'vyras\/sutuoktinis' (ne už žmonos gimines — rabbinų skaitymas, kaip BSB) prieš 'viršininkas\/vadas tautoje' (KJV, JPS pagal 'baal' kaip valdovą)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨būdamas⟩",
+      "rationale": "dalyvis pridėtas, nes lietuvių kalbai reikia ryšio tarp 'vyras' ir veiksnio"
+    }
+  ],
+  "translation": "Nesisuteps, ⟨būdamas⟩ vyras tarp savo tautos, kad neišniekintų savęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/1-4.1792473598680.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sisuteps"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "savo tautoje"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "išniekinti save"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:58.748862298Z",
+  "model": "glm-5.3"
+}

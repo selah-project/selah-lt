@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משלחת מלאכי רעים",
+      "rationale": "„piktybės pasiuntinių išsiuntimas“ vs „piktųjų pasiuntinių būrys“ — ar רעים apibūdina pasiuntinius, ar yra jų siuntimo turinys"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "pažodžiui „jo nosies deginimas“ — hebrajiškas įniršio posakis, nosies žodis išnyko verčiant"
+    }
+  ],
+  "translation": "Jis pasiuntė ant jų savo įniršio deginį, įtūžį ir pyktį, ir suspaudimą — piktybės pasiuntinių išsiuntimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/49-52.1792488476533.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "deginį"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jo įniršio"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "įtūžis"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "ir pyktis"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "ir suspaudimas"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "išsiuntimą"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "pasiuntinių"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "piktybės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:56.533497372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skrynia",
+      "rationale": "ארון pažodžiui „dėžė, skrynia“ — „skrynia Elohim“, ne „sandoros skrynia“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "buvo paimta",
+      "rationale": "נלקח gali reikšti ir „paimta“, ir „pagrobta“; „paimta“ išlaiko šaknies neutralumą."
+    }
+  ],
+  "translation": "Ir Elohim skrynia buvo paimta, ir du Elio sūnūs mirė — Chofnis ir Pinchas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/4\/9-12.1792477029495.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "ir skrynia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "buvo paimta"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir du"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elio"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chofnis"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ir Pinchas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:09.497138546Z",
+  "model": "glm-5.3"
+}

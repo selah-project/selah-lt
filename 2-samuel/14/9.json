@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 14:9",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tebūna",
+      "rationale": "Hebrew lacks copula; the jussive wish is supplied in Lithuanian"
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui",
+      "rationale": "woman of Tekoa addresses the king directly as 'my lord, O king'"
+    }
+  ],
+  "translation": "Ir tarė moteris tekojietė karaliui: Ant manęs, mano pone karaliau, tebūna kaltė, ir ant mano tėvo namų; o karalius ir jo sostas tebūna nekalti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/9-12.1792478249227.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "התקועית",
+      "gloss": "tekojietė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ant manęs"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliau"
+    },
+    {
+      "surface": "העון",
+      "gloss": "kaltė"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "o karalius"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ir jo sostas"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nekalti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:29.229647426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... טוב",
+      "rationale": "Žodis „geras” kartojamas du kartus — vardas yra geresnis už gerą tepalą; kartojimas lietuviškai išlygintas."
+    }
+  ],
+  "translation": "Geras vardas ⟨yra⟩ geresnis už gerąjį tepalą, ir mirties diena ⟨yra geresnė⟩ už jo gimimo dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/7\/1-4.1792491308965.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Geras"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "už gerąjį tepalą"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geresnis"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ir diena"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mirties"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "už dieną"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "jo gimimo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:08.966011501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 25:49",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השיגה ידו",
+      "rationale": "Prikartojimo idiomą 'jo ranka pasiekė' išverčiau pažodžiui, o prasmingą praturtėjimą pažymėjau skliaustais."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דוד",
+      "rationale": "Hebrajų דוד čia 'dėdė' (tėvo brolis), nors žodis taip pat reiškia 'mylimasis'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "atpirkimo teisė",
+      "rationale": "Eilutė išvardija atpirkimo teisę turinčių giminaičių eiliškumą."
+    }
+  ],
+  "translation": "arba jo dėdė, arba dėdės sūnus išpirks jį, arba giminaitis iš jo kūno iš jo šeimos išpirks jį; arba jeigu jo ranka pasiekė ⟨praturtėjo⟩, tai jis bus išpirktas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "125238ef727bdb1afe699b3eac5f861741687a04759881d9709f19a8507537f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/49-52.1792473693064.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "jo dėdė"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "dėdės"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "išpirks jį"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "משאר",
+      "gloss": "giminaitis"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iš jo kūno"
+    },
+    {
+      "surface": "ממשפחתו",
+      "gloss": "iš jo šeimos"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "išpirks jį"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "השיגה",
+      "gloss": "pasiekė"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jo ranka"
+    },
+    {
+      "surface": "ונגאל",
+      "gloss": "bus išpirktas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:33.065906814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 11:25",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא יספו",
+      "rationale": "KJV 'ir nustojo' vs ASV\/JPS 'ir nebedarė to' — יסף gali reikšti ir 'nustoti', ir 'nebetęsti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "הרוח verčiama kaip 'ruach' — vėjas\/Dvasia\/kvapas vienu žodžiu"
+    }
+  ],
+  "translation": "Ir Jahvė nusileido debesyje, ir kalbėjo su juo, ir atskyrė iš ruach, kuri ⟨yra⟩ ant jo, ir davė ⟨tai⟩ ant septyniasdešimties vyrų vyresniųjų; ir įvyko, kai ruach apsistojo ant jų, jie pranašavo — ir nebetęsė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d6ea884ec60257dd5633e29aca752c3a0425ef88c8e6d9cffc4a82fb290a93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/11\/25-28.1792474195687.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ir nusileido"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "debesyje"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "ויאצל",
+      "gloss": "ir atskyrė"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨yra⟩ ant jo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septyniasdešimties"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyresniųjų"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "כנוח",
+      "gloss": "kai apsistojo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "jie pranašavo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nebe"
+    },
+    {
+      "surface": "יסספו",
+      "gloss": "tęsė",
+      "note": "corrected surface"
+    }
+  ],
+  "timestamp": "2026-10-20T05:29:55.689627716Z",
+  "model": "glm-5.3"
+}

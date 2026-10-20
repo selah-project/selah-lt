@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 7:10",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני עולה",
+      "rationale": "pažodžiui „neteisybės sūnūs“ — hebrajiškas posakis, išlaikytas žodis žodin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחתיו",
+      "rationale": "pažodžiui „po juo“ (תחת = apačia, po), čia reiškia „savo vietoje“."
+    }
+  ],
+  "translation": "Ir paskirsiu vietą savo tautai, Jisraeliui, ir pasodinsiu ją, ir ji gyvens savo vietoje ir daugiau nedrebės, ir neteisybės sūnūs nebepridės jos spausti, kaip pirmiau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/7\/9-12.1792478066705.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ir paskirsiu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vietą"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "savo tautai"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "ונטעתיו",
+      "gloss": "ir pasodinsiu ją"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "savo vietoje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "drebės"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יסיפו",
+      "gloss": "nebepridės"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "neteisybės"
+    },
+    {
+      "surface": "לענותו",
+      "gloss": "jos spausti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "pirmiau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:26.708387248Z",
+  "model": "glm-5.3"
+}

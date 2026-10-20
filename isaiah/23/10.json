@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מזח",
+      "rationale": "hapax: 'diržas\/juosta' arba 'istinka\/krantinė' — KJV 'jėga', JPS 'juosta', BSB 'uostas'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזח",
+      "rationale": "Žodis visame Tanache tik čia."
+    }
+  ],
+  "translation": "Pereik per savo žemę kaip upė, Taršišo dukterie — nebėra ⟨diržo⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd39e4fb876fa6f88b0e785e88ec953e36789bd929c2dac8413aeb8eb10b10f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/23\/9-12.1792481062232.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "pereik"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "per savo žemę"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kaip upė"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterie"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršišo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebėra"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "⟨diržo⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:22.233742054Z",
+  "model": "glm-5.3"
+}

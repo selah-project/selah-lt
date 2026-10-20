@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Hebrajų דבר neturi įvardžio; pridėta aiškumo dėlei"
+    },
+    {
+      "kind": "crux",
+      "subject": "apeigą",
+      "rationale": "העבדה 'tarnystė\/darbas' — čia pesacho apeiga; vertėjai renkasi 'tarnystė', 'apeigos', 'paprotys'"
+    }
+  ],
+  "translation": "Ir bus, kai įeisite į šalį, kurią Jahvė jums duos, kaip ⟨jis⟩ pažadėjo, tai saugosite ⟨את⟩ šią apeigą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/25-28.1792472495501.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "įeisite"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalį"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pažadėjo"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "saugosite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šią apeigą"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "apeigą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šią"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:35.502067238Z",
+  "model": "glm-5.3"
+}

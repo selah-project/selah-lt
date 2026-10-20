@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 23:9",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "hebrajų kalba neturi įvardžio prieš אכלו"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "hebrajiškas apribojamasis junginys „tik… bet“ lietuvių kalboje lieka vienu „bet“"
+    },
+    {
+      "kind": "crux",
+      "subject": "macas",
+      "rationale": "מצות — ar tai „nerauginta duona“ ar konkrečiai Pesacho macos; laikomasi literalios formos"
+    }
+  ],
+  "translation": "Tik aukumų kunigai nelaipė prie Jahvės aukuro Jerušalaime, bet jie valgė macas savo brolių tarpe.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/9-12.1792480481811.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "nelaipė"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "aukumų"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "valgė"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "macas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarpe"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "savo brolių"
+    }
+  ],
+  "timestamp": "2026-10-20T07:14:41.812043537Z",
+  "model": "glm-5.3"
+}

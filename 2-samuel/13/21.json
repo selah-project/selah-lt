@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר לו",
+      "rationale": "Prikaityje 'užsidegė jam' — pykto idiomą išversta 'supyko jam', lies netenka ugnies paveikslo."
+    },
+    {
+      "kind": "crux",
+      "subject": "teksto trukmė",
+      "rationale": "Hebrajiškame tekste tik 'ir jam labai užsidegė'; kai kurie vertimai (Wyclifas) prideda išplėstą sakinį apie tai, kad Davidas nebaudė Amnono — LXX pėdsakas."
+    }
+  ],
+  "translation": "Ir karalius Davidas išgirdo ⟨את⟩ visus šiuos dalykus, ir jam labai ⟨supyko⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1aa4ccb17836cd63137c348e61719b914dfe40d74a1d860bedb3c21531b04870",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/21-24.1792478179736.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ir karalius"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "išgirdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus šiuos dalykus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dalykus"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ir supyko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:36:19.737232065Z",
+  "model": "glm-5.3"
+}

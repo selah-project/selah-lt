@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונאספו \/ נאספו",
+      "rationale": "dvigubas 'susirinko' — grėsmingas šuoras, išlaikytas"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא ידעתי",
+      "rationale": "arba 'ir aš nežinojau' (KJV), arba 'kurių aš nepažinojau' (JPS) — veikėjas ar priklausomybė"
+    }
+  ],
+  "translation": "O kai aš svyruoju, jie džiaugėsi ir susirinko; prieš mane susirinko smogėjai, kurių aš nepažinojau — jie plėšė ir nenutilo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/35\/13-16.1792487833551.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "o kai aš svyruoju"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "jie džiaugėsi"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ir susirinko"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "susirinko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "prieš mane"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "smogėjai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kurių aš ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "pažinojau"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "jie plėšė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "nutilo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:13.552022750Z",
+  "model": "glm-5.3"
+}

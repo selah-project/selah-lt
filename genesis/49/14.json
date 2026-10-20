@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame nėra veiksmažodžio, pridėtas brūkšnys su „yra“ reikšme"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמר גרם",
+      "rationale": "„asilas stipraus kaulo“ (JPS) vs „stiprus asilas“ (KJV) — laikomasi pažodinio „kaulas“"
+    },
+    {
+      "kind": "crux",
+      "subject": "המשפתים",
+      "rationale": "dviskaita „du galvijų aptvarai“ — KJV „dvi naštos“, neatitinka leksikos"
+    }
+  ],
+  "translation": "Jisacharas — stipraus kaulo asilas, guli tarp dviejų aptvarų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/13-16.1792472073813.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Jisacharas"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "asilas"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "stipraus kaulo"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "guli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "dviejų aptvarų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:33.906952072Z",
+  "model": "glm-5.3"
+}

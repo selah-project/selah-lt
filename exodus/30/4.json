@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 30:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvi grandys, dvi šonkaulio pusės",
+      "rationale": "Skaičiavimas ir simetrija — po dvi kiekvienoje pusėje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "namai-ieščiai",
+      "rationale": "לְבָתִּים לְבַדִּים pažodžiui 'namai lazdoms' — laikikliai nešimo kartims; jungtinis vertimas išlaiko abu žodžius."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šonkauliai",
+      "rationale": "צַלְעֹת — šonkaulį primenantys altoriaus šonų išlinkimai, ne žmogaus šonkauliai."
+    }
+  ],
+  "translation": "Ir dvi auksines grandis padarysi jam — po jo vainiku, ant dviejų jo šonkaulių; padarysi ant dviejų jo pusių, ir jos bus namais-ieščiams — nešti ⟨את⟩ jį jomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/1-4.1792472843308.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Ir dvi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "grandis"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksines"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "jo vainiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "צלעתיו",
+      "gloss": "jo šonkaulių"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "jo pusių"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir jos bus"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "namais"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ieščiams"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nešti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (altorių)"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "jomis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:23.311586979Z",
+  "model": "glm-5.3"
+}

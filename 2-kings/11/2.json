@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų neturi būto kartinio jungties; lietuvių reikalauja"
+    },
+    {
+      "kind": "secret",
+      "subject": "Joašo paslėpimas",
+      "rationale": "kūdikis paslėptas Atalijos akims — slaptumo scena"
+    }
+  ],
+  "translation": "Bet Jehošeba, karaliaus Joramo dukteris, Ahazijo sesuo, paėmė ⟨את⟩ Joašą, Ahazijo sūnų, ir pavogė jį ⟨את⟩ iš vidurio karaliaus sūnų, buvusių žudomų, — jį ⟨את⟩ ir ⟨את⟩ jo žindyvę — miegamajame kambaryje, ir paslėpė jį ⟨את⟩ nuo Atalijos veido, ir jis nebuvo nužudytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/11\/1-4.1792480045132.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehošeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukteris"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Joramo"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sesuo"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joašą"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašą"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahazijo"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "pavogė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jį ⟨את⟩",
+      "marks": "iš vidurio karaliaus sūnų"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "buvusių žudomų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jį ⟨את⟩",
+      "marks": "ir jo žindyvę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo žindyvę"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "jo žindyvę"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "kambaryje"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "miegamajame"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "paslėpė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jį ⟨את⟩",
+      "marks": "nuo Atalijos veido"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo veido"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalijos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "buvo nužudytas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:07:25.134903201Z",
+  "model": "glm-5.3"
+}

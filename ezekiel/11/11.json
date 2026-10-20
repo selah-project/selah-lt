@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "katilas ir mėsa",
+      "rationale": "היא 'ši' reiškia Jeruzalę; pridėtas ⟨miestas⟩, kad katilo-mėsos vaizdas iš Ez 11, 3 liktų suprantamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל גבול ישראל",
+      "rationale": "JPS skaito 'nes jūs būsite mėsa jos viduryje' (teigiamai); masoretų tekstas turi neigiamą 'jūs nebūsite'."
+    }
+  ],
+  "translation": "Ši ⟨miestas⟩ nebus jums katilu, ir jūs nebūsite jos viduryje mėsa; prie Jisraelio sienos aš ⟨את⟩ jus teisiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/9-12.1792483967000.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ši"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ir jūs"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "būsite"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "jos viduryje"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "mėsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "aš teisiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:47.003365697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיך",
+      "rationale": "רֵעַ paprastai „draugas“, čia „tavo mintys“ (KJV\/JPS) vs „tavo draugai“; SELAH seka minties reikšmę."
+    },
+    {
+      "kind": "substitution",
+      "subject": "suma",
+      "rationale": "רָאשִׁים pažodžiui „jų galvos“ — skaičiavimo metonimija, išversta kaip „suma“."
+    }
+  ],
+  "translation": "Ir man — kokie brangūs tavo mintys, El, kokia didžiulė jų suma!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/17-20.1792489299168.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ir man"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kokie"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "brangūs"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tavo mintys"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kokia"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "didžiulė"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "jų suma"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:39.169199856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio jungties"
+    },
+    {
+      "kind": "substitution",
+      "subject": "be priežasties",
+      "rationale": "שקר pažodžiui „melagingai“ — neapykanta pagrįsta melu"
+    }
+  ],
+  "translation": "O mano priešai gyvi ⟨yra⟩ ir stiprūs, ir tie, kurie nekenčia manęs be priežasties, padaugėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/38\/17-20.1792487889001.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "O mano priešai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "stiprūs"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ir padaugėjo"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "tie, kurie nekenčia"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "be priežasties"
+    }
+  ],
+  "timestamp": "2026-10-20T09:18:09.002320006Z",
+  "model": "glm-5.3"
+}

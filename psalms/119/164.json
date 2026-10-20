@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Septynis kartus",
+      "rationale": "Simbolinis skaičius — pilnatvės matas, išsaugotas pažodžiui."
+    },
+    {
+      "kind": "elision",
+      "subject": "tavo",
+      "rationale": "משפטי צדקך — 'tavo cedeko teismai'; įvardžio galas prijungtas prie צדקך, perkeliamas prie 'teismų' dėl lietuviškos tvarkos."
+    }
+  ],
+  "translation": "Septynis kartus per dieną šlovinu tave dėl tavo teisingų teismų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "40b480d59ff28122080475f92498f1cd11a9812163a3519b94a7b1e31c18e905",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/161-164.1792489103501.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Septynis kartus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "per dieną"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "šlovinu tave"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "tavo teismų"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "teisingų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:38:23.502554413Z",
+  "model": "glm-5.3"
+}

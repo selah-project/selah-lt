@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשאתי פניך",
+      "rationale": "Pakėliau tavo veidą — hebrajiškas idiomas 'priimti, malonės parodyti'; KJV 'priėmiau tave' praranda veido paveikslą."
+    },
+    {
+      "kind": "you",
+      "subject": "jam",
+      "rationale": "Tiesioginis kreipimasis į Lotą per angelą."
+    }
+  ],
+  "translation": "Ir jis tarė jam: Štai pakėliau tavo veidą ir dėl šio dalyko — kad neatverčiau ⟨את⟩ miesto, apie kurį kalbėjai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/21-24.1792471292748.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "pakėliau"
+    },
+    {
+      "surface": "пניך",
+      "gloss": "tavo veidą"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "dėl šio dalyko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "atverčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miesto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apie kurį"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kalbėjai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:32.750940437Z",
+  "model": "glm-5.3"
+}

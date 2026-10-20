@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Kam jūs mirsite",
+      "rationale": "rhetorical question addressed to Cidkijahu and Judah, drawing the addressee in"
+    },
+    {
+      "kind": "you",
+      "subject": "tu ir tavo tauta",
+      "rationale": "direct address to the king of Judah"
+    },
+    {
+      "kind": "linguistic",
+      "subject": "דבר",
+      "gloss": "maras",
+      "rationale": "verse Hebrew דבר (dever) is pestilence, not 'word' — same consonants as דבר 'davar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maras",
+      "rationale": "דבר = pestilence; not the word 'davar' (word), though consonants identical"
+    }
+  ],
+  "translation": "Kam jūs mirsite — tu ir tavo tauta — kardu, badu ir maru, kaip pasakė Jahvė tautai, kuri netarnaus ⟨את⟩ Babilono karaliui?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/27\/13-16.1792482902659.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "mirsite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ir tavo tauta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "badu"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ir maru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dat tautai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "tarnaus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babilono karaliui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    }
+  ],
+  "timestamp": "2026-10-20T07:55:02.660535220Z",
+  "model": "glm-5.3"
+}

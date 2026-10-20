@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kurį",
+      "rationale": "אשר nurodo visus tris 19,24 tautas; Wycliffas 'but myn eritage' skaito kitaip nei KJV 'whom'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו\/ברוך",
+      "rationale": "tą pačią šaknį ברך pakartoja veiksniu ir pirmaisiais palaiminimo žodžiais"
+    }
+  ],
+  "translation": "Kurį palaimino Jahvė Cevaot, sakydamas: palaimintas mano tauta Micraimas, ir mano rankų darbas Ašūras, ir mano paveldėjimas Jisraelis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9a4d499442ab2930a8af8ae96135fa91a6c719c5b2eac5c448d62058fd12e915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/25-25.1792480902641.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "palaimino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "palaimintas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tauta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ir darbas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano rankų"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūras"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ir mano paveldėjimas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:21:42.642044240Z",
+  "model": "glm-5.3"
+}

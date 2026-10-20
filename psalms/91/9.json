@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajiškai nėra veiksmažodžio 'būti' — lietuvių kalba reikalauja kopulos."
+    },
+    {
+      "kind": "crux",
+      "subject": "Aukščiausiasį",
+      "rationale": "Kai kurie skaito: 'Jahvė, mano prieglobstis, Aukščiausiasis — savo buveine padarei', kiti: 'tu, Jahvė, esi mano prieglobstis; Aukščiausiąjį padarei savo buveine'."
+    }
+  ],
+  "translation": "Nes tu, Jahvė, ⟨esi⟩ mano prieglobstis; Aukščiausiąjį padarei savo buveine.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/91\/9-12.1792488677615.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mano prieglobstis"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Aukščiausiasis"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "padarei"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "savo buveine"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:17.615758365Z",
+  "model": "glm-5.3"
+}

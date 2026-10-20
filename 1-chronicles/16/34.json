@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuviška sąsaja, kurios hebrajų kalba neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד išlaikytas kaip chesed — ne 'gailestingumas' vienas."
+    }
+  ],
+  "translation": "Dėkokite Jahvei, nes ⟨yra⟩ geras, nes per amžius ⟨yra⟩ jo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "97220f65115438fc6742e52f26e638852c51772784fb7f203cc84cc9086bc315",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/16\/33-36.1792492978409.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dėkokite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "garas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T10:42:58.409812743Z",
+  "model": "glm-5.3"
+}

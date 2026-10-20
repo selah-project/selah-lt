@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פקד עון",
+      "rationale": "paqad — 'apsilankyti, užskaityti'; 'užskaičiau jo kaltę' — hebrajiškas sakinys apie atsakomybės paskyrimą, ne vizitą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išvėmė",
+      "rationale": "קיא — 'vemtį'; kraštas vaizduojamas kaip kūnas, kuris negali toleruoti nešvarumo."
+    }
+  ],
+  "translation": "Ir kraštas susitepė, ir aš užskaičiau jo kaltę jam, ir kraštas išvėmė ⟨את⟩ jo gyventojus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/25-28.1792473482596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ir susitepė"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraštas"
+    },
+    {
+      "surface": "ואפקod",
+      "gloss": "ir užskaičiau"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "jo kaltę"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ir išvėmė"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraštas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo gyventojus"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "jo gyventojus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:02.598044109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 7:33",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi kopulos su מחריד; lietuvių reikalauja"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחריד",
+      "rationale": "participas iš חרד — čia vienintelė ši forma Tanache, 'kas gąsdina\/baido'"
+    }
+  ],
+  "translation": "Ir šio žmonių lavonai taps maistu dangaus paukščiams ir žemės gyvuliams, ir nebus ⟨yra⟩ kas atbaidytų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "55416a595f4571a6cd5d779bb101dc4ee2e892d05a4561914c931d93b153b53a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/7\/33-34.1792482339155.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ir taps"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "lavonai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "šio žmonių"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "maistu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "paukščiams"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ir gyvuliams"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nebus"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kas atbaidytų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:45:39.156330257Z",
+  "model": "glm-5.3"
+}

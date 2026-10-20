@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם · שבר תשבר",
+      "rationale": "Dvigubas begisminis infinitivas — „griaudamas nugriausi, laužydamas trupinsi“; lietuviškai perteikta „visiškai“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievams",
+      "rationale": "אלהיהם čia apie tautų dievus — mažąja raide, ne Elohim Vardo reikšme."
+    }
+  ],
+  "translation": "Nesilenksi jų dievams ir netarnausi jiems, ir nedarysi pagal jų darbus, o visiškai nugriausi juos ir sutrupinsi jų stulpus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/21-24.1792472669851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "silenksi"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "jų dievams"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "tarnausi jiems"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darysi"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "pagal jų darbus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "⟨visiškai⟩"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "nugriausi juos"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ir ⟨sutrupinęs⟩"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "trupinsi"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "jų stulpus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:29.855595865Z",
+  "model": "glm-5.3"
+}

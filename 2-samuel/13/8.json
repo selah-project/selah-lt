@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apykepės",
+      "rationale": "לבבות pažodžiui 'širdelės' — apvalios keptos apykepės; lietuviškas žodis neperduoda širdies formos"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir ji",
+      "rationale": "lietuvių reikalauja veiksnio prie ותקח, hebrajų jį turi veiksmažodyje"
+    }
+  ],
+  "translation": "Ir nuėjo Tamara į Amnono, savo brolio, namus, o jis gulėjo; ir ji paėmė ⟨את⟩ tešlą ir užminkė, ir darė apykepes jo akyse, ir išvirė ⟨את⟩ apykepes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/5-8.1792478173409.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ir nuėjo"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnono"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "savo brolio"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gulėjo"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ir ji paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tešlą"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "tešlą"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ir užminkė"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ir darė apykepes"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "jo akyse"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ir išvirė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apykepes"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "apykepes"
+    }
+  ],
+  "timestamp": "2026-10-20T06:36:13.410775482Z",
+  "model": "glm-5.3"
+}

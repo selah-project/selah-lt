@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kabliuko šioje vietoje, pridėta dėl lietuvių sintaksės"
+    },
+    {
+      "kind": "measurement",
+      "subject": "visas dienas",
+      "rationale": "nešvarumo trukmė skaičiuojama dienomis — kiek žaizda yra jame"
+    }
+  ],
+  "translation": "Visas dienas, kuriomis žaizda yra jame, jis bus nešvarus; nešvarus jis ⟨yra⟩: vienas gyvens, už stovyklos ribų — jo gyvenamoji vieta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/45-48.1792473428506.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriomis"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "žaizda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvarus"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešvarus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "už"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "stovyklos ribų"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "jo gyvenamoji vieta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:08.509156868Z",
+  "model": "glm-5.3"
+}

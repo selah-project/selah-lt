@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "tik",
+      "rationale": "אַךְ gali reikšti 'tikrai\/žinoma' (patvirtinimas) arba 'tik' (apribojimas) — čia renkuosi apribojamąjį 'tik'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "galvą... viršugalvį",
+      "rationale": "רֹאשׁ \/ קׇדְקֹד dviejų žodžių laipsniškumas — smūgis per pačią galvos viršūnę."
+    }
+  ],
+  "translation": "Tik Elohim sutriuškins galvą savo priešų, plaukuotą viršugalvį to, kuris vaikščioja savo kaltėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/21-24.1792488280651.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "sutriuškins"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvą"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "savo priešų"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "viršugalvį"
+    },
+    {
+      "surface": "שער",
+      "gloss": "plaukuotą"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kuris vaikščioja"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "savo kaltėse"
+    }
+  ],
+  "timestamp": "2026-10-20T09:24:40.652487491Z",
+  "model": "glm-5.3"
+}

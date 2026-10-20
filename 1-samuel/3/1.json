@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקר",
+      "rationale": "„vertingas\/retas“ — KJV „precious“, ASV\/JPS „rare\/frequent vision“; čia „retas“ (paprastas)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נפרץ",
+      "rationale": "„išsiveržęs“ (pažodžiui „pralaužtas“) vs. „dažnas“ (JPS) — laikomasi YLT pažodinio skaitymo."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių reikalauja kopulos, hebrajų jos neturi."
+    }
+  ],
+  "translation": "O berniukas Šmuelis tarnavo ⟨את⟩ Jahvei Elio akyse, o Jahvės žodis buvo retas tąs dienas — regėjimas nebuvo išsiveržęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/3\/1-4.1792476985416.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "o berniukas"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tarnavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elio"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "o žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "retas"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tąs dienas"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "regėjimas"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "išsiveržęs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:25.418349034Z",
+  "model": "glm-5.3"
+}

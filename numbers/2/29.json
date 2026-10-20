@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi copula — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunigaikštis",
+      "rationale": "נשיא — iškilysis, vadovas; kunigaikštis kaip genčijų vadas"
+    }
+  ],
+  "translation": "Ir Naftalio gimine, ir Naftalio vaikų kunigaikštis ⟨yra⟩ Achira, Enano sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2222db554b47ed2da9af759a9de45042ed8d83123517d1c740aba8214134a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/2\/29-32.1792473866677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ir gimine"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalio"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ir kunigaikštis"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalio"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Achira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enanas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:26.678364336Z",
+  "model": "glm-5.3"
+}

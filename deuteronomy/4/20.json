@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "geležies lydykla",
+      "rationale": "מכור הברזל — lydyklos vaizdas kaip kančios metafora, ne pažodžiui krosnis"
+    },
+    {
+      "kind": "addition",
+      "subject": "esate",
+      "rationale": "Hebrajų kalba šios vietos neturi veiksmažodžio — 'kaip šią dieną' reiškia 'kaip dabar'"
+    }
+  ],
+  "translation": "O jus paėmė Jahvė ir išvedė jus iš geležies lydyklos, iš Micraimo, kad būtumėte Jam įpaveldėta tauta, kaip ⟨esate⟩ šią dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ac6ebff37a0f5d99d6e6182659f48e1e45c94f6f805b2d564e0f8cd1578e6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/4\/17-20.1792474961318.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "o ⟨את⟩ jus",
+      "marks": "paėmė Jahvė"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ir išvedė"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "iš geležies lydyklos"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "iš lydyklos"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "geležies"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kad būtumėte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Jam"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "įpaveldėta"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaip šią dieną"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šią"
+    }
+  ],
+  "timestamp": "2026-10-20T05:42:41.322677314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדיך",
+      "rationale": "„Puosyba” prieš „tavo burną” (ketib עדיך vs keri עורך Jps) ir „tavo senatvę” — trys tradicinės laikysenos."
+    },
+    {
+      "kind": "alternative",
+      "subject": "taisyklė",
+      "rationale": "„Tavo burna” pagal keri עורך — „kuris pildo gėrybėmis tavo burną”."
+    }
+  ],
+  "translation": "Kuris sočiai pildo ⟨את⟩ tavo puošybą gėrybėmis — tavo jaunystė atsinaujina kaip erelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/103\/5-8.1792488761422.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "kuris sočiai pilda"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "gėrybėmis"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "tavo puošybą"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "atsinaujina"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaip erelio"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "tavo jaunystė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:41.423320131Z",
+  "model": "glm-5.3"
+}

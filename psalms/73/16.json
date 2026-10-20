@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas היא yra įvardis, ne veiksmažodis; lietuvių sakinys be „buvo“ kristų."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמל",
+      "rationale": "ylt skaito „perversumas“ (iš עמל\/עול painiavos), dauguma — „vargas\/nuovargis“."
+    }
+  ],
+  "translation": "Ir mėginau tą suprasti — bet tai ⟨buvo⟩ vargas mano akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/73\/13-16.1792488385809.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ir mėginau"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "suprasti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tą"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vargas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mano akyse"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:25.810229564Z",
+  "model": "glm-5.3"
+}

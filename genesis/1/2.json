@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו ובהו",
+      "rationale": "Porinis skambesys tohu va-vohu — dvi tos pačios rūšies beformės būsenos, lietuviškai dviejų žodžių rimas neišlaikomas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו\/תהום",
+      "rationale": "תהו ir תהום skamba panašiai — tuštuma ir bedugnė susietos garsu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ruach",
+      "rationale": "רוח אלהים — vėjas, kvapas ar Dvasia; rašoma ruach, kad visos reikšmės išliktos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sklandė",
+      "rationale": "מרחפת — peri, skrajoja kaip paukštis virš lizdo; tikslesnis vaizdas nei „judėjo“."
+    }
+  ],
+  "translation": "Ir žemė buvo tuštuma ir tuštybė, ir tamsa virs bedugnės veidu, ir Elohim ruach sklandė virš vandens veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/1-4.1792471059551.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ir žemė"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuštuma"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ir tuštybė"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ir tamsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bedugnės"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ir ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "sklandė"
+    },
+    {
+      "surface": "על",
+      "gloss": "virs"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:39.588578256Z",
+  "model": "glm-5.3"
+}

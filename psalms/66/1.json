@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mizmoras",
+      "rationale": "מזמור — styginiu instrumentu grojamas kūrinys; paliktas pagal skambesį, ne 'psalmė'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Rėkite Elohim, visa žemė",
+      "rationale": "Kvietimas-visa žemė pašaukta garsiai šlovinti"
+    }
+  ],
+  "translation": "Choro vadovui. Daina, mizmoras. Rėkite Elohim, visa žemė!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/66\/1-4.1792488240139.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Choro vadovui"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Daina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Rėkite"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:24:00.139845223Z",
+  "model": "glm-5.3"
+}

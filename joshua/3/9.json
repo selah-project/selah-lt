@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "išklausykite",
+      "rationale": "Jėšua kviečia tautą artintis ir klausyti — tiesioginis šaukimas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "",
+      "rationale": "hebrajiškas prielinksnis lietuvių linksniuojamame žodyje išnyksta"
+    }
+  ],
+  "translation": "Ir Jėšua tarė Jisraelio sūnums: Ateikite čia ir išklausykite ⟨את⟩ žodžius Jahvės, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d0fbf667007d680180461f4b1ceb7d6b3aee445e88d29bf4e15165544d46e69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/3\/9-12.1792475682211.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jėšua"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Ateikite"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ir išklausykite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodžius"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:42.214449727Z",
+  "model": "glm-5.3"
+}

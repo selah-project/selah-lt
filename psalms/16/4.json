@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "jų skausmai",
+      "rationale": "עצבותם — ir 'jų skausmai' (KJV), ir 'jų stabai' (JPS): ta pati šaknis reiškia ir dievą-stabą, ir sopulį."
+    },
+    {
+      "kind": "crux",
+      "subject": "paskui kitus skubėjo",
+      "rationale": "אחר מהרו — 'skubėjo paskui (kitą dievą)' arba, perskaidžius אחר 'atgal', 'skubėjo atgal' (YLT)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהרו \/ אחר",
+      "rationale": "Žodžių žaismas tarp 'skubėti' ir 'kitas\/atgal' — hebrajiškoje eilutėje istorija apie stabmeldžius, kurie skuba ne ten, lietuviškai praranda dviprasmybę."
+    }
+  ],
+  "translation": "Tepadidėja jų skausmai — ⟨kitiems⟩ skubėjo ⟨paskui⟩; jų kraujo libacijų neišliesiu ir ⟨ne⟩kelsiu ⟨את⟩ jų vardų ant savo lūpų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/16\/1-4.1792487544921.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "tepadidėja"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "jų skausmai"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "paskui kitus"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "skubėjo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "išliesiu"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "jų libacijas"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "iš kraujo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kelsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų vardus"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "jų vardus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "savo lūpų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:12:24.924021921Z",
+  "model": "glm-5.3"
+}

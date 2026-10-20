@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 8:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje — lietuvių kalbai reikia būtojo laiko jungties."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מנוח לכף רגלה",
+      "rationale": "Prieveiksmis 'poilsis pėdos delnui' — pėdos padas vadinamas delnu, lietuviškai 'pėdos delnas' išlaiko paveikslą."
+    }
+  ],
+  "translation": "Ir balandis nerado poilsio savo pėdos delnui, ir sugrįžo pas jį, į arką, nes vanduo ⟨buvo⟩ ant visos žemės paviršiaus; ir jis ištiesė savo ranką, ir paėmė ją, ir atvedė ⟨את⟩ ją pas save, į arką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2d1ed446fcdbf126e276d14a5759e9726f696b1044ceed4b9e0b96c172b69ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/9-12.1792471127381.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "rado"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "balandis"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "poilsio"
+    },
+    {
+      "surface": "לכף",
+      "gloss": "delnui"
+    },
+    {
+      "surface": "רגלה",
+      "gloss": "jos pėdos"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ir sugrįžo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arką"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paviršiaus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir ištiesė"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ir paėmė ją"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir atvedė"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas save"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arką"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:47.384234705Z",
+  "model": "glm-5.3"
+}

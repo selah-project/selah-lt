@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sugulovė",
+      "rationale": "פילגש — sugulovė\/įžvalgė; lietuviškas 'sugulovė' artimiausias piliestinės-sugulovės reikšmei."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ji⟩",
+      "rationale": "Hebrajiškasis pabrėžiamasis הוא išreikštas įvardžiu, kurį lietuvių sintaksė reikalauja."
+    }
+  ],
+  "translation": "Ir jo sugulovė, vardu Reuma, — ir ⟨ji⟩ pagimdė ⟨את⟩ Tebachą, ir ⟨את⟩ Gachamą, ir ⟨את⟩ Tachašą, ir ⟨את⟩ Maachą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "048fff63d264ef0b7b8364e40f9f6f837931577d30188f5f5709fdf4f07d308d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/22\/21-24.1792471345851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "ir jo sugulovė"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir pagimdė"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ji⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebachą"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebachą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Gachamą"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gachamą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Tachašą"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tachašą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Maachą"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maachą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:25.854036303Z",
+  "model": "glm-5.3"
+}

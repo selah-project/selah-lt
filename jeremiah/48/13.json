@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨dėl⟩",
+      "rationale": "hebrajiškos prielinksnės konstrukcijos lietuviui reikia prielinksdžio, hebrajų naudininkas nereiškia prielinksdžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבית אל",
+      "rationale": "per-token duomenys skaido į du žodžius, bet tai vienas vietovardis Bet-El; glosa „—“ pažymi antrą jo dalį"
+    }
+  ],
+  "translation": "Ir gėdysis Moabas ⟨dėl⟩ Kamošo, kaip gėdijosi Jisraelio namai ⟨dėl⟩ Bet-El, savo pasitikėjimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/48\/13-16.1792483508658.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "ir gėdysis"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabas"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "dėl Kamošo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "gėdijosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dėl Bet-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "savo pasitikėjimo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:08.659215941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 15:22",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'atsigulė su savo tėvais' — mirties eufemizmas, išlaikytas pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "įvardis, reikalingas lietuvių kalboje prie 'tėvais'"
+    }
+  ],
+  "translation": "Ir Menachemas atsigulė su savo tėvais, ir karaliavo Pekachja, jo sūnus, vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "74b205606fd25b1645b177ed4ffd7d06409f6cadca7dbf67b452fb7e3e935c08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/15\/21-24.1792480077251.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ir atsigulė"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachemas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir karaliavo"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Pekachja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:07:57.252583204Z",
+  "model": "glm-5.3"
+}

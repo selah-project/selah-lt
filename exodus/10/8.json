@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "faraonas",
+      "rationale": "veikėjas hebrajų veiksmažodyje ויושב implicitiškai — pridėta skliaustuose"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי ומי",
+      "rationale": "'kas ir kas' — hebrajų žodinis dauginimas; versta pažodžiui, ne 'kas tie, kurie'"
+    },
+    {
+      "kind": "you",
+      "subject": "faraonas Mošei ir Aharonui",
+      "rationale": "tiesioginis įsakymas ir klausimas"
+    }
+  ],
+  "translation": "Ir ⟨faraonas⟩ pasišaukė atgal ⟨את⟩ Mošę ir ⟨את⟩ Aharoną pas faraoną, ir tarė jiems: Eikite, tarnaukite ⟨את⟩ Jahvei, savo Elohim! Kas ir kas eina?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/10\/5-8.1792472385304.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ir pasišaukė atgal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošę"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraoną"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikite"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tarnaukite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "eina"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:45.307246154Z",
+  "model": "glm-5.3"
+}

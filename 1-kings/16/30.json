@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų kalba jo neturi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "Jahvės akyse",
+      "rationale": "Hebrajų idiomata בעיני יהוה išversta pažodžiui — 'Jahvės akyse'."
+    }
+  ],
+  "translation": "Ir darė Achabas, Omrlio sūnus, pikta Jahvės akyse, daugiau už visus, kurie ⟨buvo⟩ prieš jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f22eaf49146f8791465e5f52b22b76b033ddc2f3f38380879c809d7c06164be2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/29-32.1792479349115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ir darė"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrlio"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "piktą"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "už visus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "prieš jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:49.116867249Z",
+  "model": "glm-5.3"
+}

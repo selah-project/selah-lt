@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 23:33",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sukaustė",
+      "rationale": "ויאסרהu iš אסר 'fasten, yoke' — literalus 'pririšo'; 'sukaustė' — arti, bet ne žodis žodžiui"
+    },
+    {
+      "kind": "crux",
+      "subject": "במלך בירושלם",
+      "rationale": "KJV 'kad nekaraliautų' vs Genevos 'kol jis karaliavo' — infinitivo valymas neaiškus"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šimtą talentų sidabro ir talentą aukso",
+      "rationale": "baudos dydžio skaičiavimas"
+    }
+  ],
+  "translation": "Ir Farao Nekchas jį sukaustė Rivloje, Chamato krašte, kad nekaraliautų Jerušalaime; ir jis uždėjo baudą šaliai — šimtą sidabro talentų ir talentą aukso.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "327eebf7fad89bbdde33886decd6ae3075d053671f3a7bfebe26dfb35a890da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/33-36.1792480604047.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסרהו",
+      "gloss": "jį sukaustė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekchas"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivloje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "krašte"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamato"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kad nekaraliautų"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir uždėjo"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "baudą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalies"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "šimtą"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentų"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ir talentą"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:44.050316366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 11:5",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניהן",
+      "rationale": "קנה gali reikšti ir 'pirkti', ir 'valdyti, įsigyti': 'pirkėjai' (JPS) prieš 'valdytojai' (KJV\/ASV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברוך…ואעשר",
+      "rationale": "Ironija: prekiautojai laimina Jahvę Vardo ištuštinimu — 'palaimintas Jahvė, nes praturtėjau'; Vardas tampa pelno priemone."
+    },
+    {
+      "kind": "elision",
+      "subject": "עליהן",
+      "rationale": "Прадūginis על su moteriška galūne -הן lietuviškai išsisklaidė į paprastą 'jų'."
+    }
+  ],
+  "translation": "Kurių pirkėjai jas žudo ir nėra kalti, o jų pardavėjai sako: Palaimintas Jahvė, ir aš praturtėjau; o jų piemenys jų neigaili.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/11\/5-8.1792487344712.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "קניהן",
+      "gloss": "pirkėjai"
+    },
+    {
+      "surface": "יהרגן",
+      "gloss": "žudo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "kalti"
+    },
+    {
+      "surface": "ומכריהן",
+      "gloss": "o jų pardavėjai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Palaimintas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואעשר",
+      "gloss": "ir aš praturtėjau"
+    },
+    {
+      "surface": "ורעיהם",
+      "gloss": "o jų piemenys"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "gaili"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "jų"
+    }
+  ],
+  "timestamp": "2026-10-20T09:09:04.713845037Z",
+  "model": "glm-5.3"
+}

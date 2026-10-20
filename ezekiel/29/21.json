@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 29:21",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "hebrajiškas tekstas neturi veiksmažodžio „būti“ — pridėta ⟨esu⟩ štrichas nereikalingas, bet lietuvių kalba reikalauja"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פתחון פה",
+      "rationale": "pažodžiui „burnos atvėrimas“ — idiomą „kalbėti laisvai“ išlaikau pažodžiui"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sudygsiu ragą",
+      "rationale": "קרן צמח — „raga sudygs“: raga reiškia galią ir valdžią, augalo įvaizdis išlaikytas"
+    }
+  ],
+  "translation": "Tą dieną aš sudygsiu ragą Jisraelio namams, ir tau duosiu atsivėrimą burnos jų viduryje, ir jie pažins, kad aš esu Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "87089beb71f1968a9670266d03cbe0bbb3bb93d8ceb5722157e4122b999f7a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/29\/21-21.1792484488480.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "aš sudygsiu"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ragą"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ir tau"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "duosiu"
+    },
+    {
+      "surface": "פתחון",
+      "gloss": "atsivėrimą"
+    },
+    {
+      "surface": "פה",
+      "gloss": "burnos"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "jų viduryje"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ir jie pažins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:28.481236148Z",
+  "model": "glm-5.3"
+}

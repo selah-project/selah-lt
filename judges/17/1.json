@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų ויהי — pasakojimo pradžios žodis, lietuvių kalbai reikia veiksmažodžio"
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ vyras iš Efraimo kalnų, ir jo vardas — Michėjas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8476d80ac6af9b6b943d6d97895c8102b4d620e1a86e7437ffb1f06d6413581d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/17\/1-4.1792476847346.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir ⟨buvo⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "iš kalnų"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraimo"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ir jo vardas"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Michėjas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:07.347324665Z",
+  "model": "glm-5.3"
+}

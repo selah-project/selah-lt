@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Sakinyje pridėtas įvardis — hebrajiškas יטמא tik veiksmažodis be subjekto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvas kūnas",
+      "rationale": "בשר חי — pažodžiui „gyva mėsa“, t. y. žalias pūlinys; „gyvas kūnas“ išlaiko žodžio formą"
+    }
+  ],
+  "translation": "O dieną, kai jame pasirodys gyvas kūnas, — nešvarus jis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/13-16.1792473385150.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "kai pasirodys"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nešvarus jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:25.153065492Z",
+  "model": "glm-5.3"
+}

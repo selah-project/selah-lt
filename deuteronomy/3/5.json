@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas tekstas neturi veiksmažodžio — vardarinis sakinys be prijungimo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atvirųjų miestų",
+      "rationale": "הפרזי — kaimai be sienų, 'neįtvirtintos gyvenvietės'"
+    }
+  ],
+  "translation": "Visi šitie miestai ⟨buvo⟩ įtvirtinti aukšta siena, vartais ir skląsčiais, be atvirųjų miestų — labai daug.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/3\/5-8.1792474854115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "įtvirtinti"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "siena"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "aukšta"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "vartai"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ir skląsčiai"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "miestų"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "atvirųjų"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daug"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:54.117655340Z",
+  "model": "glm-5.3"
+}

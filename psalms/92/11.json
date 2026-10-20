@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "laukinis jautis",
+      "rationale": "ראם: laukinis jautis vs „vienaragis“ (KJV) vs „stumbras“; D4 nustato laukinį jautį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "esi suviliojęs",
+      "rationale": "בלתי iš בלה — „būti perpiltam \/ pasendinti“; tradicija „pateptas“, bet šaknis rodo aliejaus pylimą"
+    }
+  ],
+  "translation": "Ir tu išaukštinai mano ragą kaip laukinio jaučio, esi suviliojęs mane žibančiu aliejumi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/92\/9-12.1792488742794.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ir išaukštinai"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "kaip laukinio jaučio"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mano ragą"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "esi suviliojęs"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "aliejumi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "žibančiu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:22.795002269Z",
+  "model": "glm-5.3"
+}

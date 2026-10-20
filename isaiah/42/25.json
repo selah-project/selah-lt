@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rūstybė",
+      "rationale": "אף pažodžiui 'nosis, šnervės' — pykčio vaizdas, lietuvių kalboje prarandamas"
+    },
+    {
+      "kind": "idiom",
+      "subject": "neėmė į širdį",
+      "rationale": "hebrajiškas שים על לב 'padėti ant širdies' atitikmuo — atminti, apsvarstyti"
+    },
+    {
+      "kind": "addition",
+      "subject": "į",
+      "rationale": "lietuviškame idiomėle pridėtas žodis, hebrajų turi על 'ant'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "jungties lytis",
+      "rationale": "ותלהטהו ir ותבער gali būti moteriškos giminės veiksmažodžio (חמה) veiksmas — 'įniršis jį liepsnojo', o forma pateikta bendriau"
+    }
+  ],
+  "translation": "Ir jis išliejo ant jo savo įniršį, savo rūstybę ir karo galybę; ir tai įliepsnojo jį iš visų pusių, bet jis nesuprato; ir tai jį degino, bet jis neėmė to ⟨į⟩ širdį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/42\/25-25.1792481434186.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "ir išliejo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "įniršį"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "savo rūstybę"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ir galybę"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "ir tai įliepsnojo jį"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "iš visų pusių"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "suprato"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ir tai degino"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ėmė"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:34.187312107Z",
+  "model": "glm-5.3"
+}

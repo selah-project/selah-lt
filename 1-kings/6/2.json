@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "išmatavimai",
+      "rationale": "Šventyklos matmenys: 60 × 20 × 30 alkūnių."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo kartinio jungties šiame sakinyje; lietuvių kalbai reikia ⟨buvo⟩ — čia be skliaustų kaip natūrali sakinio struktūra."
+    },
+    {
+      "kind": "elision",
+      "subject": "אמה ties רחבו",
+      "rationale": "Antrasis 'alkūnių' prie pločio hebrajiškai praleistas, išlieka iš pirmojo — lietuviškai reikia kartoti 'alkūnių'."
+    }
+  ],
+  "translation": "O namas, kurį pastatė karalius Šlomo Jahvei, buvo šešiasdešimt alkūnių ilgio, dvidešimt pločio ir trisdešimt alkūnių aukščio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/1-4.1792478967938.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "o namas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šešiasdešimt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alkūnių"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ilgio"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "pločio"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ir trisdešimt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alkūnių"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "aukščio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:49:27.940692963Z",
+  "model": "glm-5.3"
+}

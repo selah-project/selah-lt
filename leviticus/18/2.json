@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelio vaikams",
+      "rationale": "tiesioginis kreipimasis per Mošę į tautą"
+    },
+    {
+      "kind": "addition",
+      "subject": "jūsų",
+      "rationale": "אלהיכם turi galūnę -כם, lietuvių atskiras žodis"
+    }
+  ],
+  "translation": "Kalbėk Jisraelio vaikams ir sakyk jiems: aš ⟨yra⟩ Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e033b1d869d2c0b86a924c458f4b4706f0b848452cdaab8a8a978608f34903aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/1-4.1792473489438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakyk"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:09.440510747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nosis \/ pyktis",
+      "rationale": "אף — tiesiogiai 'nosis, šnervė'; hebrajiškame pyktyje dega nosis, o ne širdis."
+    },
+    {
+      "kind": "crux",
+      "subject": "השל",
+      "rationale": "Rečiausias žodis — 'klaida, neatsargumas'; vertėjai svyruoja nuo 'nuodėmės' iki 'netinkamo judesio'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השל",
+      "rationale": "Šis žodis Tanache vartojamas tik čia."
+    }
+  ],
+  "translation": "Ir įsiliepsnojo Jahvės ⟨nosis⟩ Uzai, ir sudavė jį ten Elohim už ⟨tą⟩ klaidą, ir jis mirė ten prie Elohim skrynios.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/6\/5-8.1792478084622.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Ir įsiliepsnojo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨nosis⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "Uzai"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ir sudavė jį"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "už"
+    },
+    {
+      "surface": "השל",
+      "gloss": "klaidą"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עם",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynios"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:44.625812830Z",
+  "model": "glm-5.3"
+}

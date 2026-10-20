@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalboje nėra sakinio veiksmažodžio — pridėta ir pažymėta."
+    }
+  ],
+  "translation": "Ir jis svaidė akmenis į ⟨את⟩ Davidą ir į ⟨את⟩ visus karaliaus Davido tarnus; o visas kraštas ir visi stipruoliai ⟨buvo⟩ jo dešinėje ir jo kairėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/5-8.1792478346883.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "ir svaidė akmenis"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "akmenimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus tarnus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "o visas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kraštas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "stipruoliai"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "jo dešinėje"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ir jo kairėje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:06.885259891Z",
+  "model": "glm-5.3"
+}

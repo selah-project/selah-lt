@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naštą",
+      "rationale": "משא — 'našta' kaip pranašiškas orakulas; kitaip 'duoklė'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Naštą",
+      "rationale": "משא gali reikšti ir 'pranašystę' apie Babiloną; 'našta' išlaiko žodžio formą"
+    }
+  ],
+  "translation": "Naštą Babilono, kurią regėjo Ješajahu, sūnus Amoco.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "809548fa91c162458d83e0632e992dba136850f1d5a33e96bb4e313bd59cdc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/13\/1-4.1792480798861.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "naštą"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "regėjo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoco"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:58.861994483Z",
+  "model": "glm-5.3"
+}

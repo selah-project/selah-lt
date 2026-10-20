@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק verčiama skambesiu 'cedek', ne vienu žodžiu 'teisumas'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Kreipimasis su imperatyvu 'teisk mane, Jahve'."
+    }
+  ],
+  "translation": "Jahvė teisia tautas; teisk mane, Jahve, pagal mano cedek ir pagal mano tyrumą manyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/7\/9-12.1792487371112.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "teisia"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "teisk mane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "pagal mano cedek"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ir pagal mano tyrumą"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manyje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:09:31.113352824Z",
+  "model": "glm-5.3"
+}

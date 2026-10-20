@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "Tanach'e žodis reiškia ir jūros pabaisą (taninas), ir dykumos šakalą; čia tikriausiai šakalai, bet forma dviskaitos-daugiskaitos pabaisos."
+    },
+    {
+      "kind": "elision",
+      "subject": "וְהָיְתָה",
+      "rationale": "Hebrajiškas 'ir taps' išplėstas į 'ir taps' su predikatu — lietuvių kalbai reikia veiksmažodžio."
+    }
+  ],
+  "translation": "Ir Babilonas taps griuvėsiais, tarpeklių-šakalų buveine, siaubu ir šypsančia panieka, be gyventojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "340178e33f88e9fc9f8f7e9205bbbf2d1f4ff7abcb92e0872fbf72540ae06bf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/51\/37-40.1792483723147.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ir taps"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonas"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "griuvėsiais"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "buveine"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "tarpeklių-šakalų"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "siaubu"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "ir šypsančia panieka"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "be"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gyventojo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:43.148119155Z",
+  "model": "glm-5.3"
+}

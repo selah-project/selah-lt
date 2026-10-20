@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 29:28",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuodėmės auka",
+      "rationale": "חטאת — tiek pačia nuodėmė, tiek jos auka; čia auka."
+    },
+    {
+      "kind": "elision",
+      "subject": "מלבד",
+      "rationale": "Pažodžiui 'atskirai nuo' — verčiama 'be'."
+    }
+  ],
+  "translation": "Ir ožį vieną kaip nuodėmės auką, be nuolatinės deginamosios aukos, jos minchos ir jos libacijos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2827182b9366064e3fd1a3370e54623d1e9cf690af961e1c17c6617ae8fdf42b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/29\/26-28.1792485407521.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ir ožį"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nuodėmės auka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "nuolatinė"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "jos mincha"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ir jos libacija"
+    }
+  ],
+  "timestamp": "2026-10-20T08:36:47.523330504Z",
+  "model": "glm-5.3"
+}

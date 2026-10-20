@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atidavė",
+      "rationale": "סָגַר pažodžiui 'uždaryti, atiduoti' — pernelyg atidavimo reikšmės praplėtimas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "įtūžo",
+      "rationale": "התעבַר — 'save perėjo, užsidegė pykčiu'; BSB skaito priežastį, hebrajiškai veiksmas per save"
+    }
+  ],
+  "translation": "Ir atidavė savo tautą kardui, ir dėl savo paveldėjimo įtūžo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/61-64.1792488471186.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Ir atidavė"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardui"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ir dėl savo paveldėjimo"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "įtūžo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:51.187496213Z",
+  "model": "glm-5.3"
+}

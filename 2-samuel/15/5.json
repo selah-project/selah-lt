@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "subjektas (jis = Avšalomas)",
+      "rationale": "hebrajiškame sakinyje veiksnys nėra įrašytas — pridedama ⟨jis⟩ kontekste"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והחזיק",
+      "rationale": "„stipriai sulaikydavo“ — pažodžiui „imtų stipriai“, taip pat „apkabindavo“"
+    }
+  ],
+  "translation": "Ir būdavo: kai žmogus prisiartindavo nusilenkti jam, jis ištiesdavo ⟨את⟩ savo ranką, stipriai jį sulaikydavo ir pabučiuodavo jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/5-8.1792478326853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir būdavo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "prisiartindavo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "nusilenkti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ištiesdavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "stipriai sulaikydavo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "ir pabučiuodavo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:46.854927670Z",
+  "model": "glm-5.3"
+}

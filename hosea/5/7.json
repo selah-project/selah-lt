@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "'jaunatis\/naujoji mėnulio šventė' vs 'mėnuo' (laiko tarpas) — KJV 'month', JPS 'new moon'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלקיהם",
+      "rationale": "'jų dalys' vs ASV 'their fields' — dalis gali reikšti ir žemės sklypus"
+    }
+  ],
+  "translation": "Prieš Jahvę jie elgėsi neištikimai, nes svetimus vaikus pagimdė; dabar juos praris jaunatis ⟨את⟩ jų dalis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/5\/5-8.1792486216480.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "prieš Jahvę"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "jie elgėsi neištikimai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimus"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "pagimdė"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "juos praris"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jaunatis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų dalis"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "jų dalis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:50:16.482757203Z",
+  "model": "glm-5.3"
+}

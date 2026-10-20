@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוך ובכה",
+      "rationale": "hebrajiškas dalyvinis daugiklis 'eidamas ir verkdmas' — lietuvių verčiamas panašia konstrukcija, ritmas iš dalies prarandamas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לך שוב ... וישב",
+      "rationale": "du trumpi imperatyvai 'eik, grįžk' ir tas pats veiksmažodis veiksme 'ir grįžo' — žiaurus aidas"
+    }
+  ],
+  "translation": "Ir jos vyras ėjo su ja ⟨את⟩, eidamas ir verkdmas paskui ją iki Bachurimo. Ir Abneris tarė jam: Eik, grįžk. Ir jis grįžo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/13-16.1792477979511.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ir ėjo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ su ja"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "jos vyras"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "eidamas"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ir verkdmas"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "paskui ją"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bachurimo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abneris"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eik"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "grįžk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Ir jis grįžo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:59.514960157Z",
+  "model": "glm-5.3"
+}

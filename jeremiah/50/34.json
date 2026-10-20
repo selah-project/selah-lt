@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 50:34",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi saito 'jo vardas yra Jahvė Cevaot'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב יריב את ריבם",
+      "rationale": "šaknies ריב kartojimas — 'teisę teis jų teisę'; lietuvių kalboje iš dalies atkuriama 'bylą ginys bylą'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרגיע \/ והרגיז",
+      "rationale": "רגע\/רגז sąskambis: ramybė žemei prieš sujudinimą Babeliui"
+    }
+  ],
+  "translation": "Jų gelbėtojas galingas — Jahvė Cevaot ⟨yra⟩ jo vardas; jis iki galo ginys jų bylą ⟨את⟩, kad atvestų ramybę žemei ⟨את⟩, ir sujudintų Babelio gyventojus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "947d18e6784ac56f5d103f5fd2e8c66b02d1f1a62bb7d2efa262c8f3b3a3efee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/50\/33-36.1792483541272.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאלם",
+      "gloss": "Jų gelbėtojas"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "galingas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "bylą"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ginys iki galo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų bylą"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "jų bylą"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הרגיע",
+      "gloss": "atvestų ramybę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemei"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemei"
+    },
+    {
+      "surface": "והרגיז",
+      "gloss": "ir sujudintų"
+    },
+    {
+      "surface": "לישבי",
+      "gloss": "gyventojus"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelio"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:41.274177113Z",
+  "model": "glm-5.3"
+}

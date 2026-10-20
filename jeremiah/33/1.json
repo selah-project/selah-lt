@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrajiškas prielinksnis išnyko lietuvių linksnyje „Jirmejahui“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "המטרה",
+      "rationale": "„sargybos kiemas“ vs „kalėjimo kiemas“ — tas pats žodis reiškia abu"
+    }
+  ],
+  "translation": "Ir buvo Jahvės žodis Jirmejahui antrą kartą, kai jis dar buvo uždarytas sargybos kieme, sakant:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/1-4.1792483147306.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahui"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "antrą kartą"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kai jis"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "dar"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "uždarytas"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kieme"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "sargybos"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakant"
+    }
+  ],
+  "timestamp": "2026-10-20T07:59:07.307454226Z",
+  "model": "glm-5.3"
+}

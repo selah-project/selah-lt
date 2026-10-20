@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 14:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨taip⟩",
+      "rationale": "Lietuvių kalbai reikia sakinio predikato, kurio hebrajų ויהי čia neturi — karalių sąrašas tęsiasi į kitą eilutę."
+    },
+    {
+      "kind": "elision",
+      "subject": "גוים",
+      "rationale": "Versta skambesiu „gojim“ (tautos), nes „tautų karalius“ prarastų daugiskaitos tautų vaizdą."
+    }
+  ],
+  "translation": "Ir atsitiko Amrafelio, Šinaro karaliaus, Arjoko, Elasaro karaliaus, Kedorlaomero, Elamo karaliaus, ir Tidalo, gojim karaliaus, dienomis ⟨taip⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b536d78a180eab8b115762f86c1e99103396565de6a0138bd0530d80ab59ca98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/14\/1-4.1792471228934.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienomis"
+    },
+    {
+      "surface": "אמרפל",
+      "gloss": "Amrafelio"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Šinaro"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "Arjoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אלסר",
+      "gloss": "Elasaro"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomero"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elamo"
+    },
+    {
+      "surface": "ותדעל",
+      "gloss": "ir Tidalo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gojim"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:28.936701085Z",
+  "model": "glm-5.3"
+}

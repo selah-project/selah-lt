@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų praleidžia sietuvą; lietuvių jo reikia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunigų drabužių vardai",
+      "rationale": "חשן, אפוד, מעיל, כתנת, מצנפת, אבנט palikti pagal hebrajišką skambesį — formos vardai, ne verčiami vaidmenys"
+    },
+    {
+      "kind": "measurement",
+      "subject": "drabužių sąrašas",
+      "rationale": "Eilutė išvardija šešis kunigų drabužius — tikslus inventorius"
+    }
+  ],
+  "translation": "O šitie yra drabužiai, kuriuos jie padarys: chohenas ir efodas, ir meilas, ir ketonetas tašbeco, micnefet ir avnetas; ir padarys šventus drabužius Aharonui, savo broliui, ir jo sūnums, kad jie man kunigautų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9cd069d94489ba78ba472b2c60ea5cab77c301ec5dbe39cec55dac5827546e8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/28\/1-4.1792472787453.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "o šitie"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "drabužiai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "jie padarys"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "choshenas"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "ir efodas"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "ir meilas"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "ir ketonetas"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "tašbeco"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "micnefet"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "ir avnetas"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ir padarys"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventus"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "savo broliui"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ir jo sūnums"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "kad kunigautų"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:27.454809575Z",
+  "model": "glm-5.3"
+}

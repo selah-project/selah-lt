@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "arba",
+      "rationale": "hebrajiškas derinys ימין ושמאול išdėstytas su jungtuku, aiškumo dėlei pridėtas „arba“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kitus dievus",
+      "rationale": "אלהים אחרים čia mažąja raide — tautų dievai, ne Elohim Vardo reikšme."
+    }
+  ],
+  "translation": "ir nesuksi šalin nuo visų žodžių, kuriuos aš šiandien jums įsakau — ⟨את⟩ dešinėn arba kairėn — eiti paskui kitus dievus ir jiems tarnauti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/13-16.1792475469493.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "suksi šalin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nuo visų"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "įsakau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "dešinėn"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "arba kairėn"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitus"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "jiems tarnauti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:09.496717036Z",
+  "model": "glm-5.3"
+}

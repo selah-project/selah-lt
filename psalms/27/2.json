@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "Santykinė dalelytė, lietuvių kalboje išreikšta linksniu „man“"
+    }
+  ],
+  "translation": "Kai artinosi prie manęs bloga darantys, kad suėstų ⟨את⟩ mano kūną, mano priešai ir mano priešininkai — jie sukliuvo ir krito.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/27\/1-4.1792487767680.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "kai artinosi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "prie manęs"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bloga darantys"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kad suėstų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano kūną"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mano kūną"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mano priešai"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ir mano priešininkai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כשלuvo",
+      "gloss": "sukliuvo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ir krito"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:07.681437430Z",
+  "model": "glm-5.3"
+}

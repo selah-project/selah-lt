@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jis",
+      "rationale": "Hebrajiškai nėra veiksnio — pridedama iš konteksto (Ezechijas)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניו",
+      "rationale": "Pažodžiui 'prieš jo veidą' — laikina prasmė 'prieš jį (laike)'."
+    }
+  ],
+  "translation": "Jis pasitikėjo Jahve, Jisraelio Elohim, ir po jo nebuvo jam lygaus tarp visų Jehudos karalių, nei tarp tų, kurie buvo prieš jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/18\/5-8.1792480243840.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "pasitikėjo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ir po jo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jam lygaus"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tarp visų"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nei tarp tų, kurie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "prieš jį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:10:43.842277978Z",
+  "model": "glm-5.3"
+}

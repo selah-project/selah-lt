@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sudegino",
+      "rationale": "ויקטר pažodžiui „padarė rūksti\/kvapą“ — smilkymo veiksmas, ne paprastas deginimas"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ aviną jis sukapojo į gabalus, ir Mošė sudegino ⟨את⟩ galvą, ⟨את⟩ gabalus ir ⟨את⟩ taukus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/17-20.1792473266924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aviną"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "aviną"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "sukapojo"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "į gabalus"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "sudegino"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galvą"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "galvą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gabalus"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "gabalus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "taukus"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "taukus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:26.926444698Z",
+  "model": "glm-5.3"
+}

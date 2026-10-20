@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio „būti“ šioje vietoje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "aštuntąją dieną",
+      "rationale": "Įšventimo aštuntosios dienos skaičiavimas"
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ aštuntąją dieną: Mošė pašaukė Aharoną ir jo sūnus, bei Jisraelio vyresniuosius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f71bc7c99dd076a4c5d19903c32acc6930ce7d600c5823cef56d12b0f5c648a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/9\/1-4.1792473295277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir ⟨buvo⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "aštuntąją"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pašaukė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ir jo sūnus"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "bei vyresniuosius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:55.279508959Z",
+  "model": "glm-5.3"
+}

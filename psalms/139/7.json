@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "klausimai skaitytojui\/ Jahvei",
+      "rationale": "du retoriniai klausimai traukia adresatą ir vedą himno tėkmę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "נוח verčiamas skambesiu 'ruach' — Dvasia, vėjas, kvapas viename žodyje, ne sutraukiamas į 'dvasia'"
+    }
+  ],
+  "translation": "Kur aš nueisiu nuo tavo ruach, ir kur nuo tavo veido pabėgsiu?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/5-8.1792489270337.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aš nueisiu"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "nuo tavo ruach"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ir kur"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "nuo tavo veido"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "pabėgsiu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:10.338222632Z",
+  "model": "glm-5.3"
+}

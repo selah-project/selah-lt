@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek darbai",
+      "rationale": "צדקות pagal D2 verčiama cedek — ne vien „teisumas“ ar „malonės“, kaip senesniuose vertimuose"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאִשָּׁפְטָה",
+      "rationale": "„teisiuosi \/ teisčiausi su jumis“ arba „atliksiu teismą su jumis“ — KJV „reason“, JPS „plead“"
+    },
+    {
+      "kind": "invitation",
+      "subject": "atsistokite",
+      "rationale": "Impulsinis kreipimasis į tautą — Šmuelis kviečia ją stoti prieš Jahvę"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio tautai",
+      "rationale": "Tiesioginis kreipimasis į susirinkusią tautą per visą eilutę"
+    }
+  ],
+  "translation": "O dabar atsistokite, ir aš teisiuosi su jumis prieš Jahvę dėl ⟨את⟩ visų Jahvės cedek darbų, kuriuos jis darė su jumis ⟨את⟩ ir su jūsų tėvais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a0cacb4c269de0673f5967fad94644fb711fa5b813641c2d03b8dca2ec1d9183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/12\/6-8.1792485481421.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "O dabar"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "atsistokite"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ir aš teisiuosi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus cedek darbus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "cedek darbus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darė"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ir su"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jūsų tėvais"
+    }
+  ],
+  "timestamp": "2026-10-20T08:38:01.426716746Z",
+  "model": "glm-5.3"
+}

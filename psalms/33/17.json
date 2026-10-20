@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jėga",
+      "rationale": "חיל reiškia ir jėgą, ir kariuomenę, ir turtus — vienas žodis, keli atspalviai"
+    }
+  ],
+  "translation": "Melas — ⟨yra⟩ žirgas išgelbėjimui, ir gausybe savo jėgos jis neišgelbės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/33\/17-20.1792487818839.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Melas"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "žirgas"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "išgelbėjimui"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ir gausybe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "savo jėgos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "išgelbės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:58.840058876Z",
+  "model": "glm-5.3"
+}

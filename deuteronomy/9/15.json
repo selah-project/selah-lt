@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvi lentos — dvi rankos",
+      "rationale": "Dvigubas 'du' skaičius: dvi lentos ant dviejų rankų — struktūrinis tikslios skaičių atitikmens vaizdas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לוח",
+      "rationale": "לוח — 'lenta' (poliruota plokštė), ne 'planšetė' ar 'įstatymo riedulys'."
+    }
+  ],
+  "translation": "Ir aš atsigręžiau ir nulipau nuo kalno, o kalnas degė ugnyje, ir dvi sandoros lentos buvo ant dviejų mano rankų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/9\/13-16.1792475060976.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ir atsigręžiau"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ir nulipau"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "o kalnas"
+    },
+    {
+      "surface": "בער",
+      "gloss": "degė"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir dvi"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lentos"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sandoros"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano rankų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:44:20.978831453Z",
+  "model": "glm-5.3"
+}

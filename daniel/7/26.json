@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 7:26",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "įsisės",
+      "rationale": "aramiškas יתב 'sėdi' — teismas įsisės; lietuvių kalbai reikia prieveiksmio"
+    },
+    {
+      "kind": "crux",
+      "subject": "jo valdžia",
+      "rationale": "יהעדון daugiskaita — 'jie pašalins', bet veikėjas (teismas ar dangiškoji taryba) nesuvardintas"
+    }
+  ],
+  "translation": "Ir teismas ⟨įsisės⟩, ir jo valdžia bus pašalinta — sunaikinimui ir pražūčiai iki galo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e8ec84e09968cbb29249cd03a2ecef606f689be2ed1d990532a1d5c36c669c05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/7\/25-28.1792491903097.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודינא",
+      "gloss": "ir teismas"
+    },
+    {
+      "surface": "יתב",
+      "gloss": "⟨įsisės⟩"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "ir jo valdžia"
+    },
+    {
+      "surface": "יהעדון",
+      "gloss": "bus pašalinta"
+    },
+    {
+      "surface": "להשמדה",
+      "gloss": "sunaikinimui"
+    },
+    {
+      "surface": "ולהובדה",
+      "gloss": "ir pražūčiai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "סופא",
+      "gloss": "galo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:25:03.098246516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש yra gerklės\/kvėpavimo\/gyvybės jėga, ne 'siela' teologine prasme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקקה\/רעבה",
+      "rationale": "du skirtingi žodžiai tam pačiam alkio paveikslui — kursuojanti grovikė ir alkana"
+    }
+  ],
+  "translation": "Nes Jis sočiai pasotino išalkusią gyvybę, o alkstančią gyvybę pripildė gėrybių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/107\/9-12.1792488856493.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "pasotino"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "išalkusią"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "o gyvybę"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "alkstančią"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "pripildė"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gėrybių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:16.494372946Z",
+  "model": "glm-5.3"
+}

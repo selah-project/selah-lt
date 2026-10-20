@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iš kaporet",
+      "rationale": "מן הכפרת: ar kerubai daromi iš to paties aukso kaip kaporet (iš vieno gabalo), ar tik ant jos — verčiamai skiriasi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia pagalbinio veiksmažodžio, hebrajų jį turi veiksmažodis תעשו."
+    }
+  ],
+  "translation": "Ir padaryk vieną kerubą gale iš šios pusės ir vieną kerubą gale iš kitos pusės; iš kaporet ⟨yra⟩ padaromi ⟨את⟩ kerubai ant abiejų jos galų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/17-20.1792472768394.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "padaryk"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubą"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gale"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš šios pusės"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ir kerubą"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gale"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš kitos pusės"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "padaromi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubus"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abiejų"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "jos galų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:06:08.397536488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajiškame sakinyje nėra veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "goj",
+      "rationale": "גוי čia 'tauta', bet Tanache žodis reiškia ir 'tauta' ir 'pagonys'; lietuviškas 'tauta' būtų aiškus, čia išlaikytas pilnas vaizdas"
+    }
+  ],
+  "translation": "Ir jis tarė: Aš ⟨esu⟩ El, tavo tėvo Elohim. Nebijok nusileisti į Micraimą, nes ten tave padarysiu dideliu gyventojų ⟨susivienijimu⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02983721c50278084a40282e6836984b4f4e5716c3681489ef2d9de1cb374656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/46\/1-4.1792472015816.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bijok"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "nusileisti"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "gyventojų ⟨susivienijimu⟩"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dideliu"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "tave padarysiu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:35.898614608Z",
+  "model": "glm-5.3"
+}

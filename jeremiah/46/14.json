@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 46:14",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "apėmė",
+      "rationale": "אכלה חרב pažodžiui „kardas suėdė“ — pratarta apie naikinimą"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tave⟩",
+      "rationale": "Hebrajiškas לך perteiktas įvardžiu, nes lietuvių veiksmažodis jau turi objektą"
+    },
+    {
+      "kind": "invitation",
+      "subject": "paskelbkite",
+      "rationale": "Kalbos veiksmas: imperatyvas paskelbti Egipto miestuose"
+    }
+  ],
+  "translation": "Paskelbkite Micraime ir paskelbkite Migdole, paskelbkite Nofoje ir Tachpanchese: sakykite: Stokite ir pasiruoškite, nes kardas apėmė ⟨tave⟩ iš visų pusių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1d970507e670d67dad8f0c0dae301201315f24c637edb56372c58b511f24bdc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/46\/13-16.1792483420447.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Paskelbkite"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "והשמיעuo",
+      "gloss": "paskelbkite"
+    },
+    {
+      "surface": "במגדול",
+      "gloss": "Migdole"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "paskelbkite"
+    },
+    {
+      "surface": "בנף",
+      "gloss": "Nofoje"
+    },
+    {
+      "surface": "ובתחפנחס",
+      "gloss": "Tachpanchese"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sakykite"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "Stokite"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "pasiruoškite"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨tave⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "apėmė"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "סביביך",
+      "gloss": "iš visų pusių"
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:40.449068835Z",
+  "model": "glm-5.3"
+}

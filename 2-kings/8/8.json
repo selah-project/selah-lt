@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dovana",
+      "rationale": "מנחה čia karališka dovana, ne auka — pagal D2 ne 'mincha'"
+    },
+    {
+      "kind": "you",
+      "subject": "Chazeliui",
+      "rationale": "karaliaus įsakymas tiesiogiai kreipiamas į Chazelį"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאותו",
+      "rationale": "מן + אתו — 'iš jo \/ per jį': klausti Jahvės per pranašą; את priešdėlyje išlaikomas"
+    }
+  ],
+  "translation": "Ir karalius tarė Chazeliui: Paimk į savo ranką dovaną ir eik pasitikti Elohim žmogaus, ir klausinėk ⟨את⟩ Jahvės per ⟨את⟩ jį, sakydamas: Ar gijsiu nuo šios ligos?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/5-8.1792480024974.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazelį"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Paimk"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "į savo ranką"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dovaną"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ir eik"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pasitikti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ir klausinėk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "per ⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Ar gijsiu"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "nuo ligos"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šios"
+    }
+  ],
+  "timestamp": "2026-10-20T07:07:04.976934820Z",
+  "model": "glm-5.3"
+}

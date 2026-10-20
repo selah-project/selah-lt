@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Eyvalo kalnas",
+      "rationale": "Masoretinis tekstas rašo עיבל (Eyvalas), o samariečių Pentateuchas ir Išt 8, 30 LXX mini Gerizimą — žymi vertėjų ginčo vieta."
+    },
+    {
+      "kind": "addition",
+      "subject": "gramatikos asmuo",
+      "rationale": "Hebrajiškai veiksmažodžiai mainosi tarp daugiskaitos (pastatysite) ir vienaskaitos (tu aptepsi) — išlaikyta, kaip yra."
+    }
+  ],
+  "translation": "Ir įvyks, kai būsite perėję ⟨את⟩ Jordaną: pastatysite ⟨את⟩ šituos akmenis, kuriuos aš ⟨את⟩ jums šiandien įsakuju, Eyvalo kalne, ir tu aptepsi ⟨את⟩ juos kalkėmis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/1-4.1792475431549.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir įvyks"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "kai būsite perėję"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaną"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaną"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "pastatysite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šituos akmenis"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmenis"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šituos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "įsakuju"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jums"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyvalo"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ir tu aptepsi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "šituos akmenis"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "kalkėmis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:31.553584689Z",
+  "model": "glm-5.3"
+}

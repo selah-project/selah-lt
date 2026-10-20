@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרמה ... במרמה",
+      "rationale": "kartojama ta pati šaknis apgaulė\/apgaule — tiesioginis pakartojimas lietuviškai išlaikytas"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבתך",
+      "rationale": "'tavo buveinė \/ tavo sėdėjimas' — kai kurie verčia 'tu gyveni tarp apgaulės'"
+    }
+  ],
+  "translation": "Tavo buveinė apgaulės viduryje; apgaule jie atsisakė pažinti ⟨את⟩ mane, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a1a6d30105dd61b0f388757c8291d357a5c24ca6b5c65bd8e5b52edd95e89ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/9\/5-8.1792482397201.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "tavo buveinė"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "apgaulės"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "apgaule"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "jie atsisakė"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pažinti"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mane",
+      "marks": "mane"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:46:37.202132358Z",
+  "model": "glm-5.3"
+}

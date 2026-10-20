@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טרף יטרף",
+      "rationale": "infinitivus absolutus: 'draskyti bus-draskytas' — tikrumo patvirtinimas"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "יבאהו 'jis atneš jį' — objektas atkuriamas kaip liudijimas"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "Hebrew verse 12 corresponds to KJV 22:13"
+    }
+  ],
+  "translation": "Jei sudraskytas bus sudraskytas, jis atneš ⟨tai⟩ kaip liudijimą; už sudraskytąjį neatsiteisins.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/9-12.1792472643554.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sudraskytas"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "bus sudraskytas"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "jis atneš"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudijimą"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "už sudraskytąjį"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "atsiteisins"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:03.559843476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש — ne 'siela', o alsuojanti gyvybė, gyvas padaras"
+    },
+    {
+      "kind": "addition",
+      "subject": "kas",
+      "rationale": "hebrajiškas dalyvis be santykinio įvardžio, lietuvių kalbai jo reikia"
+    },
+    {
+      "kind": "you",
+      "subject": "visi žmonės",
+      "rationale": "prakeiksmo formulė kreipiasi į visą tautą, atsakančią 'Amen'"
+    }
+  ],
+  "translation": "Prakeiktas, kas ima kyšį, kad nukirstų gyvybę — nekaltą kraują; ir tarė visi žmonės: Amen.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/25-26.1792475455009.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Prakeiktas"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kas ima"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "kyšį"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "kad nukirstų"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nekaltą"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:55.010093400Z",
+  "model": "glm-5.3"
+}

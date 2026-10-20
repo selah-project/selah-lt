@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jį (prieš 'kad valgytų')",
+      "rationale": "Hebrajų ויאכל neturi subjekto; lietuvių sakinys reikalauja aiškumo"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "",
+      "rationale": "Prieverbsmo 'pas\/-ms' reikšmė išplaukia iš lietuviško linksnio 'dukterims'"
+    }
+  ],
+  "translation": "Ir jis tarė savo dukterims: Kur jis? Kodėl palikote ⟨את⟩ tą vyrą? Pakvieskite jį, kad valgytų duonos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ef902e650cfb46a2d455753ba0f3c24bf9d15fe29c3295b9fa869d5e91ba189",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/17-20.1792472115268.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "savo dukterims"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Kur jis?"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kodėl"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "palikote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tą vyrą"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tą vyrą"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Pakvieskite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "kad valgytų"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:15.273198336Z",
+  "model": "glm-5.3"
+}

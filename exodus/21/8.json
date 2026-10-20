@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא יעדה",
+      "rationale": "„Kuris jos neskyrė sau“ arba „kuris sužadėjo ją savo sūnui“ (plg. 21, 9) — daiktavardžio trūkumas verčia spėlioti."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעה בעיני",
+      "rationale": "Pažodžiui „pikta akyse“ — hebrajiškas patikimumo vertinimo idiomas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sau⟩",
+      "rationale": "Hebrajiškas יעד neturi tiesioginio objekto kontekste; įdėtas į skliaustus, kad sakinys lietuviškai skambėtų."
+    }
+  ],
+  "translation": "Jei ji pasmerkta akyse jos pono, kuris jos neskyrė ⟨sau⟩, jis leis ją išpirkti; svetimai tautai jis nevalios jos parduoti, nes išdavikiškai pasielgė su ja.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/5-8.1792472687870.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pasmerkta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "jos pono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "jos neskyrė"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "jis leis ją išpirkti"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "svetimai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "jis valios"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "ją parduoti"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "išdavikiškai"
+    },
+    {
+      "surface": "בה",
+      "gloss": "su ja"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:47.876968358Z",
+  "model": "glm-5.3"
+}

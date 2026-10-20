@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti' aprašomajame sakinyje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים…זרים",
+      "rationale": "'Svetimieji' kartoja tą patį žodį eilutės pradžioje ir pabaigoje — rėminis kartojimas."
+    }
+  ],
+  "translation": "Jūsų žemė — dykuma, jūsų miestai — ugnies sudeginti; jūsų dirvą jūsų akyse ryja svetimieji, ir ⟨yra⟩ dykuma, kaip svetimųjų apversta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/5-8.1792480550255.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "jūsų žemė"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jūsų miestai"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "sudeginti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnies"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jūsų dirvą"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "jūsų akyse"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimieji"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "ryja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų dirvą"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ir dykuma"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kaip apversta"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimųjų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:50.301309416Z",
+  "model": "glm-5.3"
+}

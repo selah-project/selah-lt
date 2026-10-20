@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "Hebrew nefesh = throat\/life-force\/appetite, not immaterial 'soul'; rendered 'nešoša' (gerklė\/gysla)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Preposition 'with them', not the DOM marker; gloss keeps ⟨את⟩."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Jaakov's sons",
+      "rationale": "Hamor's direct plea 'duokite, meldžiu' — a marriage proposal addressed to the brothers."
+    }
+  ],
+  "translation": "Ir Hamoras kalbėjo su ⟨את⟩ jais, sakydamas: Šekemas, mano sūnus — jo nešošo prisikabinėjo prie jūsų dukters; duokite ⟨את⟩ ją, meldžiu, jam į žmonas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/34\/5-8.1792471745138.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamoras"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "su ⟨את⟩ jais"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnus"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "prisikabinėjo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo nešošo"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "prie jūsų dukters"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "duokite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ją"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "į žmonas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:05.143542089Z",
+  "model": "glm-5.3"
+}

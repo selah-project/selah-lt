@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jam⟩",
+      "rationale": "hebrajų קדוש יאמר לו — lietuvių kalbai reikia įvardžio „šventuoju bus vadinamas“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "įrašyti gyvybėn",
+      "rationale": "rašomas sąrašas — gyvybės knygos įrašo motyvas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנשאר\/הנותר",
+      "rationale": "du „likti“ veiksmažodžiai sinonominiu parallelizmu, lietuviškai išreikšti skirtingais žodžiais"
+    }
+  ],
+  "translation": "Ir bus: likęs Cione ir palikęs Jerušalaime bus vadinamas šventuoju — visi, įrašyti gyvybėn Jerušalaime.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/4\/1-4.1792480666700.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "likęs"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Cione"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ir palikęs"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "šventuoju"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bus vadinamas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jam⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "įrašyti"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "gyvybėn"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:46.703187772Z",
+  "model": "glm-5.3"
+}

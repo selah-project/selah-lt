@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio-sąsajos tarp 'dangus' ir 'mano sostas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dangus",
+      "rationale": "השמים — daugiskaita\/dviskaita 'dangūs'; lietuvių kalboje įprasta vienaskaita, prarandamas skaičius"
+    },
+    {
+      "kind": "you",
+      "subject": "klausytojams",
+      "rationale": "Retsyčių klausimas, nukreiptas į tuos, kurie stato šventyklą"
+    }
+  ],
+  "translation": "Taip sako Jahvė: dangus ⟨yra⟩ mano sostas, o žemė ⟨yra⟩ pakojis mano kojoms; koks tai namas, kurį jūs man statysite, ir kokia tai mano atilsio vieta?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f51d46dee96b96baedea82610c960768eb897b89745f4b40f81be6d5c860d800",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/1-4.1792482131729.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangus"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "mano sostas"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "o žemė"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "pakojis"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mano kojoms"
+    },
+    {
+      "surface": "אי",
+      "gloss": "koks"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "jūs statysite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ir kokia"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mano atilsio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:42:11.731191103Z",
+  "model": "glm-5.3"
+}

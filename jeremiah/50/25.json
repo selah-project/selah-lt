@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ginklus",
+      "rationale": "כלי 'indai\/įrankiai' čia verčiami 'ginklai' pagal kontekstą; žodžio forma — 'įrankiai'"
+    },
+    {
+      "kind": "addition",
+      "subject": "turi",
+      "rationale": "hebrajiškas כי מלאכה היא — 'nes darbas yra'; veiksmažodis 'turi' pridėtas lietuviškam skambiui"
+    }
+  ],
+  "translation": "Jahvė atvėrė savo sandėlį ir išvedė ⟨את⟩ savo įniršio ginklus, nes darbą turi Adonai Jahvė Cevaot kašdų žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6752a40ad8c78f2c78c92364635ca72c789f6225c89e505b0e3fd44753ff8e33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/50\/25-28.1792483583267.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "atvėrė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sandėlį"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "savo sandėlį"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ir išvedė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo įniršio ginklus"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ginklus"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "savo įniršio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbą"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kašdų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:06:23.269302607Z",
+  "model": "glm-5.3"
+}

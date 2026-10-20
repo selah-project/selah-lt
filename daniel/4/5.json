@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 4:5",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Aramėjų tekstas neturi veiksmažodžio 'būti' — pridėta kopula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח išlaikomas kaip skambesys, ne verčiamas į 'dvasia' viena"
+    }
+  ],
+  "translation": "Ir pagaliau prieš mane atėjo Danielis, kurio vardas — Beltešacaras, pagal mano Elohim vardą, ir kuriame ⟨yra⟩ šventųjų Elohim ruach; ir sapną prieš jį papasakojau:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5b6b82d0d76c587f7d1aafae76f1ec3e8b512a028d7709b12ec51facfd46efc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/4\/5-8.1792491675145.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ir pagaliau"
+    },
+    {
+      "surface": "אחרין",
+      "gloss": "pabaigoje"
+    },
+    {
+      "surface": "על",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "prieš mane"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danielis"
+    },
+    {
+      "surface": "די",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltešacaras"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "pagal vardą"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ir kuriame"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "šventųjų"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "וחלמא",
+      "gloss": "ir sapną"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "papasakojau"
+    }
+  ],
+  "timestamp": "2026-10-20T10:21:15.145954710Z",
+  "model": "glm-5.3"
+}

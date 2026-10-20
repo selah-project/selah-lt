@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Abiro-Galingojo",
+      "rationale": "אביר יעקב „Jaakovo Galingasis” — ne עליון, o retas Dievo epithetas; sujungta brūkšneliu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "משם רעה אבן ישראל",
+      "rationale": "arba „iš ten ⟨yra⟩ Ganytojas, Izraelio Akmuo” (apie Jahvę), arba „iš ten gano Izraelio Akmuo” — KJV skliaustuose"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Akmuo",
+      "rationale": "אבן pažodžiui „akmuo”, ne „Uola” — paveikslas išlaikytas"
+    }
+  ],
+  "translation": "Ir jo lankas pasiliko tvirtume, ir įsitvirtino jo rankų žastai, nuo Abiro-Jaakovo rankų; iš ten ⟨ateina⟩ Ganytojas, Izraelio Akmuo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93b0d21c5b4cb20d6cfd0ba103f7a3d38581c723a1d9718ddd685f799721e13c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/21-24.1792472087350.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "ir pasiliko"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "tvirtume"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "jo lankas"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "ir įsitvirtino"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "žastai"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jo rankų"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "nuo rankų"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Abiro-Galingojo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iš ten"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Ganytojas"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Akmuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:47.355816713Z",
+  "model": "glm-5.3"
+}

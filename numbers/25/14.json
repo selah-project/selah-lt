@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 25:14",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba vardo šioje vietoje neturi veiksmažodžio — pridėta copula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vadas",
+      "rationale": "נשיא — 'iškilusysis, kunigaikštis'; vaidmuo, ne tik titulas."
+    }
+  ],
+  "translation": "Ir nužudytojo Jisraelio vyro, kuris buvo nužudytas ⟨kartu⟩ ⟨את⟩ su midianite, vardas ⟨yra⟩ Zimris, Sallu sūnus, šimonitų tėvo namų vadas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eff4c36b1f6fc95200c4fea687a22808b955d7ab914eb351baa741cbc510f686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/25\/13-16.1792474451360.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ir vardas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "nužudytojo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "buvo nužudytas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "midianitę"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "su midianite"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimris"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Sallu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "לשמעני",
+      "gloss": "šimonitų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:11.362968663Z",
+  "model": "glm-5.3"
+}

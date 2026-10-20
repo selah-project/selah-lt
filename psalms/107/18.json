@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש — ne 'siela' vėlesne prasme, o gyvasis alsuojantis padaras, gyvybė; paliktas hebrajiškas skambesys."
+    }
+  ],
+  "translation": "Visą maistą niekstina jų ⟨nefeš⟩, ir jie priėjo iki mirties vartų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/107\/17-20.1792488901837.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visą"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "maistą"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "niekstina"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jų ⟨nefeš⟩"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ir jie priėjo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "vartų"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirties"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:01.837876401Z",
+  "model": "glm-5.3"
+}

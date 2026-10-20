@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalbai reikia posesyvo, hebrajų turi tik galūnę -יך"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ašutais",
+      "rationale": "בשק — šiurkštus audeklas iš ožkos vilnos, atgailos drabužis; „maišais“ būtų per daug konkretu"
+    }
+  ],
+  "translation": "Ir įvyko, karaliui Chizkijahu išgirdus, jis perplėšė ⟨את⟩ savo drabužius, apsivilko ašutais ir įėjo į Jahvės namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c277cb691ab7ccc37785eab5586daca52b1f82a68be47f2aca3ab0adcd8d9f12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/37\/1-4.1792481428266.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir įvyko"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "išgirdus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "jis perplėšė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo drabužius"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savo drabužius"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "apsivilko"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ašutais"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ir įėjo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:28.267736561Z",
+  "model": "glm-5.3"
+}

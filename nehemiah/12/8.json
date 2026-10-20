@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 12:8",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "hujedot",
+      "rationale": "הֻיְּדָה — dėkojimo giesmių choras, visame Tanache tik čia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prie",
+      "rationale": "על čia 'prie\/priešais', ne 'virš' — kaip Neem 12,9"
+    },
+    {
+      "kind": "measurement",
+      "subject": "levitų sąrašas",
+      "rationale": "levitų šeimų galvų vardijimas"
+    }
+  ],
+  "translation": "O levitai: Jesuajus, Binujus, Kadmielis, Šerebja, Jehuda, Matanja — jis ⟨buvo⟩ prie hujedot ⟨dėkojimo giesmių⟩, jis ir jo broliai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46cd37073d7a44afab79745adb1d333313fae491f4dd58afc4f12b0ff0c023d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/12\/5-8.1792492538287.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "o levitai"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Jesuajus"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Binujus"
+    },
+    {
+      "surface": "קדמיאל",
+      "gloss": "Kadmielis"
+    },
+    {
+      "surface": "שרביה",
+      "gloss": "Šerebja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "hujedot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ir jo broliai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:35:38.288501257Z",
+  "model": "glm-5.3"
+}

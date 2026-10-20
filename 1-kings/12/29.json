@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kitą",
+      "rationale": "האחד pažodžiui 'vienas'; antrąjį kartą eina kartu su 'kitas', kad lietuviškai šviesu"
+    }
+  ],
+  "translation": "Ir jis pastatė ⟨את⟩ vieną Beit Ele, o ⟨את⟩ kitą padėjo Dane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/29-32.1792479268630.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieną"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "kitą"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kitą"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "padėjo"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Dane"
+    }
+  ],
+  "timestamp": "2026-10-20T06:54:28.631553054Z",
+  "model": "glm-5.3"
+}

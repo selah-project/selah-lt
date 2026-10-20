@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי… אשרי",
+      "rationale": "Pakartotas „laimingi” — psalmiškas makarizmo kartojimas, išlaikytas."
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui",
+      "rationale": "Tiesioginis kreipimasis į Saliamoną tęsiasi — „prieš tave”, „tavo išmintį”."
+    }
+  ],
+  "translation": "Laimingi tavo vyrai, laimingi tavo tarnai — šitie, kurie stovi prieš tave visados ir girdi ⟨את⟩ tavo išmintį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/10\/5-8.1792479166539.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "laimingi"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "tavo vyrai"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "laimingi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavo tarnai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stovintys"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "visados"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "girdintys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo išmintį"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tavo išmintį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:46.542804371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų veiksmažodis yra pasyvas; lietuvių reikalauja pagalbinio „buvo“"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארבת",
+      "rationale": "„grotos, kiaurymės“ arba „langai“; daugelis verčia „langai“, nors žodis reiškia grotų tinklelį"
+    }
+  ],
+  "translation": "Ir buvo uždaryti gelmės šaltiniai ir dangaus langai, ir lietus nuo dangaus buvo sulaikytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/1-4.1792471145571.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "ir buvo uždaryti"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "šaltiniai"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "gelmės"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "ir langai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ir buvo sulaikytas"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "lietus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:05.575012781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Pridėta kopula ⟨yra⟩, kurios hebrajų tekstas neturi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viso skaičiavimas",
+      "rationale": "Visas Jisraelio sūnų surašymas: 601 730 — bendras skaičius, lyginamas su Iš 1, 5."
+    }
+  ],
+  "translation": "Šitie yra suskaičiuotieji Jisraelio sūnūs: šeši šimtai tūkstančių ir tūkstantis septyni šimtai ir trisdešimt.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9cf2c020d1a4250eb8602dc9da8623eb005720773385508594bbbf64a411499c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/49-52.1792474543195.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Šitie"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "suskaičiuotieji"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šeši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ir tūkstantis"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septyni"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ir trisdešimt"
+    }
+  ],
+  "timestamp": "2026-10-20T05:35:43.197378093Z",
+  "model": "glm-5.3"
+}

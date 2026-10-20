@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išplėšk",
+      "rationale": "נצל reiškia „išplėšti, pagrobti“ — šiurkštus fizinis veiksmas, o ne švelnus „gelbėti“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "iškelk mane aukštai",
+      "rationale": "שגב — padaryti neprieinamu, saugiu; JPS „set me on high“"
+    }
+  ],
+  "translation": "Išplėšk mane iš mano priešų, mano Elohim, nuo tų, kurie prieš mane kyla, iškelk mane aukštai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "caffdafcb9d0633c33439917bb6ef0ffd4ff33ede67922242c3568eb0fd1f433",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/59\/2-3.1792494149599.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "išplėšk mane"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "iš mano priešų"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "nuo tų, kurie prieš mane keliaujasi"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "iškelk mane aukštai"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:29.599506021Z",
+  "model": "glm-5.3"
+}

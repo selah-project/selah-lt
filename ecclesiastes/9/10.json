@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "בשאול — 'šeole', ne 'kape' ar 'pragare': Tanache tai požemio buveinė, ne bausmės vieta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "daryk",
+      "rationale": "Paliepimas, kreiptas į skaitytoją antruoju asmeniu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשות \/ עשה \/ מעשה",
+      "rationale": "Tos pačios šaknies kartojimas: 'veikti — daryk — darbo', ritminė grandinė"
+    }
+  ],
+  "translation": "Viską, ką tik randa tavo ranka veikti pagal savo jėgą — daryk, nes nėra nei darbo, nei sumanymo, nei žinojimo, nei išminties šeole, į kurią tu eini.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c22bb61b73423edbcd305ecf731ccee574aee1aa91f8ed7544371706cef2e0a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/9-12.1792491357887.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tik randa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tavo ranka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "veikti"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "pagal savo jėgą"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daryk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ir sumanymo"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ir žinojimo"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ir išminties"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "šeole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "į kurią"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "eini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:57.888230507Z",
+  "model": "glm-5.3"
+}

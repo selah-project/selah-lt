@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bendrystės auka",
+      "rationale": "שלמים — iš šaknies 'šalom', bendrystės\/taikos auka, kurios mėsa valgoma drauge"
+    },
+    {
+      "kind": "elision",
+      "subject": "זבחים",
+      "rationale": "daiktavardis 'aukos' prie veiksmažodžio 'skerdė' — lietuvių kalboje kartojimas praleistas"
+    }
+  ],
+  "translation": "Ir jis pasiuntė ⟨את⟩ Jisraelio sūnų jaunuolius, ir jie aukijo deginamąsias aukas, ir skerdė aukas — bendrystės aukas — Jahvei: jaunus jaučius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/24\/5-8.1792472687485.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir pasiuntė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaunuolius"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "jaunuolius"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ir aukijo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "deginamąsias aukas"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ir skerdė aukas"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "aukas"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "bendrystės aukas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jaunus jaučius"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:47.488014828Z",
+  "model": "glm-5.3"
+}

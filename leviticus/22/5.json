@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šliaužiantis padaras",
+      "rationale": "שרץ — masė smulkių judančių padarų; reglamento lentelė: 'ropliai \/ kas šliaužioja žeme'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יטמא לו",
+      "rationale": "kartojamas tai pats veiksmažodis du kartus — paralelinė struktūra, išlaikyta identškai"
+    }
+  ],
+  "translation": "arba žmogus, kuris paliečia bet kokį šliaužiantį padarą, nuo kurio ⟨jis⟩ tampa nešvarus, arba žmogų, nuo kurio ⟨jis⟩ tampa nešvarus — dėl bet kokios jo nešvarumo ⟨rūšies⟩;",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/5-8.1792473572877.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "paliečia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bet kokį"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "šliaužiantį padarą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nuo kurio"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tampa nešvarus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jis⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nuo kurio"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "tampa nešvarus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jis⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dėl bet kokios"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "jo nešvarumo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:32.880831758Z",
+  "model": "glm-5.3"
+}

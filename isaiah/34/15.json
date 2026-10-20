@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קפוז",
+      "rationale": "'strėlinė gyvatė' — žodis, kurio reikšmė neaiški, Tanache tik čia; verčiama pagal šaknį 'šokinėti į priekį'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותמלט",
+      "rationale": "veiksmažodis įprastai reiškia 'pabėgti'; čia kontekstas reikalauja 'padėti [kiaušinius]'"
+    }
+  ],
+  "translation": "Ten lizdą susisuka šuoliuojanti gyvatė, ir padeda, ir išperėja, ir peri savo šešėlyje; tik ten susirinks vanagai, kiekviena patelė su savo palydove.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/34\/13-16.1792481375075.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "lizdą susisuka"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "šuoliuojanti gyvatė"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "ir padeda"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "ir išperėja"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "ir peri"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "savo šešėlyje"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "susirinks"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "vanagai"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "patelė"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "su savo palydove"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:35.079108114Z",
+  "model": "glm-5.3"
+}

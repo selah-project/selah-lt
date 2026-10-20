@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך ... אך",
+      "rationale": "Kartojamas „iš tiesų“ — tvirtinimo pakartojimas skiria dvi išpažinimo dalis: atpildas teisiajam ir Elohim teisiantis žemėje."
+    },
+    {
+      "kind": "crux",
+      "subject": "שפטים",
+      "rationale": "Daugiskaitos dalyvis „teisiantys“ prie Elohim — singuliarinė („teisiantis“) arba daugiskaitinė („teisiantys“) skaitymo alternatyva."
+    }
+  ],
+  "translation": "Ir sakys žmogus: iš tiesų, yra vaisiaus teisiajam; iš tiesų, yra Elohim, teisiantis žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/58\/9-12.1792488116451.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir sakys"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אך",
+      "gloss": "iš tiesų"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vaisiaus"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "teisiajam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "iš tiesų"
+    },
+    {
+      "surface": "יש",
+      "gloss": "yra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "teisiantis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:56.453015720Z",
+  "model": "glm-5.3"
+}

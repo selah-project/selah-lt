@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išpirka",
+      "rationale": "כפר pažodžiui 'dengti, padengti' — išpirkos sąvoka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/טומאתה",
+      "rationale": "žodžių kamieno -ת galūnių pasikartojimas, lietuvių kalboje neperduodama"
+    }
+  ],
+  "translation": "Ir kunigas padarys ⟨את⟩ vieną kaip įvykdytos nuodėmės auką ir ⟨את⟩ kitą kaip deginamąją auką, ir kunigas suteiks jai išpirką Jahvės akivaizdoje už jos ištekėjimo nešvarumą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/29-32.1792473523788.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "padarys"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vieną (auką)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "nuodėmės auką"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kitą (auką)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kitą"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "deginamąją auką"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "suteiks išpirką"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "už ją"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ištekėjimo"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "nešvarumą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:43.796609138Z",
+  "model": "glm-5.3"
+}

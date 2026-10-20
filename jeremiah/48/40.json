@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשר",
+      "rationale": "'erelis' arba 'grifas'; lietuvių tradicijoje erelis, hebrajiškai plėšrus paukštis apskritai"
+    },
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "hebrajiškai veikėjas (puolantis Babilonas) nepaminėtas — veiksmažodis be subjekto"
+    }
+  ],
+  "translation": "Nes taip pasakė Jahvė: Štai kaip erelis jis leisis žemyn ir išskleis savo sparnus prieš Moabą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "61e0f854671242ef005bd12ea553c13173121af00348f255f09ca200e2f3b2e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/48\/37-40.1792483556322.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaip erelis"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "leisies žemyn"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "ir išskleis"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "savo sparnus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:56.324123798Z",
+  "model": "glm-5.3"
+}

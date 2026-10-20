@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע\/אדע",
+      "rationale": "Infinitivinis absoliutas kartojia šaknį — „žinoti aš žinosiu“ — pabrėžiantis tvirtumas, lietuvių kalboje išsklaidytas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חלילה לך",
+      "rationale": "Hebrajiškas sankirtos šauksmas „pasibjaurėjimas tau!“, išversta „toli tai nuo tavęs“."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehonatanas Davidui",
+      "rationale": "Tiesioginis kreipimasis į Davidą."
+    }
+  ],
+  "translation": "Ir tarė Jehonatanas: toli tai nuo tavęs! Jei tikrai sužinosiu, kad iš mano tėvo nusistatytas blogis ateiti prieš tave, argi aš tau ⟨את⟩ to nepasakyčiau?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/9-12.1792477473502.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatanas"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "tolis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tikrai žinoti"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sužinosiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "nusistatytas"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "blogis"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "iš"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tai (ką praneščiau tau)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "pasakyčiau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:24:33.504638118Z",
+  "model": "glm-5.3"
+}

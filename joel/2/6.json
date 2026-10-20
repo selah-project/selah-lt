@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 2:6",
+  "book": "joel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פארור",
+      "rationale": "Hapax: 'raudonis\/švytėjimas' arba 'blyškumas iš baimės'; vertėjai skiriasi — 'pajuoduota oda' (KJV) ar 'išblyškę veidai'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išblykšta",
+      "rationale": "קבצו pažodžiui 'susirinko\/įsitraukė' — idiomos dalis su פארור, spalva traukiasi iš veido"
+    }
+  ],
+  "translation": "Nuo jo veido tautos skausmo tampalioja, visi veidai išblykšta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/2\/5-8.1792486514477.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפניו",
+      "gloss": "nuo jo veido"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "skausmo tampalioja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "veidai"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "išblykšta"
+    },
+    {
+      "surface": "פארור",
+      "gloss": "⟨blyškumas⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T08:55:14.478341659Z",
+  "model": "glm-5.3"
+}

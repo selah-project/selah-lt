@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "בני אדם \/ בני איש",
+      "rationale": "Tikriausiai „paprasti žmonės ir kilmingieji“; paraštės formuluotė išlaiko pačias hebrajiškas frazes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "Kartojamas גם „ir... ir“ — paralelinis dviejų klasių sutapimas, lietuvių atskiri „ir“ iš dalies išlaiko."
+    }
+  ],
+  "translation": "Ir žemieji žmonės, ir kilmingieji, drauge turtingas ir neturtingis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8b8acba307fd10d36d760597af2aacaa6e8d2826dd4c3b8cd938e1bcef64fd19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/49\/1-4.1792488045220.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "drauge"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "turtingas"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ir neturtingis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:45.220971737Z",
+  "model": "glm-5.3"
+}

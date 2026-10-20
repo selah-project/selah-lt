@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trys šimtai vyrų",
+      "rationale": "Ezros sugrįžimo surašymo sąrašas — vyrų skaičius"
+    },
+    {
+      "kind": "crux",
+      "subject": "Šekanijos sūnų",
+      "rationale": "Hebraiškame tekste trūksta skaičiaus po Šekanijos, bet iki Jachazielo nėra vardo; kai kurie vertėjai (BSB) stato Cattu — tekstas neaiškus"
+    }
+  ],
+  "translation": "Iš Šekanijos sūnų — Jachazielo sūnus, ir su juo trys šimtai vyrų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "157d6dbe2b272ce1727058254231cc8607e50fed9fbc1014660ed4da4e897f73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/8\/5-8.1792492185577.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "iš sūnų"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Šekanijos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Jachazielo"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ir su juo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "vyrai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:29:45.577936067Z",
+  "model": "glm-5.3"
+}

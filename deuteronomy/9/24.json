@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "su Jahve",
+      "rationale": "hebrajiškas עם 'su' — prieš jį, veiksmas krypsta į Dievą; ne paprastas 'prieš'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nuo dienos",
+      "rationale": "maištas matuojamas laiku — 'nuo dienos, kai jus pažinau'"
+    }
+  ],
+  "translation": "Maištautojai buvote su Jahve nuo dienos, kai ⟨את⟩ jus pažinau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7fec7a83f2d9403fca0b7eefd224acf3387d40c258c449dcf8801a2cb875b489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/9\/21-24.1792475023560.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "maištautojai"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "buvote"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "nuo dienos"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "kai pažinau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:43.565180949Z",
+  "model": "glm-5.3"
+}

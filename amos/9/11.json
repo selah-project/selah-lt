@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סכת",
+      "rationale": "Suká — laikina palapinė, lūšnelė, ne 'tabernaklis' ar šventykla; Davido dinastijos vaizdas."
+    },
+    {
+      "kind": "addition",
+      "subject": "jos",
+      "rationale": "Hebrajiškas והרסתיו turi vyrišką prisiemonę, lietuvių kalba aiškinti reikia šaknies 'palapinė' įnagininku."
+    }
+  ],
+  "translation": "Tą dieną pakelsiu ⟨את⟩ nukritusią Davido palapinę, užtaisysiu ⟨את⟩ jos įtrūkimus, jos griuvėsius pakelsiu ir pastatysiu ją kaip senovės dienomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/amos\/9\/9-12.1792486657063.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "pakelsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nukritusią Davido palapinę"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "nukritusią"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ir užtaisysiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos įtrūkimus"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "jos įtrūkimus"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "jos griuvėsius"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "pakelsiu"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ir pastatysiu ją"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kaip dienomis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senovės"
+    }
+  ],
+  "timestamp": "2026-10-20T08:57:37.066483366Z",
+  "model": "glm-5.3"
+}

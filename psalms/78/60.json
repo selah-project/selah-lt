@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "įsirengė",
+      "rationale": "שכן — gyventi, viešpatauti; verčiama perstatyta prasme, nes palapinė negali 'apsigyventi' pati"
+    }
+  ],
+  "translation": "Ir jis paliko miškaną Šilo, palapinę, kurią įsirengė tarp žmonių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/57-60.1792488460102.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "paliko"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškaną"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Šilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinę"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "įsirengė"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tarp žmonių"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:40.103408699Z",
+  "model": "glm-5.3"
+}

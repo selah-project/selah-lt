@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra_veiksmažodžio ryšio — pridėta lietuviška kopula"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨dalykus⟩",
+      "rationale": "Hebrajiškiejivardai גדלת\/נוראת vartojami daiktavardiškai be daiktavardžio — pridėtas iš aiškumo"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Eilutė tiesiogiai kreipiasi į Izraelį antruoju asmeniu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tavo šlovė",
+      "rationale": "JPS verčia 'thy glory'; תהלה pažodžiui — gyrius, šlovinimas"
+    }
+  ],
+  "translation": "Jis ⟨yra⟩ tavo šlovė, ir jis ⟨yra⟩ tavo Elohim, kuris padarė su ⟨את⟩ tavimi ⟨את⟩ tuos didžiuosius ir ⟨את⟩ tuos baisiuosius ⟨dalykus⟩, kuriuos matė tavo akys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ca8f4ae43bba75f44249f030c8583b682d55f5ce67b1d03935331a4ff96df33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/10\/21-22.1792475008554.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Jis"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tavo šlovė"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "su ⟨את⟩ tavimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuos didžiuosius"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "tuos didžiuosius"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "tuos baisiuosius"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "tuos baisiuosius"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "matė"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavo akys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:28.555918826Z",
+  "model": "glm-5.3"
+}

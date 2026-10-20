@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "per Eliją",
+      "rationale": "hebr. אל Elijui — 'kam sakė'; 'per Eliją' išreiškia pranašo tarpininkavimą, bet hebrajiškai 'Elijui'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iškirto",
+      "rationale": "נכה 'smogė' — eufemizmas 'iškirto' perduota žudymo reikšmė"
+    }
+  ],
+  "translation": "Ir jis atėjo į Šomeroną ir iškirto ⟨את⟩ visus, likusius iš Ahabo namų Šomerone, kol visiškai juos išnaikino, pagal žodį, kurį Jahvė kalbėjo per Eliją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/17-20.1792479924454.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "į Šomeroną"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ir iškirto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus, likusius iš Ahabo namų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "likusius"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "iš Ahabo namų"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomerone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "visiškai juos išnaikino"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pagal žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "per"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliją"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:24.455709800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך את זה",
+      "rationale": "KJV 'them that chew the cud' vs JPS 'them that only chew' — hebraiškas אך riboja: tiktai iš šių, kurie atsirūgina, bet neskelia kanopos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nešvarus",
+      "rationale": "טמא — kulto nešvarumas, ne purvas; lietuvių neturi vieno žodžio"
+    }
+  ],
+  "translation": "Tiktai šito nevalgysite iš tų, kurie atsirūgina ⟨את⟩ prarijamą maistą ir iš tų, kurie skeldena kanopą: ⟨את⟩ kupranugarį — nes jis atsirūgina prarijamą maistą, bet kanopos neskelia — jis nešvarus jums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/1-4.1792473290967.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tiktai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šito"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "valgysite"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "iš tų, kurie atsirūgina"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "prarijamą maistą"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ir iš tų, kurie skeldena"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "kanopą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupranugarį"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kupranugarį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "atsirūgina"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "prarijamą maistą"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ir kanopos"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "neskeldena"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "neskeldena"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nešvarus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:50.970670357Z",
+  "model": "glm-5.3"
+}

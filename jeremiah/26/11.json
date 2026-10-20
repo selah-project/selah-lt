@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 26:11",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi būdinio — bevardė galinkė konstrukcija משפט מות be veiksmažodžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prieš",
+      "rationale": "Hebrajiškas אל tiesiog 'į, link' — pranašavimas miestui, ne prieš jį; kaltintojų interpretacija."
+    },
+    {
+      "kind": "you",
+      "subject": "girdėjote",
+      "rationale": "Kunigai ir pranašai kreipiasi į vadus ir visą tautą."
+    }
+  ],
+  "translation": "Ir tarė kunigai ir pranašai vadams ir visai tautai, sakydami: Mirties teismas ⟨yra⟩ šiam vyrui, nes jis pranašavo prieš šį miestą, kaip girdėjote savo ausimis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/9-12.1792482846318.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigai"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ir pranašai"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השרים",
+      "gloss": "vadams"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirties"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "šiam vyrui"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "jis pranašavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šį"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "girdėjote"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "savo ausimis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:54:06.320566407Z",
+  "model": "glm-5.3"
+}

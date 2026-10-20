@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד verčiama skambesiu, ne „gailestingumu“ — vienas žodis, daug reikšmių."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Eilutė nukreipta į bendruomenę, kuri bijo Jahvės ir laukia jo chesed."
+    }
+  ],
+  "translation": "Jahvė palankus ⟨את⟩ savo bijantiems, ⟨את⟩ tiems, kurie laukia jo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/147\/9-12.1792489335558.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "palankus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo bijantiems"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "savo bijantiems"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiems, kurie laukia"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "tiems, kurie laukia"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "jo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:15.559082102Z",
+  "model": "glm-5.3"
+}

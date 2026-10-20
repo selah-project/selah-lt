@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בתי הנפש",
+      "rationale": "Pažodžiui 'nefėš namai' — nefėš yra 'gerklė\/kvėpavimas\/guolas'; verčiu 'kvapų dėžutės', kiti — 'kvepalų buteliukai'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "לחשים",
+      "rationale": "'Kuosliai\/šnabždesiai' — amuletai su šnabždančiais užkalbėjimais; Tanache tik čia šia reikšme."
+    }
+  ],
+  "translation": "Galvos-apdangalus, kojų-žiedus, juostas-jùngtis, kvapų-dėžutes ir amuletus-kuoslius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/3\/17-20.1792480632792.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "Galvos-apdangalus"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "ir kojų-žiedus"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ir juostas-jùngtis"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "ir kvapų-dėžutes"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨kvapų⟩"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "ir amuletus-kuoslius"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:12.794647562Z",
+  "model": "glm-5.3"
+}

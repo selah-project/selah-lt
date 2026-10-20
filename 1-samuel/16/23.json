@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 16:23",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' — vienas žodis, vėjas\/kvapas\/ruach"
+    },
+    {
+      "kind": "crux",
+      "subject": "ruach Elohim",
+      "rationale": "hebrajiškai 'Elohim ruach' be žodžio 'piktoji' — piktumas pažymėtas tik pabaigoje; vertėjai skirsto 'piktoji Elohim ruach' arba 'iš Elohim atėjusi ruach'"
+    },
+    {
+      "kind": "elision",
+      "subject": "רוח אלהים אל שאול",
+      "gloss-notes": "pažodžiui 'ruach iš Elohim Šauliui' — priklausomybė neapibrėžta, apsaugota laisva sintaksė"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨užeidavo⟩",
+      "gloss-notes": "lietuvių reikalauja veiksmažodžio su 'ruach' — hebrajiškai tiesiog 'ruach iš Elohim Šauliui'"
+    }
+  ],
+  "translation": "Ir atsitikdavo, kai ruach Elohim ⟨užeidavo⟩ Šauliui, tai Davidas paimdavo ⟨את⟩ kanklę ir grosdavo savo ranka, tada Šauliui palengvėdavo ir jam būdavo gerai, ir piktoji ruach pasitraukdavo nuo jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2d7593d52ea881d4bdfd672b718ca18d236cfdb80cc8981e3a87b1b463b6a005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/21-23.1792477254802.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir būdavo"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kai būdavo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "—"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "tai paimdavo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanklę"
+    },
+    {
+      "surface": "הכנור",
+      "gloss": "kanklę"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "ir grosdavo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "savo ranka"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "tada palengvėdavo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ir būdavo gerai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "וסרה",
+      "gloss": "ir pasitraukdavo"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "nuo jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "piktoji"
+    }
+  ],
+  "timestamp": "2026-10-20T06:20:54.804088938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בניתי\/הרס · נטעתי\/נתש",
+      "rationale": "Statyti-griauti, sodinti-rauti priešprieša — chiazminė struktūra su pabrėžtiniu אני."
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "Hebrajiškas pabrėžiamasis įvardis 'ji' išverstas 'ją', dubliuojant aleph-tav žymėtą objektą."
+    }
+  ],
+  "translation": "Taip sakyk jam: Taip sako Jahvė: Štai ką aš pastačiau — tą aš griaunu, ir ⟨את⟩ ką aš pasodinau — tą aš išraunu — ir ⟨את⟩ visą žemę — ją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8a590235eed7de6e5e90bacf80bb1d69cba08f8c48ea50a904a68d81982438b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/45\/1-4.1792483421205.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sakyk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "aš pastačiau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "griaunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "ką aš pasodinau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "aš pasodinau"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "išraunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą žemę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ją"
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:41.207656277Z",
+  "model": "glm-5.3"
+}

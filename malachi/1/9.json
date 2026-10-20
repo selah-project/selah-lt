@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 1:9",
+  "book": "malachi",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje vietoje, lietuvių reikalauja jo naujajame sakinyje"
+    },
+    {
+      "kind": "crux",
+      "subject": "pakelti veidus",
+      "rationale": "נשא פנים — teismo idiomos „rodyti palankumą asmeniui“; kai kurie verčia „ar jis priims ką nors iš jūsų“"
+    },
+    {
+      "kind": "you",
+      "subject": "kunigams",
+      "rationale": "Tiesioginis kreipimasis į kunigus, aukojančius sugedusias aukas"
+    }
+  ],
+  "translation": "O dabar maldaukite El veidą, kad jis būtų mums maloningas — iš jūsų rankos ⟨yra⟩ tai. Ar jis pakels iš jūsų veidus? — sako Jahvė Cevaot.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/1\/9-12.1792487326746.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "o dabar"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "maldaukite"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויחננו",
+      "gloss": "kad jis būtų maloningas"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "iš jūsų rankos"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הישא",
+      "gloss": "ar pakels"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "iš jūsų"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "veidus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-10-20T09:08:46.747509561Z",
+  "model": "glm-5.3"
+}

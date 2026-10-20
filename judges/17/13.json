@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio „būti“ šioje vietoje — pridėta lietuvių kalbai reikalinga sandanga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gera darys",
+      "rationale": "ייטיב yra veiksmažodis „daryti gerai“ — ne būdvardis; išlaikytas veiksmažodinis pavidalas."
+    }
+  ],
+  "translation": "Ir Michas tarė: Dabar aš žinau, kad Jahvė man gera darys, nes levitas man ⟨yra⟩ kunigu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8c22017b420d189d6425421c4bb4f22af68c9d2c1825a073287868a8a2776cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/17\/13-13.1792476738669.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Michas"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Dabar"
+    },
+    {
+      "surface": "יָדַעְתִּי",
+      "gloss": "aš žinau"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יֵיטִיב",
+      "gloss": "gera darys"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "man"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "yra"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "man"
+    },
+    {
+      "surface": "הַלֵּוִי",
+      "gloss": "levitas"
+    },
+    {
+      "surface": "לְכֹהֵן",
+      "gloss": "kunigu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:12:18.670733126Z",
+  "model": "glm-5.3"
+}

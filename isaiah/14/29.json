@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 14:29",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi sietinio — pridėta ⟨yra⟩ tarp 'vaisius' ir 'sarafas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "sarafas",
+      "rationale": "שרף מעופף: 'deginanti gyvatė', 'skrajojantis sarafas' ar 'sparnuota gyvatė' — vertėjai nesutaria"
+    },
+    {
+      "kind": "you",
+      "subject": "Filistija",
+      "rationale": "Eilutė tiesiogiai kreipiasi į Filistiją: 'nesidžiauk... visa tu'"
+    }
+  ],
+  "translation": "Nesidžiauk, Filistija, visa tu, kad nulūžo lazda, tave mušusi, nes iš gyvatės šaknies išeis angis, ir jos vaisius ⟨yra⟩ skrajojantis sarafas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/29-32.1792481003411.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nesidžiauk (ne)"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "sidžiauk"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistija"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "visa tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "nulūžo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lazda"
+    },
+    {
+      "surface": "מכך",
+      "gloss": "tave mušusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "iš šaknies"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "gyvatės"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeis"
+    },
+    {
+      "surface": "צפע",
+      "gloss": "angis"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "ir jos vaisius"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sarafas"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "skrajojantis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:23.412953890Z",
+  "model": "glm-5.3"
+}

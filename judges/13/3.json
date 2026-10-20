@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tu",
+      "rationale": "את čia yra įvardis אַתְּ 'tu', o ne direkcinio objekto žymuo ⟨את⟩ — kirčiavimas juos atskiria."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasiuntinys",
+      "rationale": "מלאך pažodžiui 'pasiuntinys'; 'angelas' būtų vaidmens, o ne žodžio forma."
+    },
+    {
+      "kind": "addition",
+      "subject": "tą",
+      "rationale": "Lietuvių reikalauja įvardžio prie hebrajiško artikelio האשה."
+    }
+  ],
+  "translation": "Ir pasirodė Jahvės pasiuntinys tai moteriai ir tarė jai: Štai dabar tu bevaisė ir negimdei, bet pastosi ir pagimdysi sūnų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/1-4.1792476663112.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pasirodė"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "pasiuntinys"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tą moterį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "tu",
+      "marks": "עקרה — bevaisė"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bevaisė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "gimdei"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "pastosi"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "pagimdysi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:03.114646102Z",
+  "model": "glm-5.3"
+}

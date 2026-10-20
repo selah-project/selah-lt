@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 18:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "hebrajiškai nėra veiksmažodžio — pridėta ⟨yra⟩-tipo kopula „bus“"
+    },
+    {
+      "kind": "crux",
+      "subject": "כעת חיה",
+      "rationale": "„gyvybės metas“ — gyvybės atsinaujinimo laikas (pavasaris \/ metų ciklas) vs tiesiog „po metų“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "question",
+      "rationale": "rhetorinis klausimas — ar Jahvei kas per stebuklinga — iškelia paslėptą galios temą"
+    }
+  ],
+  "translation": "Ar Jahvei būtų kas per stebuklinga dalykas? Nustatytu laiku aš grįšiu pas tave, gyvybės metu, ir Sarai bus sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/18\/13-16.1792471265648.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היפלא",
+      "gloss": "Ar būtų kas per stebuklinga"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalykas"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "Nustatytu laiku"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "aš grįšiu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "metu"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gyvybės"
+    },
+    {
+      "surface": "ולשרה",
+      "gloss": "ir Sarai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bus sūnus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:05.650611591Z",
+  "model": "glm-5.3"
+}

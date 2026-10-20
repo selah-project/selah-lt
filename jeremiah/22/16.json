@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "pridėta kopula, hebrajų jos neturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דן דין",
+      "rationale": "veiksmažodis ir daiktavardis iš tos pačios šaknies — 'teisė teismo bylą', lietuviškai iš dalies išlaikyta"
+    }
+  ],
+  "translation": "Jis teisė vargšo ir neturtingo bylą — tuomet buvo gerai. Argi ne tai — pažinti mane, ⟨את⟩? sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/13-16.1792482633149.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Jis teisė"
+    },
+    {
+      "surface": "דין",
+      "gloss": "bylą"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vargšo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ir neturtingo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "buvo gerai"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Argi ne"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "pažinti"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:33.151186709Z",
+  "model": "glm-5.3"
+}

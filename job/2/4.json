@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga; paliktas skambesys, kad nesutaptų nei su 'siela', nei vien su 'gyvybe'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עור בעד עור",
+      "rationale": "Trumpa, lenkiškai dviskiemenė pora 'oda už odą' — satano atsakas atkartoja eilutės 2:5 struktūrą"
+    }
+  ],
+  "translation": "Ir satanas atsakė ⟨את⟩ Jahvę ir tarė: Oda už odą — ir visa, kas žmogui yra, jis atiduos už savo nefesh.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/2\/1-4.1792490094919.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ir atsakė"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satanas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Oda"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "už"
+    },
+    {
+      "surface": "עור",
+      "gloss": "odą"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "žmogui yra"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "jis atiduos"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "už"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savo nefesh"
+    }
+  ],
+  "timestamp": "2026-10-20T09:54:54.921262949Z",
+  "model": "glm-5.3"
+}

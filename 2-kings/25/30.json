@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "davinys",
+      "rationale": "אֲרֻחָה — 'maisto davinys, duonos porcija', ne tiesiog 'pašalpas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר יום ביומו",
+      "rationale": "Žodžių žaismas: 'diena savo dienai' — dienos pasikartojimas, lietuvių kalboi perteikta 'savo dienai'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "maisto davinys",
+      "rationale": "Eilutė skaičiuoja ir apibrėžia kasdienį davini, dienos dalį per dieną"
+    }
+  ],
+  "translation": "Ir jo maisto davinys — davinys nuolatinis — buvo ⟨yra⟩ duodamas jam iš ⟨את⟩ karaliaus, kiekvienos dienos dalis savo dienai, visas jo gyvenimo dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/29-30.1792480482526.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "ir jo maisto davinys"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "davinys"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolatinis"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "buvo duodamas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalis"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "savo dienai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "jo gyvenimo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:14:42.528550058Z",
+  "model": "glm-5.3"
+}

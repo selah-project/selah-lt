@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškas הוא — parodomasis „pats jis“, čia veikia kaip kopula su ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו \/ אדום",
+      "rationale": "Esavo vardas siejamas su אדום („raudas“), tapatumo formulė praranda žaismą lietuviškai"
+    }
+  ],
+  "translation": "Ir šitos yra Esavo giminės ⟨yra⟩ Edomas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9ec784d8dedcbc1b5a62ee6a7275df76a185bb4ae4f7978d1350e81f2fd7e1d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/36\/1-4.1792471721477.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitos"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "giminės"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yra"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:41.478252458Z",
+  "model": "glm-5.3"
+}

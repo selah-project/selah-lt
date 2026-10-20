@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "trylikos metų",
+      "rationale": "Hebrajiškai „trylikos metų sūnus“ — „trylika“ išskaidyta į „trys + -lika“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trylika metų",
+      "rationale": "Skaičiuojami Jišmaelio metai apipjaustymo dieną."
+    }
+  ],
+  "translation": "Ir J išmaelis, jo sūnus, — trylikos metų, kai buvo apipjaustytas ⟨את⟩ jo apyvarpės kūnas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/17\/25-27.1792471247641.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Ir Jišmaelis"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(trylika = trys-ir-dešimt)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "kai buvo apipjaustytas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo apyvarpės kūnas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "jo apyvarpės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:47.642748511Z",
+  "model": "glm-5.3"
+}

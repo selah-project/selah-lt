@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio 'būti' — pridėta ⟨yra⟩ siekiant sudaryti lietuvišką sakinį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gyvybėpalaikymui",
+      "rationale": "וְחַיִּים pažodžiui 'gyvybė, gyvenimas'; 'išlaikymas' yra interpretacija iš konteksto."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מספיק",
+      "rationale": "Eilutė skaičiuoja pakankamumą — pieno užteks duonai, namams ir mergelėms."
+    }
+  ],
+  "translation": "Ir užteks ožkų pieno tavo duonai, duonai tavo namams ir gyvybėpalaikymui tavo mergelėms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/27\/25-27.1792489929874.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "ir užteks"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pieno"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ožkų"
+    },
+    {
+      "surface": "ללחמך",
+      "gloss": "tavo duonai"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "duonai"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tavo namams"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ir gyvybėpalaikymui"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "tavo mergelėms"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:09.874989809Z",
+  "model": "glm-5.3"
+}

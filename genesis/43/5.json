@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראה פנים",
+      "rationale": "„Matyti veidą“ — hebrajų išsireiškimas reiškia atsidurti kam nors akivaizdoje, gauti priėjimą."
+    },
+    {
+      "kind": "addition",
+      "subject": "nebus",
+      "rationale": "Hebrajiškas אתכם „su jumis“ reiškia būtent „brolis kartu su jumis“; veiksmažodis pridėtas lietuviškai."
+    }
+  ],
+  "translation": "O jeigu nesiunči, mes nenusileisime, nes tas vyras mums pasakė: Nebematysite mano veido, jeigu jūsų brolis nebus ⟨את⟩ su jumis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/43\/5-8.1792471981396.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jeigu"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nesiunči"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nesiunči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "nusileisime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tas vyras"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakė"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "bematysite"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veido"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "jeigu ne"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų brolis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:01.397418858Z",
+  "model": "glm-5.3"
+}

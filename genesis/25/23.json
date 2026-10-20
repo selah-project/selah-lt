@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje; lietuvių kalbai reikalinga sangrinda ⟨yra⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוי \/ לאם",
+      "rationale": "Du skirtingi žodžiai tai pačiai tapatybei — 'goy' ir 'le'om' pakaitomis septyniskart; ritminė porų struktūra."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורב",
+      "rationale": "'Rav' — 'vyresnysis\/didesnysis' ar 'galingesnysis'; dauguma verčia 'vyresnysis' iš konteksto, bet žodis pats sako 'didis, gausus'."
+    }
+  ],
+  "translation": "Ir Jahvė tarė jai: Du tautų-Bendrijos ⟨yra⟩ tavo įsčiose, ir dvi bendrijos nuo tavo vidurių išsiskirs, ir viena bendrija nuo kitos bendrijos stipresnė bus, ir vyresnysis tarnaus jaunėliui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc1420cd9c843b7c4e516b153255083dfcefa482f0fc0014e89bdbb2d55c784f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/25\/21-24.1792471496295.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "tautų-Bendrijos"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "tavo įsčiose"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir dvi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bendrijos"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "nuo tavo vidurių"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "išsiskirs"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "ir viena bendrija"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "nuo kitos bendrijos"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "stipresnė bus"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ir vyresnysis"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "tarnaus"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "jaunėliui"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:56.356881484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מבן",
+      "rationale": "Pažodžiui 'nuo sūnaus dvidešimties metų' — 'sūnaus' netelpa natūraliai į lietuvių kalbą."
+    },
+    {
+      "kind": "measurement",
+      "subject": "amžiaus riba",
+      "rationale": "Skaičiavimo amžius nustatytas: dvidešimt metų ir aukščiau."
+    }
+  ],
+  "translation": "Kiekvienas, kuris pereina prie suskaičiuotųjų, nuo dvidešimties metų ir aukščiau, duos Jahvės paaukojimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/13-16.1792472852472.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "kuris pereina"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "suskaičiuotųjų"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukščiau"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duos"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "paaukojimą"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:32.475172343Z",
+  "model": "glm-5.3"
+}

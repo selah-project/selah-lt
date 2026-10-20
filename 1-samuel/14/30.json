@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לוא רבתה מכה",
+      "rationale": "Pažodžiui 'nepadidėjo smūgis tarp pelištiečių' — t. y. 'būtų buvęs kur kas didesnis'; verčiamuose skaitosi kaip neigiamas teiginys, o reiškia priešingą išvadą."
+    },
+    {
+      "kind": "elision",
+      "subject": "אף כי · אכל אכל",
+      "rationale": "Intensyvinė dalelytė ir darinys 'valgyti-valgyti' suliejami į 'kiek labiau būtų valgę'."
+    }
+  ],
+  "translation": "Kiek labiau, jeigu būtų valgęs šiandien žmonės iš grobio savo priešų, kurį rado — nes dabar smūgis tarp pelištiečių nebūtų buvęs mažas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/29-32.1792477302930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "kiek labiau"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לוא",
+      "gloss": "jeigu būtų"
+    },
+    {
+      "surface": "אכל",
+      "gloss": ""
+    },
+    {
+      "surface": "אכל",
+      "gloss": "valgęs"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "iš grobio"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "savo priešų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "rado"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebūtų buvęs"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "mažas"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "smūgis"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "tarp pelištiečių"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:42.933173742Z",
+  "model": "glm-5.3"
+}

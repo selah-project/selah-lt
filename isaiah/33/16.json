@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 33:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajų kalba neturi būsimojo laiko veiksmažodžio „būti“; lietuvių reikalauja jungties."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "gloss": "„Duona“ — plačiau „maistas“; pasirinkta konkreti forma, kaip hebrajų kalboje."
+    }
+  ],
+  "translation": "Jis gyvens aukštybėse, uolų tvirtovės — jo prieglobstis; jo duona bus duota, jo vanduo patikimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f12debade60b3e698ef77330a54d88771ead2332aab941fe0fe3b3ca018757d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/33\/13-16.1792481291435.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Jis"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "aukštybėse"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "מצדות",
+      "gloss": "tvirtovės"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "uolų"
+    },
+    {
+      "surface": "משגבו",
+      "gloss": "jo prieglobstis"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jo duona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bus duota"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "jo vanduo"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "patikimas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:11.437489701Z",
+  "model": "glm-5.3"
+}

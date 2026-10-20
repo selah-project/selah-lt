@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 14:13",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiška predikato konstrukcija be veiksmažodžio — lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשבתה \/ נדחו",
+      "rationale": "matomos חשב (manyti) ir נדח (atstumti) šaknys — v. 14 jas abiejų pakartoja; lietuviškai ryšys išlieka tik iš dalies"
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui Dāvidui",
+      "rationale": "moteris tiesiogiai kreipiasi į karalių su klausimu-juošimu"
+    }
+  ],
+  "translation": "Ir moteris tarė: Kodėl sumanei tokį dalyką prieš Elohim tautą? tardamas šį žodį karalius ⟨yra⟩ kaip kaltasis, nes karalius negrąžina ⟨את⟩ savo atstumtojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/13-16.1792478277008.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "חשבתה",
+      "gloss": "sumanei"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "tokį"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומדבר",
+      "gloss": "tardamas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šį"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "kaip kaltasis"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "negrąžina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo atstumtojo"
+    },
+    {
+      "surface": "נדחו",
+      "gloss": "savo atstumtojo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:37:57.010163298Z",
+  "model": "glm-5.3"
+}

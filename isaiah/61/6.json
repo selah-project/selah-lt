@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajų kalba neturi kopulos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "turtai",
+      "rationale": "חיל — jėga, kariuomenė, turtas; pasirinkta 'turtai' pagal kontekstą"
+    },
+    {
+      "kind": "you",
+      "subject": "Siono vaikams",
+      "rationale": "Tiesioginis kreipimasis į išgelbėtuosius"
+    }
+  ],
+  "translation": "O jūs būsite vadinami Jahvės kunigais, jums sakys: mūsų Elohim tarnaujantys. Tautų turtus jūs valgysite ir jų šlovėje didžiuositės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c489af6f3f13a43d2ea2e976fda700f782fbea5b87b2526aa609737e7dfe9e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/61\/5-8.1792481955412.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "o jūs"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kunigais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "būsite vadinami"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "tarnaujantys"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "turtus"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jūs valgysite"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "ir jų šlovėje"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "didžiuositės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:15.413017228Z",
+  "model": "glm-5.3"
+}

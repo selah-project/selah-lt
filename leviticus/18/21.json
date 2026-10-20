@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלך",
+      "rationale": "'Molochui' vs 'karaliui' — balsų ženklai gali reikšti ir Moleką, ir paprastą 'karalių'; LXX skaito įvairiai."
+    },
+    {
+      "kind": "you",
+      "subject": "adresatas",
+      "rationale": "Tiesioginis įsakymas Izraeliui."
+    },
+    {
+      "kind": "crux",
+      "subject": "להעביר",
+      "rationale": "Tekste nėra žodžio 'ugnis'; 'perleisti' — ar per ugnį, ar atiduoti apeigoms, verčėjai ginčijasi."
+    }
+  ],
+  "translation": "Ir iš tavo sėklos neduosi perleisti Molochui, ir neužterši ⟨את⟩ savo Elohim vardo — aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/21-24.1792473473559.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ir iš tavo sėklos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "duosi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "perleisti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molochui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "užterši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo Elohim vardą"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:53.561819017Z",
+  "model": "glm-5.3"
+}

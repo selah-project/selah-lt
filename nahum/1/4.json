@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמלל ×2",
+      "rationale": "Veiksmažodžio „nualpo“ rėmas — eilutė prasideda ir baigiasi tuo pačiu žodžiu (inclusio)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "upius",
+      "rationale": "הנהרות gali reikšti ir didžiuosius upius (Nilas, Eufratas) — konkretybė hebrajiškame daugiskaitos artefaktyje."
+    }
+  ],
+  "translation": "Baria jūrą, ir ji išdžiūsta, ir visus upius nusausina: Bašanas nualpo, ir Karmelis, ir Libano žiedas nualpo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nahum\/1\/1-4.1792486955554.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "baria"
+    },
+    {
+      "surface": "בים",
+      "gloss": "jūrą"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "ir ją išdžiovina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visus"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "upius"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "nusausina"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nualpo"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašanas"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ir Karmelis"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ir žiedas"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libano"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nualpo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:02:35.557364366Z",
+  "model": "glm-5.3"
+}

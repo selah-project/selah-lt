@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "suskaičiuota \/ išmatuojamas",
+      "rationale": "Dangaus kariuomenės skaičiavimas ir jūros smėlio matavimas — skaičiavimo negalimumas kaip dauginimo matas"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אותי čia prielinkšnis 'su\/man' po שרת — 'tarnaujančius man', ne aleph-tav žymeklis"
+    }
+  ],
+  "translation": "Kaip dangaus kariaunos negali būti suskaičiuota ir jūros smėlis neišmatuojamas, taip Aš padauginsiu ⟨את⟩ Davido, mano tarno, sėklą ir ⟨את⟩ levitus, mano tarnaujančius ⟨את⟩ man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43e02799ee645675ada8a734f6ffa7e50d29d8cfa9aceb6cbf44ef6c0a12be1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/21-24.1792483118590.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "gali būti suskaičiuota"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "kariaunos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "išmatuojamas"
+    },
+    {
+      "surface": "חול",
+      "gloss": "smėlis"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Aš padauginsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sėklą"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sėklą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mano tarno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "levitus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "mano tarnaujančius"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ man"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:38.592219783Z",
+  "model": "glm-5.3"
+}

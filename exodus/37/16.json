@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקשות",
+      "rationale": "KJV 'covers to cover withal' vs YLT\/ASV 'flagon cups for pouring' — laikoma, kad tai liejimo ąsočiai, ne dangčiai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saujos",
+      "rationale": "כפות — delno\/saujos formos indai; KJV 'spoons' klaidina"
+    }
+  ],
+  "translation": "Ir padarė ⟨את⟩ indus, kurie ant stalo — ⟨את⟩ jo dubenis ir ⟨את⟩ jo saujas, ir ⟨את⟩ jo taures, ir ⟨את⟩ ąsočius, kuriais išpilama iš jų — iš tyro aukso.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/37\/13-16.1792473020481.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indus"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "indus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo dubenis"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "jo dubenis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo saujas"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "jo saujas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo taures"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "jo tauses"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "ąsočius"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "ąsočius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriais"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "išpilama"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tyro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:20.483987681Z",
+  "model": "glm-5.3"
+}

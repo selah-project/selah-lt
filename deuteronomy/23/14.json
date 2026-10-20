@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אזנך",
+      "rationale": "אזן čia — kaplys\/kastuvėlis (plačiu galu), vadinasi 'ausis'; tik ši reikšmė reta."
+    },
+    {
+      "kind": "crux",
+      "subject": "על אזנך",
+      "rationale": "KJV 'ant tavo ginklo' vs pažodžiui 'ant tavo kaplio\/mentės' — יתד + אזן kaip įrankis prie diržo."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Įsakymas tiesiogiai kreipiasi į Izraelį."
+    }
+  ],
+  "translation": "Ir kaielis tau ⟨bus⟩ prie tavo kaplio, ir kai sėdėsi lauke, iškaposi juo, ir grįši, ⟨את⟩ ir uždengsi ⟨את⟩ savo išmatas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/23\/13-16.1792475411100.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "ir kaielis"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨bus⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "tavo kaplio"
+    },
+    {
+      "surface": "ויתד",
+      "gloss": ""
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kai sėdėsi"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "ווחפרתה",
+      "gloss": "ir iškaposi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "juo"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "ir grįši"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "⟨את⟩ ir uždengsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo išmatas"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "savo išmatas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:11.103678136Z",
+  "model": "glm-5.3"
+}

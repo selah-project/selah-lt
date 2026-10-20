@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atidavė sunaikinimo draudimui",
+      "rationale": "ויחרימו yra חרם — atidavimas draudimui\/sunaikinimui; 'visiškai sunaikino' praranda cherem sąvoką"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kalavijo burnai",
+      "rationale": "לפי חרב pažodžiui 'kalavijo burnai' — eilinis hebrajiškas posakis, 'ašmenimis' jį išlygina"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi kopulos"
+    }
+  ],
+  "translation": "Ir jie atidavė ⟨את⟩ visa, kas ⟨buvo⟩ mieste, sunaikinimo draudimui — nuo vyro iki moters, nuo vaikino iki senuolio, ir jautį, ir avį, ir asilą — kalavijo burnai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7d14af993dc0f6a19849b931cfad13dacc24151420a611cd71d7421dec7c6c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/21-24.1792475835139.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "atidavė sunaikinimo draudimui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa, kas buvo mieste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "nuo vyro"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "nuo vaikino"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "senuolio"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ir"
+    },
+    {
+      "surface": "שור",
+      "gloss": "jautį"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "avį"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "asilą"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "burnai"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kalavijo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:57:15.140281506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשרד",
+      "rationale": "Skiedinys: 'rėžtukas \/ įbrėžimo adatėlė' vs 'raudona gija' (Geneva); iš hebrajiškos šaknies 'brėžti'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מקצעות",
+      "rationale": "Skaptas — žodis Tanache beveik vien tik čia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meistras",
+      "rationale": "חרש עצים pažodžiui 'medžių drožėjas'; 'dailidė' \/ 'stalius' būtų vaidmuo, ne medžiaga."
+    }
+  ],
+  "translation": "Medžio meistras ištiesia virvę, jį apibrėžia rėžtuku, jį apdirba skaptukais ir cirkuliu jį apibrėžia, ir padaro jį pagal žmogaus pavidalą, pagal žmogaus grožį, kad jis gyventų namuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e51599dc84f16179ab0233e86095796668cd02537386e3eada8c06183078d76e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/13-16.1792481693653.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "meistras"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ištiesia"
+    },
+    {
+      "surface": "קו",
+      "gloss": "virvę"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "jį apibrėžia"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "rėžtuku"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "jį apdirba"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "skaptukais"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "ir cirkuliu"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "jį apibrėžia"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ir padaro jį"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "pagal pavidalą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "pagal grožį"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kad gyventų"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:53.655933948Z",
+  "model": "glm-5.3"
+}

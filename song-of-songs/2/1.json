@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חבצלת",
+      "rationale": "Žodis čia vienintelį kartą Tanache; botaninis identitetas neaiškus (pavasarinė šafranas, krokas, rožė)."
+    },
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta ⟨esu⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "Šaronas",
+      "rationale": "Ar Šaronas — vieta, ar pievos vardas; vertimai skiriasi."
+    }
+  ],
+  "translation": "Aš esu rožė iš Šarono, lelija iš slėnių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/2\/1-4.1792490846921.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "rožė"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "iš Šarono"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "lelija"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "iš slėnių"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:26.921724433Z",
+  "model": "glm-5.3"
+}

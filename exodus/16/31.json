@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "Vardas „Man“ kyla iš klausimo „man hu“ („kas tai?“, Iš 16,15) — žodžių žaismas prarastas."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo kopolos; pridėta lietuviška „buvo“."
+    }
+  ],
+  "translation": "Ir Jisraelio namai pavadino ⟨את⟩ jo vardą Manas; o jis buvo kaip baltoji kalendros sėkla, ir jo skonis kaip plona bandelė su medumi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/16\/29-32.1792472581651.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo vardą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Manas"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "kaip sėkla"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kalendros"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "baltos"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "jo skonis"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "kaip plona bandelė"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "su medumi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:01.655146915Z",
+  "model": "glm-5.3"
+}

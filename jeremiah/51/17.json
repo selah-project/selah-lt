@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 51:17",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kvailys",
+      "rationale": "נבער iš šaknies בער — gyvulį primenantis, gyvuliškai bukas, ne tiesiog 'kvailys'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio šiose predicate'ų konstrukcijose"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח laikoma kaip transliteracija pagal D2 — kvėpavimas, vėjas, dvasia vienu žodžiu"
+    }
+  ],
+  "translation": "Kvailys ⟨yra⟩ kiekvienas žmogus be žinojimo, sugėdintas ⟨yra⟩ kiekvienas lydytojas dėl drožinio, nes jo lietais stabas — apgaulė, ir nėra juose ruach.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/51\/17-20.1792483734500.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "kvailys ⟨yra⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "be žinojimo"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "sugėdintas ⟨yra⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "lydytojas"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "drožinys"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "apgaulė"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "jo lietais stabas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:54.501754518Z",
+  "model": "glm-5.3"
+}

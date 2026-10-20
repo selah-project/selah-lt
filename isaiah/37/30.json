@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 37:30",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia bendraties ⟨bus⟩ — hebrajų jos neturi: וזה־לך האות pažodžiui 'ir tai tau ženklas'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שָׁחִיס",
+      "rationale": "Šis žodis Tanache pasitaiko tik čia — atžala, kas išaugo iš antrųjų metų augalų"
+    },
+    {
+      "kind": "measurement",
+      "subject": "metai",
+      "rationale": "Ženklas išdėstytas pagal metų skaičių: pirmais, antrais, trečiais metais"
+    }
+  ],
+  "translation": "Ir tai tau bus ženklas: valgyk šiais metais, kas užauga savaime, ir antrais metais, kas atželia, o trečiais metais sėkite ir pjaukite, sodinkite vynuogynus ir valgykite jų vaisių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "608aaf89750c5e3692d7f497aee8dca6b1182c859fa3268a9fe2f0d8b14059d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/37\/29-32.1792481381305.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ir tai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ženklas"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "valgyk"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "šiais metais"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "kas užauga savaime"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "ir metais"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "antrais"
+    },
+    {
+      "surface": "שחיס",
+      "gloss": "kas atželia"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "o metais"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "trečiais"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sėkite"
+    },
+    {
+      "surface": "וקצרו",
+      "gloss": "ir pjaukite"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "sodinkite"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vynuogynus"
+    },
+    {
+      "surface": "ואכול",
+      "gloss": "ir valgykite"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jų vaisių"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:41.307251830Z",
+  "model": "glm-5.3"
+}

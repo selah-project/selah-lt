@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerušalaimui",
+      "rationale": "Tiesioginis kreipimasis į miestą moteriškąja gimine."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne 'siela' platonine prasme, o gyvybės jėga, alsavimas; transkribuota."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תקע",
+      "rationale": "Pažodžiui 'būti išnarintam' — kita vertimo tradicija: 'kad mano nefesh neišsivaduotų iš tavęs'."
+    }
+  ],
+  "translation": "Būk pamokyta, Jerušalaimai, kad mano nefesh neatitrūktų nuo tavęs, kad nepaversčiau tavęs dykyne, žeme negyvenama.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bafc51c48ca1e64df4f2108824bfb101c6404a2ba8967e465488b9b6c61e4f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/6\/5-8.1792482237243.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "Būk pamokyta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimai"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad... ne"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "atitrūktų"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nuo tavęs"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad... ne"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "nepaversčiau tavęs"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dykyne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žeme"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "gyvenama"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:57.246491418Z",
+  "model": "glm-5.3"
+}

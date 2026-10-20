@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "deginta auka",
+      "rationale": "עֹלָה pažodžiui „tai, kas kyla aukštyn“; angliškos tradicijos „burnt offering“ atspindi tik būdą"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškas אשר לו — tik santykinis sakinys su prievardu, kopula pridėta lietuviškai"
+    }
+  ],
+  "translation": "Ir sukvėpino ⟨את⟩ savo degintą auką ir ⟨את⟩ savo minchą, ir išliejo ⟨את⟩ savo pylimą, ir pašlakstė ⟨את⟩ kraują šelamim aukų, kurios buvo jo, ant altoriaus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/13-16.1792480299537.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "Ir sukvėpino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo degintą auką"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "savo degintą auką"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo minchą"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "savo minchą"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ir išliejo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo pylimą"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "savo pylimą"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ir pašlakstė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kraują"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim aukų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "לו",
+      "gloss": "buvo jo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altoriaus"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:39.538848216Z",
+  "model": "glm-5.3"
+}

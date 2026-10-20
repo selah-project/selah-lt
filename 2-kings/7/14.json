@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 7:14",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨juos⟩",
+      "rationale": "Hebrajiškai וישלח neturi objekto -- siunčiami žygūnai, įvesta į lietuvių kalbą pridedamas įvardis."
+    },
+    {
+      "kind": "you",
+      "subject": "karaliaus įsakymas",
+      "rationale": "„Eikite ir pažiūrėkite“ -- tiesioginis kreipimasis į siunčiamuosius."
+    }
+  ],
+  "translation": "Ir jie paėmė du vežimus arklių, ir karalius išsiuntė ⟨juos⟩ paskui Aramo stovyklą, sakydamas: Eikite ir pažiūrėkite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/7\/13-16.1792479998851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ir jie paėmė"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vežimus"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "arklių"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "stovyklą"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Eikite"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ir pažiūrėkite"
+    }
+  ],
+  "timestamp": "2026-10-20T07:06:38.852587440Z",
+  "model": "glm-5.3"
+}

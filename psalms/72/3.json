@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalomą",
+      "rationale": "שלום išlaikytas kaip šalom — pilnatvė ir gerovė, ne vien 'taika'"
+    }
+  ],
+  "translation": "Tegu kalnai neša šalomą tautai ir kalvos cedeka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/72\/1-4.1792488339805.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "neša"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kalnai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomą"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ir kalvos"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "cedeka"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:39.806311147Z",
+  "model": "glm-5.3"
+}

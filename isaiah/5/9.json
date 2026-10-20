@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "Hebrajų priesaikos formulė 'jei ne (t.y.)' — verčiama 'iš tiesų'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tai pasakė",
+      "rationale": "Hebrajų neturi veiksmažodžio 'pasakyti'; pridėta, nes būtoji forma reiškia įžangą."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "Neigtis iš priesaikos formulės lieka ⟨ne⟩, o teigiamas vertimas ją praryja."
+    }
+  ],
+  "translation": "Mano ausyse ⟨tai pasakė⟩ Jahvė Cevaot: iš tiesų daug namų taps griuvėsiais — dideli ir puikūs, be gyventojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/9-12.1792480664319.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "mano ausyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "iš tiesų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "namų"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daug"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "griuvėsiais"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "taps"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dideli"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ir puikūs"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "be"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gyventojo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:44.323436054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה niekada neverčiama į 'įstatymas' vieną — paliekama Tora."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "Vėl prielinksnis 'su jumis' (H854), ne DOM H853 — ⟨את⟩ ženklas išlaikomas pagal instrukciją."
+    },
+    {
+      "kind": "addition",
+      "subject": "gyvenančiam",
+      "rationale": "Dalyvis הגר reiškia 'svetimasis, kuris gyvena' — lietuviškai reikia dalyvio."
+    }
+  ],
+  "translation": "Viena Tora ir viena teisė bus jums ir svetimšaliui, gyvenančiam ⟨את⟩ su jumis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/15\/13-16.1792474242109.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Viena Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ir teisė"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ir svetimšaliui"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gyvenančiam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:42.112270097Z",
+  "model": "glm-5.3"
+}

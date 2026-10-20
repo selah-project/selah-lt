@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvi ir dvi ir vienuolika",
+      "rationale": "Skaičiuojama šeima: dvi žmonos, dvi tarnaitės, vienuolika vaikų."
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Hebrajiškos possessyvinės galūnės -יו išskleistos į 'savo'."
+    }
+  ],
+  "translation": "Ir jis pakilo tą naktį ir paėmė ⟨את⟩ savo dvi žmonas ir ⟨את⟩ savo dvi tarnaites, ir ⟨את⟩ vienuolika savo vaikų, ir persikėlė ⟨את⟩ Jaboko brastą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1e06ba7227d31125b92a37af8680e8a23c0c7b009b7bfd61fe8923c5cc539ad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/21-24.1792471606985.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir jis pakilo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tą naktį"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo dvi žmonas"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "žmonas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo dvi tarnaites"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvi"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "tarnaites"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vienuolika savo vaikų"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienuolika"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "vienuolika"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ir persikėlė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaboko brastą"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "brastą"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jaboko"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:46.987903302Z",
+  "model": "glm-5.3"
+}

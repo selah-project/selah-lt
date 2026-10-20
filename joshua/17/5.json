@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matavimo virvių",
+      "rationale": "חבלי iš 'virvė' — matavimo virvė, per kurią skiriama žemės dalis; 'dalys' prarastų paveikslą"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šiame sakinyje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "žemių dalyba",
+      "rationale": "skaičiuojamos Manasės paveldėjimo dalys — dešimt virvių"
+    }
+  ],
+  "translation": "Ir Manasei teko dešimt matavimo virvių, be žemės Gilado ir Bašano, kurie yra anapus Jordano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e1804c5c0ef369cd06caf441e54ab34792f7d62b1abf52d522c94a4dbf55f906",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/17\/5-8.1792476090829.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "teko"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "matavimo virvių"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasei"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilado"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "ir Bašano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "anapus"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Jordano"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:30.830329689Z",
+  "model": "glm-5.3"
+}

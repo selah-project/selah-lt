@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio — pridėta lietuviška santrauka ⟨yra⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה\/דעת\/תבונה",
+      "rationale": "Trys išminties sinonimai eilėje — tryjų žodžių kaupimas, iš dalies prarandamas"
+    }
+  ],
+  "translation": "Nes Jahvė duoda išmintį, iš Jo burnos ⟨yra⟩ pažinimas ir supratimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "435be9d97b6315d1073104b62dc16335594a3ebd771dcdeb957f2a7e63c793c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/2\/6-7.1792494193497.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duoda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išmintį"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "iš Jo burnos"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pažinimas"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ir supratimas"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:13.497867247Z",
+  "model": "glm-5.3"
+}

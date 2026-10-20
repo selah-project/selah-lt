@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "davė ranką",
+      "rationale": "נתנו יד — hebrajiškas pažado\/pasierinėjimo gestas, laikoma pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨paaukojo⟩",
+      "rationale": "hebraių kalba prie aukos minėjimo prieveiksmį praleidžia — „aviną... už kaltę“ be veiksmažodžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשמים \/ אשמתם",
+      "rationale": "kaltieji ir jų kaltė — tos pačios šaknies kartojimas, lietuviškai iš dalies išlieka"
+    }
+  ],
+  "translation": "Ir jie davė ranką išleisti savo moteris; ir kalti jie ⟨paaukojo⟩ aviną iš kaimenės už savo kaltę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/10\/17-20.1792492188791.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "davė"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "išleisti"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "savo moteris"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "kalti"
+    },
+    {
+      "surface": "איל",
+      "gloss": "aviną"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "iš kaimenės"
+    },
+    {
+      "surface": "על",
+      "gloss": "už"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "savo kaltę"
+    }
+  ],
+  "timestamp": "2026-10-20T10:29:48.792310432Z",
+  "model": "glm-5.3"
+}

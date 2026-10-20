@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesedą",
+      "rationale": "חסed vienas žodis — ištikima meilė, gailestis, malonė; laikomasi hebrajiško skambesio vietoj vienareikšmės lietuviškos prasmės"
+    },
+    {
+      "kind": "you",
+      "subject": "Šlomo → Elohim",
+      "rationale": "malda tiesiogiai kreipiasi į Elohim"
+    }
+  ],
+  "translation": "Ir Šlomo tarė Elohim: Tu padarei su Davidu, mano tėvu, didelį chesedą ir įsodinai mane karaliauti vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/1\/5-8.1792493227976.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "padarei"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesedą"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelį"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "įsodinai mane karaliauti"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:47:07.977652914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 10:16",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahvė Cevaot",
+      "rationale": "יהוה צבאות — vardas neišverstas, 'Galybių Viešpats' draudžiamas D1"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבט",
+      "rationale": "'žentas\/lazda' — gali būti 'gentis' ar 'lazda'; pasirinkta 'žentas' kaip labiau pažodžiui"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יוצר",
+      "rationale": "'sukūrėjas\/keramikas' — tas pats veiksmažodis kaip stabo 'išliejimu' 10,14; dievakūrėjas prieš stabadirbį"
+    }
+  ],
+  "translation": "Ne kaip jie — Jaakovo dalis, nes ⟨Jis⟩ visko Sūkūrėjas, o Jisraelis — jo palikimo žentas; Jahvė Cevaot — ⟨yra⟩ Jo vardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/10\/13-16.1792482351032.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "kaip jie"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dalis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Sūkūrėjas"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "visko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Jis"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "o Jisraelis"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žentas"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jo palikimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Jo vardas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:45:51.035359311Z",
+  "model": "glm-5.3"
+}

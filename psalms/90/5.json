@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "יִהְיוּ yra pabrėžiamas 'tampa', ne grynas jungtukas, bet lietuviškai reikia jungties formos"
+    },
+    {
+      "kind": "alternative",
+      "subject": "praslenka",
+      "rationale": "יחלף gali reikšti ir 'pražysta\/auga' (kaip KJV), ir 'praeina' — pasirinkta 'praslenka' pagal šaknies reikšmę 'slysti pro šalį'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išliejai kaip srautą",
+      "rationale": "זָרַם — 'plūsti kaip vanduo'; vaizdas, kad tūkstantmečiai nučiurkšti kaip potvynis"
+    }
+  ],
+  "translation": "Tu juos išliejai kaip srautą — jie yra kaip miegas; ryte kaip žolė praslenka.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/90\/5-8.1792488709239.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "išliejai juos kaip srautą"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kaip miegas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "yra"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ryte"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kaip žolė"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "praslenka"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:49.239895203Z",
+  "model": "glm-5.3"
+}

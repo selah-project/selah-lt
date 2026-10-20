@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "per ranką to, kurį tu siųsi",
+      "rationale": "Hebr. ביד תשלח: arba „per ranką to, kurį tu siųsi“ (kito siuntinio), arba „per ranką, kurią tu siųsi“ — Mošė prašo kito pasiuntinio."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח ... תשלח",
+      "rationale": "Žodžių žaismas: tas pats šaknis שלח kartojamas prašyme — „siųsk… tu siųsi“."
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "Mošė kreipiasi tiesiogiai į Adonai prašydamas siųsti ką kitą."
+    }
+  ],
+  "translation": "Ir jis tarė: O prašau, Adonai, siųsk, meldžiu, per ranką ⟨to, kurį⟩ tu siųsi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/4\/13-16.1792472233170.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "בי",
+      "gloss": "O prašau"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "siųsk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per ranką"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "tu siųsi"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:13.171809720Z",
+  "model": "glm-5.3"
+}

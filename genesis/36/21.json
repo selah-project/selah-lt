@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje giminės sąrašo formulėje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kunigaikščiai",
+      "rationale": "אלופי pažodžiui 'naminiai\/pratyrieji', čia klano vadai — gyvulio-priverstumo metafora prarandama"
+    }
+  ],
+  "translation": "ir Dišonas, ir Eceris, ir Dišanas; šitie ⟨yra⟩ kunigaikščiai horiečių, Seiro sūnūs Edomo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "adc7b1adb15d27fa2bab279e2ca86a2146f94ceab12a72d383a8173a585ad331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/36\/21-24.1792471713220.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "ir Dišonas"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ir Eceris"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ir Dišanas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiečių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:48:33.221557050Z",
+  "model": "glm-5.3"
+}

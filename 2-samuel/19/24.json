@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tu",
+      "rationale": "Lietuvių šnekamojoje eilutėje reikia veiksnio 'Tu'; hebrajų turi tik veiksmažodį."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "Prieloškas אל išlydėtas — lietuvių linksnis 'Šimeiui' jį perteikia."
+    }
+  ],
+  "translation": "Ir tarė karalius Šimeiui: Tu nemirsi. Ir karalius jam prisaikdino.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "56483ec93623095d4788b3315167d2165a1cbc5bcc96a0fba010b716492ceb11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/21-24.1792478500476.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeiui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "nemirsi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "prisaikdino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:41:40.477673043Z",
+  "model": "glm-5.3"
+}

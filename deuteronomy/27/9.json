@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebrew preposition 'el' rendered as the dative ending -ui on 'Jisraeliui', no separate word"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הסכת",
+      "rationale": "rare verb s-k-t, 'keep silent\/attend', here a call to silent attention: 'Tylok ir klausyk'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Tylok ir klausyk, Jisraeli",
+      "rationale": "imperative summons to Israel to hear"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "direct address to Israel as addressee"
+    }
+  ],
+  "translation": "Ir Mošė bei kunigai levitai kalbėjo visam Jisraeliui, sakydami: Tylok ir klausyk, Jisraeli: šiandien tu tapai tauta Jahvei, savo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/9-12.1792475416738.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ir kunigai"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitai"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "visam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "tylok"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ir klausyk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "tapai"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:16.760725906Z",
+  "model": "glm-5.3"
+}

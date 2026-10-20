@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu ⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmazodžio „būti“; pridėta „esu“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמו\/אביו",
+      "rationale": "motina pirmiau už tėvą — neįprasta tvarka Senajame Testamente"
+    }
+  ],
+  "translation": "Kiekvienas tebijoja ⟨savo⟩ motiną ir tėvą, ir ⟨את⟩ mano šabatus tesilaiko — aš esu Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/1-4.1792473544938.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Kiekvienas"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "motiną"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ir tėvą"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tebijoja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mano šabatus"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mano šabatus"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tesilaiko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:04.941403909Z",
+  "model": "glm-5.3"
+}

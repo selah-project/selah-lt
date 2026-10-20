@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ — lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardai",
+      "rationale": "Pr 25, 13–16 — dvylikos Jišmaelo sūnų vardų sąrašas pagal gimimo tvarką"
+    }
+  ],
+  "translation": "Ir šitie yra vardai Jišmaelo sūnųs, jų vardais pagal jų giminystes: pirmagimis Jišmaelo — Nevajotas, ir Kedaras, ir Adbeelis, ir Mibsamas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/25\/13-16.1792471437310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaelo"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "jų vardais"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "pagal jų giminystes"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaelo"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevajotas"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "ir Kedaras"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "ir Adbeelis"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "ir Mibsamas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:57.312306432Z",
+  "model": "glm-5.3"
+}

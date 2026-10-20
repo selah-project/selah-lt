@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "žindukliai",
+      "rationale": "עלל yra kūdikiai, žindomi vaikai — 'mažyliai' vs 'žindukliai'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלל\/סלע",
+      "rationale": "עֹלָלַיִךְ ir סָלַע skambėjimo paralelė, lietuviškai prarandama"
+    }
+  ],
+  "translation": "Laimingas, kas pagauna ir sudaužo ⟨את⟩ tavo žinduklius prie uolos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/137\/9-9.1792489237919.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Laimingas"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "kas pagauna"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "ir sudaužo"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tavo žinduklius"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "tavo žinduklius"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "uolos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:37.919835948Z",
+  "model": "glm-5.3"
+}

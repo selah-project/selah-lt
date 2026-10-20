@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 21:20",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba santykinio sakinio sakingrandinio nurodymui praleidžia būti — lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הישימן",
+      "rationale": "„Dykvietė“ arba „dykra“; „Ješimonas“ kaip tikrinis vardas irgi leistinas."
+    }
+  ],
+  "translation": "Ir iš Bamoto, ⟨kuris yra⟩ slėnyje, Moabo lauke, link Pisgos viršūnės, kuri žvelgia į dykvietės veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "86c9edf33d2313b1e9115bd74dafbbfc5fb673ce6f9f081163730bee94b7bc9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/21\/17-20.1792474345794.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבמות",
+      "gloss": "ir iš Bamoto"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "slėnyje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "viršūnės"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgos"
+    },
+    {
+      "surface": "ונשקפה",
+      "gloss": "kuri žvelgia"
+    },
+    {
+      "surface": "על",
+      "gloss": "į"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "dykvietės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:32:25.798814240Z",
+  "model": "glm-5.3"
+}

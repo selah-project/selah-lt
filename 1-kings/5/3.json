@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dešimt… dvidešimt… šimtas",
+      "rationale": "dienos maisto sąrašo skaičiavimas — tęsia 5,2 sąrašą"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בַּרְבֻּרִים",
+      "rationale": "žodis Tanache tik čia — greičiausiai penėti paukščiai; lietuviškai 'penėti paukščiai', prarandamas retas žodis"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir (penėtų paukščių)",
+      "rationale": "hebrajiškas derinimas verčiamas dviem žodžiais, kad reikšmė išliktų aiški"
+    }
+  ],
+  "translation": "dešimt galvijų penėtų, ir dvidešimt galvijų iš ganyklų, ir šimtas avių ir ožkų — be elnių, gazelių ir stirnų, ir penėtų paukščių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/5\/1-4.1792478938571.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "galvijų"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "penėtų"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ir dvidešimt"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "galvijų"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "iš ganyklų"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ir šimtas"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avių ir ožkų"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "be"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "elnių"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "gazelių"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ir stirnų"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "ir penėtų paukščių"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "penėtų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:58.573020743Z",
+  "model": "glm-5.3"
+}

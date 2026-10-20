@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vidinėse kertėse",
+      "rationale": "בטחות pažodžiui 'inkstai' — hebrajiškai vidaus, sąžinės vieta"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתם",
+      "rationale": "Paslėptose vietose — tekstas kalba apie paslėptą, vidinę išmintį"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Eilutė tiesiogiai kreipiasi į Dievą antruoju asmeniu"
+    }
+  ],
+  "translation": "Štai tiesą tu nori vidinėse kertėse, ir paslėptose vietose išminties mane išmokysi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/51\/5-8.1792488079487.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesą"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "tu nori"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "vidinėse kertėse"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ir paslėptose vietose"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išminties"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mane išmokysi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:21:19.488804045Z",
+  "model": "glm-5.3"
+}

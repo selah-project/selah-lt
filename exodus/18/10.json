@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Sulietas priebalsinis aleph-tav (אתכם) — išlaikytas kaip ⟨את⟩ + 'jus'."
+    }
+  ],
+  "translation": "Ir Jetro tarė: Tebūna palaimintas Jahvė, kuris ⟨jus⟩ išgelbėjo iš Micraimo rankos ir iš Parao rankos — kuris išgelbėjo ⟨את⟩ tautą iš po Micraimo rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/9-12.1792472563242.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Tebūna palaimintas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "išgelbėjo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ir iš rankos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "išgelbėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "iš po"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rankos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:43.244811117Z",
+  "model": "glm-5.3"
+}

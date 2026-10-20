@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברים \/ עברו",
+      "rationale": "אברים 'hebrajai' ir עברו 'perėjo' — ta pati šaknis; tautos vardas skamba kaip veiksmažodis, lietuviškai žaismas prarandamas."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas עודנו בגלגל 'dar jis Gilgale' be veiksmažodžio; kopula pridėta."
+    }
+  ],
+  "translation": "Ir hebrajai perėjo ⟨את⟩ Jordaną į Gado ir Gilado šalį, o Šaulius buvo dar Gilgale, ir visa tauta drebėjo paskui jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/13\/5-8.1792477190880.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברים",
+      "gloss": "Ir hebrajai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "perėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordaną"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordaną"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "šalį"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gado"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ir Gilado"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "o Šaulius"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "buvo dar"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgale"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "drebėjo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "paskui jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:50.883108057Z",
+  "model": "glm-5.3"
+}

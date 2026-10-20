@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפר \/ כפרים",
+      "rationale": "Šaknies כפר kartojimas tris kartus eilutėje — sutaikinimo veiksmas ir jo daugiskaitos forma; lietuviškame tekste kartojama 'sutaikinti'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "Viena hebrajiška žodžio forma reiškia ir nuodėmę, ir nuodėmės auką, ir nuodėmės pašalinimą — lietuvių kalba reikalauja atskirti"
+    }
+  ],
+  "translation": "Ir jautį už nuodėmę aukosi kasdien dėl sutaikinimų, ir sutepsi nuodėmę nuo aukuro, kai už jį sutaikinsi, ir patepsi ⟨את⟩ jį, kad jį pašventintum.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/29\/33-36.1792472832883.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "ir jautį"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "už nuodėmę"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "aukosi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kasdien"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "sutaikinimų"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ir sutepsi nuodėmę"
+    },
+    {
+      "surface": "על",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "kai sutaikinsi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "už jį"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ir patepsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "aukurą"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kad jį pašventintum"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:12.887348085Z",
+  "model": "glm-5.3"
+}

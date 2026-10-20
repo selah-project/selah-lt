@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש — kvėpuojanti būtybė, gyvybė; ne siela vėlesne prasme, tad paliktas skambesys."
+    },
+    {
+      "kind": "measurement",
+      "subject": "trisdešimt trys",
+      "rationale": "Lejos vaikų skaičiaus suma — sąrašo uždarymas skaičiumi."
+    }
+  ],
+  "translation": "Šitie yra Lejos sūnūs, kuriuos ji pagimdė Jaakovui Padan-Arame, ir ⟨את⟩ Dina, jo dukterį; visų jo sūnų ir jo dukterų nefes — trisdešimt trys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e719ea2bc3fb79024f1786a5a428969db43da06f7dd3aab4e296bf1cc46191b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/46\/13-16.1792471996272.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lejos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ji pagimdė"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakovui"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "Padan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dina, jo dukterį"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "jo dukteris"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefes"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "ir jo dukterų"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trisdešimt"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ir trys"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:16.277346936Z",
+  "model": "glm-5.3"
+}

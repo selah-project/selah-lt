@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד verčiamas skambesiu — žodis apima ištikimą meilę, gailestingumą ir malonę viename."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר \/ מצרה",
+      "rationale": "'suspaudimas' (143,11) ir 'spaudžiantys' (143,12) — ta pati šaknis צרר, rėstas suspaudimo; lietuviškai 'suspaudimas \/ spaudžia' išlaiko giminystę."
+    }
+  ],
+  "translation": "Ir savo chesed išnaikink mano priešus ir sunaikink visus, kurie spaudžia mano sielą, nes aš — tavo tarnas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/143\/9-12.1792489276684.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "ir savo chesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "išnaikink"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mano priešus"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ir sunaikink"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "kurie spaudžia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano sielą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:16.686088056Z",
+  "model": "glm-5.3"
+}

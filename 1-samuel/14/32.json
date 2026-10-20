@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעש אל שלל",
+      "rationale": "Pažodžiui 'ir darė link grobio' — lietuviškai 'puolėsi ant grobio'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "על הדם",
+      "rationale": "Pažodžiui 'ant kraujo' — valgymas su krauju sulaistytu, pažeidžiantis Įst 12, 23."
+    },
+    {
+      "kind": "addition",
+      "subject": "ובני בקר",
+      "rationale": "Pažodžiui 'galvijų sūnūs' — 'veršiai'; dalelytė 'bei' jungia sulydytą dviejų žodžių porą."
+    }
+  ],
+  "translation": "Ir žmonės puolėsi ant grobio, ir paėmė avis ir galvijus bei veršius, ir skerdė ant žemės, ir žmonės valgė su krauju.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/29-32.1792477302930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir puolėsi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "grobio"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ir galvijus"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "bei"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "veršius"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ir skerdė"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ant žemės"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ir valgė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "על",
+      "gloss": "su"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krauju"
+    }
+  ],
+  "timestamp": "2026-10-20T06:21:42.934932151Z",
+  "model": "glm-5.3"
+}

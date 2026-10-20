@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kopulos ties „šie yra žodžiai“"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio bendruomenei",
+      "rationale": "Mošė kreipiasi į visą bendruomenę"
+    }
+  ],
+  "translation": "Ir sušaukė Mošė ⟨את⟩ visą Jisraelio sūnų bendruomenę ir tarė jiems: Šie yra žodžiai, kuriuos įsakė Jahvė, kad ⟨את⟩ juos darytumėte.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ee2a9e4cca1fd80343ae4d632f3ff639d5321c656a912255bfad67b109229e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/1-4.1792472970673.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "sušaukė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą bendruomenę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bendruomenę"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Šie"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:30.675903383Z",
+  "model": "glm-5.3"
+}

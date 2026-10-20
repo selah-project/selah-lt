@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dievams",
+      "rationale": "אלהיהם čia apie stabus — mažąja raide 'dievai', ne Elohim"
+    }
+  ],
+  "translation": "Ir jie ėmė ⟨את⟩ jų dukteris sau už žmonas, o ⟨את⟩ savo dukteris davė jų sūnums, ir tarnavo ⟨את⟩ jų dievams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b54f8dccaf49c31fc6c03db547f6a9d4864903c8f20f25b334148812779cbeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/3\/5-8.1792476334922.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų dukteris"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "jų dukteris"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "už žmonas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jų dukteris"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "savo dukteris"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "davė"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "jų sūnums"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "tarnavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų dievams"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jų dievams"
+    }
+  ],
+  "timestamp": "2026-10-20T06:05:34.924666101Z",
+  "model": "glm-5.3"
+}

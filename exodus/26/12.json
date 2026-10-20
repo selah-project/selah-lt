@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajų nėra sietuvo tarp pertekliaus ir pusės uždangos; lietuvių reikia."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדף \/ סרח",
+      "rationale": "Šaknies עדף kartojimas ir gretimas סרח — perteklius, kuris nukarus; visame posme kartojama."
+    }
+  ],
+  "translation": "O perteklius, kuris lieka uždangose palapinės — ⟨tai⟩ pusė uždangos perteklinės — nukars ant užnugario miškano.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/26\/9-12.1792472748781.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "O perteklius"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "kuris lieka"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "uždangose"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pusė"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "uždangos"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "perteklinės"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "nukars"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "užnugario"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškano"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:48.785055110Z",
+  "model": "glm-5.3"
+}

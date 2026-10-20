@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצדיה",
+      "rationale": "צְדִיָּה: 'slapta tykojant' \/ 'pasalą rezgant' vs 'tyčia, apgalvotai' — retas žodis, iš šaknies צוד 'medžioti, tykoti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "atstūmė",
+      "rationale": "הֶדְפּוֹ pažodžiui 'nustūmė, pastūmėjo žemyn' — smurtinis stumimas, ne paprastas atstūmimas"
+    }
+  ],
+  "translation": "Ir jeigu iš neapykantos jį atstūmė, arba tyčia sviedė į jį ką nors, ir šis mirė —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7586cc054bbc5446ac83ba04e306b024ba0ed143a00ce0567eb54937f1eb3b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/17-20.1792474787346.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jeigu"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "iš neapykantos"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "atstūmė jį"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "sviedė"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "į jį"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "tyčia"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:47.349190573Z",
+  "model": "glm-5.3"
+}

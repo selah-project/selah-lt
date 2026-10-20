@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "pasirinkite",
+      "rationale": "Mošės kviečia tautą veikti imperatyvu"
+    },
+    {
+      "kind": "you",
+      "subject": "jūsų",
+      "rationale": "Kreipimasis į Izraelį per Mošę"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בראשיכם",
+      "rationale": "Pažodžiui 'jūsų galvomis' — viršininkais kaip galva virš kunų"
+    }
+  ],
+  "translation": "Pasirinkite sau vyrus, išmintingus ir suprantančius, ir žinomus jūsų gimstinėms, ir aš paskirsiu juos jūsų viršininkais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/13-16.1792474867921.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "pasirinkite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "išmintingus"
+    },
+    {
+      "surface": "ונבנים",
+      "gloss": "ir suprantančius"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "ir žinomus"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "jūsų gimstinėms"
+    },
+    {
+      "surface": "ואשימם",
+      "gloss": "ir paskirsiu juos"
+    },
+    {
+      "surface": "בראשיכם",
+      "gloss": "jūsų viršininkais"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:07.922880530Z",
+  "model": "glm-5.3"
+}

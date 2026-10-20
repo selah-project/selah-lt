@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — praleista, nes lietuvių galia rasti be jo: 'kuris tavo vartuose'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ateivis",
+      "rationale": "גר — atvykėlis svetimoje žemėje, ne tiesiog 'svetimšalis'."
+    },
+    {
+      "kind": "you",
+      "subject": "Iisraeliui",
+      "rationale": "Įsakymas nukreiptas į antrąjį asmenį su visu namų ūkiu."
+    }
+  ],
+  "translation": "o septintoji diena — šabatas Jahvei, tavo Elohim: nedarysi jokio darbo tu, tavo sūnus ir tavo duktė, tavo tarnas ir tavo tarnaitė, tavo gyvuliai ir tavo ateivis, kuris tavo vartuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/9-12.1792472603681.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "o diena"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintoji"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabatas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darysi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "tavo sūnus"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ir tavo duktė"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tavo tarnas"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ir tavo tarnaitė"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "tavo gyvuliai"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "ir tavo ateivis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "tavo vartuose"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:23.684406043Z",
+  "model": "glm-5.3"
+}

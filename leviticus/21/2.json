@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "hebrajiškas 'jeigu ne' = 'išskyrus'; pažodžiui klaidintų"
+    }
+  ],
+  "translation": "Išskyrus už jo artimą giminaitį, artimą jam: už motiną, už tėvą, už sūnų, už dukterį ir už brolį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/1-4.1792473598680.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "išskyrus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu ne"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "už jo artimą giminaitį"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "artimą"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "už motiną"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "už tėvą"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "už sūnų"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "už dukterį"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ir už brolį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:58.723249143Z",
+  "model": "glm-5.3"
+}

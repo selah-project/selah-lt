@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 16:21",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אחרי",
+      "rationale": "Pažodžiui 'paskui', čia politinio sekimo idiomą 'būti paskui' perteikta kaip 'būti už'."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų היה עמ both 'buvo su' — veiksmažodis 'buvo' reikalingas lietuvių sakiniui."
+    }
+  ],
+  "translation": "Tada pasidalijo ⟨את⟩ žmonės Jisraelio pusiau: pusė žmonių buvo už Tibnį, Ginato sūnų, kad jį paskelbtų karaliumi, o pusė — už Omrio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "06155c771c8de5e0cb8f0d4ea817baa203d6fecccb8bb7a4301e79946d661f61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/21-24.1792479414207.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tada"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "pasidalijo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "pusiau"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pusė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "už"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibnį"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginato"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "kad jį paskelbtų karaliumi"
+    },
+    {
+      "surface": "והחצי",
+      "gloss": "o pusė"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "už"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:54.207939509Z",
+  "model": "glm-5.3"
+}

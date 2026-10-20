@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas sakinys be jungties — 'tai yra sandoros ženklas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "būtybė",
+      "rationale": "נפש חיה — 'gyva kvėpuojanti būtybė', ne 'siela'"
+    }
+  ],
+  "translation": "Ir Elohim tarė: tai ⟨yra⟩ sandoros ženklas, kurį aš duodu tarp manęs ir jūsų bei tarp kiekvienos gyvos būtybės, kuri ⟨את⟩ su jumis, amžioms kartoms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/9-12.1792471136965.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ženklas"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sandoros"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "duodu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ir tarp jūsų"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienos"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "būtybės"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "gyvos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "kartoms"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžioms"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:56.973965782Z",
+  "model": "glm-5.3"
+}

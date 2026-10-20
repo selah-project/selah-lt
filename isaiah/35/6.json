@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Aravos stepėje",
+      "rationale": "הערבה — Jordano slėnio stepės vietovardis; 'stepė' pridėta, nes Lietuvos skaitytojas 'Arava' vienas nesuprastų"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפקחנה \/ תפתחנה (35,5) — ותרן",
+      "rationale": "Lietuvių skirtingais žodžiais atkartojama hebrajų paralelizmo atidarymo tema"
+    }
+  ],
+  "translation": "Tada šoks raišasis kaip elnias, ir nebylio liežuvis džiugiai šauks, nes dykumoje prasiverš vandenys ir upeliai Aravos stepėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be75876a1b44bb3bc798377503c19825ba119cb5c6c409cb254b75bfb2685f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/35\/5-8.1792481352798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "tada"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "šoks"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "kaip elnias"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "raišasis"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ir džiugiai šauks"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "liežuvis"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "nebylio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "prasiverš"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandenys"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ir upeliai"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Aravos stepėje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:12.799842476Z",
+  "model": "glm-5.3"
+}

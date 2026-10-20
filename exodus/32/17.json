@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi siesmo — 'karo šauksmo balsas stovykloje'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול ×3",
+      "rationale": "žodis 'balsas' kartojamas per 32,17–18 septynis kartus — Mošė pataiso Jehošuos spėjimą tais pačiais žodžiais"
+    }
+  ],
+  "translation": "Ir išgirdo Jehošua ⟨את⟩ tautos balsą, jos šaukiant, ir tarė Mošei: karo šauksmo balsas ⟨yra⟩ stovykloje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/17-20.1792472977388.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautos balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "jos šaukiant"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karo šauksmo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "stovykloje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:37.390748284Z",
+  "model": "glm-5.3"
+}

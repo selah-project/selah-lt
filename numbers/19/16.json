@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kardu nukautąjį",
+      "rationale": "בחלל חרב pažodžiui 'per pramuštąjį kardu' — חלל yra pramuštas, nudurtas, ne tiesiog 'nužudytas'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lauko veidu",
+      "rationale": "על פני השדה pažodžiui 'ant lauko veido' — reiškia atviroje vietoje, lauke"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynias dienas",
+      "rationale": "Nustatytas nešvarumo laikotarpis — septynios dienos"
+    }
+  ],
+  "translation": "Ir kiekvienas, kas lauko veidu paliečia kardu nukautąjį, ar mirusį, ar žmogaus kaulą, ar kapą, bus nešvarus septynias dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6c273d970a43a4a03307573822814d99717b27e612af76425ca31ba947bdd81b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/19\/13-16.1792474358453.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ir kiekvienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "paliečia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "nukautąjį"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "במת",
+      "gloss": "mirusį"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "kaulą"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "kapą"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvarus"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:32:38.458851326Z",
+  "model": "glm-5.3"
+}

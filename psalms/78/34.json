@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "anksti ieškodavo",
+      "rationale": "ושחרו pažodžiui 'anksti rasdavo' — idiomą 'nuo aušros ieškoti' reiškia uoliai ieškoti."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kai",
+      "rationale": "אם gali būti sąlyga 'jei' (ylt) arba laikinis 'kada' — dauguma renkasi 'kada'."
+    }
+  ],
+  "translation": "Kai jis juos nukaudavo, jie jo ieškodavo, ir sugrįždavo, ir anksti ieškodavo El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/33-36.1792488463769.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kai"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "jis juos nukaudavo"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "jie jo ieškodavo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ir sugrįždavo"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ir anksti ieškodavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:43.770493335Z",
+  "model": "glm-5.3"
+}

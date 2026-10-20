@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה čia aukos terminas — javų auka, laikoma kaip mincha, ne 'dovana'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ריח ניחוח",
+      "rationale": "'ramus kvapas' — hebrajiškas idiomas, pažodžiui 'kvapas poilsio\/ramybės'"
+    }
+  ],
+  "translation": "Ir kunigas pakels iš minchos ⟨את⟩ jos atminimo dalį ir sukvėpins ant aukuro — ugnies auka, ramus kvapas Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/2\/9-12.1792473112474.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "pakels"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos atminimo dalį"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "jos atminimo dalį"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "sukvėpins"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies auka"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kvapas"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ramus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:11:52.476589482Z",
+  "model": "glm-5.3"
+}

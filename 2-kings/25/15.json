@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב \/ כסף כסף",
+      "rationale": "pakartotas žodis — 'auksas, ( grynas ) auksas' — hebrajų kalbos paryškinimas, lietuvių išlaikytas kartojimu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "budelių vadas",
+      "rationale": "רב טבחים pažodžiui 'budelių viršininkas' — karininko titulas, ne profesija"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ smilkytuvus, ir ⟨את⟩ dubenis, kurie buvo auksas — auksas, ir kurie sidabras — sidabras, paėmė budelių vadas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/13-16.1792480540115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "smilkytuvus"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "smilkytuvus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "dubenis"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dubenis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksas"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ir kurie"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vadas"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "budelių"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:40.117766655Z",
+  "model": "glm-5.3"
+}

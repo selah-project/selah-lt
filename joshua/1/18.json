@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ימרה את פיך",
+      "rationale": "Pažodžiui 'paskatins tavo burną kartėlio' — reiškia priešintis tavo žodžiui."
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošua",
+      "rationale": "Baigiamasis paliepimas Jehošuai: 'būk stiprus ir drąsus' — tęsia 1, 6–7 ir 1, 9 aidą."
+    },
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Lietuvių kalbai reikalingas pagalbinis veiksmažodis; hebrajų יומת — vienas žodis."
+    }
+  ],
+  "translation": "Kiekvienas vyras, kuris priešinsis ⟨את⟩ tavo žodžiui ir neklausys ⟨את⟩ tavo žodžių visame, ką įsakyssi jam, bus nužudytas; tik būk stiprus ir drąsus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/1\/17-18.1792475676012.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "priešinsis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo žodžiui"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tavo žodžiui"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "klausys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo žodžių"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tavo žodžių"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "įsakyssi jam"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus nužudytas"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "būk stiprus"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ir drąsus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:36.018249871Z",
+  "model": "glm-5.3"
+}

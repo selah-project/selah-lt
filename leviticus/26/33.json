@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב \/ חרבה",
+      "rationale": "Kardo (חרב) ir nuniokimo (חרבה) šaknų skambesio paralelė — kardas ir ištuštėjimas siejasi garsu, lietuviškai prarasta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ištrauksiu",
+      "rationale": "הריקתי pažodžiui 'išpilsčiau \/ ištuštinau (makštį)' — kardas išvelkamas paskui išbarstytą tautą."
+    }
+  ],
+  "translation": "O ⟨את⟩ jus aš išbarstysiu tautose ir ištrauksiu paskui jus kardą, ir jūsų žemė taps tyra dykuma, ir jūsų miestai bus griuvėsiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/33-36.1792473825056.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "išbarstysiu jus"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "išbarstysiu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "tautose"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "ir ištrauksiu"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "paskui jus"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardą"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir taps"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jūsų žemė"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tyra dykuma"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "ir jūsų miestai"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bus"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "griuvėsiai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:45.058429085Z",
+  "model": "glm-5.3"
+}

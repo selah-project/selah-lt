@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 19:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "hebrajų kalboje והיתה yra stiprus 'taps', lietuvių reikia veiksmažodžio 'būti'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nidos vanduo",
+      "rationale": "מי הנדה — atmetimo\/nešvarumo vanduo; tradicinis 'apvalymo vanduo' yra priešinga kryptis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "iki vakaro",
+      "rationale": "nešvarumo trukmė apibrėžta laiku — iki vakaro"
+    }
+  ],
+  "translation": "Ir tai jiems bus įstatas amžiams: kas šlaksto nidos vandenį, išskalbs savo drabužius, o kas paliečia nidos vandenį, bus nešvarus iki vakaro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2c07d8611f331d49baaa80897c1b68859fa62f12f5393b1f4e79e4e1e372b5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/19\/21-22.1792474313946.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ir tai bus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "įstatas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžiams"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "o kas šlaksto"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandenį"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "nidos"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "išskalbs"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savo drabužius"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "o kas paliečia"
+    },
+    {
+      "surface": "במי",
+      "gloss": "vandenį"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "nidos"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bus nešvarus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vakaro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:31:53.946863972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "paukščių pavadinimai",
+      "rationale": "Hebrajų paukščių vardų tapatybės neaiškios; verčiama pagal įprastą tradiciją (mažasis apuokas, kormoranas, didysis apuokas)."
+    }
+  ],
+  "translation": "ir ⟨את⟩ mažąjį apuoką, ir ⟨את⟩ kormoraną, ir ⟨את⟩ didįjį apuoką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/17-20.1792473283367.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mažąjį apuoką"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "mažasis apuokas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "kormoraną"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormoranas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "didįjį apuoką"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "didysis apuokas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:43.368176896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Lietuviškas įvardis, kurio hebrajų kalba neturi — 'nežinojo ⟨tai⟩'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "duobė",
+      "rationale": "בור — duobė, cisterna; tradiciniai vertimai 'šulinys' neišlaiko žodžio formos."
+    }
+  ],
+  "translation": "Ir išėjo Joabas iš pas Davidą, ir pasiuntė pasiuntinius paskui Avnerį, ir jie parvedė ⟨את⟩ jį atgal nuo Bor-Siros duobės, o Dovydas ⟨tai⟩ nežinojo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/25-28.1792477968124.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "iš pas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "pasiuntinius"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerį"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "parvedė atgal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "nuo duobės"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Siros"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "o Dovydas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žinojo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:48.126776442Z",
+  "model": "glm-5.3"
+}

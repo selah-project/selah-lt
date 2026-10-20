@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 21:9",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — geriau 'gerklė \/ gyvybės jėga', ne 'siela'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונפל על",
+      "rationale": "pažodžiui 'ir kris ant' — idiomatinis 'perbėgs, pasiduos' kasdėjams"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכשדים",
+      "rationale": "tradiciškai 'chaldėjai \/ babiloniečiai'; laikomasi hebrajiško skambesio 'kasdėjai'"
+    }
+  ],
+  "translation": "Kas gyvena šiame mieste — mirs nuo kardo, nuo bado ir nuo maro; o kas išeina ir pasiduoda kasdėjams, apguliantiems jus — gyvens, ir jo gyvybė ⟨nefesh⟩ bus jam kaip karo grobis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "01fc029aeca331d62af1f6d7f1343fba05e37b2d5f863b4d66591f1277d0af00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/21\/9-12.1792482630348.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "kas gyvena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "šiame mieste"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šiame"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nuo kardo"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "ir nuo bado"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ir nuo maro"
+    },
+    {
+      "surface": "והיוצא",
+      "gloss": "o kas išeina"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ir pasiduoda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdėjus"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "apguliantiems"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "jus"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo gyvybė ⟨nefesh⟩"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kaip karo grobis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:30.349226914Z",
+  "model": "glm-5.3"
+}

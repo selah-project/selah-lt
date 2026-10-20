@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש yra arčiau 'gerklė\/kvapas\/gyvybės jėga', ne siela kaip atskira esybė"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiški beveikniekiniai sakiniai 'dantys — ietis' lietuviškai reikalautų jungties, čia išspręsta brūkšniu"
+    },
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "'liepsnojantys' (laht — laižyti\/degti) prieš 'godūs, rėksnai': KJV 'set on fire', BSB 'ravenous'"
+    }
+  ],
+  "translation": "Tarp liūtų mano siela, aš guliuosi tarp liepsnojančių — žmonių sūnų, kurių dantys — ietis ir strėlės, o jų liežuvis — aštrus kardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/57\/5-8.1792488160039.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mano siela"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "liūtų"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "aš guliuosi"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "tarp liepsnojančių"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kurių dantys"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ietis"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ir strėlės"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "o jų liežuvis"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kardas"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "aštrus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:22:40.040525584Z",
+  "model": "glm-5.3"
+}

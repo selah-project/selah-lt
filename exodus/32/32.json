@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשא חטאתם",
+      "rationale": "'jei neši jų nuodėmę' — נשא gali reikšti 'atkelti\/atleisti' arba 'nešti (bausmę)'; sakinys nutrūksta taške, KJV palieka brūkšnį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "knyga",
+      "rationale": "'מִסִּפְרְךָ' — iš tavęs parašytoji knyga, gyvenimo registras; ne fizinė knyga."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Mošė maldos kreipimasis tiesiogiai į Jahvę."
+    }
+  ],
+  "translation": "Ir dabar, jei neši jų nuodėmę — o jei ne, išbrauk mane, prašau, iš savo knygos, kurią parašei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0e979f3fd5d83fb954892228aaa95e5786a404435c29ff6b0e525788d6a166da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/29-32.1792472972977.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "neši"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "jų nuodėmę"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "išbrauk mane"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prašau"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "iš savo knygos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "parašei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:32.981614156Z",
+  "model": "glm-5.3"
+}

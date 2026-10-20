@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "atsiras",
+      "rationale": "hebrajų יהיה su כי — įvestinis „kai... atsiras“, būtina lietuvių sintaksei"
+    }
+  ],
+  "translation": "Ir kai vyre ar moteriai atsiras žaizda ant galvos ar ant barzdos,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "08dd866d5dc9caaa878b0f1cf74cce8a44ede7aab35632f18a52b1c419c0797c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/29-32.1792473441364.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyras"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "atsiras"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "žaizda"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ant galvos"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ant barzdos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:21.365303656Z",
+  "model": "glm-5.3"
+}

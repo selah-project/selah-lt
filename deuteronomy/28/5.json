@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טנאך",
+      "rationale": "טֶנֶא 'krepšys (iš pintų vytelių)' Tanache beveik vien tik Įst pakartojimuose."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברוך",
+      "rationale": "'baruch' kartojasi Pr 28, 3–8 prakeikimų bloke — palaiminimo\/prakeikimo veidrodis."
+    }
+  ],
+  "translation": "Palaimintas tavo krepšys ir tavo minkymo lova.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/5-8.1792475462277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "palaimintas"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "tavo krepšys"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ir tavo minkymo lova"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:02.278021472Z",
+  "model": "glm-5.3"
+}

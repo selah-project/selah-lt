@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrew lacks a copula in 'ani YHWH'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievukų",
+      "rationale": "אלילים yra nieko verti stabai, 'dievukai' — niekinis smulkusis, o ne Elohim"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Tiesioginis įsakymas Izraelio bendruomenei"
+    }
+  ],
+  "translation": "Nedarykite sau dievukų, ir drožinio bei stulpo nestatykite sau, ir akmens su piešiniu nedėkite savo žemėje, kad prieš jį klausytumėtės, nes aš ⟨esu⟩ Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/1-4.1792473737496.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "dievukų"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ir drožinio"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "bei stulpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "statykite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ir akmens"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "su piešiniu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dėkite"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "savo žemėje"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kad klausytumėtės"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:17.499404588Z",
+  "model": "glm-5.3"
+}

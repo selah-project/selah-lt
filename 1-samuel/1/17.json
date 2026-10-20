@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "לשלום verčiama 'su šalomu', išlaikant vieną hebrajišką žodį, o ne 'su taika'."
+    },
+    {
+      "kind": "addition",
+      "subject": "su",
+      "rationale": "Lietuvių kalbai reikia prielinksnio 'su' prieš šalomą, hebrajų turi tik ל priešdažį."
+    }
+  ],
+  "translation": "Ir atsakė Elis ir tarė: Eik su šalomu, ir duos Dievų Israelio ⟨את⟩ tavo maldavimą, kurį prašei iš jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/1\/17-20.1792476933516.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "eik"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "su šalomu"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ir Dievų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelio"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "duos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo maldavimą"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "tavo maldavimą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "prašei"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "iš jo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:33.517435125Z",
+  "model": "glm-5.3"
+}

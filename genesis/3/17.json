@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 3:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajiškas veiksmažodis אמר neturi veikėjo — pridėta įvardis, kad būtų aišku, kas kalba"
+    },
+    {
+      "kind": "you",
+      "subject": "Adomui",
+      "rationale": "Elohim kreipiasi tiesiogiai į Adomą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adomas",
+      "rationale": "האדם čia traktuojamas kaip vardas Adomas, nors žodis reiškia 'žmogus'"
+    }
+  ],
+  "translation": "Ir Adomui ⟨jis⟩ tarė: Kadangi paklausei savo žmonos balsui ir valei iš medžio, apie kurį įsakiau tau, sakydamas: Nevalgysi iš jo — prakeikta žemė dėl tavęs; su vargu valgysi iš jos visas savo gyvenimo dienas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/3\/17-20.1792471021000.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאדם",
+      "gloss": "Ir Adomui"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kadangi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "paklausei"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "balsui"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "savo žmonos"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir valei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apie kurį"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "įsakiau tau"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgysi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jo"
+    },
+    {
+      "surface": "ארורה",
+      "gloss": "prakeikta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "dėl tavęs"
+    },
+    {
+      "surface": "בעצבון",
+      "gloss": "su vargu"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "valgysi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "savo gyvenimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:01.001790736Z",
+  "model": "glm-5.3"
+}

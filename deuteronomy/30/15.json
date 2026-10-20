@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "tiesioginis įsakymo kreipimasis: 'Žiūrėk' — į izraelitų bendruomenę"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "gyvybė\/mirtis, gėris\/blogis",
+      "rationale": "keturios priešingybės poromis — chiastiškas sąrašas, kurio simetrija išlieka"
+    }
+  ],
+  "translation": "Žiūrėk: aš padėjau šiandien prieš tave ⟨את⟩ gyvybę ir ⟨את⟩ gėrį, ir ⟨את⟩ mirtį ir ⟨את⟩ blogį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/30\/13-16.1792475505574.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Žiūrėk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "aš padėjau"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gyvybę"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "gyvybę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "gėrį"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "gėrį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mirtį"
+    },
+    {
+      "surface": "המות",
+      "gloss": "mirtį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "blogį"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "blogį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:51:45.576824475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "jie padarys",
+      "rationale": "יעשו daugiskaita be subjekto — arba 'jie' (darbininkai), arba beasmenis 'bus padaryta'."
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų הראה beyto kad — pilietinis asmuo pridedamas kaip 'buvo parodyta'."
+    }
+  ],
+  "translation": "Tuščiavidurį iš lentų padarysi ⟨את⟩ jį; kaip jis buvo parodyta tau kalne, taip jie padarys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/27\/5-8.1792472749190.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Tuščiavidurį"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "iš lentų"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "buvo parodyta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kalne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "jie padarys"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:49.192484189Z",
+  "model": "glm-5.3"
+}

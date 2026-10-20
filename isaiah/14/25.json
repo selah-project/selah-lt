@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pečiai",
+      "rationale": "שכם yra 'kakta tarp pečių' — nešulių vieta; lietuviškai 'pečiai'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וסר…יסור",
+      "rationale": "to paties veiksmažodžio סור kartojimas eilutės pradžioje ir pabaigoje — inkrustacija"
+    }
+  ],
+  "translation": "Sulaužyti Ašurą mano žemėje ir mano kalnuose jį sutrypti; jo jungas nusisuks nuo jų, ir jo naštą nuo jų pečių jis nuneš.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9de680f464db0cbd5f4faaa442ee7133609af9c87a1014318ca4f5201b38434d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/25-28.1792480807943.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "sulaužyti"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašurą"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "mano žemėje"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "mano kalnų"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "jį sutrypti"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "nusisuks"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "nuo jų"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "jungas"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "ir jo naštą"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "jo pečių"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "jis nusisuks"
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:07.944913605Z",
+  "model": "glm-5.3"
+}

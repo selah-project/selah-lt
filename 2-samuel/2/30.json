@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "poruotė",
+      "rationale": " žuvusiųjų surašymas: devyniolika Davido tarnų ir Asahelis, o kitapus — trys šimtai šešiasdešimt (v. 31)."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Asahelio vardo galutinė raide ל elipsiškai trukdo žodžiui עשהאל — atskiro žodžio čia nėra, glosa tuščia."
+    }
+  ],
+  "translation": "O Joabas grįžo nuo Avnero, surinko ⟨את⟩ visus žmones ir suskaičiavo — iš Davido tarnų trys dešimt ir devyni vyrai ir Asahelis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/2\/29-32.1792477980710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "O Joabas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "grįžo"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnero"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "surinko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visi žmonės"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "suskaičiavo"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "iš tarnų"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devyni"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir Asahelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:00.711811757Z",
+  "model": "glm-5.3"
+}

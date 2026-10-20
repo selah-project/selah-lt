@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 65:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח čia — ne „dvasia“ viena: kvėpavimas, gyvybės gūsis; rašoma pagal skambesį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב לב \/ כאב לב",
+      "rationale": "Chiazminis kontrastas „gera širdis \/ skausmo širdis“ toje pačioje pozicijoje abiejose eilutės pusėse."
+    }
+  ],
+  "translation": "Štai mano tarnai džiūgaus iš geros širdies, o jūs rėksite iš širdies skausmo ir iš ruach sutrūkinėjimo stogsit.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "828310d5c80749125b1f7436b6e22b75e7083491fd67e71cef4c9def9115b608",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/65\/13-16.1792482083363.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mano tarnai"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "džiūgaus"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "iš geros"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "o jūs"
+    },
+    {
+      "surface": "תצעקו",
+      "gloss": "rėksite"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "iš skausmo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "ir iš sutrūkinėjimo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "תילילו",
+      "gloss": "stogsit"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:23.375974926Z",
+  "model": "glm-5.3"
+}

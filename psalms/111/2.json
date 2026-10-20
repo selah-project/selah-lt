@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרושים",
+      "rationale": "דרש — 'sekti pėdomis, tyrinėti' — čia pasyvo dalyvis; 'išnarpliojami' saugo tyrinėjimo paveikslą."
+    },
+    {
+      "kind": "crux",
+      "subject": "לכל חפציהם",
+      "rationale": "KJV 'all them that have pleasure therein' vs. D2 kitos šaknys: חפץ gali būti 'malonumas' arba 'vertingas daiktas' — 'visi, kurie jų trokšta' vs 'jie vertingi visiems, kurie jų geidžia'."
+    }
+  ],
+  "translation": "Dideli Jahvės darbai, išnarpliojami visų, kurie jais džiaugiasi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/111\/1-4.1792488996514.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Dideli"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "darbai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "išnarpliojami"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "kurie jais džiaugiasi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:36:36.515280222Z",
+  "model": "glm-5.3"
+}

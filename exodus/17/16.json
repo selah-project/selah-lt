@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כס",
+      "rationale": "gneza 'כס yra כסא (sostas) sumažinta forma, bet Strong'as sieja su 'prisiekti' — 'Jah prisiekė' vs 'ranka ant Jah sostinės'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כס יה",
+      "rationale": "raidžių žaismas — כס יה gali būti perskaitomas kaip כיסא יה (Jah sostas)"
+    }
+  ],
+  "translation": "Ir jis tarė: nes ranka ant Jah sostinės — karas Jahvei prieš Amaleką iš kartos į kartą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/17\/13-16.1792472530677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כס",
+      "gloss": "sostinės"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "prieš Amaleką"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "iš kartos"
+    },
+    {
+      "surface": "דר",
+      "gloss": "į kartą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:10.684633360Z",
+  "model": "glm-5.3"
+}

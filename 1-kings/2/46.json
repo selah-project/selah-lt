@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨šis⟩",
+      "rationale": "Hebrajiškas veikėjas iš veiksmažodžio formos aiškus, lietuvių kalbai reikia įvardžio."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפגע",
+      "rationale": "„puolė“ — pažodžiui „užklupo\/smagino“; smurtinio susidūrimo veiksmažodis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכונה",
+      "rationale": "Tas pats veiksmažodis כון kaip v. 45 („tvirtas sostas“) — karalystės įtvirtinimas ataidi sosto tvirtumui."
+    }
+  ],
+  "translation": "Ir karalius įsakė ⟨את⟩ Benajahu, sūnų Jehojados; ir ⟨šis⟩ išėjo, ir puolė jį, ir jis mirė; ir karalystė buvo tvirta Šlomo rankoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4da071bb18e89c22cd63de8ed9af03d818449d3b2626744a1242aca16117874e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/45-46.1792478772112.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ir įsakė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojados"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ir puolė"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ir karalystė"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "tvirta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rankoje"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:12.114307757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sensus",
+      "rationale": "Ašero gautos skaičius: 41 500"
+    },
+    {
+      "kind": "idiom",
+      "subject": "'ehad ve-arba'im",
+      "rationale": "hebrajų eiliškumas 'vienas ir keturiasdešimt' lietuviškai — 'keturiasdešimt vienas'"
+    }
+  ],
+  "translation": "ir jo kariuomenė ir jų suskaičiuotieji: vienas ir keturiasdešimt tūkstančių ir penki šimtai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/2\/25-28.1792473865515.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ir jo kariuomenė"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ir jų suskaičiuotieji"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "keturiasdešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "penki"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:25.516630488Z",
+  "model": "glm-5.3"
+}

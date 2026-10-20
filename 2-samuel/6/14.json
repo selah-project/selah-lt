@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko jungiamojo veiksmažodžio; hebrajų jo nėra."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ודוד ... ודוד",
+      "rationale": "Vardas Davidas pakartotas du kartus — paryškina kontrastą tarp šokio ir drabužio."
+    }
+  ],
+  "translation": "Ir Davidas šoko su visu jėga priešais Jahvę, o Davidas buvo apjuostas lininiu efodu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1409a58f740d1dff55b3d65531a57408289bcf8de4e59c4e11a0fcc5f20f0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/6\/13-16.1792478109194.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ir Davidas"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "šoko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "su visu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "o Davidas"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "buvo apjuostas"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lininiu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:35:09.196578894Z",
+  "model": "glm-5.3"
+}

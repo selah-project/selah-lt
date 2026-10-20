@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 25:13",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalbai reikia valdančio įvardžio prie דברי („ mano žodžiai“)"
+    },
+    {
+      "kind": "elision",
+      "subject": "ההיא \/ הזה",
+      "rationale": "Hebrajiškas artikelis su parodylamuoju žodžiu lietuviškai išreiškiamas vienu „tos \/ šioje“"
+    }
+  ],
+  "translation": "Ir aš atnešiu ant tos žemės ⟨את⟩ visus savo žodžius, kuriuos kalbėjau prieš ją, ⟨את⟩ visa, kas parašyta šioje knygoje, ką Jeremijas pranašavo prieš visas tautas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/25\/13-16.1792482795943.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאיתי",
+      "gloss": "ir aš atnešiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "tos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus savo žodžius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "savo žodžius"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "kalbėjau"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "prieš ją"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa, kas parašyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "kas parašyta"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "šioje knygoje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šioje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "pranašavo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijas"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:53:15.944817693Z",
+  "model": "glm-5.3"
+}

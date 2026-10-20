@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teruma",
+      "rationale": "תרומה — 'pakelta dovana' kunigui; verčiama skambesiu 'teruma'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "koja",
+      "rationale": "שוק — 'blauzda, koja bėgikui'; ne 'petis'"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ dešinės koją atiduokite kaip terumą kunigui — iš savo šalom-aukų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/29-32.1792473203926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dešinės koją"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "koją"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dešinės"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "atiduokite"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "kaip terumą"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "iš savo aukų"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "šalom-aukų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:23.928805147Z",
+  "model": "glm-5.3"
+}

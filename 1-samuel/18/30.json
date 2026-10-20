@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 18:30",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taip",
+      "rationale": "ויהי prasideda pasakojimo vardą — lietuvių kalbai reikia 'buvo taip'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "elgėsi išmintingai",
+      "rationale": "שכל gali reikšti ir 'sėkmingai klestėjo' (kaip JPS 'prospered') — čia pasirinkta pažodinė 'išmintingai elgėsi' prasmė."
+    },
+    {
+      "kind": "substitution",
+      "subject": "labai vertingas",
+      "rationale": "ייקר pažodžiui 'tapti sunkiam\/brangiam' — vertimo 'labai iškilo' būtų prasmės, ne formos perdavimas."
+    }
+  ],
+  "translation": "Ir išėjo pelištiečių kunigaikščiai; ir buvo taip: kaskart jiems išeinant, Davidas elgėsi išmintingiau už visus Šaulio tarnus, ir jo vardas tapo labai vertingas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/18\/29-30.1792477418383.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištiečių"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo taip"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "kaskart"
+    },
+    {
+      "surface": "צאתם",
+      "gloss": "jiems išeinant"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "elgėsi išmintingiau"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "už visus"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulio"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ir tapo vertingas"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:23:38.384964597Z",
+  "model": "glm-5.3"
+}

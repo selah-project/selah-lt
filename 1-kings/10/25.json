@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחתו čia yra duoklė, ne auka — todėl ne 'mincha', o 'duoklė'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "metai po metų",
+      "rationale": "כתיב דבר שנה בשנה — reguliarus kasmetinis tarifas"
+    }
+  ],
+  "translation": "Ir jie atnešdavo kiekvienas savo duoklę — indus sidabro ir indus aukso, drabužius ir ginklus, ir kvapniuosius prieskonius, žirgus ir mulus — metinį dalyką, metai po metų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/10\/25-28.1792479152893.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Ir jie"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "atnešdavo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "savo duoklę"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "indus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ir indus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "ir drabužius"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "ir ginklus"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "ir kvapniuosius prieskonius"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "žirgus"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "ir mulus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metinį"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "metai po metų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:32.895406257Z",
+  "model": "glm-5.3"
+}

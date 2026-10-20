@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבתון\/תשבתו\/שבתכם",
+      "rationale": "Keturios tos pačios šaknies formos viename sakinyje — šabato žodžių žiedas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nuo vakaro iki vakaro",
+      "rationale": "Tiksli šabato riba: nuo vakaro iki vakaro, devinta mėnesio diena"
+    },
+    {
+      "kind": "crux",
+      "subject": "kamuoti savo nefas",
+      "rationale": "ענה: 'suspausti\/varginti' — tradicija skaito kaip pasninką, tekstas sako 'kamuoti'"
+    }
+  ],
+  "translation": "Šabat šabatonas ⟨yra⟩ jums, ir kamuosite ⟨את⟩ savo nefas; devintą mėnesio dieną vakare, nuo vakaro iki vakaro, švęskite savo šabatą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/29-32.1792473719798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabatonas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yra⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ir kamuosite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo nefas"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "savo nefas"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "devintą"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mėnesio dieną"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vakare"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "nuo vakaro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vakaro"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "švęskite"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "savo šabatą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:59.801041756Z",
+  "model": "glm-5.3"
+}

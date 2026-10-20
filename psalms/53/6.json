@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד...פחד",
+      "rationale": "trigubas פחד žaismas — 'išsigando baimės, kur nebuvo baimės' — dėmesio šuolis iš veiksmažodžio į daiktavardį"
+    },
+    {
+      "kind": "crux",
+      "subject": "חנך",
+      "rationale": "חֹנָךְ — 'tave apsiautęsis\/stovyklą prieš tave pastatęsis' vs 'tavo draugas' (iš חניך); verčiama pagal stovyklos šaknį חנה"
+    }
+  ],
+  "translation": "Ten jie išsigando baimės, kur nebuvo baimės, nes Elohim išbarstė kaulus tave apsupusiojo, tu sugėdinai, nes Elohim atmetė juos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/53\/5-7.1792488130445.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "jie išsigando"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "baimės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "baimės"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "išbarstė"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kaulus"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "tave apsupusiojo"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "tu sugėdinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "atmetė juos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:22:10.446263737Z",
+  "model": "glm-5.3"
+}

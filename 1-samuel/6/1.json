@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškas ויהי reikalauja veiksmažodžio lietuvių kalboje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynis mėnesius",
+      "rationale": "nurodytas tikslus laikotarpis"
+    }
+  ],
+  "translation": "Ir buvo Jahvės skrynia pelištų lauke septynis mėnesius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/1-4.1792477117076.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelištų"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mėnesius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:37.076738026Z",
+  "model": "glm-5.3"
+}

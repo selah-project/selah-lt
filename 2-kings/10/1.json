@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 10:1",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškai nėra veiksmažodžio „turėti\/būti“ — pridėta kopula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שרי יזרעאל",
+      "rationale": "„Jizreelio kunigaikščiai“ — arba „Jizreelyje“ (mieste, kur valdė Achabo rūmai); manoma, kad čia apie Šomerono diduomenę"
+    }
+  ],
+  "translation": "O Achabui ⟨buvo⟩ septyniasdešimt sūnų Šomeronone, ir Jėhu parašė laiškus ir išsiuntė ⟨את⟩ Šomeronon — pas Jizreelio kunigaikščius, vyresniuosius ir pas Achabo auginančiuosius, sakydamas:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/1-4.1792479932530.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאחאב",
+      "gloss": "O Achabui"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "septyniasdešimt"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomeronone"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ir parašė"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jėhu"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "laiškus"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨את⟩ Šomeronon",
+      "marks": "Šomeronon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kunigaikščius"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelio"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyresniuosius"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir pas"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "auginančiuosius"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:32.531666275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savo vidais",
+      "rationale": "בנפשו — pažodžiui 'savo nefesu' (gerkle \/ gyvybės jėga); lietuvių reikalauja apibūdinimo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתאב",
+      "rationale": "תאב 'bjaurėtis' — reta forma, čia vienintelė vieta Tanache."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "Prisiekimo orakulas per pranašą — tiesioginė Jahvės kalba."
+    }
+  ],
+  "translation": "Prisiekė Adonai Jahvė savo vidais — sako Jahvė, Cevaot Elohim: bjaurėjuosi aš ⟨את⟩ Jaakovo puikybe ir jo citadeles aš nekenčiu, ir atiduosiu miestą su visu jo pilnumu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3381093c1ceaf548d44767e213dae3210f3ec1af903b4402b0fec0ca647d6269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/amos\/6\/5-8.1792486657546.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Prisiekė"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "savo vidais"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "bjaurėjuosi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakovo puikybe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "puikybe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "ir jo citadeles"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aš nekenčiu"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "ir atiduosiu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "su visu jo pilnumu"
+    }
+  ],
+  "timestamp": "2026-10-20T08:57:37.549591097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "užskiepijo",
+      "rationale": "חנך pažodžiui 'pradėti naudoti, pašventinti pradžią'; lietuviška 'užskiepyti' yra tradicinis aprašymas, ne pažodinis paveikslas"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi sakinio 'kas yra tas vyras' kopuliacijos"
+    },
+    {
+      "kind": "invitation",
+      "subject": "šoterų kalba",
+      "rationale": "Klausimas 'Kas ⟨yra⟩ tas vyras…?' kreipiasi tiesiogiai į tautą prieš mūšį"
+    }
+  ],
+  "translation": "Ir šoterai kalbės į tautą, sakydami: Kas ⟨yra⟩ tas vyras, kuris pastatė naują namą ir jo neužskiepijo? Tegul eina ir sugrįžta į savo namą, kad nenumirtų kare ir kad kitas jo neužskiepintų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3c6e5c116bb733251dbb74edf3234fe83f4973455a377d92ec70b7275a6317d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/20\/5-8.1792475265060.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "Ir kalbės"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "šoterai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "naują"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "jo užskiepijo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "tegu eina"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ir sugrįžta"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "į savo namą"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "numirtų"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "kare"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ir kitas vyras"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kitas"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "jį užskiepintų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:45.062159361Z",
+  "model": "glm-5.3"
+}

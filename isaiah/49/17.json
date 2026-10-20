@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "Masoretinis priegaidis בָּנָיִךְ — 'tavo statytojai', bet dauguma vertimų skaito kaip בָּנַיִךְ 'tavo vaikai' (KJV, JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהרו\/מהרסיך",
+      "rationale": "מָהַר (skubėti) ir הָרַס (griauti) — panašaus skambesio žodžiai vienoje eilutėje."
+    }
+  ],
+  "translation": "Skuba tavo statytojai; tavo griovėjai ir tavo niokotojai iš tavęs išeis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/49\/17-20.1792481633817.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Skuba"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tavo statytojai"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "tavo griovėjai"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "ir tavo niokotojai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iš tavęs"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "išeis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:53.818192713Z",
+  "model": "glm-5.3"
+}

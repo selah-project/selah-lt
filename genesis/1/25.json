@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "Hebrajų kalba neturi veiksnažodio „tai yra“ po כי טוב; lietuvių kalbai reikia ⟨tai⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חית הארץ \/ רמש האדמה",
+      "rationale": "Pakartotas rūšies šablonas למינה ×3 — trijų dalių struktūra, išlaikyta vienodai."
+    }
+  ],
+  "translation": "Ir Elohim padarė ⟨את⟩ žemės gyvūnus pagal jų rūšį, ir ⟨את⟩ gyvulius pagal jų rūšį, ir ⟨את⟩ visus žemės roplius pagal jų rūšį; ir Elohim matė, kad ⟨tai⟩ gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/25-28.1792471066208.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žemės gyvūnus"
+    },
+    {
+      "surface": "חית",
+      "gloss": "gyvūnus"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "pagal jų rūšį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "gyvulius"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulius"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "pagal jų rūšį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus roplius"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "roplius"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dirvos"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "pagal jų rūšį"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir matė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:46.209361034Z",
+  "model": "glm-5.3"
+}

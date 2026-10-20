@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא יהיה בו",
+      "rationale": "pažodžiui 'nebus jame'; 'jo nebus' — mannos nebus šabato dieną"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šešios dienos",
+      "rationale": "savaitės skaičiavimas: šešios rinkimo dienos, septintoji — šabatas"
+    }
+  ],
+  "translation": "Šešias dienas jį rinksite, o septintą dieną — šabatas; tą dieną jo nebus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/16\/25-28.1792472534360.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Šešias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "jį rinksite"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "o septintą dieną"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintą"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabatas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jiame"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:14.363800310Z",
+  "model": "glm-5.3"
+}

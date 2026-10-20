@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עכר \/ עוכר",
+      "rationale": "Vardas Akaras ir „trikdintojas“ — tos pačios šaknies žodžių žaismas (Joz 7)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pašvęstas daiktas",
+      "rationale": "חרם — dalykas, pašvęstas sunaikinimui ar atidavimui Jahvei; vienas lietuviškas žodis neapima abiejų."
+    }
+  ],
+  "translation": "O Karmio sūnūs: Akaras, Jisraelio trikdintojas, tas, kuris nusikalto ⟨את⟩ pašvęstajam daiktui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e688587675671ac2e5b874c32f86514ec58f1e577af70816543a0e93e7d9028d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/2\/5-8.1792492600119.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "o sūnūs"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmio"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akaras"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "trikdintojas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tas, kuris"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nusikalto"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "pašvęstajam daiktui"
+    }
+  ],
+  "timestamp": "2026-10-20T10:36:40.119942661Z",
+  "model": "glm-5.3"
+}

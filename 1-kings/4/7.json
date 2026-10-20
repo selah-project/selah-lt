@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvylika paskirtųjų",
+      "rationale": "Skaičiavimas: dvylika pareigūnų, po vieną kiekvienam metų mėnesiui"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על אחד",
+      "rationale": "Pažodžiui „ant vieno“ — tvarka žodžių hebrajų kalboje kitokia"
+    }
+  ],
+  "translation": "Ir Šlomui ⟨buvo⟩ dvylika paskirtųjų virš viso Jisraelio, ir jie išlaikė ⟨את⟩ karalių ir ⟨את⟩ jo namus; mėnesį per metus tekdavo vienam išlaikyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e57713a188d7b2adeca76d9526ba49caeb63f85edcf555f81ddc0e7bee2c001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/4\/5-8.1792478874375.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Ir Šlomui"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "paskirtieji"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ir jie išlaikė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo namus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jo namus"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mėnesį"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "per metus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tekdavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "vienam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienam"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "išlaikyti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:54.377121486Z",
+  "model": "glm-5.3"
+}

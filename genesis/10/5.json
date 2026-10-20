@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tautos",
+      "rationale": "Tautų sąrašas — skirstymo pagal kalbą ir giminę apskaita."
+    },
+    {
+      "kind": "substitution",
+      "subject": "salos",
+      "rationale": "איי reiškia gyvenamus pakraščius, pakrantes — ne tik salas."
+    }
+  ],
+  "translation": "Iš šių išsiskyrė salos tautų savo žemėse, kiekvienas pagal savo kalbą, pagal savo gimines savo tautose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/10\/5-8.1792471132008.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "iš šių"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "išsiskyrė"
+    },
+    {
+      "surface": "איי",
+      "gloss": "salos"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "savo žemėse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "pagal savo kalbą"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal savo gimines"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "savo tautose"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:52.009698513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחמת קרי",
+      "rationale": "„Bakeri rūstybe”: KJV „contrary unto you also in fury” perkelia „contrary” prie jūsų; hebrajiškai קרי eina po חמה — „priešiško susidūrimo įniršiu”."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבע",
+      "rationale": "„Septynis kartus” — septyneriopos bausmės skaičius, kartojamas visame įspėjime."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "Jahvės grasinimas toliau kreipiamas į Jisraelį."
+    }
+  ],
+  "translation": "tai aš eisiu su jumis bakeri rūstybe — priešiškai įtūžęs, ir bausiu ⟨את⟩ jus — netgi aš — septynis kartus už jūsų nuodėmes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3830eb8310ff9e447861bfff6904fe62b47c0408b847f80a38e745439a81eeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/25-28.1792473824949.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ir eisiu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "su jumis"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "rūstybe"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "bakeri — priešiškai"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ir bausiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "אף",
+      "gloss": "netgi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septynis kartus"
+    },
+    {
+      "surface": "על",
+      "gloss": "už"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "jūsų nuodėmes"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:44.952398066Z",
+  "model": "glm-5.3"
+}

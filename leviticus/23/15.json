@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "omerų skaičiavimas",
+      "rationale": "omerų skaičiavimas — 49 dienų skaičiavimas nuo pirmųjų vaisių dienos"
+    },
+    {
+      "kind": "crux",
+      "subject": "השבת",
+      "rationale": "'šabatas' vs 'savaitė' — JPS verčia 'savaitė', bet žodis yra שבת"
+    },
+    {
+      "kind": "addition",
+      "subject": "jos bus",
+      "rationale": "תהיינה — veiksmažodis 'būti' išlaikytas, ne tik kopula"
+    }
+  ],
+  "translation": "Ir suskaičiuosite sau nuo rytojaus po šabato, nuo dienos, kai atnešėte ⟨את⟩ pakeliamos aukos omerą, septynis šabatus — jos bus pilnos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/13-16.1792473685210.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "Ir suskaičiuosite"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sau"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nuo rytojaus"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "po šabato"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "nuo dienos"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "kai atnešėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerą"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omerą"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "pakeliamos aukos"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "šabatus"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "pilnos"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "jos bus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:25.213644481Z",
+  "model": "glm-5.3"
+}

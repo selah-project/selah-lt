@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cheremas",
+      "rationale": "חרם — pašventintas sunaikinimui daiktas ar žmogus; paliktas transliteruotas, nes 'atidėtas' praranda ban-o reikšmę"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Infinitivus absolutus — 'mirtimi jis mirs' — intencijos stiprinimas, hebrajiškas kartojimas išlaikytas"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן האדם",
+      "rationale": "Ar 'iš žmonių' reiškia 'tarp žmonių (devotyvų)' ar 'žmogaus pašvęstas' — verčiančiai skiriasi"
+    }
+  ],
+  "translation": "Visas cheremas, kuris bus pašvęstas iš žmonių, nebus išpirktas — mirtimi jis mirs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "10c97ef5f91d3e1d6ce446cff8e1a98a9fde738e0b6f34d97ea573bc558411ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/29-32.1792473785234.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cheremas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "bus pašvęstas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bus išpirktas"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mirs"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:05.235112942Z",
+  "model": "glm-5.3"
+}

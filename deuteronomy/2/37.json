@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 2:37",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kraštas",
+      "rationale": "יד reiškia „ranka, pusė, kraštas“ — upės „ranka“ yra jos pakraštys"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mums nesiaiartinti⟩",
+      "rationale": "hebraiškai sakinys nutrūksta ties „ko Jahvė įsakė“ — pridėta siekiant aiškumo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko Jahvė įsakė",
+      "rationale": "צוה čia verčiamas „uždraudė“ (KJV, ASV) arba „įsakė“ — hebraiškai žodis dviprasmis be prielinkio"
+    }
+  ],
+  "translation": "Tik prie žemės vaicų Amono tu nesiaiartinai — prie visos Jboko upės pakraščio, prie kalno miestų ir prie visko, ko Jahvė, mūsų Elohim, įsakė ⟨mums nesiaiartinti⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13ad7458f275b8ad4a0186845bf907525349d2aab6d24a08d5d7dc4dc229c297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/2\/37-37.1792474808310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "tik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaicų"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "nesiaiartinai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "יד",
+      "gloss": "krašto"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "upės"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jboko"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ir miestų"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:08.312113470Z",
+  "model": "glm-5.3"
+}

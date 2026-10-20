@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 2:7",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח paliekamas kaip ruach — vėjas, kvapas, dvasia viename žodyje, ne verčiama"
+    },
+    {
+      "kind": "crux",
+      "subject": "האמר",
+      "rationale": "neaišku, ar klausia pats Jaakovas, ar pranašas cituoja jo žodį; JPS ir KJV skiriasi"
+    }
+  ],
+  "translation": "Ar sakoma namo Jaakovo: ar Jahvės ruach sutrumpėjo? Ar tokie jo darbai? Ar ne mano žodžiai daro gera einančiajam tiesiai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/2\/5-8.1792486762733.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמור",
+      "gloss": "ar sakoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "ar sutrumpėjo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ar"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tokius"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "jo darbai"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mano žodžiai"
+    },
+    {
+      "surface": "ייטיבו",
+      "gloss": "daro gera"
+    },
+    {
+      "surface": "עם",
+      "gloss": ""
+    },
+    {
+      "surface": "הישר",
+      "gloss": "einančiajam tiesiai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-20T08:59:22.735500184Z",
+  "model": "glm-5.3"
+}

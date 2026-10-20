@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeš",
+      "rationale": "נפש — 'gerklė, gyvybės jėga', ne 'siela'; paliktas skambesys nefeš"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלצי",
+      "rationale": "'išsitrakę ginkluotieji' arba 'pabėgėliai'; čia pasirinkti ginkluotieji"
+    }
+  ],
+  "translation": "Ir Чешbonas rėkia, ir Elalė — iki Jaho nuskamba jų balsas; todėl Moabo ginkluotieji šauks, jo nefeš aimanuos savyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/15\/1-4.1792480928120.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "Ir rėkia"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hešbonas"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "ir Elalė"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "Jahas"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "nuskamba"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "jų balsas"
+    },
+    {
+      "surface": "על",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "ginkluotieji"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabo"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "šauks"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jo nefeš"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "aimanuos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "savyje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:08.122055476Z",
+  "model": "glm-5.3"
+}

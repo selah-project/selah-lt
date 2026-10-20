@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ištyrinėk mane",
+      "rationale": "maldos kvietimas — psalmininkas pats kviečia būti ištirtas"
+    },
+    {
+      "kind": "you",
+      "subject": "El",
+      "rationale": "tiesioginis kreipimasis į El"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ir pažink \/ ir pažink",
+      "rationale": "paralelinė struktūra: du imperatyvai 'pažink' simetriškai dengia širdį ir sumanymus"
+    }
+  ],
+  "translation": "Ištyrinėk mane, El, ir pažink mano širdį; išbandyk mane ir pažink mano sumanymus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/21-24.1792489279022.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ištyrinėk mane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ir pažink"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mano širdį"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "išbandyk mane"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ir pažink"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mano sumanymus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:19.023167245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדנינו \/ אדיר",
+      "rationale": "אדנינו ir אדיר — aliteracija, lietuviškai dingsta"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė",
+      "rationale": "Tiesioginis kreipimasis į Jahvę — psalmėsRefrenas"
+    }
+  ],
+  "translation": "Jahvė, Adonai ⟨mūsų⟩, koks didingas Tavo vardas visoje žemėje!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/8\/9-10.1792487463467.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai mūsų"
+    },
+    {
+      "surface": "מה",
+      "gloss": "koks"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "didingas"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Tavo vardas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoj"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:03.468893663Z",
+  "model": "glm-5.3"
+}

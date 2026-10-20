@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתן את קלו",
+      "rationale": "pažodžiui 'ir davė savo balsą verkiant' — hebrajiškas idiomas garsiai raudoti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרים",
+      "rationale": "čia daugiskaita 'micraiciečiai', ne šalis — 'Micraimas' išlaiko vieną formą"
+    }
+  ],
+  "translation": "Ir jis atidavė ⟨את⟩ savo balsą raudodamas; išgirdo Micraimas, ir išgirdo Faraono namai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/45\/1-4.1792472045401.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ir atidavė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo balsą"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "savo balsą"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "raudodamas"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimas"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ir išgirdo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraono"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:05.409119151Z",
+  "model": "glm-5.3"
+}

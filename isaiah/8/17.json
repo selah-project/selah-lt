@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "hebrajų veiksmažodžio galūnė -ti reiškia 'aš', lietuvių formoje įtraukta į žodį, bet 'aš' atskira pridėta pabrėžti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכיתי \/ קויתי",
+      "rationale": "du skirtingi 'laukti' veiksmažodžiai vienoje eilutėje — paralelizmas, lietuviškai 'lauksiu' ir 'viliuosi'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "veidas slepiamas",
+      "rationale": "Dievo veido slėpimas — paslėptas, atimtas artumas, tylos laukimas"
+    }
+  ],
+  "translation": "Ir aš lauksiu Jahvės, kuris slepia savo veidą nuo Jaakovo namų, ir viliuosi ⟨juo⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/17-20.1792480688329.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "ir aš lauksiu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "kuris slepia"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savo veidą"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nuo namų"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "ir viliuosi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨juo⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:08.330436704Z",
+  "model": "glm-5.3"
+}

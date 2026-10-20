@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 22:21",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šešėties gimines",
+      "rationale": "שבט yra lazdą reiškiantis žodis; čia perduota kaip 'giminė' — lazdos paveikslas lieka 'šešėties' parinkimu netikslus"
+    },
+    {
+      "kind": "elision",
+      "subject": "šebet",
+      "rationale": "hebrajų šaknis reiškia ir 'lazdą', ir 'giminę'; lietuvių kalboje reikėjo pasirinkti vieną"
+    }
+  ],
+  "translation": "Ir atsakė Rubeno sūnūs ir Gado sūnūs ir pusė Menašo šešėties gimines ir kalbėjo ⟨את⟩ tūkstančių viršininkams Jisraelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d7c6113e30e2aca05a37a7e7b5adb3239d3de7b4aad33665e3f1dfc8594ba001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/22\/21-24.1792476182565.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubeno"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ir sūnūs"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gado"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ir pusė"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "šešėties gimines"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menašo"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ir kalbėjo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tūkstančių viršininkams"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "viršininkams"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tūkstančių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:03:02.566792213Z",
+  "model": "glm-5.3"
+}

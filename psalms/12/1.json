@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "šminit — greičiausiai ašmiastygė ar grojimas aštuntąja gaida; tikslus reikšmės nežinoma"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ą⟩",
+      "rationale": "Lietuvių kalbai reikalinga linksnio galūnė, hebrajų jos neturi"
+    }
+  ],
+  "translation": "Choro vadovui, pagal šminit⟨ą⟩, mizmoras Davidui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/12\/1-4.1792487515353.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "choro vadovui"
+    },
+    {
+      "surface": "על",
+      "gloss": "pagal"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "šminit⟨ai⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:55.354114657Z",
+  "model": "glm-5.3"
+}

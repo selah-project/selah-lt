@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — lietuvių kalbai reikia ⟨yra⟩ tarp 'jauniklis' ir 'Jehuda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lionė",
+      "rationale": "לביא — pati leisktesnė liūtė; veikiau 'liūtė' nei 'senas liūtas' (KJV)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kas jį prikels?",
+      "rationale": "Ritorinis klausimas kreipiasi į klausytoją — niekas nedrįsta prikelti gulinčio liūto."
+    }
+  ],
+  "translation": "Lionų jauniklis yra Jehuda; nuo grobio, mano sūnau, tu užlipai; jis sulenkė kelius, atsigulė kaip liūtas ir kaip lionė — kas jį prikels?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/9-12.1792472079111.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "jauniklis"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "liūtas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "nuo grobio"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mano sūnau"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "tu užlipai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "jis sulenkė kelius"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "atsigulė"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kaip liūtas"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "ir kaip lionė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "jį prikels"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:39.120140188Z",
+  "model": "glm-5.3"
+}

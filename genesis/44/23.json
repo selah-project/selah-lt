@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "su jumis",
+      "rationale": "Hebrajų אתכם čia prielinksnis „su jumis“ (H854), ne tiesioginio objekto žymeklis את (H853)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "nebepridėsite matyti",
+      "rationale": "Literaturinis verčiama „nebegalėsite matyti“; paliktas hebrajų veiksmas „pridėti prie“ (יסף)."
+    }
+  ],
+  "translation": "Ir tu pasakei savo tarnams: Jei jūsų mažasis brolis nenusileis ⟨את⟩ su jumis, jūs nebepridėsite matyti mano veido.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/44\/21-24.1792471913756.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ir tu pasakei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "savo tarnams"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tarnams"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nusileis"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų brolis"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mažasis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "jūs nebepridėsite"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "matyti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mano veido"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:53.760935799Z",
+  "model": "glm-5.3"
+}

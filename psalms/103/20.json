@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברכו",
+      "rationale": "ברכו יהוה tradiciškai 'teviešpatauja' \/ 'laimina' — bet Vardo draudimas verčia į perifrazę 'Laukite dovanų' arba tiesiogiai 'Garbinkite'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו\/דברו",
+      "rationale": "tą patį žodį דברו — 'jo žodis' ir 'jo žodis' — kartojama kaip chiazminis rėmas, dvigubas paminėjimas paryškina"
+    }
+  ],
+  "translation": "Laukite dovanų, Jahvės angelai, galiūnai, jo žodžio vykdytojai, kurie klausia jo žodžio balso!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/103\/17-20.1792488796592.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Laukite dovanų"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "jo angelai"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "galiūnai"
+    },
+    {
+      "surface": "כח",
+      "gloss": " galiūnai — galios"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "vykdytojai"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jo žodžio"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kurie klausia"
+    },
+    {
+      "surface": "בקול",
+      "gloss": " balsą"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jo žodžio"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:16.593502507Z",
+  "model": "glm-5.3"
+}

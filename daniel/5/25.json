@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנא תקל פרסין",
+      "rationale": "Keturios neaiškios pelėškinės žodžių nuorodos: מנא 'suskaityta', תקל 'pasverta', פרסין 'padalyta' — lietuviškai transkribuojama, prasmės atskleidžiamos 26–28 eilutėse."
+    },
+    {
+      "kind": "mystery",
+      "subject": "raštas ant sienos",
+      "rationale": "Užrašas iki šios eilutės yra nuspėjamas, per Danieliaus aiškinimą atskleidžiamas."
+    }
+  ],
+  "translation": "Ir šis ⟨yra⟩ užrašymas, kuris užrašytas: MENE, MENE, TEKEL, U-PARSIN.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/5\/25-28.1792491732247.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Ir šis"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "užrašymas"
+    },
+    {
+      "surface": "די",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "užrašytas"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (suskaityta)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (suskaityta)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (pasverta)"
+    },
+    {
+      "surface": "ופרפרסין",
+      "gloss": "U-PARSIN (ir padalyta)"
+    }
+  ],
+  "timestamp": "2026-10-20T10:22:12.247635541Z",
+  "model": "glm-5.3"
+}

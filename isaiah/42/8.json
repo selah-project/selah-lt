@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų predikatas הוא שמי neturi veiksmažodžio; lietuvių kalbai reikia 'yra'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "׃הוא שמי׃ — 'tai mano vardas' arba loginis predikatas 'jis [yra] mano vardas'"
+    }
+  ],
+  "translation": "Aš — Jahvė, toks ⟨yra⟩ mano vardas, ir savo šlovės kitam neduosiu, nei savo pagyrų iškaltiems stabams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/42\/5-8.1792481460538.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "toks"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mano vardas"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ir savo šlovės"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "kitam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neduosiu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "duosiu"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "nei savo pagyrų"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "iškaltiems stabams"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:00.542404947Z",
+  "model": "glm-5.3"
+}

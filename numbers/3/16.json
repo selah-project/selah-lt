@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "surašymas",
+      "rationale": " surašymo įvykdymas — skaičiavimo veiksmas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jam⟩",
+      "rationale": "pasyvas be veikėjo — lietuvių reikalauja konteksto, hebrajiškas be subjekto."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פי יהוה",
+      "rationale": "'pagal Jahvės burną' — idiomatiškas 'Jahvės žodžiu', prarandama burnos-image."
+    }
+  ],
+  "translation": "Ir Mošė juos suskaičiino ⟨את⟩ pagal Jahvės žodį, kaip ⟨jam⟩ buvo įsakyta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/13-16.1792473906847.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ir suskaičiino"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "Mošė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "על",
+      "gloss": "pagal"
+    },
+    {
+      "surface": "פי",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buvo įsakyta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:25:06.848520781Z",
+  "model": "glm-5.3"
+}

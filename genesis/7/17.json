@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laivą",
+      "rationale": "תבה yra „skrynia, dėžė“ — čia išlaikytas „laivas“ kaip suprantamas vaizdas, bet žodis reiškia dėžę"
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturiasdešimt dienų",
+      "rationale": "tvanas išmatuotas laiku — keturiasdešimt dienų"
+    }
+  ],
+  "translation": "Ir buvo tvanas keturiasdešimt dienų ant žemės, ir padaugėjo vandens, ir pakėlė ⟨את⟩ laivą, ir ji pakilo nuo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ddb23997888ca2d933c65acc8d0e438d0dbaaf5007e29b5e40cedd0ed83f7c1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/7\/17-20.1792471103606.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "tvanas"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "keturiasdešimt"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ir padaugėjo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vanduo"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ir pakėlė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laivą"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "laivą"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "ir pakilo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:23.607922453Z",
+  "model": "glm-5.3"
+}

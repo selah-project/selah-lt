@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajiškas sakinys be veiksmažodžio — pridėta sąsaja"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Dievo save-paskelbimas, kreipimasis į tautą antruoju asmeniu"
+    }
+  ],
+  "translation": "Aš ⟨esu⟩ Jahvė, jūsų Šventasis, Jisraelio Kūrėjas, jūsų karalius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/13-16.1792481466224.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "jūsų Šventasis"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Kūrėjas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "jūsų karalius"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:06.232674691Z",
+  "model": "glm-5.3"
+}

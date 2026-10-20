@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mano teismas",
+      "rationale": "משפטי — „teismas \/ mano teisė \/ atlygis“; vertėjai svyruoja tarp „teisingumas“, „rekompenza“ ir „teismo byla“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — lietuvių kalbai reikalinga kopula."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לתהו והבל",
+      "rationale": "„Niekui ir tuštybei“ — Pr 1, 2 žodis תהו kartojamas čia, kosminės tuštumos atgarsys."
+    }
+  ],
+  "translation": "O aš tariau: tuščiai varijau, niekui ir tuštybei savo jėgą sunaudojau; bet iš tiesų mano teismas ⟨yra⟩ pas Jahvę ⟨את⟩ ir mano darbas ⟨yra⟩ ⟨את⟩ pas Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/49\/1-4.1792481671497.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "O aš tariau"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tariau"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "tuščiai"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "varijau"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "niekui"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ir tuštybei"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "savo jėgą"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "sunaudojau"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "bet iš tiesų"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "pas Jahvę"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ir mano darbas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "pas Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:31.500835138Z",
+  "model": "glm-5.3"
+}

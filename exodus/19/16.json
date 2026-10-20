@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų ויהי parodo tik įvykį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קלת",
+      "rationale": "Dažnas „griaustiniai“; pažodžiui „garsai \/ balsai“ — neišskirta, ar tai perkūnija."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבד",
+      "rationale": "„Sunkus debesis“ — pažodžiui; tradiciškai „tankus“, bet žodžio forma reiškia svorį."
+    }
+  ],
+  "translation": "Ir įvyko trečią dieną, auštant rytui: ⟨buvo⟩ garsų ir žaibų, ir sunkus debesis ant kalno, ir labai galingas šofaro garsas — ir visa tauta, kuri ⟨buvo⟩ stovykloje, sudrebėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/19\/13-16.1792472562504.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "trečią"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "auštant"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rytui"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "garsų"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "ir žaibų"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ir debesis"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sunkus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ir garsas"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "šofaro"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "galingas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ir sudrebėjo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "stovykloje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:02:42.507987208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeshą",
+      "rationale": "נפש — gerklė, gyvybės jėga, ne 'siela' viena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תגעל נפשכם",
+      "rationale": "Pažodžiui: 'jūsų nefesh gėsis mano teismų' — veiksnys yra nefesh, ne žmogus"
+    }
+  ],
+  "translation": "ir jei atstumsite mano įstatus, ir jei jūsų nefeshą ves pasišlykštėjimą mano teismais, kad nedarytumėte ⟨את⟩ visų mano įsakymų, pažeisdami ⟨את⟩ mano sandorą,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/13-16.1792473742329.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "mano įstatus"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "atstumsite"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano teismus"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismus"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "pasišlykštės"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jūsų nefecha"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "darytumėte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visų įsakymų"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mano įsakymų"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "pažeisdami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano sandorą"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mano sandorą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:22:22.332328771Z",
+  "model": "glm-5.3"
+}

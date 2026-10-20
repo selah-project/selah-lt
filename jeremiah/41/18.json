@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 41:18",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "krašte",
+      "rationale": "הארץ su artikeliu — 'žemė (Jehudos)'; lietuvių kalba artikelio neturi, konteksto genitivas praleistas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "išmušė",
+      "rationale": "הכה — 'smogė, nukovė'; verčiama 'nužudė' prarintų smūgio vaizdą"
+    }
+  ],
+  "translation": "Dėl baimės prieš kasdus, nes jie bijojo jų, nes išmušė Yišmaelis, Netanijos sūnus, ⟨את⟩ Gedaliją, Ahikamo sūnų, kurį Babilono karalius paskyrė krašte.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dc3d59b32113eb5938a97e0d2f888181af5d09091af49c40481e967a30cec3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/41\/17-18.1792483232192.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "dėl baimės prieš"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "jie bijojo"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "išmušė"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yišmaelis"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Netanijos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaliją"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaliją"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "paskyrė"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "krašte"
+    }
+  ],
+  "timestamp": "2026-10-20T08:00:32.193647641Z",
+  "model": "glm-5.3"
+}

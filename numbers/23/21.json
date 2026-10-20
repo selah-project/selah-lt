@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 23:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šiose dalyse"
+    },
+    {
+      "kind": "crux",
+      "subject": "karaliaus šauksmas jame",
+      "rationale": "תרועת מלך: 'trimitų šauksmas karaliaus garbei', 'kovos šūksis dėl karaliaus' arba 'Karaliaus (Jahvės) šauksmas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "niekybė",
+      "rationale": "און — tuštybė, niekis, nedorybė; vienas žodis, kelios reikšmės"
+    }
+  ],
+  "translation": "Nežiūrėjo niekybės Jaakove ir nematė vargo Jisraelyje; Jahvė, jo Elohim, ⟨yra⟩ su juo, ir karaliaus šauksmas ⟨yra⟩ jame.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/21-24.1792474451940.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "žiūrėjo"
+    },
+    {
+      "surface": "און",
+      "gloss": "niekybės"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakove"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "matė"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vargo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jo Elohim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "ותרועת",
+      "gloss": "ir šauksmas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:11.941862252Z",
+  "model": "glm-5.3"
+}

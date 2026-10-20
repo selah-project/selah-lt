@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 17:2",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tapo",
+      "rationale": "hebrajų קדשו — tik veiksmažodis 'pašventėjo', lietuviškai reikia jungties 'tapo'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elazarui",
+      "rationale": "Jahvės įsakymas Mošei, nukreiptas per jį į Elazarą — imperatyvai 'sakyk', 'išbarstyk'"
+    }
+  ],
+  "translation": "Sakyk Elazarui, Aharono sūnui, kunigui, kad jis pakeltų ⟨את⟩ degiklius iš deginimo, o ⟨את⟩ ugnį išbarstyk tolyn, nes jie tapo šventi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b5da26360a945fd7992151829cae0f5a7680ee15e79b9f555b642e45e3529033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/17\/1-4.1792474274031.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Sakyk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ui"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigui"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "kad jis pakeltų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "degiklius"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "degiklius"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השרפה",
+      "gloss": "deginimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "o ⟨את⟩",
+      "marks": "ugnį"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ugnį"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "išbarstyk"
+    },
+    {
+      "surface": "הלאה",
+      "gloss": "tolyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jie tapo šventi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:31:14.035028144Z",
+  "model": "glm-5.3"
+}

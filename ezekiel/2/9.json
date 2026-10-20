@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — pridėta lietuviška kopula"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ritinys-knyga",
+      "rationale": "užantspauduotas turinys atskleidžiamas tik kitame skyriuje — tekstas tyčia sulaiko"
+    },
+    {
+      "kind": "you",
+      "subject": "pranašui Ezechielui",
+      "rationale": "ranka ištiesta tiesiogiai pas pranašą"
+    }
+  ],
+  "translation": "Ir aš mačiau, ir štai ranka ištiesta pas mane, ir štai joje ⟨buvo⟩ ritinys-knyga.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/2\/9-10.1792483822864.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "Ir aš mačiau"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "ištiesta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "joje"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "ritinys-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "-knygos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:10:22.865128281Z",
+  "model": "glm-5.3"
+}

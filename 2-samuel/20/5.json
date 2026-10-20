@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "uždelgo",
+      "rationale": "וייחר iš šaknies יחר — 'užsidegė\/sukaito iš pykčio' arba 'uždelgo'; beveik visi vertėjai renkasi 'uždelgo', nes kontekstas — vėlavimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "yra paskyręs",
+      "rationale": "יעדו — veiksmo atlikėjas neaiškus: karalius (Davidas, 20,4) ar pats Amasa; hebrajų kalba veikiausiai numato karalių."
+    }
+  ],
+  "translation": "Ir Amasa nuėjo sušaukti ⟨את⟩ Judą, bet uždelgo nuo nustatyto laiko, kurį jam buvo paskyręs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37c375390d490137a261c74d7a2bf97bf67799cf8be37d213a59617bfbef0b3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/20\/5-8.1792478566929.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ir nuėjo"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "sušaukti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judą"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judą"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "bet uždelgo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "nustatyto laiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "jam buvo paskyręs"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:46.930458377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "čia את yra prielinksnis „su“, ne veiksnio žymeklis, bet ⟨את⟩ išlaikomas sąmoningai"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kvietimas",
+      "rationale": "pranašas kviečia Elohim žmogų namo — du kartus"
+    }
+  ],
+  "translation": "Ir tarė jam: Eik ⟨את⟩ su manimi namo, ir valgyk duonos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c4e5f6c754fd64b5bd21bc3c9075610c4185ac95633862d863ad3869e7d0d497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/13\/13-16.1792479316600.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Eik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "su manimi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "namo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ir valgyk"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:16.601690783Z",
+  "model": "glm-5.3"
+}

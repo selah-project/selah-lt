@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלאכי",
+      "rationale": "Vardas Malachis skamba kaip 'mano pasiuntinys' — pranašo knygos pavadinime glūdi žodžio žaismas, lietuvių kalboj prarandamas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨per⟩",
+      "rationale": "Lietuvių reikalauja prielinksnio, hebrajų turi tik יד 'ranka'."
+    }
+  ],
+  "translation": "Jahvės žodžio našta Jisraeliui ⟨per⟩ Malachio ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/1\/1-4.1792487312218.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "našta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodžio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨per⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Malachio ranką"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:08:32.219721405Z",
+  "model": "glm-5.3"
+}

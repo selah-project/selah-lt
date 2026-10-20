@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 28:21",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia pagalbinio veiksmažodžio, hebrajų jo nėra"
+    },
+    {
+      "kind": "mystery",
+      "subject": "išmintis",
+      "rationale": "Išmintis slapta net paukščiams padangėse — neįmanoma rasti žemės akimis"
+    }
+  ],
+  "translation": "Ir ji pasislėpė nuo viso gyvojo akių, ir nuo padangės paukščių ⟨yra⟩ paslėpta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/28\/21-24.1792490472631.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעלמה",
+      "gloss": "pasislėpė"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nuo akių"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvojo"
+    },
+    {
+      "surface": "ומעוף",
+      "gloss": "ir nuo paukščių"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "padangės"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "paslėpta"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:12.631826429Z",
+  "model": "glm-5.3"
+}

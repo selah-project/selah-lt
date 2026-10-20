@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם",
+      "rationale": "Prisaikdinamoji 'im' — ne sąlyga, o priesaika: 'te taip ir atsitiks, jei...' — lietuviškai prieštaraujantis ⟨ne⟩ pridėtas pabaigoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זבח",
+      "rationale": "'zevach' — skerdimas, auginė auka, ne bendras 'auka'"
+    }
+  ],
+  "translation": "Ir todėl prisiekiau Eli namams: jei Eli namų kaltė bus permaldauta auka ir mincha — per amžius, ⟨ne⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/3\/13-16.1792477030120.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisiekiau"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namams"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "bus permaldauta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaltė"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "auja"
+    },
+    {
+      "surface": "ובמנחha",
+      "gloss": "ir mincha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "per"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:10.122223953Z",
+  "model": "glm-5.3"
+}

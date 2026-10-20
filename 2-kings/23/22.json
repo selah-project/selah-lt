@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "lietuvių reikalauja pagalbinio veiksmažodžio būdvardiniam tariniui"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dienos",
+      "rationale": "eiliutė skaičiuoja epochas — teisėjų ir karalių dienas — nustatydama pesacho istorinę ribą"
+    }
+  ],
+  "translation": "Nes nebuvo atliktas toks pesachas nuo teisėjų, teisusių ⟨את⟩ Jisraelį, dienų, ir visą Jisraelio karalių bei Jehudos karalių dienų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dcc52fec3e30481b0c2731ddf6d4f0f55692e91947f5ae5056c1105481484ee9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/21-24.1792480435807.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "atliktas"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "toks pesachas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toks"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "nuo dienų"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "teisėjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "teisusių"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visą"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "bei karalių"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:13:55.809536552Z",
+  "model": "glm-5.3"
+}

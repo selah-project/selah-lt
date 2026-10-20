@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tik žodis lūpų",
+      "rationale": "אך דבר שפתים: 'tik lūpų žodis (tušti žodžiai)' (JPS, ASV) vs KJV 'sakai tu, bet tai tušti žodžiai' — kas sako šį sakinį, asiriečių pasiuntinys ar cituojamas Chizkijus"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame nėra žodžio 'būti' — bevardė giminė pridedama"
+    },
+    {
+      "kind": "you",
+      "subject": "Chizkijui",
+      "rationale": "Rašakė kalba apie Judėjos karalių Chizkijahu per jo dvariškius"
+    }
+  ],
+  "translation": "Pasakiau: tik žodis lūpų! — patarimas ir jėga ⟨yra⟩ karui. Dabar, ant ko tu pasikliauji, kad sukilai prieš mane?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/5-8.1792481418313.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "pasakiau"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lūpų"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "patarimas"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ir jėga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "karui"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "tu pasikliauji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "sukilai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prieš mane"
+    }
+  ],
+  "timestamp": "2026-10-20T07:30:18.314398019Z",
+  "model": "glm-5.3"
+}

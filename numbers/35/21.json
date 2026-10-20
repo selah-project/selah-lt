@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 35:21",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio su הוא — pridėta kopula"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "Nekartojimas: pažodžiui 'mirtimi mirs' — Hebėjų kalbos teisinė formulė, išlaikyta žodžiais"
+    },
+    {
+      "kind": "crux",
+      "subject": "kraujo giminaitis",
+      "rationale": "גאל הדם: 'kraujo giminaitis' (globėjas) prieš 'kraujo keršytojas' — giminystės institutas, ne keršto pareiga"
+    }
+  ],
+  "translation": "Arba iš priešiškumo smogė jį savo ranka, ir jis mirė — mirtimi mirs jį smogęs, žmogžudys jis ⟨yra⟩; kraujo giminaitis nužudys ⟨את⟩ žmogžudį, kai jį sutiks.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bdd8c644fad36ce41f98d9479f9d887ccdac00f137ad5feb9e624028befd6d2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/21-24.1792474770633.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "באיבה",
+      "gloss": "iš priešiškumo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "smogė jį"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "savo ranka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ir jis mirė"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mirs"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "jį smogęs"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "žmogžudys"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "giminaitis"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "nužudys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmogžudį"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žmogžudį"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "kai jį sutiks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:39:30.634910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 15:37",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ėjo",
+      "rationale": "JPS skaito netobulinamąjį 'was at the point of coming'; hebrajų יבא yra imperfektas — 'ateina \/ ėjo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨į⟩",
+      "rationale": "hebrajiškas prielinksnis prie יבא numanomas, lietuvių kalba reikalauja 'į'"
+    }
+  ],
+  "translation": "Ir atėjo Chūšis, Davido draugas, ⟨į⟩ miestą, o Avšalomas ėjo į Jerušalaimą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03d866abc018c4e79cac96fb8c30a6a637260b5549fd298280472b0403777b4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/37-37.1792478293146.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chūšis"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "draugas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "o Avšalomas"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ėjo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:13.147626901Z",
+  "model": "glm-5.3"
+}

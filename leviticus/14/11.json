@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "susitikimo palapinė",
+      "rationale": "אהל מועד — pažodžiui 'paskirtojo laiko palapinė'; 'susitikimo palapinė' — priimta, bet laiko aspektas prarandamas"
+    }
+  ],
+  "translation": "Ir kunigas, atliekantis apvalymą, pastatys žmogų, kuris apvalomas, ir ⟨את⟩ juos priešais Jahvę, prie įėjimo į susitikimo palapinę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/9-12.1792473379031.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ir pastatys"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "atliekantis apvalymą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmogų, kuris apvalomas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "žmogų"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "kuris apvalomas"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ir ⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "prie įėjimo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susitikimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:19.033888390Z",
+  "model": "glm-5.3"
+}

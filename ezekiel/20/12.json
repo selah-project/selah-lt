@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 20:12",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba „aš Jahvė“ be kopulos; lietuvių kalbai pridėta „esu“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šabatus",
+      "gloss": "שבת — šabat, ne „šeštadienis“ nei „poilsio diena“; tai vardas"
+    }
+  ],
+  "translation": "Ir taip pat ⟨את⟩ savo šabatus daviau jiems, kad jie būtų ženklu tarp manęs ir tarp jų, kad pažintų, jog aš esu Jahvė, juos pašventinąs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/9-12.1792484283967.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ir taip pat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo šabatus"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "savo šabatus"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kad būtų"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ženkle"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "ir tarp jų"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kad pažintų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jog"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "juos pašventinąs"
+    }
+  ],
+  "timestamp": "2026-10-20T08:18:03.968676235Z",
+  "model": "glm-5.3"
+}

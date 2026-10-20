@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Arameų kalboje nėra veiksmažodžio „būti“; lietuvių kalba reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "אלה yra aramėjiškas Dievo vardas, išlaikomas kaip Eloah, neverčiamas „Dievas“"
+    },
+    {
+      "kind": "you",
+      "subject": "Danielas Nebukadnecarui",
+      "rationale": "Tiesioginis kreipimasis į karalių"
+    }
+  ],
+  "translation": "Tu, karaliau, karalių karaliau ⟨esi⟩: dangaus Eloah tau davė karalystę, galią, jėgą ir šlovę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b048f3ce3e136ccdc75a7bf5a9f673b704c205c1c898a28b998571226e0955f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/2\/37-40.1792491646154.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karaliau"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨nes⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "karalystę"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "galią"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "jėgą"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir šlovę"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "davė"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T10:20:46.155189888Z",
+  "model": "glm-5.3"
+}

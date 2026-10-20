@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pasyvioji išraiška reikalauja „yra“ lietuviškai."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא עון",
+      "rationale": "Pažodžiui „pakelti kaltę“ — nuodėmė „pakeliama ir nunešama“; lietuviškai „atleista nuo kaltės“."
+    }
+  ],
+  "translation": "Ir gyventojas nesakys: aš sergu; tauta, gyvenanti joje, ⟨yra⟩ atleista nuo kaltės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/33\/21-24.1792481321036.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "gyventojas"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "aš sergu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "gyvenanti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atleista"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nuo kaltės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:41.037934067Z",
+  "model": "glm-5.3"
+}

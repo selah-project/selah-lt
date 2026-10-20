@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב",
+      "rationale": "Literally 'heel' used adverbially ('because \/ as a consequence of'), the heel-word from Jacob's birth narrative; lost in translation."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toras",
+      "rationale": "תורתי rendered as 'Toros', not 'įstatymai', per discipline: Tora keeps its name."
+    }
+  ],
+  "translation": "Kad Avrahamas klausė mano balso ir saugojo mano sargybą, mano įsakymus, mano įstatymus ir mano Toras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a9b5516e22a76ea7d63090255b3a608da741e8ed80e150d13c49b1059b8eacfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/26\/5-8.1792471457328.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausė"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "mano balso"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ir saugojo"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mano sargybą"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mano įsakymus"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mano įstatymus"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ir mano Toras"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:17.329596428Z",
+  "model": "glm-5.3"
+}

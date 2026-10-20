@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנספה",
+      "rationale": "'suimtas\/surištas' – vertėjai skiriasi: 'priklausęs prie jų', 'pagautas', 'prijungtas'"
+    }
+  ],
+  "translation": "Kiekvienas, kuris bus surastas, bus perdurtas, ir kiekvienas, kuris bus pagautas, kris nuo kardo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f7781f639bf1de9b3f5b44ccae7bcd7a3af1804de0761600ced9aa623de2fa8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/13\/13-16.1792480769952.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kuris bus surastas"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "bus perdurtas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir kiekvienas"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "kuris bus pagautas"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kris"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nuo kardo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:29.955771382Z",
+  "model": "glm-5.3"
+}

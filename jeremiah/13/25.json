@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi sietinio — pridėta ⟨yra⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתי",
+      "rationale": "prielinksniuota aleph-tav forma, reiškia 'iš manęs'; ⟨את⟩ žymeklis išlaikomas"
+    }
+  ],
+  "translation": "Šitas yra tavo likimas, dalis tavo mato, iš ⟨את⟩ manęs, sako Jahvė, nes tu užmirsei ⟨את⟩ mane ir pasekei melu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ca8c1ed7db494c8d88084d6e18d5d07ac5ad522494543ce890fd9f6c7a65372c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/13\/25-27.1792482493603.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šitas"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "tavo likimas"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "dalis"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "tavo mato"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "iš ⟨את⟩ manęs",
+      "marks": "iš manęs — prielinksniuota את-forma su asmens priesaga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "užmirsei"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ir pasekei"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "melu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:48:13.605146511Z",
+  "model": "glm-5.3"
+}

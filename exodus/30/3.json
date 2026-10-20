@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vainikas",
+      "rationale": "זֵר — apvadas, juosta aplink viršų, ne karūna; 'vainikas' arčiausia, bet ne tiksliai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב ... סביב",
+      "rationale": "'Aplink' pakartota pradžioje ir pabaigoje — apjuosianti eilutės struktūra."
+    }
+  ],
+  "translation": "Ir apkalsi ⟨את⟩ jį grynuoju auksu — ⟨את⟩ jo viršų ir ⟨את⟩ jo sienas aplink bei ⟨את⟩ jo ragus; ir padarysi jam vainiką — auksinį, aplink.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/1-4.1792472843308.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ir apkalsi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (altorių)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "grynuoju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo viršų"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "jo viršų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sienas"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "jo sienas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplink"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo ragus"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "jo ragus"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vainiką"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksinį"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplink"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:23.310450782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 13:28",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאת → iškilimas",
+      "rationale": "Šaknis reiškia 'pakelti, iškilti'; dėmė, kuri iškilusi virš odos — vertimas 'pūlinys' būtų medicinos spėjimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "צרבת",
+      "rationale": "Reiškia 'išdegimas, uždegimas': KJV 'inflammation' vs JPS 'scar' — čia parinkta 'randas', nes kalbama apie išgydyto nudegimo pėdsaką."
+    }
+  ],
+  "translation": "O jei balkšvoji dėmė stovi savo vietoje, odoje neišplito, ir ji pablukusi — tai nudegimo iškilimas ⟨yra⟩; kunigas paskelbs jį švariu, nes tai nudegimo randas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd63a8ca935c7da5b1eaa4bb278bc3dddf288d17b0b43f95ca180a35e8d8403c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/25-28.1792473408896.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "savo vietoje"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "balkšvoji dėmė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "išplito"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "odoje"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir ji"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "pablukusi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "iškilimas"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "nudegimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai yra"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ir paskelbs švariu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "randas"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "nudegimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai yra"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:48.898678442Z",
+  "model": "glm-5.3"
+}

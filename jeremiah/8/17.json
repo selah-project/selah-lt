@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "angis",
+      "rationale": "צפענים — nuodingoji gyvatė; KJV 'cockatrices' yra klaida"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר אין להם לחש",
+      "rationale": "pažodžiui 'kurioms nėra burtažodžio' — apžavėti neįmanoma"
+    }
+  ],
+  "translation": "Nes štai aš siunčiu pas jus gyvates, angis, kurių negalima apžavėti, ir jos įgels ⟨את⟩ jus, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/8\/17-20.1792482445890.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "štai aš"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "siunčiu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "pas jus"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "gyvates"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "angis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "אין",
+      "gloss": "negalima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "joms"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "apžavėjimo"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "ir jos įgels"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:47:25.892428726Z",
+  "model": "glm-5.3"
+}

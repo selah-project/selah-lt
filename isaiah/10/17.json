@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ir … — liepsna",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'bus' ir brūkšnio — pridėta kopula, pažymėta ⟨—⟩ struktūroje"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vieną dieną",
+      "rationale": "nustatytas laikas — sunaikinimas įvyks vieną dieną"
+    }
+  ],
+  "translation": "Ir bus Jisraelio šviesa ugnimi, ir jo Šventasis — liepsna, ir užsidegs, ir suės jo dyglius bei usnis vieną dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/17-20.1792480775965.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "אור",
+      "gloss": "šviesa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "ugnimi"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "ir jo Šventasis"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "liepsna"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "ir užsidegs"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ir suės"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "jo dyglius"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "bei usnis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "vieną dieną"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:35.967833814Z",
+  "model": "glm-5.3"
+}

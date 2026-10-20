@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šohamas",
+      "rationale": "שהם — brangakmenis, spėjamas berilas; pavadinimas rašomas pagal skambesį, o ne verčiamas"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלאים",
+      "rationale": "'pilnieji akmenys' — akmenys įstatymui: 'įstatomi akmenys' vs 'akmenys su lizdu'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sąrašas",
+      "rationale": "aukų medžiagų sąrašas — dalinamoji sąrašo struktūra"
+    }
+  ],
+  "translation": "ir šohamo akmenys, ir įstatymų-akmenys efodui ir chošenui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3721dd6abfef58bb0395f9712a6065e5d96aa8062f39c472ac0101ef6a09f21f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/9-12.1792472896412.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ir akmenys"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "šohamo"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ir akmenys"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "įstatymų-"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "efodui"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ir chošenui"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:16.414177193Z",
+  "model": "glm-5.3"
+}

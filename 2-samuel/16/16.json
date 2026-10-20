@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 16:16",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tegyvuoja karalius",
+      "rationale": "יחי המלך — pažodžiui 'tegyvuoja karalius'; Chen. 'Dieve, sergėk karalių' klaidina — ne malda, o lozungas, dviprasmis Chušajo ištikimybės aktas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחי המלך ... יחי המלך",
+      "rationale": "Lozungo kartojimas — politinė akklamacija, reikšminga iš Davido draugo lūpų"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל (antrasis)",
+      "gloss": "",
+      "rationale": "Antrasis 'pas' sulietas su 'Avšalomui' dėl lietuvių linksnio"
+    }
+  ],
+  "translation": "Ir buvo, kai atėjo Chušajas arkiečio, Davido draugas, pas Avšalomą, Chušajas tarė Avšalomui: Tegyvuoja karalius, tegyvuoja karalius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/13-16.1792478317437.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chušajas"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "arkiečio"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "draugas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chušajas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avšalomui"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "tegyvuoja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "tegyvuoja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:37.441032551Z",
+  "model": "glm-5.3"
+}

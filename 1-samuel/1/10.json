@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vidaus jėga",
+      "rationale": "נפש — ne „siela“ platonikos prasme, o gyvybės jėga, alsavimas, visas vidinis žmogus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובכה תבכה",
+      "rationale": "Infinitivus absoliutus — „verkdama verkė“: veiksmažodžio kartojimas stiprina intensyvumą."
+    }
+  ],
+  "translation": "Ir ji ⟨buvo⟩ karti savo vidaus jėga, ir meldėsi Jahvei, ir verkdama verkė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/1\/9-12.1792476910776.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ir ji"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "karti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "vidaus jėga"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ir meldėsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "irk velkdama"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "verkė"
+    }
+  ],
+  "timestamp": "2026-10-20T06:15:10.777018008Z",
+  "model": "glm-5.3"
+}

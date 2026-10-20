@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Mošė kalba tiesiogiai visai bendruomenei."
+    },
+    {
+      "kind": "idiom",
+      "subject": "nešti",
+      "rationale": "נשא 'nešti, kelti' čia vaizdingai reiškia 'prižiūrėti, atsakyti už'."
+    }
+  ],
+  "translation": "Ir aš jums kalbėjau to metu, sakydamas: negaliu vienas pats nešti ⟨את⟩ jūsų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/9-12.1792474818661.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ir aš kalbėjau"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tuo metu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "galiu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vienas pats"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nešti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:18.663079015Z",
+  "model": "glm-5.3"
+}

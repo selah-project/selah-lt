@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — prakeikimo formulė be kopulos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמי",
+      "rationale": "Daugiskaita 'kraujai' verčiama vienaskaita"
+    },
+    {
+      "kind": "crux",
+      "subject": "מן האדמה",
+      "rationale": "'prakeiktas nuo žemės' arba 'atskirtas nuo žemės' — žemė kaip prakeikimo šaltinis arba atskyrimo vietos šaltinis"
+    }
+  ],
+  "translation": "Ir dabar prakeiktas tu ⟨esi⟩ nuo žemės, kuri atvėrė ⟨את⟩ savo burną priimti ⟨את⟩ tavo brolio kraują iš tavo rankos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/9-12.1792470996612.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "prakeiktas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "atvėrė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo burną"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "savo burną"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "priimti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo brolio kraują"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolio"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "iš tavo rankos"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:36.616061335Z",
+  "model": "glm-5.3"
+}

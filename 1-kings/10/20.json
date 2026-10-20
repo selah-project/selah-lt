@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dvylika liūtų, šeši laiptai",
+      "rationale": "Skaičių sąrašas — dvylika liūtų ant šešių laiptų."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jokioje",
+      "rationale": "לכל pažodžiui 'visai\/every'; su לא lietuviškai natūraliau 'jokioje'."
+    }
+  ],
+  "translation": "Ir dvylika liūtų stovėjo ten ant šešių laiptų, iš šios ir iš šios pusės; taip nebuvo padaryta jokioje karalystėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aa85a347f72d086af1caf588e5928633547ae18e6542226d11216aa440fbe02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/10\/17-20.1792479111084.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ir dvylika"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אריים",
+      "gloss": "liūtų"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šešių"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "laiptų"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš šios"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ir iš šios"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "buvo padaryta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "jokioje"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karalystėje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:51.086881934Z",
+  "model": "glm-5.3"
+}

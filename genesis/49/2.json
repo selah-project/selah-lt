@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Susirinkite ir klausykite",
+      "rationale": "tiesioginis kreipimasis į Jaakovo sūnus, pakartotas imperatyvas 'klausykite'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "prielinksnis įlietas į žodį 'paklausykite'"
+    }
+  ],
+  "translation": "Susirinkite ir klausykite, Jaakovo sūnūs, ir paklausykite Jisraelio, savo tėvo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/1-4.1792472093282.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "Susirinkite"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ir klausykite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ir paklausykite"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "⟨savo⟩ tėvo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:53.286374746Z",
+  "model": "glm-5.3"
+}

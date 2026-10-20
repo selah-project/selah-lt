@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atidengti nuogumą",
+      "rationale": "Eufemizmas, verčiamas pažodžiui."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų כי ערותך הנה — be veiksmažodžio; lietuvių kalbai reikia copula."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Tiesioginis draudimo adresas."
+    }
+  ],
+  "translation": "Tavo snaus dukters ar tavo dukters dukters nuogumo neatidengsi: jų nuogumą — nes tavasis nuogumas jos ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/9-12.1792473471373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuogumas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tavo snaus"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tavo dukters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atidengsi"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "jų nuogumą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tavasis nuogumas"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jos ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:51.375523948Z",
+  "model": "glm-5.3"
+}

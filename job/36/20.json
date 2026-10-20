@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתם",
+      "rationale": "'Po jais \/ jų vietoje' — ar tautos iškeliaujamos iš savo vietos (KJV), ar pakyla vietoj kitų (YLT)."
+    },
+    {
+      "kind": "you",
+      "subject": "Jobui",
+      "rationale": "Eilijhu tiesiogiai kreipiasi į Jobą: 'negeisk nakties'."
+    }
+  ],
+  "translation": "Negeisk nakties, kad tautos pakiltų jų vietoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/17-20.1792490688660.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "geisk"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakties"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pakiltų"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "jų vietoje"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:48.661053206Z",
+  "model": "glm-5.3"
+}

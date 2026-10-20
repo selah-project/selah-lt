@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "hebrajų veiksmažodis והרגני turi priesagą -ני (mane), bet veikėjas tik iš konteksto — įdėtas įvardėlis"
+    },
+    {
+      "kind": "you",
+      "subject": "Obadjahui kalbant su Elijahu",
+      "rationale": "tiesioginis kaltinimo klausimas antrajam asmeniui"
+    }
+  ],
+  "translation": "Ir dabar tu sakai: Eik, pasakyk savo ponui: Štai Elijahu! — ir ⟨jis⟩ mane užmuš.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/13-16.1792479530585.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sakai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pasakyk"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "savo ponui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "ir mane užmuš"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:50.586546615Z",
+  "model": "glm-5.3"
+}

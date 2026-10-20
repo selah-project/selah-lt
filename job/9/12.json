@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יחתף",
+      "rationale": "חתף „stverti, grobti“ Tanache beveik vien čia — retas, aštrus žodis."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיבנו",
+      "rationale": "„grąžins jį“ (su grobiu) arba „atšauks jį \/ sustabdys“ — vertėjai skirtingai."
+    },
+    {
+      "kind": "invitation",
+      "subject": "retoriniai klausimai",
+      "rationale": "Du klausimai atveria eilutę skaitytojui — atsakymo nėra."
+    }
+  ],
+  "translation": "Štai jis stveria — kas jį sustabdys? Kas pasakys jam: ką tu darai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/9\/9-12.1792490165671.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "stveria"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "jį sustabdys"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pasakys"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tu darai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:56:05.672681956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 23:7",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרוף ישרפו",
+      "rationale": "Būdas beveik uždraustas — infinitivus absolutus + veiksmažodis: 'sudeginti jie sudeginami' — pabrėžiantis kartojimas."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבת",
+      "rationale": "Šֶׁבֶת 'buvimo vieta' → 'vietoje' (JPS), bet tais pačiais raidėmis skaitoma 'šabat' — 'sudeginti šabatą'."
+    }
+  ],
+  "translation": "Ir vyras, kuris juos paliečia, prisisemia geležies ir ieties medžio; ir ugnimi visiškai sudeginti jie sudeginami vietoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/5-8.1792478745344.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ir vyras"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "paliečia"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juos"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "prisisemia"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "geležies"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ir medžio"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ieties"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "ir ugnimi"
+    },
+    {
+      "surface": "שרוף",
+      "gloss": "visiškai sudeginti"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "jie sudeginami"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "vietoje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:45.345961230Z",
+  "model": "glm-5.3"
+}

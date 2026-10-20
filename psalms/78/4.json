@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jų",
+      "rationale": "Įvardis pridėtas aiškinti, į ką nurodo 'מבניהם' — iš eilutės 3 perduodamus žodžius."
+    },
+    {
+      "kind": "secret",
+      "subject": "Neslėpsime",
+      "rationale": "כחד — slėpti; eilutė sąmoningai invertuoja 'mįslių' slėpimą į atskleidimą vaikams."
+    }
+  ],
+  "translation": "Neslėpsime jų nuo jų vaikų, pasakojame būsimajai kartai Jahvės šlovinimus, ir jo jėgą, ir jo stebuklus, kuriuos jis padarė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/1-4.1792488453947.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "slėpsime"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "nuo jų vaikų"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kartai"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "būsimajai"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "pasakojame"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "šlovinimus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ir jo jėgą"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ir jo stebuklus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jis padarė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:33.948538007Z",
+  "model": "glm-5.3"
+}

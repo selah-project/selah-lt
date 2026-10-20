@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 14:31",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "vartai ir miestas",
+      "rationale": "Sąsmaugos šauksmai: 'Kauk! Šauk!' — asmenintas kreipimasis į vartus ir miestą"
+    },
+    {
+      "kind": "crux",
+      "subject": "במועדיו",
+      "rationale": "'Jo paskirtaisiais laikais' vs 'jo rikiuotėje' — KJV 'appointed times' prieš ASV\/JPS 'ranks'"
+    }
+  ],
+  "translation": "Kauk, vartai! Šauk, mieste! Išsilydžia Filistija, visa tu, nes iš šiaurės ateina dūmai, ir nėra pavienio jo rikiuotėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/29-32.1792481003411.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילי",
+      "gloss": "kauk"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vartai"
+    },
+    {
+      "surface": "זעקי",
+      "gloss": "šauk"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "išsilydžia"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistija"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "visa tu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "iš šiaurės"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmai"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "pavienio"
+    },
+    {
+      "surface": "במועדיו",
+      "gloss": "jo rikiuotėje"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:23.413814335Z",
+  "model": "glm-5.3"
+}

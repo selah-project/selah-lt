@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "הרוחת verčiama 'ruachų' pagal D2 taisyklę — vienas hebrajiškas žodis, ne 'dvasių'"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošės malda Jahvei",
+      "rationale": "Tiesioginis kreipimasis į Jahvę dėl įpėdinio paskyrimo"
+    }
+  ],
+  "translation": "Tepaskirbia Jahvė, viso kūno ruachų Elohim, vyrą virš susirinkimo,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/27\/13-16.1792474565547.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "Tepaskirbia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "ruachų"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "viso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "susirinkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:05.549534362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול ×3",
+      "rationale": "trikart kartojamas „balsas“ — klausančioji struktūra, lietuviškai išlaikyta kartojimu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heichalas",
+      "rationale": "מהיכל — rūmai\/šventykla; paliktas hebrajiškas skambesys, nes neaišku, kuris pastatas"
+    }
+  ],
+  "translation": "Balsas šurmulio iš miesto, balsas iš heichalo, balsas Jahvės, atmokančio atlygį savo priešams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/5-8.1792482050386.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "šurmulio"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iš miesto"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "iš heichalo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "atmokančio"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "atlygį"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "savo priešams"
+    }
+  ],
+  "timestamp": "2026-10-20T07:40:50.388878262Z",
+  "model": "glm-5.3"
+}

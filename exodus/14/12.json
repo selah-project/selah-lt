@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžio — lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרים",
+      "rationale": "Čia reiškia micraimiečius (tautą), ne šalį."
+    }
+  ],
+  "translation": "Ar ne tai yra žodis, kurį kalbėjome tau Micraime, sakydami: Atstok nuo mūsų, ir mes tarnausime ⟨את⟩ micraimiečiams? Nes mums geriau tarnauti ⟨את⟩ micraimiečiams nei mirti dykumoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b45adcfc34bdc687b76658912b17a85d3d74057f855d063fd72dcf6f678d832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/9-12.1792472468563.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "kalbėjome"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "atstok"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nuo mūsų"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "ir tarnausime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micraimiečiams"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimiečiams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geriau"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tarnauti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "micraimiečiams"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimiečiams"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "nei mirti"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:08.568193815Z",
+  "model": "glm-5.3"
+}

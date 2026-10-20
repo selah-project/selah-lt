@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 63:11",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משה עמו",
+      "rationale": "„Mošę, savo tautą“ — hebrajiškai dviprasmiška: „Mošė ir jo tauta“ ar „savo tautą su Moše“; JPS perkelia veiksnį („Tada jo tauta prisiminė“)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "veiksnys neįvardytas hebrajiškai tekstą pradedant veiksmažodžiu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח vėl išlaikytas kaip „ruach“ pagal D2"
+    }
+  ],
+  "translation": "Tada ⟨jis⟩ prisiminė senovės dienas — Mošę, savo tautą: kur yra tas, kuris pakėlė juos iš jūros, jo kaimenės piemenys? Kur yra tas, kuris padėjo jo viduje ⟨את⟩ savo šventąjį ruach?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/63\/9-12.1792481906930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "tada prisiminė"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "senovės"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošę"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "savo tautą"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur yra"
+    },
+    {
+      "surface": "המעלם",
+      "gloss": "tas, kuris pakėlė juos"
+    },
+    {
+      "surface": "מים",
+      "gloss": "iš jūros"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo kaimenės piemenys"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "piemenys"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "jo kaimenės"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kur yra"
+    },
+    {
+      "surface": "השם",
+      "gloss": "tas, kuris padėjo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "jo viduje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo šventąjį ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "savo šventąjį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:26.932036808Z",
+  "model": "glm-5.3"
+}

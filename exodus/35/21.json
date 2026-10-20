@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 35:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio su נדבה רוחו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiamas kaip 'ruach' vienu žodžiu — dvasia, kvapas, pasiryžimas"
+    },
+    {
+      "kind": "you",
+      "subject": "visi bendruomenės vyrai ir moterys",
+      "rationale": "kvietimas aukoti skirtas visai Išraelio bendruomenei"
+    }
+  ],
+  "translation": "Ir atėjo kiekvienas vyras, kurį pakėlė jo širdis, ir visi, kurių ruach buvo pasiryžęs ⟨את⟩ jį atnešti ⟨את⟩ Jahvės aukojamos dovanos darbui susirinkimo palapinės, visai jos tarnybai ir šventiems drabužiams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/21-24.1792472974668.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "pakėlė"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jo širdis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "buvo pasiryžęs"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "atnešti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės aukojamos dovanos"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "aukojamos dovanos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "darbui"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "susirinkimo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ir visai"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "jos tarnybai"
+    },
+    {
+      "surface": "ולבגדי",
+      "gloss": "ir šventiems drabužiams"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "šventiems"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:34.670730604Z",
+  "model": "glm-5.3"
+}

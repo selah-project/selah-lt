@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeką",
+      "rationale": "צדקה pagal D2 — ne „teisumas“ vienas"
+    },
+    {
+      "kind": "invitation",
+      "subject": "saugokite",
+      "rationale": "Kvietimas-imperatyvas tautai laikytis teismo ir cedeko"
+    },
+    {
+      "kind": "addition",
+      "subject": "būti apreikšytam",
+      "rationale": "Infinitive להגלות išplėstas į pasyvų vertinį"
+    }
+  ],
+  "translation": "Taip sako Jahvė: saugokite teismą ir darykite cedeką, nes mano išgelbėjimas arti ateiti, ir mano teisumas — būti apreikšytam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/56\/1-4.1792481817257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saugokite"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ir darykite"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedeką"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "arti"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mano išgelbėjimas"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ateiti"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ir mano teisumas"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "būti apreikšytam"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:57.258088981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 19:37",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jo dievo",
+      "rationale": "אלהיו čia apie stabą Nisroką — mažąja raide 'dievo', ne Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "jo sūnūs",
+      "rationale": "hebrajiškas tekstas nesako 'jo sūnūs' apie Adrammelechą ir Šarecerą — pridėta vėlesnių versijų; čia išlaikyta be šio žodžio"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסרך",
+      "rationale": "Nisrokas — Tanache minimas tik čia (ir lygiagretėje Iz 37, 38)"
+    }
+  ],
+  "translation": "Ir atsitiko, jam lapsnojant Nisroko, jo dievo, namelyje, Adrammelechas ir Šareceras išrado jį kalaviju, o jie pabėgo į Ararato žemę, ir ėjo karaliauti Easar-Chadonas, jo sūnus, vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec789943a4c1a9614545531906243b90e65409af09348ca55838442e759a642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/37-37.1792480364642.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jame"
+    },
+    {
+      "surface": "משתחוה",
+      "gloss": "lapsnojant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namelyje"
+    },
+    {
+      "surface": "נסרך",
+      "gloss": "Nisroko"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "jo dievo"
+    },
+    {
+      "surface": "ואדרמלך",
+      "gloss": "ir Adrammelechas"
+    },
+    {
+      "surface": "ושראצר",
+      "gloss": "ir Šareceras"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "išrado jį"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "kalaviju"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "o jie"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "pabėgo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararato"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir ėjo karaliauti"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Easar"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "-Chadonas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:44.642868006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu \/ yra",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio, hebrajų tekstas jo neturi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "Klausimas 'kas ⟨yra⟩ su manimi?' (YLT, ASV) prieš KJV\/JPS 'by myself' — klaustukas leidžia retorinį klausimą, kuriame nėra kito dievo"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kas ⟨yra⟩ su manimi?",
+      "rationale": "Retorinis klausimas — atsakymo nėra, tik Jahvė veikia vienas"
+    }
+  ],
+  "translation": "Taip sako Jahvė, tavo išpirkėjas ir tave iš įsčių suformavęs: aš ⟨esu⟩ Jahvė, darantis viską, vienas pats ištiesiąs dangų, skleidžiantis žemę — kas ⟨yra⟩ su manimi? ⟨את⟩",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/21-24.1792481632386.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "tavo išpirkėjas"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "ir tave suformavęs"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "iš įsčių"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darantis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "viską"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ištiesiąs"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "vienas pats"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "skleidžiantis"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "su manimi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:52.390133627Z",
+  "model": "glm-5.3"
+}

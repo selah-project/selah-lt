@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nuo⟩",
+      "rationale": "Hebrajiškas konstruktas אבי עיטם verčiamas per „nuo tėvo Etamo“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הצללפוני",
+      "rationale": "Celelfoni vardas Tanache minimas tik čia."
+    }
+  ],
+  "translation": "Ir tai yra ⟨nuo⟩ Etamo tėvo: Jizreelis, Jišma ir Jidbašas; ir jų sesers vardas — Celelfoni.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/4\/1-4.1792492714268.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ir tai"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamo"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelis"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ir Jišma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ir Jidbašas"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ir vardas"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "jų sesers"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Celelfoni"
+    }
+  ],
+  "timestamp": "2026-10-20T10:38:34.269341278Z",
+  "model": "glm-5.3"
+}

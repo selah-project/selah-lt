@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aronas",
+      "rationale": "הארון yra 'skrynia\/aronas'; rašoma pagal skambesį, ne 'sandoros skrynia' viena."
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičiavimas",
+      "rationale": "Eilutė sako, kad aukų nei suskaičiuoti, nei apskaičiuoti negalima — skaičiavimo motyvas atmetamas dėl gausumo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא יספרו ולא ימנו",
+      "rationale": "Du beveik sinonimiški veiksmažodžiai (sąskaita ir skaičiavimas) — hebrajiškas dvilypis stiprinimas."
+    }
+  ],
+  "translation": "Ir karalius Šelomohas ir visa Jisraelio bendrija, susirinkusi pas jį, ⟨su juo⟩ buvo priešais aroną, aukodami avis ir galvijus, kurių nei įmanoma suskaičiuoti, nei apskaičiuoti dėl jų gausumo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/5-8.1792479086931.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ir karalius"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomohas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bendrija"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "susirinkusi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "su juo ⟨את⟩",
+      "marks": "karalius Šelomohas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aroną"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "aukodami"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ir galvijus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nei"
+    },
+    {
+      "surface": "יסספרו",
+      "gloss": "įmanoma suskaičiuoti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nei"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "apskaičiuoti"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "dėl gausumo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:26.932893305Z",
+  "model": "glm-5.3"
+}

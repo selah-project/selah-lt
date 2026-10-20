@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pranašus",
+      "rationale": "נביא išlaikytas kaip 'pranašas', ne 'žynys'"
+    }
+  ],
+  "translation": "Veltui mušiau ⟨את⟩ jūsų vaikus — pamokymo jie nepriėmė; jūsų kardas prarijo jūsų pranašus kaip naikinantis liūtas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "682a3bce84006cc457d5550898c4cb8d713bcfe03b0235b67f1c64347c5601c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/2\/29-32.1792482104800.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Veltui"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "mušiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų vaikus"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsų vaikus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pamokymo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "priėmė"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "prarijo"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "jūsų kardas"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "jūsų pranašus"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kaip liūtas"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "naikinantis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:44.802034975Z",
+  "model": "glm-5.3"
+}

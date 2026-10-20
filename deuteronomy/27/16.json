@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקלה",
+      "rationale": "Šaknis קלל 'laikyti lengvu' — verčiama 'niekina' arba 'keikia' (pagal panašumą קלל 'barti'): KJV 'setteth light by' vsGeneva 'curseth'"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "rationale": "27,15 turi 'vyras', čia praleista — prakeiksmas be subjekto žodžio, platesnis už ankstesnįjį"
+    }
+  ],
+  "translation": "Prakeiktas, kas niekina savo tėvą ir savo motiną. Ir visi žmonės sakys: Amen.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4c233c4c013576e76af9071abf92bc824ce09ead03034f6cb428cd0eef44eac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/13-16.1792475410809.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Prakeiktas"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "niekina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvą"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ir savo motiną"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir sakys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:10.813275902Z",
+  "model": "glm-5.3"
+}

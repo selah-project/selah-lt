@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paskyrėme sunaikinimui",
+      "rationale": "חרם — pašventinti sunaikinimui, cherem; vienas žodis, išskleidžiamas į kelis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונחרם \/ החרם",
+      "rationale": "Tos pačios šaknies kartojimas — veiksmažodis ir jo daiktavardis, lietuviškai atkartojama"
+    }
+  ],
+  "translation": "Ir paskyrėme juos ⟨את⟩ sunaikinimui, kaip padarėme Sichonui, Chešbono karaliui: paskyrėme sunaikinimui kiekvieną miestą — vyrus, moteris ir vaikus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/3\/5-8.1792474854115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "ir paskyrėme sunaikinimui"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "padarėme"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sichonui"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chešbono"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "paskyrėme sunaikinimui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ir vaikus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:40:54.118751096Z",
+  "model": "glm-5.3"
+}

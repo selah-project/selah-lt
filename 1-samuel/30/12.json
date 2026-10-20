@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "ruach — kvėpavimas, gyvybės jėga; verčiama „ruach“, ne „dvasia“ pagal taisyklę"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צמקים",
+      "rationale": "žodis צמוק pasitaiko Tanache tik čia — džiovintų vynuogių kekė"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tris dienas ir tris naktis",
+      "rationale": "nevalgymo laikas skaičiuojamas dienomis ir naktimis"
+    }
+  ],
+  "translation": "Ir davė jam figų kekės skiltį ir dvi razinų kekes; ir jis valgė, ir jo ruach sugrįžo pas jį, nes jis nevalgė duonos ir negėrė vandens tris dienas ir tris naktis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/9-12.1792477733745.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ir davė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "skiltį"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "figų kekės"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir dvi"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "razinų kekės"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ir valgė"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ir sugrįžo"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jo ruach"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "valgė"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "gėrė"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tris"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ir tris"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "naktis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:53.750015922Z",
+  "model": "glm-5.3"
+}

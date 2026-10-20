@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų neturi veiksmažodžio — pridedama ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui Davidui",
+      "rationale": "Natano žodžiai tiesiogiai karaliui"
+    }
+  ],
+  "translation": "Ir Natanas tarė karaliui: Viskas, kas ⟨yra⟩ tavo širdyje — eik ir daryk, nes Jahvė su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "31ccea80d0379e85173d7e2cb2180ba9f273e35533fd66c1cca8a7693c8cbbf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/7\/1-4.1792478071473.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Viskas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "tavo širdyje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "daryk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T06:34:31.476178446Z",
+  "model": "glm-5.3"
+}

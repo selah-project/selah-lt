@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 10:44",
+  "book": "ezra",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישימו בנים",
+      "rationale": "„susilaukė vaikų“ prieš „priėmė\/padėjo vaikus“ (t. y. įvaikino, kaip YLT „adopt sons“); veiksmažodis שים reiškia „dėti\/paskirti“."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨turėjo⟩ ⟨nuo kurių⟩",
+      "rationale": "Hebraiškas veiksmažodinis stilius be jungiamųjų žodžų; lietuvių kalbai reikia papildomų žodžių."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נכריות",
+      "rationale": "Pažodžiui „svetimos, svetimtautės“ — ne tik „užsienietės“, bet ir „ne giminės“."
+    }
+  ],
+  "translation": "Visi šie buvo paėmę svetimautes žmonas, ir kai kurie iš jų ⟨turėjo⟩ žmonų, ⟨nuo kurių⟩ susilaukė vaikų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9f88930218dc2634fdaa8e8f6f9309c01143d9b421e4b35f6dc9759d896868d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/10\/41-44.1792492202010.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Visi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šie"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "buvo paėmę"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žmonas"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "svetimautes"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ir yra"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "iš jų"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žmonų"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "susilaukė"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vaikų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:30:02.011488615Z",
+  "model": "glm-5.3"
+}

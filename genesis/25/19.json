@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas constructo ryšys be veiksmažodžio, lietuvių kalbai reikia sanitybės"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Avrahamas ... Avrahamas",
+      "rationale": "vardo pakartojimas chiazme: Jicchakas–Avrahamo sūnus \/ Avrahamas–pagimdė Jicchaką"
+    }
+  ],
+  "translation": "Ir šitos yra Jicchako, Avrahamo sūnaus, kilmės istorijos: Avrahamas pagimdė ⟨את⟩ Jicchaką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "65f578f379afddde7ad876c5069ff795069c8e374a4511d924ea63424a66fb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/25\/17-20.1792471459134.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitos"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kilmės istorijos"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "pagimdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaką"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaką"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:19.136275721Z",
+  "model": "glm-5.3"
+}

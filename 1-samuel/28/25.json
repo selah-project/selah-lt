@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "padėjo",
+      "rationale": "נגש čia pažodžiui 'prisiartino\/atnešė arčiau'; 'padėjo prieš' — naturali lietuviška girnos čia"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני",
+      "rationale": "pažodžiui 'prie veido' — idiomatinis 'prieš akis, (pa)rieš', lietuvių keliamas kaip 'prieš'"
+    }
+  ],
+  "translation": "Ir ji padėjo prieš Šaulių ir prieš jo tarnus, ir jie valgė; ir jie pakilo, ir išėjo tą naktį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "abbc79b9708789263a4d4d0b453b122fdb2314afc827858a82e8beeaa323988c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/28\/25-25.1792477709043.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "ir ji padėjo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulių"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ir prieš"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jo tarnus"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ir jie valgė"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ir jie pakilo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tą naktį"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:29.043592264Z",
+  "model": "glm-5.3"
+}

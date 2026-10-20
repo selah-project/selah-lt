@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש\/אשה",
+      "rationale": "21–24 eilučių rėmas: v. 23 vyras–moteris, v. 24 tas pats poravimasosis — sandara jungia eilutes."
+    },
+    {
+      "kind": "alternative",
+      "subject": "jie taps viena mėsa",
+      "rationale": "Hebrajiškai daugiskaita 'jie' + vienaskaita 'viena mėsa' — skaičiaus įtampa išlaikoma."
+    }
+  ],
+  "translation": "Dėl to vyras paliks ⟨את⟩ savo tėvą ir ⟨את⟩ savo motiną, ir limps prie savo žmonos, ir jie taps viena mėsa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/21-24.1792471038743.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "paliks"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tėvą"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo motiną"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "savo motiną"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ir limps"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "prie savo žmonos"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ir jie taps"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "viena mėsa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "viena"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:18.747204716Z",
+  "model": "glm-5.3"
+}

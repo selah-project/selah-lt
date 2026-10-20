@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דור ... דור",
+      "rationale": "Žodis 'karta' pakartotas du kartus — priekaišto kartojimas, lietuviškai išlaikytas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "gloss": "רוח verčiama kaip ruach, ne 'dvasia' viena."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נאמנה את־אל רוחו",
+      "rationale": "את čia gali būti prielinksnis 'su' — 'jo ruach nebuvo ištikima su El'; bet ⟨את⟩ žymeklis išlaikomas."
+    }
+  ],
+  "translation": "Ir jie nebūtų kaip jų tėvai — karta atkakli ir maištaujanti, karta, kurios širdis nebuvo pasirengusi ir kurios ruach nebuvo ištikima ⟨את⟩ El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/78\/5-8.1792488453459.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "būtų"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kaip jų tėvai"
+    },
+    {
+      "surface": "דור",
+      "gloss": "karta"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "atkakli"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ir maištaujanti"
+    },
+    {
+      "surface": "דור",
+      "gloss": "karta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "pasirengė"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "savo širdis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "buvo ištikima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jo ruach"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:33.460956235Z",
+  "model": "glm-5.3"
+}

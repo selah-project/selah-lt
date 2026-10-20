@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 21:17",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Turi būti",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — jis pridėtas kaip neveikiamoji konstrukcija"
+    },
+    {
+      "kind": "substitution",
+      "subject": "giminė",
+      "rationale": "ševet čia reiškia gentį\/giminę, ne 'lazdą'"
+    }
+  ],
+  "translation": "Ir jie tarė: Turi būti palikimas išgelbėtiesiems iš Benjamino, kad nebūtų išbrauktas giminė iš Jisraelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dcd86981ad568432f940ddcfb02967ea3567b438c27adc4dd0ad9fe69eb48c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/21\/17-20.1792476876775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ir jie tarė"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "palikimas"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "išgelbėtiesiems"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "iš Benjamino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kad nebūtų"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "išbrauktas"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "giminė"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "iš Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:36.776382786Z",
+  "model": "glm-5.3"
+}

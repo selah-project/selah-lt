@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 16:31",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩ · jam",
+      "rationale": "Lietuvių konstrukcijai reikia veiksmažodžio ir naudininko, hebrajų kalba jų neturi."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנקל לכתו",
+      "rationale": "Hebrajiškas posakis reiškia 'ar jam buvo menka vaikščioti...'; verčiama teigiamu sakiniu 'jam buvo menkas dalykas', kaip KJV\/ASV, arba klausimu, kaip Geneva\/ YLT."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Izebelis · Etbaalis",
+      "rationale": "Hebrajiškas skambesys: איזבל → Izebelis, אתבעל → Etbaalis."
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ jam menkas dalykas vaikščioti Jeroviamo, Nebato sūnaus, nuodėmėse — jis paėmė sau žmoną ⟨את⟩ Izebelį, Etbaalio, Cidonų karaliaus, dukterį, ir ėjo bei tarnavo ⟨את⟩ Baalui ir nusilenkė jam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f22eaf49146f8791465e5f52b22b76b033ddc2f3f38380879c809d7c06164be2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/29-32.1792479349115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir ⟨buvo⟩"
+    },
+    {
+      "surface": "הנקל",
+      "gloss": "menkas dalykas"
+    },
+    {
+      "surface": "לכתו",
+      "gloss": "vaikščioti jam"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "nuodėmėse"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroviamo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebato"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žmoną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebelį"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelį"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterį"
+    },
+    {
+      "surface": "אתבעל",
+      "gloss": "Etbaalio"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "צידנים",
+      "gloss": "Cidonų"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir ėjo"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "bei tarnavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalui"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalui"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ir nusilenkė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:49.117268374Z",
+  "model": "glm-5.3"
+}

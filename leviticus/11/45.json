@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu \/ būsite",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio 'būti' esamajame laike; lietuvių kalbai jis reikalingas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשים \/ קדוש",
+      "rationale": "Šaknies קדש pakartojimas — 'šventi, nes šventas' — išlaikytas"
+    }
+  ],
+  "translation": "Nes aš esu Jahvė, kuris iškelia ⟨את⟩ jus iš Micraimo krašto, kad būčiau jums Elohim; ir jūs būsite šventi, nes aš esu šventas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/45-47.1792473304269.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "kuris iškelia"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jus"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš krašto"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kad būčiau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ir jūs būsite"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "šventi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:04.271090234Z",
+  "model": "glm-5.3"
+}

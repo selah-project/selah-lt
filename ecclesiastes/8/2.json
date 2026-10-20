@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני",
+      "rationale": "'Aš' be veiksmažodžio: 'aš [sakau]' (patarimas, kaip KJV) arba 'aš [saugau]' (Wycliffe) — hebrajiškas sakinys neaiškus."
+    },
+    {
+      "kind": "elision",
+      "subject": "דברת",
+      "rationale": "'dibrah' (dėl, dėlės) — žodis neturi savarankiško atitikmens, išskaidytas per 'dėl … priesaikos'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמור",
+      "rationale": "Liepinis sakinyje — pamokantis kreipimasis į skaitytoją."
+    }
+  ],
+  "translation": "⟨Aš tariu:⟩ karaliaus burną saugok ir dėl Elohim priesaikos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/8\/1-4.1792491280517.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "⟨aš tariu:⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burną"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "saugok"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir dėl"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "—"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "priesaikos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:40.517951097Z",
+  "model": "glm-5.3"
+}

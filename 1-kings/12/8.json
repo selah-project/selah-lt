@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעץ",
+      "rationale": "Šaknies יעץ grandinė: „patarimą — patarė — pasitarė“; veiksmo ir atmetimo žaismas išlaikytas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הילדים",
+      "rationale": "Pažodžiui „vaikai“ — jaunuoliai, užaugę su karaliumi; vaidmuo neperverstas."
+    }
+  ],
+  "translation": "Ir jis paliko ⟨את⟩ vyresniųjų patarimą, kurį jie jam buvo patarę, ir pasitarė su ⟨את⟩ vaikais, kurie užaugo su ⟨את⟩ juo, kurie stovi priešais jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/5-8.1792479321486.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ir paliko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patarimą"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "patarimą"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyresniųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "jie patarė jam"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ir pasitarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaikus"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "vaikai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "užaugo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "su ⟨את⟩ juo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stovintys"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "priešais jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:55:21.487785492Z",
+  "model": "glm-5.3"
+}

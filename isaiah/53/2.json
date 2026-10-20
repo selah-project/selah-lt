@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nėra⟩",
+      "rationale": "Hebrajų kalba nutyla; lietuvių reikia neiginio veiksmažodžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאר \/ מראה \/ הדר",
+      "rationale": "Pavidalo, vaizdo ir didingumo sąskambiai — vizualinio stokos prierašas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויעל",
+      "rationale": "Veiksmažodis taip pat gali būti „jis pakilo išdygo“ — daiginų vaizdas"
+    }
+  ],
+  "translation": "Jis išaugo kaip atžala prieš ⟨jį⟩ ir kaip šaknis iš sausos žemės — jokio pavidalo jam ⟨nėra⟩ ir jokio didingumo; pamatysime jį — ir jokio vaizdo, geisime jo — ir ⟨nėra⟩ ko geisti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/53\/1-4.1792481816632.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ir išaugo"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "kaip atžala"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "prieš ⟨jį⟩"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "ir kaip šaknis"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sausos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "pavidalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir jokio"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "didingumo"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "pamatysime jį"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir jokio"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vaizdo"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "geisime jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:56.633961769Z",
+  "model": "glm-5.3"
+}

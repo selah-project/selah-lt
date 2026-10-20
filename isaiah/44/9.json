@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio-sąsajos tarp „kūrėjai“ ir „tuštuma“"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועדיהם המה",
+      "rationale": "„jų liudininkai — jie patys“: ar stabo kūrėjai liudija savo stabams, ar stabai yra bejėgiai liudininkai"
+    }
+  ],
+  "translation": "Dieviškių vaizdų kūrėjai — visi jie ⟨yra⟩ tuštuma, ir jų trokštami dalykai nė kiek nepadės; jų liudininkai — tai jie patys: jie nemato ir nežino, kad jie būtų sugėdinti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/9-12.1792481620618.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "kūrėjai"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "dieviško vaizdo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "visi jie"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tuštuma"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "ir jų trokštami dalykai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nė kiek"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "nepadės"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "ir jų liudininkai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tai jie patys"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mato"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "žino"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "būtų sugėdinti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:40.619256585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה",
+      "rationale": "„antrasis egzempliorius \/ nuorašas“ vs „pakartota Tora“ (Deuteronomio pavadinimo šaknis) vs „dvi Tos trečiosios dalys“ — verčiamas pažodžiui: dublikatas"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai jis",
+      "rationale": "hebrajiškas וכתב su לו reikalauja aiškaus veikėjo lietuvių sakinyje"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלפני",
+      "rationale": "pažodžiui „nuo veido kunigų levitų“ — idiomatinis šaltinis, lietuviškai „iš to, kas yra prieš“"
+    }
+  ],
+  "translation": "Ir bus, kai jis sėsis savo karalystės soste, tai jis parašys sau ⟨את⟩ antrąjį egzempliorių šitos Toros knygoje, iš ⟨to, kas yra⟩ prieš kunigus levitus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "35dc072d2d079730c7735dd49d575a21294a94605877250856203b16e8196da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/17\/17-20.1792475268207.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "kai jis sėsis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sosto"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "savo karalystės"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "tai jis parašys"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antrąjį egzempliorių šitos Toros"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "antrąjį egzempliorių"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "šitos Toros"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šitos"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knygos"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iš ⟨to, kas yra⟩ prieš"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigus"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:48.209129327Z",
+  "model": "glm-5.3"
+}

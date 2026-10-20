@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškoji predikato konstrukcija בעולת בעל neturi veiksmažodžio; lietuvių kalbai reikia kopulos."
+    },
+    {
+      "kind": "you",
+      "subject": "Abimelechui",
+      "rationale": "Elohim tiesiogiai kalbina Abimelechą sapne: „štai tu mirsi“."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sapnas",
+      "rationale": "Elohim apreiškia savo valią sapne — paslėptas, ne visiems matomas pranešimas."
+    }
+  ],
+  "translation": "Bet atėjo Elohim pas Abimelechą sapne nakties ir tarė jam: štai tu mirsi dėl moters, kurią paėmei, nes ji ⟨yra⟩ ištekėjusi už vyro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5eb0d7258e0d3c6a2d1dc74ed4994fb77b73bd538b0eb80a4edc0345f63d741f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/20\/1-4.1792471386252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelechą"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "sapne"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakties"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "štai tu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "paėmei"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nes ji"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ištekėjusi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "už vyro"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:06.254687163Z",
+  "model": "glm-5.3"
+}

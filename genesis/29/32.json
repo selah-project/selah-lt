@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 29:32",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראה \/ ראובן",
+      "rationale": "Vardas Rubenas sudarytas iš ראה ('pamatė') — 'žiūrėk, sūnūs' — Lėjos žodžių žaismas prarastas lietuviškai."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (prie עתה)",
+      "rationale": "Trečias כי eilutėje — 'nes dabar' — sulietas su עתה, kad lietuviškas sakinys nesiklotų iš trijų 'nes'."
+    }
+  ],
+  "translation": "Ir Lėja pastojo ir pagimdė sūnų, ir pakvietė jo vardą Rubenas, nes tarė: Kadangi Jahvė pamatė mano vargą, dabar mane mylės mano vyras.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef7e25ea597185ca90d50ee788b6b9826ece73887f2354f10974dc15ef063eec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/29\/29-32.1792471539217.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ir pastojo"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lėja"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir pagimdė"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ir pakvietė"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "mano vargą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "יאהבני",
+      "gloss": "mane mylės"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mano vyras"
+    }
+  ],
+  "timestamp": "2026-10-20T04:45:39.221556051Z",
+  "model": "glm-5.3"
+}

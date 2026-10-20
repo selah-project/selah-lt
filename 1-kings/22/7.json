@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאותו",
+      "rationale": "Priebalsinis aleph-tav (מ + אתו) išnyko glose „per jį“ — jungtinė forma, markeris neatskiriamas."
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד",
+      "rationale": "„dar“: ar pranašas „iš Jahvės šalies“ ar „dar vienas be jau esamų“ — vertimai skiriasi."
+    },
+    {
+      "kind": "you",
+      "subject": "klausimas",
+      "rationale": "Jehošafatas klausia karaliaus — tiesioginis kreipimasis."
+    }
+  ],
+  "translation": "Ir Jehošafatas tarė: Ar nėra čia dar pranašo, ⟨skirto⟩ Jahvei, kad pasiteirautume ⟨את⟩ per jį?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/5-8.1792479670829.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafatas"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Ar nėra"
+    },
+    {
+      "surface": "פה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pranašo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "וונדרשה",
+      "gloss": "kad pasiteirautume"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ per jį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:01:10.832532015Z",
+  "model": "glm-5.3"
+}

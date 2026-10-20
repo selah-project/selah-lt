@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקצה ... קצה",
+      "rationale": "chiazminis kartojimas 'nuo krašto ... iki krašto' — hebrajiškoji pasaulio aprėpties forma, lietuviškai išlaikyta"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nuo krašto iki krašto",
+      "rationale": "erdvės matavimo formula apibūdina visą žemę"
+    }
+  ],
+  "translation": "— iš tautų dievų, kurie yra aplink jus, ir iš tų, kurie arti jūsų, ar toli nuo jūsų, nuo žemės krašto iki žemės krašto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/5-8.1792475221672.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "iš dievų"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "aplink jus"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "arti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "jūsų"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "toli"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nuo jūsų"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nuo krašto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ir iki"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "krašto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:01.675048525Z",
+  "model": "glm-5.3"
+}

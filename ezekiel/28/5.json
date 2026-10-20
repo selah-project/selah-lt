@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרבית\/חילך\/בחילך",
+      "rationale": "רבה ir חיל dvipusis kartojimas — padauginai turtą, širdis pakilo dėl turto — tarp žodžių išlieka, lietuviškai tik iš dalies."
+    },
+    {
+      "kind": "substitution",
+      "subject": "turtą",
+      "rationale": "חיל — jėga, kariuomenė, turtas; čia pasirinkta „turtas“ pagal kontekstą."
+    }
+  ],
+  "translation": "Dėl gausos tavo išminties, dėl tavo prekybos tu padauginai savo turtą, ir pakilo tavo širdis dėl tavo turto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/28\/5-8.1792484520886.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "dėl gausos"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tavo išminties"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "dėl tavo prekybos"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "tu padauginai"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "savo turtą"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "ir pakilo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "dėl tavo turto"
+    }
+  ],
+  "timestamp": "2026-10-20T08:22:00.886812846Z",
+  "model": "glm-5.3"
+}

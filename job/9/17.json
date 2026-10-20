@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 9:17",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישופני",
+      "rationale": "šuf — 'kandžioja, traiško' (kaip gyvatė Pr 3,15) vs 'sulaužo'; pasirinkta 'sutriuškina'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנם",
+      "rationale": "hebrajiškai 'veltui, be priežasties, be naudos' — pilna reikšmė 'nieko nepadarius'."
+    }
+  ],
+  "translation": "Kas uragane mane sutriuškina ir daugina mano žaizdas be priežasties.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/9\/17-20.1792490204564.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בשערה",
+      "gloss": "uragane"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "sutriuškina mane"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ir daugina"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "mano žaizdas"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "be priežasties"
+    }
+  ],
+  "timestamp": "2026-10-20T09:56:44.565188638Z",
+  "model": "glm-5.3"
+}

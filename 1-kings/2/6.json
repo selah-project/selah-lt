@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žila galva",
+      "rationale": "שיבתו pažodžiui „jo žilė (senatvė)“ — metonimija žmogui, išlaikytas paveikslas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול — ne „pragaras“: požeminis mirusiųjų pasaulis be bausmės reikšmės."
+    }
+  ],
+  "translation": "Ir daryk pagal savo išmintį, kad jo žila galva nenusileistų ramybėje į šeol.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2d326a86f9662f708d43560b72750aa92de95bd0dbe91e3d3f53380aeaca6f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/5-8.1792478848517.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ir daryk"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "pagal savo išmintį"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "nusileistų"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "jo žila galva"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ramybėje"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "į šeol"
+    }
+  ],
+  "timestamp": "2026-10-20T06:47:28.518940246Z",
+  "model": "glm-5.3"
+}

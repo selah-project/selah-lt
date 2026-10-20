@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje santykyje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "varis",
+      "rationale": "נחשת — varis, o ne 'bronza' ar 'žalvaris', kaip senesniuose vertimuose"
+    }
+  ],
+  "translation": "žemė, kurioje valgysi duoną be stokos, nieko nepritrūksi joje; žemė, kurios akmenys yra geležis, ir iš jos kalnų kasi varį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/9-12.1792475010586.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurioje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "be stokos"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgysi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duoną"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "pritrūksi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nieko"
+    },
+    {
+      "surface": "בה",
+      "gloss": "joje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "akmenys"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "geležis"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "iš jos kalnų"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:43:30.588038346Z",
+  "model": "glm-5.3"
+}

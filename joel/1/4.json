@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gazamas \/ arbas \/ jachas \/ chasilas",
+      "rationale": "keturi skirtingi žodžiai skuojams — hebrajiški vardai rašomi pagal skambesį, o ne verčiami rūšimis, nes tikroji prasmė ginčijama"
+    },
+    {
+      "kind": "crux",
+      "subject": "גזם · ארבה · ילק · חסיל",
+      "rationale": "keturių skuojų vardai: viena tradicija mato vienos rūšies vabzdžio vystymosi stadijas, kita — keturias rūšis ar net metaforą tautoms"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכל… ויתר… אכל… ויתר… אכל",
+      "rationale": "pakartojimo grandinė — kaskart kas lieka, vėl suėdama; struktūra išlaikyta"
+    }
+  ],
+  "translation": "Likutį, kurį paliko gazamas, suėdė arbas, o likutį, kurį paliko arbas, suėdė jachas, o likutį, kurį paliko jachas, suėdė chasilas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/1\/1-4.1792486381229.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Likutį"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "kurį paliko gazamas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbas"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "o likutį"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "kurį paliko arbas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "jachas"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "o likutį"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "kurį paliko jachas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "suėdė"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "chasilas"
+    }
+  ],
+  "timestamp": "2026-10-20T08:53:01.231562071Z",
+  "model": "glm-5.3"
+}

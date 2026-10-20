@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "upė",
+      "rationale": "היאors יאר čia Nilo upė; lietuviškai 'upė' išlaiko bendrą hebrajų žodį, ne vardą Nilas"
+    },
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "ויהי išversta kaip 'ir buvo' — hebrajų veiksmažodis, ne kopula, bet lietuvių kalbai reikia 'buvo'"
+    }
+  ],
+  "translation": "Ir žuvis, kuri buvo upėje, mirė, ir upė ėmė dvokti, ir micraimiečiai negalėjo gerti vandens iš upės; ir buvo kraujas visoje Micraimo žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0febab48967ed0cdb86dc03f6365a619460851e3ab2178f7df67c74465ef5de0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/21-24.1792472206871.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "ir žuvis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "upėje"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "ir ėmė dvokti"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "upė"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "galėjo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micraimiečiai"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "gerti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "upės"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir buvo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kraujas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visoje"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:56:46.872975263Z",
+  "model": "glm-5.3"
+}

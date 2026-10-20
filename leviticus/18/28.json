@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טמא \/ קיא",
+      "rationale": "Cartli išmetė gyventojus už nešvarumą — tame pačiame kontekste du kartojami žodžiai טמא ir קיא sukelia vientisą vaizdą."
+    }
+  ],
+  "translation": "kad kraštas neišvemtų ir jūsų, jūs tepdami ⟨את⟩ jį, kaip jis išvėmė ⟨את⟩ tautą, kuri buvo prieš jus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/25-28.1792473482596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "išvemtų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kraštas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "jūs tepdami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jį (kraštą)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "išvėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "buvo prieš jus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:02.600977882Z",
+  "model": "glm-5.3"
+}

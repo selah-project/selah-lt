@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra sakinio veiksmažodžio — pridėta kokarda."
+    },
+    {
+      "kind": "you",
+      "subject": "mano tarnai",
+      "rationale": "Elohim kalba pirmuoju asmeniu apie Izraelį kaip savo tarnus."
+    }
+  ],
+  "translation": "Nes mano tarnai jie ⟨yra⟩, kuriuos aš išvedžiau ⟨את⟩ juos iš Micraimo žemės; vergo pardavimu jie nebus parduodami.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/41-44.1792473673423.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mano tarnai"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "aš išvedžiau"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "bus parduodami"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "pardavimu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "vergo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:13.425217146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nachal",
+      "rationale": "נחל — žiemos upelis \/ raguva; paliktas transliteruotas pagal skambesį."
+    },
+    {
+      "kind": "invitation",
+      "subject": "į Elijahu",
+      "rationale": "Trys imperatyvai: eik, pasisuk, pasislėpk — tiesioginis Dievo nurodymas pranašui."
+    }
+  ],
+  "translation": "Eik iš čia, pasisuk sau į rytus ir pasislėpk nachal Kerite, kuris priešais Jardaną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/17\/1-4.1792479412577.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš čia"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "ir pasisuk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨savęs⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "į rytus"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "ir pasislėpk"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "nachale"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerito"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardano"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:52.578586947Z",
+  "model": "glm-5.3"
+}

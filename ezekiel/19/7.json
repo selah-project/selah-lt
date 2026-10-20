@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 19:7",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידע אלמנותיו",
+      "rationale": "pažodžiui 'ir pažino jo našlęs'; KJV skaito 'nuniokotus rūmus' (iš arab.), kiti — 'padarė našlėmis' jų žmonas; čia pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jo⟩",
+      "rationale": "lietuvių kalbai reikia įvardžio prie daiktavardžio, hebrajų turi tik galūnę"
+    }
+  ],
+  "translation": "Ir pažino ⟨jo⟩ našles, ir jų miestus nusiaubė, ir tapo apleista žemė ir jos pilnumė nuo balso jo riaumojimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/19\/5-8.1792484340186.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ir pažino"
+    },
+    {
+      "surface": "אלמנותיו",
+      "gloss": "⟨jo⟩ našles"
+    },
+    {
+      "surface": "ועריהם",
+      "gloss": "ir jų miestus"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "nusiaubė"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ir tapo apleista"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ir jos pilnumė"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "nuo balso"
+    },
+    {
+      "surface": "שאגתו",
+      "gloss": "jo riaumojimo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:19:00.187625583Z",
+  "model": "glm-5.3"
+}

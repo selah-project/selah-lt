@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "Pažodžiui 'atsigulė su savo tėvais' — eufemizmas mirčiai, lietuviškai 'užmigo su savo tėvais'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעיר דוד",
+      "rationale": "Konstruktas 'miestas Davido' išskleistas į genetyvą 'Davido miestas'"
+    }
+  ],
+  "translation": "Ir Šelomo užmigo su savo tėvais ir buvo palaidotas Davido, savo tėvo, mieste; ir karaliavo jo sūnus Rehavamas vietoje jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/41-43.1792479223324.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "užmigo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ir buvo palaidotas"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ir karaliavo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoje jo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:53:43.326373048Z",
+  "model": "glm-5.3"
+}

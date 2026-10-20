@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחיטנו",
+      "rationale": "רחיט — Tanache vienintelis pasirodymas; verčiama 'plokštės\/apdailos lentos', atspindinti žodžio paveikslą (kaip geldė)."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra (—)",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio; brūkšnys žymi praleistą sakinių dalį, lietuvių kalbai reikia sintaksinio jungties ženklo."
+    }
+  ],
+  "translation": "Mūsų namo sijos — kedrai, mūsų plokštės — kipariso mediena.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b962f4b176a2c7c42b5c55bb0b73850add73fa6675c2ab6983b1cb36e1713a16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/1\/17-17.1792490796496.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "sijos"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "mūsų namo"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "kedrai"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "mūsų plokštės"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "kipariso mediena"
+    }
+  ],
+  "timestamp": "2026-10-20T10:06:36.497293401Z",
+  "model": "glm-5.3"
+}

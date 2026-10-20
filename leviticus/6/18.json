@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 6:18",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškai nėra josungos tarp זאת ir תורת"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tora",
+      "rationale": "תורה čia — 'nuostatas, taisyklė', bet pagal D2 išlaikomas žodis Tora"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Pakartota ta pati šaknis — 'šventas šventųjų', lietuvių atskira šaknis praranda pakartojimą"
+    },
+    {
+      "kind": "you",
+      "subject": "Aharonui ir jo sūnums",
+      "rationale": "Tiesioginis įsakymas kunigams"
+    }
+  ],
+  "translation": "Kalbėk Aharonui ir jo sūnums, sakydamas: ši ⟨yra⟩ Tora aukos už nuodėmę: vietoje, kur skerdžiama holokausto auka, bus skerdžiama auka už nuodėmę, Jahvės akivaizdoje; šventas švenčiausiųjų ⟨yra⟩ ji.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/17-20.1792473185818.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "kalbėk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir jo sūnums"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnums"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ši"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "aukos už nuodėmę"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "vietoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "skerdžiama"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holokausto auka"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "bus skerdžiama"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "auka už nuodėmę"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "švenčiausiųjų"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:05.819562959Z",
+  "model": "glm-5.3"
+}

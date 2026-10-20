@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "įniršyje",
+      "rationale": "אַף pažodžiui 'nosis, šnervės' — įniršio metafora iš šnervių alsavimo, lietuviškai kūno dalis prarasta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaitra",
+      "rationale": "חֵמָה pažodžiui 'karštis' — rūstybės metafora"
+    }
+  ],
+  "translation": "Nes mes sunaikinti tavo įniršyje, tavo rūstybės kaitroje mes apimti baimės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/90\/5-8.1792488709239.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "mes sunaikinti"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "tavo įniršyje"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "tavo rūstybės kaitroje"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "mes apimti baimės"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:49.240303249Z",
+  "model": "glm-5.3"
+}

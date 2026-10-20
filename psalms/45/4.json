@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "galingasis",
+      "rationale": "Imperatyvinis kreipimasis į galingąjį (karalių)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הודך והדרך",
+      "rationale": "Ar „tavo didybė ir tavo švytėjimas“ yra kalavijo aplinkybės (KJV: „su tavąja šlove“), ar atskiras šauksmas apie karalių — vertėjai skirtingai skaido sintaksę."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הודך והדרך",
+      "rationale": "Antras skaitymas: „tavo didis grožis ir tavo didybė“ kaip savarankiškas šauksmas, ne kalavijui priskirta."
+    }
+  ],
+  "translation": "Pasijuosk savo kalaviją prie šlaunies, galingasis, ⟨tavo didybė⟩ ir tavo švytėjimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "716e95fcca91ef6b553db0d316fae08746b709c8bcda55dee91aa6e9366ef43d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/45\/3-4.1792494149529.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Pasijuosk"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "savo kalaviją"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "šlaunies"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "galingasis"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "tavo didybė"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ir tavo švytėjimas"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:29.529734257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 59:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה verčiama skambesiu 'cedek', ne vienu žodžiu 'teisumas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ir",
+      "rationale": "hebrajų va- ne visada išverčiamas; jungtukas pridėtas lietuvių sintaksės reikalaujant"
+    }
+  ],
+  "translation": "Todėl teismas toli nuo mūsų, ir cedek mūsų nepasiekia; laukiame šviesos — ir štai tamsa, laukiame žibėjimo — tamsoje einame.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/59\/9-12.1792481877134.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "todėl (dėl to)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "toli"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nuo mūsų"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nepasiekia"
+    },
+    {
+      "surface": "תשיגנו",
+      "gloss": "mūsų nepasiekia"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "laukiame"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "šviesos"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamsa"
+    },
+    {
+      "surface": "לנגהות",
+      "gloss": "žibėjimo"
+    },
+    {
+      "surface": "באפלות",
+      "gloss": "tamsoje"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "einame"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:57.134856329Z",
+  "model": "glm-5.3"
+}

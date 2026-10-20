@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalba",
+      "rationale": "יהגה pažodžiui 'burbtelėti\/braudyti' — tylus kartojimas, ne garsus kalbėjimas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelizmas",
+      "rationale": "burna\/liežuvis — išmintis\/teisė, eiliškas poravimas"
+    }
+  ],
+  "translation": "Teisiojo burna kalba išmintį, ir jo liežuvis kalba teisę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/29-32.1792487868883.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "burna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Teisiojo"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "kalba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "išmintį"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ir jo liežuvis"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kalba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teisę"
+    }
+  ],
+  "timestamp": "2026-10-20T09:17:48.884563877Z",
+  "model": "glm-5.3"
+}

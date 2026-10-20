@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Rūtė",
+      "rationale": "Hebrajiškai tik „ji“ — vardas pridėtas aiškumo dėlei."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתה",
+      "rationale": "Čia אתה yra prielinksnis „su“, o ne את H853 objekto žymuo; tačiau pagal projekto taisyklę glosa neša ⟨את⟩ ženklą."
+    }
+  ],
+  "translation": "Ir ji pamatė, kad ⟨את⟩ Rūtė pasiryžusi eiti su ja, ir liovėsi kalbėti jai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ruth\/1\/17-20.1792491009411.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ir ji pamatė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "pasiryžusi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "eiti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "su ja"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ir liovėsi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kalbėti"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jai"
+    }
+  ],
+  "timestamp": "2026-10-20T10:10:09.412194338Z",
+  "model": "glm-5.3"
+}

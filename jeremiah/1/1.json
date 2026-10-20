@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio su אשר; lietuvių reikalauja"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogija",
+      "rationale": "Įžanginė eilutė įvardija asmenį, tėvą, vietą ir gimę — vardų sąrašas"
+    }
+  ],
+  "translation": "Jeremijo, Chilkijos sūnaus, iš kunigų, kurie ⟨buvo⟩ Anatote, Benjamino žemėje, žodžiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c6ab033bb790538d1e5e3f1a8ffe2f716de6db95e78428b784be1780c01570a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/1\/1-4.1792482107876.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "žodžiai"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkijos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatote"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamino"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:47.877957744Z",
+  "model": "glm-5.3"
+}

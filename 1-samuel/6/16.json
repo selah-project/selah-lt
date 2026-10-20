@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai · ⟨į⟩",
+      "rationale": "Hebrajiškai „pamatė“ be objekto ir „grįžo Ekronan“ — lietuviškai reikia ⟨tai⟩ ir ⟨į⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saranai",
+      "rationale": "סרן — filistinų valdovų titulas, verčiamas „kunigaikščiais“; paliktas pagal skambesį „saranas“"
+    }
+  ],
+  "translation": "Ir penki filistinų saranai tai pamatė ir grįžo ⟨į⟩ Ekroną tą dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/13-16.1792477065836.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "Ir penki"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "saranai"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistinų"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "pamatė"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ir grįžo"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroną"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:45.837996312Z",
+  "model": "glm-5.3"
+}

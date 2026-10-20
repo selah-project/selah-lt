@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨daug⟩",
+      "rationale": "Hebrajiškas ימים vienas reiškia „dienas“ — būdinga „daug dienų“ prasmė; lietuvių kalbai reikia žodzio ⟨daug⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא והיא",
+      "rationale": "Pabrėžtinis „jis ir ji“ — tvarka eilutėje: jis pirmiau, tada ji, tada namai — atkartoja eilės tvarką iš 17,13."
+    }
+  ],
+  "translation": "Ir ji nuėjo ir padarė pagal Elijahu žodį; ir valgė jis ir ji, ir jos namai dienų ⟨daug⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/17\/13-16.1792479443158.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Ir ji nuėjo"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "pagal žodį"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir valgė"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ir ji"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ir jos namai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:23.160058486Z",
+  "model": "glm-5.3"
+}

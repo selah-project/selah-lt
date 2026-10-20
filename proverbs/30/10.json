@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמeižk",
+      "rationale": "לשן reiškia 'kulbiu liežuviu' — 'šmeižti' kaip idiomatinis atitikmuo"
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "אל אדנו 'prie jo pono' — prielinksnis lietuviškai išreikštas įvardžiu"
+    }
+  ],
+  "translation": "Nešmeižk tarno jo ponui, kad tas nepakeiktų tavęs, ir nekaltum nusikaltęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/30\/9-12.1792489969923.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "šmeižk"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tarno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jo"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "ponui"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad tas ne"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "pakeiktų tavęs"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "būtum kaltas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:49.924149173Z",
+  "model": "glm-5.3"
+}

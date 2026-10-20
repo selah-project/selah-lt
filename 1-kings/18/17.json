@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Achabas Elijahu",
+      "rationale": "Tiesioginis karaliaus Achabo klausimas pranašui Elijahu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "drumsčia",
+      "rationale": "עכר pažodžiui ' drumsti vandenį' — jis, kuris sutrikdo\/įmutina, čia išlaikytas vandens paveikslas."
+    }
+  ],
+  "translation": "Ir atsitiko, Achabui pamačius ⟨את⟩ Elijahu, Achabas tarė jam: Ar tai tu — tas, kuris drumsčia Jisraelį?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/17-20.1792479525905.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir atsitiko"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "pamačius"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elijahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ar tai tu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "kuris drumsčia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:45.906213381Z",
+  "model": "glm-5.3"
+}

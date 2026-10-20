@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nei",
+      "rationale": "Lietuvių kalba reikalauja jungtuko tarp dviejų neigiamų daiktavardžių"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tavo dienų skaičių",
+      "rationale": "Dienų skaičiavimo motyvas — pilnas gyvenimo matas"
+    }
+  ],
+  "translation": "Nebus nei persileidusios, nei nevaisingos tavo žemėje; tavo dienų ⟨את⟩ skaičių pripildysiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/25-28.1792472674899.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "persileidusios"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "nei nevaisingos"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "tavo žemėje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skaičių"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičių"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tavo dienų"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "pripildysiu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:34.902366627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במחול",
+      "rationale": "'šokyje' (apskritas šokis מחול) vs senesni 'fleita' (iš מחול ūsus; žr. geneva 'flute')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arfa",
+      "rationale": "כנור — styginis instrumentas, 'kanklės\/arfa'"
+    }
+  ],
+  "translation": "Tegarbina šokyje jo vardą, su tambūrinu ir arfa tegroja jam.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/149\/1-4.1792489376641.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Tegarbina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "šokyje"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "su tambūrinu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ir arfa"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "tegroja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:56.642460164Z",
+  "model": "glm-5.3"
+}

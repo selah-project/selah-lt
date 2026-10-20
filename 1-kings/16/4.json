@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "miestas\/laukas",
+      "rationale": "chiazminis parallelizmas: miestas—šunys, laukas—paukščiai; struktūra išlaikyta"
+    }
+  ],
+  "translation": "Kas iš Bašaos mirs mieste — suės šunys, o kas iš jo mirs lauke — suės dangaus paukščiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "649cb9efe163ae281cf525e2068d4e20a29567394a874796b7d4d7b273f8b217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/1-4.1792479387596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Kas mirs"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "iš Bašaos"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mieste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "šunys"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "o kas mirs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iš jo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "suės"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "paukščiai"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:27.598066638Z",
+  "model": "glm-5.3"
+}

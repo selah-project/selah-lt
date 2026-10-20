@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tik lūpų žodis",
+      "rationale": "Svarstoma, ar אך דבר שפתים – Asirijos karaliaus panieka („tiktai lūpų žodžiai!“ – YLT, JPS), ar hebrajiškoji interpoliacija, atsakydama į Chizkiją (KJV: „tai tušti žodžiai“)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "prieš mane",
+      "rationale": "בי pažodžiui – „manyje“, t. y. „prieš mane“; prielinksnis ב reiškia priešinimąsi"
+    }
+  ],
+  "translation": "Tu sakei: tik lūpų žodis — patarimas ir galia karui. Dabar ant ko tu pasitiki, kad sukilei prieš mane?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/18\/17-20.1792480344006.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "tu sakei"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lūpų"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "patarimas"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ir galia"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "karui"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "tu pasitiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "sukilei"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prieš mane"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:24.012296533Z",
+  "model": "glm-5.3"
+}

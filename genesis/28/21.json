@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "hebrajų kalboje nėra įvedamojo žodžio prie והיה"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבתי\/בשלום",
+      "rationale": "grįžimas (šav) ir ramybė (šalom) — šakninė garsų dermė"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovo įžadas",
+      "rationale": "Jaakovas kalbasi su Elohim, sąlyginė įžado dalis"
+    }
+  ],
+  "translation": "ir grįšiu ramybėje į savo tėvo namus, tai Jahvė man bus ⟨Elohim⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/28\/21-22.1792471501348.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ir grįšiu"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ramybėje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tai … bus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T04:45:01.348902576Z",
+  "model": "glm-5.3"
+}

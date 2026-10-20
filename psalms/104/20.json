@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tampa⟩",
+      "rationale": "Hebrajų ויהי pabrėžtinis „ir buvo\/tapo“, lietuvių kalbai reikia veiksmažodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slankioja",
+      "rationale": "רמש — šliaužioti, slinkti trumpais žingsniais; „slankioja“ perteikia naktinį žvėrių judėjimą"
+    }
+  ],
+  "translation": "Tu padarai tamsą, ir ⟨tampa⟩ naktis; joje slankioja visi miško žvėrys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6f816bd3a769faf315649daa0d0f319923606ac96573d8515d07bd9e970f60ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/20-20.1792494194722.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Tu padarai"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tamsą"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir ⟨tampa⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "naktis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "joje"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "slankioja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "žvėrys"
+    },
+    {
+      "surface": "יער",
+      "gloss": "miško"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:14.722720393Z",
+  "model": "glm-5.3"
+}

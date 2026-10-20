@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būdamas",
+      "rationale": "hebrajiškas dalyvinis posakis ואיש עצתו išplėstas į sakinį su būti veiksmažodžiu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח neišversta į 'dvasia' — vienas žodis reiškia vėją, kvapą ir dvasią"
+    }
+  ],
+  "translation": "Kas įmatavo ⟨את⟩ Jahvės ruach ir kas, būdamas jo patarėjas, jį išmokytų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/40\/13-16.1792481502096.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "įmatavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės ruach"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "jo patarėjas"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "jį išmokytų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:42.096933940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame sakinyje nėra veiksmažodžio — pridėtas lietuviškas „yra“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יושבת ציון",
+      "rationale": "Pažodžiui „sėdinti Sionas“ — moteriškas dalyvis; išversta „Siono gyventoja“"
+    },
+    {
+      "kind": "you",
+      "subject": "Siono gyventoja",
+      "rationale": "Tiesioginis moteriškosios bendruomenės (Siono) kreipinys su paliepimais"
+    },
+    {
+      "kind": "invitation",
+      "subject": "צהלי ורני",
+      "rationale": "Du paliepimai kviečia šlovinti — himno kulminacija"
+    }
+  ],
+  "translation": "Džiūgauk ir šauk iš džiaugsmo, Siono gyventoja, nes tavyje didis yra Jisraelio Šventasis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/12\/5-6.1792480762762.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Džiūgauk"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "ir šauk iš džiaugsmo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "gyventoja"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didis"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavyje"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Šventasis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T07:19:22.763177888Z",
+  "model": "glm-5.3"
+}

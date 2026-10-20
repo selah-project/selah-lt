@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pateptasis",
+      "rationale": "משיח apie karalių verčiamas 'pateptasis', ne 'Mesijas'"
+    },
+    {
+      "kind": "you",
+      "subject": "Amalekietis",
+      "rationale": "tiesioginis kreipimasis į amaleikietį su klausimu"
+    }
+  ],
+  "translation": "Ir Davidas tarė jam: Kaip tu neišsigandai ištiesti savo rankos prieš Jahvės pateptąjį, kad jį sunaikintum?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/13-16.1792477923538.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Kaip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "išsigandai"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ištiesti"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "savo rankos"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "sunaikintum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės pateptąjį"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "pateistąjį"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:03.539833549Z",
+  "model": "glm-5.3"
+}

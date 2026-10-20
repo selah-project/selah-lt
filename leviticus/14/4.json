@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raudono dažo",
+      "rationale": "שני תולעת pažodžiui „rausvojo kirminėlio (dažas)“ — dažas iš košenilio vabzdžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "izopas",
+      "rationale": "אזב tradiciškai „ysopas“, bet greičiausiai vietinis rūgtis Origanum syriacum, ne europinis ysopas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "du paukščiai",
+      "rationale": "skaičiuojamos aukos dalys: du paukščiai, cedras, dažas, izopas"
+    }
+  ],
+  "translation": "Ir kunigas įsakys, ir bus paimta apsivalančiajam dviejų gyvų tyvų paukščių, cedro medžio, raudono dažo ir izopo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/1-4.1792473369513.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ir įsakys"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ir bus paimta"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "apsivalančiajam"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "paukščių"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "gyvų"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "tyvų"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ir medžio"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir raudono"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "dažo"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ir izopo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:09.516049839Z",
+  "model": "glm-5.3"
+}

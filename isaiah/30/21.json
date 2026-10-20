@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje predikato konstrukcijoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תאמינו \/ תשמאילו",
+      "rationale": "Pažodžiui „eisite dešinėn \/ kairėn“ — iš šaknų „dešinė“ ir „kairė“; veiksmas išskleistas į pilną frazę"
+    },
+    {
+      "kind": "invitation",
+      "subject": "זה הדרך לכו בו",
+      "rationale": "Tekstas tiesiogiai kreipiasi į skaitytoją įsakymu — tai yra kelias, eikite juo"
+    }
+  ],
+  "translation": "Ir tavo ausys išgirs žodį iš už nugaros, sakantį: Tai yra kelias, eikite juo — kai pasuksite dešinėn ir kai pasuksite kairėn.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "554d32760035889ae25d2c76a655812080a171d00419b3d2a7cd052336baef77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/21-24.1792481290956.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "ir tavo ausys"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "išgirs"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "iš už nugaros"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakantį"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yra kelias"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "eikite"
+    },
+    {
+      "surface": "בו",
+      "gloss": "juo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "pasuksite dešinėn"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ir kai"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "pasuksite kairėn"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:10.956800257Z",
+  "model": "glm-5.3"
+}

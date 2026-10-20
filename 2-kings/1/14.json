@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gerklė\/kvapas\/gyvybės jėga, ne siela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכל",
+      "rationale": "'valgyti' hebrajiškai reiškia ir 'praryti' — ugnis 'suėda' viršininkus"
+    }
+  ],
+  "translation": "Štai nusileido ugnis iš dangaus ir prarijo ⟨את⟩ du pirmuosius penkiasdešimties viršininkus ir ⟨את⟩ jų penkiasdešimt; dabar tebūna mano gyvybė brangi tavo akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/1\/13-16.1792479790378.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "nusileido"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ir prarijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du pirmuosius viršininkus"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "viršininkus"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "penkiasdešimties"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "pirmuosius"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jų penkiasdešimt"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "jų penkiasdešimt"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "tebūna brangi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybė"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akyse"
+    }
+  ],
+  "timestamp": "2026-10-20T07:03:10.381031786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta lietuviška kopula."
+    },
+    {
+      "kind": "substitution",
+      "subject": "viršūnė",
+      "rationale": "ראש pažodžiui 'galva' — kalno galva, t. y. viršūnė."
+    }
+  ],
+  "translation": "Ir Davidas perėjo į kitą pusę ir stojo ant viršūnės kalno, toli; didelė ⟨yra⟩ vieta tarp jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/13-16.1792477837247.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ir perėjo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "į kitą pusę"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ir stojo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "viršūnės"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "toli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "didelė"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "vieta"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tarp jų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:37.248673047Z",
+  "model": "glm-5.3"
+}

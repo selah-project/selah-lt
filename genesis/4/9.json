@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' klausime 'kur yra'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė Kainui",
+      "rationale": "Jahvė tiesiogiai klausia Kainą"
+    },
+    {
+      "kind": "alternative",
+      "subject": "השמר אחי אנכי",
+      "rationale": "Pažodžiui: 'ar mano brolio sargas — aš?' — atsakymas-klausimas, išlaikyta klausimo forma"
+    }
+  ],
+  "translation": "Ir Jahvė tarė Kainui: Kur ⟨yra⟩ Hebelis, tavo brolis? O jis atsakė: Nežinau; ar aš esu savo brolio sargas?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/9-12.1792470996612.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainui"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Kur"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebelis"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "O jis atsakė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinau"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "sargas"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "savo brolio"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš esu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:36.614023199Z",
+  "model": "glm-5.3"
+}

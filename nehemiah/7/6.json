@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 7:6",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrew has no copula; lt requires ⟨yra⟩-class verb, supplied unbracketed as natural word order"
+    },
+    {
+      "kind": "measurement",
+      "subject": "returners' register",
+      "rationale": "introductory header of the census list that follows"
+    }
+  ],
+  "translation": "Šitie yra provincijos sūnūs, sugrįžę iš tremties, iš ištremtųjų, kuriuos Navukadnecaras, Babilono karalius, buvo ištrėmęs; ir jie sugrįžo į Jerušalaimą ir į Jehudą, kiekvienas į savo miestą —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3faa8a65fb958e6202d4ce2d60438797229cfe7ffd8e8f727c1cbd9e4cfa07e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/7\/5-8.1792492385934.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "provincijos"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "sugrįžę"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "iš tremties"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ištremtųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "buvo ištrėmęs"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Navukadnecaras"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilono"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "ir jie sugrįžo"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "į Jerušalaimą"
+    },
+    {
+      "surface": "וליהודה",
+      "gloss": "ir į Jehudą"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "į savo miestą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:33:05.935123774Z",
+  "model": "glm-5.3"
+}

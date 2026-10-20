@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 66:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "Hebrajų turi galūnę ל „jo“ prie דברו, bet linksniuotame lietuvių frazėje reikia aiškaus įvardžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונראה בשמחתכם",
+      "rationale": "KJV „jis pasirodys jūsų džiaugsme“ vs YLT\/JPS „ir mes pažiūrėsime į jūsų džiaugsmą“ — kas mato: Jahvė ar priešai"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Klausykite žodžio Jahvės",
+      "rationale": "eilutė prasideda imperatyvu, kreipimąsi į tuos, kurie dreba prieš žodį"
+    },
+    {
+      "kind": "you",
+      "subject": "Jūs, kurie dreba prieš jo žodį",
+      "rationale": "tiesioginis kreipimasis į išvaromuosius dievobaiminguosius"
+    }
+  ],
+  "translation": "Klausykite žodžio Jahvės, jūs, kurie dreba prieš ⟨jo⟩ žodį! Jūsų broliai, kurie jūsų nekenčia, kurie jus išvaro dėl mano vardo, tarė: „Teesiąs Jahvė pagerbtas, ir tepasirodo jūsų džiaugsme!“ — bet jie bus sugėdinti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/66\/5-8.1792482050386.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "klausykite"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodžio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "החרדים",
+      "gloss": "kurie dreba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jo žodį"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jūsų broliai"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "kurie jūsų nekenčia"
+    },
+    {
+      "surface": "מנדיכם",
+      "gloss": "kurie jus išvaro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mano vardo"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "teesiąs pagerbtas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "tepasirodo"
+    },
+    {
+      "surface": "בשמחתכם",
+      "gloss": "jūsų džiaugsme"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bet jie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bus sugėdinti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:40:50.388083194Z",
+  "model": "glm-5.3"
+}

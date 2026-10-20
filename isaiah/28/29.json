@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jo neturi"
+    },
+    {
+      "kind": "crux",
+      "subject": "תושיה",
+      "rationale": "Tushijah — retas žodis: 'veiksminga išmintis, gebėjimas'; svarstyta 'teisumas' (Viklifo) arba 'darbai' (Ženevos)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הפליא עצה \/ הגדיל תושיה",
+      "rationale": "Du lygiagretūs veiksmažodžiai su dviem išminties žodžiais — simetrinė struktūra"
+    }
+  ],
+  "translation": "Ir šitai ⟨yra⟩ išėję iš pas Jahvę Cevaot: nuostabų ⟨yra⟩ jo patarimą padaręs, padidinęs išmintį-veiksmingumą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45a6cf0158123e7eed77e3150858c3d395ee7ff30987ead64115350d17d0d405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/29-29.1792481146797.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ir šitai"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "iš pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "yra išėję"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "nuostabų padarė"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "patarimą"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "padidinęs"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "išmintį-veiksmingumą"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:46.798228711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "paskutinis žodis: KJV 'created and made', YLT 'prepared for making'; pažodžiui 'sukūręs daryti' — infektyvas su ל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šabatavo",
+      "rationale": "שבת veiksmažodis, ne 'atilsėjo' — šaknis ta pati kaip šabato vardo"
+    }
+  ],
+  "translation": "Ir Elohim palaimino ⟨את⟩ septintąją dieną ir pašventino ⟨את⟩ jį, nes jame jis šabatavo nuo viso savo darbo, kurį Elohim buvo sukūręs dar-daryti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "be38e9cabd5f126c23525a8bc6ffbebb514cc9ce2e96c34476f761bbdafa4b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/2\/2-4.1792485341522.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "palaimino"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "septintąją dieną"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "septintąją"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ir pašventino"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "septintąją dieną"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jame"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabatavo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nuo viso"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "savo darbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "buvo sukūręs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "dar-daryti"
+    }
+  ],
+  "timestamp": "2026-10-20T08:35:41.524593579Z",
+  "model": "glm-5.3"
+}

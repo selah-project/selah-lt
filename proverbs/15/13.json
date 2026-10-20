@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח laikoma kaip 'dvasia', nors žodis reiškia ir vėją, ir kvapą"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi jos būto veiksmažodžio"
+    }
+  ],
+  "translation": "Linksmas širdies veidas džiugina, o sielvarto širdyje ⟨yra⟩ rausiama nualinta dvasia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/15\/13-16.1792489697307.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "linksmas"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "džiugina"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "veidas"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "o sielvarto"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdyje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dvasia"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "nualinta"
+    }
+  ],
+  "timestamp": "2026-10-20T09:48:17.307568091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vietą⟩",
+      "rationale": "hebrajiškas statinys — šventųjų buveinių vieta — lietuviškai reikalauja daiktavardžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elyonas",
+      "rationale": "עליון yra titulas „Aukščiausiasis“, paliktas skambesiu"
+    }
+  ],
+  "translation": "Upė — jos srautai džiugina Elohim miestą, šventąją Elyono miškanų ⟨vietą⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/46\/5-8.1792488019953.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "upė"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "jos srautai"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "džiugina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventąją"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "miškanų"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyono"
+    }
+  ],
+  "timestamp": "2026-10-20T09:20:19.953864874Z",
+  "model": "glm-5.3"
+}

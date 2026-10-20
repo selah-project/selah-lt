@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבנים",
+      "rationale": "Dvivietis (dUAL) 'du akmenys' — gimdymo suolas arba dubuo; 'gimdytuvo suolelis' yra spėjamas daiktas."
+    },
+    {
+      "kind": "you",
+      "subject": "gimdyvėms Šifrai ir Puai",
+      "rationale": "Tiesioginis karaliaus įsakymas adresatėms — moteriškos daugiskaitos imperative."
+    }
+  ],
+  "translation": "Ir tarė: kai priimsite gimdymą pas ⟨את⟩ hebrajes ir pamatysite jas ant gimdytuvo suolelio — jei tai berniukas, užmuškite ⟨את⟩ jį, o jei mergaitė — tegul gyvena.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/1\/13-16.1792472129952.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "kai priimsite gimdymą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hebrajes"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "hebrajes"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ir pamatysite"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "gimdytuvo suolelio"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "berniukas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "užmuškite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (berniuką)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mergaitė"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "tegul gyvena"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:29.957816779Z",
+  "model": "glm-5.3"
+}

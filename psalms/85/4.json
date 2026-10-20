@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "savo",
+      "rationale": "אפך pažodžiui 'tavo nosis\/šnervės' — hebrajiškas pykčio vaizdas, prarastas lietuviškai"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפך",
+      "rationale": "'nosies' vaizdas išlydytas į 'įtūžio smarkumo' posakį, atskira glosa negalima"
+    }
+  ],
+  "translation": "Tu surinkai visą savo įniršį, atsigręžei nuo savo įtūžio smarkumo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/85\/1-4.1792488576052.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "surinkai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "savo įniršį"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "atsigręžei"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "įtūžio smarkumo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "savo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:36.053504869Z",
+  "model": "glm-5.3"
+}

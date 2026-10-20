@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ואעד עדים",
+      "rationale": "hebraiškai pažodžiui „paliudijau liudytojus“ — lietuviškai „sutvarkiau liudytojus“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "hebrajų veiksmažodis neturi tariamojo objekto"
+    }
+  ],
+  "translation": "Ir įrašiau ⟨tai⟩ knygoje, ir užantspaudavau, ir sutvarkiau liudytojus, ir pasvėriau ⟨את⟩ sidabrą svarstyklėse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/9-12.1792483111797.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "ir įrašiau"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "knygoje"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "ir užantspaudavau"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ir sutvarkiau liudytojus"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "liudytojus"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "ir pasvėriau"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "svarstyklėse"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:31.800599459Z",
+  "model": "glm-5.3"
+}

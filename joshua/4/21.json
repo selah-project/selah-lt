@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 4:21",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ateityje",
+      "rationale": "מחר pažodžiui 'rytoj', čia reiškia ateityje"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "lietuviškas linksnis 'Jisraelio sūnums' jungia be prielinksnio"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio sūnums",
+      "rationale": "Jozuė kalba Jisraelio sūnums apie būsimą vaikų klausimą"
+    }
+  ],
+  "translation": "Ir jis tarė Jisraelio sūnums, sakydamas: kai ateityje jūsų sūnūs klaus ⟨את⟩ savo tėvų, sakydami: ką reiškia šitie akmenys?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6cec6a287fa36478e2ac566c02b552c850c37894f66cff8fcf2d2ba9355ceba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/4\/21-24.1792475718655.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kai"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "klaus"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsų sūnūs"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ateityje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tėvų"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "savo tėvų"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "akmenys"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šitie"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:18.657675817Z",
+  "model": "glm-5.3"
+}

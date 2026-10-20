@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nešvarus \/ švarus",
+      "rationale": "טמא \/ טהור — kultinės švaros kategorijos, ne higienos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין...ובין",
+      "rationale": "Kartojamas 'tarp... ir tarp' — keturių dalykų skyrimo struktūra išlaikyta"
+    }
+  ],
+  "translation": "skirti tarp nešvaraus ir tarp švaraus, ir tarp gyvūno, kuris valgomas, ir tarp gyvūno, kurio negalima valgyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46e8fb1634a38370d5860948c5e6a0e38c93cae41d578ca6c6dcd58e1901c07c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/45-47.1792473304269.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "skirti"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nešvaraus"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "švaraus"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gyvūno"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "kuris valgomas"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gyvūno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "galima valgyti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:15:04.272590193Z",
+  "model": "glm-5.3"
+}

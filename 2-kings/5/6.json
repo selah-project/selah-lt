@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išgydysi",
+      "rationale": "ואספתו pažodžiui „ir surinksi jį \/ pašalinsi“ — karaliaus parodijos laiške tai reiškia „pagydyk“."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio karaliui",
+      "rationale": "Laiško tekstas kreipiasi tiesiogiai į karalių."
+    }
+  ],
+  "translation": "Ir jis atnešė laišką Jisraelio karaliui, sakydamas: Dabar, kai šis laiškas ateis pas tave, štai aš atsiunčiau pas tave ⟨את⟩ Naamaną, savo tarną, ir tu jį išgydysi nuo jo raupsų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b39ec450498b7878d187663b08778aa418eb799bde7d1f8214433cc4b1c05f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/5\/5-8.1792479869459.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir jis atnešė"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "laišką"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kai ateis"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "laiškas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "aš atsiunčiau"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamaną"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamaną"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "savo tarną"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ir tu jį išgydysi"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "nuo jo raupsų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:29.460678926Z",
+  "model": "glm-5.3"
+}

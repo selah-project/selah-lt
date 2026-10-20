@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩ (2x)",
+      "rationale": "Hebrajų kalba neturi būtojo kartinio kouplys; vardinis sakinys be veiksmažodžio."
+    },
+    {
+      "kind": "measurement",
+      "subject": "camp layout",
+      "rationale": "Stovyklos išdėstymas pagal vėliavas ir kryptis — erdvės matavimo aprašas."
+    }
+  ],
+  "translation": "Tie, kurie stovyklauja rytuose, saulės tekėjimo pusėje — Jėhudos stovyklos vėliavos ⟨yra⟩ pagal jų karius; ir Jėhudos sūnų vadys ⟨yra⟩ Nachšonas, Amynadabo sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "67ea8d55c4d98711b0aecf04bcec4e41108230a0ec21729a4f61efa4f99beeff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/2\/1-4.1792473848233.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ir tie, kurie stovyklauja"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "rytuose (priešakyje)"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "saulės tekėjimo pusėje"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "vėliavos"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "stovyklos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėhudos"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "pagal jų karius"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ir vadys"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jėhudos"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachšonas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amynadabo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:08.235975653Z",
+  "model": "glm-5.3"
+}

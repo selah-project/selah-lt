@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atsakė",
+      "rationale": "lietuvių kalbai reikia galininko, hebrajų ויען valdo את-objektą; ⟨את⟩ išlaikomas."
+    }
+  ],
+  "translation": "Ir Efronas atsakė ⟨את⟩ Avrahamą, sakydamas jam:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d24cd75364b275d884ce75ebe797df1be05c710570fb1cce1de5f5ef114f5af1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/23\/13-16.1792471377015.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efronas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamą"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamą"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    }
+  ],
+  "timestamp": "2026-10-20T04:42:57.017419149Z",
+  "model": "glm-5.3"
+}

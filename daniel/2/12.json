@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנס \/ וקצף",
+      "rationale": "Du artimi pykčio veiksmažodžiai eilės tvarka — įniršo ir įtūžo — sustiprina karaliaus įtūžį"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל קבל דנה",
+      "rationale": "Aramėjų pažodžiui „visame atžvilgiu šito“ = dėl to"
+    }
+  ],
+  "translation": "Dėl to karalius įniršo ir labai įtūžo, ir įsakė sunaikinti visus Babelio išminčius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2123c7a6b9e3142f8e2429d273eea47edc7e5579e864d4db40b26034ba9e89f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/2\/9-12.1792491596993.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "to"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "šito"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "įniršo"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ir įtūžo"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir įsakė"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "sunaikinti"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "išminčius"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelio"
+    }
+  ],
+  "timestamp": "2026-10-20T10:19:56.994989624Z",
+  "model": "glm-5.3"
+}

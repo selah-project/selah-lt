@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "laiko ženklas",
+      "rationale": "Pranašystė su matu: vaikui dar neišmokus tarti 'tėveli' — konkretus terminas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "gloss": "reiškia 'jėga, kariuomenė, turtas' — čia 'turtas' kaip vienas iš žodžio pjūvių."
+    }
+  ],
+  "translation": "Nes anksčiau nei vaikas išmoks pašaukti 'tėveli' ir 'mamytę', bus išneštas ⟨את⟩ Damasko turtas ir ⟨את⟩ Šomrono grobis prieš Ašūro karalių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/1-4.1792480684457.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anksčiau nei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "išmoks"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "vaikas"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pašaukti"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėveli"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ir mamytę"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bus išnešotas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damasko turtas"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "turtas"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Šomrono grobis"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "grobis"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomrono"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ašūro"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:04.476243417Z",
+  "model": "glm-5.3"
+}

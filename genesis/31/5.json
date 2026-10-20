@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראה את פני",
+      "rationale": "„Matyti veidą“ — hebrajiškas posakis reiškia nuostatą, ne pažiūrėjimą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "vertėjai čia rašo „Dievas“, bet Elohim — Vardo forma, nelinksniuojama."
+    }
+  ],
+  "translation": "Ir joms tarė: Aš matau ⟨את⟩ jūsų tėvo veidą, kad jis nėra į mane kaip vakar ir užvakar; o mano tėvo Elohim buvo su manimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/5-8.1792471666924.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "להן",
+      "gloss": "joms"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "matau"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jūsų tėvo veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "jūsų tėvo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "jis nėra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "į mane"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "kaip vakar"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "užvakar"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "o mano tėvo Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tėvo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "su manimi"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:46.925744085Z",
+  "model": "glm-5.3"
+}

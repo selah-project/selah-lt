@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atplaiša",
+      "rationale": "היתרת — kepenų atauga (lobe); 'atplaiša' laikosi prieveiksmio 'perteklius' vaizdo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "abi inkstus",
+      "rationale": "Skaičius dvejotas išlaikytas — שתי = 'dvi', lietuviškai 'abi'."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ abi inkstus, ir ⟨את⟩ taukus, kurie ant jų, kurie ant juosmenų, ir ⟨את⟩ atplaišą ant kepenų — ant inkstų jis pašalins ⟨ ją ⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/1-4.1792473213182.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "abi inkstai"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "abi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "inkstus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "taukai"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "juosmenų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "atplaiša"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "atplaišą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kepenų"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "inkstų"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "jis pašalins ją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:33.184037924Z",
+  "model": "glm-5.3"
+}

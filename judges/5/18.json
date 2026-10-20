@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 5:18",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybę",
+      "rationale": "נפש yra gerklė\/kvapas gyvybės jėga, ne 'siela'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרף",
+      "rationale": "'niekino\/atmetė' arba 'stato ant žaidimo' — verčiami ir 'rizikavo', ir 'paniekindamas atidavė'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Prielinksnis atskirai netariamas — liejasi su 'lauko aukštumose'"
+    }
+  ],
+  "translation": "Zebulonas — tauta, niekinusi ⟨את⟩ savo gyvybę iki mirties, ir Naftalis — lauko aukštumose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bdfc2024d56a8ab80cab947a36c06312832e8672deaf034906f9938a44412841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/5\/17-20.1792476392937.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבלון",
+      "gloss": "Zebulonas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "niekinusi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "savo gyvybę"
+    },
+    {
+      "surface": "למות",
+      "gloss": "iki mirties"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ir Naftalis"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "aukštumose"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "lauko"
+    }
+  ],
+  "timestamp": "2026-10-20T06:06:32.939963739Z",
+  "model": "glm-5.3"
+}

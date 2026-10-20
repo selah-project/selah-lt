@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų neturi kabliuko „aš — Jahvė”; lietuvių reikalauja ⟨esu⟩, pridėta be skliaustų skaitmeniniam sklandumui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "uždegsiu",
+      "rationale": "מִכַּתִּי „kai duosiu ugnį į Micraimą” — „duoti ugnį” perdainota kaip „uždegsiu”."
+    }
+  ],
+  "translation": "Ir jie pažins, kad aš esu Jahvė, kai uždegsiu ugnį Micraime; ir bus sutriuškinti visi jos pagalbininkai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/30\/5-8.1792484517621.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ir jie pažins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "kai uždegsiu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnį"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Micraime"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ir bus sutriuškinti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "jos pagalbininkai"
+    }
+  ],
+  "timestamp": "2026-10-20T08:21:57.622804654Z",
+  "model": "glm-5.3"
+}

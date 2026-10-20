@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Prisaikdijimo formulė 'kaip gyvas Jahvė'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'jeigu ne' \/ 'ne, bet' arba priesaga 'tikrai' — vertėjai skirsto į 'Jahvė pats jį sumuš' ir 'ne, bet Jahvė jį sumuš'"
+    }
+  ],
+  "translation": "Ir Davidas tarė: Kaip gyvas Jahvė — jeigu ne Jahvė jį sumuš, arba jo diena ateis ir jis mirs, arba į mūšį jis nusileis ir bus nubrauktas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/9-12.1792477766730.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Kaip gyvas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jeigu ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "jį sumuš"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jo diena"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateis"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ir mirs"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "į mūšį"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nusileis"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ir bus nubrauktas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:26.732377682Z",
+  "model": "glm-5.3"
+}

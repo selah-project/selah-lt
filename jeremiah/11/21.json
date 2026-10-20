@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 11:21",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — gerklė, kvapas, gyvybės jėga; čie 'gyvybė' dėl 'ieškoti נפש' idiomos"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeremijui per Anatoto vyrus",
+      "rationale": "grasinimas kreipiamas tiesiai į pranašą"
+    }
+  ],
+  "translation": "Todėl taip sako Jahvė apie Anatoto vyrus, kurie ieško ⟨את⟩ tavo gyvybės, sakydami: Nepranašausi Jahvės vardu, kad nemirtum mūsų rankose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a8b86246158902ae3e34001c00a2dc90e2752c58f6bf812ff68fd36f7be9a038",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/21-23.1792482371045.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "על",
+      "gloss": "apie"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatoto"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "kurie ieško"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo gyvybės"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo gyvybės"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "pranašausi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kad ne"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mirtum"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "mūsų rankose"
+    }
+  ],
+  "timestamp": "2026-10-20T07:46:11.046566803Z",
+  "model": "glm-5.3"
+}

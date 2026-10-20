@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרעות",
+      "rationale": "trijų galimų reikšmių kryžius: (1) 'vadai, pirmaujantieji' (ASV\/BSB), (2) 'palaidi plaukai' — nazirų ar kario ženklas (JPS), (3) 'kerštas\/atleidimas' (KJV 'avenging'); parinkta antra, kaip artimiausia šaknies פרע 'paleisti, atlaisvinti' reikšmė"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בפרע פרעות",
+      "rationale": "toji pati šaknis kartojama — בפרע פרעות paronomazija, lietuviškai išlieka tik iš dalies ('paleidžiami plaukai')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "benedictio",
+      "rationale": "daina atsidaro kvietimu 'laiminkite Jahvę' — į žiūrovą kreipiamasi per imperatyvą"
+    }
+  ],
+  "translation": "Kai □ paleidžiami plaukai Jisraelyje, kai tauta stoja savanoriškai — laiminkite Jahvę!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3018506c9f8040a749e9dd8915207c788457d81a0ddd3ca9193c2197fc41c612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/5\/1-4.1792476399428.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "kai paleidžiami"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "plaukai"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "kai stoja savanoriškai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "laiminkite"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:06:39.430250687Z",
+  "model": "glm-5.3"
+}

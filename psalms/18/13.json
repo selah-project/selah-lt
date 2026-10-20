@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עביו עברו",
+      "rationale": "debesys (avav) ir praslinko (avru) — ta pati šaknis -עב, skambinis atkartojimas, lietuviškai prarandama"
+    },
+    {
+      "kind": "addition",
+      "subject": "iš ugnies",
+      "rationale": "יחלי־אש sandara „žarijos ugnies“ išskaidyta į du žodžius aiškiai"
+    }
+  ],
+  "translation": "Nuo švytėjimo priešais jį jo debesys praslinko — kruša ir anglies žarijos iš ugnies.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/18\/13-16.1792487656237.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Nuo švytėjimo"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "priešais jį"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "jo debesys"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "praslinko"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "kruša"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ir žarijos"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnies"
+    }
+  ],
+  "timestamp": "2026-10-20T09:14:16.238124181Z",
+  "model": "glm-5.3"
+}

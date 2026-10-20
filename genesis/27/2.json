@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Švelninamoji dalelytė נא neturi aiškaus lietuviško atitikmens; pateikta kaip „jau”."
+    },
+    {
+      "kind": "you",
+      "subject": "to Esav",
+      "rationale": "Jicchakas kalba savo sūnui apie artėjančią mirtį."
+    }
+  ],
+  "translation": "Ir jis tarė: štai jau aš pasenęs, nežinau savo mirties dienos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/27\/1-4.1792471494257.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "jau"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "aš pasenęs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinau"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "savo mirties"
+    }
+  ],
+  "timestamp": "2026-10-20T04:44:54.259286690Z",
+  "model": "glm-5.3"
+}

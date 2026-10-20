@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתכם",
+      "rationale": "Čia את yra prielinksnis 'su', o ne aleph-tav tiesioginis objektas — išversta 'su jumis' be ⟨את⟩ žymens"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי פרעה",
+      "rationale": "Pakartota priesaika 'gyvas Prėjas' — retorinis kartojimas tarp 42,15 ir 42,16"
+    },
+    {
+      "kind": "you",
+      "subject": "Jozefas broliams",
+      "rationale": "Įsakomieksakymai tiesiogiai kreipiantis"
+    }
+  ],
+  "translation": "Siųskite iš savęs vieną, ir tepaima jis ⟨את⟩ savo brolį, o jūs būkite sukaustyti, ir tebūna išbandyti jūsų žodžiai, ar tiesa ⟨yra⟩ ⟨את⟩ su jumis; o jei ne — gyvas Prėjas! — tikrai žvalgai jūs esate.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/13-16.1792471905741.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Siųskite"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "iš savęs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieną"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "tepaima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo brolį"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "savo brolį"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "o jūs"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "būkite sukaustyti"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "tebūna išbandyti"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "jūsų žodžiai"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "tiesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Prėjas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tikrai"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "žvalgai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs esate"
+    }
+  ],
+  "timestamp": "2026-10-20T04:51:45.750089721Z",
+  "model": "glm-5.3"
+}

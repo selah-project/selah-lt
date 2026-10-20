@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — pridėta su žymekliu ⟨yra⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצודתי",
+      "rationale": "lemma reiškia ir 'tinklas, sugavimas', ir 'tvirtovė'; čia 'tvirtovė'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלעי \/ צורי",
+      "rationale": "du skirtingi žodžiai 'uolai' — nuošodesnė uola ir kietas klinties luitas; lietuvių abi 'uola', skirtumas dingsta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ragas",
+      "rationale": "וקרן ישעי — 'mano išgelbėjimo ragas': ragas kaip jėgos simbolis, ne muzikos instrumentas"
+    }
+  ],
+  "translation": "Jahvė ⟨yra⟩ mano uola, ir mano tvirtovė, ir mano išlaisvintojas; mano El, mano uola — pas jį slėpsiuosi; mano skydas ir mano išgelbėjimo ragas, mano aukštuma.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/18\/1-4.1792487632823.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mano uola"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ir mano tvirtovė"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ir mano išlaisvintojas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mano El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mano uola"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "slėpsiuosi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mano skydas"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ir ragas"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mano išgelbėjimo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mano aukštuma"
+    }
+  ],
+  "timestamp": "2026-10-20T09:13:52.824495992Z",
+  "model": "glm-5.3"
+}

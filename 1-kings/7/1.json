@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalbai reikia galininko žodžių santykiui parodyti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "trylika metų",
+      "rationale": "Statybos trukmės skaičiavimas"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ savo namą Šlomo statė trylika metų, ir pabaigė ⟨את⟩ visą savo namą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/7\/1-4.1792478945263.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo namą"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namą"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "statė"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trylika"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "trylika"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ir pabaigė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą savo namą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:49:05.265117220Z",
+  "model": "glm-5.3"
+}

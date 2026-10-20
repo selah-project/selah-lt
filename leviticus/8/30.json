@@ -1,0 +1,162 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi copulos — pridėta su ⟨⟩ žyma"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את עם (H854) — prielinksnis „su juo“, ne aleph-tav žymeklis; išverstas kaip „su juo“"
+    }
+  ],
+  "translation": "Ir Mošė paėmė iš patepimo aliejaus ir iš kraujo, kuris ⟨yra⟩ ant aukuro, ir pašlakstė ant Aharono, ant jo drabužių, ant jo sūnų ir ant jo sūnų drabužių su juo; ir pašventino ⟨את⟩ Aharoną, ⟨את⟩ jo drabužius, ⟨את⟩ jo sūnus ir ⟨את⟩ jo sūnų drabužius su juo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/29-32.1792473289051.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ir paėmė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "iš aliejaus"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "patepimo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ir iš"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "ir pašlakstė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "jo drabužių"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir ant"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužių"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ir pašventino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo drabužius"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "jo drabužius"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnų drabužius"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "drabužius"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:49.053169901Z",
+  "model": "glm-5.3"
+}

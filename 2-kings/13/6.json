@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašera",
+      "rationale": "האשרה — deivės Ašeros vardas ir jos stulpo atvaizdas; KJV 'the grove' praranda vardą, lietuviškai 'ašera' jį išlaiko"
+    },
+    {
+      "kind": "crux",
+      "subject": "החטי",
+      "rationale": "Hifil forma 'vertė nusidėti' — kai kurie skaito kaip 'su kuriomis jis nusidėjo', bet kontekstas remia 'kuriomis vertė Jisraelį nusidėti'"
+    }
+  ],
+  "translation": "Bet jie nesitraukė nuo Jeroboamo namų nuodėmių, kuriomis jis vertė ⟨את⟩ Jisraelį nusidėti; jose jie vaikščiojo, ir ašera tebestovėjo Šomrone.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/13\/5-8.1792480172710.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "jie nesitraukė"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "nuo nuodėmių"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboamo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriomis"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "jis vertė nusidėti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jose"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jie vaikščiojo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir taip pat"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ašera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "tebestovėjo"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomrone"
+    }
+  ],
+  "timestamp": "2026-10-20T07:09:32.713399321Z",
+  "model": "glm-5.3"
+}

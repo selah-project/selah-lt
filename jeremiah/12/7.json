@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "veiksnys-viskas pirmasis asmuo",
+      "rationale": "פועל ×3 'aš palikau, aš atmečiau, aš atidaviau' — paralelizmas su ⟨את⟩ prieš kiekvieną objektą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palikimas",
+      "rationale": "נחלתי — 'paveldėta dalis, paveldas'; 'palikimas' išlaiko giminystę su 'palikti'"
+    }
+  ],
+  "translation": "Palikau ⟨את⟩ savo namą, atmečiau ⟨את⟩ savo palikimą, atidaviau savo sielos ⟨את⟩ mylimąją į jos priešų delną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/5-8.1792482573694.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Palikau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo namą"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "savo namą"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "atmečiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo palikimą"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "savo palikimą"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "atidaviau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sielos mylimąją"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "mylimąją"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "savo sielos"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "į delną"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "jos priešų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:33.698568115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 3:27",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בשלי",
+      "rationale": "Žodis 'ramiai\/patyliukais' Tanache randamas tik čia (2 Sam 3,27)."
+    },
+    {
+      "kind": "crux",
+      "subject": "החרחש",
+      "rationale": "חמש 'pilvas, penkta briauna' — tradiciniai vertimai 'po penktu šonkauliu', 'į kirkšnį', 'į pilvą'; pažodžiui — 'penktasis (šonkaulis)'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Paskutinio žodžio אל yra vardo עשהאל (Asaelis) dalis, ne atskiras žodis."
+    }
+  ],
+  "translation": "Ir grįžo Avneris ⟨į⟩ Chevroną, ir Joabas nukreipė jį ⟨את⟩ į vartų vidurį pasikalbėti su juo ramiai, ir smogė jam ten į pilvą — ir jis mirė ⟨dėl⟩ kraujo Asaelio, savo brolio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/25-28.1792477968124.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "grįžo"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneris"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "⟨į⟩ Chevroną"
+    },
+    {
+      "surface": "ויטהuo",
+      "gloss": "nukreipė"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidurį"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vartų"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pasikalbėti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "su juo ⟨את⟩",
+      "marks": "su juo"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "ramiai"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "smogė"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "į pilvą"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "dėl kraujo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asaelio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asaelio"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo brolio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:48.128035369Z",
+  "model": "glm-5.3"
+}

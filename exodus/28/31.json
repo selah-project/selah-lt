@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "techelet",
+      "rationale": "תכלת — mėlynas dažas iš cerulean moliusko; paliktas hebrajiškas žodis pagal D2 dvasią"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "įsakymas „padarysi“ kreipiamas į Mošę"
+    }
+  ],
+  "translation": "Ir padarysi ⟨את⟩ ephodo apsiaustą — visą iš techelet.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "18be3693f201b29cb80dcf31b15c0175d3e4fbfb0dfeeeda4fffba6a9507687d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/28\/29-32.1792472852113.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "padarysi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephodo apsiaustą"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "apsiaustą"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephodo"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "techelet"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:32.120468935Z",
+  "model": "glm-5.3"
+}

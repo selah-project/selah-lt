@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia veiksmažodžio, hebrajų jo nėra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kūnas",
+      "rationale": "בשר — kūnas, visa žmonių žmystena, ne tik 'mėsa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחדו",
+      "rationale": "'kartu' — vienaskaita: visi pamatys kaip vienas"
+    }
+  ],
+  "translation": "Ir pasirodys Jahvės šlovė, ir kartu ją pamatys visas kūnas, nes Jahvės burna ⟨yra⟩ tai kalbėjusi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/40\/5-8.1792481477161.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ir pasirodys"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ir pamatys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kartu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פי",
+      "gloss": "burna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:31:17.174467383Z",
+  "model": "glm-5.3"
+}

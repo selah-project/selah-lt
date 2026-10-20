@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סנורים",
+      "rationale": "Rečiau vartojamas žodis aklumui; dauguma verčia „aklumu“, LXX — „apsidirbinėjimu“ (vizualinė apgaulė)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio šioje santykinėse sakinyje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח … הפתח",
+      "rationale": "Akcis „įėjimas“ atkartojamas pradžioje ir pabaigoje — ironija: aklieji ieško to paties įėjimo."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ vyrus, kurie ⟨buvo⟩ prie namo įėjimo, jie smogė akinimu, nuo mažo iki didelio, ir jie nuvargo iešodami įėjimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/9-12.1792471261325.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vyrus"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "vyrus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "prie įėjimo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "jie smogė"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "akinimu"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "nuo mažo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didelio"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "ir jie nuvargo"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "iešodami"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "įėjimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:01.330232516Z",
+  "model": "glm-5.3"
+}

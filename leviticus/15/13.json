@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 15:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi kopulos paskutiniame וטהר"
+    },
+    {
+      "kind": "crux",
+      "subject": "gyvame vandenyje",
+      "rationale": "מים חיים — 'gyvas vanduo' (tekantis, šaltinio) prieš 'bėgantis vanduo' (KJV) ar 'švarus vanduo'"
+    }
+  ],
+  "translation": "Ir kai išsivalo tekantis nuo savo tekėjimo, jis suskaičiuoja sau septynias dienas savo apsivalymui ir išskalbia savo drabužius, ir nusiprausia savo kūną gyvame vandenyje — ir ⟨yra⟩ švarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9406a1cffd24ad17e6be974a859665d58ed65dd3744e4a22d647f56e636709bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/13-16.1792473526468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ir kai"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "išsivalo"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "tekantis"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "nuo savo tekėjimo"
+    },
+    {
+      "surface": "וספר",
+      "gloss": "ir suskaičiuoja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "savo apsivalymui"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ir išskalbia"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "savo drabužius"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ir nusiprausia"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "savo kūną"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vandenyje"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvame"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ir ⟨yra⟩ švarus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:46.469490223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų neturi kopulos; lietuvių kalbai reikia „yra“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקוו \/ מקוה",
+      "rationale": "מקוה — tas pats šaknies קוה atgarsis kaip 1,9 יקוו, sąsaja prarandama"
+    }
+  ],
+  "translation": "Ir Elohim pavadino sausumą žeme, o vandens susitelkimą pavadino jūromis. Ir Elohim pamatė, kad tai ⟨yra⟩ gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/9-12.1792471023140.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir pavadino"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "sausumą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žeme"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "o susitelkimą"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūromis"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Ir pamatė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:03.142210164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "perkėlė",
+      "rationale": "העביר: 'perkėlė į miestus' (dauguma versijų) arba 'pavertė vergais' (BSB, iš vidinių vocalization tradicijų)."
+    },
+    {
+      "kind": "you",
+      "subject": "žmones",
+      "rationale": "Veiksmas atliekamas žemės parduoto žmonių atžvilgiu, be tiesioginio kreipinio."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ žmones jis perkėlė ⟨את⟩ į miestus, nuo vieno Micraimo sienos krašto iki kito jo krašto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/47\/21-24.1792472052853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "žmones"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmones"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "perkėlė"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "į miestus"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "į miestus"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "nuo krašto"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "kito jo krašto"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:12.856972394Z",
+  "model": "glm-5.3"
+}

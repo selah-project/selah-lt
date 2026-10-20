@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "atidengti nuogumą",
+      "rationale": "Eufemizmas, verčiamas pažodžiui."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kūnas",
+      "rationale": "Hebrajų שאר — 'kūnas, giminystės kūnas'; dauguma vertimų 'giminaitė', bet žodis reiškia kūną\/miesą."
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Tiesioginis draudimo adresas."
+    }
+  ],
+  "translation": "Tavo tėvo sesers nuogumo neatidengsi: tavo tėvo kūnas ji ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/9-12.1792473471373.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nuogumas"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sesers"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "atidengsi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kūnas"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:51.376006310Z",
+  "model": "glm-5.3"
+}

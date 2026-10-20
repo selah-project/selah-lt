@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ji (prie „išsigando“)",
+      "rationale": "hebrajiškas יראה be įvardžio — moteriškoji forma; lietuviškai reikalingas įvardis ⟨ji⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחק \/ לא צחקתי \/ צחקת",
+      "rationale": "žodžio „juoktis“ pakartojimas tris kartus — paneigimas ir patvirtinimas tos pačios šaknies"
+    }
+  ],
+  "translation": "Ir Sara išsigynė, sakydama: aš nesijuokiau, nes išsigando. Ir jis tarė: ne, tu juk juokeisi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/18\/13-16.1792471265648.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "Ir išsigynė"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "aš nesijuokiau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "išsigando"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "tu juokeisi"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:05.650961726Z",
+  "model": "glm-5.3"
+}

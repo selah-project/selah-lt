@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "šekelių",
+      "rationale": "svorio vienetas pridėtas ⟨…⟩ — hebrajiškame tik skaičius 'dešimt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "semtuvas",
+      "rationale": "כף — delno formos indas; 'šaukštas' per daug modernu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimt",
+      "rationale": "indas sveriamas šekeliais"
+    }
+  ],
+  "translation": "vienas auksinis semtuvas, dešimt ⟨šekelių⟩, pilnas kvapniųjų smilkymų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ac7dece286d1d88ce78e8e99ad7953941de6778744787fe13133774503074d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/29-32.1792473968653.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "semtuvas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "auksinis"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "pilnas"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kvapniųjų smilkymų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:26:08.654549726Z",
+  "model": "glm-5.3"
+}

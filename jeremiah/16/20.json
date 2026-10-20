@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi kopulos šioje predikatyvo vietoje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהים",
+      "rationale": "čia ne Vardas Elohim, o stabai — rašoma mažąja raide 'dievai', kaip Iš 32, 8"
+    }
+  ],
+  "translation": "Ar žmogus pasidarys sau dievus, kurie ⟨yra⟩ ne dievai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7021c1a1ed94eff917c4d3d8a3492aec69215d12f0915df3ab77daeed5c19f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/16\/17-20.1792482574821.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ar pasidarys"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "o jie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:49:34.825912316Z",
+  "model": "glm-5.3"
+}

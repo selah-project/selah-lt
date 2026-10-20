@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 14:20",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "kaip 18 eilutėje — kopula, kurios hebrajų kalba neturi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefesh — gyvybė, alsavimas, ne vien 'siela'; paliktas hebrajiškas žodis su lietuvišku pažymėjimu"
+    },
+    {
+      "kind": "crux",
+      "subject": "דנאל",
+      "rationale": "Danielis čia greičiausia daniečio Danielo, o ne Biblijos Danielio — vardas rašomas be jod, kaip Ugarito Danielio"
+    }
+  ],
+  "translation": "ir Noachas, Danielis ir Ijovas jos viduryje — kaip aš gyvas ⟨esu⟩, sako Adonai Jahvė: nei sūnaus, nei dukters neišgelbės; jie savo cedek ⟨teisingumu⟩ išgelbės savo ⟨nefesh⟩ sielą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cdc059729c7d46ee6776a1fe0e0ba86577765afc76c7e7a24ebac3f34503a652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/14\/17-20.1792484179677.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ir Noachas"
+    },
+    {
+      "surface": "דנאל",
+      "gloss": "Danielis"
+    },
+    {
+      "surface": "ואיוב",
+      "gloss": "ir Ijovas"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "jos viduryje"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nei"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "išgelbės"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "בצדקתם",
+      "gloss": "savo cedek"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "išgelbės"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "savo nefesh sielą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:16:19.679513301Z",
+  "model": "glm-5.3"
+}

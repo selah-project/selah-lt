@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ceva",
+      "rationale": "צבא — 'kariuomenė \/ pulkas'; lietuvių 'ceva' atspindi צבאות gretą, bet žodžio vaizdas — karo pulkas."
+    },
+    {
+      "kind": "mystery",
+      "subject": "stars",
+      "rationale": "Žvaigždės kaip dangaus kariuomenės dalis — regėjimo simbolika, išlieka užantspauduota iki v. 20–23."
+    }
+  ],
+  "translation": "Ir jis ėmė augti iki pat dangaus cevaot, ir numetė žemėn ⟨iš⟩ tos cevaos ir ⟨iš⟩ žvaigždžių, ir sutrybė ⟨jas⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/8\/9-12.1792491803542.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "ir ėmė augti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki pat"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "cevaos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ir numetė"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨iš⟩"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "tos cevaos"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ir ⟨iš⟩"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "žvaigždžių"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ir sutrybė jas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:23:23.543423440Z",
+  "model": "glm-5.3"
+}

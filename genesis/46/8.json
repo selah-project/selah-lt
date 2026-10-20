@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 46:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi sietuvo, lietuvių jo reikalauja"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vardai",
+      "rationale": "prasideda vardų sąrašas — Jisraelio sūnų genealogija"
+    }
+  ],
+  "translation": "Ir šitie yra Jisraelio sūnų vardai, atvykę į Micraimą: Jaakovas ir jo sūnūs. Jaakovo pirmagimis Rubenas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e47c983c4eb51d7640ef212c3c15776fb3e06057dd58c066bcc033948f96da77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/46\/5-8.1792472015252.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ir šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yra vardai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "atvykę"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "į Micraimą"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ir jo sūnūs"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "pirmagimis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:53:35.267703483Z",
+  "model": "glm-5.3"
+}

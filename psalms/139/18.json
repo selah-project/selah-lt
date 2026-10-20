@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vis dar",
+      "rationale": "עוֹדִי — tęsinys, lietuvių reikalauja pažymino ⟨vis dar⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "atsibudau",
+      "rationale": "הֱקִיצֹתִי gali reikšti ir „pabudau iš miego“ (KJV) — išlaikyta pažodinė prasmė."
+    }
+  ],
+  "translation": "Jei jas skaičiuočiau — jų daugiau nei smėlio; atsibudau — ir ⟨vis dar⟩ esu su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/17-20.1792489299168.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "jas skaičiuočiau"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "smėlio"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "jų daugiau nei"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "atsibudau"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ir ⟨vis dar⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:39.169408Z",
+  "model": "glm-5.3"
+}

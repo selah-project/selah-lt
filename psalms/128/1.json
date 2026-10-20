@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשרי",
+      "rationale": "Hebrajų αšrei — daugiskaitinė maldažodė 'kaip laimingas!', liturginis šauksmas, ne paprastas būdvardis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיר המעלות",
+      "rationale": "Pradinis pavadinimas 'pakopų daina' — Penkiolikos Pakopų psalmių korpuso ženklas."
+    }
+  ],
+  "translation": "Pakopų daina. Koks laimingas kiekvienas, kuris bijo Jahvės, kuris vaikščioja Jo keliais!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/128\/1-4.1792489211862.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "daina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pakopų"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "koks laimingas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kuris bijo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "kuris vaikščioja"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Jo keliais"
+    }
+  ],
+  "timestamp": "2026-10-20T09:40:11.862797295Z",
+  "model": "glm-5.3"
+}

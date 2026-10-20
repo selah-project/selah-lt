@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 20:15",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותעמד בחל",
+      "rationale": "„ji stovėjo griovyje \/ prie pylimo“ — veikėja gali būti siena, pylimas ar griovys; verčiantys nesutaria"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחיתם",
+      "rationale": "„ardė juos \/ ją“ — daugiskaitos galūnė -ם neaiški: siena (sg.) ar žmonės; tekstas neaiškus"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨su⟩",
+      "rationale": "את יואב čia reiškia „tie, kurie su Joabu“ — prielinksnis pridėtas lietuviškai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישפכו סללה",
+      "rationale": "pažodžiui „išpylė pylimą“ — apgulties pylimas"
+    }
+  ],
+  "translation": "Ir jie atėjo ir apsupo jį Abele Beit Maachoje, ir supylė pylimą prie miesto, ir jis stovėjo prie griovio; ir visi žmonės, kurie ⟨su⟩ Joabu, ardė ⟨juos⟩, kad nugriautų sieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7120b89be40f9f73844613ffaeb44ec0a7f73a1b0699fa68aeacec9792354e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/20\/13-16.1792478517557.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ir jie atėjo"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "ir apsupo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ją"
+    },
+    {
+      "surface": "באבלה",
+      "gloss": "Abele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "המעכה",
+      "gloss": "Maachoje"
+    },
+    {
+      "surface": "וישפכu",
+      "gloss": "ir supylė"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "pylimą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ir stovėjo"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "prie griovio"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabą"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabą"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "ardė"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "kad nugriautų"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "sieną"
+    }
+  ],
+  "timestamp": "2026-10-20T06:41:57.559400875Z",
+  "model": "glm-5.3"
+}

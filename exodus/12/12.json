@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 12:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajiškai be veiksmažodžio: 'aš Jahvė'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievams",
+      "rationale": "אלהי מצרים čia mažąja raide — tautų dievai, ne Elohim."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שפטים",
+      "rationale": "Ši forma (שפטים kaip 'bausmės') Tanache tik čia."
+    }
+  ],
+  "translation": "Ir eisiu per Micraimo žemę šią naktį, ir sumušiu kiekvieną pirmagimį Micraimo žemėje — nuo žmogaus iki gyulio; ir visiems Micraimo dievams padarysiu teismus — aš ⟨esu⟩ Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/9-12.1792472388586.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברתי",
+      "gloss": "ir eisiu per"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šią"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ir sumušiu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "pirmagimį"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "nuo žmogaus"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyulio"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ir visiems"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "padarysiu"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "teismus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:48.590155938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "muzikinės rūšies žyma, netiksli reikšmė — „mokomasis poezijos kūrinys\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "psalmė",
+      "rationale": "hebrajų משכיל yra rūšies pavadinimas, ne žodis „psalmė\""
+    }
+  ],
+  "translation": "Choro vadovui, Koracho sūnums, mokomasis psalmė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/44\/1-4.1792487946383.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "choro vadovui"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koracho"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mokomasis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:06.384294708Z",
+  "model": "glm-5.3"
+}

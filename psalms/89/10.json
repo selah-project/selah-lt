@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשבחם",
+      "rationale": "šaknis š-v-ch čia hiphil: 'sutramdyti\/nutildyti', ne 'girti' — garsas pakeltas, bangos nutildytos"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puikybę",
+      "rationale": "גאות pažodžiui 'išdidumas\/aukštuma' apie jūros įsiūbavimą"
+    }
+  ],
+  "translation": "Tu valdai jūros puikybę; kai jos bangos kyla, tu jas nutildai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/89\/9-12.1792488634442.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "valdai"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "puikybę"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "kai kyla"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "jos bangos"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "jas nutildai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:30:34.443408139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 23:18",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "Hebrajų kalba neturi būtojo kartinio veiksmažodžio šioje predikato vietoje — lietuvių kalbai reikia kopulos."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עתיק",
+      "rationale": "Būdvardis „garbaus senumo, puošnus“ Tanache tik čia; vertėjai svyruoja: „patvarus“ (KJV) ar „puošnus“ (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "prekybos pelnas",
+      "rationale": "סחר — prekybos kelionė, kraustymas; glosa „prekybos pelnas“ išlaugo prekybos vaizdą."
+    }
+  ],
+  "translation": "Ir jos prekybos pelnas ir jos užmokestis bus šventas Jahvei; jis nebus sukrautas ir nebus sukauptas, nes tiems, kurie sėdi priešais Jahvę, jos prekybos pelnas bus valgyti iki soties ir puošniam apdangalui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b60c6c504f0c8237cc4c0976d68bb9104dfea8cd9c4c5f4364741ed719e99f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/23\/17-18.1792481072032.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ir bus"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "jos prekybos pelnas"
+    },
+    {
+      "surface": "ואתננה",
+      "gloss": "ir jos užmokestis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאצר",
+      "gloss": "bus sukrautas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יחסן",
+      "gloss": "bus sukauptas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לישבים",
+      "gloss": "tiesiems, kurie sėdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "jos prekybos pelnas"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "iki soties"
+    },
+    {
+      "surface": "ולמכסה",
+      "gloss": "ir puošniam apdangalui"
+    },
+    {
+      "surface": "עתיק",
+      "gloss": "puošniam, garbaus senumo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:32.033950743Z",
+  "model": "glm-5.3"
+}

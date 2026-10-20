@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 16:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "tarnai Šaului",
+      "rationale": "Tarnų kalba tiesiogiai kreipiasi į poną — 'mūsų pone', 'tau', 'tavęs'."
+    },
+    {
+      "kind": "addition",
+      "subject": "esantiems",
+      "rationale": "Lietuvių reikalauja veiksmažodinio ryšio; hebrajiškas לפניך yra tik frazė 'tavo veidui'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kanklė",
+      "rationale": "כנור — styginis instrumentas; lietuviška 'kanklė' sava kultūrinė asociacija, hebrajiškas vaizdas prarandamas."
+    }
+  ],
+  "translation": "Tegul mūsų ponas liepia saviems tarnams, esantiems priešais tave, ieškoti žmogaus, išmanančio groti kankle; ir atsitiks, kai ant tavęs būs piktoji Elohim ruach, jis gros savo ranka, ir tau bus gerai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d09a6ba2d51d6c2f2dca20b4de87dbb9e2bce136a5480532478c4df89a4add23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/13-16.1792477328749.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "tegu sako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiame"
+    },
+    {
+      "surface": "אדננו",
+      "gloss": "mūsų ponas"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavo tarnams"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "priešais tave"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "tepanieško"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "išmanančio"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "groti"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kankle"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir atsitiks"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kai būs"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ant tavęs"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "piktoji"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "jis gros"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "savo ranka"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ir bus gerai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:08.753750254Z",
+  "model": "glm-5.3"
+}

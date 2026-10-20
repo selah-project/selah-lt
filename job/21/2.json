@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "draugams",
+      "rationale": "Kartotas imperatyvas „klausykite, klausykite“ kreipiasi į kalbėtoją draugus."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų ותהי yra veiksmažodis „ir tebūna“, bet lietuvių kalbai reikia jungties, pažymėta ⟨yra⟩."
+    }
+  ],
+  "translation": "Klausykite, klausykite mano žodžio, ir tebūna ⟨yra⟩ šitas jūsų paguodas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/21\/1-4.1792490421460.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "klausykite"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "atidžiai klausykite"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "mano žodžio"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir tebūna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šitas"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "jūsų paguodas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:00:21.461416380Z",
+  "model": "glm-5.3"
+}

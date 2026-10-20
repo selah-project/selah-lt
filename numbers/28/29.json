@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai yra⟩",
+      "rationale": "Hebrajų kalba sieja du dešimtosias dalis su vienu avinėliu ir su septyniais; lietuvių kalbai reikia jungties, kuri hebrajų teksto nėra."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimtoji dalis",
+      "rationale": "Eilutė nurodo miltų aukos saiką — po dešimtąją dalį efos kiekvienam avinėliui."
+    }
+  ],
+  "translation": "dešimtoji dalis ir dešimtoji dalis avinėliui vienam, ⟨tai yra⟩ septyniems avinėliams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/29-31.1792474562552.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "dešimtoji dalis"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "dešimtoji dalis"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "avinėliui"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "vienam"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "septyniems"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "avinėliams"
+    }
+  ],
+  "timestamp": "2026-10-20T05:36:02.553419300Z",
+  "model": "glm-5.3"
+}

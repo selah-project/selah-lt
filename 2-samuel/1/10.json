@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 1:10",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio šalyse „kuris ⟨buvo⟩ ant jo galvos” — kopula pridėta lietuviškai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "poną",
+      "rationale": "אדני čia apie žmogų (Davidą), tad ne Adonai, o „ponas” — pagal D1 taisyklę žmogaus ponui."
+    }
+  ],
+  "translation": "Ir aš atsistojau ant jo ir užmušiau jį, nes žinojau, kad jis negyvens po savo kritimo; ir paėmiau vainiką, kuris buvo ant jo galvos, ir apyrankę, kuri buvo ant jo rankos, ir atnešiau juos pas savo poną čia.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/9-12.1792477927881.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמד",
+      "gloss": "Ir aš atsistojau"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "ואמתתהו",
+      "gloss": "ir užmušiau jį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinojau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "gyvens"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "jo kritimo"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ir paėmiau"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "vainiką"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jo galvos"
+    },
+    {
+      "surface": "ואצעדה",
+      "gloss": "ir apyrankę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "jo rankos"
+    },
+    {
+      "surface": "ואביאם",
+      "gloss": "ir atnešiau juos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "savo poną"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "čia"
+    }
+  ],
+  "timestamp": "2026-10-20T06:32:07.882528626Z",
+  "model": "glm-5.3"
+}

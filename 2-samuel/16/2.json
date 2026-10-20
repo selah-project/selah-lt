@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 16:2",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "lietuvių prielinknis „Cibai“ surenka „אל ציבא“ į vieną linksnį"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas atsakymas neturi veiksmažodžio — „yra“ pridėta dėl lietuvių sintaksės"
+    }
+  ],
+  "translation": "Ir karalius tarė Cibai: Ką čia tau yra? Ir Ciba tarė: Asilai — karaliaus namams joti, ir duona ir vasaros vaisiai — vaikams valgyti, ir vynas — pavargusiam gerti dykumoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/1-4.1792478384682.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Cibai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "čia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau yra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "החמורים",
+      "gloss": "Asilai"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "namams"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "joti"
+    },
+    {
+      "surface": "ולהלחם",
+      "gloss": "ir duona"
+    },
+    {
+      "surface": "והקיץ",
+      "gloss": "ir vasaros vaisiai"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "valgyti"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "vaikams"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "ir vynas"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "gerti"
+    },
+    {
+      "surface": "היעף",
+      "gloss": "pavargusiam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:44.686349144Z",
+  "model": "glm-5.3"
+}

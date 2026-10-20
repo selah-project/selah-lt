@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išsenka",
+      "rationale": "כלה „baigtis, išsekti“ — akys senka laukiant; vaizdas prarandamas, jei verčiama tik „pavargo“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeko",
+      "rationale": "צדק pagal D2 paliekamas cedek"
+    }
+  ],
+  "translation": "Mano akys išsenka ⟨laukdamos⟩ tavo išgelbėjimo ir tavo cedeko žodžio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/121-124.1792489140468.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mano akys"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "išsenka"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "tavo išgelbėjimo"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ir tavo žodžio"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cedeko"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:00.469297519Z",
+  "model": "glm-5.3"
+}

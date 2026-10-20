@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų neturi veiksmažodžio — pridėta passyvo jungtis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "geografija",
+      "rationale": "Eilutė nurodo šulinio vietą tarp dviejų punktų — Kadešo ir Beredo."
+    }
+  ],
+  "translation": "Dėl to šulinys buvo pavadintas Beer-Lachai-Roj; štai, jis yra tarp Kadešo ir tarp Beredo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/16\/13-16.1792471246456.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "buvo pavadintas"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "šulinys"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadešo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Beredo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:46.458808357Z",
+  "model": "glm-5.3"
+}

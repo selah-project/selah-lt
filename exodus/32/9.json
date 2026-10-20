@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kietakaklis",
+      "rationale": "קשה ערף — pažodžiui 'kietas sprandas', idiomą lietuviškai suduria hifeniuotas žodis"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų neturi veiksmažodžio su הוא; lietuvių kalbai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Jahvė kalba tiesiogiai Mošei"
+    }
+  ],
+  "translation": "Ir tarė Jahvė Mošei: Mačiau ⟨את⟩ šitą tautą, ir štai — kietakaklis-liaudas tai yra ⟨tauta⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/32\/9-12.1792472902742.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kietakaklis"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "liaudis-kietas-kaklas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai yra"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:22.744004497Z",
+  "model": "glm-5.3"
+}

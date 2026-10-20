@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישבחנה",
+      "rationale": "Šaknis שׂבח paprastai 'girti', bet čia prasmė 'sulaikyti, nuraminti' (antrasis שׂבח); kai kurie skaito 'pagiria ją' — ginčijama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח vienu žodžiu — vėjas, kvapas, dvasia, pyktis; lietuvių vienu žodžiu neišreiškiama, todėl skambesys išlaikytas."
+    }
+  ],
+  "translation": "Kvailys išlieja visą savo ruach, o išmintingas atgal ją sulaiko.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/29\/9-12.1792489941131.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "savo ruach"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "išlieja"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kvailys"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "o išmintingas"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "atgal"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "sulaiko"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:21.132579645Z",
+  "model": "glm-5.3"
+}

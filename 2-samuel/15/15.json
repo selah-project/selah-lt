@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mano ponas",
+      "rationale": "אדני čia apie žmogų — karalių, tad 'ponas', ne 'Adonai'"
+    }
+  ],
+  "translation": "Ir karaliaus tarnai tarė karaliui: Pagal visa, ką išrinks mano ponas karalius — štai tavo tarnai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/13-16.1792478330215.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pagal visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "išrinks"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tavo tarnai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:38:50.217445487Z",
+  "model": "glm-5.3"
+}

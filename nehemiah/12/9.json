@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta ⟨buvo⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sargybos",
+      "rationale": "Levitų pamainų sąrašas — tarnybos postų skaičiavimas"
+    }
+  ],
+  "translation": "ir Bakbukija ir Uni, jų broliai, ⟨buvo⟩ priešais juos sargybose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/12\/9-12.1792492495715.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "ir Bakbukija"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ir Uni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "jų broliai"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "priešais juos"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "sargybose"
+    }
+  ],
+  "timestamp": "2026-10-20T10:34:55.715731529Z",
+  "model": "glm-5.3"
+}

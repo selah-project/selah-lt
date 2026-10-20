@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvei",
+      "rationale": "Tiesioginis kreipimasis su įsakymu 'kelkis' — skrynies perkėlimo liturgijos žodis (Įst 10, 8; 2 Kr 6, 41)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "poilsio vieta",
+      "rationale": "מנוחה — 'poilsis, rami vieta'; ne prancūziškas 'ilsa' šventykla, o savotiškas savininko poilsio įvaizdis."
+    }
+  ],
+  "translation": "Kelkis, Jahve, į savo poilsio vietą — tu ir tavo jėgos skrynia!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/132\/5-8.1792489189514.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Kelkis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "į savo poilsio vietą"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ir... skrynia"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tavo jėgos"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:49.515844224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jei \/ ⟨yra⟩",
+      "rationale": "sąlyginis „jei“ ir kopula pridėti, kad lietuvių sakinys skambėtų; hebrajiškoji konstrukcija yra šauksminė-areštinė"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקר … שקר",
+      "rationale": "žodžio „melas“ kartojimas du kartus — retorinis pabrėžimas, lietuviškai išskaidyta į „melagingas \/ melu“"
+    },
+    {
+      "kind": "you",
+      "subject": "teisėjams",
+      "rationale": "instrukcija, nukreipta į teismus dėl melagingo liudytojo"
+    }
+  ],
+  "translation": "Ir teisėjai išnagrinės gerai; ir štai — jei liudytojas yra melagingas liudijęs, melu liudijo prieš savo brolį,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab4e65d3a425e3f948d1a6ca9018f26c24d8a0e31f939baf77914c7b109a76b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/17-20.1792475250638.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "ir išnagrinės"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "teisėjai"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "gerai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudytojas"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melagingas"
+    },
+    {
+      "surface": "העד",
+      "gloss": "liudijęs"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "melu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "liudijo"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "prieš savo brolį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:30.640002620Z",
+  "model": "glm-5.3"
+}

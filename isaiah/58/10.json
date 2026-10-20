@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeshą",
+      "rationale": "נפש — gerklė, gyvybės jėga, alkis; ne 'siela' platoniko prasme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צהרים",
+      "rationale": "dviskaita — 'dviguba šviesa', vidurdienis; dviskaita lietuviškai prarasta"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bus⟩",
+      "rationale": "hebrajiškas tekstas neturi sietuvo — 'tavo prietema kaip vidurdienis'"
+    }
+  ],
+  "translation": "ir atiduosi alkanajam savo nefeshą, ir sootų varginamą nefeshą — tai tavo šviesa išauš tamsoje, ir tavo prietema ⟨bus⟩ kaip vidurdienis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/58\/9-12.1792481943185.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "ir atiduosi"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "alkanajam"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "savo nefeshą"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ir nefeshą"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "varginamą"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "sootų"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "ir išauš"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "tamsoje"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "tavo šviesa"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "ir tavo prietema"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kaip vidurdienis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:03.186027590Z",
+  "model": "glm-5.3"
+}

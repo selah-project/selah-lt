@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio jungties — „o kalnai kalnai iš vario“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kovos vežimai",
+      "rationale": "מרכבות — vežimai; „kovos vežimai“ perdėm siaurina, bet įprastas vaizdinys."
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturios",
+      "rationale": "Skaičiavimas — keturi vežimai, regėjimo struktūra skaičiais."
+    }
+  ],
+  "translation": "Ir atsigręžiau, ir pakėliau savo akis, ir pamačiau — ir štai keturios kovos vežimai išeina iš tarp dviejų kalnų, o kalnai ⟨yra⟩ kalnai iš vario.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/6\/1-4.1792487188269.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "ir atsigręžiau"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ir pakėliau"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "savo akis"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ir pamačiau"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturios"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "kovos vežimai"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "iš tarp"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dviejų"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "kalnų"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "o kalnai"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "kalnai"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "iš vario"
+    }
+  ],
+  "timestamp": "2026-10-20T09:06:28.270692921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 22:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mano tautos duktė",
+      "rationale": "Hebrajiškas „mano tautos dukter” — tautos įvaizdis; paliktas pažodžiui, nes lietuviškai šis įvaizdis suprantamas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמרר",
+      "rationale": "Veiksmažodis „kartėsi” (מרר) su veiksmažodžiu „verkia” — lietuviškai išskaidyta į du žodžius, hebrajiškai vienas vaizdas: aš veikiu kartėlį verksme"
+    },
+    {
+      "kind": "you",
+      "subject": "kvietimas atsitraukti",
+      "rationale": "Kalbantysis liepia aplinkiniams atsitraukti — atsakymas į sielvartą"
+    }
+  ],
+  "translation": "Dėl to sakiau: žiūrėkite nuo manęs, aš kartu verksiu; nesiskubinkite manęs guosti dėl sunaikinimo mano tautos dukters.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/22\/1-4.1792481010080.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sako Jahvė",
+      "marks": ""
+    },
+    {
+      "surface": "שעו",
+      "gloss": "žiūrėkite"
+    },
+    {
+      "surface": "מני",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "אמרר",
+      "gloss": "kartėsiu"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "verksime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nesi"
+    },
+    {
+      "surface": "תאיצו",
+      "gloss": "skubinkite"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "manęs guosti"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "שד",
+      "gloss": "sunaikinimo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukters"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mano tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:23:30.083533321Z",
+  "model": "glm-5.3"
+}

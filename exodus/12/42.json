@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta santausa."
+    },
+    {
+      "kind": "crux",
+      "subject": "שמרים",
+      "rationale": "'Budėjimų naktis' — ar Jahvė budėjo dėl jų, ar izraelitai turi budėti; daugiskaitos forma šimurim dviprasmiška."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ליל ... שמרים",
+      "rationale": "Pakartota struktūra: naktis-budėjimai-Jahvė veidrodiškai grįžta antroje pusėje — chiazmas, išlaikytas."
+    }
+  ],
+  "translation": "Naktis budėjimų — ji ⟨yra⟩ Jahvei, kad išvestų juos iš Micraimo žemės; ji — ši naktis Jahvei, budėjimai visiems Jisraelio sūnums jų kartoms.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/12\/41-44.1792472502367.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Naktis"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "budėjimų"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "kad išvestų juos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "naktis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "budėjimai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "jų kartoms"
+    }
+  ],
+  "timestamp": "2026-10-20T05:01:42.369673399Z",
+  "model": "glm-5.3"
+}

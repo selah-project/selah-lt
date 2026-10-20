@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra veiksmažodžio 'būti' — lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תעבר",
+      "rationale": "'Tu neisi' — hebrajiškai 'neperžengsi, neperkelsi' (perėjimo veiksmažodis), nurodo Jordaną, kurio Mošė neperžengs."
+    }
+  ],
+  "translation": "Ir tarė Jahvė jam: Šita yra šalis, kurią prisiekiau ⟨duoti⟩ Avrahamui, Jicchakui ir Jaakovui, sakydamas: Tavo sėklai ją duosiu; parodžiau tau ją tavo akimis, bet ten tu neisi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/34\/1-4.1792475645129.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šita"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisiekiau"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamui"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakui"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ir Jaakovui"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "tavo sėklai"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ją duosiu"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "parodžiau tau"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akimis"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "bet ten"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "eisi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:54:05.133519693Z",
+  "model": "glm-5.3"
+}

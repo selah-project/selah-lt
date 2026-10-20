@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 20:41",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ריח ניחוח",
+      "rationale": "„ramybės kvapas“ — aukos kvapo terminas, išlieka pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "akys",
+      "rationale": "lietuvių reikalauja „tautų akyse“ — hebrajiškas לעיני „ aki-“ prielinksnis su galūne"
+    }
+  ],
+  "translation": "Ramybės kvapu būsiu patenkintas ⟨את⟩ jumis, išvesdamas ⟨את⟩ jus iš tautų, ir surinksiu ⟨את⟩ jus iš kraštų, kuriuose buvote išblaškyti, ir būsiu pašventintas jumis tautų akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34386e22e57f714f33942fba29988593e8b24f4805639a0d43e1ec232b83c302",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/41-44.1792484246073.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בריח",
+      "gloss": "kvapu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ramybės"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "būsiu patenkintas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jumis",
+      "marks": "jumis"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "išvesdamas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "וְקִבַּצְתִּי",
+      "gloss": "ir surinksiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "kraštų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuose"
+    },
+    {
+      "surface": "נפצתם",
+      "gloss": "buvote išblaškyti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "juose"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ir būsiu pašventintas"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "jumis"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akys"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    }
+  ],
+  "timestamp": "2026-10-20T08:17:26.074774642Z",
+  "model": "glm-5.3"
+}

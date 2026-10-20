@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 21:16",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trys šimtai šekelių vario",
+      "rationale": "Ieties svoris nurodytas tiksliai — šekeliais."
+    },
+    {
+      "kind": "crux",
+      "subject": "חדשה",
+      "rationale": "Moters giminės 'nauja': 'naujas kalavijas' (KJV) vs 'nauji šarvai' (JPS) — hebrajiškai tik 'nauja'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ילידי הרפה",
+      "rationale": "'gimę iš Refos' vs 'Refaimo (milžinų) sūnūs' — vardo Refa ir milžinų tautos suliejimas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבו בנב",
+      "rationale": "Vardas skaidomas į du žodžius 'Išbi-Benobas' — tariant panašus į 'jie sėdėjo Novėje', bet tai vienas asmenvardis."
+    }
+  ],
+  "translation": "Ir Išbi-Benobas, iš gimusiųjų iš Refos — jo ieties svoris trys šimtai šekelių vario svorio, ir jis buvo apjuostas nauja, ir tarė smugsiąs ⟨את⟩ Davidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/21\/13-16.1792478538629.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ir Išbi-"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Benobas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בילידי",
+      "gloss": "iš gimusiųjų"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "iš Refos"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "ir svoris"
+    },
+    {
+      "surface": "קינו",
+      "gloss": "jo ieties"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "trys"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "šimtai"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "šekelių svorio"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ir jis"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "buvo apjuostas"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nauja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "smugsiąs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:42:18.631224569Z",
+  "model": "glm-5.3"
+}

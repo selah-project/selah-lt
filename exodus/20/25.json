@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "Žodis reiškia 'kardas', bet čia verstina ir kaip 'įrankis' (kaip KJV 'tool') — hebrajiškai skamba būtent 'kardas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išniekinsi",
+      "rationale": "תחללה — nuo chalal, 'pradurti, išniekinti, padaryti įprastu'; aukuras tampa ne šventas."
+    }
+  ],
+  "translation": "Ir jeigu akmenų aukurą darysi man, nestatyk jo iš tašytų akmenų, nes jeigu savo kardą pakelsi ant jo, tu jį išniekinsi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/25-26.1792472627131.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ir jeigu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "akmenų"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "darysi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "statyk"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "jį (aukurą)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "iš tašytų akmenų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "savo kardą"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "pakelsi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ir tu jį išniekinsi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:47.133137591Z",
+  "model": "glm-5.3"
+}

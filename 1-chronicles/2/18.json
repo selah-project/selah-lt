@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Azubah ir Jerijot",
+      "rationale": "neaišku, ar Jerijot — antra žmona, ar Azubos sūnus; YLT skaito „susilaukė Azubos ir Jerijot“"
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "įvardis pridėtas aiškumui — kieno žmona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "susilaukė",
+      "rationale": "הוליד את — pažodžiui „pagimdė ⟨את⟩“; vardams-veriantims iškelta natūralesnė lietuvių forma"
+    }
+  ],
+  "translation": "Ir Kalevas, Checrono sūnus, susilaukė su Azuba, ⟨jo⟩ žmona, ir su Jerijot; ir šitie ⟨buvo⟩ jos sūnūs: Ješeras, Šovabas ir Ardonas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/2\/17-20.1792492637844.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Ir Kalevas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Checrono"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "susilaukė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azubą"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azubą"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žmona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Jerijot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Jerijot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitie"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "jos sūnūs"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Ješeras"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "Šovabas"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "Ardonas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:37:17.845502563Z",
+  "model": "glm-5.3"
+}

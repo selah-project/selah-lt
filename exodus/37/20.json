@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su",
+      "rationale": "Hebrajų — paprasčiausias sąrašas be prievardo; lietuvių skaitmeniui reikia jungties"
+    },
+    {
+      "kind": "measurement",
+      "subject": "keturios taurės",
+      "rationale": "Centrinio stiebo puošybos skaičiavimas"
+    }
+  ],
+  "translation": "Ir pačioje menoroje — keturios taurės, migdolo pavidalo, su jos rutuliukais-mazgais ir jos žiedais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/37\/17-20.1792473034824.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "Ir pačioje menoroje"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "keturios"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "taurės"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "migdolo pavidalo"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "jos rutuliukai-mazgai"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "ir jos žiedai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:34.828816024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על",
+      "rationale": "'dėl to, kad' — priežastinis על parodytas sąjungu 'nes'."
+    }
+  ],
+  "translation": "O Joabas ir Abišajus, jo brolis, nužudė Avnerį, nes jis buvo nužudęs ⟨את⟩ Asahelį, jų brolį, prie Givono, mūšyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "535d78ca1e3b04b5a13d8ff7d16f36fd2111190561f22b1169bbac185e35fbd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/29-32.1792478011847.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "o Joabas"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ir Abišajus"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo brolis"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "nužudė"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avnerį"
+    },
+    {
+      "surface": "על",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "המית",
+      "gloss": "buvo nužudęs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahelį"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahelį"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "jų brolį"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "prie Givono"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "mūšyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:33:31.849804794Z",
+  "model": "glm-5.3"
+}

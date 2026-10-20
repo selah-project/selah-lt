@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש – ne 'siela', o gyvybės jėga, alsavimas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפה וכלמה",
+      "rationale": "gėdos poros sintezinė paralelė, dviguba gėda"
+    }
+  ],
+  "translation": "Tebūna sugėdinti ir sunaikinti mano gyvybės kėslininkai; teapsiauts priekaištu ir gėda tie, kurie ieško man pikto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/71\/13-16.1792488287959.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "tebūna sugėdinti"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sunaikinti"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "kėslininkai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano gyvybės"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "teapsiauts"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "priekaištu"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ir gėda"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tie, kurie ieško"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "man pikto"
+    }
+  ],
+  "timestamp": "2026-10-20T09:24:47.960145706Z",
+  "model": "glm-5.3"
+}

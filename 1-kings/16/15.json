@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 16:15",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hibras חנים — dalyvinė forma 'stovyklaujantys'; veiksmažodis pridėtas lietuviškos sandaros."
+    },
+    {
+      "kind": "measurement",
+      "subject": "septynias dienas",
+      "rationale": "Zimrio valdymo trukmės skaičiavimas — septynios dienos."
+    }
+  ],
+  "translation": "Dvidešimt septintaisiais Asos, Jehudos karaliaus, metais karaliavo Zimris septynias dienas Tircoje; o tauta ⟨buvo⟩ stovykloje prieš Givtoną, kuris yra filistinams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/13-16.1792479392255.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "metais"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ir septintaisiais"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudos"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliavo"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimris"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tircoje"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "o tauta"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "stovykloje"
+    },
+    {
+      "surface": "על",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Givtoną"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "yra filistinams"
+    }
+  ],
+  "timestamp": "2026-10-20T06:56:32.257017395Z",
+  "model": "glm-5.3"
+}

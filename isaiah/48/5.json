@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tai⟩",
+      "rationale": "Hebrajų kalba neturi įvardžio objektui pažymėti — lietuvių reikalauja jo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסכי",
+      "rationale": "Radžiausiai „mano liesoji figūra“ – žodis reiškia ir liejimą, ir aukojimo gėrimą; pasirinkta „lietas stabas“"
+    },
+    {
+      "kind": "you",
+      "subject": "tau",
+      "rationale": "Tiesioginis kreipimasis į Jisraelį (Babelio tremtinį)"
+    }
+  ],
+  "translation": "Ir paskelbiau tau ⟨tai⟩ jau tada, anksčiau nei tai atsitiko, įskiepijau tau ⟨tai⟩ į ausį, kad nepasakytum: „Mano stabas ⟨tai⟩ padarė, o mano iškalstas atvaizdas ir mano lietas stabas tai įsakė.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/5-8.1792481588656.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "ir paskelbiau"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "jau tada"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "anksčiau nei"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tai atsitiko"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "įskiepijau tau į ausį"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kad nepasakytum"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "pasakytum"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "mano stabas"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "o mano iškalstas atvaizdas"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "ir mano lietas stabas"
+    },
+    {
+      "surface": "צום",
+      "gloss": "tai įsakė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:08.657235094Z",
+  "model": "glm-5.3"
+}

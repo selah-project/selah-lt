@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שובבתך",
+      "rationale": "Nuo šaknies שוב — 'grąžino\/nukreipė atgal': versijos svyruoja tarp 'vedė į klaidą', 'išpuikino' ir 'atgręžė'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨be manęs⟩",
+      "rationale": "Hebrajų ואפסי עוד — 'ir pabaiga manęs šalimais'; lietuvių reikalauja papildomo žodžio aiškumo."
+    },
+    {
+      "kind": "you",
+      "subject": "Babilonui",
+      "rationale": "Eilutė tiesiogiai kreipiasi į Babiloną moteriškuoju asmens žodžiu."
+    }
+  ],
+  "translation": "Ir tu pasikliaunei savo blogiu, sakei: „Nėra, kuris mane mato.“ Tavo išmintis ir tavo pažinimas — tai tave nukreipė atgal, ir tu tartei savo širdyje: „Aš, ir nėra kito ⟨be manęs⟩.“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6d3e74606168b238fbb821d513385eb6af9ba1dd205ce9e25b068ae119fa2c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/47\/10-11.1792494080849.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "ir tu pasikliaunei"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "savo blogiu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sakei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "kuris mane mato"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tavo išmintis"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "ir tavo pažinimas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "tave nukreipė atgal"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "ir tu tartei"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "savo širdyje"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "ir nėra kito"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨be manęs⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T11:01:20.850131742Z",
+  "model": "glm-5.3"
+}

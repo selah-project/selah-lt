@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio — lietuvių kalbai reikia žodzio „buvo“."
+    }
+  ],
+  "translation": "Ir badas ⟨buvo⟩ sunkus žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/43\/1-4.1792471949326.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ir badas"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "sunkus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:29.328797145Z",
+  "model": "glm-5.3"
+}

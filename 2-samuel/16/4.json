@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 16:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas הנה לך „štai tau“ neturi veiksmažodžio — „yra“ pridėta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמצא",
+      "rationale": "žodis reiškia „rasti“ — „rasiu malonės“ išversta kaip „teesu malonėje“ pagal lietuvių posakį"
+    },
+    {
+      "kind": "you",
+      "subject": "karaliui Davidui",
+      "rationale": "Cibos pagarbinimas — tiesioginis kreipimasis „mano pone, karaliau“"
+    }
+  ],
+  "translation": "Ir karalius tarė Cibai: Štai tau yra visa, kas yra Mefibošeto. Ir Ciba tarė: Nusilenkiau — teesu malonėje tavo akyse, mano pone, karaliau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ad4cf6aabe5a05169b0a8bf6f0f6b257e4e1f57535aa0cce8018f115d874d8dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/1-4.1792478384682.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "Cibai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "למפי",
+      "gloss": "Mefi-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-bošeto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "השתחויתי",
+      "gloss": "Nusilenkiau"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "teesu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonėje"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akyse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano pone"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:44.687255552Z",
+  "model": "glm-5.3"
+}

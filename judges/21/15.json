@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 21:15",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gailėjosi",
+      "rationale": "נחם — 'atsiduso, pergyveno'; gailėjosi artimiausia, bet anglų 'repented' skamba pernelyg baudojamai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gimimuose",
+      "rationale": "שבט čia 'giminė\/šaka' kaip žmonių grupė, ne 'lazda'"
+    }
+  ],
+  "translation": "Ir tauta gailėjosi Binyamino, nes Jahvė padarė įtrūkį Jisraelio gimimuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "807d2d89fca0e93892c8e323c964475833ccdf46011164260cc592867b92497d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/21\/13-16.1792476879527.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Ir tauta"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "gailėjosi"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "Binyamino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "įtrūkį"
+    },
+    {
+      "surface": "בשבטי",
+      "gloss": "gimimuose"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:39.528324571Z",
+  "model": "glm-5.3"
+}

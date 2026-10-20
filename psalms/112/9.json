@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeka",
+      "rationale": "צדקה verčiama kaip cedeka, ne „teisumas“ ar „gailestingumas“ vieni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ragas",
+      "rationale": "קרן 'ragas' — galybės ir garbės vaizdinys, nežaidžiamas pažodžiui"
+    },
+    {
+      "kind": "addition",
+      "subject": "Jis",
+      "rationale": "Hebrajiškas veikėjas bevardis; įvesta nuoroda į teisiąjį iš Ps 112"
+    }
+  ],
+  "translation": "Jis barstė, davė neturtingiesiems — jo cedeka stovi per amžius, jo ragas bus iškeltas su šlove.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/112\/9-10.1792488917656.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "barstė"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "davė"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "neturtingiesiems"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jo cedeka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stovi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "jo ragas"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bus iškeltas"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "su šlove"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:17.656854657Z",
+  "model": "glm-5.3"
+}

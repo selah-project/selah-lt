@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lūpa",
+      "rationale": "שפה pažodžiui 'lūpa' — čipas reiškia ir kalbą; 'lūpa' išlaiko hebrajišką vaizdą."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפה \/ דברים",
+      "rationale": "Pirma 'lūpa', paskui 'žodžiai' — tas pats dalykas du kartus skirtingais žodžiais."
+    }
+  ],
+  "translation": "Ir buvo visa žemė ⟨su⟩ viena lūpa ir vienais žodžiais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/11\/1-4.1792471181070.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lūpa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ir žodžiais"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "Vienais"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:41.072094114Z",
+  "model": "glm-5.3"
+}

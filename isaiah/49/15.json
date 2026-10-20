@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גם אלה תשכחנה",
+      "rationale": "„Net jei šios pamirštų“ (sąlyga) arba „šios pamirš“ (teiginys, kaip KJV); hebrajiška forma leidžia abu skaitymus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחם",
+      "rationale": "Šaknis רחם reiškia ir „įsčias“, ir „gailestį“ — v. 15 žodžių žaismas, lietuvių kalboi išsklaidytas."
+    }
+  ],
+  "translation": "Ar pamirš moteris savo žindomą kūdikį, nesigailėdama sūnaus savo įsčių? Net jei šios pamirštų — aš tavęs nepamiršiu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/49\/13-16.1792481618930.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Ar pamirš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "savo žindomą kūdikį"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "nesigailėdama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "savo įsčių"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Net jei"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šios"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "pamirštų"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "— aš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nepamiršiu"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "tavęs nepamiršiu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:38.931530501Z",
+  "model": "glm-5.3"
+}

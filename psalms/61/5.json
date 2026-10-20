@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "סלה",
+      "rationale": "Sela — muzikinis priimtas pauzės ženklas, paliekamas kaip vardas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולמים",
+      "rationale": "Daugiskaitinė forma 'amžiams' — hebrajiškai 'olamim', slepiamojo laiko riba."
+    }
+  ],
+  "translation": "Apsistosiu tavo palapinėje amžiams, slėpsiuosi priedangoje tavo sparnų. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/61\/5-8.1792488219978.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "apsistosiu"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "tavo palapinėje"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "amžiams"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "slėpsiuosi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "priedangoje"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tavo sparnų"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:39.979230273Z",
+  "model": "glm-5.3"
+}

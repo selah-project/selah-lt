@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kunigaikščiai",
+      "rationale": "נשיאים — iškilieji, sheikai, iškeltaisiais; „kunigaikščiai“ — artimiausias lietuviškas atitikmuo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dvylika",
+      "rationale": "Skaičius lietuviškai pilnas, kaip hebrajiškai שנים עשר — atliepia Pr 17, 20 pažadą apie dvylika kunigaikščių"
+    }
+  ],
+  "translation": "Šitie yra Jišmaelo sūnūs, ir šitie jų vardai jų kiemuose ir jų bokštuose; dvylika kunigaikščių pagal jų tautas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/25\/13-16.1792471437310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaelo"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ir šitie"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "jų vardai"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "jų kiemuose"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "ir jų bokštuose"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "kunigaikščiai"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "pagal jų tautas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:57.314710177Z",
+  "model": "glm-5.3"
+}

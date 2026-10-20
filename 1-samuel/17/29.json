@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Argi tai ne žodis?",
+      "rationale": "דבר הוא: KJV 'Is there not a cause?' vs JPS 'Was it not but a word?' — pažodžiui 'argi tai ne žodis\/daiktas?'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių kalbai reikia copula"
+    }
+  ],
+  "translation": "Ir Davidas tarė: Ką dabar padariau? Argi tai ne ⟨yra⟩ žodis?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d79e0dffca74dabb1e361e608392a5ba1189ff2f7bcfa7bb6dcf10a96e6fc399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/29-32.1792477436203.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "padariau"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Argi ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:23:56.205251216Z",
+  "model": "glm-5.3"
+}

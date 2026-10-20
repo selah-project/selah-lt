@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „aukštas yra Jahvė“"
+    },
+    {
+      "kind": "crux",
+      "subject": "ו but",
+      "rationale": "וְ gali reikšti „bet“ arba „ir“: „aukštas, bet žemąjį regi“ (priešprieša) arba paprastą jungtį"
+    }
+  ],
+  "translation": "Nes aukštas yra Jahvė, bet žemąjį Jis regi, o išpuikusį iš tolo Jis pažįsta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/138\/5-8.1792489297916.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "רם",
+      "gloss": "aukštas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "bet žemąjį"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "Jis regi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "o išpuikusį"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "iš tolo"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "Jis pažįsta"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:37.916991489Z",
+  "model": "glm-5.3"
+}

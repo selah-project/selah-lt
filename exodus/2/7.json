@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "sesers klausimas",
+      "rationale": "Klausimas „Ar eiti man?“ — kreipimasis į Paro dukterį, siūlymas, kuris veda į veiksmą."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "Prefab partisan 'אל' verčiamas su linksniu „dukteriai“"
+    }
+  ],
+  "translation": "Ir jo sesuo tarė Paro dukteriai: Ar eiti man ir pašaukti tau žindančią moterį iš hebrajų, kad tau žindytų ⟨את⟩ vaiką?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/2\/5-8.1792472124815.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "jo sesuo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukteriai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ar eiti"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "pašaukti"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moterį"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "žindančią"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebrajų"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "žindytų"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaiką"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "vaiką"
+    }
+  ],
+  "timestamp": "2026-10-20T04:55:24.820035771Z",
+  "model": "glm-5.3"
+}

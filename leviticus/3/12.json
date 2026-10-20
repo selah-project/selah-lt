@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפני יהוה",
+      "rationale": "pažodžiui 'prieš Jahvės veidą' — lietuviškai 'priešais Jahvę'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų sąsaja tarp 'ožka' ir 'auka' be veiksmažodžio — lietuviškai pridėtas brūkšnys-vieta"
+    }
+  ],
+  "translation": "O jeigu jo auka — ožka, tai jis prives ją priešais Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/3\/9-12.1792473131264.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jeigu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ožka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jo auka"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "jis prives"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:11.270139029Z",
+  "model": "glm-5.3"
+}

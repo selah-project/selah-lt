@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — pridėta kopula"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "'senas, patikrintas, vertingas' — KJV 'durable', kiti 'enduring'; turtas, kuris neišsenka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה išlaikyta kaip cedek — ne verčiama į 'teisumas' viena"
+    }
+  ],
+  "translation": "Turtai ir garbė ⟨yra⟩ ⟨את⟩ — pas mane, patvarus turtas ir cedek.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/8\/17-20.1792489545709.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Turtai"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ir garbė"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "pas mane"
+    },
+    {
+      "surface": "הון",
+      "gloss": "turtas"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "patvarus"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ir cedek"
+    }
+  ],
+  "timestamp": "2026-10-20T09:45:45.709933715Z",
+  "model": "glm-5.3"
+}

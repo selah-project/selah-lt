@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "אלהי čia apie stabus — mažąja raide, ne Eloah Vardas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "medžiagų sąrašas",
+      "rationale": "šešios medžiagos žemėjančia tvarka — nuo aukso iki akmens — lietuviškai išlaikyta ta seka"
+    }
+  ],
+  "translation": "Jie gėrė vyną ir šlovino dievus — aukso, sidabro, vario, geležies, medžio ir akmens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0748b5f09da5ef67d67c82e650623ccc2f45c5c85e609034e46535625deb7528",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/5\/1-4.1792491740424.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "Jie gėrė"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "vyną"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ir šlovino"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "sidabro"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "vario"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "geležies"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ir akmens"
+    }
+  ],
+  "timestamp": "2026-10-20T10:22:20.425712764Z",
+  "model": "glm-5.3"
+}

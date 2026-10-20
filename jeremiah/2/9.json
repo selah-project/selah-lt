@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם \/ ואת",
+      "rationale": "čia את yra prielinksis 'su', ne tiesioginio objekto žymuo, todėl ⟨את⟩ ženklas neįtrauktas"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Jahvė tiesiogiai kreipiasi į tautą teismo kalbos forma"
+    }
+  ],
+  "translation": "Todėl dar teisiuos ⟨את⟩ su jumis, sako Jahvė, ⟨את⟩ ir su jūsų vaikų vaikais teisiuos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/2\/9-12.1792482054939.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "teisiuos"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ir su"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "jūsų vaikai"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "teisiuos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:40:54.940052398Z",
+  "model": "glm-5.3"
+}

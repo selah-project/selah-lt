@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "„Bičiulis, pažįstamas“ vs „vadas“ — čia meilės-prisirišimo kreipinys į tėvą."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הלוא מעתה קראתי",
+      "rationale": "Kai kurie skaito būsimąjį („ar ne šauksi?“) arba JPS „kaip tik dabar šaukei“ — praėities formos su priegaide."
+    }
+  ],
+  "translation": "Ar ne nuo šiol tu šaukei man: „Mano tėve, tu mano jaunystės bičiulis ⟨esi⟩“?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/3\/1-4.1792482172007.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nuo šiol"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aš šaukiau"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėve"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "bičiulis"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mano jaunystės"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu ⟨esi⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T07:42:52.010751128Z",
+  "model": "glm-5.3"
+}

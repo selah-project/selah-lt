@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "perkūnos slėpinyje",
+      "rationale": "בסתר רעם — perkūnos paslaptis; ne „slaptoje vietoje“, o pats griausmas kaip dangaus atsakymas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריבה",
+      "rationale": "Vietos vardas „Ginčas“ — Iš 17 peštynės prie vandens; vardas tampa įvykio apibūdinimu"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתר רעם",
+      "rationale": "Atsakymas duodamas paslėptame — perkūnos dangoje — balse"
+    }
+  ],
+  "translation": "Sušukai apsuptyje, ir aš tave išvadavau; atsakiau tau perkūnos slėpinyje, išbandžiau tave prie Meribos vandens. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/81\/5-8.1792488537881.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "apsuptyje"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sušukai"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ir aš tave išvadavau"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "atsakiau tau"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "slėpinyje"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "perkūnos"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "išbandžiau tave"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribos"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-20T09:28:57.882746435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' dabartiniame laike; lietuvių kalbai reikia ⟨esu⟩ — čia be skliaustų, nes 'aš esu Jahvė' yra formula."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerusalemo gyventojams",
+      "rationale": "Tiesioginis kreipimasis į teisiamuosius."
+    }
+  ],
+  "translation": "Kardu jūs krisite; prie Jisraelio sienos aš ⟨את⟩ jus teisiu, ir pažinsite, kad aš esu Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/9-12.1792483967000.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "kardu"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "jūs krisite"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "aš teisiu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ir pažinsite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:12:47.002754952Z",
+  "model": "glm-5.3"
+}

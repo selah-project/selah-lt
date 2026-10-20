@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשם לא תשא",
+      "rationale": "pažodžiui 'jų galvų (skaičiaus) nekelsi' — metafora iš skaičiavimo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "eiliutė įsako neįtrauti Levi į surašymą"
+    }
+  ],
+  "translation": "Tik Levi genties ⟨את⟩ tu neperžiūrėsi ir jų galvų skaičiaus neimsi tarp Jisraelio sūnų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/49-52.1792473832461.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi genties"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "genties"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "peržiūrėsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jų galvų skaičiaus"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "jų galvų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "imsi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:52.462257968Z",
+  "model": "glm-5.3"
+}

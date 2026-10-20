@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויסרו",
+      "rationale": "ייסר reiškia ir mušimu bausti, ir žodžiu pamokyti — lietuvių „baudys“ palieka abu pjūvius atvirus."
+    }
+  ],
+  "translation": "Ir tos miesto vyresnieji paims ⟨את⟩ vyrą ir ⟨את⟩ jį baudys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/22\/17-20.1792475384628.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ir paims"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresnieji"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyrą"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyrą"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ir baudys"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:44.630315566Z",
+  "model": "glm-5.3"
+}

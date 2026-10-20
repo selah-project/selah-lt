@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas darinys 'ir štai sapnas' be veiksmažodžio; lietuvių kalbai reikia kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "prarijo",
+      "rationale": "tai pat bala' — 'ryti' — vaizdas pakartoja sapną su karvėmis (41,4), sapnų paralelizmas"
+    }
+  ],
+  "translation": "Ir plonosios varpos prarijo ⟨את⟩ septynias riebiąsias ir pilnąsias varpas, ir Paroh pabudo — ir štai ⟨buvo⟩ sapnas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/5-8.1792471843899.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתבלענה",
+      "gloss": "ir prarijo"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "varpos"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "plonosios"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "septynias riebiąsias ir pilnąsias varpas"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "septynias"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "varpas"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "riebiąsias"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "ir pilnąsias"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "ir pabudo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sapnas"
+    }
+  ],
+  "timestamp": "2026-10-20T04:50:43.904036602Z",
+  "model": "glm-5.3"
+}

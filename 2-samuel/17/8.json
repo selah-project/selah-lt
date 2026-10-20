@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש yra arčiau 'gerklė \/ gyvybės jėga', ne siela”; {”kind”: ”crux”, ”subject”: ”kartūs savo sieloje”, ”rationale”: ”מרי נפש — 'karčios dvasios' vs 'įniršę': laikoma pažodinė 'kartūs'"
+    },
+    {
+      "kind": "you",
+      "subject": "Absalomui",
+      "rationale": "Hušis tiesiogiai kreipiasi: 'tu pažįsti savo tėvą'"
+    },
+    {
+      "kind": "crux",
+      "subject": "nepernakvos su tauta",
+      "rationale": "את čia H854 'su', prielinksnis, ne veiksnio-objekto žymeklis"
+    }
+  ],
+  "translation": "Ir Hušis tarė: Tu pažįsti ⟨את⟩ savo tėvą ir ⟨את⟩ jo vyrus, kad jie stiprieji vyrai ir jie kartūs savo sieloje, kaip lokys, netekęs jauniklių, lauke; o tavo tėvas — karo vyras, ir jis nepernakvos ⟨את⟩ su tauta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/5-8.1792478374299.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hušis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "pažįsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tėvą"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "savo tėvą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo vyrus"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jo vyrus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "stiprieji vyrai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ir kartūs"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "savo sieloje"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jie"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "kaip lokys"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "netekęs jauniklių"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "o tavo tėvas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nepernakvos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su",
+      "marks": "tauta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    }
+  ],
+  "timestamp": "2026-10-20T06:39:34.304308583Z",
+  "model": "glm-5.3"
+}

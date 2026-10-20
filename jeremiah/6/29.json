@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 6:29",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחר מפח",
+      "rationale": "KJV 'pūstuvai sudegė' vs ASV\/JPS 'pūstuvai smarkiai pučia' — šaknis חרר reiškia kaitinti; pasirinkta 'įkaito'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרף \/ צרוף",
+      "rationale": "To paties veiksmažodžio kartojimas — tirpiama ir vėl tirpiama; lietuvių kalboje kartojimas išlaikytas."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאשתם",
+      "rationale": "Retas žodis (uognis, מאשתם) be matmenų — 'nuo jų ugnies'."
+    }
+  ],
+  "translation": "Įkaito pūstuvai, nuo jų ugnies išsilydė švinas — veltui ⟨buvo⟩ tirpiama ir tirpiama, ir piktieji nebuvo atskirti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/6\/29-30.1792482190072.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחר",
+      "gloss": "įkaito"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "pūstuvai"
+    },
+    {
+      "surface": "מאשתם",
+      "gloss": "nuo jų ugnies"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "švinas"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "veltui"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "tirpiama"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "tirpiama"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "ir piktieji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "buvo atskirti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:10.073706192Z",
+  "model": "glm-5.3"
+}

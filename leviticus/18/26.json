@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pasibjaurėtynų",
+      "rationale": "תועבה — tai, kas sukelia pasibjaurėjimą; vienas žodis visur vienodai."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis kreipimasis į Izraelio bendruomenę — įsakymo forma."
+    }
+  ],
+  "translation": "Ir jūs saugokite ⟨את⟩ mano įstatus ir ⟨את⟩ mano teismus, ir nedarykite nė vienos iš visų šitų pasibjaurėtynų — ne vietinis, ne ateivis, gyvenantis tarp jūsų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/25-28.1792473482596.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ir saugokite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano įstatus"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mano įstatus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mano teismus"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nė vienos iš visų"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "pasibjaurėtynų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šitų"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "vietinis"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ir ateivis"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "gyvenantis"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "tarp jūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:18:02.599705135Z",
+  "model": "glm-5.3"
+}

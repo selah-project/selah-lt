@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "užmigo su savo tėvais",
+      "rationale": "עם אבתיו — hebrajiškas eufemizmų mirties apibūdinimas; pažodžiui 'gulėjo su savo tėvais'."
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Lietuvių kalbai reikia įvardžio prie 'tėvų'; hebrajų turi tik posesyvinę galūnę אבתיו."
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "'jo sūnus' — hebrajiškas בנו turi tik galūnę; lietuviškam sklandumui pridėtas įvardis."
+    }
+  ],
+  "translation": "Ir Chizkijahu užmigo su savo tėvais, ir jo sūnus Menašė ėjo karaliauti vietoj jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dce5569d8e3bac142e9a422053987d24ca09544294824208fc26656d3773203d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/20\/21-21.1792480361134.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "užmigo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "savo tėvais"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ėjo karaliauti"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašė"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "vietoj jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:41.134885493Z",
+  "model": "glm-5.3"
+}

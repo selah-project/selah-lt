@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "Klausimas tiesiog kreipiasi į jaunuolį ir skaitytoją."
+    },
+    {
+      "kind": "crux",
+      "subject": "יזכה",
+      "rationale": "„apsivalys“ vs „išlaikys tyrą“ — šaknis reiškia būti permatomam, nekal tam."
+    }
+  ],
+  "translation": "Kuo jaunuolis apsivalys ⟨את⟩ savo kelią? Saugodamas jį pagal tavo žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/9-12.1792489074357.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Kuo"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "apsivalys"
+    },
+    {
+      "surface": "נער",
+      "gloss": "jaunuolis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kelią"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "savo kelią"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "Saugodamas"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "pagal tavo žodį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:37:54.358197759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "macoro",
+      "rationale": "המצרע — “nukentėjęs nuo caraat”; paliktas transliteruotas, nes vienas žodis vienai sąvokai"
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "lietuvių kalbai reikia būtojo kartinio kartojimo; hebrajiškas תהיה yra „taps“"
+    }
+  ],
+  "translation": "Ši ⟨yra⟩ Tora apie macoro jo apsivalymo dieną: jis ⟨yra⟩ atvedamas pas kunigą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/1-4.1792473369513.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ši"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yra"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "apie macoro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "jo apsivalymo"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "yra atvedamas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:09.515204763Z",
+  "model": "glm-5.3"
+}

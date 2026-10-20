@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų turi tik אשר לו ('kuri jam') — pridėta kopula lietuvių sintaksei"
+    },
+    {
+      "kind": "substitution",
+      "subject": "praustuvas",
+      "rationale": "כיור — dubuo vandeniui plauti kunigams, ne 'kriaušė'"
+    }
+  ],
+  "translation": "⟨את⟩ deginamųjų aukurą, ir ⟨את⟩ jo vario grotą, kuri yra ⟨את⟩ jo kartis, ir ⟨את⟩ visus jo indus, ⟨את⟩ praustuvą ir ⟨את⟩ jos pačetą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "721100d4fd704bab70b436b60f51e9ff3774907d6dc12a47d5887069d149b7d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/13-16.1792472961094.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aukurą"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aukurą"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamųjų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "grotą"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "grotą"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yra jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo kartis"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "jo kartis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus jo indus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jo indus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praustuvą"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "praustuvą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jos pačetą"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jos pačetą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:09:21.100488272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באדם",
+      "rationale": "„Žmogaus ranka“ (per žmogų) ar priemonės ב instrumentinis „per žmogų“ — vertėjai skirtingai."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפך...ישפך",
+      "rationale": "Šaknies שפך aidas: išlieja — bus išliesta."
+    }
+  ],
+  "translation": "Kas išlieja žmogaus kraują — žmogaus ⟨ranka⟩ jo kraujas bus išlietas, nes Elohim atvaizde pagamino ⟨את⟩ žmogų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/5-8.1792471086086.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "kas išlieja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kraują"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "žmogaus ⟨ranka⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jo kraujas"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bus išlietas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "atvaizde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pagamino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmogą"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "žmogą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:38:06.087659202Z",
+  "model": "glm-5.3"
+}

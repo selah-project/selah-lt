@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנגבה",
+      "rationale": "Negaubas — sausringas pietų kraštas; 'į pietus' praranda vietovardį"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jam priklausė⟩",
+      "rationale": "Hebrajų kalba turi tik 'viskas, kas jam' — veiksmažodis pridėtas lietuviškai"
+    }
+  ],
+  "translation": "Ir Avramas pakilo iš Micraimo — jis, ir jo žmona, ir visa, kas ⟨jam priklausė⟩, ir Lotas su juo — į pietus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/13\/1-4.1792471214516.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "pakilo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "iš Micraimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ir jo žmona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jam priklausė⟩"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ir Lotas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "į pietus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:14.516640871Z",
+  "model": "glm-5.3"
+}

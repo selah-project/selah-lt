@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pats",
+      "rationale": "hebrajiškai tik 'tu keikei' — 'pats' pridėta pabrėžti veikėją, kaip daro KJV 'thou thyself'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ידע לבך",
+      "rationale": "'žinojo tavo širdis' — hebrajų širdis yra žinojimo vieta, ne tik jausmų"
+    }
+  ],
+  "translation": "Juk ir daug kartų pats žino tavo širdis, kad ir ⟨את⟩ tu pats keikei kitus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/7\/21-24.1792491255814.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "juk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kartų"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "daug"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žino"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tavo širdis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu pats"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "keikei"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:15.815606770Z",
+  "model": "glm-5.3"
+}

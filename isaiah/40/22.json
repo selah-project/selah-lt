@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Tas⟩",
+      "rationale": "dalyvinė konstrukcija be daiktavardžio — lietuvių reikalauja įvardžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוג — ratas",
+      "rationale": "žemė kaip ratas \/ skritulys; diskutuojama, ar tai kosmologinis skritulys, ar dangaus skliautas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skėriai",
+      "rationale": "חגב — tiesioginis vaizdas: žmonės iš aukščio atrodo kaip skėriai"
+    }
+  ],
+  "translation": "⟨Tas⟩, kuris sėdi virš žemės rato, ir jos gyventojai kaip skėriai; ⟨tas⟩, kuris ištiesia dangų kaip ploną drobę, ir išskleidžia juos kaip palapinę gyventi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/40\/21-24.1792481543718.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "kuris sėdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "rato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "ir jos gyventojai"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "kaip skėriai"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "kuris ištiesia"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "kaip ploną drobę"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "ir išskleidžia juos"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "kaip palapinę"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gyventi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:23.721376392Z",
+  "model": "glm-5.3"
+}

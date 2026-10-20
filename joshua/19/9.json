@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 19:9",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būtų ⟨juos⟩",
+      "rationale": "לietuvių kalbai reikia žodžių, kurių hebrajų tekstas neturi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל\/חלק\/נחלה",
+      "rationale": "פakartojama šaknis נחל ir žodžiai חבל\/חלק — sklypas\/dalis\/paveldėjimas, lietuvių kalboje ši žodinė gija partially prarandama"
+    },
+    {
+      "kind": "measurement",
+      "subject": "paveldėjimo dalijimas",
+      "rationale": "eiletė apie žemės sklypų matavimą ir dalijimą"
+    }
+  ],
+  "translation": "Iš sklypo J ehudos sūnų buvo būtų paveldėta būtų Šimono sūnų, nes J ehudos sūnų dalis buvo didesnė už ⟨juos⟩, todėl Šimono sūnai paveldėjo jų paveldėjimo viduryje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "791896c9415b6e8328215e6aa0ba4ddf6e4a0416187dbaa27016623074eed981",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/19\/9-12.1792476106851.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחבל",
+      "gloss": "iš sklypo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "J ehudos"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldėta būtų"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dalis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "J ehudos"
+    },
+    {
+      "surface": "רב",
+      "gloss": "didesnė"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "už juos"
+    },
+    {
+      "surface": "וינחלו",
+      "gloss": "todėl paveldėjo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnai"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimono"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "jų paveldėjimo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:01:46.851900860Z",
+  "model": "glm-5.3"
+}

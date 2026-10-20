@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio — įrašas yra vardininko sąrašas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשכן",
+      "rationale": "Miškanas išlaikomas pagal hebrajiškąjį garsą, o ne verčiamas kaip 'būstas'"
+    }
+  ],
+  "translation": "O Geršono sūnų pareiga Susirinkimo palapinėje ⟨yra⟩ miškanas ir palapinė, jos dengimas, bei uždanga prie įėjimo į Susirinkimo palapinę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2f002afddf14d9efe08c1955bed26c958743be818b4f50a1566dd794b04db758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/25-28.1792473890132.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרת",
+      "gloss": "pareiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršono"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "palapinėje"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susirinkimo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanas"
+    },
+    {
+      "surface": "והאהל",
+      "gloss": "ir palapinė"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "jos dengimas"
+    },
+    {
+      "surface": "ומסך",
+      "gloss": "bei uždanga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "prie įėjimo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susirinkimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:50.133022574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "į Avnerį",
+      "rationale": "Tiesioginė retorinė apkaltinant kalba Davido lūpomis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ponas",
+      "rationale": "אדניך čia apie žmogų — karalių, tad 'ponas', ne 'Adonai'."
+    }
+  ],
+  "translation": "Ir Davidas tarė Avneriui: Ar ne vyras tu? Ir kas kaip tu Jisraelyje? Ir kodėl nesaugojai savo pono, karaliaus? Nes atėjo vienas iš tautos sunaikinti ⟨את⟩ karalių, tavo poną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/13-16.1792477837247.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerį"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ar ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaip tu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelyje"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ir kodėl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "saugojai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ant"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "savo pono"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "בא",
+      "gloss": "atėjo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "iš tautos"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "sunaikinti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karalių"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tavo poną"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:37.249644553Z",
+  "model": "glm-5.3"
+}

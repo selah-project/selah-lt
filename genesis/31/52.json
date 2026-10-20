@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 31:52",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų skirtukų sakinys neturi veiksmažodžio — lietuvių reikalauja 'būti'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kad aš neperžengsiu",
+      "rationale": "אם čia veikiau priesaikos formula 'jeigu aš peržengsiu...' negu paprastas 'kad' — sandoros priskyrimo forma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikta daryti",
+      "rationale": "לרעה pažodžiui 'dėl pikto' — tikslas ar rezultatas; veiksmažodis pridėtas lietuvių sintaksės."
+    }
+  ],
+  "translation": "Liudytojas ⟨yra⟩ šis pylimas, ir liudytoja ⟨yra⟩ stela, kad aš neperžengsiu pas tave ⟨את⟩ šio pylimo, ir kad tu neperžengsi pas mane ⟨את⟩ šio pylimo ir ⟨את⟩ šios stelos pikta daryti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/49-52.1792471661553.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "liudytojas"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "pylimas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ir liudytoja"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "stela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "peržengsiu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šio pylimo"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "pylimo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ir kad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "peržengsi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šio pylimo"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "pylimo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "šios stelos"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "stelos"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "šios"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "pikta daryti"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:41.556766595Z",
+  "model": "glm-5.3"
+}

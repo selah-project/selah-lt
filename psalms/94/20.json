@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיסא הוות",
+      "rationale": "„nedorės sostas” — gal ir „niekšybės sostas”; hebrajiškas vaizdas yra valdžios sostas, kuris pats veikia neteisę"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי חק",
+      "rationale": "„ant įstatymo” — arba „pagal įstatymą” \/ „įstatymo padengtas”: ar sugalvoja bėdą įstatymo prieglaugoje, ar prieš įstatymą"
+    }
+  ],
+  "translation": "Ar susijungs su tavimi nedorės sostas, kuris kuria darbą bėdos ant įstatymo?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "67407045ed88c5fda257f22588dd2554bf840572bfeb51dc29e2362adcc88043",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/94\/20-20.1792494132363.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֽ֭יְחָבְרְךָ",
+      "gloss": "ar susijungs su tavimi"
+    },
+    {
+      "surface": "כִּסֵּ֣א",
+      "gloss": "sostas"
+    },
+    {
+      "surface": "הַוּ֑וֹת",
+      "gloss": "nedorės"
+    },
+    {
+      "surface": "יֹצֵ֖ר",
+      "gloss": "kuris kuria"
+    },
+    {
+      "surface": "עָמָ֣ל",
+      "gloss": "darbą bėdos"
+    },
+    {
+      "surface": "עֲלֵי",
+      "gloss": "ant"
+    },
+    {
+      "surface": "חֹֽק",
+      "gloss": "įstatymo"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:12.363819798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to his hosts",
+      "rationale": "Imperative summons: bless Jahvė, all his hosts."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Laužinkite kelius",
+      "rationale": "ברך reiškia 'klauptis\/linkėti gera' — lietuviškai per frazę 'laužyti kelius' arba 'garbinkite'."
+    },
+    {
+      "kind": "crux",
+      "subject": "cevaot",
+      "rationale": "צבאיו čia be Vardo — 'jo kariaunos\/ pulkai', ne formuluotė 'Jahvė Cevaot'."
+    }
+  ],
+  "translation": "Laužinkite kelius prieš Jahvę, visi jo cevaot, jo tarnai, darantys jo valią!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/103\/21-22.1792488751710.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Laužinkite kelius"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "jo cevaot"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "jo tarnai"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "darantys"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "jo valią"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:31.711468080Z",
+  "model": "glm-5.3"
+}

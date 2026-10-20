@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kad jis",
+      "rationale": "Lietuvių šalutiniam sakiniui reikia jungiamojo žodžio; hebrajų veiksmažodis tik tęsia pasakojimą."
+    }
+  ],
+  "translation": "Tu kalbėsi ⟨את⟩ visa, ką tau įsakysiu, o Aharonas, tavo brolis, kalbės faraonui, kad jis išsiųstų ⟨את⟩ Jisraelio sūnus iš savo krašto.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/1-4.1792472265511.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Tu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kalbėsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "tau įsakysiu"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "o Aharonas"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolis"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "kalbės"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faraonui"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonui"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kad jis išsiųstų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio sūnus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "iš savo krašto"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:45.514074161Z",
+  "model": "glm-5.3"
+}

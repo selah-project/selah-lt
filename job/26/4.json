@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "נשמת pažodžiui 'kvapas, alsavimas' — išlaikytas kaip ruach, nes vienas žodis, keli dalykai"
+    },
+    {
+      "kind": "crux",
+      "subject": "את מי",
+      "rationale": "prielinksnis את 'su' + 'kas': 'su kieno pagalba' (JPS) vs paprasčiausiai 'kam' (KJV)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלין ... נשמת",
+      "rationale": "žodžiai ir kvapas — kalba ateina iš kvapo; vaizdas prarandamas, kai verčiama 'dvasia'"
+    }
+  ],
+  "translation": "Su ⟨את⟩ kuo tu ištarrei žodžius, ir kieno ruach išėjo iš tavęs?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/26\/1-4.1792490480579.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su kuo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kuo"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "tu ištarrei"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ir kieno ruach"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kieno"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "iš tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:20.580301684Z",
+  "model": "glm-5.3"
+}

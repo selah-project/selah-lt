@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Žodžių junginys „Jahvė yra jos Elohim“ — hebrajiškai be veiksmažodžio, lietuviškai reikia ⟨yra⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelis",
+      "rationale": "Kalbama apie tautą, kurią Jahvė išsirinko — kreipimasis į skaitytoją per „laiminga tauta“"
+    }
+  ],
+  "translation": "Laiminga tauta, kurios Elohim ⟨yra⟩ Jahvė, — tauta, kurią jis išsirinko ⟨sau⟩ į paveldą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/33\/9-12.1792487802485.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Laiminga"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurios"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim ⟨yra⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "išsirinko"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "į paveldą"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sau⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:42.486713668Z",
+  "model": "glm-5.3"
+}

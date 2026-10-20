@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 17:24",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iš prieš",
+      "rationale": "מלפני — pažodžiui 'iš veido'; lietuviškai 'iš prieš akis', čia laikoma pažodinė forma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה",
+      "rationale": "'lazda' ir 'gentis' — tas pats žodis; kiekvienas vyras paima savo gentį-kišenę"
+    }
+  ],
+  "translation": "Ir Mošė išnešė ⟨את⟩ visas lazdeles iš prieš Jahvę ⟨atėjęs⟩ pas visus Jisraelio sūnus; jie pažiūrėjo ir paėmė kiekvienas savo lazdą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "25ee73993f97657849a70c545a02f6d2f1a9d8af04d1de72cb9cecabdd592a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/17\/21-24.1792474245533.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ir išnešė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visas lazdeles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "lazdeles"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "iš prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ir pažiūrėjo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "savo lazdą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:45.537923570Z",
+  "model": "glm-5.3"
+}

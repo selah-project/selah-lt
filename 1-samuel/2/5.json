@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "būti alkani",
+      "rationale": "Hebrajų חדלו sako tik „liovėsi“ — objektas pridėtas lietuviškai, pažymėtas ⟨…⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבעים \/ שבעה",
+      "rationale": "„Sotieji“ (שבעים) ir „septynis“ (שבעה) — ta pati šaknis, žodžių žaismas lietuviškai prarandamas"
+    }
+  ],
+  "translation": "Sotieji už duoną samdosi, o alkani liovėsi ⟨būti alkani⟩; bevaisė pagimdė septynis, o turtinga vaikų nusilpo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/5-8.1792476881852.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "sotieji"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "už duoną"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "samdosi"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "o alkani"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "liovėsi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bevaisė"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "pagimdė"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "o turtinga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nusilpo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:14:41.853487475Z",
+  "model": "glm-5.3"
+}

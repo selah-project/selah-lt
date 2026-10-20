@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח neverčiamas — 'dvasia' viena prarastų vėjo\/kvapo ryšį, pvz. Ez 37"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבלע",
+      "rationale": "Pažodžiui 'prarysiu' — patarimas praryjamas kaip maistas; lietuvių išlaiko vaizdą"
+    },
+    {
+      "kind": "crux",
+      "subject": "האטים האבות הידענים",
+      "rationale": "Keturi okultizmo tipai: 'švelniai buriantys', 'niurnantys (dvasių iššaukėjai)', 'žinantys' — vertėjai skiriasi dėl kiekvieno"
+    }
+  ],
+  "translation": "Ir bus ištuštinta Micraimo ruach jo viduje, ir jų patarimą prarysiu; ir jie ieškos stabų ir šnabžtojų-burtininkų, ir dvasių-iššaukėjų, ir žinovų-burtininkų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5010e7714df50176ee4659e1bf0f70245b8102ea7f0110541ad7f01c6d89ca1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/1-4.1792480948064.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "Ir bus ištuštinta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "jo viduje"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ir jų patarimą"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "prarysiu"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ir jie ieškos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pas⟩"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "stabų"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ⟨pas⟩"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "šnabžtojų-burtininkų"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ⟨pas⟩"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "dvasių-iššaukėjų"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ⟨pas⟩"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "žinovų-burtininkų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:22:28.065730840Z",
+  "model": "glm-5.3"
+}

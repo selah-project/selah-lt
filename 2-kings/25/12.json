@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "žmonių",
+      "rationale": "hebrajiškas ומדלת הארץ 'krašto vardmenys' be daiktavardžio 'žmonės' — pridėta aiškumo dėlei."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דל",
+      "rationale": "'vargingiausieji' — m\/1803 reiškia 'skurdžiausias, menkiausias'."
+    }
+  ],
+  "translation": "O iš vargingiausiųjų krašto žmonių skerdikų viršininkas paliko vynuogininkams ir dirbintojams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/9-12.1792480509372.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "o iš vargingiausiųjų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "krašto"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "paliko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "viršininkas"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "skerdikų"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "vynuogininkams"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "ir dirbintojams"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:09.374134286Z",
+  "model": "glm-5.3"
+}

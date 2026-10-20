@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio jungties tarp 'alkis' ir 'tavo viduryje'."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישחך",
+      "rationale": "Rečiausias žodis: KJV 'tavo pažeminimas', JPS 'tavo liga', BSB 'tavo alkis' — iš šaknies ישח (būti tuščiam\/alkanam)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ותסג",
+      "rationale": "'Griūsi\/bėgsi' — KJV 'imsi laikyti' vs YLT 'trauksies'; šaknis נסג — atsitraukti."
+    }
+  ],
+  "translation": "Tu valgysi ir nebusi sotus, ir tavo alkis ⟨yra⟩ tavo viduryje; ir bėgsi, bet neišgelbėsi, o ką išgelbėsi — atiduosiu kardui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/6\/13-16.1792486891162.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "valgysi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "busi sotus"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "ir tavo alkis"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "tavo viduryje"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "ir bėgsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "išgelbėsi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "o ką"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "išgelbėsi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "kardui"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "atiduosiu"
+    }
+  ],
+  "timestamp": "2026-10-20T09:01:31.163757797Z",
+  "model": "glm-5.3"
+}

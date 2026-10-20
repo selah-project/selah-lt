@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "judges 9:53",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "Daiktavardis 'plokštelė\/skeveldra' Tanache beveik nepasitaiko; čia viršutinis rankinis malūno akmuo."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלח רכב",
+      "rationale": "Pažodžiui 'raguotojo gabalas'; verslavo 'viršutinis malūno akmuo' vs YLT 'vežimo gabalas'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kiaušas",
+      "rationale": "גלגלת pažodžiui 'apvalus kaukolės dangalas'; lietuviškas 'kiaušas' išlaiko apvalumo vaizdą."
+    }
+  ],
+  "translation": "Ir viena moteris nusviedė malūno akmens skeveldrą Avimelechui ant galvos, ir ji sudaužė ⟨את⟩ jo kiaušą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "326f1e807c23d69ac53e67e63fd8f16a8e5b9ab4a1c55427f26d81330e50f155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/9\/53-56.1792476501501.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלך",
+      "gloss": "ir nusviedė"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "viena"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "skeveldrą"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "malūno akmens"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechui"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ir sudaužė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo kiaušą"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "jo kiaušą"
+    }
+  ],
+  "timestamp": "2026-10-20T06:08:21.503712827Z",
+  "model": "glm-5.3"
+}

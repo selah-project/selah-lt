@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Chelebas \/ Heledas",
+      "rationale": "חלב čia vardas 'Cheleb', bet lygiagretė 1 Met 11, 30 turi חלד 'Heled'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Binjamins sūnų ⟨iš⟩",
+      "rationale": "hebrajiškas construct 'Gibeos Binjamo sūnų' — lietuvių linksniavimui pridėtas prielinknis ⟨iš⟩."
+    }
+  ],
+  "translation": "Chelebas, Baanos sūnus, netofietis; Itajus, Ribo sūnus, iš Gibeos Binjamins sūnų ⟨iš⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d5ee87afbbc620a96e935aacb513fab9d0f9a783460fde83ab231b8636c26443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/29-32.1792478693441.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "Chelebas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Baanos"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "netofietis"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itajus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Ribo"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "iš Gibeos"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamins"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:53.442527756Z",
+  "model": "glm-5.3"
+}

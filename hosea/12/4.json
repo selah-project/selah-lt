@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב \/ יעקב",
+      "rationale": "Veiksmažodis 'čiupti už kulno' — tas pats sunumeruotas šaknis kaip vardas Jaakovas; lietuviškame žodyje šis ryšys dingsta."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרה",
+      "rationale": "'Kovėsi, nugalėjo' — Hebrajų kalba čia užuomina į Pr 32, kova prie Jaboko; kai kurios redakcijos skaito 'buvo kunigaikštis prieš Dievą'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אונו",
+      "rationale": "'Jo jėga, branda' vs 'jo suaugęs amžius' — abi laikomos."
+    }
+  ],
+  "translation": "Įsčiose jis čiupo ⟨את⟩ savo brolį už kulno, ir savo jėga jis kovėsi su ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/12\/1-4.1792486351483.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "įsčiose"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "čiupo už kulno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo brolį"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo brolį"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ir savo jėga"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "kovėsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T08:52:31.485622713Z",
+  "model": "glm-5.3"
+}

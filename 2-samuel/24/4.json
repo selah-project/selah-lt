@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nugalėjo",
+      "rationale": "ויחזק pažodžiui 'pasidarė stiprus' — karaliaus žodis 'įsigalėjo' prieš Joabą."
+    },
+    {
+      "kind": "addition",
+      "subject": "iš",
+      "rationale": "לפני 'veido atžvilgiu' — pridėta prielinksnė konstrukcija 'iš akivaizdos'."
+    }
+  ],
+  "translation": "Ir nugalėjo karaliaus žodis Joabą ir karo vadus; ir išėjo Joabas bei karo vadai iš karaliaus akivaizdos suskaičiuoti ⟨את⟩ tautą, ⟨את⟩ Jisraelį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/1-4.1792478782203.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nugalėjo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabą"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "vadus"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "bei vadai"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdos"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "suskaičiuoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelį"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:46:22.206317964Z",
+  "model": "glm-5.3"
+}

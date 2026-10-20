@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — ne 'siela', o gyvybės jėga, alsavimas, geismas; čia 'gyvybės geismas'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדת רד",
+      "rationale": "Infinitivas + imperatyvas iš tos pačios šaknies — 'nusileisti — nusileisk' — kalbos skubėjimas, išlaikytas."
+    },
+    {
+      "kind": "you",
+      "subject": "Šaului",
+      "rationale": "Zifiečiai kreipiasi tiesiai į karalių: 'karaliau, nusileisk'."
+    }
+  ],
+  "translation": "Ir dabar, kiek tik karaliaus gyvybė geidžia, nusileisk, nusileisk, o mūsų dalis — atiduoti jį karaliaus rankon.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/17-20.1792477647926.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ir dabar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kiek tik"
+    },
+    {
+      "surface": "אות",
+      "gloss": "geidžia"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "gyvybė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "nusileisti"
+    },
+    {
+      "surface": "רד",
+      "gloss": "nusileisk"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "o mūsų dalis"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "atiduoti jį"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į rankon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:27.930242526Z",
+  "model": "glm-5.3"
+}

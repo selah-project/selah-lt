@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "namų žmonėms",
+      "rationale": "Jaakovo imperatyvai kreipti į jo namų žmones ir visus, kurie su juo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievus",
+      "rationale": "אלהי הנכר — mažąja raide, nes svetimų tų dievai"
+    }
+  ],
+  "translation": "Ir tarė Jaakovas savo namų žmonėms ir visiems, kurie buvo su juo: Pašalinkite ⟨את⟩ svetimųjų dievus, kurie yra jūsų viduje, ir apsivalykite, ir pasikeiskite savo drabužius.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/1-4.1792471777502.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-iems"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "savo namų žmonėms"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "buvo su juo"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Pašalinkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svetimųjų dievus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dievus"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "svetimųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "jūsų viduje"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "ir apsivalykite"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "ir pasikeiskite"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "savo drabužius"
+    }
+  ],
+  "timestamp": "2026-10-20T04:49:37.505506843Z",
+  "model": "glm-5.3"
+}

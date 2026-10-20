@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוא ושוב",
+      "rationale": "Pažodžiui „eidamas ir grįždamas“ — verstas „skraidydamas ten ir atgal“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "vargas negrįžo",
+      "rationale": "Kai kurie vertėjai skaito, kad varnas nuolat grįždavo tik į laivą; hebrajų tekstas dviprasmis — eilutė 8, 9 rodo balandį grįžtant, varnui tai nesakoma."
+    }
+  ],
+  "translation": "Ir jis išleido ⟨את⟩ varną; tas išlėkė, skraidydamas ten ir atgal, kol vandens išdžiūvo nuo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/5-8.1792471154248.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ir jis išleido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varną"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "varną"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "tas išlėkė"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "skraidydamas iš"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ir atgal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "išdžiūvo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandens"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:14.251348558Z",
+  "model": "glm-5.3"
+}

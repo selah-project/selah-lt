@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 30:30",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "santykinis jungtukas neturi atskiro lietuviško žodžio šioje struktūroje"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרגלי",
+      "rationale": "pažodžiui 'prie mano kojos' — 'mano žingsnių dėka'; citatos skiriasi: 'kur aš įžengiau' vs 'mano atėjimu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "lietuvių kalbai reikia veiksnio 'išsiliejo' sakinyje"
+    }
+  ],
+  "translation": "Nes mažai turėjai anksčiau už mane, ir ⟨tai⟩ išsiliejo į daugybę, ir Jahvė palaimino ⟨את⟩ tave mano žingsnių dėka; o dabar — kada gi aš padirbsiu ir aš savo namams?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c93cbe9da8b5774e3e478463ff5870777686b7a6e6372e4590e4ebad983569e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/30\/30-32.1792485384525.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mažai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "turėjai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anksčiau už"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "išsiliejo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "į daugybę"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "palaimino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tave",
+      "marks": "tave"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "mano žingsnių dėka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "o dabar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kada gi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "aš padirbsiu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "לביתי",
+      "gloss": "savo namams"
+    }
+  ],
+  "timestamp": "2026-10-20T08:36:24.528145915Z",
+  "model": "glm-5.3"
+}

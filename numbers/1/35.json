@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "šנים ושלשים",
+      "rationale": "Hebrajų eilės tvarka 'du ir trisdešimt'; lietuvių normoje — 'trisdešimt du'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census total",
+      "rationale": "Menasešo skaičius: 32 200 karių."
+    }
+  ],
+  "translation": "Jų suskaičiuotieji Menasešo giminei — trisdešimt du tūkstančiai ir du šimtai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6f5e098990f847ae9956c71d9dc885da0003a9457309993b8676fde891e66a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/33-36.1792473821777.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "jų suskaičiuotieji"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "giminei"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasešo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ir trisdešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančiai"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ir du šimtai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:41.779226773Z",
+  "model": "glm-5.3"
+}

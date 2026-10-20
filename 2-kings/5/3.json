@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יאסף",
+      "rationale": "'Surinktų, pašalintų' — ne 'išgydytų'; mergaitė sako apie raupsų atėmimą."
+    },
+    {
+      "kind": "you",
+      "subject": "šneka",
+      "rationale": "Mergaitės kalba savo poniai — Naamano žmonai."
+    }
+  ],
+  "translation": "Ir ji tarė savo poniai: O kad mano ponas būtų pas pranašą, kuris Šomrone! Tuomet jis jį pašalintų ⟨את⟩ nuo jo raupsų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/5\/1-4.1792479871541.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ir ji tarė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "savo poniai"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "O kad"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mano ponas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomrone"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Tuomet"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "pašalintų"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jį — nuo jo raupsų"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "nuo jo raupsų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:04:31.543655161Z",
+  "model": "glm-5.3"
+}

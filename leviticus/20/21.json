@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebėjų kalba neturi veiksmažodžio; נדה הוא — pažyminys be kopulos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nešvarumas",
+      "rationale": "נדה — atmetimas, menstrualinis nešvarumas; 'nešvarumas' arčiausiai šio konteksto."
+    },
+    {
+      "kind": "crux",
+      "subject": "bevaikiai",
+      "rationale": "ערירים — 'vaikų neturintys': KJV 'childless' vs sąsaja su 20,20 'die childless'."
+    }
+  ],
+  "translation": "Ir vyras, kuris ims ⟨את⟩ žmoną savo brolio, — tai nešvarumas ⟨yra⟩; jis atidengė brolio nuogumą: bevaikiai jie bus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/21-24.1792473627443.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ims"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmoną savo brolio"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmoną"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "savo brolio"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nešvarumas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nuogumą"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "brolio"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "atidengė"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bevaikiai"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "jie bus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:27.454737590Z",
+  "model": "glm-5.3"
+}

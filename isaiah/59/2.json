@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrajiškas priešinimo junginys „ki im“ perteiktas vienu žodžiu „Ne“"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kad Jis⟩",
+      "rationale": "משמוע — išverstinis „nuo girdėjimo“; pridėta sąsaja, kad sakinys lietuviškai skambėtų"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Tiesioginis kreipimasis antruoju asmeniu daugiskaitoje"
+    }
+  ],
+  "translation": "Ne, jūsų kaltės tapo skyrium tarp jūsų ir jūsų Elohim, ir jūsų nuodėmės paslėpė veidą nuo jūsų, ⟨kad Jis⟩ nebegirdėtų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/59\/1-4.1792481941565.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "jūsų kaltės"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tapo"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "skyrium"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "tarp jūsų"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ir jūsų nuodėmės"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "paslėpė"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "nuo jūsų"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "kad nebegirdėtų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:01.566555705Z",
+  "model": "glm-5.3"
+}

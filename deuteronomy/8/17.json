@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "turtas",
+      "rationale": "חיל yra jėga, kariuomenė, turtas — čia materialioji galybės pusė"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "pakartotinas įspėjimas antrajai asmeniui — nesakyk širdyje"
+    }
+  ],
+  "translation": "Ir pasakysi savo širdyje: Mano jėga ir mano rankos galybė padarė man ⟨את⟩ šitą turtą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/8\/17-20.1792475050894.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ir pasakysi"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "savo širdyje"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mano jėga"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ir galybė"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mano rankos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šitą turtą"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "turtą"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šitą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:44:10.895382115Z",
+  "model": "glm-5.3"
+}

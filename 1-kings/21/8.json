@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הספרים",
+      "rationale": "Per-token duomenys rodo aram. determ. formą ha-separim (H5612a) — pasirinkta ⟨את⟩ laiškus; kai kurie skaito kaip DOM את + ספרים"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את נבות",
+      "rationale": "Čia את yra prielinksnis H854 „su“, ne DOM žymiklis — „gyvenantiems su Navotu“"
+    }
+  ],
+  "translation": "Ir ji parašė laiškus Ahabo vardu ir užantspaudavo juo jo antspaudu, ir išsiuntė ⟨את⟩ laiškus vyresniesiems ir kilmingiesiems, kurie ⟨gyveno⟩ jo mieste, gyvenantiems ⟨את⟩ su Navotu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/5-8.1792479606619.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "ir parašė"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "laiškus"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "vardu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabo"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "ir užantspaudavo"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "jo antspaudu"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ir išsiuntė"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "⟨את⟩ laiškus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vyresniesiems"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "vyresniesiems"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir kilmingiesiems"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "kilmingiesiems"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "jo mieste"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "gyvenantiems"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navotu"
+    }
+  ],
+  "timestamp": "2026-10-20T07:00:06.621415655Z",
+  "model": "glm-5.3"
+}

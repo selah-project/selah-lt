@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio ‘būti’ — lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pasiuntinys",
+      "rationale": "המלאך čia karaliaus pasiuntinys, ne angelas — kontekstas (6,32) nusako"
+    },
+    {
+      "kind": "crux",
+      "subject": "ko man dar laukti",
+      "rationale": "מה אוחיל — klausimas nevilties: ‘kodėl dar laukčiau’ arba tvirtinimas ‘nebelauksiu’"
+    }
+  ],
+  "translation": "Kai jis dar kalbėjo su jais, štai pasiuntinys nulipo pas jį ir tarė: Štai šis pikis ⟨yra⟩ nuo ⟨את⟩ Jahvės — ko man dar laukti iš Jahvės?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5f160898a5af93b0bf3f15b7794a5834234bf79a6d19745fcdb34e22388d8fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/33-33.1792479729794.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "dar jis"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "su jais"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "pasiuntinys"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nulipo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pas jį"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "šis"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pikis"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nuo ⟨את⟩",
+      "marks": "Jahvės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "laukti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "iš Jahvės"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-10-20T07:02:09.794828853Z",
+  "model": "glm-5.3"
+}

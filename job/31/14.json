@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 31:14",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "apsilankys",
+      "rationale": "פקד 'aplankyti, išrinkti, suskaičiuoti, atsiminti' — teismo vizitas, ne draugiškas apsilankymas"
+    },
+    {
+      "kind": "addition",
+      "subject": "tada",
+      "rationale": "lietuvių sakiniui reikia jungiamojo žodio tarp sąlygos (v. 13) ir klausimo"
+    }
+  ],
+  "translation": "ką tada darysiu, kai El pakils? Ir kai jis apsilankys, ką jam atsakysiu?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6f9f0de5f2ee4d0cb773a93a2ce26a53e8b0f7deeb3414b320dffedc21cabdae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/31\/13-16.1792490593521.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ir ką"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "darysiu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "pakils"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ir kai"
+    },
+    {
+      "surface": "יפפקד",
+      "gloss": "apsilankys"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "jam atsakysiu"
+    }
+  ],
+  "timestamp": "2026-10-20T10:03:13.522305734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האפר",
+      "rationale": "Nuo 'dulkės\/pelenai' (KJV) iki 'raištis nuo akių' (ASV\/JPS) — kontekstas rodo veidą dengiantį raištį."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Pabrėžiamasis įvardis 'jis' išplėstas į 'jis yra' su pt. ⟨yra⟩."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio 'būti'."
+    }
+  ],
+  "translation": "Ir jis paskubėjo ir nuėmė raištį nuo savo akių, ir Jisraelio karalius jį atpažino ⟨את⟩, kad jis yra iš pranašų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/20\/41-43.1792479515658.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "paskubėjo"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "nuėmė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raištį"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "raištį"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "savo akių"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "atpažino"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jį ⟨את⟩",
+      "marks": "jį"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "iš pranašų"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis yra"
+    }
+  ],
+  "timestamp": "2026-10-20T06:58:35.658624680Z",
+  "model": "glm-5.3"
+}

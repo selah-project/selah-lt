@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu \/ ⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šiose vietose, lietuvių reikalauja"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "KJV 'kuris dalija jūrą' vs ASV 'kuris jaudina jūrą' — sujudinti ar sutramdyti"
+    }
+  ],
+  "translation": "Ir aš esu Jahvė, tavo Elohim, kuris sujudina jūrą, kad jos bangos ūžia — Jahvė Cevaot ⟨yra⟩ jo vardas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/51\/13-16.1792481792512.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ir aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sujudina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "jūrą"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "kad ūžia"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "jos bangos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:36:32.513635018Z",
+  "model": "glm-5.3"
+}

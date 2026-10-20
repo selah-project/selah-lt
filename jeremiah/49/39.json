@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi copula su והיה — 'įvyks' perteikia būsimąjį įvykį"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבית",
+      "rationale": "'tremties sugrąžinimas' arba 'buvusios gerovės atstatymas' — שבות reiškia ir tremtį, ir ankstesnę būseną"
+    }
+  ],
+  "translation": "Ir įvyks paskutinėmis dienomis: atversiu ⟨את⟩ Elamo tremtį, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d44c1c9895c5bcc4a952f907096bdc8898c7952583b2a8cc9ce6deb4afa5f497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/49\/37-39.1792483536003.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "įvyks"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "paskutinėmis"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dienomis"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "atversiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tremtį"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "tremtį"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elamo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:05:36.006140697Z",
+  "model": "glm-5.3"
+}

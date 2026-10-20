@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio; hebrajų kalba jo neturi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם",
+      "rationale": "Kartojamas du kartus — „apsigyvenk ten… įsakiau ten“; paralelizmas išlaikytas."
+    },
+    {
+      "kind": "you",
+      "subject": "Elijui",
+      "rationale": "Jahvės įsakymas adresuotas pranašui Elijui."
+    }
+  ],
+  "translation": "Kelkis, eik į Carfatą, kuris yra prie Cidono, ir apsigyvenk ten; štai įsakiau ten moteriai našlei tave išlaikyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/17\/9-12.1792479445729.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Kelkis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "į Carfatą"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "prie Cidono"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ir apsigyvenk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "įsakiau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "moteriai"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "našlei"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "tave išlaikyti"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:25.730290676Z",
+  "model": "glm-5.3"
+}

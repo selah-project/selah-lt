@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 57:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi būtojo karto veiksmažodžio 'yra' — lietuvių kalbai jis reikalingas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pražuvo",
+      "rationale": "אבד — klajoti, žūti; 'pražuvo' išlaiko klaidžiojimo ir žuvimo abu atspalvius"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yra išvedami",
+      "rationale": "נאספים 'surenkami' taip pat gali reikšti 'iškeliauja, miršta' — mirties eufermizmas"
+    }
+  ],
+  "translation": "Teisusis pražuvo, ir nėra žmogaus, kuris tai širdyje deda, o chesed vyrai yra surenkami be suprantančio, nes nuo pikto veido yra surenkamas teisusis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/57\/1-4.1792481822471.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצדיק",
+      "gloss": "teisusis"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pražuvo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "deda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdies"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "o vyrai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "yra surenkami"
+    },
+    {
+      "surface": "באין",
+      "gloss": "be"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "suprantančio"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nuo veido"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "pikto"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "yra surenkamas"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "teisusis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:02.472579031Z",
+  "model": "glm-5.3"
+}

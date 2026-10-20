@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesas",
+      "rationale": "נפש yra gerklė\/kvapas\/gyvybės jėga, ne „siela“ viena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חדש\/מועד",
+      "rationale": "jaunačių ir švenčių pora iš eilės 13–14 eilutėse — kartojimo struktūra"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvė žodis Jisraeliui",
+      "rationale": "tiesioginis kreipimasis su jūsų įvardžiu"
+    }
+  ],
+  "translation": "Jūsų jaunatis ir jūsų šventės — jų nekenčia mano nefesas; jos man tapo našta, pavargau nešti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/1\/13-16.1792480542077.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "jūsų jaunatis"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "ir jūsų šventės"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nekenčia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tapo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "našta"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "pavargau"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nešti"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:42.080014647Z",
+  "model": "glm-5.3"
+}

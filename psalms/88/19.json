@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מידעי מחשך",
+      "rationale": "KJV\/ASV: pažįstamus 'į tamsą'; YLT: pažįstamasis YRA tamsa – be veiksmažodžio, dviprasmiška"
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨yra⟩",
+      "rationale": "paskutinis skiemuo be veiksmažodžio – asyndetinis smūgis"
+    }
+  ],
+  "translation": "Tolį nuo manęs nustumtei mylimąjį ir bičiulį, mano pažįstamus — tamsa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/88\/17-19.1792488571522.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "nustumtei toli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "mylimąjį"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ir bičiulį"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "mano pažįstamus"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "tamsa"
+    }
+  ],
+  "timestamp": "2026-10-20T09:29:31.523154784Z",
+  "model": "glm-5.3"
+}

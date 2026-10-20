@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 33:19",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeko aukos",
+      "rationale": "צדק išlaikytas kaip 'cedek' pagal D2, ne 'teisumo' vien"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושפוני טמוני",
+      "rationale": "du sinoniminiai 'slėpti' dalyviai vienas greta kito — paronomazija"
+    }
+  ],
+  "translation": "Tautas jie šauks pas kalną, ten jie aunos cedeko aukas, nes jūrų gausybę žindys ir paslėptuosius, paslėptus smėlyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "45a4f86ff8126d6224031df365beb6b1ec601ca080e1ac3c536cbf075c024bf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/17-20.1792475633785.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "הר",
+      "gloss": "pas kalną"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "jie šauks"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "jie aunos"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "aukos"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "שפע",
+      "gloss": "gausybę"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jūrų"
+    },
+    {
+      "surface": "יינקו",
+      "gloss": "jie žindys"
+    },
+    {
+      "surface": "ושפוני",
+      "gloss": "ir paslėptuosius"
+    },
+    {
+      "surface": "טמוני",
+      "gloss": "paslėptus"
+    },
+    {
+      "surface": "חול",
+      "gloss": "smėlyje"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:53.793415572Z",
+  "model": "glm-5.3"
+}

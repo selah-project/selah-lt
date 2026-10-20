@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — lietuvių reikalauja."
+    },
+    {
+      "kind": "crux",
+      "subject": "mano garbė",
+      "rationale": "כבודי 'mano garbė': ar tai instrumentas (gerklė, liežuvis), ar 'visa mano esatis', ar 'mano šlovė' — verčiasi skirtingai."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tiesioginis kreipimasis į Elohim."
+    }
+  ],
+  "translation": "Pasirengęs ⟨yra⟩ mano širdies, Elohim, dainuosiu ir grosiu, taip pat mano garbė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/108\/1-4.1792488926320.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Pasirengęs"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mano širdies"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "dainuosiu"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ir grosiu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mano garbė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:35:26.320862284Z",
+  "model": "glm-5.3"
+}

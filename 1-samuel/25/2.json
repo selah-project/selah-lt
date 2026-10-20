@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 25:2",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Lietuvių kalbai reikia būtojo karto veiksmažodžio, kurio hebrajų ūdumas neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעשהו",
+      "rationale": "Pažodžiui 'jo veikla\/verslas'; lietuviškai 'turtas' nusako bandą kaip turto šaltinį."
+    },
+    {
+      "kind": "measurement",
+      "subject": "flock",
+      "rationale": "Skaičiuojama kaimenė: trys tūkstančiai ir tūkstantis — turto matas."
+    }
+  ],
+  "translation": "Ir ⟨buvo⟩ vyras Maone, ir jo turtas Karmelyje; ir tas vyras ⟨buvo⟩ labai didus, ir jam priklausė trys tūkstančiai avų ir ožkų bei tūkstantis ožkų; ir atsitiko, kai kirpdavo ⟨את⟩ savo kaimenę Karmelyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8054a7e88969f656c2e3111dab3cce736f9adb04bba96124b8aa5426e88a2eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/1-4.1792477690076.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ir vyras"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "Maone"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ir jo turtas"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "Karmelyje"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ir tas vyras"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didus"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ir jam"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "avis ir ožkas"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trys"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančiai"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ir tūkstantis"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ožkų"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "בגזז",
+      "gloss": "kai kirpdavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kaimenę"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "savo kaimenę"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "Karmelyje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:28:10.078746289Z",
+  "model": "glm-5.3"
+}

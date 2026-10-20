@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pasižiūrėti⟩",
+      "rationale": "hebrajiškai tik 'pasiuntė'; lietuviškai reikia tikslo"
+    },
+    {
+      "kind": "addition",
+      "subject": "tapo",
+      "rationale": "hebrajiškas veiksmažodis 'sunkėjo'; pridėta jungtis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sunki širdis",
+      "rationale": "ויכבד לב pažodžiui 'širdis pasunkėjo' — atkaklumo vaizdas, ne 'pasidarė kietakaktis'"
+    }
+  ],
+  "translation": "Ir Para pasiuntė ⟨pasižiūrėti⟩, ir štai — iš Jisraelio gyvulių nemirė nė vienas; ir Para širdis tapo sunki, ir jis neišleido ⟨את⟩ tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/9\/5-8.1792472342312.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir pasiuntė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Para"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ir štai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mirė"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "iš gyvulių"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vieno"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ir tapo sunki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "širdis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "išleido"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tautą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:02.318507304Z",
+  "model": "glm-5.3"
+}

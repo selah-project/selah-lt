@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "Samuel addresses Saul directly with the charge to hear."
+    },
+    {
+      "kind": "invitation",
+      "subject": "klausyk",
+      "rationale": "Imperative 'hear' summons the addressee to obey."
+    }
+  ],
+  "translation": "Ir tarė Šmuelis Šauliui: Mane pasiuntė Jahvė patepti tave karaliumi virš jo tautos, virš Jisraelio, ir dabar klausyk balsą žodžių Jahvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/1-4.1792477333699.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mane"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pasiuntė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "patepti tave"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "karaliumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jo tautos"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ir dabar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "klausyk"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:13.700542742Z",
+  "model": "glm-5.3"
+}

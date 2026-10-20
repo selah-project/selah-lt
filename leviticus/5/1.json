@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש – gyvybės jėga, alsuojanti būtybė, ne tik 'siela'"
+    },
+    {
+      "kind": "crux",
+      "subject": "prakeiksmo balsą",
+      "rationale": "קול אלה: 'prakeiksmo balsą' arba 'priesaikos šauksmą' ( visuomeninis šaukmas liudyti)"
+    }
+  ],
+  "translation": "Ir jei siela nusidės, išgirs prakeiksmo balsą, būdama liudininkas — arba matė, arba žino — jeigu nepraneš, ji neš savo kaltę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/1-4.1792473249400.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ir siela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "nusidės"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "išgirs"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "prakeiksmo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "būdama jis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "liudininkas"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "matė"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "žino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jeigu"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "praneš"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "neš"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "savo kaltę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:09.402427804Z",
+  "model": "glm-5.3"
+}

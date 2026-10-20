@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 32:9",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sidabro⟩",
+      "rationale": "antrasis הכסף pakartoja žodį „sidabras“; lietuviškai reikėjo zaisti galūnę"
+    },
+    {
+      "kind": "measurement",
+      "subject": "septyni šekeliai ir dešimt",
+      "rationale": "skaičiuojama ir sveriamas sidabras — septyniolika šekelių"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "prielinksnis עם-את išskaidytas kaip „iš ⟨את⟩“"
+    }
+  ],
+  "translation": "Ir nusipirkau ⟨את⟩ lauką iš ⟨את⟩ Chanamelio, sūnaus mano dėdės, kuris ⟨yra⟩ Anatote, ir išsvėriau jam ⟨את⟩ sidabrą — septynis šekelius ir dešimt ⟨sidabro⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/9-12.1792483111797.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ir nusipirkau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lauką"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lauką"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "iš ⟨את⟩"
+    },
+    {
+      "surface": "חנמאל",
+      "gloss": "Chanamelio"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "mano dėdės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "Anatote"
+    },
+    {
+      "surface": "ואשקלה",
+      "gloss": "ir išsvėriau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sidabrą"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sidabrą"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "septynis"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "šekelius"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ir dešimt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨sidabro⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T07:58:31.799524723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ḳlausimo kalbėtojas",
+      "rationale": "Neaišku, kas kalba: pranašas ar čia patarsiųjų aikštelėje sėdinčiųjų pašaipa iš pranašo — 'ką jis dar mus mokys, lyg mažus vaikus?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמולי \/ עתיקי",
+      "rationale": "Du retučiai dalyviai — 'po pieno atjunkyti, nuo krūtų atitraukti' — vaikų vaizdas, lietuviškai klostė išlieka, bet garsinis poravimas dingsta"
+    }
+  ],
+  "translation": "⟨את⟩ ką jis mokys žinoti, ir ⟨את⟩ kam jis suteiks suprasti pranešimą? Atjunkusius nuo pieno, atitrauktus nuo krūtų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/28\/9-12.1792481143598.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ką"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mokys"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "žinoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kam"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "suteiks suprasti"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "pranešimą"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "atjunkusius"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "nuo pieno"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "atitrauktus"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "nuo krūtų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:43.599523246Z",
+  "model": "glm-5.3"
+}

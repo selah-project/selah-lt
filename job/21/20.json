@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 21:20",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כיד",
+      "rationale": "žodis 'kitas, sutriuškinimas' Tanache tik čia (Job 21, 20)"
+    },
+    {
+      "kind": "addition",
+      "subject": "tegu jis",
+      "rationale": "hebrajų veiksnys nežymėtas asmens; pridėta, kad matytųsi optatyvo kreipimasis į Eloah"
+    }
+  ],
+  "translation": "Tegy jo akys mato ⟨את⟩ jo pražūtį, ir iš Šadai rūstybės tegu jis geria.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4ec48aff828a92e00a6ede866ee161b968ba5bf2e1d4652bf9ddd7d68ab7197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/21\/17-20.1792490425884.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "tegy mato"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "jo akys"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "jo pražūtį"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "ir iš rūstybės"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šadai"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "tegu jis geria"
+    }
+  ],
+  "timestamp": "2026-10-20T10:00:25.885149849Z",
+  "model": "glm-5.3"
+}

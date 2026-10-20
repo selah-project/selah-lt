@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "Here את is the preposition 'with' (H854), not the object marker H853 — 'who is WITH me', gloss carries ⟨את⟩ per rule but it is not a DOM."
+    },
+    {
+      "kind": "alternative",
+      "subject": "du ar trys",
+      "rationale": "Hebrew says 'two three', an idiom of approximation; 'ar' supplied."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kas su manimi? kas?",
+      "rationale": "Jehu's summons rallies the eunuchs to his side; repeated מי is a rhetorical hook."
+    }
+  ],
+  "translation": "Ir jis pakėlė savo veidą į langą ir tarė: Kas ⟨את⟩ su manimi? kas? Ir linko pažiūrėti į jį du ar trys eunuchai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/29-32.1792479918514.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Ir pakėlė"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savo veidą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "langą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "su manimi ⟨את⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "Ir atsilošę pažiūrėjo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "į jį"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "du"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "trys"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "eunuchai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:18.516815603Z",
+  "model": "glm-5.3"
+}

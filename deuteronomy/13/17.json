@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 13:17",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo karto veiksmažodžio, hebrajų turi והיתה 'ir ji bus', perteikta kaip 'ir ji ⟨yra⟩ pylimas'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aikštė",
+      "rationale": "רחוב — plati vieta, aikštė; ne 'gatvė' siaurąja prasme"
+    },
+    {
+      "kind": "crux",
+      "subject": "כליל",
+      "rationale": "'visiškai \/ kaip visiškas deginamasis' — BSB 'kaip visiškas deginamoji auka', kiti tik 'visiškai'"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ visą jos grobį sugersite į jos aikštės vidurį, ir sudeginsite ugnyje ⟨את⟩ miestą ir ⟨את⟩ visą jos grobį — visiškai — Jahvei, savo Elohim; ir ji ⟨yra⟩ pylimas amžinas, daugiau nebestatysama.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9b2a99ccead3409eee064d9a22f71469976f53201545a4eb8d997de414737003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/17-19.1792475134395.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ir ⟨את⟩",
+      "marks": "visą jos grobį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "שללה",
+      "gloss": "jos grobį"
+    },
+    {
+      "surface": "תקבץ",
+      "gloss": "sudėsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "vidurį"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jos aikštės"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "ir sudeginsi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miestą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą jos grobį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "שללה",
+      "gloss": "jos grobį"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "visiškai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ir ji bus"
+    },
+    {
+      "surface": "תל",
+      "gloss": "pylimas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bestatysama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:34.396605912Z",
+  "model": "glm-5.3"
+}

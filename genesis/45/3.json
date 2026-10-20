@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "hebrajiškame asmeniniame sakinyje 'Aš Jozefas' snekamosios kalbos veiksmažodžio nėra"
+    },
+    {
+      "kind": "crux",
+      "subject": "נבהלו",
+      "rationale": "'išsigando \/ buvo priblokšti \/ sutriko' — veiksmažodis reiškia vidinį drebėjimą, verčiamas įvairiai"
+    },
+    {
+      "kind": "you",
+      "subject": "broliams",
+      "rationale": "tiesioginis kreipimasis: 'Aš Jozefas' — atpažinimo scena"
+    }
+  ],
+  "translation": "Ir Jozefas tarė savo broliams: Aš ⟨esu⟩ Jozefas. Ar mano tėvas dar tebegyvena? Ir jo broliai negalėjo jam atsakyti ⟨את⟩, nes jie buvo priblokšti prieš jo veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/45\/1-4.1792472045401.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "saviems"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broliams"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jozefas"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ar dar"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mano tėvas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tebegyvena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "galėjo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jo broliai"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "atsakyti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jam",
+      "marks": "jam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "buvo priblokšti"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "prieš jo veidą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:54:05.409903946Z",
+  "model": "glm-5.3"
+}

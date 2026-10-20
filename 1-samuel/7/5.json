@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Samuelio paliepimas „Susirinkite“ kreipiasi į visą Jisraelį."
+    },
+    {
+      "kind": "addition",
+      "subject": "aš",
+      "rationale": "hebrajiškasis veiksnys yra plačiu laiku, lietuvių kalbai reikia įvardžio su asmeniniu glosu."
+    }
+  ],
+  "translation": "Ir tarė Šmuelis: Susirinkite ⟨את⟩ visą Jisraelį į Micpą, ir aš pasimelsiu už jus pas Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/7\/5-8.1792477084233.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Susirinkite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą Jisraelį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelį"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "į Micpą"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ir aš pasimelsiu"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "už jus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T06:18:04.233768876Z",
+  "model": "glm-5.3"
+}

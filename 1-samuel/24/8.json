@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וישסע",
+      "rationale": "šaknis שׁסע 'perplėšti, sudraskyti' — čia vienintelis kartas Tanache su šia reikšme 'peržodžiu sudraudė'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sudraudė",
+      "rationale": "pažodžiui 'perplėšė juos žodžiais' — vaizdinis veiksmažodis, lietuviškai 'sudraudė'"
+    }
+  ],
+  "translation": "Ir sudraudė Davidas ⟨את⟩ savo vyrus žodžiais ir nedavė jiems kilti prieš Šaulių; o Šaulius pakilo iš olos ir nuėjo keliu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/5-8.1792477605775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ir sudraudė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo vyrus"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "savo vyrus"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "žodžiais"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "nedavė jiems"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "kilti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulių"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "o Šaulius"
+    },
+    {
+      "surface": "קם",
+      "gloss": "pakilo"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "iš olos"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ir nuėjo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "keliu"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:45.778012632Z",
+  "model": "glm-5.3"
+}

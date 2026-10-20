@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dviem miestams",
+      "rationale": "Levitų miestų sąrašo skaičiavimas: šioje dalyje — du miestai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "priemiesčiai",
+      "rationale": "מגרש — atvira ganyklų apylinkė, ne miesto priemiestis."
+    }
+  ],
+  "translation": "Ir iš pusės Menašės gimtinės: ⟨את⟩ Taanachą su jo priemiesčiais ir ⟨את⟩ Gat-Rimoną su jo priemiesčiais — du miestai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e88e41bee1b3f95ff6e1024da988452e33f92fbd99f425bb879f5f0e4a9f789f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/25-28.1792476152044.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "iš pusės"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "giminės"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menašės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanachą"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanachą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "priemiesčius"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "su jo priemiesčiais"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Gat-Rimoną"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "priemiesčius"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "su jo priemiesčiais"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:32.047724571Z",
+  "model": "glm-5.3"
+}

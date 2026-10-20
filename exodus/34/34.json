@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "lietuvių linksnis 'sūnums' jau reiškia krypį, prielinksys išnyksta."
+    },
+    {
+      "kind": "addition",
+      "subject": "daužtinis aspektas",
+      "rationale": "hebrajiški imperfektai čia reiškia pasikartojantį įprotį — 'nusiimdavo', 'kalbėdavo'."
+    }
+  ],
+  "translation": "Ir ateidamas Mošė į Jahvės akiratį kalbėti ⟨את⟩ su juo, nusiimdavo ⟨את⟩ apdangalą, kol išeidavo; ir išėjęs kalbėdavo Jisraelio sūnums ⟨את⟩ tai, ką buvo įsakyta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/34\/33-35.1792472915189.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "ateidamas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akiratyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kalbėti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ su juo"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "nusiimdavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apdangalą"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "apdangalas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "išeidavo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ir išėjęs"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kalbėdavo"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnums"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai, ką buvo įsakyta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buvo įsakyta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:35.191315191Z",
+  "model": "glm-5.3"
+}

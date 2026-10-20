@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jungą",
+      "rationale": "Hebrew העל lacks article; Lithuanian requires accusative object form"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kad atsakytume",
+      "rationale": "וְנָשִׁיב is cohortial 'let us return (an answer)' — rendered as purpose clause"
+    }
+  ],
+  "translation": "Ir jis tarė jiems: ką jūs patariate, kad atsakytume ⟨את⟩ šiai tautai, kuri kalbėjo man sakydama: palengvink jungą, kurį tavo tėvas uždėjo ant mūsų?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/10\/9-12.1792493399303.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "patariate"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "kad atsakytume"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiai tautai"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šiai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydama"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "palengvink"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "העל",
+      "gloss": "jungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uždėjo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tavo tėvas"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ant mūsų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:49:59.304618056Z",
+  "model": "glm-5.3"
+}

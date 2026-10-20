@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רקח\/מרקחת\/רקח",
+      "rationale": "Ta pati šaknis kartoja tris kartus — 'kvapėjas\/kvapioji kompozicija\/kvapintuvas' — žodžių žaismas, lietuviškai išsklaidytas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje predikatyvo vietoje"
+    }
+  ],
+  "translation": "Ir padarysi iš ⟨את⟩ jį aliejumi patepimo šventumu, kvapiąja kompozicija, kvepalų meistro darbu; šventasis patepimo aliejus jis ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d46e28979d06664af01fb0b97ed5345d8bbece7f0f70d5606dcf0f233ec34351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/25-28.1792472824880.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ir padarysi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "aliejus"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejumi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "patepimo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventumu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kvapiąja"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "kompozicija"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "darbu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kvepalų meistro"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aliejus"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "patepimo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventasis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "jis ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:07:04.881183579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 19:10",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba turi היתה, bet lietuvių kopula dalinai pertvarkyta — skliaustai žymi tvarkos pokytį."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחור\/בחור",
+      "rationale": "Tas pats šaknies žodis 'išrinkti' — 'iš visų Jisraelio išrinktųjų išrinko'; žodžio žaismas lietuviškai išlaikytas."
+    }
+  ],
+  "translation": "Ir Joabas pamatė, kad mūšio veidas ⟨buvo⟩ prieš jį — priekyje ir už nugaros, ir jis išrinko iš visų Jisraelio išrinktųjų ir išrikiavo ⟨juos⟩ pasitikti Aramo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eded78e1d1a311cf035e5f7131a4f7287114508f5256583973690b07c926ecab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/19\/9-12.1792492999441.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidas"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "mūšio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "priekyje"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ir už nugaros"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "ir išrinko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "išrinktųjų"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ir išrikiavo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pasitikti"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:43:19.442257995Z",
+  "model": "glm-5.3"
+}

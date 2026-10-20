@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨laikomi⟩",
+      "rationale": "hebrajų נחשבנו pasyvas be prielinkio; lietuviškai reikia veiksmažodžio"
+    },
+    {
+      "kind": "crux",
+      "subject": "כל היום",
+      "rationale": "„visą dieną“ — nuolatinės kančios idiomė, ne viena paros dalis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טבחה",
+      "rationale": "retas žodis — „skerdimas \/ skerdykla“; skerdimui parinkta kaip artimiausias paveikslas"
+    }
+  ],
+  "translation": "Nes dėl tavęs esame žudomi visą dieną, esame ⟨laikomi⟩ kaip avys skerdimui.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/44\/21-24.1792487973531.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "dėl tavęs"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "esame žudomi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "esame ⟨laikomi⟩"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kaip avys"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "skerdimui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:19:33.532545284Z",
+  "model": "glm-5.3"
+}

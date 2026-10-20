@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vakarai",
+      "rationale": "ים pažodžiui 'jūra' — Vakarų (Viduržemio) jūros kryptis, taigi vakarų pusė."
+    },
+    {
+      "kind": "measurement",
+      "subject": "penkiasdešimt uolekčių, dešimt stulpų",
+      "rationale": "Tikslus vakarinės pusės išmatavimas."
+    }
+  ],
+  "translation": "Ir vakarų pakraštyje — uždangalai, penkiasdešimt uolekčių: jų stulpai dešimt, ir jų pamatai dešimt; stulpų kabliai ir jų apvadai — iš sidabro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/9-12.1792473008293.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "Ir pakraštyje"
+    },
+    {
+      "surface": "ים",
+      "gloss": "vakarų"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "uždangalai"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "penkiasdešimt"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "uolekčių"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "jų stulpai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ir jų pamatai"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "ואוי",
+      "gloss": "kabliai"
+    },
+    {
+      "surface": "העמדדים",
+      "gloss": "stulpų"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "ir jų apvadai"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iš sidabro"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:08.296218660Z",
+  "model": "glm-5.3"
+}

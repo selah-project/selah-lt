@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 15:13",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ריח ניחח",
+      "rationale": "Pažodžiui 'kvapas ramybės' — įprastas aukosėlygos posakis, lietuviškai 'malonus kvapas' prarintų žodį ניחוח (ramybė)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vietinis",
+      "rationale": "האזרח — 'vietinis gimtasis', ne tik 'šalyje gimęs'."
+    }
+  ],
+  "translation": "Kiekvienas vietinis darys taip ⟨את⟩ šiuos dalykus — priveddamas ugnies atnašą, kvapą ramybės Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/15\/13-16.1792474242109.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kiekvienas"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "vietinis"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darys"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiuos dalykus"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šiuos dalykus"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "priveddamas"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ugnies atnašą"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "kvapą"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ramybės"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:30:42.110832651Z",
+  "model": "glm-5.3"
+}

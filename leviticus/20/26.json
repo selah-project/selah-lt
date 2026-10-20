@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדשים \/ קדוש",
+      "rationale": "veidrodiškas šventumas: 'jūs šventi, nes aš šventas' — ta pati šaknis du kartus"
+    },
+    {
+      "kind": "elision",
+      "subject": "להיות לי",
+      "rationale": "pažodžiui 'būti man' — 'kad būtumėte mano' neturi atskiro žodzio hebrajų 'mano' savininkui išreikšti"
+    }
+  ],
+  "translation": "Ir jūs būsite man šventi, nes šventas esu aš, Jahvė; ir aš atskyriau ⟨את⟩ jus nuo tautų, kad būtumėte man.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ab5c9978c9840676ef420c5bc80808346c1b3046aca1e1fb570ee844d2c773f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/25-27.1792473577422.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ir jūs būsite"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "šventi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "šventas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "ir aš atskyriau"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kad būtumėte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:37.430776421Z",
+  "model": "glm-5.3"
+}

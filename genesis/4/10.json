@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דמי",
+      "rationale": "Daugiskaita 'kraujai' — lietuvių kalboje vartojama vienaskaita 'kraujas'"
+    },
+    {
+      "kind": "you",
+      "subject": "pas Kainą",
+      "rationale": "Jahvė tiesiogiai kreipiasi į Kainą klausimu"
+    }
+  ],
+  "translation": "Ir jis tarė: Ką tu padarei? Balsas tavo brolio kraujo šaukiasi pas mane iš žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/9-12.1792470996612.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ką"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tu padarei"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Balsas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kraujo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolio"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "šaukiasi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iš"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:36.615045899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש — ne siela abstrakčiai, o gyvybės jėga, gerklė, apetitas; paliktas transliteruotas formoje „nefesh“"
+    },
+    {
+      "kind": "crux",
+      "subject": "קטר יקטירון",
+      "rationale": "KJV su neiginiu „Let them not fail to burn“; hebrajiškas tekstas sako teigiamai — „tegu apdegina taukus“; JPS\/BSB teigiamai"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קטר יקטירון",
+      "rationale": "Infinitivus absolutus — tas pats veiksmažodis du kartus: „deginti-apsudeginti“, stiprinamoji forma"
+    }
+  ],
+  "translation": "Vyras sakydavo jam: Tegul pirmiausia apdegina taukus, kaip ⟨yra paprotys⟩ šiandien, o tu pats imk, ko tik geidžia tavo nefesh; bet jis atsakydavo ⟨ jam⟩: Ne, tuojau duok, o jei ne — aš paimsiu jėga.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/13-16.1792476995798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir sakydavo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "tegu apdegina"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "pirmiausia apdegina"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaip šiandien"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "taukus"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ir imk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tu pats"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ko"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "geidžia"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tavo nefesh"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir atsakydavo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jam⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "tuojau"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "duok"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "aš paimsiu"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "jėga"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:35.800174687Z",
+  "model": "glm-5.3"
+}

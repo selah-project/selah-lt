@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר שתה אפרחיה את מזבחותיך",
+      "rationale": "KJV 'even thine altars' vs YLT 'where she hath placed her brood, thine altars' — ar jaunikliai dedami prie aukurų, ar aukurai yra tas 'namas' ir 'lizdas'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "דרור",
+      "rationale": "Čia 'kregždė'; ta pati šaknis kitur reiškia 'laisvę' (Kun 25) — žodžio žaismas pranyksta lietuviškai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צפור",
+      "rationale": "Bendras 'paukštelis' susiaurintas į 'žvirblį' pagal tradiciją; hebrajiškas žodis tik 'mažas paukštis'."
+    }
+  ],
+  "translation": "Taip, žvirblis rado namus, o kregždė sau lizdą, kur padeda savo jauniklius — ⟨את⟩ tavo aukurus, Jahve Cevaot, mano karaliau ir mano Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "42619b0de5adba051065e14ed0a53cdec0bccc3f60a1a47223f16a13443d3977",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/84\/4-4.1792494155997.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "taip, net"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "žvirblis"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "rado"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "o kregždė"
+    },
+    {
+      "surface": "קן",
+      "gloss": "lizdą"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sau"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "padeda"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "savo jauniklius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo aukurus"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "tavo aukurus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mano karaliau"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ir mano Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:35.998018020Z",
+  "model": "glm-5.3"
+}

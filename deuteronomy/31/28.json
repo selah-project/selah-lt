@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 31:28",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באזניהם",
+      "rationale": "„jų ausims“ — hebrajiškas idiomas „į jų ausis“, reiškia „jiems girdint“"
+    },
+    {
+      "kind": "you",
+      "subject": "levitams",
+      "rationale": "Mošės įsakymas levitams, tiesioginis kreipimasis"
+    }
+  ],
+  "translation": "Susirinkite pas mane ⟨את⟩ visus jūsų giminių vyresniuosius ir jūsų prižiūrėtojus, ir aš kalbėsiu jų ausims ⟨את⟩ šiuos žodžius, ir paimsu prieš juos ⟨את⟩ dangų ir ⟨את⟩ žemę liudytojais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/31\/25-28.1792475624991.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקהילו",
+      "gloss": "susirinkite"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "pas mane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus vyresniuosius ir prižiūrėtojus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vyresniuosius"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "jūsų giminių"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "ir jūsų prižiūrėtojus"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ir aš kalbėsiu"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "jų ausims"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiuos žodžius"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ir paimsu liudyti"
+    },
+    {
+      "surface": "בם",
+      "gloss": "prieš juos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dangų"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangų"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "žemę"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:44.999475782Z",
+  "model": "glm-5.3"
+}

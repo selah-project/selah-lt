@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — pridėta lietuviška kopula"
+    }
+  ],
+  "translation": "Ir jūs atsakėte ⟨את⟩ mane ir tarėte: geras yra dalykas, kurį kalbėjai padaryti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/13-16.1792474867921.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ir atsakėte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ir tarėte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dalykas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "kalbėjai"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "padaryti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:41:07.923299121Z",
+  "model": "glm-5.3"
+}

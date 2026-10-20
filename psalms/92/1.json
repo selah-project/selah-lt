@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מזמור שיר",
+      "rationale": "Antraštinė eilutė — instrumentiniam mizmorui ir dainai lietuvių kalba reikia daiktavardžių formų be veiksmažodžio."
+    }
+  ],
+  "translation": "Mizmoras, daina šabato dienai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/92\/1-4.1792488711071.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoras"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "daina"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dienai"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabato"
+    }
+  ],
+  "timestamp": "2026-10-20T09:31:51.071634967Z",
+  "model": "glm-5.3"
+}

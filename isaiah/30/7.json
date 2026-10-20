@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רהב הם שבת",
+      "rationale": "ASV 'Rahabas, kuris sėdi ramiai' (pravardė) prieš KJV 'jų jėga — sėdėti ramiai'; lietuviškai laikomasi pravardės skaitymo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rahabas",
+      "rationale": "רהב — 'riaumoji\/aistros'; čia Micraimo pravardė, vardas neverčiamas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨veltui⟩",
+      "rationale": "וריק 'tuščias' perteikia prieveiksmiu 'veltui', kaip hebrajiškas vardininkas apibūdina pagalbą."
+    }
+  ],
+  "translation": "Ir Micraimas — tuštybė ir niekas, jie padės ⟨veltui⟩; todėl pavadinau šitą: Rahabas — jie sėdi ramiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/5-8.1792481228053.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ir Micraimas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tuštybė"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ir niekas"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "jie padės"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "todėl"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "pavadinau"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "šitą"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jie"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sėdi ramiai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:27:08.054774737Z",
+  "model": "glm-5.3"
+}

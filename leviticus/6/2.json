@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajiškas predikatas היא išreikštas įvardžiu; lietuviška kopula pridėta skliaustuose"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוקדה",
+      "rationale": "„degimo krūva” \/ „kuro krūva” \/ „žarijos” — vertėjai skiriasi, ar tai deginamosios aukos vieta, ar kuras"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošei",
+      "rationale": "Jahvė tiesiogiai įsako per Mošę Aharonui ir jo sūnums"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "„deginamoji auka” už עולה, pažodžiui „tai, kas kyla aukštyn”"
+    }
+  ],
+  "translation": "Įsakyk ⟨את⟩ Aharonui ir ⟨את⟩ jo sūnums, sakydamas: ši ⟨yra⟩ Tora deginamosios aukos: ji — deginamoji auka ant degimo krūvos, ant aukuro visą naktį iki ryto, ir aukuro ugnis turi degti ant jo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "669e91a9d21583ec7b45044032d302d4243e03442821d0db31fff5a903f1bad5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/1-4.1792473239602.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "įsakyk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonui"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnus"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnums"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ši"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamosios aukos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamoji auka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "degimo krūvos"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "naktį"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ryto"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ir ugnis"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "turi degti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ant jo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:59.604857211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų tekstas neturi veiksmažodžio 'būti' — lietuvių kalbai reikia ⟨yra⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמים דעות",
+      "rationale": "Kas 'tobulus žiniomis' — pats Elihuas (kalbantis apie save) ar Dievas (KJV\/Geneva 'tobulas žiniomis yra su tavimi')?"
+    }
+  ],
+  "translation": "Nes iš tiesų mano žodžiuose nėra sukčiavimo — tobulas žiniomis ⟨yra⟩ su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "24e5b87c4aed1074e52d143d36c2a5464aab640f76850493d0b42587f76621a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/36\/1-4.1792490674971.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "iš tiesų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sukčiavimo"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "mano žodžiuose"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tobulas"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "žiniomis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T10:04:34.972200453Z",
+  "model": "glm-5.3"
+}

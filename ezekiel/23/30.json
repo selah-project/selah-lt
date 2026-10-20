@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 23:30",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "veikiamoji rūšis",
+      "rationale": "hebrajiškas veiksmažodis be veikėjo gali būti skaitomas kaip 'aš (Jahvė) padariau' (KJV) arba beasmeniškai (JPS); pasirinkta beasmenė forma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stabal",
+      "rationale": "גלולים pažodžiui 'apskriti rąstai' — mažybinis paniekinantis stabų pavadinimas"
+    }
+  ],
+  "translation": "Tai buvo padaryta tau, nes tu svetimavai paskui tautas ir susitepėsi su jų stabais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "51c848ac14b594d592b382e39cee28ad24db1531b7dca7ef0b8151c72b6354c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/29-32.1792484447665.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "buvo padaryta"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "בזנותך",
+      "gloss": "nes tu svetimavai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "susitepėsi"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "su jų stabais"
+    }
+  ],
+  "timestamp": "2026-10-20T08:20:47.667206227Z",
+  "model": "glm-5.3"
+}

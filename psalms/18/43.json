@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu „ruach“, ne „vėju“ vienu žodžiu — vienas žodis, kelios reikšmės."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחק vaizdų",
+      "rationale": "Du paveikslai — dulkės pūstyje vėjyje ir purvas gatvėje — sudaro paralelinį poravimą; sutrumpinta, bet išlaikyta."
+    }
+  ],
+  "translation": "Ir aš sumaliau juos kaip dulkes veidu ruach, kaip gatvių purvą aš juos išliejau.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/18\/41-44.1792487643992.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "ir aš sumaliau juos"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kaip dulkes"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "kaip purvą"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "gatvių"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "aš juos išliejau"
+    }
+  ],
+  "timestamp": "2026-10-20T09:14:03.993362626Z",
+  "model": "glm-5.3"
+}

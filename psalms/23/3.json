@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesą",
+      "rationale": "נפש — „gerklė, kvapas, gyvybės jėga“, ne nemateriali „siela“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישובב",
+      "rationale": "Iš šaknies שוב „grįžti, atsukti“ — pažodžiui „grąžina atgal“ mano nefesą; dviguba ו rodo pasikartojantį veiksmą."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק laikomas nesuverstas — „teisumas, teisėtumas“ pagal D2 taisyklę."
+    }
+  ],
+  "translation": "Mano nefesą jis atgaivina, veda mane cedek keliais dėl savo vardo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/23\/1-4.1792487722576.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefesą"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "jis atgaivina"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "veda mane"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "keliais"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "savo vardo"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:22.577787447Z",
+  "model": "glm-5.3"
+}

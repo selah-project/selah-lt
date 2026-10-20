@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבוד שמו",
+      "rationale": "'Grokite jo vardo šlovę' arba 'paverskite jo vardo šlovę' — כבוד gali būti objektas arba veiksnys"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרו \/ תהלתו",
+      "rationale": "Du pagyrimo veiksmai — muzika ir žodis — eilutės lygiagretis"
+    }
+  ],
+  "translation": "Grokite ⟨prieš⟩ jo vardo šlovę, duokite šlovę jo pagyrimui!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/66\/1-4.1792488240139.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Grokite"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovę"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardo"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "duokite"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "šlovę"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jo pagyrimui"
+    }
+  ],
+  "timestamp": "2026-10-20T09:24:00.140074741Z",
+  "model": "glm-5.3"
+}

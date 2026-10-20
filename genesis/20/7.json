@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 20:7",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų neturi veiksmažodžio; lietuvių predikatas reikalauja 'yra'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "infinitivus absolutus — pažodžiui 'mirti mirsi', išversta 'mirtimi mirsi', kad išliktų dviejų žodžių stiprybė"
+    },
+    {
+      "kind": "you",
+      "subject": "Avimelechui sapne",
+      "rationale": "Elohim tiesiogiai įsako Avimelechui: grąžink, žinok, mirsi"
+    }
+  ],
+  "translation": "O dabar grąžink to vyro žmoną, nes jis ⟨yra⟩ pranašas, ir jis maldaus už tave, ir tu gyvensi; o jei nesi grąžinąs, žinok, kad mirtimi mirsi tu ir visa, kas tavo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1283d6b453ffb68c1e562bbc4e1cf9dee5f050300ab6cc38cf363214b33fb116",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/20\/6-8.1792485380261.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "O dabar"
+    },
+    {
+      "surface": "השב",
+      "gloss": "grąžink"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmoną"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "to vyro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "pranašas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis ⟨yra⟩"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ir maldaus"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "už tave"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ir gyvensi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nesi"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "grąžinąs"
+    },
+    {
+      "surface": "דע",
+      "gloss": "žinok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mirsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ir visa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tavo"
+    }
+  ],
+  "timestamp": "2026-10-20T08:36:20.264153636Z",
+  "model": "glm-5.3"
+}

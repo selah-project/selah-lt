@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skrynia",
+      "rationale": "ארון pažodžiui 'dėžė\/skrynia', ne 'sandėlis'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "alkūnės",
+      "rationale": "tikslūs skrynios išmatavimai: 2½ × 1½ × 1½ alkūnės"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškame asyndetiškame matavimų sąraše lietuvių kalbai nereikia papildomos kopulos, tad jos nepridėta; brūkšnys žymi predikatą"
+    }
+  ],
+  "translation": "Ir padarysime skrynią iš akacijos medžio: dvi alkūnės ir pusę — jos ilgis, alkūnė ir pusė — jos plotis, ir alkūnė ir pusė — jos aukštis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/9-12.1792472730750.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ir padarysime"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skrynią"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akacijos"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvi alkūnės"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ir pusę"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jos ilgis"
+    },
+    {
+      "surface": "ו אמה",
+      "gloss": "alkūnė"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ir pusė"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jos plotis"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ir alkūnė"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ir pusė"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jos aukštis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:30.752528610Z",
+  "model": "glm-5.3"
+}

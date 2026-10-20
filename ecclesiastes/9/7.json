@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Eik, valgyk… ir gerk",
+      "rationale": "Kohėletas tiesiogiai kreipiasi imperatyvais į skaitytoją — kvietimas džiaugtis gyvenimu."
+    },
+    {
+      "kind": "you",
+      "subject": "Eik, valgyk",
+      "rationale": "Tiesioginis kreipimasis į antrąjį asmenį — išminčių mokinį."
+    }
+  ],
+  "translation": "Eik, valgyk su džiaugsmu savo duoną ir gerk su geru širdies vyną, nes jau Elohim palankus ⟨את⟩ tavo darbams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "55d197a98b905d603bc63dff21d41f637316b4d58248f802c40917be27c68002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/9\/5-8.1792491330327.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "eik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "valgyk"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "su džiaugsmu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "savo duoną"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ir gerk"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "su geru širdies"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geru"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "savo vyną"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "jau"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "palankus"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavo darbams"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tavo darbams"
+    }
+  ],
+  "timestamp": "2026-10-20T10:15:30.328799486Z",
+  "model": "glm-5.3"
+}

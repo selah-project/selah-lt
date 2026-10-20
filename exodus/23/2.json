@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרי רבים לרעת",
+      "rationale": "KJV 'follow a multitude to do evil' vs eilutė taip pat gali sakyti 'nesuk daugelio į pikta' — pasirinkta paprastesnis skaitymas 'būk paskui daugelį'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבים \/ ריב",
+      "rationale": "skambesio sutapimas 'daugelis' (ravim) ir 'ginčas' (riv) — hebrajiška paronomazija, lietuviškai prarandama"
+    },
+    {
+      "kind": "elision",
+      "subject": "להטת",
+      "rationale": "hifil forma 'kad suklaidintum (kitus)' — dauguma versijų praleidžia antrąjį veiksmą arba sulieja su pirmuoju 'nukryptum'"
+    }
+  ],
+  "translation": "Nebūk paskui daugelį, kad darytum pikta, ir neatsakinėk dėl ginčo, kad nukryptum paskui daugelį, ⟨kad suklaidintum⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/1-4.1792472699977.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "būk"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugelį"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "kad darytum pikta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "atsakinėk"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ginčo"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "kad nukryptum"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paskui"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daugelį"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "⟨kad suklaidintum⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:59.980388991Z",
+  "model": "glm-5.3"
+}

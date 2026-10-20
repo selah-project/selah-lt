@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "נעלם",
+      "rationale": "„Nebuvo žodžio, paslėpto (נעלם) nuo karaliaus“ — slėpimo tema, kurią Šloma įveikia."
+    },
+    {
+      "kind": "idiom",
+      "subject": "dvigubas neiginys",
+      "rationale": "Hebrajiškas „kurio jis jai nepasakė — nė vieno“ reiškia: jis išdėstė viską; lietuviškai perteikta sudėtiniu neiginiu."
+    }
+  ],
+  "translation": "Ir Šloma jai išdėstė ⟨את⟩ visus jos klausimus; nebuvo žodžio, paslėpto nuo karaliaus, kurio jis jai nebūtų išdėstęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/10\/1-4.1792479115376.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ir Šloma išdėstė"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šloma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "jos klausimus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebuvo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨buvo⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodžio"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "paslėpto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "išdėstęs"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:55.379601105Z",
+  "model": "glm-5.3"
+}

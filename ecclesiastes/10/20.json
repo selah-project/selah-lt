@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "skaitytojui",
+      "rationale": "Tiesioginis adresatas — draudimo sakinys su 'tavo mintyse', 'tavo miegamajame'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך \/ עשיר",
+      "rationale": "Paralelinė struktūra: du kartoti 'nekeik' — karaliui ir turtingajam; paukščio pauzė — kas svetimo ausiai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עוף השמים",
+      "rationale": "'dangaus paukštis' — lietuviškai paukštininko žodynas; 'sparnų valdovas' pažodžiui 'sparnų savininkas'"
+    }
+  ],
+  "translation": "Net savo mintyse nekeik karaliaus, ir savo miegamojo kambariuose nekeik turtingojo, nes dangaus paukštis nuneš ⟨את⟩ balsą, ir sparnų valdovas praneš žodį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/10\/17-20.1792491285747.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Net"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "savo mintyse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "keik"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "ir savo kambariuose"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "miegamojo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "keik"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "turtingojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "paukštis"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "nuneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balsą"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ir valdovas"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "sparnų"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "praneš"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:45.748746679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אותתם אתות",
+      "rationale": "Žodžių žaismas 'savo ženklus — ženklams': svetimi ženklai pakeitė dieviškuosius; pakartojimas lieka, bet santykis dviprasmis"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mūsų ženklai",
+      "rationale": "Kai kurie skaito אתות kaip 'ženklus (tavo)' — vėliavos pakeitė tikruosius šventyklos ženklus"
+    }
+  ],
+  "translation": "Riaumoja tavo priešai tavo susirinkimo vietoje; iškėlė savo ženklus ⟨vietoj⟩ ženklų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/74\/1-4.1792488444397.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Riaumoja"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tavo priešai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "tavo susirinkimo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iškėlė"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "savo ženklus"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ženklus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:27:24.398263551Z",
+  "model": "glm-5.3"
+}

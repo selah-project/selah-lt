@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ėriukas\/veršelis",
+      "rationale": "עגל yra veršelis (jaunas jautis), ne ėriukas — pataisyta į „veršelis“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "macai",
+      "rationale": "מצות — nerauginta duona (macai); žodžio forma išlaikyta reikšme, nes lietuvių „macai“ skolinys."
+    }
+  ],
+  "translation": "Ir moteriai buvo ėriukas iš tvarto namuose, ir skubėjo, ir papjovė jį, ir paėmė miltų ir minkė, ir iškepė jį nerauginta duona.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/28\/21-24.1792477758899.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "ir moteriai"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "veršelis"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "iš tvarto"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "ir skubėjo"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "ir papjovė jį"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "miltų"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "ir minkė"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "ir iškepė jį"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nerauginta duona"
+    }
+  ],
+  "timestamp": "2026-10-20T06:29:18.903705117Z",
+  "model": "glm-5.3"
+}

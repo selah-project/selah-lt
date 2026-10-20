@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "saitas, kurio hebrajų tekstas neturi, pridėtas su ⟨…⟩"
+    },
+    {
+      "kind": "secret",
+      "subject": "tarpininkas",
+      "rationale": "Yosefo paslaptis išsaugota — broliai nežino, kad jis supranta"
+    }
+  ],
+  "translation": "O jie nežinojo, kad Yosefas girdi, nes tarpininkas ⟨buvo⟩ tarp jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "edb09b9d8fb3fdfa3fd6a3ca91b8cf63e3791071989974a20b12d9f736c19c66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/21-24.1792471923610.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "o jie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "žinojo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "girdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tarpininkas"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "tarp jų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:03.613552329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sutvirtino sprandą",
+      "rationale": "hebrajiškas posakis 'kietas sprandas' — atkaklus nepaklusnumas; laikyta pažodžiui, nes paveiku"
+    },
+    {
+      "kind": "crux",
+      "subject": "neklausė",
+      "rationale": "šamua reiškia ir 'girdėti', ir 'klausyti' — neklausė ar neišgirdo"
+    }
+  ],
+  "translation": "Bet jie neklausė, ir sutvirtino ⟨את⟩ savo sprandą kaip jų tėvų sprandas, kurie netikėjo Jahve, savo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/17\/13-16.1792480352334.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Bet ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "klausė"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ir sutvirtino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sprandą"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "savo sprandą"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "kaip sprandą"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "tikėjo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:12:32.337655910Z",
+  "model": "glm-5.3"
+}

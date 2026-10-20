@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "lietuvių sąlygos sakinys reikalauja jungiamojo žodžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gaus dalį",
+      "rationale": "ונאחזו 'bus sulaikyta\/įgyta' — veiksmažodis reiškia įsigijimą, ne tiesioginį 'gauti'"
+    }
+  ],
+  "translation": "O jeigu jie neis ginkluoti ⟨את⟩ su jumis, tai jie gaus dalį jūsų viduje Kanaano žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b1b4f20861417350c64a2d78e061cdfe52f885b1d019f917a39c7b90f33f3f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/32\/29-32.1792474704691.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "O jeigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "jie neis"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "ginkluoti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ su jumis"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "tai jie gaus dalį"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "jūsų viduje"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaano"
+    }
+  ],
+  "timestamp": "2026-10-20T05:38:24.693801255Z",
+  "model": "glm-5.3"
+}

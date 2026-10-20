@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "be ydos",
+      "rationale": "תמים — 'ištisas, tobulas'; gyvulys be trūkumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "metų ėriuką",
+      "rationale": "בן שנתו — pažodžiui 'sūnus savo metų', t. y. sulaukęs metų"
+    }
+  ],
+  "translation": "Ir tą dieną, kai pakelsite ⟨את⟩ omerą, aukosite metų ėriuką be ydos deginamajai aukai Jahvei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/9-12.1792473603909.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "aukosite"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tą dieną"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "kai pakelsite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerą"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerą"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ėriuką"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "be ydos"
+    },
+    {
+      "surface": "בן",
+      "gloss": "metų"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "metų"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "deginamajai aukai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:03.921170824Z",
+  "model": "glm-5.3"
+}

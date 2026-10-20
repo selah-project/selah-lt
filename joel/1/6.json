@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jos",
+      "rationale": "Lietuvių kalbai reikia pakartoti įvardį, hebrajiškas שניו\/לו sujungia posmius."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוי עלה על",
+      "rationale": "Kartojamas עלה\/על skambesys — tauta „kopianti ant“ žemės; lietuvių kalboje dengimas prarandamas."
+    }
+  ],
+  "translation": "Nes tauta užkopė ant mano žemės, galinga ir be skaičiaus; jos dantys — liūto dantys, ir jos iltys — liūtės iltys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/1\/5-8.1792486434152.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "užkopė"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mano žemės"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "galinga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir be"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "skaičiaus"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "jos dantys"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dantys"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "liūto"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "ir jos iltys"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "liūtės"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jos"
+    }
+  ],
+  "timestamp": "2026-10-20T08:53:54.153761750Z",
+  "model": "glm-5.3"
+}

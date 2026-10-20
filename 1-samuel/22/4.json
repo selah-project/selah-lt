@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פני מלך",
+      "rationale": "hebrajiškas posakis 'prieš veidą karaliaus' = 'karaliaus akivaizdoje, jo globai'"
+    },
+    {
+      "kind": "crux",
+      "subject": "במצודה",
+      "rationale": "מצודה gali reikšti 'tinklas' arba 'tvirtovė' — čia tikriausiai gynybinis įrengimas"
+    }
+  ],
+  "translation": "Ir atvedė juos ⟨prieš⟩ ⟨את⟩ veidą Moabo karaliaus, ir jie gyveno su juo visas dienas, kuriomis Davidas buvo tvirtovėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/22\/1-4.1792477662775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ir atvedė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veidą Moabo karaliaus"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ir gyveno"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "su juo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kol buvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "tvirtovėje"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:42.779054678Z",
+  "model": "glm-5.3"
+}

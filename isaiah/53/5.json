@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajiškai nėra veiksmažodžio būtojo laiko — pridedama copula"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסר שלומנו",
+      "rationale": "pabarimas, atnešęs mums šalomą, arba mūsų šalomo pamokymas; šaknis מוסר reiškia ir drausmę, ir pamokymą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלומנו",
+      "rationale": "šaknis שלום — pilnybė, gerovė, ramybė; paliktas kaip šalomas, nes vienas lietuviškas žodis per siauras"
+    }
+  ],
+  "translation": "O jis buvo pervertas už mūsų sukiltimus, sutriuškintas už mūsų kaltes; mūsų šalomui skirtas pabarimas ⟨buvo⟩ ant jo, ir jo randais mums tapo išgydyta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/53\/5-8.1792481822906.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "o jis"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "pervertas"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "už mūsų sukiltimus"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "sutriuškintas"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "už mūsų kaltes"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pabarimas"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "mūsų šalomui"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "ir jo randais"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "tapo išgydyta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T07:37:02.907021125Z",
+  "model": "glm-5.3"
+}

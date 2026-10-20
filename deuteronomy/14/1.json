@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esate",
+      "rationale": "hebrajiškame nėra veiksmažodžio „būti“"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli",
+      "rationale": "tiesioginis kreipimasis į Izraelį kaip į Jahvės sūnus"
+    },
+    {
+      "kind": "idiom",
+      "subject": "tarp akių",
+      "rationale": "בין עיניך — plikis „tarp akių“ reiškia kaktą virš antakių"
+    }
+  ],
+  "translation": "Sūnūs jūs esate Jahvei, savo Elohim; nesigandykite ir nedarykite plikio tarp savo akių ⟨dėl⟩ numirusio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/14\/1-4.1792475124824.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs esate"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "nesigandykite"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "nedarykite"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "plikio"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "savo akių"
+    },
+    {
+      "surface": "למת",
+      "gloss": "⟨dėl⟩ numirusio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:24.825031628Z",
+  "model": "glm-5.3"
+}

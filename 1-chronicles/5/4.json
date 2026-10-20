@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogija",
+      "rationale": "Tęsinys — kartų eilė pagal vardus"
+    },
+    {
+      "kind": "crux",
+      "subject": "גוג",
+      "rationale": "Gogas čia — Jozės giminės izraelitas, ne tolimosios šiaurės tauta iš Ezekielio"
+    }
+  ],
+  "translation": "Joelio sūnūs: Šemaja jo sūnus, Gogas jo sūnus, Šimis jo sūnus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0de4d91d30b0e44333e1b9a3b76f6d8455afb94af21e726227b509b76aeda7b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/5\/1-4.1792492703688.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joelio"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Šemaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Gogas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimis"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jo sūnus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:38:23.688981123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jahvė",
+      "rationale": "hebrajiškasis veiksnys neišreikštas — aišku iš ankstesnės eilutės (Jahvė jį mylėjo)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jedidija",
+      "rationale": "ן vardas reiškia „mylimasis Jah“, bet vardas neverčiamas — Wycliffas vertė, kiti paliko transliteraciją"
+    }
+  ],
+  "translation": "Ir ⟨Jahvė⟩ atsiuntė per pranašo Natano ranką, ir jis pavadino ⟨את⟩ jo vardą Jedidija dėl Jahvės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/25-28.1792478196968.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir atsiuntė"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "per ranką"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natano"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "pranašo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir pavadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jo vardą"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jo vardą"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidija"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:36:36.969724701Z",
+  "model": "glm-5.3"
+}

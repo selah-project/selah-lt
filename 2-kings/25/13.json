@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 25:13",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje — lietuvių reikalauja ⟨buvo⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jūra",
+      "rationale": "ים čia ne vandens jūra, o didžiulis vario baseunas Šventykloje — pavadinimas paliktas pažodžiui"
+    }
+  ],
+  "translation": "Ir ⟨את⟩ vario stulpus, kurie ⟨buvo⟩ Jahvės namuose, ir ⟨את⟩ pakojus, ir ⟨את⟩ vario jūrą, kuri ⟨buvo⟩ Jahvės namuose, sudaužė kasdai, ir išnešė ⟨את⟩ jų varį į Babiloną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/13-16.1792480540115.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vario stulpus"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "stulpus"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "name"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "pakojus"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "pakojus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "vario jūrą"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūrą"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vario"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sudaužė"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdai"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ir išnešė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų varį"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "jų varį"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "į Babiloną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:15:40.116138942Z",
+  "model": "glm-5.3"
+}

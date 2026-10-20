@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tu",
+      "rationale": "Lietuvių kalbai reikia įvardžio, hebrajų veiksmažodžio galūnė jį slepia."
+    },
+    {
+      "kind": "you",
+      "subject": "Davidas",
+      "rationale": "Psalmistas kreipiasi tiesiogiai į Jahvę."
+    }
+  ],
+  "translation": "Chorvedžiui. Davido psalmė. Jahvė, Tu ištyrei mane ir pažinai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/139\/1-4.1792489286439.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Chorvedžiui"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalmė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ištyrei mane"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ir pažinai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:26.439647087Z",
+  "model": "glm-5.3"
+}

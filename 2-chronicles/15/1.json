@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajiškas היתה stovi gale — lietuvių žodžių tvarka reikalauja veiksmažodžio anksčiau"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח neišversta nei kaip „dvasia“, nei kaip „vėjas“ — vienas žodis, trys reikšmės"
+    }
+  ],
+  "translation": "Ir ant Azarijo, Odėdo sūnaus, ⟨buvo⟩ Elohim ruach.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/15\/1-4.1792493526548.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Ir Azarijas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnus"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Odėdas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T10:52:06.549375688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 16:5",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמסי עליך",
+      "rationale": "'Mano smurtis\/skriaudė ant tavęs' — KJV palieka pažodžiui, kiti verčia 'tu darai man blogai'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואקל",
+      "rationale": "'ir aš tapau lengva' — reiškia būti menkinam; lietuviškai reikia veiksmažodžio, hebrajų turi tik būseną."
+    },
+    {
+      "kind": "you",
+      "subject": "Avramui",
+      "rationale": "Sarajė tiesiogiai kreipiasi į Avramą."
+    }
+  ],
+  "translation": "Ir Sarajė tarė Avramui: Mano skriaudė — ant tavęs. Aš daviau savo vergę į tavo glėbį, ir ji pamatė, kad pastojo, ir aš tapau niekinga jos akyse. Teisiasi Jahvė tarp manęs ir tavęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "73132e5a38ec914800d77d7a654fe5de9d64668276b8ddd1bb6e8ab52e956b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/16\/5-8.1792471286578.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarajė"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramui"
+    },
+    {
+      "surface": "חמסי",
+      "gloss": "mano skriaudė"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ant tavęs"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "שפחתי",
+      "gloss": "savo vergę"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "į tavo glėbį"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ir ji pamatė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "pastojo"
+    },
+    {
+      "surface": "ואקל",
+      "gloss": "ir tapau niekinga"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "jos akyse"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Teisiasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tarp manęs"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ir tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:26.580820307Z",
+  "model": "glm-5.3"
+}

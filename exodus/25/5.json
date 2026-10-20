@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחשים",
+      "rationale": "tachaš — 'badžero odos' (KJV), 'ruonių odos' (JPS\/ASV), 'graži oda' (BSB); žodis neaiškus, išlaikomas pagal skambesį"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אילם",
+      "rationale": "'elnių' — איל gali būti avinas arba laukinis jautis; D4 lentelei priklauso elnias"
+    }
+  ],
+  "translation": "ir elnių odas, nudažytas raudonai, ir tachašo odas, ir šitimų akacijos medį",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/5-8.1792472718929.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ir odas"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "elnių"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nudažytas raudonai"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ir odas"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachašo"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ir medį"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitimų akacijos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:05:18.930070406Z",
+  "model": "glm-5.3"
+}

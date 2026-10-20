@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "Hebrajiškoji pasyvo forma neturi veikėjo; lietuvių kalbai reikia įvardžio"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעבר \/ איננו",
+      "rationale": " Praėjimas ir nebuvimas — piktojo dingimas kaip laikinas dalykas, eilutės retorinis centras"
+    }
+  ],
+  "translation": "Ir praėjo, ir štai — jo nebėra; ir jo ieškojau, bet ⟨jis⟩ nerastas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e23a59c81f1217dd92e6c2ba12ccaad505f9ce570bb1a7db44f0a39328ba50fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/36-36.1792494128051.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "praėjo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "jo nebėra"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "jo ieškojau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nerastas"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:08.052330721Z",
+  "model": "glm-5.3"
+}

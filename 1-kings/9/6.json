@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 9:6",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שוב תשבון",
+      "rationale": "rašytinė ir dalyvinė to paties veiksmažodžio שוב forma — pabrėžiantis kartojimas, antra forma išnyksta lietuviškame tekste"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievams",
+      "rationale": "אלהים čia apie svetimus dievus — mažąja raide, ne Elohim Vardo reikšme"
+    }
+  ],
+  "translation": "Jei jūs sugrįšite — jūs ir jūsų vaikai — nuo manęs ir nesilaikysite mano įsakymų, mano įstatų, kuriuos padėjau priešais jus, o eisite ir tarnausite kitiems dievams ir žemai lenksitės jiemsis:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/5-8.1792479170812.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jei"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "sugrįšite"
+    },
+    {
+      "surface": "תשבון",
+      "gloss": "⟨sugrįšite⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ir jūsų vaikai"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "nuo manęs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "laikysitės"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mano įsakymų"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mano įstatų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "padėjau"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "priešais jus"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "eisite"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ir tarnausite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dievams"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kitiems"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "ir žemai lenksitės"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiemsis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:52:50.814330390Z",
+  "model": "glm-5.3"
+}

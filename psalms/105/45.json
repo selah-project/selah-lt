@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "garbinkite",
+      "rationale": "hebrajiškas הללו יה — halelu-Jah — yra paliepimas „garbinkite Jah“; dažnai liekamas kaip vienas žodis „aleliuja“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמרו \/ ינצרו",
+      "rationale": "du skirtingi „saugoti“ veiksmažodžiai poroje — šamar ir nacar; lietuviškai išskirta „saugotų \/ laikytųsi“"
+    }
+  ],
+  "translation": "Kad jie saugotų jo įstatus ir jo Toras laikytųsi. Garbinkite Jah!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/105\/45-45.1792488830083.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "saugotų"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "jo įstatus"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ir jo Toras"
+    },
+    {
+      "surface": "ינצרu",
+      "gloss": "laikytųsi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "garbinkite"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-20T09:33:50.083531596Z",
+  "model": "glm-5.3"
+}

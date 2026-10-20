@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalboje nėra jungties tarp חקת עולם ir sakinio"
+    },
+    {
+      "kind": "you",
+      "subject": "Izraeliui",
+      "rationale": "Daugiskaitos imperatyvas, kreipiamasi į visą bendruomenę"
+    }
+  ],
+  "translation": "Jokio darbo nedarykite: amžinas įstatas jūsų kartoms visose jūsų gyvenamosiose vietose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/29-32.1792473719798.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "jokio"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "darbo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "įstatas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžinas"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "jūsų kartoms"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "visose"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "gyvenamosiose vietose"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:59.800609474Z",
+  "model": "glm-5.3"
+}

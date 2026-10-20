@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסירים",
+      "rationale": "Tas pats žodis reiškia ir „dyleles“ (krūmus), ir „katilus“ — čia verčiama „dylės“, degančios po katilu: greitas, triukšmingas, bevaisis degimas."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jo neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hevelis",
+      "rationale": "הבל — „kvapas, garas“, Qoheleto raktažodis, paliekamas kaip skambesio žodis."
+    }
+  ],
+  "translation": "Nes kaip vargano kreskenimas po katilu, taip kvailio juokas; ir tai ⟨yra⟩ hevelis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/7\/5-8.1792491253024.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "kaip … kreskenimas"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "vargano"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "po"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "katilu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "juokas"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "kvailio"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ir"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevelis"
+    }
+  ],
+  "timestamp": "2026-10-20T10:14:13.025495627Z",
+  "model": "glm-5.3"
+}

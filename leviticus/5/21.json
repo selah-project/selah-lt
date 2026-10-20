@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išdavystė",
+      "rationale": "מעל הוא tikėjimo sulaužymas, išdavystė — ne tik „nusikaltimas“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "siela",
+      "rationale": "נפש — alsuojanti gyvybė, asmuo; ne siela vėliausia prasme"
+    }
+  ],
+  "translation": "Jei kuri siela nusideda ir padaro išdavystę prieš Jahvę bei apmeluoja savo artimą — dėl patikėto daikto, ar dėl rankos užstoto, ar dėl grobimo, arba apspaudžia ⟨את⟩ savo artimą —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/21-24.1792473237406.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "siela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "nusideda"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir padaro"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "išdavystę"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "prieš Jahvę"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "bei apmeluoja"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "savo artimą"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "dėl patikėto daikto"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "dėl rankos užstoto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "dėl grobimo"
+    },
+    {
+      "surface": "או",
+      "gloss": "arba"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "apspaudžia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo artimą"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "savo artimą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:57.407765196Z",
+  "model": "glm-5.3"
+}

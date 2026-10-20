@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "trys tūkstančiai vyrų",
+      "rationale": "Skaičius išsaugotas toks, koks yra hebrajų tekste"
+    },
+    {
+      "kind": "addition",
+      "subject": "su",
+      "rationale": "Prielinksnis 'su' pridėtas, nes ואתו pažodžiui 'ir su juo' lietuvių kalboje reikalauja prielinksnio"
+    }
+  ],
+  "translation": "Ir pakilo Šaulis ir nužengė į Zifo dykumą, ir ⟨su⟩ juo trys tūkstančiai vyrų — Jisraelio išrinktųjų — ieškoti ⟨את⟩ Davido Zifo dykumoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/1-4.1792477808089.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ir pakilo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ir nužengė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dykumą"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ir ⟨את⟩ jame — su juo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "trys"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tūkstančiai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrų"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "išrinktųjų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ieškoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidą"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:30:08.101298582Z",
+  "model": "glm-5.3"
+}

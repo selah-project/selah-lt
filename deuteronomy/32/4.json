@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jo neturi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebūtybės",
+      "rationale": "אין — nebuvimo dalelytė, išversta kaip 'nėra'; עול — neteisybė, pikta."
+    }
+  ],
+  "translation": "Uola — tobulas jo darbas, nes visi jo keliai — teismas; El ištikimumo, ir nėra nebūtybės jame, teisus ir tiesus jis ⟨yra⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/32\/1-4.1792475558513.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Uola"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tobulas"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "jo darbas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "jo keliai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ištikimumo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ir nėra"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nebūtybės neteisybės"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisus"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ir tiesus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:52:38.516682176Z",
+  "model": "glm-5.3"
+}

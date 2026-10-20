@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 30:3",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "pažodžiui 'grąžinsiu grąžinimą' — 'nelaisvės sugrąžinimas' vs 'buvusios gerovės atstatymas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבתי\/שבות\/השבתים",
+      "rationale": "Š-B trys kartus vienoje eilutėje — šaknies kartojimas lietuviškai išsisklaido"
+    },
+    {
+      "kind": "addition",
+      "subject": "juos",
+      "rationale": "Hebrajų veiksmažodis והשבתים turi priesaginį -ים objektą, lietuviškai reikia įvardžio"
+    }
+  ],
+  "translation": "Nes štai ateina dienos, — sako Jahvė, — ir aš grąžinsiu ⟨את⟩ nelaisvę savo tautos, Jisraelio ir Jehudos, — sako Jahvė, — ir sugrąžinsiu juos į žemę, kurią daviau jų tėvams, ir jie ją paveldės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cb42f38d972a0624ebe232cbad403388cd45a9fcb768dc3eba8ec0bce06b20a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/30\/1-4.1792483064529.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ateina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ir aš grąžinsiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nelaisvę"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "nelaisvę"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "savo tautos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ir Jehudos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ir sugrąžinsiu juos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurią"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "daviau"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "jų tėvams"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ir jie ją paveldės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:57:44.532010989Z",
+  "model": "glm-5.3"
+}

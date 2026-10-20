@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "Laukinis šafranas ar narcizas (ne rožė, kaip daugumoje senesnių vertimų)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יששום…ותגל",
+      "rationale": "Pakartota džiaugsmo veiksmažodžių iteracija — džiaugsmo gausa."
+    }
+  ],
+  "translation": "Džiaugsis dykuma ir išdžiūvusi žemė, ir Arabos slėnis džiūgaus, ir žydės kaip narcizas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/35\/1-4.1792481350590.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "džiaugsis"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ir išdžiūvusi žemė"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ir džiūgaus"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Arabos slėnis"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ir žydės"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kaip narcizas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:29:10.591940481Z",
+  "model": "glm-5.3"
+}

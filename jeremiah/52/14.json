@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 52:14",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo laiko veiksmažodžio šioje gretimoje sakinio dalyje."
+    },
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "Pažodžiui „skerdikų viršininkas“ — KJV „sargybos viršininkas“, LXX skirtingai; lietuviškai „vyriausiasis budelių“."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ visas Jerušalaimo sienas aplinkui nugriovė visa kasdų kariuomenė, kuri ⟨buvo⟩ ⟨את⟩ su vyriausiuoju budeliu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/52\/13-16.1792483813558.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "visas Jerušalaimo sienas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "sienas"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aplinkui"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "nugriovė"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kariuomenė"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ su"
+    },
+    {
+      "surface": "רב",
+      "gloss": "vyriausiuoju"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "budeliu"
+    }
+  ],
+  "timestamp": "2026-10-20T08:10:13.559787847Z",
+  "model": "glm-5.3"
+}

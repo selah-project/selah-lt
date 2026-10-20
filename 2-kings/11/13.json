@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצין",
+      "rationale": "'bėgikai' (dalyviai iš רוץ) vs KJV 'sargyba' — hebrajiškas žodis reiškia bėgančiuosius, kuriuos vertėjai aiškina kaip sargybą ar bėgikus."
+    },
+    {
+      "kind": "alternative",
+      "subject": "העם",
+      "rationale": "gali būti paaiškinamasis sugretinimas ('bėgikų — tautos') arba atskiras poslinkis ('bėgikų ir tautos', kaip KJV)."
+    }
+  ],
+  "translation": "Ir išgirdo Atalija ⟨את⟩ balsą bėgikų, tautos, ir atėjo pas tautą į Jahvės namus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/11\/13-16.1792480205943.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Ir išgirdo"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "bėgikų"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautos"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:10:05.943753285Z",
+  "model": "glm-5.3"
+}

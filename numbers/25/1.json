@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לזנות אל",
+      "rationale": "pažodžiui 'ištvirkauti pas' — hebrajų ištvirkavimo veiksmažodis su kryptimi 'el'; čia ir fizinė, ir kultinė prasmė"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויחל",
+      "rationale": "'pradėjo\/ėmė' — veiksmažodis 'pradėti' lietuviškai išskaidytas į 'ėmė + -ti'"
+    }
+  ],
+  "translation": "Ir Jisraelis apsistojo Šitime, ir tauta ėmė ištvirkauti su Moabo dukterimis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/25\/1-4.1792474481247.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "apsistojo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "Šitime"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ėmė"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ištvirkauti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dukterimis"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:41.248368039Z",
+  "model": "glm-5.3"
+}

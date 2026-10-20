@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' esamajame laike; lietuvių reikalauja ⟨buvo⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičius žuvusiųjų",
+      "rationale": "Eilutė skaičiuoja mirusiuosius — keturi ir dvidešimt tūkstančių"
+    }
+  ],
+  "translation": "Ir mirusiųjų magefoje ⟨buvo⟩ keturi ir dvidešimt tūkstančiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/25\/9-12.1792474449429.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ir buvo"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mirusiųjų"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "magefoje"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "keturi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ir dvidešimt"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tūkstančiai"
+    }
+  ],
+  "timestamp": "2026-10-20T05:34:09.431576196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכור",
+      "rationale": "čia „krosnis \/ lydyklos puodas“ (iš בכר), ne „pirmagimis“ — KJV „furnace“, bet ta pati forma kitur reiškia pirmagimį"
+    }
+  ],
+  "translation": "Štai išgryninau tave, bet ne sidabru; išsirinkau tave krosnyje vargo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/9-12.1792481588681.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "išgryninau tave"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sidabru"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "išsirinkau tave"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "krosnyje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vargo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:33:08.682817759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ואקוב",
+      "rationale": "Šaknis reiškia 'durti žodžiu, plūsti' — 'prakeikiau' yra kontekstinis apibendrinimas; pažodžiui 'badžiau žodžiais'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משריש",
+      "rationale": "Šaknies paveikslas — kvailis tarsi medis įsišaknijęs, bet ūmai žlunga; paveikslas reikšmingas Job 5:3–5 medžio\/augimo įvaizdžių bloke."
+    }
+  ],
+  "translation": "Aš mačiau kvailį įsišaknijusį, bet ūmai prakeikiau jo buveinę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/5\/1-4.1792490181123.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aš"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "kvailį"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "įsišaknijusį"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "bet prakeikiau"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jo buveinę"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ūmai"
+    }
+  ],
+  "timestamp": "2026-10-20T09:56:21.124638819Z",
+  "model": "glm-5.3"
+}

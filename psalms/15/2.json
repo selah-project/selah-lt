@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiesą",
+      "rationale": "אמת yra 'patikimumas, tvirtumas', ne tik 'tiesa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Kuris",
+      "rationale": "Lietuvių kalbai reikia daiktavardžio, hebrajų turi tik dalyvį be galvos, atsakantį į 15,1 klausimą"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק paliktas pagal D2 — 'teisumas' vienas nepakanka"
+    }
+  ],
+  "translation": "Kuris eina nekaltai ir daro cedek, ir kalba tiesą savo širdyje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5d3325bf0322064e40fc98fdabf00f771a699f362363c69c8695392f949720b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/15\/2-3.1792494053274.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "eina"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nekaltai"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ir daro"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ir kalba"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tiesą"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "savo širdyje"
+    }
+  ],
+  "timestamp": "2026-10-20T11:00:53.274680276Z",
+  "model": "glm-5.3"
+}

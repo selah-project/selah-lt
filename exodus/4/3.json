@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניו",
+      "rationale": "Pažodžiui 'nuo jos veido' — hebrajiškas būdas pasakyti 'nuo jos'; lietuvių kalboje veidas absurdus, todėl 'nuo jos' su ⟨jos veido⟩ žymekaite."
+    },
+    {
+      "kind": "mystery",
+      "subject": "lazda tampa gyvate",
+      "rationale": "Pirmasis ženklas, kurio esmė dar neatskleista — paslaptis, kurią tik ženklas parodys (4, 5–8)."
+    }
+  ],
+  "translation": "Ir jis tarė: Mesk ją žemėn. Ir jis metė ją žemėn, ir ji tapo gyvate, ir Mošė pabėgo nuo ⟨jos veido⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/4\/1-4.1792472242153.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Mesk ją"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ir metė ją"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "gyvate"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ir pabėgo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nuo ⟨jos veido⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T04:57:22.156651685Z",
+  "model": "glm-5.3"
+}

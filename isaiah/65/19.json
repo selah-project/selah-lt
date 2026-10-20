@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 65:19",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nei",
+      "rationale": "Lietuvių reikalauja jungtuko tarp dviejų neigiamų daiktavardžių; hebrajas turi tik „v“."
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "„Dar, toliau“ įlietas į „nebe-“, atskiro žodžio nėra."
+    }
+  ],
+  "translation": "Ir aš džiūgausiu Jerušalaime ir džiaugsiuos savo tauta; ir nebebus girdimas jame verkimo balsas nei šauksmo balsas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cfa0544f317e76b0f275071bab4df302d851693681ada1023b677c6e8c6d10d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/65\/17-20.1792482095305.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגלתי",
+      "gloss": "ir aš džiūgausiu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaime"
+    },
+    {
+      "surface": "וששתי",
+      "gloss": "ir džiaugsiuos"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "savo tauta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir nebe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "bus girdimas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jame"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "—"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsas"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "verkimo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nei balsas"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "šauksmo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:35.307247330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 19:39",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi copulos šioje vietoje; lietuvių kalbai jos reikia."
+    },
+    {
+      "kind": "substitution",
+      "subject": "giminė",
+      "rationale": "מטה pažodžiui 'šaka, lazda'; čia giminei vartojama įprasta reikšmė."
+    }
+  ],
+  "translation": "Ši ⟨yra⟩ paveldėjimo dalis Naftalio sūnų giminei pagal jų šeimas — miestai ir jų kiemiai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "447c94f81d1952fee89308289cd03cc07adc7c1580a039e57a9b63bc3206dc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/19\/37-40.1792476151008.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ši"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "paveldėjimo dalis"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "giminė"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalio"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miestai"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ir jų kiemiai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:02:31.012269450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis⟩",
+      "rationale": "veikėjas (Šlomo) hebrajų tekste įvardytas tik iš konteksto"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "Milo — įtvirtinimas\/užpiltas pylimas Jeruzalėje; dažnai verčiama 'įtvirtinimai', bet tai vardas, todėl lieka Milo"
+    }
+  ],
+  "translation": "Tik Paro dukteris pakilo iš Davido miesto į savo namus, kurį ⟨jis⟩ pastatė jai; tuomet ⟨jis⟩ pastatė ⟨את⟩ Milo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0d573152a07a35435982302f8f513eb25bfe4d30db6939325cb44672740dfac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/9\/21-24.1792479095084.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukteris"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "pakilo"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "iš miesto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "savo namus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jai"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    }
+  ],
+  "timestamp": "2026-10-20T06:51:35.087188668Z",
+  "model": "glm-5.3"
+}

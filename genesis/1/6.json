@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skliautas",
+      "rationale": "רקיע yra „išsklaidytas plonas paviršius, išsiplėtimas”; „skliautas” — tradicinis, bet vaizdas kitas."
+    },
+    {
+      "kind": "addition",
+      "subject": "nuo",
+      "rationale": "Lietuvių reikalauja prielinksdžio; hebrajiškas בין…ל tiesiog stato „tarp vandens ir vandens”."
+    }
+  ],
+  "translation": "Ir Elohim tarė: Teskara skliautas vandenų viduryje, ir teskiria vandenis nuo vandenų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/5-8.1792471050932.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "tesbūna"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "skliautas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vandenų"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir teskiria"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "skiriantis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandenų"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ir vandenų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:30.936244170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "hebrajų kalba neturi veiksmažodžio; lietuvių reikalauja ⟨buvo⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזה ... מזה",
+      "rationale": "to paties žodžio kartojimas abiejose pusėse — simetrija, lietuvių skiria „šios\/anos“"
+    }
+  ],
+  "translation": "Ir peleistiečiai stovėjo prie kalno iš šios pusės, o Jisraelis stovėjo prie kalno iš anos pusės, o slėnis ⟨buvo⟩ tarp jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/1-4.1792477371493.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ir peleistiečiai"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš šios pusės"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "o Jisraelis"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stovėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kalno"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "iš anos pusės"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "o slėnis"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tarp jų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:22:51.496267239Z",
+  "model": "glm-5.3"
+}

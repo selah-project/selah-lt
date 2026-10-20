@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבטח \/ מבטחו",
+      "rationale": "veiksmažodis ir daiktavardis iš tos pačios šaknies btach — pasitiki \/ pasitikėjimas, atkartota lietuviškai."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio „būti“ šioje predikatyvo vietoje."
+    }
+  ],
+  "translation": "Palaimintas vyras, kuris pasitiki Jahve, ir Jahvė ⟨yra⟩ jo pasitikėjimas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f224d892930df3fa442b429c708188c8c72b50d06bb0455152a52c5f6b733b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/17\/5-8.1792482618431.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Palaimintas"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "pasitiki"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "jo pasitikėjimas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:50:18.434028926Z",
+  "model": "glm-5.3"
+}

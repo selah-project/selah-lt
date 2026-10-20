@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "Hebrajų įvardis priesagoje עמי — lietuvių reikalauja atskiro žodžio"
+    }
+  ],
+  "translation": "Ir aš gyvensiu Jisraelio vaikų viduryje ir neapleisiu ⟨את⟩ savo tautos Jisraelio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/13-16.1792478907104.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ir aš gyvensiu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "viduryje"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "apleisiu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tautos Jisraelio"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "savo tautos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:27.105350434Z",
+  "model": "glm-5.3"
+}

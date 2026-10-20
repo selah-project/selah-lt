@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esi⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikato vietoje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiamas skambesiu 'ruach', nes žodis apima ir dvasią, ir vėją, ir kvapą — vienas lietuviškas žodis prarastų kitas reikšmes."
+    },
+    {
+      "kind": "invitation",
+      "subject": "mokyk mane",
+      "rationale": "Malda-imperatyvas, nukreiptas į Eloah."
+    }
+  ],
+  "translation": "Mokyk mane daryti tavo valią, nes tu ⟨esi⟩ mano Eloah; tavo gera ruach teveda mane lygioje žemėje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/143\/9-12.1792489276684.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "mokyk mane"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "tavo valią"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mano Eloah"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "tavo ruach"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "teveda mane"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "lygioje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:16.685730649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "karalius → Ciba",
+      "rationale": "Tiesioginis klausimas „kur jis?“ — kreipimasis į konkretų adresatą"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לו דבר",
+      "rationale": "Vietovardis pažodžiui „nėra ganyklos“ — lo (nėra) + devar, lietuvių skaitytojui pametamas"
+    }
+  ],
+  "translation": "Ir karalius tarė jam: kur jis? Ir Ciba tarė karaliui: štai jis — Machiro, Amielio sūnaus, namuose, Lo Debare.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/9\/1-4.1792478112164.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliui"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namuose"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machiro"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnaus"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielio"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debare"
+    }
+  ],
+  "timestamp": "2026-10-20T06:35:12.167295553Z",
+  "model": "glm-5.3"
+}

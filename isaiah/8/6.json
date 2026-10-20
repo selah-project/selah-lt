@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשוש",
+      "rationale": "„džiaugiasi su” vs „džiaugiasi dėl” — ar tauta švenčia kartu su Recinu, ar džiaugiasi jo sąjunga, ginčijama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lėtai",
+      "rationale": "לאט verčia „švelniai, tykiai”; vaizdas — vanduo, tekantis ramiai, prieš srovės audrą v. 7."
+    }
+  ],
+  "translation": "Kadangi ši tauta niekina ⟨את⟩ Šiloacho vandenis, tekančius lėtai, ir džiaugiasi ⟨את⟩ Recinu ir Remalijo sūnumi,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ae956f6740edf3dd83b534d5057fb32e69ecf81f5f871274daf64ff86e8c7017",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/5-8.1792480694588.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Kadangi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadangi"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "niekina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tauta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šiloacho vandenis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vandenis"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Šiloacho"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "tekančius"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "lėtai"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ir džiaugiasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recinu ir Remalijo sūnumi"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ir sūnumi"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalijo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:14.596424765Z",
+  "model": "glm-5.3"
+}

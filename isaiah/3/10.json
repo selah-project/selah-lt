@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajiškame tekste nėra sietinio — „kad gera”."
+    },
+    {
+      "kind": "invitation",
+      "subject": "sakykite",
+      "rationale": "Imperatyvas, nukreiptas į klausytojus: paskelbkite teisiajam."
+    }
+  ],
+  "translation": "Sakykite teisiajam, kad ⟨yra⟩ gerai, nes savo darbų vaisių jie valgys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f04059f1fdd7e48758f0f1a904ed5bfa8c29321e07d2e080d3d8420431c0c026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/3\/9-12.1792480563030.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sakykite"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisiajam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vaisių"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "savo darbų"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "jie valgys"
+    }
+  ],
+  "timestamp": "2026-10-20T07:16:03.032970501Z",
+  "model": "glm-5.3"
+}

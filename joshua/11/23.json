@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 11:23",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "giminės",
+      "rationale": "שבט yra 'lazda, vėzdas' — prasmė per metonimiją tapo 'gentis\/giminė'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨savo žodį⟩",
+      "rationale": "אל Mošei reiškia 'Mošei' — hebrajiškame linksnyje nėra atskiros žodžio"
+    }
+  ],
+  "translation": "Ir paėmė Jehošua ⟨את⟩ visą žemę pagal viską, ką Jahvė kalbėjo Mošei; ir davė ją Jehošua Jisraeliui paveldėti pagal jų dalis jų gimines. Ir žemė ramavo nuo karo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e8cfe5ade3d5b313c28555380f135d5fae1130c9131752b66f9e5c7ec6832145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/21-23.1792475932587.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą žemę"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemę"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "pagal viską"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ką"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kalbėjo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨savo žodį⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošei"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ir davė ją"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "paveldėti"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraeliui"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "pagal jų dalis"
+    },
+    {
+      "surface": "לשבטיהם",
+      "gloss": "jų gimines"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ir žemė"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ramavo"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "nuo karo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:58:52.589068225Z",
+  "model": "glm-5.3"
+}

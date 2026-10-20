@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "akivaizdoje",
+      "rationale": "לפני pažodžiui 'prieš veidą' — 'akivaizdoje' perteikia tą patį be pažodinio vaizdo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩\/⟨su jumis⟩",
+      "rationale": "אִתְּכֶם yra prielinkis 'su jumis'; 'yra' po 'kuris' lietuvių kalbai reikalinga, hebrajų jos neturi"
+    }
+  ],
+  "translation": "Ir džiaugsitės Jahvės, jūsų Elohim, akivaizdoje — jūs, jūsų sūnūs ir jūsų dukterys, jūsų vergai ir jūsų vergės, ir leuitas, kuris yra jūsų vartuose, nes nėra jam dalies nei paveldėjimo ⟨את⟩ ⟨su jumis⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/9-12.1792475222057.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחתם",
+      "gloss": "ir džiaugsitės"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jūs"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ir jūsų sūnūs"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "ir jūsų dukterys"
+    },
+    {
+      "surface": "ועבדיכם",
+      "gloss": "ir jūsų vergai"
+    },
+    {
+      "surface": "ואמהתיכם",
+      "gloss": "ir jūsų vergės"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "ir leuitas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "jūsų vartuose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "daliono"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "nei paveldėjimo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨su jumis⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:02.060356201Z",
+  "model": "glm-5.3"
+}

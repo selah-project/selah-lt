@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Žiūrėk",
+      "rationale": "ראה reiškia 'matyk\/pažiūrėk' — čia iškilmingas parodymo veiksmažodis"
+    },
+    {
+      "kind": "you",
+      "subject": "Faraonas",
+      "rationale": "tiesioginis kreipimasis į Josefą"
+    }
+  ],
+  "translation": "Ir tarė Faraonas Josefui: Žiūrėk, aš paskiriu ⟨את⟩ tave virš visos Micraimo žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/41-44.1792471978608.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefui"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Žiūrėk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "paskiriu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tave"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:52:58.608854098Z",
+  "model": "glm-5.3"
+}

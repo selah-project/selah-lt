@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למסעיו",
+      "rationale": "Daiktavardis 'savo iškeliones\/etapus' išplėstas į 'ėjo savo žygių etapais'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jo",
+      "rationale": "'jo palapinė' — įvardis pridėtas, hebrajų kalba turi tik konstruktą 'palapinė jo ten'"
+    }
+  ],
+  "translation": "Ir jis ėjo savo žygių etapais iš pietų iki Bet-Elis, iki tos vietos, kur pirma buvo jo palapinė, tarp Bet-Elis ir Hai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/13\/1-4.1792471214516.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ir jis ėjo"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "savo žygių etapais"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "iš pietų"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tos vietos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kur"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "jo palapinė"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "pirma"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elis"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hai"
+    }
+  ],
+  "timestamp": "2026-10-20T04:40:14.517999223Z",
+  "model": "glm-5.3"
+}

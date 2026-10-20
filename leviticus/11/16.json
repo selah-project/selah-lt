@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בת היענה",
+      "rationale": "Hebrajiškai 'stručio dukra' — semitiškas posakis patelę ar rūšį pavadinti 'dukterimi'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "התחמס",
+      "rationale": "Žodis visame Tanache vartojamas tik čia — paukščio tapatybė nežinoma."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השחף",
+      "rationale": "Žodis visame Tanache vartojamas tik čia ir Lv 11,29 — paukščio tapatybė neaiški."
+    }
+  ],
+  "translation": "ir ⟨את⟩ stručio dukterį, ir ⟨את⟩ tachmąsą, ir ⟨את⟩ šachafą, ir ⟨את⟩ nechą pagal jo rūšį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/13-16.1792473288045.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "stručio dukterį"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dukterį"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "stručio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "tachmąsą"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tachmąsą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "šachafą"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "šachafą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "nechą"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "nechą"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "pagal jo rūšį"
+    }
+  ],
+  "timestamp": "2026-10-20T05:14:48.047594938Z",
+  "model": "glm-5.3"
+}

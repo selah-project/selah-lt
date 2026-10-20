@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Hebrajų kalboje nėra predikato jungties „aš — Jahvė“; pridėta brūkšnys vietoj jos."
+    }
+  ],
+  "translation": "Ir laikysite ⟨את⟩ visus mano įstatus ir ⟨את⟩ visus mano teismus, ir darysite ⟨את⟩ juos; aš — Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/37-37.1792473545159.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ir laikysite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus mano įstatus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mano įstatus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "visus mano teismus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismus"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ir darysite"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:05.160916551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Rahab",
+      "rationale": "Karaliaus įsakymas — tiesioginis kreipimasis su moterimi: 'išvesk', 'pas tave', 'tavo namus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "žodžių tvarka pabaigoje",
+      "rationale": "Hebrajiškas 'nes išžvalgyti ⟨את⟩ visą šalį atėjo' — išdėstyta lietuviška tvarka, ⟨את⟩ išlaikytas"
+    }
+  ],
+  "translation": "Ir Jericho karalius siuntė pas Rahab, sakydamas: Išvesk tuos vyrus, kurie atėjo pas tave, kurie įėjo į tavo namus, nes ⟨את⟩ visą šalį atėję išžvalgyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/2\/1-4.1792475753402.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ir siuntė"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sakydamas"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "išvesk"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "tuos vyrus"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kurie atėjo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "pas tave"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "įėjo"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "į tavo namus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "išžvalgyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą šalį"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "šalį"
+    },
+    {
+      "surface": "באו",
+      "gloss": "atėję"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:53.405910507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajiškoje posesyvinė galūnė -הם lietuvių kalboje reikalauja atskiro žodžio „savo“"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגלו",
+      "rationale": "veiksnys neaiškus: asiriečiai ištrėmė šias tautas iš jų krašto ir atgabeno į Samariją"
+    }
+  ],
+  "translation": "⟨את⟩ Jahvę jie buvo bijantys, ir ⟨את⟩ savo dievams buvo tarnaujantys, pagal paprotį tautų, kurias iš ten buvo ištrėmę ⟨את⟩ jas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/17\/33-36.1792480289322.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bijantys"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savo dievams"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savo dievams"
+    },
+    {
+      "surface": "היו",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "tarnaujantys"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "pagal paprotį"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurias"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "buvo ištrėmę"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iš ten"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:29.322862183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ją⟩",
+      "rationale": "Hebrajiškas galininko priesaga -ה reiškia 'skrynią', kurios eilutėje nėra — pridėta įvardžio."
+    },
+    {
+      "kind": "crux",
+      "subject": "יער",
+      "rationale": "'Jaro laukai' — Kirjat-Jearimo ('Miško miestas') užuomina, kur skrynia stovėjo."
+    }
+  ],
+  "translation": "Štai girdėjome ⟨ją⟩ Efratoje, radome ⟨ją⟩ Jaro laukuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/132\/5-8.1792489189514.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "girdėjome ⟨ją⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratoje"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "radome ⟨ją⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "lahkuose"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Jaro"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:49.515534103Z",
+  "model": "glm-5.3"
+}

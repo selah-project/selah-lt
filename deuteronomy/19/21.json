@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gyvybė",
+      "rationale": "נפש — giliau 'gerklė, kvapas, gyvybės jėga', ne tik 'gyvybė'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש בנפש…רגל ברגל",
+      "rationale": "Talus 'už' (בְ) kartojimas — penkių dalių taliono sąrašas, ritminis pakartojimas išlieka"
+    }
+  ],
+  "translation": "Ir neapgailestauks tavo akis: gyvybė už gyvybę, akis už akį, dantis už dantį, ranka už ranką, koja už koją.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/21-21.1792475231039.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ir ne"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "apgailestaus"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tavo akis"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "gyvybė"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "už gyvybę"
+    },
+    {
+      "surface": "עין",
+      "gloss": "akis"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "už akį"
+    },
+    {
+      "surface": "שן",
+      "gloss": "dantis"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "už dantį"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ranka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "už ranką"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "koja"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "už koją"
+    }
+  ],
+  "timestamp": "2026-10-20T05:47:11.040718990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 24:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגד\/בוגדים",
+      "rationale": "Keturi šaknies בגד pakartojimai eilės gale — visiškos išdavystės priebalsinis aidas; lietuviškai išlaikytas pakartojimu 'išdavikai išdavė'."
+    },
+    {
+      "kind": "crux",
+      "subject": "רזי לי",
+      "rationale": "KJV 'mano lieknumas' vs ASV\/JPS 'nykstu': רזי — išsekimas, išvytimas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמרות\/צבי",
+      "rationale": "Skambanti giesmė prieš pat pranašo aimaną — kontrastinė struktūra."
+    }
+  ],
+  "translation": "Nuo žemės krašto girdėjome giesmes: „Šlovė teisiojo!“ Ir sakiau: „Man nyku, man nyku, vargas man! Išdavikai išdavė, ir išdavystė — išdavikai išdavė!“",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cf400095f14c75b00c66a18167791ba0c9ed07a6c063a192fb001a2e3b3d17fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/24\/13-16.1792481095424.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכנף",
+      "gloss": "nuo krašto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "זמרת",
+      "gloss": "giesmes"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "girdėjome"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "teisiojo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir sakiau"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "man nyku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "man nyku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "vargas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "išdavikai"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "išdavė"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "ir išdavystė"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "išdavikai"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "išdavė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:55.426118285Z",
+  "model": "glm-5.3"
+}

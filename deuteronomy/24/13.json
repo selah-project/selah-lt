@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדקה 'teisumas\/teisumas-dovana' čia pateikta skambesiu cedek pagal D2, o ne vienu žodžiu teisumas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "saulei leidžiantis",
+      "rationale": "מלית 'įėjimo saulės' — hebrajiškas posakis laikui iki sutemų nusakyti."
+    }
+  ],
+  "translation": "Sužeisti būtinai grąžinsi jam ⟨את⟩ įkeistąjį daiktą, saulei leidžiantis, ir jis gulės savo drabužyje, ir palaimins tave, ir tau tai bus cedek prieš Jahvę, tavo Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/24\/13-16.1792475376030.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "sužeisti būtinai"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "grąžinsi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "įkeistąjį daiktą"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "įkeistąjį daiktą"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "leidžiantis"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "saulei"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ir gulės"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "savo drabužyje"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ir palaimins tave"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ir tau"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cedek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tavo Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:49:36.031497922Z",
+  "model": "glm-5.3"
+}

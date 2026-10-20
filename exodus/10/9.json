@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 10:9",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ esamajame laike"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נלך",
+      "rationale": "veiksmažodis „eisime“ pakartotas du kartus — retorinis kartojimas"
+    }
+  ],
+  "translation": "Ir tarė Mošė: su savo jaunuoliais ir su savo senoliais eisime, su savo sūnumis ir su savo dukterimis, su savo avimis ir ožkomis ir su savo galvijais eisime, nes ⟨yra⟩ šventė Jahvės mums.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/10\/9-12.1792472349569.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "בנערינו",
+      "gloss": "su savo jaunuoliais"
+    },
+    {
+      "surface": "ובזקנינו",
+      "gloss": "ir su savo senoliais"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "eisime"
+    },
+    {
+      "surface": "בבנינו",
+      "gloss": "su savo sūnumis"
+    },
+    {
+      "surface": "ובבנותנו",
+      "gloss": "ir su savo dukterimis"
+    },
+    {
+      "surface": "בצאננו",
+      "gloss": "su savo avimis ir ožkomis"
+    },
+    {
+      "surface": "ובבקרנו",
+      "gloss": "ir su savo galvijais"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "eisime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חג",
+      "gloss": "šventė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mums"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:09.573325737Z",
+  "model": "glm-5.3"
+}

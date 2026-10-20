@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחלון\/כליון",
+      "rationale": "Vardai keliauja iš šaknų reiškiančių 'ligonį' ir 'sunykimą' — atspindi šeimos žūtį Moabe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "be savo vaikų",
+      "rationale": "Hebrajų משני 'nuo savo dviejų' — lietuvių reikia prielinksnio 'be'."
+    }
+  ],
+  "translation": "Ir mirė taip pat jiedu — Machlonas ir Kiljonas; ir moteris liko be savo dviejų vaikų ir be savo vyro.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "96d818c4a90d7675d10449e787a930abd0f45a3d147bb49664c4a5b98527c478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ruth\/1\/5-8.1792490963819.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "ir mirė"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "jiedu"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlonas"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "ir Kiljonas"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ir liko"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moteris"
+    },
+    {
+      "surface": "משני",
+      "gloss": "be savo dviejų"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "ir be savo vyro"
+    }
+  ],
+  "timestamp": "2026-10-20T10:09:23.820073477Z",
+  "model": "glm-5.3"
+}

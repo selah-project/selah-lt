@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחha — javų auka; čia aukos kontekste laikomas liturginis terminas"
+    },
+    {
+      "kind": "addition",
+      "subject": "bus",
+      "rationale": "hebrajų veiksmažodis וטהר yra veiksmas „tapo švarus“, lietuviškai reikia būtojo laiko"
+    }
+  ],
+  "translation": "Ir kunigas privedes ⟨את⟩ deginamąją auką ir ⟨את⟩ minchą ant aukuro, ir kunigas sutaikins dėl jo, ir jis bus švarus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bbe6019ed30ea7f0fd590a68014a4572f44a047c63fd32c6a09d5b593c41bceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/17-20.1792473373347.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ir privedes kilti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deginamąją auką"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "deginamąją auką"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "minchą"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchą"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ant aukuro"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ir sutaikins"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dėl jo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigas"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ir jis bus švarus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:13.350754520Z",
+  "model": "glm-5.3"
+}

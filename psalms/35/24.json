@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedek",
+      "rationale": "צדק paliktas kaip cedek pagal D2, o ne „teisumas“ vienas"
+    }
+  ],
+  "translation": "Teisk mane pagal savo cedek, Jahve, mano Elohim, ir netegul jie džiūgauja dėl manęs!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/35\/21-24.1792487806625.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "teisk mane"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "pagal tavo cedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "džiūgauja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dėl manęs"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:46.626302267Z",
+  "model": "glm-5.3"
+}

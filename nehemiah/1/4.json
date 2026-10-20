@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dalyviai",
+      "rationale": "hebrajiški veiksmažodžiai צם ומתפלל po היה išversti dalyviais „buvau pasninkaudamas ir melsdamasis“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "pažodžiui „veidu“ — „prieš Elohim veidą“ paversta „akivaizdoje“"
+    }
+  ],
+  "translation": "Ir atsitiko, kai aš išgirdau ⟨את⟩ šiuos žodžius, aš atsisėdau ir verkiau, ir liūdėjau dienas, ir buvau pasninkaudamas ir melsdamasis dangaus Elohim akivaizdoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4d487a4e1c62f57474de3b334f9eae225fa2412ea2f0c6ce0e4812639bc0e52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/1\/1-4.1792492265228.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir atsitiko"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "kai aš išgirdau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiuos žodžius"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "žodžius"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aš atsisėdau"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ir verkiau"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ir liūdėjau"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dienas"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ir buvau"
+    },
+    {
+      "surface": "צם",
+      "gloss": "pasninkaudamas"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ir melsdamasis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    }
+  ],
+  "timestamp": "2026-10-20T10:31:05.229734249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 7:9",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "Lietuvių kalbai reikia veikėjo, hebrajų kalba veiksmažodžius turi be įvardžio"
+    },
+    {
+      "kind": "substitution",
+      "subject": "cedeką",
+      "rationale": "בצדקתו — viena šaknis cedek, ne skirstymas į 'teisumu' ar 'teisingumu'"
+    }
+  ],
+  "translation": "Jahvės rūstybę nešiuosi, nes nusidėjau jam, kol ⟨jis⟩ gins mano bylą ir įvykdys mano teismą; ⟨jis⟩ išves mane į šviesą, ir regėsiu jo cedeką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3f3906131c3564b36d041424ff5d54580a14b2d0de556507d94fcc5038125b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/7\/9-12.1792486896149.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זעף",
+      "gloss": "rūstybę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nešiuosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nusidėjau"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kada"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "gins"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mano bylą"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ir įvykdys"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mano teismą"
+    },
+    {
+      "surface": "יוציאני",
+      "gloss": "išves mane"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "į šviesą"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "regėsiu"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "jo cedeką"
+    }
+  ],
+  "timestamp": "2026-10-20T09:01:36.150419297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 27:13",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi sietuvo „šitas ⟨yra⟩ dalis“"
+    },
+    {
+      "kind": "crux",
+      "subject": "משדי יקחו",
+      "rationale": "„iš Šadai bus paimta“ — veikslas gali būti bevardė giminė, o veikėjas pats Šadai, ne smurtautojai"
+    }
+  ],
+  "translation": "Šitas yra bedievio žmogaus dalis pas El, o smurtautojų paveldėjimas iš Šadai bus atimtas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/27\/13-16.1792490472981.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šitas"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "dalis"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bedievio"
+    },
+    {
+      "surface": "עם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "o paveldėjimas"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "smurtautojų"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "iš Šadai"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bus atimtas"
+    }
+  ],
+  "timestamp": "2026-10-20T10:01:12.981685149Z",
+  "model": "glm-5.3"
+}

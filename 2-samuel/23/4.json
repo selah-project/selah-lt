@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקר ... בקר",
+      "rationale": "„rytas” pakartotas du kartus — ryto šviesa ir vėl rytas be debesų; eilės ritmas"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מנגה ממטר",
+      "rationale": "„iš švytėjimo, iš lietaus” — hebraiškai du „iš” prielinksniai; žolė kyla ir iš švytėjimo, ir iš lietaus"
+    }
+  ],
+  "translation": "Ir kaip ryto šviesa, kai teka saulė, — rytas be debesų; iš švytėjimo, po lietaus — žolė iš žemės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/1-4.1792478735184.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "ir kaip ryto šviesa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ryto"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "kai teka"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "saulė"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rytas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "be"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "debesų"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "iš švytėjimo"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "po lietaus"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "žolė"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:35.186620895Z",
+  "model": "glm-5.3"
+}

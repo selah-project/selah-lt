@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרבעה אתה",
+      "rationale": "'Sudės gulėti su juo' — veiksmažodis רבע reiškia poravimąsi (iš gyvulių pasaulio); אתה čia kai kurių skaitymuose prielinksnis 'su ja', o ne DOM žymiklis."
+    },
+    {
+      "kind": "you",
+      "subject": "והרגת",
+      "rationale": "Vienaskaitos 'tu užmuši' — tiesioginis įsakymas, kreipimasis į bendruomenę atskiro įsakymo forma."
+    }
+  ],
+  "translation": "Ir moteris, kuri prisiartins prie kokio gyvulio gulėti su juo ⟨את⟩, — užmuši ⟨את⟩ moterį ir ⟨את⟩ gyvulį: mirtimi jie mirs, jų kraujas ant jų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/13-16.1792473627605.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Ir moteris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "prisiartins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kokio"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyvulio"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "gulėti su juo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "su juo"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "užmuši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moterį"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "moterį"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "gyvulį"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "gyvulį"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mirtimi"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "jūsų mirs"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "jų kraujas"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ant jų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:27.647083063Z",
+  "model": "glm-5.3"
+}

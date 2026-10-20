@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 3:13",
+  "book": "daniel",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Aramiškai passatyvo nėra — veiksmažodis 'atvesti' pakartotas su įvardžiu 'tie vyrai'"
+    },
+    {
+      "kind": "elision",
+      "subject": "קדם",
+      "rationale": "Aramiška prielinksnis 'priešais\/akivaizdoje' — lietuviškai 'pas'"
+    }
+  ],
+  "translation": "Tada Nebukadnecaras, ⟨įtūžęs⟩ ir ⟨su pykčiu⟩, liepė atvesti Šadrachą, Mešachą ir Abed-Nego. Tada tie vyrai buvo atvesti pas karalių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/3\/13-16.1792491772934.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "tada"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnecaras"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "įtūžęs"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "su pykčiu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liepė"
+    },
+    {
+      "surface": "להיתיה",
+      "gloss": "atvesti"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Šadrachą"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mešachą"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ir Abed-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "tada"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "vyrai"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "tie"
+    },
+    {
+      "surface": "היתיו",
+      "gloss": "buvo atvesti"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "karalių"
+    }
+  ],
+  "timestamp": "2026-10-20T10:22:52.934715510Z",
+  "model": "glm-5.3"
+}

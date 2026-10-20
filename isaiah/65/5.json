@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדשתיך",
+      "rationale": "Piel forma: 'aš tave pašventinau \/ paskelniau šventu' vs. YLT skaitymas 'paskelniau tave nešventu' (ironija); KJV\/JPS skaito 'aš šventesnis už tave'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באפי",
+      "rationale": "pažodžiui 'mano nosyje' — 'mano šnervėse' išlaiko rūstybės paveikslą."
+    },
+    {
+      "kind": "you",
+      "subject": "išpuikėliams",
+      "rationale": "Cituojamas tiesioginis kalbėtojų kreipimasis į artimą."
+    }
+  ],
+  "translation": "Kurie sako: Artėk prie manęs — ne, neisišk prie manęs, nes ⟨aš⟩ tave pašventinau. Šitie — dūmai mano šnervėse, ugnis, deganti visą dieną.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/65\/5-8.1792482074629.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "kurie sako"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "artėk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "prie tavęs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "neisišk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prie manęs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "tave pašventinau"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmai"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "mano šnervėse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ugnis"
+    },
+    {
+      "surface": "יקדת",
+      "gloss": "deganti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    }
+  ],
+  "timestamp": "2026-10-20T07:41:14.632035148Z",
+  "model": "glm-5.3"
+}

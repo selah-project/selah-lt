@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 44:17",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tu esi",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — pridėta⟨yra⟩stiliaus copula „esi“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dievui",
+      "rationale": "„el“ čia apie stabą — mažąja raide, ne Elohim Vardo pavidalu"
+    }
+  ],
+  "translation": "O jo liekaną jis padarė dievui, savo išdrožinui; jis puola žemėn prieš jį, meldžiasi jam ir taria: Išgelbėk mane, nes tu esi mano dievas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/44\/17-20.1792481678853.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאריתו",
+      "gloss": "o jo liekaną"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "dievui"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "padarė"
+    },
+    {
+      "surface": "לפסלו",
+      "gloss": "savo išdrožinui"
+    },
+    {
+      "surface": "יסגוד",
+      "gloss": "puola žemėn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ir meldžiasi"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ir maldauja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir taria"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "išgelbėk mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mano dievas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu esi"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:38.853882312Z",
+  "model": "glm-5.3"
+}

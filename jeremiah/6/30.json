@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמאס \/ מאס",
+      "rationale": "Toji pati šaknis kartojama: sidabras 'atmestas', nes Jahvė 'atmetė' — žodžio žaismas išlaikytas."
+    },
+    {
+      "kind": "addition",
+      "subject": "taip",
+      "rationale": "Hebrajų sąvoka 'קראו להם' neturi jungiamojo žodžio, pridėta 'taip'."
+    }
+  ],
+  "translation": "Atmestas sidabras — taip juos pavadino, nes Jahvė juos atmetė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/6\/29-30.1792482190072.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "sidabras"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "atmestas"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pavadino"
+    },
+    {
+      "surface": "להם",
+      "gloss": "juos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "atmetė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "juos"
+    }
+  ],
+  "timestamp": "2026-10-20T07:43:10.073955056Z",
+  "model": "glm-5.3"
+}

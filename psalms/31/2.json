@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "cedeku",
+      "gloss": "צדק pagal D2 — 'teisumas\/cedek', ne vien 'teisumas'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "maldos šauksmas",
+      "rationale": "Eilutė — malda, tiesiogiai kreipiasi į Jahvę"
+    }
+  ],
+  "translation": "Tavyje, Jahve, slėpiausi; tebūsiu nei gėdijamasis per amžius; savo cedeku išgelbėk mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/31\/1-4.1792487769692.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Tavyje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "slėpiausi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "tebūsiu gėdijamasis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "savo cedeku"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "išgelbėk mane"
+    }
+  ],
+  "timestamp": "2026-10-20T09:16:09.693075770Z",
+  "model": "glm-5.3"
+}

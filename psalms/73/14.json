@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨būna⟩",
+      "rationale": "hebrajiškas veiksmažodis čia tik ואהי (buvau); antrajai daliai lietuvių kalbai reikia kabliuko."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לבקרים",
+      "rationale": "daugiskaitinė forma „rytams“; verčiau „kas rytą“, kaip įprasta šioje patarloje."
+    }
+  ],
+  "translation": "Ir buvau kamuojamas visą dieną, ir mano pataisymas ⟨būna⟩ kiekvieną rytą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/73\/13-16.1792488385809.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ir buvau"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "kamuojamas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ir mano pataisymas"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "kiekvieną rytą"
+    }
+  ],
+  "timestamp": "2026-10-20T09:26:25.809911410Z",
+  "model": "glm-5.3"
+}

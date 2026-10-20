@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעל עליו",
+      "rationale": "'užlipo ant jo' (pažodžiui) prieš 'aukojo ant jo' — šaknis ala reiškia ir kilti, ir aukoti"
+    },
+    {
+      "kind": "addition",
+      "subject": "aukoti",
+      "rationale": "infinitivas pridėtas, nes vien 'užlipo ant jo' lietuviškai paliktų veiksmą neaiškų"
+    }
+  ],
+  "translation": "Ir atėjo karalius iš Damasko, ir pamatė karalius ⟨את⟩ altorių, ir prisiartino karalius prie altoriaus, ir užlipo ant jo aukoti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/9-12.1792480266121.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ir atėjo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "iš Damasko"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altorių"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altorių"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ir prisiartino"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altoriaus"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "užlipo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:11:06.123697204Z",
+  "model": "glm-5.3"
+}

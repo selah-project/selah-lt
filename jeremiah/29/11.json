@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום — pilnatvė, gerovė, sveikata, taika; paliktas kaip „šalom“, nes vienas lietuviškas žodis jo nesudėlioja."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית ותקוה",
+      "rationale": "„ateitis ir viltis“ (JPS) prieš „viltinga pabaiga“ (KJV) — אחרית yra „pabaiga\/atėjusi ateitis“, תקוה — „laukimas, virvė, viltis“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות \/ חשב \/ מחשבת",
+      "rationale": "šaknies חשב kartojimas tris kartus eilutėje — audimo\/sukūrimo paveikslas, kuris „sumanymai\/sumanau“ iš dalies perduoda."
+    }
+  ],
+  "translation": "Nes aš žinau ⟨את⟩ sumanymus, kuriuos aš sumanau jums, — sako Jahvė: sumanymus šalom, o ne blogio, kad duočiau jums ateitį ir viltį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/29\/9-12.1792482997730.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "žinau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumanymus"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "sumanymus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuriuos"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "sumanau"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "sumanymus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o ne"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "blogio"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "duoti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ateitį"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "ir viltį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:56:37.733489045Z",
+  "model": "glm-5.3"
+}

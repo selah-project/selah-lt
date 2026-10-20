@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach' — vėjas, kvapas ir Dvasia viename žodyje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר–כרמל–יער",
+      "rationale": "laiptuota apykaita: dykuma→sodis, sodis→miškas — kiekvienas vaizdas pakyla lygiu aukščiau"
+    }
+  ],
+  "translation": "Kol bus išlietas ant mūsų ruach iš aukštybių, ir dykuma taps sodžiumi, o sodis bus laikomas mišku.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/32\/13-16.1792481289304.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "bus išlietas"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ant mūsų"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "iš aukštybių"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ir taps"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "dykuma"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "sodžiumi"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "o sodis"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "mišku"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bus laikomas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:28:09.322120617Z",
+  "model": "glm-5.3"
+}

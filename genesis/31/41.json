@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 31:41",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "20 + 14 + 6 metų",
+      "rationale": "Jaakovo ataskaita — metų skaičiavimas ir dešimtkartinis užmokesčio keitimas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dešimt kartų",
+      "rationale": "מנים pažodžiui 'svarstyklių dalys', t. y. sunumeruoti sykiai — 'kartų' yra metaforos išlyginimas."
+    },
+    {
+      "kind": "elision",
+      "subject": "עשרה",
+      "rationale": "Hebrajiškas '-ika' dėmuo ארבע עשרה lietuvių kalboje susilieja į vieną žodį 'keturiolika'."
+    }
+  ],
+  "translation": "Šitai man dvidešimt metų tavo namuose: tarnavau tau keturiolika metų už tavo dvi dukteris ir šešerius metus už tavo avis ir ožkas — ir tu keitei ⟨את⟩ mano užmokestį dešimt kartų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30e55ac86e47e3c086f661954970e07735a4112b0b11229ecfda550219de274e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/41-44.1792471675933.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "tavo namuose"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "tarnavau tau"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "keturiolika"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "už dvi"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "dukteris"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ir šešerius"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "metus"
+    },
+    {
+      "surface": "בצאנך",
+      "gloss": "už tavo avis ir ožkas"
+    },
+    {
+      "surface": "ותחלף",
+      "gloss": "ir tu keitei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mano užmokestį"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mano užmokestį"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "kartų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:47:55.935739964Z",
+  "model": "glm-5.3"
+}

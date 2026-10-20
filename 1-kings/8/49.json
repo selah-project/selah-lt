@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמים מכון שבתך",
+      "rationale": "'dangus, tavo buveinės vieta' — apposition construction rendered with comma, not 'iš dangaus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ועשית משפטם",
+      "rationale": "pažodžiui 'padarysi jų teismą' — dauguma verčia 'apginsi jų reikalą'"
+    }
+  ],
+  "translation": "ir išgirsi dangūse, tavo gyvenamosios vietos, ⟨את⟩ jų maldą ir ⟨את⟩ jų pasigailėjimo prašymą, ir atliksi jų teismą,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/49-52.1792479058341.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ir išgirsi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangūje"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "gyvenamosioji vieta"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "tavo buveinė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jų maldą"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "jų malda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jų pasigailėjimo prašymą"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "jų pasigailėjimo prašymas"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ir atliksi"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jų teismas"
+    }
+  ],
+  "timestamp": "2026-10-20T06:50:58.342554108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajų kalba neturi sietuvo, lietuvių kalbai jo reikia"
+    },
+    {
+      "kind": "crux",
+      "subject": "vienu kartu, du",
+      "rationale": "Skaičiavimo formulė: ar 'du kartus' reiškia pakartojimą, ar antrą atskirą žodį"
+    },
+    {
+      "kind": "measurement",
+      "subject": "skaičiavimas",
+      "rationale": "Vienas — du skaičiavimo struktūra pačioje eilutėje"
+    }
+  ],
+  "translation": "Vienu kartu yra kalbėjęs Elohim, du — šitai aš išgirdau: kad jėga yra Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/62\/9-12.1792488207365.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "vienu kartu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yra kalbėjęs"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "du"
+    },
+    {
+      "surface": "זו",
+      "gloss": "šitai"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "aš išgirdau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "עז",
+      "gloss": "jėga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "yra Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T09:23:27.366333984Z",
+  "model": "glm-5.3"
+}

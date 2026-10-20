@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 26:21",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפקד עון",
+      "rationale": "Paqad reiškia 'aplankyti' tiek teisiant, tiek palankiai — čia 'aplankyti kaltę', t. y. atlyginti už ją."
+    },
+    {
+      "kind": "substitution",
+      "subject": "išeina",
+      "rationale": "יֹצֵא — veikiamoji forma 'eina iš', ne apibrėžtas 'ateina'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ant jų",
+      "rationale": "עָלָיו yra vienaskaita 'ant jo', bet kontekstas — daugiskaita gyventojų."
+    }
+  ],
+  "translation": "Nes štai Jahvė išeina iš savo vietos aplankyti žemės gyventojų kaltės ant jų, ir žemė atidengs ⟨את⟩ savo kraują ir daugiau nebeapdengs savo nužudytųjų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eee8ab2ad822b91eed6202961f41239d2f05cae979f8a5767d275f758f2a8f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/26\/21-21.1792481043282.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "išeina"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "iš savo vietos"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "aplankyti"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaltės"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gyventojų"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ant jų"
+    },
+    {
+      "surface": "וגלתה",
+      "gloss": "ir atidengs"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kraują"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "savo kraują"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "beapdengs"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "daugiau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הרוגיה",
+      "gloss": "savo nužudytųjų"
+    }
+  ],
+  "timestamp": "2026-10-20T07:24:03.284345333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų klausimas neturi veiksmažodžio „būti“; lietuvių kalbai jo reikia."
+    },
+    {
+      "kind": "you",
+      "subject": "Jeruzalė",
+      "rationale": "Ezek 16 kreipimasis į Jeruzalę kaip į ištekinėjamą moterį — tiesioginis adresatas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתזנתך",
+      "rationale": "„tavo paleistuvystė“ — Hebrajų reiškia ir tikrą ištvirkavimą, ir stabmeldystę; vienas žodis vienai šakniai."
+    }
+  ],
+  "translation": "Ir ėmei ⟨את⟩ savo sūnus ir ⟨את⟩ savo dukteris, kurias man pagimdei, ir paaukoji juos jiems ėsti. Ar maža ⟨yra⟩ tavo paleistuvystė?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e3871291f1a1296e9a2db91200bb5184e7e59401ec76bd4af1b1e8d1b0405e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/17-20.1792484147457.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ir ėmei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sūnus"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "savo sūnus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo dukteris"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "savo dukteris"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurias"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "pagimdei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ir paaukoji juos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ėsti"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ar maža"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "tavo paleistuvystė"
+    }
+  ],
+  "timestamp": "2026-10-20T08:15:47.460826762Z",
+  "model": "glm-5.3"
+}

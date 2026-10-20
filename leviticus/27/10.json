@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המר ימיר",
+      "rationale": "šaknies kaitojimas — „pakeisdamas pakeis“; taip pat תמורתו iš tos pačios šaknies; perteikta „išties pakeis“"
+    },
+    {
+      "kind": "elision",
+      "subject": "טוב ברע",
+      "rationale": "hebraiškai be veiksmažodžio: „geras blogiu“ — lietuvių reikalauja „keisti gerą į blogį“"
+    }
+  ],
+  "translation": "Jo jis nekeis ir nepakeis ⟨את⟩ — gero į blogį ar blogio į gerį; o jei išties pakeis gyulį gyvuliu, tai jis ir jo pakaitas bus šventas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/9-12.1792473791746.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "jo jis nekeis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "nepakeis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "gerą ar blogą (jį)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gero"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "į blogį"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "רע",
+      "gloss": "blogio"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "į gerį"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "המר",
+      "gloss": "išties pakeis"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "pakeis"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "gyulį"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "gyvuliu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "tai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ir jo pakaitas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "šventas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:11.747459158Z",
+  "model": "glm-5.3"
+}

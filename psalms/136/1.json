@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jis yra⟩ ⟨trunka⟩",
+      "rationale": "Hebrajų kalboje nėra veiksmažodžių „būti“ ir „trukti“ — pridėta lietuviška struktūrai"
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד išlaikytas skambesiu — 'gailestingumas' vienas neatperka meilės-ištikimybės sąvokos"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Dėkokite",
+      "rationale": "Ps 136 liturginis kvietimas — pamaldų pradžia, kreipimasis į bendruomenę"
+    }
+  ],
+  "translation": "Dėkokite Jahvei, nes ⟨jis yra⟩ geras, nes per amžius ⟨trunka⟩ jo chesed.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f6106afd89616535912ecf0c88195e9b1dc2820b774689dd7f9538148c04e53e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/136\/1-4.1792489262676.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dėkokite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "geras"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "per amžius"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jo chesed"
+    }
+  ],
+  "timestamp": "2026-10-20T09:41:02.677312600Z",
+  "model": "glm-5.3"
+}

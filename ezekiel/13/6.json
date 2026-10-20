@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 13:6",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחלו",
+      "rationale": "Veiksmažodis 'laukia\/tiki': ar jie patys laukia žodžio išsipildymo, ar įtikino kitus laukti (KJV 'made others to hope')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שוא",
+      "rationale": "'Tuštybė' — tuščias, nedervingas dalykas; ne tik 'melas'."
+    }
+  ],
+  "translation": "Tuštybę jie regėjo ir melagingą būrimą, ⟨tie, kurie⟩ sako: sako Jahvė, o Jahvė jų nesiuntė — ir jie laukia, kad išsipildytų žodis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72ed175dec5826e7a630a874e940e5a426fbd934e59fdf403e97e88b14f64b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/13\/5-8.1792484045734.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזו",
+      "gloss": "regėjo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tuštybę"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ir būrimą"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "melagingą"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "⟨tie, kurie⟩ sako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "o Jahvė"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "jų nesiuntė"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "ir jie laukia"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "kad išsipildytų"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:14:05.736624308Z",
+  "model": "glm-5.3"
+}

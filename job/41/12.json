@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 41:12",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואגמן",
+      "rationale": "Crux: אגמן gali reikšti 'nendrių virvė', 'nendrynas' arba čia — verdančios\/audžiančios nendrės; JPS 'burning rushes', Geneva praleidžia"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפוח",
+      "rationale": "נפוח 'pūstas\/verdamas' — ar puodas verda, ar yra išpūstas; 'kuris verda' yra priimtinas skaitymas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eina",
+      "rationale": "יצא pažodžiui 'išeina' — dūmas 'išeina' iš šnervių"
+    }
+  ],
+  "translation": "Iš jo šnervių eina dūmas, kaip iš puodo, kuriame verda, ir kaip iš nendrių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1979f6f514715784fb8510322ebed528f6f814a8a9b6fb470e8d0f8c9a4b649",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/41\/9-12.1792490783748.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחיריו",
+      "gloss": "iš šnervių jo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "eina"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dūmas"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "kaip iš puodo"
+    },
+    {
+      "surface": "נפוח",
+      "gloss": "kuriame pučia (verda)"
+    },
+    {
+      "surface": "ואגמן",
+      "gloss": "ir nendrės"
+    }
+  ],
+  "timestamp": "2026-10-20T10:06:23.749636540Z",
+  "model": "glm-5.3"
+}

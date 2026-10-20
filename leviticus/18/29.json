@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 18:29",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sielos",
+      "rationale": "נפשות yra 'kvėpuojančios būtybės, gyvybės', ne tik 'sielos'."
+    },
+    {
+      "kind": "crux",
+      "subject": "iškirptos",
+      "rationale": "נכרתו kareto: 'bus iškirptos' (iš tautos) arba 'apsikirps' — čia bendrais sutarta reikšme 'atidėtos nuo tautos'."
+    }
+  ],
+  "translation": "Nes kiekvienas, kas darys vieną iš visų šitų pasibjaurėjimų, — tos sielos, kurios tai daro, bus iškirptos iš savo tautos.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "41219a2705ee78e30991ffe8a6537282d9646fce40aaa5f1d63ce9a307877912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/29-30.1792473476119.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kiekvienas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "darys"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "iš visų"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "pasibjaurėjimų"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šitų"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "bus iškirptos"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "tos sielos"
+    },
+    {
+      "surface": "העשת",
+      "gloss": "kurios daro"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "iš vidurio"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "savo tautos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:17:56.120754140Z",
+  "model": "glm-5.3"
+}

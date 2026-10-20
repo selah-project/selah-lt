@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 24:11",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebraiškai nėra darinio „buvo pasakyta“ — beveikis veikslas, glose pridėta pasyvo forma"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותחס",
+      "rationale": "„mano akis pasigailėjo tavęs“ — beveikis veikslas be veikėjo; glose pasyvas „pasigailėta“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משיח",
+      "rationale": "„Jahvės pateptasis“ — ne „Mesijas“, nes čia kalba apie karalių Šaulių"
+    }
+  ],
+  "translation": "Štai šiandien tavo akys matė ⟨את⟩ tai, kad Jahvė davė tave šiandien į mano ranką oloje, ir buvo pasakyta tave nužudyti, bet pasigailėta tavęs, ir aš tariau: neištiesiu savo rankos prieš savo poną, nes jis — Jahvės pateptasis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/9-12.1792477639162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "šią"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "matė"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tavo akys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "davė tave"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "היום",
+      "gloss": "šiandien"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "į mano ranką"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "oloje"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir buvo pasakyta"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "tave nužudyti"
+    },
+    {
+      "surface": "ותחס",
+      "gloss": "bet pasigailėta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tavęs"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir aš tariau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ištiesiu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "prieš savo poną"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "pateptasis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:19.165853057Z",
+  "model": "glm-5.3"
+}

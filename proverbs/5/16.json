@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפוצו — klausiama ar liepiama",
+      "rationale": "Hebrew verb form allows either 'let them be dispersed' (KJV\/JPS command) or a rhetorical question 'should they be dispersed?' (ASV\/BSB); context 5:15–17 favours the question, since 5:17 says 'let them be yours only'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעינתיך \/ פלגי מים",
+      "rationale": "Verse continues 5:15's fountain\/water metaphor for wife and fidelity; the euphemistic sense of מים (semen) may be in play."
+    },
+    {
+      "kind": "elision",
+      "subject": "חוצה",
+      "rationale": "'Outside' — adverb rendered with supplied directional 'laukan', as Lithuanian needs an adverb of motion."
+    }
+  ],
+  "translation": "Ar tavo šaltiniai turi bėgti ⟨laukan⟩, tarp turgaus aikščių — vandens srautai?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "67dea13be8a0a5d923941e514065c08147c78f85e54344144995bf4d49c2ef66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/5\/16-16.1792494181614.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "turi bėgti"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "tavo šaltiniai"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "⟨laukan⟩"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "tarp turgaus aikščių"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "srautai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vandens"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:01.614896546Z",
+  "model": "glm-5.3"
+}

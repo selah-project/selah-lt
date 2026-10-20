@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "vėliavon iškeltas",
+      "rationale": "דגול iš 'vėliava' — vaizdas iškeltas kaip vėliava tarp dešimties tūkstančių; tradiciškai 'išskirtinis'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "miriadų",
+      "rationale": "רבבה — dešimt tūkstančių, skaičiaus vaizdas"
+    }
+  ],
+  "translation": "Mano mylimasis spindintis ir raudonskruostis, vėliavon iškeltas tarp miriadų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/song-of-songs\/5\/9-12.1792490826932.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "mano mylimasis"
+    },
+    {
+      "surface": "צח",
+      "gloss": "spindintis"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ir raudonskruostis"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "vėliavon iškeltas"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "tarp miriadų"
+    }
+  ],
+  "timestamp": "2026-10-20T10:07:06.932883319Z",
+  "model": "glm-5.3"
+}

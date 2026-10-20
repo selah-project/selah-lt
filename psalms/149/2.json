@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kūrėjas",
+      "rationale": "בעשיו pažodžiui 'savo Darėju' — darytojas\/kūrėjas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelizmas",
+      "rationale": "Jisraelis\/Cijono sūnūs ir ישמח\/יגילו — du džiaugsmo veiksmažodžiai simetriškame paralelizme"
+    }
+  ],
+  "translation": "Tesidžiaugia Jisraelis savo Kūrėju, Cijono sūnūs tesidžiaugia savo karaliumi!",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/149\/1-4.1792489376641.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Tesidžiaugia"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "savo Kūrėju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijono"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "tesidžiaugia"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "savo karaliumi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:56.642284429Z",
+  "model": "glm-5.3"
+}

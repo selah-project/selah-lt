@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מבן",
+      "rationale": "Hebrajiškai pažodžiui 'nuo sūnaus dvidešimties metų' — 'sūnus' išlydytas į 'amžiaus'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census formula",
+      "rationale": "Surašymo formulė: vardais, nuo dvidešimties metų, karo pajėgūs."
+    }
+  ],
+  "translation": "Neftalio sūnūs, pagal jų giminę, pagal jų šeimas, pagal jų tėvų namus, pagal vardų skaičių, nuo dvidešimties metų ir aukščiau, visi, einantys į karo pulką —",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/41-44.1792473809653.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalio"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "pagal jų giminę"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "pagal jų šeimas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "pagal namus"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jų tėvų"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "pagal skaičių"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "vardų"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "nuo amžiaus"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvidešimties"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ir aukščiau"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "einantys"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "į karo pulką"
+    }
+  ],
+  "timestamp": "2026-10-20T05:23:29.656537589Z",
+  "model": "glm-5.3"
+}

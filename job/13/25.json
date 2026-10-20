@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "gąsdinsi",
+      "rationale": "ערץ gali reikšti ir 'gąsdinti', ir 'laužyti' (kaip KJV 'break')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קש יבש",
+      "rationale": "qav-javeš skiemenų karta — 'šiaudas sausas', lietuviškai iš dalies perduota"
+    }
+  ],
+  "translation": "Ar gąsdinsi vėjo genamą lapą? Ir ⟨את⟩ sausą šiaudą vytis?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/13\/25-28.1792490267627.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lapą"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "vėjo genamą"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "gąsdinsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sausą šiaudą"
+    },
+    {
+      "surface": "קש",
+      "gloss": "šiaudą"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "sausą"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "vytis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:57:47.628404811Z",
+  "model": "glm-5.3"
+}

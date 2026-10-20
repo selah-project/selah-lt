@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kaip vandenys, kurie praėjo",
+      "rationale": "Hebrajų palyginimas 'כְּמַיִם עָבְרוּ' — prabėgęs vanduo, kas daugiau nebegrįžta."
+    },
+    {
+      "kind": "you",
+      "subject": "Ijovui",
+      "rationale": "Cofaras toliau kalba antruoju asmeniu Ijovui."
+    }
+  ],
+  "translation": "Nes tu užmirši vargą, jį atsiminsi kaip vandenis, kurie praėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d9453ead6ef740f73e4b92ce97314adf1b44821849d067b7723c3fe54dbce252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/11\/13-16.1792490252481.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vargą"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "užmirši"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaip vandenys"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kurie praėjo"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "atsiminsi"
+    }
+  ],
+  "timestamp": "2026-10-20T09:57:32.483017424Z",
+  "model": "glm-5.3"
+}

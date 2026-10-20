@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi būtojo kartinio veiksmažodžio — lietuvių kalbai reikia 'buvo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "Kartojamas 'tuomet … tuomet' — dviejų stovyklų paralelizmas, išlaikytas."
+    }
+  ],
+  "translation": "Ir Davidas ⟨buvo⟩ tuomet tvirtovėje, o plištiečių įgula tuomet Beit Lecheme.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a9e64c49c5f3f3e0d565f343396199ca6f2b624bdf681ca9cba4147e459c03a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/13-16.1792478741282.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ir Davidas"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "tvirtovėje"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "o įgula"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plištiečių"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tuomet"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lecheme"
+    }
+  ],
+  "timestamp": "2026-10-20T06:45:41.283809389Z",
+  "model": "glm-5.3"
+}

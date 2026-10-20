@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הזר",
+      "rationale": "Pašalinysis — ne kunigas, ne iš Aharono linijos; ne būtinai „svetimtautis“."
+    }
+  ],
+  "translation": "Ir ⟨את⟩ Aharoną ir ⟨את⟩ jo sūnums tu paskirsi, ir jie saugos ⟨את⟩ savo kunigystę; o pašalinysis, kuris prisiartins, bus nužudytas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/9-12.1792473886518.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Aharoną"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "jo sūnums"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jo sūnums"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tu paskirsi"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ir jie saugos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo kunigystę"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "savo kunigystę"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "o pašalinysis"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kuris prisiartins"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bus nužudytas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:46.519195958Z",
+  "model": "glm-5.3"
+}

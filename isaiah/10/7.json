@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 10:7",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Širdies turinio infinitivams lietuvių reikia kopulos"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא כן ... לא כן",
+      "rationale": "Kartojama struktūra ‚ne taip‘ du kartus — paralelizmas išlaikytas"
+    }
+  ],
+  "translation": "Bet jis — ne taip mano, ir jo širdis — ne taip samprotauja; nes jo širdyje ⟨yra⟩ naikinti ir išnaikinti tautas — ne mažai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "72a4b3ba927cd8fca3378ed039270af7912f4756d2bef4ce077f09bd8f6979eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/5-8.1792480847601.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Bet jis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "mano"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "ir jo širdis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "samprotauja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "naikinti"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "jo širdyje"
+    },
+    {
+      "surface": "ולהכרית",
+      "gloss": "ir išnaikinti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tautas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mažai"
+    }
+  ],
+  "timestamp": "2026-10-20T07:20:47.603763279Z",
+  "model": "glm-5.3"
+}

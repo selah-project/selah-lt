@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ganyklomis",
+      "rationale": "מגרשה — atvira žemė aplink miestą, JPS 'open land'; 'ganyklos' yra tradicinis siauras vaizdas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "devynios",
+      "rationale": "eilutė pradeda kunigų miestų sąrašo skaičiavimą (21,13–19)"
+    }
+  ],
+  "translation": "Ir Aharono, kunigo, sūnums jie davė pabėgimo ⟨את⟩ miestą žudikui: ⟨את⟩ Chebroną ⟨את⟩ su jo ganyklomis ir ⟨את⟩ Livną ⟨את⟩ su jos ganyklomis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "18b05d91fa11c26c6731cf8ec5bbcf4653e72e1daa32b94e64cc8d6e2508058c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/13-16.1792476203310.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ir ... sūnums"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "jie davė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebroną"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "pabėgimo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "žudikui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebroną"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebroną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "ganyklomis"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "su jo ganyklomis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "Livną"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "ganyklomis"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "su jos ganyklomis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:03:23.312874155Z",
+  "model": "glm-5.3"
+}

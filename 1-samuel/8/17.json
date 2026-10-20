@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dešimtinės",
+      "rationale": "עשר — veiksmažodis 'dešimtinti', lietuviškai per dešimtinės ėmimą"
+    },
+    {
+      "kind": "addition",
+      "subject": "būsite",
+      "rationale": "תהיו — hebrajiškas 'būti' išlaikytas, bet gretimystėje su veiksmažodžiu reikalauja linksnio"
+    }
+  ],
+  "translation": "Jūsų avis ir ožkas jis imsis dešimtinės, ir jūs būsite jam vergais.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/8\/17-20.1792477020108.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "jūsų avis ir ožkas"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "imsis dešimtinės"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ir jūs"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "būsite"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "vergais"
+    }
+  ],
+  "timestamp": "2026-10-20T06:17:00.108682270Z",
+  "model": "glm-5.3"
+}

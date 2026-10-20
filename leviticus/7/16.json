@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba čia neturi veiksmažodžio — lietuvių sakinys reikalauja kopulos."
+    },
+    {
+      "kind": "measurement",
+      "subject": "valgymo laikas",
+      "rationale": "Pažado ir savanoriškos aukos mėsa — dvi dienos, priešingai nei padėkos aukai (15 eilutė)."
+    }
+  ],
+  "translation": "O jei pažado ar savanoriška auka yra jo atnaša, tą dieną, kai jis atneša ⟨את⟩ savo auką, ji turi būti suvalgyta; o kitą dieną, kas iš jos lieka, gali būti suvalgyta.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/13-16.1792473186517.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "o jei"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "pažado"
+    },
+    {
+      "surface": "או",
+      "gloss": "ar"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "savanoriška"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "auka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jo atnaša"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "kai jis atneša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo auką"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "savo auką"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "turi būti suvalgyta"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "o kitą dieną"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "kas lieka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "iš jos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "gali būti suvalgyta"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:06.519989161Z",
+  "model": "glm-5.3"
+}

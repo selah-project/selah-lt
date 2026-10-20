@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 37:9",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama tik kaip ruach — vėjas, kvapas ir Dvasia viename žodyje."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח\/רוחות",
+      "rationale": "Žodžio ruach kartojimas ir daugiskaita רוחות (vėjai) sukuria žaismą tarp vėjo ir kvapo-dvasios."
+    },
+    {
+      "kind": "you",
+      "subject": "Ezechielui",
+      "rationale": "Dievas kreipiasi į pranašą įsakymu pranašauti ruach."
+    }
+  ],
+  "translation": "Ir jis tarė man: Pranašauk ruach, pranašauk, žmogaus sūnau, ir sakyk ruach: Taip sako Adonai Jahvė: Iš keturių vėjų ateik, ruach, ir papūsk į šiuos nužudytuosius, ir jie gyvens.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/37\/9-12.1792485812235.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "man"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "Pranašauk"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "pranašauk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sūnau"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ir sakyk"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "Iš keturių"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "vėjų"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ateik"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "ופחי",
+      "gloss": "ir papūsk"
+    },
+    {
+      "surface": "בהרוגים",
+      "gloss": "į šiuos nužudytuosius"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ויחיו",
+      "gloss": "ir jie gyvens"
+    }
+  ],
+  "timestamp": "2026-10-20T08:43:32.236878365Z",
+  "model": "glm-5.3"
+}

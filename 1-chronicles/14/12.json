@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajų kalba neturi pasyvo vergo — pridėta ⟨buvo⟩ dėl lietuvių gramatikos"
+    },
+    {
+      "kind": "crux",
+      "subject": "ir tarė",
+      "rationale": "ויאמר Davidas — KJV „liepė“; tiesioginis verčiamas „tarė“, įsakymas numanomas iš konteksto"
+    }
+  ],
+  "translation": "Ir jie paliko ten ⟨את⟩ savo dievus, ir Davidas tarė, ir jie buvo sudeginti ugnimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "05575bcb356478858bc42b8abdb6a1fe5cc179f27fc838ad8c2596b21dc6a655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/14\/12-12.1792494218113.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ir paliko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ten"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo dievus"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "savo dievus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidas"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ir buvo sudeginti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnimi"
+    }
+  ],
+  "timestamp": "2026-10-20T11:03:38.114336002Z",
+  "model": "glm-5.3"
+}

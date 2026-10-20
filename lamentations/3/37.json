@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajių kalba neturi veiksmažodžio „būti“ šioje vietoje"
+    },
+    {
+      "kind": "crux",
+      "subject": "jei Adonai to neįsakė",
+      "rationale": "hebrajiškas klausimas skelbia: žodis neįvyksta be Adonai įsakymo; vertėjai skiriasi dėl sąlygos ar klausimo formos"
+    },
+    {
+      "kind": "you",
+      "subject": "retorinis klausimas skaitytojui",
+      "rationale": "eilių eilutė kreipiasi į kenčiantį žmogų klausimu „kas?“"
+    }
+  ],
+  "translation": "Kas ⟨yra⟩ tas, kuris tarė, ir tai įvyko, jei Adonai to neįsakė?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/3\/37-40.1792491058160.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tarė"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ir tai įvyko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "įsakė"
+    }
+  ],
+  "timestamp": "2026-10-20T10:10:58.161243699Z",
+  "model": "glm-5.3"
+}

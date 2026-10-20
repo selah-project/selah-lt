@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "sąsaja 'kurio vardas ⟨yra⟩ Jahvė Cevaot' pridėta, nes hebrajų kalba jos neturi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Taboras ir Karmelis",
+      "rationale": "palyginimas neaiškus: ar kalbama apie kalnų didingumą, ar apie būsimą nugalėtoją, kuris ateis kaip šie kalnai"
+    }
+  ],
+  "translation": "Gyvas esu aš — sako Karalius, kurio vardas ⟨yra⟩ Jahvė Cevaot: kaip Taboras tarp kalnų ir kaip Karmelis prie jūros, taip jis ateis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/46\/17-20.1792483412922.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "gyvas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Karalius"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vardas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "kaip Taboras"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "tarp kalnų"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "ir kaip Karmelis"
+    },
+    {
+      "surface": "בים",
+      "gloss": "prie jūros"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ateis"
+    }
+  ],
+  "timestamp": "2026-10-20T08:03:32.924334087Z",
+  "model": "glm-5.3"
+}

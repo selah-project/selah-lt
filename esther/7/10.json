@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכין",
+      "rationale": "Mordejui paruoštas medis atsigręžia prieš patį Hamaną — pakartota iš Est 5,14 ironija"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medžio",
+      "rationale": "העץ 'medis', ne 'kartuvės' — išlaikytas hebrajiškas žodžio pavidalas"
+    }
+  ],
+  "translation": "Ir jie pakabino ⟨את⟩ Hamaną ant medžio, kurį jis buvo paruošęs Mordejui; ir karaliaus įtūžis aprimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/7\/9-10.1792491489000.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Ir jie pakabino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamaną"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamaną"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "medžio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "buvo paruošęs"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordejui"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ir įtūžis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karaliaus"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "aprimo"
+    }
+  ],
+  "timestamp": "2026-10-20T10:18:09.001379156Z",
+  "model": "glm-5.3"
+}

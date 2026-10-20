@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malšina troškulį",
+      "rationale": "שבר pažodžiui „laužo“ — laukiniai asmenys „palaužia“ savo troškulį"
+    }
+  ],
+  "translation": "Jie pagirdo visus lauko gyvulius, laukiniai asmenys malšina savo troškulį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/9-12.1792488760303.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "jie pagirdo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "gyvulius"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "lauko"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "jie malšina"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "laukiniai asmenys"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "savo troškulį"
+    }
+  ],
+  "timestamp": "2026-10-20T09:32:40.304543502Z",
+  "model": "glm-5.3"
+}

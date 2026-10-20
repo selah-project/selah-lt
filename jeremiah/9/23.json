@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 9:23",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨esu⟩",
+      "rationale": "Hebrajų praleidžia sakinio dalį 'kad aš — Jahvė'; lietuvių reikalauja kabliuko 'esu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד paliktas garsu — vienas žodis derliaus ištikimybė, meilę ir gailestingumą, vienas lietuviškas žodis to neapima."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתהלל\/המתהלל",
+      "rationale": "Tos pačios šaknies kartojimas — 'besigiriantysis besigiria', aidas iš 9,22 tęsiamas."
+    }
+  ],
+  "translation": "Bet tik šituo tebesigiria besigiriantis: kad suprastų ir pažintų mane ⟨את⟩, kad aš ⟨esu⟩ Jahvė, darantis chesed, teismą ir cedeką žemėje, nes šituose aš gėriuosi, sako Jahvė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/9\/21-24.1792482377201.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tik"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "šituo"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "tebesigiria"
+    },
+    {
+      "surface": "המתהלל",
+      "gloss": "besigiriantis"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "suprastų"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ir pažintų"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "darantis"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ir cedeką"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "šituose"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aš gėriuosi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    }
+  ],
+  "timestamp": "2026-10-20T07:46:17.205185373Z",
+  "model": "glm-5.3"
+}

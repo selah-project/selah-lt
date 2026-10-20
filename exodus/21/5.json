@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר יאמר",
+      "rationale": "Begalinis veiksmažodis + asmenuota forma — „tartų pasakytų“, pabrėžtas valios pareiškimas."
+    },
+    {
+      "kind": "addition",
+      "subject": "dvitaškis",
+      "rationale": "Hebrajiškoji citatos konstrukcija netiesioginė; lietuvių kalbai reikia tiesioginės kalbos ženklo."
+    }
+  ],
+  "translation": "Ir jei tartų pasakytų vergas: myliu ⟨את⟩ savo poną, ⟨את⟩ savo žmoną ir ⟨את⟩ savo vaikus — neisiu laisvas,",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/5-8.1792472687870.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ir jei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tartų"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pasakytų"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "vergas"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "myliu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo poną"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "savo poną"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo žmoną"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "savo žmoną"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo vaikus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "savo vaikus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "isiu"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "laisvas"
+    }
+  ],
+  "timestamp": "2026-10-20T05:04:47.873231839Z",
+  "model": "glm-5.3"
+}

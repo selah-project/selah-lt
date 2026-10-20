@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Lietuvių kalbai reikia parinkties, hebrajų jos neturi."
+    },
+    {
+      "kind": "crux",
+      "subject": "וצפינך",
+      "rationale": "'Tavo paslėptieji turtai' — ar šeriami piktieji, ar (kaip BSB) tavo išrinktieji; žodis iš צפן, slėpti."
+    },
+    {
+      "kind": "secret",
+      "subject": "וצפינך",
+      "rationale": "צפין — paslėptas lobis, tai, kas slepiama."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dalys ir sotumas",
+      "rationale": "Eilutė skaičiuoja dalis, pilvus, vaikų perteklių — nelygios žmonių dalys."
+    }
+  ],
+  "translation": "Nuo mirtingųjų, tavo ranka, Jahvė, nuo mirtingųjų, kurių dalis ⟨yra⟩ šiame einamajame gyvenime: savo paslėptaisiais turtais pripildai jų pilvus, jie sotūs vaikais ir palieka savo perteklių savo žindukliams.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/17\/13-15.1792487492807.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "Nuo mirtingųjų"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tavo ranka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "nuo mirtingųjų"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "einamajame gyvenime"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "jų dalis"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "gyvenime"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "savo paslėptaisiais turtams"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "pripildai"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "jų pilvus"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "jie sotūs"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "vaikais"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ir palieka"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "savo perteklių"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "savo žindukliams"
+    }
+  ],
+  "timestamp": "2026-10-20T09:11:32.808692757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 26:44",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje; lietuvių kalba reikalauja 'aš esu'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואף גם זאת",
+      "rationale": "Trijų dalelyčių krūva 'ir taip pat net tai' sutraukyta į 'ir vis dėlto, net'."
+    }
+  ],
+  "translation": "Ir vis dėlto, net kai jie bus žemėje jų priešų, aš jų neatmeisiu ir jų neniekinsiu, kad juos sunaikinčiau, kad sulaužyčiau savo sandorą ⟨את⟩ su jais; nes aš esu Jahvė, jų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/41-44.1792473848790.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "vis dėlto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "net"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "kai jie bus"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "jų priešų"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מאסתים",
+      "gloss": "jų neatmeisiu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "געלתים",
+      "gloss": "jų neniekinsi"
+    },
+    {
+      "surface": "לכלתם",
+      "gloss": "kad juos sunaikinčiau"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "kad sulaužyčiau"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "su jais"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš esu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:24:08.794406817Z",
+  "model": "glm-5.3"
+}

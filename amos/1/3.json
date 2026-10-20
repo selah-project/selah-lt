@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨to⟩",
+      "rationale": "אשיבנו įvardis reikalauja objekto lietuvių kalboje — hebrajų turi tik įvardinę galūnę"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אשיבנו",
+      "rationale": "pažodžiui „neversiu jo grįžti“ — vertėjai: „neatšauksiu bausmės“ \/ „neatsisakysiu“ \/ „neapsigręšiu“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "trys... ir keturi",
+      "rationale": "skaitinis prielinksnis, kylantis iki keturių — „už tris ir už keturis“ yra hebrajiška didėjimo figūra, skaičius lieka nepaaiškintas"
+    },
+    {
+      "kind": "addition",
+      "subject": "jie",
+      "rationale": "דושם yra beveik be įvardžio — lietuvių reikia veikėjo"
+    }
+  ],
+  "translation": "Taip sako Jahvė: už tris Damasko suktilimus ir už keturis ⟨to⟩ neatsuksiu — už tai, kad jie kūlė geležiniais kuliamaisiais ⟨את⟩ Gileadą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/amos\/1\/1-4.1792486448912.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "taip"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "על",
+      "gloss": "už"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tris"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "suktilimus"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ir už"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "keturis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "neatsuksiu"
+    },
+    {
+      "surface": "על",
+      "gloss": "už tai, kad"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "jie kūlė"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "geležiniais kuliamaisiais"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "geležiniais"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileadą"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:54:08.914263907Z",
+  "model": "glm-5.3"
+}

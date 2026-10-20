@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vainikas",
+      "rationale": "נזר — pašventinimo ženklas, kunigo ar Naziro vainikas; 'karūna' per siaura"
+    }
+  ],
+  "translation": "Jo priešus aprengsiu gėda, o ant jo žydės jo vainikas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/132\/17-18.1792489155094.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוֹיְבָיו",
+      "gloss": "Jo priešus"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "aprengsiu"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "gėda"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "o ant jo"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "žydės"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "jo vainikas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:39:15.095090190Z",
+  "model": "glm-5.3"
+}

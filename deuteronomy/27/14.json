@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Krypties dalelytė išreikšta linksniuotiems žodžiams 'visiems vyrams', atskira lietuviška gala nebereikalinga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וענו",
+      "rationale": "'Atsakys' — hebrajiškas ענה tą pačią šaknį, kuri vėliau verčiama ir 'sakyti garsiai' (27,15): panašus skambesys tarp 'atsakyti' ir 'perskaityti garsiai'"
+    },
+    {
+      "kind": "you",
+      "subject": "visiems Jisraelio vyrams",
+      "rationale": "Tiesioginis kreipimasis į visą tautą kaip prakeiksmų liturgijos adresatą"
+    }
+  ],
+  "translation": "Ir leviai atsakys ir kalbės visiems Jisraelio vyrams garsiu balsu:",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4c233c4c013576e76af9071abf92bc824ce09ead03034f6cb428cd0eef44eac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/13-16.1792475410809.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ir atsakys"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviai"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ir kalbės"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyrams"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "garsiu"
+    }
+  ],
+  "timestamp": "2026-10-20T05:50:10.811725957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזיר",
+      "rationale": "'Pašvęstasis\/atskirtasis' (naziras), 'kunigaikštis' (JPS) arba 'iškilnysis tarp brolių' — pasirinkta pažodinė 'išskirtasis'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dyglynas",
+      "rationale": "סנה — degantis dyglynis (Iš 3,2), užuomina į Sinajaus apsireiškimą; vienu žodžiu 'dyglynis' vietoj aprašomojo 'deginantis krūmas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "tai",
+      "rationale": "Lietuvių kalbai reikia įvardžio, žyminčio palaiminimo, kurį תבואתה 'teateina' perneša iš 33,13–16 sąrašo."
+    }
+  ],
+  "translation": "ir iš žemės gėrybių ir jos pilnatvės, ir palankumo To, kuris gyveno dyglyne: teateina tai ant Josefo galvos ir ant viršugalvio to, kuris išskirtas tarp savo brolių.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/33\/13-16.1792475596311.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "ir iš gėrybių"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ir jos pilnatvės"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "ir palankumo"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "To, kuris gyveno"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "dyglyne"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "teateina tai"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ant galvos"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefo"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "ir ant viršugalvio"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "išskirtojo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "tarp savo brolių"
+    }
+  ],
+  "timestamp": "2026-10-20T05:53:16.315039250Z",
+  "model": "glm-5.3"
+}

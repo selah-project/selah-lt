@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suspausti",
+      "rationale": "לצור pažodžiui „suspausti, apgulti“ — vienas žodis, ne dviejų žodžių perifrazė"
+    }
+  ],
+  "translation": "Ir Šaulis sušaukė ⟨את⟩ visą tautą į karą, kad žengtų žemyn į Kėilą suspausti Davidą ir jo vyrus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/5-8.1792477597271.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ir sušaukė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visą tautą"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tautą"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "į karą"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "kad žengtų žemyn"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "į Kėilą"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "suspausti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidą"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir prie"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jo vyrų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:37.275079890Z",
+  "model": "glm-5.3"
+}

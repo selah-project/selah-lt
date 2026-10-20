@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefes",
+      "rationale": "נפש — gerklė, gyvybės jėga, ne 'siela' viena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨į⟩",
+      "rationale": "Hebrajų כלתה neturi įvardžio 'mano' — veikėjas iš nefes"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלתה",
+      "rationale": "'Baigiasi\/nyksta' arba 'ilgisi' — verčiančiai skirstosi tarp 'fainteth' ir 'pineth'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל \/ אל",
+      "rationale": "ṢBetonavimas: 'šaukia į (אל) El (אל)' — tas pats garsas, žodžių žaismas"
+    }
+  ],
+  "translation": "Ilgesį jaučia — taip, ir nyksta mano nefes Jahvės kiemams; mano širdis ir mano kūnas džiaugsmu šaukia gyvajam El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "70a3a2e6b57238de63967f0be22710813adc269626c9e310101e8366fce790fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/84\/2-3.1792494168001.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "ilgesį jaučia"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "taip, ir"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "nyksta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mano nefes"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "Jahvės kiemams"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mano širdis"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ir mano kūnas"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "džiaugsmu šaukia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨į⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "gyvajam"
+    }
+  ],
+  "timestamp": "2026-10-20T11:02:48.002402408Z",
+  "model": "glm-5.3"
+}

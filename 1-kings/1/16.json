@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה־לך",
+      "rationale": "pažodžiui 'kas tau?'; idiomatinis klausimas 'ko tu nori?'."
+    },
+    {
+      "kind": "you",
+      "subject": "Bat Šeba",
+      "rationale": "Karalius tiesiogiai kreipiasi į Bat Šebą klausimu."
+    }
+  ],
+  "translation": "Ir Bat Šeba nusilenkė ir parpuolė žemėn prieš karalių, ir karalius tarė: Ko tu ⟨nori⟩?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6c69edec50781295b2e58ebe30217b1d3f0b96a12e6686d6e81dae9a6daa9d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/1\/13-16.1792478669175.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Ir nusilenkė"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ir parpuolė žemėn"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "prieš karalių"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    }
+  ],
+  "timestamp": "2026-10-20T06:44:29.176707523Z",
+  "model": "glm-5.3"
+}

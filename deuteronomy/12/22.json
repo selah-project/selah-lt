@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gali",
+      "rationale": "Hebrajų veiksmažodis yra paprastas 'valgo' — lietuvių kalbai pridėtas modalumas 'gali'"
+    }
+  ],
+  "translation": "Tik kaip valgoma gazelę ir elnį, taip valgyk ⟨את⟩ jį; nešvarusis ir švarusis drauge gali jį valgyti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/21-24.1792475138549.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gazelę"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gazelę"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "elnį"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "elnį"
+    },
+    {
+      "surface": "כן",
+      "gloss": "taip"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "valgyk jį"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nešvarusis"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ir švarusis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "drauge"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "gali jį valgyti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:38.551480718Z",
+  "model": "glm-5.3"
+}

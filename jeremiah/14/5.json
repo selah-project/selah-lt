@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨veršiuką⟩",
+      "rationale": "Hebrew ועזוב has no explicit object; the abandoned newborn is supplied from context."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ir paliko",
+      "rationale": "YLT skaito ועזוב kaip pasyvų — 'kad būtų paliktas' — ne kaip elnės veiksmą."
+    }
+  ],
+  "translation": "Nes elnė lauke apsiveršiavo ir paliko ⟨veršiuką⟩, nes nebuvo žolės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e018ed08d285cc275625b5270a596a90e306718eb9ff1b275c9be7e6c2fa7321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/14\/5-8.1792482504515.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "net"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "elnė"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "lauke"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "apsiveršiavo"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ir paliko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "žolės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:48:24.516975729Z",
+  "model": "glm-5.3"
+}

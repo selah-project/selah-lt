@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "הסתר דבר",
+      "rationale": "Eilutė aiškiai sako, kad Elohim šlovė — slėpti dalyką: paslėptumo tema."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר...דבר \/ כבוד...כבוד",
+      "rationale": "Pakartotas 'dalykas' ir 'šlovė' — simetrinis antitezės darbas, lietuviškai išlaikytas."
+    },
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — pridėtas brūkšnys ⟨yra⟩ struktūrai."
+    }
+  ],
+  "translation": "Elohim šlovė — nuslėpti dalyką, o karalių šlovė — ištirti dalyką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/25\/1-4.1792489921160.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "šlovė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "nuslėpti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "o šlovė"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "karalių"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ištirti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dalyką"
+    }
+  ],
+  "timestamp": "2026-10-20T09:52:01.160830652Z",
+  "model": "glm-5.3"
+}

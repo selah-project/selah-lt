@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "perėjo",
+      "rationale": "בתר pažodžiui 'sukapoti'; čia ritualinis dalijimas pusiau — 'perėjo per vidurį'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הצפפר vieniskaita",
+      "rationale": "Hebrajiškai 'paukščio' vienaskaita su daugiskaitos verte — 'paukščių (neskyrė)'."
+    }
+  ],
+  "translation": "Ir jis paėmė sau ⟨את⟩ visus šiuos, ir perėjo ⟨את⟩ juos per vidurį, ir padėjo kiekvieną dalį priešais kitą; o ⟨את⟩ paukščių jis neperėjo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/9-12.1792471311567.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ir paėmė"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visus šiuos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visus"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "šiuos"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "ir perėjo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "per vidurį"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ir padėjo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kiekvieną"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "dalį"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "priešais"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kitą"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "paukščių"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "paukščių"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "perėjo"
+    }
+  ],
+  "timestamp": "2026-10-20T04:41:51.569243344Z",
+  "model": "glm-5.3"
+}

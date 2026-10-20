@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 22:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "duona",
+      "rationale": "לחם reiškia 'duoną' kaip maistą apskritai; 'iš tėvo duonos' — hebrajiškas posakis"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "lietuvių kalbai reikalingas įvardis, hebrajų turi tik galūnę אביה"
+    }
+  ],
+  "translation": "O kunigo duktė, jei ji bus našlė arba išvaryta ir vaikų jos neturės, ir sugrįš į savo tėvo namus kaip savo jaunystėje, iš savo tėvo duonos ji valgys; bet joks svetimasis jos nevalgys.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/13-16.1792473599473.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "o duktė"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ji bus"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "našlė"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "arba išvaryta"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ir vaikų"
+    },
+    {
+      "surface": "אין",
+      "gloss": "neturės"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jos"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "ir sugrįš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namus"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "כנעוריה",
+      "gloss": "kaip savo jaunystėje"
+    },
+    {
+      "surface": "מלחם",
+      "gloss": "iš duonos"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "savo tėvo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ji valgys"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bet joks"
+    },
+    {
+      "surface": "זר",
+      "gloss": "svetimasis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "valgys"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jos"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:59.524091124Z",
+  "model": "glm-5.3"
+}

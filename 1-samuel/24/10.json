@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Šauliui",
+      "rationale": "Davido tiesioginis kreipimasis į Šaulių"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדם",
+      "rationale": "„žmogaus“ vietoje daugiskaitos „žmonių“ — hebraiškai vienaskaita, glose išlaikyta vienaskaita"
+    }
+  ],
+  "translation": "Ir tarė Davidas Šauliui: kodėl klausai ⟨את⟩ žodžių žmogaus, kurie sako: štai Davidas siekia tavo blogio?",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/9-12.1792477639162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šauliui"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kodėl"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "klausai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žodžių"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "žodžių"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmogaus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kurie sako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "štai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davido"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "siekia"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "tavo blogio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:27:19.165155771Z",
+  "model": "glm-5.3"
+}

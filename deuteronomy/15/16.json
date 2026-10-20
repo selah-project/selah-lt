@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame 'טוב לו' nėra veiksmažodžio; lietuvių kalbai reikalinga sangrąžinio veiksmažodžio forma, pridėta ⟨yra⟩ tiksle."
+    }
+  ],
+  "translation": "Ir bus, jei jis tau sakys: Neisiu iš tavęs, nes jis myli tave ir ⟨את⟩ tavo namus, nes jam yra gerai su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/15\/13-16.1792475147945.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ir bus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jei"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sakys"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "isiu"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "iš tavęs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "myli tave"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tavo namus"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tavo namus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gerai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:45:47.949255283Z",
+  "model": "glm-5.3"
+}

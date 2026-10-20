@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 59:16",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפגיע",
+      "rationale": "'tarpininkas' vs 'tas, kuris puola\/sustabdo' — hifil dalyvis iš פגע; KJV\/JPS 'intercessor', bet šaknis reiškia ir 'atsitrenkti, stoti prieš'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו זרעו",
+      "rationale": "'Jo ranka Jam išgelbėjo' — kamienas הושיע hifil: 'atnešė išgelbėjimą Jam (sau)' vs 'išgelbėjo jį (tautą)'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ranka",
+      "rationale": "זרוע — ištiesta ranka\/petys, jėgos įsikūnijimas; ne tik kūno dalis"
+    }
+  ],
+  "translation": "Ir Jis pamatė, kad nėra vyro, ir apstulbo, kad nėra tarpininko; tad Jo ranka Jam išgelbėjo, ir Jo cedek — ji parėmė jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/59\/13-16.1792481988012.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ir pamatė"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "וישתומם",
+      "gloss": "ir apstulbo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nėra"
+    },
+    {
+      "surface": "מפגיע",
+      "gloss": "tarpininko"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "tad išgelbėjo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Jam"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Jo ranka"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ir Jo cedek"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "סמכתהו",
+      "gloss": "parėmė jį"
+    }
+  ],
+  "timestamp": "2026-10-20T07:39:48.015171741Z",
+  "model": "glm-5.3"
+}

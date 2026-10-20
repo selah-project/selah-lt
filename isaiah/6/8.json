@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "už mus",
+      "rationale": "לנו 'mums' — 'eis už mus' išskleidžia hebrajišką 'mums eis' santvarką į lietuvišką konstrukciją."
+    },
+    {
+      "kind": "invitation",
+      "subject": "את מי אשלח",
+      "rationale": "Adonai klausimas — atviras kvietimas, į kurį pranašas atsiliepia 'štai mane'."
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai klausimas",
+      "rationale": "Tiesioginis klausimas, išgirstas Išajaus dvare."
+    }
+  ],
+  "translation": "Ir aš girdėjau ⟨את⟩ Adonai balsą, sakantį: ⟨את⟩ ką gi siųsti? Ir kas eis ⟨už mus⟩? Ir aš tariau: Štai mane — siųsk mane.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "fef9c6b9dcfca1860b3b168469ab5af68c9ef8deefbc89fb561c9ae51d48d98e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/6\/5-8.1792480719588.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ir aš girdėjau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balsą"
+    },
+    {
+      "surface": "קול",
+      "gloss": "balsą"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sakantį"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ką"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ką"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "siųsti"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ir kas"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "eis"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨už mus⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ir aš tariau"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "štai mane"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "siųsk mane"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:39.592867337Z",
+  "model": "glm-5.3"
+}

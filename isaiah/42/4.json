@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יָרוּץ",
+      "rationale": "kirčiuotas kaip רוץ (laužti, sutrūkti) arba רָצַץ (tirpti iš sielvarto) — 'nesutrūks' vs 'nepalūš'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהה",
+      "rationale": "'nepriges' v. 4 kartoja 'blėstančio dagties' šaknį iš v. 3 — tarnas ne išges kaip dagtis"
+    }
+  ],
+  "translation": "Jis nepriges ir nesutrūks, kol padės žemėje teismą, ir salos jo Toros lauks.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/42\/1-4.1792481534230.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "priges"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "sesutrūks"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kol"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "padės"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "teismą"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "ir jo Toros"
+    },
+    {
+      "surface": "איים",
+      "gloss": "salos"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "lauks"
+    }
+  ],
+  "timestamp": "2026-10-20T07:32:14.233442626Z",
+  "model": "glm-5.3"
+}

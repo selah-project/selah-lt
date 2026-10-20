@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ענה",
+      "rationale": "ענה čia 'nugalėti\/susilpninti' (kaip ענה II), ne 'atsakyti' — 'giedojimą žiauriųjų nugalės'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "v3 md asmens",
+      "rationale": "תכניע yra 2 asm. ('tu sutramdysi'), יענה 3 asm. ('jis nugalės') — veikėjas gali būti tas pats Dievas arba pačios žiauriosios giesmės"
+    },
+    {
+      "kind": "addition",
+      "subject": "tu",
+      "rationale": "Hebrajų veiksmažodis turi asmens rodiklį; lietuvių kreipinys pridedamas aiškumui"
+    }
+  ],
+  "translation": "Kaip kaitrą dykumoje — svetimųjų triukšmą ⟨tu⟩ sutramdysi; kaitrą po debesies paunksne — giedojimą žiauriųjų jis nugalės.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/25\/5-8.1792481128137.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "kaip kaitrą"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "dykumoje"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "triukšmą"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "svetimųjų"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "sutramdysi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kaitrą"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "paunksne"
+    },
+    {
+      "surface": "עב",
+      "gloss": "debesies"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "giedojimą"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "žiauriųjų"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nugalės"
+    }
+  ],
+  "timestamp": "2026-10-20T07:25:28.138175408Z",
+  "model": "glm-5.3"
+}

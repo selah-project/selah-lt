@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ilgis",
+      "rationale": "Hebrajiškai nėra žodžio „ilgis“ — matas reiškia ilgį iš konteksto"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ההיכל",
+      "rationale": "heichalas — šventyklos didžiosios salės techninis terminas, išlaikytas pagal skambesį"
+    }
+  ],
+  "translation": "Ir keturiasdešimt uolekčių ⟨buvo⟩ namas — tai ⟨yra⟩ heichalas, ⟨esantis⟩ priešais jį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/6\/17-20.1792478918438.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ir keturiasdešimt"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "uolekčių"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buvo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai ⟨yra⟩"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heichalas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "priešais jį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:48:38.439396173Z",
+  "model": "glm-5.3"
+}

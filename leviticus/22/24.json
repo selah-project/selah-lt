@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kastruotų gyvulių ydos",
+      "rationale": "hebrajiškai savybės bevardės — 'kas sutraiškyta, sumušta'; kontekstas: sėklidžių pažeidimas, KJV 'whose stones bruised' įdeda tai eksplicitiškai"
+    },
+    {
+      "kind": "elision",
+      "subject": "objektas",
+      "rationale": "Hebrajas nenurodo daiktavardžio — 'tai' liepia suprasi iš 21–23 eilučių"
+    }
+  ],
+  "translation": "Ir sutraiškyto, ir sumušto, ir nuplėšto, ir nukirsto — nejaukite Jahvei, ir savo žemėje to nedarykite.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/21-24.1792473582312.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "sutraiškyto"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "sumušto"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "nuplėšto"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "nukirsto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "jaukite"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "savo žemėje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "darykite"
+    }
+  ],
+  "timestamp": "2026-10-20T05:19:42.405920917Z",
+  "model": "glm-5.3"
+}

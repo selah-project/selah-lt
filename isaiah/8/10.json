@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל",
+      "rationale": "עִמָּנוּ אֵל — 'su mumis El' — skamba kaip Immanuel (עמנו אל, 8, 8); žodžių žaismas pranašaujant vardą."
+    },
+    {
+      "kind": "crux",
+      "subject": "יקום",
+      "rationale": "'neįsistovės' — taip pat 'nenutars', 'neatsilaikys'; pasirinkta statybos reikšmė, artima šakniai קום."
+    }
+  ],
+  "translation": "Tarkite patarimą, ir jis bus sužlugdytas; tardami žodį, jis neįsistovės, nes su mumis El.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/9-12.1792480652863.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "tarkite patarimą"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "patarimą"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ir jis bus sužlugdytas"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tardami žodį"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žodį"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "jis įsistovės"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "su mumis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-20T07:17:32.864842721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא בקרוב",
+      "rationale": "'Ne greitai (baisenybė)' vs klausimas 'ar ne greitai?' — LXX skaito kaip klausimą, Masoretų tekstas kaip neigimą."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הסיר \/ הבשר",
+      "rationale": "Katilo ir mėsos paveikslas — miesto siena kaip katilas, žmonės kaip mėsa; pranašo atsakas 11,7 apvers šį palyginimą."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בנות",
+      "rationale": "Hebrajų kalendorinis laikas (ne kartojamas 11,3) — pilietinės raiškos forma su בנות (ב = iš, eigos), žemiau verčiama kaip 'statykime'."
+    }
+  ],
+  "translation": "kurie sako: ne greitai — statykime namus; ji ⟨yra⟩ katilas, o mes ⟨esame⟩ mėsa.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/1-4.1792483994944.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "kurie sako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "greitai"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "statykime"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "namus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "katilas"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "o mes"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mėsa"
+    }
+  ],
+  "timestamp": "2026-10-20T08:13:15.007235216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעב \/ רעע",
+      "rationale": "badą (v.16) sieja su 'daryti pikta' (v.15) — tos pačios raidės, skirtingi žodžiai"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מטה לחם",
+      "rationale": "pažodžiui 'duonos lazda' — duona kaip gyvenimo atrama, sulaužyta"
+    }
+  ],
+  "translation": "Ir jis pašaukė badą ant žemės, visą duonos lazdą jis sulaužė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/105\/13-16.1792488861656.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ir jis pašaukė"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "badą"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lazdą"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "duonos"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "jis sulaužė"
+    }
+  ],
+  "timestamp": "2026-10-20T09:34:21.657466404Z",
+  "model": "glm-5.3"
+}

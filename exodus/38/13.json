@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "užlenka",
+      "rationale": "אמה — matas nuo alkūnės iki pirštų galo; lietuviškas tradicinis žodis „užlenka“ išlaiko vietinį matą, o ne apibendrintą „metrą“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "visuma",
+      "rationale": "Kiemo matmenų sąrašas: penkiasdešimt užlenkų rytų pusėje"
+    }
+  ],
+  "translation": "Ir prie šono rytų pusėje, į rytus, penkiasdešimt užlenkų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "90ab2726fd36df2ea56621200cf574e7022d6a3b1296c0d14d2520ab70d36a5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/13-16.1792473012597.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ir prie šono"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "rytų pusėje"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "į rytus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "penkiasdešimt"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "užlenkų"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:12.598602312Z",
+  "model": "glm-5.3"
+}

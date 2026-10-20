@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajiškos kopulos nėra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשם ×3",
+      "rationale": "viena šaknis tris kartus: auka — kaltas — kaltas; lietuviškai išskaidyta į 'kaltos auka' ir 'kaltas'"
+    }
+  ],
+  "translation": "Kaltos auka ⟨yra⟩ — jis tikrai kaltas, kaltas prieš Jahvę.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/5\/17-20.1792473193522.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "kaltos auka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tai"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kaltas"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kaltas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "prieš Jahvę"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:13.523841975Z",
+  "model": "glm-5.3"
+}

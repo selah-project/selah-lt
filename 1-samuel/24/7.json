@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "pažodžiui 'pasibjaurėjimas man nuo Jahvės' — idiomas 'toli nuo manęs tai, vardyje Jahvės'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pateptasis",
+      "rationale": "משיח 'pateptasis' — kunigas ar karalius, ne 'Mesijas'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio — הוא 'jis' be kopulos"
+    }
+  ],
+  "translation": "Ir jis tarė savo vyrams: Neleisk man to, nuo Jahvės — kad padaryčiau ⟨את⟩ tokį dalyką savo ponui, Jahvės pateptajam, ištiesti savo ranką prieš jį, nes jis ⟨yra⟩ Jahvės pateptasis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/5-8.1792477605775.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "savo vyrams"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Neleisk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "man"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "nuo Jahvės"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "padaryčiau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokį dalyką"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dalyką"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tokį"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "savo ponui"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "pateptajam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ištiesti"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "בו",
+      "gloss": "prieš jį"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "pateptasis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis ⟨yra⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T06:26:45.777401049Z",
+  "model": "glm-5.3"
+}

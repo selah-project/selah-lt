@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחלקות יהודה לבנימין",
+      "rationale": "Neaiškus sintaksis: „dalys Judoje ⟨buvo priskirtos⟩ Binjamine“ (KJV\/ASV) arba levitų dalys abiejose gentyse (BSB)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių sakiniui reikia copula."
+    }
+  ],
+  "translation": "Ir iš levitų — dalys Judoje ⟨buvo⟩ ir Binjamine.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "005a2e9b8f48a86d48acab406213812259dcc0bee79ffa78fdd678b30110199c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/nehemiah\/11\/33-36.1792492540583.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ir iš"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitų"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "dalys"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judoje"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "Binjamine"
+    }
+  ],
+  "timestamp": "2026-10-20T10:35:40.583849287Z",
+  "model": "glm-5.3"
+}

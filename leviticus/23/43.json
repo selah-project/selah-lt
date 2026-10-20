@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 23:43",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "brukšnys „aš —“",
+      "rationale": "Hebrajiška pasakymo struktūra „aš Jahvė“ pateikiama su brūkšniu aiškumo dėlei."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelio vaikams",
+      "rationale": "Tiesioginis kreipimasis per kartų palikimą — kad jūsų kartos žinotų."
+    }
+  ],
+  "translation": "kad jūsų kartos žinotų, kad palapinėse apgyvendinau ⟨את⟩ Jisraelio vaikus, kai išvedžiau ⟨אתם⟩ juos iš Micraimo žemės; aš — Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/41-44.1792473717450.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "žinotų"
+    },
+    {
+      "surface": "דרתיכם",
+      "gloss": "jūsų kartos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "palapinėse"
+    },
+    {
+      "surface": "הושבתי",
+      "gloss": "apgyvendinau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraelio vaikus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "vaikus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "kai išvedžiau"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "juos"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "iš žemės"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:57.451832821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvė Yoshuai",
+      "rationale": "Dievas kalba tiesiogiai Jaakovui — pažadas, kad niekas neatsilaikys prieš jį."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nė vienas žmogus → niekas",
+      "rationale": "איש הbuvo 'vyras\/žmogus', bet neigiamame sakinyje lietuviškai skamba 'niekas'."
+    }
+  ],
+  "translation": "Niekas negalės atsilaikyti prieš tave visą tavo gyvenimo dienų laiką; kaip buvau su Moše, taip būsiu su tavimi — neatrudinsiu tavęs ir nepaliksiu tavęs.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "544bbaedbc370ceb3c029bd755cd863289c831915ff3aaed5326300ee819e378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/1\/5-8.1792475729223.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "galės atsilaikyti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "niekas"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "prieš tave"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visą"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dienų"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "tavo gyvenimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaip"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "buvau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "būsiu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "atrudinsiu tavęs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ir ne"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "paliksiu tavęs"
+    }
+  ],
+  "timestamp": "2026-10-20T05:55:29.225030079Z",
+  "model": "glm-5.3"
+}

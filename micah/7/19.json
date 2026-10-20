@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "micah 7:19",
+  "book": "micah",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "asmenų pokytis",
+      "rationale": "Eilutė šuoliuoja iš trečiojo asmens ('jis') į antrąjį ('tu') be perspėjimo — hebrajiška retorika išlaikyta."
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאותם",
+      "rationale": "'jų nuodėmes' — hebrajiška galūnė -am, ne -enu; dalis verčia 'mūsų', tarsi pt. k."
+    }
+  ],
+  "translation": "Jis sugrįš, pasigailės mūsų, nugalės mūsų kaltes, ir tumesi į jūros gelmes visas jų nuodėmes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/micah\/7\/17-20.1792486893046.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Jis sugrįš"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "pasigailės mūsų"
+    },
+    {
+      "surface": "יכבש",
+      "gloss": "nugalės"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "mūsų kaltes"
+    },
+    {
+      "surface": "ותשליך",
+      "gloss": "ir tumesi"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "į gelmes"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visas"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "jų nuodėmes"
+    }
+  ],
+  "timestamp": "2026-10-20T09:01:33.047552508Z",
+  "model": "glm-5.3"
+}

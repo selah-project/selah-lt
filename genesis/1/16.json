@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ir žvaigždes",
+      "rationale": "hebrajiškas tekstas sako tik 've-et ha-kochavim' — žvaigždės pridėtos kaip šalutinis dalykas; 'taip pat' yra vertėjų prielaida"
+    },
+    {
+      "kind": "substitution",
+      "subject": "viešpatija",
+      "rationale": "ממשלה — valdžia, viešpatavimas; ne tiesiog 'valdyti'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ir⟩",
+      "rationale": "prie ⟨את⟩ žvaigždžių priklausančių vau — ne 'taip pat', o sąrašo tęsinys"
+    }
+  ],
+  "translation": "Ir Elohim padarė ⟨את⟩ du didžiuosius žiburius: ⟨את⟩ didįjį žiburį dienos viešpatijai ir ⟨את⟩ mažąjį žiburį nakties viešpatijai — ⟨ir⟩ ⟨את⟩ žvaigždes.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/1\/13-16.1792471042840.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ir padarė"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "du didžiuosius žiburius"
+    },
+    {
+      "surface": "שני",
+      "gloss": "du"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "žiburius"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "didžiuosius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didįjį žiburį"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "žiburį"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "didįjį"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "viešpatijai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dienos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "mažąjį žiburį"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "žiburį"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mažąjį"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "viešpatijai"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nakties"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ir ⟨את⟩",
+      "marks": "žvaigždes"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "žvaigždes"
+    }
+  ],
+  "timestamp": "2026-10-20T04:37:22.849180501Z",
+  "model": "glm-5.3"
+}

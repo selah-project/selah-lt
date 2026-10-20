@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריב \/ מצה",
+      "rationale": "Porinis žodynų junginys „ginčas ir rietena“ — teisinės fechtavimosi kalbos visuma."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא תצומו",
+      "rationale": "Gali būti ir klausimas: „ar toks pasninkas, kaip šiandien, kad būtų girdimas jūsų balsas?“ — derinama su klausimu v. 5."
+    }
+  ],
+  "translation": "Štai dėl ginčo ir rietenos jūs pasninkaujate ir mušate kumščiu nedorybės; ne pasninkaukite kaip šiandien, kad aukštybėse būtų girdimas jūsų balsas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/58\/1-4.1792481924242.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Štai"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "dėl ginčo"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "ir rietenos"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "jūs pasninkaujate"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "ir mušti"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "kumščiu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorybės"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "pasninkaukite"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaip šiandien"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "kad būtų girdimas"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "aukštybėse"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "jūsų balsas"
+    }
+  ],
+  "timestamp": "2026-10-20T07:38:44.243378690Z",
+  "model": "glm-5.3"
+}

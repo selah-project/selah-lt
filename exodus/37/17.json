@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šlaunis-pagrindas",
+      "rationale": "ירך literally 'šlaunis'; of the menorah — its base"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jie buvo⟩",
+      "rationale": "Lietuvių reikalauja veiksmažodžio; hebrajų היו stiprus 'buvo', bet šakos turi aiškų veikėją"
+    },
+    {
+      "kind": "measurement",
+      "subject": "menoros aprašymas",
+      "rationale": "Santuarių daikto išmatavimų ir formų sąrašas"
+    }
+  ],
+  "translation": "Ir jis padarė ⟨את⟩ menorą iš tyro aukso; iš kaliamo darbo jis padarė ⟨את⟩ menorą: jos šlaunį-pagrindą ir jos stiebą, jos taures, jos rutuliukus-mazgus ir jos žiedus — iš jos ⟨jie buvo⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/37\/17-20.1792473034824.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ir jis padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorą"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorą"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "aukso"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tyro"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "iš kaliamo darbo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "jis padarė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorą"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menorą"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "jos šlaunį-pagrindą"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "ir jos stiebą"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "jos taures"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "jos rutuliukus-mazgus"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "ir jos žiedus"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "iš jos"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jie buvo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:10:34.826698620Z",
+  "model": "glm-5.3"
+}

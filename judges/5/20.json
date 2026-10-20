@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "עם",
+      "rationale": "'su Sisera' (kaip 'prieš') — imtasi 'prieš' pagal konteksto priešiškumą"
+    },
+    {
+      "kind": "mystery",
+      "subject": "žvaigždės",
+      "rationale": "Kosminė kova — dangaus kūnai kaip kariai, užantspauduota visata kaip veikėjas"
+    }
+  ],
+  "translation": "Iš dangaus kovėsi — žvaigždės iš savo takų kovėsi prieš ⟨את⟩ Siserą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "bdfc2024d56a8ab80cab947a36c06312832e8672deaf034906f9938a44412841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/5\/17-20.1792476392937.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Iš"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "kovėsi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "žvaigždės"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "iš savo takų"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "kovėsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "prieš"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Siserą",
+      "marks": null
+    }
+  ],
+  "timestamp": "2026-10-20T06:06:32.940908146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kad",
+      "rationale": "lietuvių kalbai reikia jungiamojo žodio po „ir įvyko tą naktį“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ją",
+      "rationale": "נתתיו reiškia „daviau jį“ (stovyklą hebrajiškai vyriškos gimės), lietuviškai „stovykla“ moteriškos gimės"
+    },
+    {
+      "kind": "you",
+      "subject": "Gideonui",
+      "rationale": "Jahvė tiesiogiai kalbina Gidėoną imperatyvais „kelkis, nusileisk“"
+    }
+  ],
+  "translation": "Ir įvyko tą naktį, kad Jahvė tarė jam: Kelkis, nusileisk į stovyklą, nes aš daviau ją į tavo ranką.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "9572e5cf3ef2620a3811f23e7773874de6788d59f9c85ea1e74c86b2f7ed1deb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/7\/9-12.1792476437437.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ir įvyko"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tą naktį"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tą"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "tарė"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kelkis"
+    },
+    {
+      "surface": "רד",
+      "gloss": "nusileisk"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "į stovyklą"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "daviau ją"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "į tavo ranką"
+    }
+  ],
+  "timestamp": "2026-10-20T06:07:17.439202960Z",
+  "model": "glm-5.3"
+}

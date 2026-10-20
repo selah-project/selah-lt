@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "hebrajų kalba neturi veiksmažodžio jungties"
+    },
+    {
+      "kind": "idiom",
+      "subject": "milé yadam",
+      "rationale": "pažodžiui 'pripildė jų ranką' — pašventinimo idiomatika, išversta kaip 'įšventino'"
+    }
+  ],
+  "translation": "Šitie ⟨yra⟩ pateptųjų kunigų Aharono sūnų vardai, kurių rankos buvo įšventintos kunigauti.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "b057f9d76185fe46654cff1b73d4a321140324addc8a04cf0bb39e10e821d27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/1-4.1792473927652.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "šitie"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vardai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnų"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kunigų"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "pateptųjų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurių"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "buvo įšventintos"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "rankos"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kunigauti"
+    }
+  ],
+  "timestamp": "2026-10-20T05:25:27.653640245Z",
+  "model": "glm-5.3"
+}

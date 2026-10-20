@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Dešimtas įsakymas tiesiogiai kreipiasi į klausytoją."
+    },
+    {
+      "kind": "substitution",
+      "subject": "geisti",
+      "rationale": "חמד reiškia 'trokšti, gėrėtis' — vidinį potraukį, ne tik veiksmą."
+    }
+  ],
+  "translation": "Negeisk savo artimo namų, negeisk savo artimo žmonos, nei jo tarno, nei jo tarnaitės, nei jo jaučio, nei jo asilo, nieko, kas yra tavo artimo.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/17-20.1792472587331.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "geisk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tavo artimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "geisk"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žmonos"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tavo artimo"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "nei jo tarno"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "nei jo tarnaitės"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "nei jo jaučio"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "nei jo asilo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nieko, kas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kas yra"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "tavo artimo"
+    }
+  ],
+  "timestamp": "2026-10-20T05:03:07.333399996Z",
+  "model": "glm-5.3"
+}

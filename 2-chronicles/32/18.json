@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "lt",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje; lietuvių reikia jungties."
+    },
+    {
+      "kind": "crux",
+      "subject": "žydiškai",
+      "rationale": "יהודית — 'judėjų kalba'; Sennacheribo laikais tai greičiausiai aramėjų, o ne hebrajų kalba."
+    }
+  ],
+  "translation": "Ir jie šaukė galingu balsu žydiškai prie Jerušalaimo žmonių, kurie ⟨buvo⟩ ant sienos, kad gąsdintų juos ir trikdytų juos, kad užimtų ⟨את⟩ miestą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "3049310cac680738e17ecd2f20f8c13c35958f4b8e342debfa32e3f8aaa621cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/32\/17-20.1792493906023.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ir jie šaukė"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "balsu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "galingu"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "žydiškai"
+    },
+    {
+      "surface": "על",
+      "gloss": "prie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurie"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "sienos"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "kad gąsdintų juos"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "ir trikdytų juos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kad"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "užimtų"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miestą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    }
+  ],
+  "timestamp": "2026-10-20T10:58:26.023957701Z",
+  "model": "glm-5.3"
+}

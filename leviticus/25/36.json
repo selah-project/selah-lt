@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraeliui",
+      "rationale": "Tiesioginis įsakymas antruoju asmeniu — draudimas imti palūkanas iš brolų"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשך ir תרבית",
+      "rationale": "Pažodžiui 'įkandis' ir 'dauginimas' — hebrajiški vaizdai, lietuviškai 'palūkanos' ir 'antkainis'"
+    }
+  ],
+  "translation": "Neimk iš jo ⟨את⟩ palūkanų nei ⟨את⟩ antkainio, bet bijok savo Elohim, ir tavo brolis gyvens su tavimi.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46d80eba8ec9f8da3be1799650deb753dd01ee6e5a81bd9bfea8a4d73cd8a9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/33-36.1792473681061.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "imk"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "iš ⟨את⟩ jo",
+      "marks": "palūkanų nei antkainio"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "palūkanų"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "nei antkainio"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ir bijok"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "savo Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ir gyvens"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tavo brolis"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su tavimi"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:21.065182665Z",
+  "model": "glm-5.3"
+}

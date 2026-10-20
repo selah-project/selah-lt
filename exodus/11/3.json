@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškai nėra veiksmažodžio — pridedama kopula ⟨buvo⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים \/ מצרים",
+      "rationale": "Žodis „Micraimas“ kartojamas tris kartus per eilutę — paralelizmas tarp tautos ir šalies."
+    }
+  ],
+  "translation": "Ir davė Jahvė ⟨את⟩ žmonių malonę Micraimo akyse; taip pat vyras Mošė buvo labai didis Micraimo žemėje faraono tarnų akyse ir žmonių akyse.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "992ae16e868950da5e61db28df72bbdc673e2ff27319cc17383115c2c7c36fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/11\/1-4.1792472386919.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ir davė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žmonių malonę"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonę"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonių"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akys(e)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "taip pat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "didis"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "žemėje"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraimo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akys(e)"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "tarnų"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraono"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ir akys(e)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "žmonių"
+    }
+  ],
+  "timestamp": "2026-10-20T04:59:46.922783995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וידע",
+      "rationale": "Hebrajų 'pažino' reiškia sueitį — lietuviškai 'pažino' laikoma pačia hebrajiška idiomos forma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהי בנה",
+      "rationale": "Prielinksniinis veiksmažodis 'tapo statantis' — dažnas vertime 'statė'; čia išlaikytas tapti + dalyvis."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Chanochas",
+      "rationale": "Miesto vardą galima suprasti kaip pavadintą Chanochu ar pagal Chanochą; hebrajiškas כשם sako 'kaip vardą'."
+    }
+  ],
+  "translation": "Ir Kainas pažino ⟨את⟩ savo žmoną, ir ji pradėjo ir pagimdė ⟨את⟩ Chanochą; ir jis tapo statantis miestą, ir jis pavadino miesto vardą savo sūnaus Chanochu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/4\/17-20.1792471000950.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ir pažino"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo žmoną"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "savo žmoną"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ir ji pradėjo"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ir pagimdė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanochą"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanochą"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ir tapo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "statantis"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ir pavadino"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vardą"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miesto"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "kaip vardą"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "savo sūnaus"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanochu"
+    }
+  ],
+  "timestamp": "2026-10-20T04:36:40.952917882Z",
+  "model": "glm-5.3"
+}

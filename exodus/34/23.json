@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "lt",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veidą",
+      "rationale": "Hebrajiškas את פני — „veidą“ — reiškia „būti veidu į veidą“, t. y. pasirodyti akivaizdoje."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tris kartus per metus",
+      "rationale": "Nustatytas piligrimystės dažnis — skaičiavimo formulė."
+    }
+  ],
+  "translation": "Tris kartus per metus tavo visi vyrai pasirodys ⟨prieš⟩ Adonai Jahvės, Jisraelio Elohim, ⟨את⟩ veidą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1e617d7afe9b9fd0d4cee2933e07b0d7cc31baa3170428c174bb56784064470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/34\/21-24.1792472893972.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Tris"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "per metus"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "pasirodys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "tavo vyrai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veidą"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    }
+  ],
+  "timestamp": "2026-10-20T05:08:13.976351386Z",
+  "model": "glm-5.3"
+}

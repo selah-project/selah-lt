@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "tiesioginis šaukimas Dievui – imperatyvai „kelkis, išgelbėk“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "smogei\/sulaužei",
+      "rationale": " parallelinės eilutės: smūgis į žandikaulį ir dantų laužymas – žiaurumo vaizdas išgyvena lietuviškai"
+    }
+  ],
+  "translation": "Kelkis, Jahve, išgelbėk mane, mano Elohim! Nes tu smogei ⟨את⟩ visiems mano priešams į žandikaulį, bedievių dantis sulaužei.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/3\/5-8.1792487441886.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "kelkis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "išgelbėk mane"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mano Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tu smogei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "visiems mano priešams"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visiems"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mano priešams"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "į žandikaulį"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dantis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bedievių"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sulaužei"
+    }
+  ],
+  "timestamp": "2026-10-20T09:10:41.888123286Z",
+  "model": "glm-5.3"
+}

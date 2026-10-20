@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמרתו\/דברו",
+      "rationale": "'jo įsakymas' ir 'jo žodis' poruojami — personalizuotas dieviškojo paliepimo greitis."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מהרה ירוץ",
+      "rationale": "pažodžiui 'labai greitai jis bėgs' — verčiamas esamuoju laiku dėl konteksto."
+    }
+  ],
+  "translation": "Jis siunčia savo įsakymą žemėn; greitai bėga jo žodis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/147\/13-16.1792489345303.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "siunčia"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "savo įsakymą"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemėn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨iki⟩"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "greitai"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "bėga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jo žodis"
+    }
+  ],
+  "timestamp": "2026-10-20T09:42:25.304114379Z",
+  "model": "glm-5.3"
+}

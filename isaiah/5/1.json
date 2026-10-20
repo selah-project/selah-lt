@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שיר\/שירת\/דודי",
+      "rationale": "dainos ir meilės žodžių kartojimas — אשירה\/שירת\/דודי skambėjimas prarastas vertime"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בקרן בן שמן",
+      "rationale": "pažodžiui 'rago sūnaus taukuose' — kalvos atžala, riebi žemė; 'ragas' reiškia kalvos smailę"
+    }
+  ],
+  "translation": "Dainuosiu dabar mano mylimajam mano mylimojo dainą apie jo vynuogyną. Vynuogyną turėjo mano mylimasis rago smailėje, riebios atžalos ⟨vietoje⟩.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "eaf4b995f23c0a289731a73115ec447ff30ac863496a6e76492b5b2df9c0cf38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/1-4.1792480729002.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Dainuosiu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "dabar"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "mano mylimajam"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "dainą"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mano mylimojo"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "apie jo vynuogyną"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "Vynuogyną"
+    },
+    {
+      "surface": "היה",
+      "gloss": "turėjo"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "mano mylimasis"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "rago smailėje"
+    },
+    {
+      "surface": "בן",
+      "gloss": "atžala"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "riebios"
+    }
+  ],
+  "timestamp": "2026-10-20T07:18:49.003850309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kietas",
+      "rationale": "קשה pažodžiui 'kietas, atšiaurus' — vertėjai dažnai rašo 'užsispyręs', prarandama žodžio forma"
+    },
+    {
+      "kind": "you",
+      "subject": "tu",
+      "rationale": "Jahvė tiesiogiai kreipiasi į Jaa­kovo namus — 'tu' iš v. 1 daugiskaitos tampa vienaskaita"
+    }
+  ],
+  "translation": "Iš mano žinojimo — kad tu kietas, ir geležies sausgyslė ⟨yra⟩ tavo sprandas, ir tavo kakta ⟨yra⟩ varis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/48\/1-4.1792481678525.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Iš mano žinojimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kietas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ir sausgyslė"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "geležies"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "tavo sprandas"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ir tavo kakta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "varis"
+    }
+  ],
+  "timestamp": "2026-10-20T07:34:38.528553739Z",
+  "model": "glm-5.3"
+}

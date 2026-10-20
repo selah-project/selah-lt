@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "lt",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "hebrajų kalba neturi veiksmažodžio šioje vietoje; lietuvių reikalauja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "įlanka",
+      "rationale": "הלשן pažodžiui 'liežuvis' — jūros įlankos vaizdas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siena",
+      "rationale": "ribų aprašymo tekstas"
+    }
+  ],
+  "translation": "Ir jų pietų siena ⟨buvo⟩ nuo sūriosios jūros pakraščio, nuo įlankos, kuri atsukta į pietus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/15\/1-4.1792475975336.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ir ⟨buvo⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jų"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "siena"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "pietų"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pakraščio"
+    },
+    {
+      "surface": "ים",
+      "gloss": "jūros"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "sūriosios"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "įlankos"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "kuri atsukta"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "į pietus"
+    }
+  ],
+  "timestamp": "2026-10-20T05:59:35.337774209Z",
+  "model": "glm-5.3"
+}

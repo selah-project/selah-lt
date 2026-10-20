@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yra",
+      "rationale": "Hebrajiškame tekste nėra veiksmažodžio jungties"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimtoji efos dalis",
+      "rationale": "Minchos kiekis nurodytas tiksliai — dešimtoji efos, padalyta į dvi puses"
+    },
+    {
+      "kind": "substitution",
+      "subject": "korbanas",
+      "rationale": "קרבן pažodžiui 'tai, kas priartėja' — auka, prinešama prie aukuro"
+    }
+  ],
+  "translation": "Šis ⟨yra⟩ korbanas Aharono ir jo sūnų, kurį jie prineša Jahvei dieną, kai jis yra patepamas: dešimtoji efos dalis smulkių miltų — mincha nuolatinė; pusė jos ryte ir pusė jos vakare.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/13-16.1792473199642.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korbanas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ir jo sūnų"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kurį"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "jie prineša"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvei"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dieną"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "kai yra patepamas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jį",
+      "marks": "dešimtoji efos dalis miltų"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "dešimtoji dalis"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efos"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "smulkių miltų"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nuolatinė"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "pusė jos"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ryte"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "ir pusė jos"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "vakare"
+    }
+  ],
+  "timestamp": "2026-10-20T05:13:19.644516433Z",
+  "model": "glm-5.3"
+}

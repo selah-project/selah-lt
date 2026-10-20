@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "esu",
+      "rationale": "Hebrajų neturi veiksmažodžio „būti“ šioje vietoje, lietuviškai reikia ⟨esu⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "יהיה (antrasis)",
+      "rationale": "Antrasis „bus“ išplėsta forma, lietuviškame paralelizme išnyksta į „taip“"
+    }
+  ],
+  "translation": "Vienas teismas bus jums — kaip svetimšalis, taip ir vietinis; nes aš ⟨esu⟩ Jahvė, jūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/24\/21-23.1792473694834.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "teismas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "vienas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bus"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "jums"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "kaip svetimšalis"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "taip ir vietinis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨taip⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T05:21:34.835812353Z",
+  "model": "glm-5.3"
+}

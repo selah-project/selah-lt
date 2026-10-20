@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 24:3",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואשביעך",
+      "rationale": "Šaknis שבע siejasi su 'septyni' — prisiekti kaip septynis kartus kartojant; lietuvių kalboje prarasta."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביהוה",
+      "gloss": "םPrepozicija ב- išversta kaip 'Jahve' kilmininke — 'prieš Jahvę' būtų per daug pridėta."
+    }
+  ],
+  "translation": "ir versiu tave prisiekti Jahve, dangaus Elohim ir žemės Elohim, kad neimsi žmonos mano sūnui iš kanaaniečių dukterų, tarp kurių aš gyvenu.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/1-4.1792471407072.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשביעך",
+      "gloss": "ir versiu tave prisiekti"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "dangaus"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ir Elohim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "imsi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žmonos"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mano sūnui"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "iš dukterų"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaniečių"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tarp kurių"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aš"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gyvenu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "tarp jų"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:27.074269905Z",
+  "model": "glm-5.3"
+}

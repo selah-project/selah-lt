@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "lt",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "išgelbėjimą",
+      "rationale": "ישועה — gelbėjimas, pergalė, pagalba; ne vėlesnė 'iomzyla' sąvoka"
+    },
+    {
+      "kind": "addition",
+      "subject": "savo",
+      "rationale": "hebrajų turi tik זרוע קדשו — galūninė santrumpa 'jo šventą ranką', įvardžiavimas pridėtas"
+    }
+  ],
+  "translation": "Atsidengė Jahvė ⟨את⟩ savo šventąją ranką visų tautų akivaizdoje, ir matys visi žemės pakraščiai ⟨את⟩ išgelbėjimą mūsų Elohim.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/52\/9-12.1792481732701.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "atsidengė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo šventąją ranką"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ranką"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "savo šventąją"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visų"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tautų"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ir matys"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "kraštuose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "išgelbėjimą"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "išgelbėjimą"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "mūsų Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T07:35:32.702713313Z",
+  "model": "glm-5.3"
+}

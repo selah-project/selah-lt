@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 13:1",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ėmė vėl",
+      "rationale": "ויספו pažodžiui 'pridėjo' — idiomą 'pridėti daryti' teko išversti kaip 'vėl ėmė daryti'."
+    },
+    {
+      "kind": "addition",
+      "subject": "juos",
+      "rationale": "Lietuvių reikalauja objekto, hebrajų ויתנם jau turi priesagą, bet atskiro žodžio nėra."
+    }
+  ],
+  "translation": "Ir Jisraelio sūnūs vėl ėmė daryti pikta Jahvės akyse, ir Jahvė atidavė juos į filistiniečių ranką keturiasdešimt metų.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/1-4.1792476663112.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "ėmė vėl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelio"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "daryti"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "pikta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "akyse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ir atidavė juos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "į ranką"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistiniečių"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "keturiasdešimt"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "metų"
+    }
+  ],
+  "timestamp": "2026-10-20T06:11:03.113599370Z",
+  "model": "glm-5.3"
+}

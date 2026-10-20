@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jį praleidžia"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dešimt kupranugarių",
+      "rationale": "skaičiuojama, ką tarnas paėmė"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Aram-Naharaimas",
+      "rationale": "dviejų upių Aramas — graikiškai 'Mesopotamija'"
+    }
+  ],
+  "translation": "Ir tarnas paėmė dešimt kupranugarių iš kupranugarių savo pono ir išėjo, ir visos savo pono gėrybės ⟨buvo⟩ jo rankoje; ir jis pakilo ir nuėjo į Aram-Naharaimą, į Nachoro miestą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/9-12.1792471396163.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "paėmė"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "tarnas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "dešimt"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kupranugarių"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "iš kupranugarių"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "išėjo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Ir visos"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gėrybės"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "savo pono"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "jo rankoje"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "pakilo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nuėjo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram-"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaimą"
+    },
+    {
+      "surface": "אל",
+      "gloss": "į"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "miestą"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachoro"
+    }
+  ],
+  "timestamp": "2026-10-20T04:43:16.167978155Z",
+  "model": "glm-5.3"
+}

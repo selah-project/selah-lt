@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "chesed",
+      "rationale": "חסד verčiamas skambesiu 'chesedas', ne 'gailestingumu' — vienas žodis, daug reikšmių"
+    }
+  ],
+  "translation": "Nes tavo chesedas mano akyse, ir aš ėjau tavo tiesoje.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/26\/1-4.1792487755560.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tavo chesedas"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "mano akyse ⟨priešakyje⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mano akys"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ir aš ėjau"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "tavo tiesoje"
+    }
+  ],
+  "timestamp": "2026-10-20T09:15:55.561741915Z",
+  "model": "glm-5.3"
+}

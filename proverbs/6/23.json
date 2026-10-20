@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "lt",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yra⟩",
+      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti'; lietuvių kalbai jo reikia trijuose predikatuose."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוסר \/ תורה",
+      "rationale": "Daugiaskiemenė sąskamba: mićva–Tora–musar — žodžių grandinė, lietuvių kalboi prarandama."
+    }
+  ],
+  "translation": "Nes įsakymas ⟨yra⟩ žiburys, o Tora ⟨yra⟩ šviesa, ir gyvenimo kelias ⟨yra⟩ pabarimai, pamokymas.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/6\/21-24.1792489516304.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nes"
+    },
+    {
+      "surface": "נר",
+      "gloss": "žiburys"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "įsakymas"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "o Tora"
+    },
+    {
+      "surface": "אור",
+      "gloss": "šviesa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ir kelias"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "gyvenimo"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "pabarimai"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pamokymas"
+    }
+  ],
+  "timestamp": "2026-10-20T09:45:16.305778160Z",
+  "model": "glm-5.3"
+}

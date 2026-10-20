@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muzikinis pauzės ženklas, išlaikytas kaip 'Sela' be vertimo."
+    },
+    {
+      "kind": "you",
+      "subject": "klausančioji pusė",
+      "rationale": "Klausimas-atsakymas: liturginis kreipimasis, atsakyta Vardu 'Jahvė Cevaot'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא...הוא",
+      "rationale": "Kartojamas pabrėžiamasis įvardis 'jis' apjuosia atsakymą — retorinis pakartojimas."
+    }
+  ],
+  "translation": "Kas gi yra šis šlovės karalius? Jahvė Cevaot — ⟨tai yra⟩ jis, šlovės karalius. Sela.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/24\/9-10.1792487699755.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "gi yra"
+    },
+    {
+      "surface": "זה",
+      "gloss": "šis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "šlovės"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "karalius"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "šlovės"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-20T09:14:59.756579979Z",
+  "model": "glm-5.3"
+}

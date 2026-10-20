@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "lt",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama kaip ruach, ne 'dvasia' viena"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'impe\/judinti laiku' — veikiaas reiškia ritmišką pavesdinimą; vertėjai svyruoja tarp 'stiprinti' ir 'judinti'"
+    },
+    {
+      "kind": "addition",
+      "subject": "jį",
+      "rationale": "Hebrajų įvardis įtrauktas į veiksmažodį לפעמו, lietuvių atskiras žodis"
+    }
+  ],
+  "translation": "Ir Jahvės ruach pradėjo jį judinti Machane-Dano stovykloje, tarp Corės ir tarp Eštaolio.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/25-25.1792476597421.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "pradėjo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvės"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "jį judinti"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "stovykloje"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tarp"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Corės"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ir tarp"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Eštaolio"
+    }
+  ],
+  "timestamp": "2026-10-20T06:09:57.421722790Z",
+  "model": "glm-5.3"
+}

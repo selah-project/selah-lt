@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 20:12",
+  "book": "jeremiah",
+  "lang": "lt",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כליות",
+      "rationale": "„Inkstai“ — hebrajų kalboje inkstai laikyti vidinių jausmų bei sąžinės buveine, o ne širdis vienas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אראה",
+      "gloss": "Pažodžiui „ir pamatysiu“ — kohortatyvas kaip prašymas: „leisk man pamatyti“."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvei Cevaot",
+      "rationale": "Tiesioginis prašymas Dievui — maldos kreipimasis per visą eilutę."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקמתך",
+      "rationale": "„Atpildas“ už atlygį; נקמה reiškia kerštą kaip veiksmą — lietuviškai „kerštas“ būtų per stipri (ir vėliau nuspalvinta) forma."
+    }
+  ],
+  "translation": "Bet Jahvė Cevaot, išmėginantis teisųjį, matantis inkstus ir širdį, — leisk man pamatyti tavo atpildą jiems, nes tau aš atvėriau ⟨את⟩ savo bylą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ed26961df7c33fe700c7ee1fe7c67429e27d1e02fdecabc642e84a329f190b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/20\/10-12.1792485655756.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Bet Jahvė"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "išmėginantis"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "teisųjį"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "matantis"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "inkstus"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ir širdį"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "leisk man pamatyti"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "tavo atpildą"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "jiems"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "atvėriau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo bylą"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "savo bylą"
+    }
+  ],
+  "timestamp": "2026-10-20T08:40:55.759030876Z",
+  "model": "glm-5.3"
+}

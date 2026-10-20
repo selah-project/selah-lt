@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "lt",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בש (gėda)",
+      "rationale": "neaišku, kas gėdijasi — Elišas ar Chazaelis; KJV 'iki jis pasidrovėjo', hebraiškas veikėjas nenurodytas"
+    },
+    {
+      "kind": "addition",
+      "subject": "jį",
+      "rationale": "lietuvių kalbai reikia objekto, hebrajų jį praleidžia"
+    }
+  ],
+  "translation": "Ir jis pastatė ⟨את⟩ savo veidą ir laikė jį iki gėdos, ir Dievo vyras verkė.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/9-12.1792479952283.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ir pastatė"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo veidą"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "savo veidą"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ir laikė"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בש",
+      "gloss": "gėdos"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ir verkė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyras"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Dievo"
+    }
+  ],
+  "timestamp": "2026-10-20T07:05:52.294513426Z",
+  "model": "glm-5.3"
+}

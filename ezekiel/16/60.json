@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezekiel 16:60",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "su tavimi",
+      "rationale": "Hebrajiškas אותך čia reiškia „sandorą su tavimi“; lietuviškai reikia prielinksnio konstrukcijos."
+    },
+    {
+      "kind": "substitution",
+      "subject": "amžiną",
+      "rationale": "עולם — „paslėptas tolimasis taškas“, laikas už atminties ribų; „amžinas“ yra siauresnis."
+    }
+  ],
+  "translation": "Ir aš prisiminsiu ⟨את⟩ savo sandorą ⟨את⟩ su tavimi, tavo jaunystės dienomis, ir atstatysiu tau amžiną sandorą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/57-60.1792484152327.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ir aš prisiminsiu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo sandorą"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "savo sandorą"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ su tavimi",
+      "marks": "tavo jaunystės dienomis"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dienomis"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "tavo jaunystės"
+    },
+    {
+      "surface": "והקמותי",
+      "gloss": "ir atstatysiu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sandorą"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "amžiną"
+    }
+  ],
+  "timestamp": "2026-10-20T08:15:52.328918544Z",
+  "model": "glm-5.3"
+}

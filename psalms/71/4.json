@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "lt",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "žiauraus",
+      "rationale": "חומץ pažodžiui 'rūgštus, kartus' — apie žmogų: žiaurus, smurtingas; skonis prarastas"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Tiesioginis maldos kreipimasis į Elohim"
+    }
+  ],
+  "translation": "Mano Elohim, išvaduok mane iš nedorėlio rankos, iš delno neteisiojo ir žiauraus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/71\/1-4.1792488328750.json",
+    "code": "2e90b014c-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Mano Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "išvaduok mane"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "iš rankos"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nedorėlio"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "iš delno"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "neteisiojo"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ir žiauraus"
+    }
+  ],
+  "timestamp": "2026-10-20T09:25:28.751263387Z",
+  "model": "glm-5.3"
+}

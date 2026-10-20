@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jis",
+      "rationale": "hebrajiškas veiksmažodis neturi įvardžio; lietuvių kalbai reikia veikėjo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "visomis kryptimis",
+      "rationale": "סביב pažodžiui „apsupę, ratu“ — kraujas apšlakstomas aplink aukurą"
+    }
+  ],
+  "translation": "Ir jis padės ⟨את⟩ savo ranką ant savo aukos galvos ir papjaus ⟨את⟩ ją Susitikimo palapinės akivaizdoje, o Aharono sūnūs apšlakstys ⟨את⟩ jos kraują ant aukuro visomis kryptimis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/3\/5-8.1792473145780.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ir padės"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo ranką"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "savo ranką"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "galvos"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "savo aukos"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ir papjaus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją — avinėlį"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "akivaizdoje"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "palapinės"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Susitikimo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ir apšlakstys"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sūnūs"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jos kraują"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jos kraują"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aukuro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "visomis kryptimis"
+    }
+  ],
+  "timestamp": "2026-10-20T05:12:25.784315090Z",
+  "model": "glm-5.3"
+}

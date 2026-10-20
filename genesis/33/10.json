@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 33:10",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחתי išlaikoma kaip mincha pagal D2, ne „dovana“ ar „dovanėlė“"
+    },
+    {
+      "kind": "crux",
+      "subject": "veidas kaip Elohim veidas",
+      "rationale": "Ar Jaakovas sako: mačiau tavo veidą „kaip“ matydamas Elohim veidą (palyginimas), ar „nes“ matau tave regintis Elohim veidą; verčiamas palyginimas"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חן \/ חנני",
+      "rationale": "„radau malonę (chen)“ čia ir „Elohim man parodė malonę (chenani)“ 33,11 — ta pati šaknis חנ״נ, giesmės rišlys tarp eilučių"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovas Esavui",
+      "rationale": "Tiesioginis kreipimasis į brolį — maldavimo kalba"
+    }
+  ],
+  "translation": "Ir tarė Jaakovas: Ne, meldžiu; jei radau malonę tavo akyse, tai imk mano minchą iš mano rankos, nes dėl to mačiau tavo veidą kaip matant Elohim veidą, ir tu buvai man palankus.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/33\/9-12.1792471609372.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ir tarė"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jei"
+    },
+    {
+      "surface": "נא",
+      "gloss": "meldžiu"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "radau"
+    },
+    {
+      "surface": "חן",
+      "gloss": "malonę"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "tavo akyse"
+    },
+    {
+      "surface": "ו לקחת",
+      "gloss": "tai imsi"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "mano minchą"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "iš mano rankos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "על",
+      "gloss": "dėl"
+    },
+    {
+      "surface": "כן",
+      "gloss": "to"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "mačiau"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavo veidą"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "kaip matant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veidą"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותרצני",
+      "gloss": "ir tu buvai man palankus"
+    }
+  ],
+  "timestamp": "2026-10-20T04:46:49.374959457Z",
+  "model": "glm-5.3"
+}

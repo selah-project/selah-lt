@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 1:21",
+  "book": "ezekiel",
+  "lang": "lt",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruach",
+      "rationale": "רוח verčiama skambesiu 'ruach', ne 'dvasia' viena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו\/יעמדו\/ינשאו",
+      "rationale": "Eilutės kartojimas — ėjimas, stovėjimas, kėlimas pakartoti du kartus, hebrajiškas refrenas."
+    }
+  ],
+  "translation": "Kai jos eidavo, jos eidavo, ir kai stovėdavo, stovėdavo; ir kai jos būdavo pakeliamos nuo žemės, ratai būdavo pakeliami greta jų, nes gyvosios būtybės ruach buvo ratuose.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/1\/21-24.1792483699405.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלכתם",
+      "gloss": "kai jos eidavo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "jos eidavo"
+    },
+    {
+      "surface": "ובעמדם",
+      "gloss": "ir kai stovėdavo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stovėdavo"
+    },
+    {
+      "surface": "ובהנשאם",
+      "gloss": "ir kai jos būdavo pakeliamos"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nuo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "būdavo pakeliami"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ratai"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "greta jų"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "gyvosios būtybės"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "ratuose"
+    }
+  ],
+  "timestamp": "2026-10-20T08:08:19.406482744Z",
+  "model": "glm-5.3"
+}

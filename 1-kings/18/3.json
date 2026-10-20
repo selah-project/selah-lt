@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "lt",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "buvo",
+      "rationale": "Hebrajiškas statytninis על הבית 'virš namų' — pridėta ⟨buvo⟩ derinimui su lietuvių sintakse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bijojo",
+      "rationale": "ירא את יהוה — 'bijojo Jahvę'; lietuviškai įprasta 'bijojosi', bet išlaikytas tiesioginis objektas su ⟨את⟩"
+    }
+  ],
+  "translation": "Ir Achabas pašaukė Obadijahu, kuris ⟨buvo⟩ virš namų, o Obadijahu bijojo ⟨את⟩ Jahvę labai.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/1-4.1792479439914.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ir pašaukė"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadijahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuris"
+    },
+    {
+      "surface": "על",
+      "gloss": "virš"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namų"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "o Obadijahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bijojo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bijojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvę"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvę"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labai"
+    }
+  ],
+  "timestamp": "2026-10-20T06:57:19.915635596Z",
+  "model": "glm-5.3"
+}

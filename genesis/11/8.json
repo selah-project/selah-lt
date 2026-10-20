@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "lt",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "אֹתָם čia yra objekto įvardis „juos“, o ne grynas aleph-tav žymiklis — tačiau rašmenys tie patys"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ant veido",
+      "rationale": "על פני pažodžiui „ant veido“ — įprastas hebrajų posakis „ant paviršiaus“"
+    }
+  ],
+  "translation": "Ir Jahvė išbarstė ⟨את⟩ juos iš ten ant visos žemės veido, ir jie liovėsi statyti miestą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/11\/5-8.1792471193608.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "ir išbarstė"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvė"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ juos",
+      "marks": "juos"
+    },
+    {
+      "surface": "משם",
+      "gloss": "iš ten"
+    },
+    {
+      "surface": "על",
+      "gloss": "ant"
+    },
+    {
+      "surface": "פני",
+      "gloss": "veido"
+    },
+    {
+      "surface": "כל",
+      "gloss": "visos"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "žemės"
+    },
+    {
+      "surface": "ויחדלiu",
+      "gloss": "ir jie liovėsi"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "statyti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "miestą"
+    }
+  ],
+  "timestamp": "2026-10-20T04:39:53.611962624Z",
+  "model": "glm-5.3"
+}

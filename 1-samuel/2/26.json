@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨buvo⟩",
+      "rationale": "Hebrajų kalba neturi kopulos prie וטוב; lietuvių reikia veiksmažodžio."
+    },
+    {
+      "kind": "elision",
+      "subject": "favor",
+      "rationale": "Daugelis versijų prideda 'malonėje'; hebrajiškas וטוב sako tik 'ir geras'."
+    }
+  ],
+  "translation": "O jaunuolis Šmuelis ėjo ir augo, ir buvo geras — tiek su Jahve, tiek ir su žmonėmis.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/2\/25-28.1792476980277.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "o jaunuolis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelis"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ėjo"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ir augo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ir buvo geras"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tiek"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "tiek ir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "su"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "žmonėmis"
+    }
+  ],
+  "timestamp": "2026-10-20T06:16:20.278701601Z",
+  "model": "glm-5.3"
+}

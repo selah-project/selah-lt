@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "lt",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dėdė",
+      "rationale": "דוד čia — Šaulio dėdė (giminaitis), ne meilės žodis; kontekstas nustato reikšmę."
+    },
+    {
+      "kind": "you",
+      "subject": "Šauliui ir jo tarnui",
+      "rationale": "Dėdė tiesiogiai klausia — Klausimas nukreiptas į konkrečius adresatus."
+    }
+  ],
+  "translation": "Ir Šaulio dėdė tarė jam ir jo tarnui: Kur ėjote? Ir jis atsakė: Ieškoti ⟨את⟩ asilų; ir pamatėme, kad jų nėra, ir atėjome pas Šmuelį.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/13-16.1792477149468.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ir tarė"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "dėdė"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulio"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ir"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "jo tarnui"
+    },
+    {
+      "surface": "אן",
+      "gloss": "kur"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "ėjote"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ir atsakė"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ieškoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asilų"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "asilų"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ir pamatėme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "jų nėra"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "ir atėjome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuelį"
+    }
+  ],
+  "timestamp": "2026-10-20T06:19:09.470278074Z",
+  "model": "glm-5.3"
+}

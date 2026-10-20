@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שני תולעת",
+      "rationale": "Pavadinimas iš vabzdžio — vermotos — iš kurios gaunamas purpuro dažas; lietuviškai 'raudonai dažyta vermota', ne vien 'raudonas siūlas'."
+    },
+    {
+      "kind": "elision",
+      "subject": "לחטא",
+      "rationale": "'Nukentėti\/nusidėti' čia reiškia apvalymo veiksmą; lietuviškai 'apvalyti'."
+    }
+  ],
+  "translation": "Ir jis ims apvalyti ⟨את⟩ namą: du paukščius, kedro medį, raudonai dažytą vermotą ir izopą.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/49-52.1792473393696.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ir ims"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "apvalyti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namą"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "namą"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "du"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "paukščius"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ir medį"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "kedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ir raudonai dažytą"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "vermotą"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ir izopą"
+    }
+  ],
+  "timestamp": "2026-10-20T05:16:33.698521743Z",
+  "model": "glm-5.3"
+}

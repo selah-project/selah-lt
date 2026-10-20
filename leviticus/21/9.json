@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "lt",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחל \/ מחללת",
+      "rationale": "dvigubas šaknies חלל „suteršti“ žaismas — pradeda teršti ir taip teršia tėvą; lietuviškame tekste lieka tik vienas žodis „suteršti“"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "pabrėžiamasis įvardis „ji“ prieš veiksmažodį — hebrajiška sintaksė, lietuviškai dalinai perteklinis"
+    }
+  ],
+  "translation": "Ir kunigo duktė — kai ji pradeda paleistuvauti, ⟨את⟩ savo tėvą ji suteršia — ugnimi ji sudeginama.",
+  "provenance": {
+    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/9-12.1792473603162.json",
+    "code": "99bc6e822-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ir duktė"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vyro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kunigo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kai"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "prasideda"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "paleistuvauti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savo tėvą"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "savo tėvą"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ji"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "suteršia"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ugnimi"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sudeginama"
+    }
+  ],
+  "timestamp": "2026-10-20T05:20:03.163091681Z",
+  "model": "glm-5.3"
+}
