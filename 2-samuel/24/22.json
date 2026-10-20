@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "deginamoji auka",
-      "rationale": "עלה — auka, ' kylanti aukštyn'; vienas žodis, išlaikytas kaip deginamoji auka."
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "Aravnah addresses David directly with imperatives."
-    }
-  ],
-  "translation": "Ir Aravna tarė Davidui: Tepaima ir tepaaukoja mano ponas karalius, kas gera jo akyse; štai galvijai deginamajai aukai, ir gumdymo rogės, ir galvijų įrankiai malkoms.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/21-24.1792478744107.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Aravna tarė Davidui: teima ir teaukoja mano ponas karalius, kas gerai jo akyse; žiūrėk — galvijai deginamajai aukai, ir kuliamosios rogės, ir galvijų įnagiai medžiui.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "ארונה",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "דוד",
       "gloss": "Davidui"
     },
     {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
       "surface": "יקח",
-      "gloss": "tepaima"
+      "gloss": "teima"
     },
     {
       "surface": "ויעל",
-      "gloss": "tepaaukoja"
+      "gloss": "ir teaukoja"
     },
     {
       "surface": "אדני",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "kas gera"
+      "gloss": "kas gerai"
     },
     {
       "surface": "בעינו",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "štai"
+      "gloss": "žiūrėk"
     },
     {
       "surface": "הבקר",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "והמרגים",
-      "gloss": "ir gumdymo rogės"
+      "gloss": "ir kuliamosios rogės"
     },
     {
       "surface": "וכלי",
-      "gloss": "ir įrankiai"
+      "gloss": "ir įnagiai"
     },
     {
       "surface": "הבקר",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "לעצים",
-      "gloss": "malkoms"
+      "gloss": "medžiui"
     }
   ],
-  "timestamp": "2026-10-20T06:45:44.109474787Z",
+  "timestamp": "2026-10-20T12:14:14.785071473Z",
   "model": "glm-5.3"
 }

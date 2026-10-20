@@ -5,42 +5,16 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "padengimo sidabras",
-      "rationale": "כסף הכפרים pažodžiui 'padengimo sidabras' — sutartinis 'išpirkimo pinigai' praranda dangos paveikslą."
-    },
-    {
-      "kind": "you",
-      "subject": "jūsų sielas",
-      "rationale": "Tiesioginis kreipimasis į bendruomenę per Mošę."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sielas",
-      "rationale": "נפש — gyvybė, kvėpavimas, ne nemateriali siela."
-    }
-  ],
-  "translation": "Ir paimsi ⟨את⟩ sidabrą, skirtą padengimui, ⟨את⟩ iš Jisraelio sūnų, ir duosi ⟨את⟩ jį Susitikimo palapinės tarnavimui; ir jis bus Jisraelio sūnums atminimu Jahvės akivaizdoje, kad būtų padengta už jūsų sielas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/13-16.1792472852472.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir paimsi ⟨את⟩ sidabrą atpirkimo ⟨את⟩ iš Jisraelio sūnų ir duosi ⟨את⟩ jį Susitikimo palapinės tarnystei, ir tai bus Jisraelio sūnums atminimu prieš Jahvę, kad būtų atpirkta už jūsų sielas.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "ir paimsi"
+      "gloss": "Ir paimsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sidabrą, skirtą padengimui"
+      "marks": "sidabrą"
     },
     {
       "surface": "כסף",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "הכפרים",
-      "gloss": "skirtą padengimui"
+      "gloss": "atpirkimo"
     },
     {
       "surface": "מאת",
@@ -68,15 +42,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "Susitikimo palapinės tarnystei"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "עבדת",
-      "gloss": "tarnavimui"
+      "gloss": "tarnystei"
     },
     {
       "surface": "אהל",
@@ -88,7 +63,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ir jis bus"
+      "gloss": "ir tai bus"
     },
     {
       "surface": "לבני",
@@ -104,15 +79,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "akivaizdoje"
+      "gloss": "prieš"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvės"
+      "gloss": "Jahvę"
     },
     {
       "surface": "לכפר",
-      "gloss": "kad būtų padengta"
+      "gloss": "kad būtų atpirkta"
     },
     {
       "surface": "על",
@@ -123,6 +98,6 @@
       "gloss": "jūsų sielas"
     }
   ],
-  "timestamp": "2026-10-20T05:07:32.477948959Z",
+  "timestamp": "2026-10-20T12:19:52.056086106Z",
   "model": "glm-5.3"
 }

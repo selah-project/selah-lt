@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Pakink",
-      "rationale": "אסר — „suriš“: siūloma „suriš [vežimą]“, t. y. pakinkyk arklius; KJV „pareng vežimą“"
-    },
-    {
-      "kind": "addition",
-      "subject": "Elijas",
-      "rationale": "Sakantysis neužvardytas; pridėta dėl aiškumo"
-    },
-    {
-      "kind": "measurement",
-      "subject": "septintąjį kartą",
-      "rationale": "baigiamas septynerių kartų skaičiavimas"
-    }
-  ],
-  "translation": "Ir septintąjį kartą jis tarė: Štai kylantis iš jūros debesėlis, mažas kaip žmogaus delnas. Ir ⟨Elijas⟩ tarė: Kilk, pasakyk Ahabui: Pakink ir leiskis žemyn, kad lietus tavęs nesustabdytų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "dbd41c5c72a768861a3cc1174c8b345fa2cc43914be8d4ba89775ebe02b1ab9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/41-44.1792479522645.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir septintąjį kartą jis tarė: Štai mažas debesis kaip žmogaus delnas kyla iš jūros. Ir jis tarė: Kilk, pasaky Achabui: Junk ⟨savo vežimą⟩ ir leiskis žemyn, kad tavęs nesustabdytų lietus.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "jis tarė"
+      "gloss": "ir jis tarė"
     },
     {
       "surface": "הנה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "עב",
-      "gloss": "debesėlis"
+      "gloss": "debesis"
     },
     {
       "surface": "קטנה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "kylantis"
+      "gloss": "kyla"
     },
     {
       "surface": "מים",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir jis tarė"
     },
     {
       "surface": "עלה",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "pasakyk"
+      "gloss": "pasaky"
     },
     {
       "surface": "אל",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahabui"
+      "gloss": "Achabui"
     },
     {
       "surface": "אסר",
-      "gloss": "Pakink"
+      "gloss": "Junk"
     },
     {
       "surface": "ורד",
@@ -103,17 +77,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "kad nesustabdytų"
+      "gloss": "kad ne"
     },
     {
       "surface": "יעצרכה",
-      "gloss": "tavęs"
+      "gloss": "tavęs nesustabdytų"
     },
     {
       "surface": "הגשם",
       "gloss": "lietus"
     }
   ],
-  "timestamp": "2026-10-20T06:58:42.646414696Z",
+  "timestamp": "2026-10-20T12:06:55.883068591Z",
   "model": "glm-5.3"
 }

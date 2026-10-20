@@ -5,40 +5,19 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Achabui",
-      "rationale": "Izebelė tiesiogiai įsako Achabui paimti vynuogyną."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי מת",
-      "rationale": "Pakartotas „nes mirė“ po „nėra gyvas“ — hebrajų tautologija išlaikyta."
-    }
-  ],
-  "translation": "Ir įvyko, kai Izebelė išgirdo, kad Nabotas užmėtytas akmenimis ir mirė, Izebelė tarė Achabui: kelkis, paveldėk ⟨את⟩ Naboto, Jizreelio gyventojo, vynuogyną, kurį jis atsisakė duoti tau už sidabrą, nes Nabotas nėra gyvas, nes mirė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4b295cc58904c013fa74a7e7866dbe4e076558ea9194638bfd22c73a981b6adf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/21\/13-16.1792479566584.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, Izabelei išgirdus, kad Navotas užmūtytas akmenimis ir miręs, Izabelė tarė Achabui: Kelkis, paveldėk ⟨את⟩ Navoto jisreeliečio vynuogyną, kurį jis atsisakė duoti tau už sidabrą, nes Navotas nebegyvas — nes mirė.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ir įvyko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "כשמע",
-      "gloss": "kai išgirdo"
+      "gloss": "išgirdus"
     },
     {
       "surface": "איזבל",
-      "gloss": "Izebelė"
+      "gloss": "Izabelei"
     },
     {
       "surface": "כי",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "סקל",
-      "gloss": "užmėtytas akmenimis"
+      "gloss": "užmūtytas akmenimis"
     },
     {
       "surface": "נבות",
-      "gloss": "Nabotas"
+      "gloss": "Navotas"
     },
     {
       "surface": "וימת",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "איזבל",
-      "gloss": "Izebelė"
+      "gloss": "Izabelė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Achabui"
     },
     {
       "surface": "אחאב",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "קום",
-      "gloss": "kelkis"
+      "gloss": "Kelkis"
     },
     {
       "surface": "רש",
@@ -91,11 +70,11 @@
     },
     {
       "surface": "נבות",
-      "gloss": "Naboto"
+      "gloss": "Navoto"
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "Jizreelio gyventojo"
+      "gloss": "jisreeliečio"
     },
     {
       "surface": "אשר",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "מאן",
-      "gloss": "jis atsisakė"
+      "gloss": "atsisakė"
     },
     {
       "surface": "לתת",
@@ -123,11 +102,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "nėra"
+      "gloss": "nebegyvas ⟨nėra⟩"
     },
     {
       "surface": "נבות",
-      "gloss": "Nabotas"
+      "gloss": "Navotas"
     },
     {
       "surface": "חי",
@@ -142,6 +121,6 @@
       "gloss": "mirė"
     }
   ],
-  "timestamp": "2026-10-20T06:59:26.585801927Z",
+  "timestamp": "2026-10-20T12:06:27.242608177Z",
   "model": "glm-5.3"
 }

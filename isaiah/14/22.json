@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ו נין ונכד",
-      "rationale": "Keturios kartos žodžiai (שם ושאר ונין ונכד): 'vardas ir likutis, palikuonis ir anūkas' — kai kurie verčia 'šaknis ir atžala', dviprasmybė lieka."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נין ונכד",
-      "rationale": "Reti giminiškumo žodžių pora — alliteracinis poveikis lietuvių kalboje iš dalies atgimsta per 'palikuonis ir anūkas'."
-    }
-  ],
-  "translation": "Ir aš atsikelsiu prieš juos, sako Jahvė Cevaot, ir iškirsiu Babeliui ⟨את⟩ vardą ir likučią, ir palikuonį ir anūką, sako Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "59667e0982093202e389629c90fd1afbe790e077df09e4fcfcdd4ce70855ba52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/21-24.1792480840521.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš stotųsiuos prieš juos — sako Jahvė Cevaot — ir išnaikinsiu iš Babelio vardą ir likutį, palikuonį ir vaikaitį, sako Jahvė.",
   "tokens": [
     {
       "surface": "וקמתי",
-      "gloss": "ir aš atsikelsiu"
+      "gloss": "ir aš stotųsiuos"
     },
     {
       "surface": "עליהם",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ir iškirsiu"
+      "gloss": "ir išnaikinsiu"
     },
     {
       "surface": "לבבל",
-      "gloss": "Babeliui"
+      "gloss": "iš Babelio"
     },
     {
       "surface": "שם",
-      "gloss": "⟨את⟩ vardą"
+      "gloss": "vardą"
     },
     {
       "surface": "ושאר",
-      "gloss": "ir likučią"
+      "gloss": "ir likutį"
     },
     {
       "surface": "ונין",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ונכד",
-      "gloss": "ir anūką"
+      "gloss": "ir vaikaitį"
     },
     {
       "surface": "נאם",
@@ -81,6 +60,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T07:20:40.523256494Z",
+  "timestamp": "2026-10-20T12:28:20.036165858Z",
   "model": "glm-5.3"
 }

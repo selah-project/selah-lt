@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Adonai",
-      "rationale": "אדני apie Dievą rašomas Adonai, ne „Viešpats“."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קול ×3",
-      "rationale": "Trigubas „balsas“ — vežimų, arklių, kariuomenės — baimės ritmas išlaikytas."
-    }
-  ],
-  "translation": "O Adonai padarė girdimą Aramo stovyklai vežimų balsą, arklių balsą, didelės kariuomenės balsą, ir jie kalbėjo vienas su savo broliu: Štai Jisraelio karalius pasamdė prieš mus ⟨את⟩ chetų karalius ir ⟨את⟩ Micraimo karalius ateiti prieš mus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/7\/5-8.1792479892340.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Adonai padarė girdint ⟨את⟩ Aramo stovyklą — vežimų garsą, arklių garsą, didelio kariuomenės būrio garsą, ir jie kalbėjo vienas kitam: Štai Jisraelio karalius pasamdė prieš mus hitų karalius ir Micraimo karalius ateiti prieš mus.",
   "tokens": [
     {
       "surface": "ואדני",
-      "gloss": "o Adonai"
+      "gloss": "Adonai"
     },
     {
       "surface": "השמיע",
-      "gloss": "padarė girdimą"
+      "gloss": "padarė girdint"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "stovyklai"
+      "gloss": "stovyklą"
     },
     {
       "surface": "ארם",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "קול",
-      "gloss": "balsą"
+      "gloss": "garsą"
     },
     {
       "surface": "רכב",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "קול",
-      "gloss": "balsą"
+      "gloss": "garsą"
     },
     {
       "surface": "סוס",
@@ -67,19 +46,19 @@
     },
     {
       "surface": "קול",
-      "gloss": "balsą"
+      "gloss": "garsą"
     },
     {
       "surface": "חיל",
-      "gloss": "kariuomenės"
+      "gloss": "kariuomenės būrio"
     },
     {
       "surface": "גדול",
-      "gloss": "didelės"
+      "gloss": "didelio"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ir jie kalbėjo"
+      "gloss": "ir kalbėjo"
     },
     {
       "surface": "איש",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "su"
+      "gloss": "kitam"
     },
     {
       "surface": "אחיו",
-      "gloss": "savo broliu"
+      "gloss": "savo broliui"
     },
     {
       "surface": "הנה",
-      "gloss": "štai"
+      "gloss": "Štai"
     },
     {
       "surface": "שכר",
@@ -116,7 +95,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chetų karalius"
+      "marks": "hitų karalius"
     },
     {
       "surface": "מלכי",
@@ -124,11 +103,11 @@
     },
     {
       "surface": "החתים",
-      "gloss": "chetų"
+      "gloss": "hitų"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Micraimo karalius"
     },
     {
@@ -148,6 +127,6 @@
       "gloss": "prieš mus"
     }
   ],
-  "timestamp": "2026-10-20T07:04:52.341493925Z",
+  "timestamp": "2026-10-20T12:13:07.045473331Z",
   "model": "glm-5.3"
 }

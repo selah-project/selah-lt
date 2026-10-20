@@ -5,33 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "נקדים",
-      "rationale": "Plural of נקד — 'smulkios nuotrupos\/sausainiai', šio daugiskaitos pavidalo vieta Tanache reta; verčiama 'nuotrupos'",
-      "rationale-b": ""
-    },
-    {
-      "kind": "substitution",
-      "subject": "נקדים",
-      "rationale": "KJV 'mouldy' (supeliję) — hebrajiškas žodis reiškia 'pamargintas, nuotrupomis-byrėjęs', ne pelėsį"
-    }
-  ],
-  "translation": "Ši mūsų duona šilta ⟨את⟩ ją pasiėmėme maistui iš savo namų tą dieną, kai išėjome eiti pas jus, o dabar štai ji išdžiuvusi ir tapo nuotrupomis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "08236b928cd720f70629bdb690d9f9a3bd4b6a9b8d1ffcd1a05f88906a240676",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/9\/9-12.1792475793906.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šis mūsų duona ⟨buvo⟩ šiltas — pasiėmėme ⟨את⟩ jį iš savo namų dieną, kai išėjome eiti pas jus; o dabar štai jis išdžiūvęs ir tapęs trupinėliais.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "ši"
+      "gloss": "šis"
     },
     {
       "surface": "לחמנו",
@@ -39,16 +17,16 @@
     },
     {
       "surface": "חם",
-      "gloss": "šilta"
+      "gloss": "šiltas"
     },
     {
-      "surface": "הצטידנuo",
-      "gloss": "pasiėmėme maistui"
+      "surface": "הצטידנו",
+      "gloss": "pasiėmėme"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "jį (mūsų duoną)"
     },
     {
       "surface": "מבתינו",
@@ -56,7 +34,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "tą dieną"
+      "gloss": "dieną"
     },
     {
       "surface": "צאתנו",
@@ -80,17 +58,17 @@
     },
     {
       "surface": "יבש",
-      "gloss": "išdžiuvusi"
+      "gloss": "išdžiūvęs"
     },
     {
       "surface": "והיה",
-      "gloss": "tapo"
+      "gloss": "ir tapęs"
     },
     {
       "surface": "נקדים",
-      "gloss": "nuotrupomis"
+      "gloss": "trupinėliais"
     }
   ],
-  "timestamp": "2026-10-20T05:56:33.917983358Z",
+  "timestamp": "2026-10-20T12:35:47.750393429Z",
   "model": "glm-5.3"
 }

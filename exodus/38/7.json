@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "iškastas-luščiaviduris",
-      "rationale": "נבוב — išlindęs, tuščiaviduris; išlaikytas žodžio paveikslas"
-    }
-  ],
-  "translation": "Ir jis įvedė ⟨את⟩ kartis į žiedus ant šonų aukuro, nešti jį jomis; iškastas-lentas padarė ⟨את⟩ jį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/5-8.1792472997548.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis įvedė ⟨את⟩ kartis į žiedus ant šonų aukuro, kad neštų jį jomis; tuščiavidurį iš lentų jis padarė ⟨את⟩ jį.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "įvedė"
+      "gloss": "ir jis įvedė"
     },
     {
       "surface": "את",
@@ -54,11 +38,12 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "nešti"
+      "gloss": "kad neštų"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (aukurą)"
     },
     {
       "surface": "בהם",
@@ -66,21 +51,22 @@
     },
     {
       "surface": "נבוב",
-      "gloss": "iškastas-tuščiaviduris"
+      "gloss": "tuščiavidurį"
     },
     {
       "surface": "לחת",
-      "gloss": "lentas"
+      "gloss": "iš lentų"
     },
     {
       "surface": "עשה",
-      "gloss": "padarė"
+      "gloss": "jis padarė"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (aukurą)"
     }
   ],
-  "timestamp": "2026-10-20T05:09:57.551199511Z",
+  "timestamp": "2026-10-20T12:20:36.957471164Z",
   "model": "glm-5.3"
 }

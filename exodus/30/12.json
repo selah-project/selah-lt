@@ -5,50 +5,24 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "surašymas",
-      "rationale": "Eilutė įveda gyventojų surašymą — skaičiavimo veiksmas."
-    },
-    {
-      "kind": "substitution",
-      "subject": "gyvybę",
-      "rationale": "נפש — alsuojanti būtybė, gyvybė, ne 'siela' metafizine prasme."
-    },
-    {
-      "kind": "idiom",
-      "subject": "נשא את ראש",
-      "rationale": "Pažodžiui 'pakelti galvą' — hebrajiškas idiomas 'imti skaičiuoti', lietuviškai 'imsies skaičiuoti'."
-    }
-  ],
-  "translation": "Kai imsies skaičiuoti ⟨את⟩ Jisraelio sūnų galvas, jie duos kiekvienas išpirką už savo gyvybę Jahvei, kai juos surašinėji, ir tarp jų nebus pražūties, kai juos surašinėji.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/9-12.1792472807608.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kai kelsi ⟨את⟩ galvą Jisraelio sūnų, pagal jų suskaičiavimą, tai jie duos kiekvienas žmogus išpirką už savo nefę Jahvei, kai juos suskaičiuoji, ir nebus tarp jų smūgio, kai juos suskaičiuoji ⟨את⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kai"
+      "gloss": "kai"
     },
     {
       "surface": "תשא",
-      "gloss": "imsies"
+      "gloss": "kelsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraelio sūnų galvas"
+      "marks": "galvą"
     },
     {
       "surface": "ראש",
-      "gloss": "galvas"
+      "gloss": "galvą"
     },
     {
       "surface": "בני",
@@ -60,15 +34,15 @@
     },
     {
       "surface": "לפקדיהם",
-      "gloss": "skaičiuoti"
+      "gloss": "pagal jų suskaičiavimą"
     },
     {
       "surface": "ונתנו",
-      "gloss": "ir jie duos"
+      "gloss": "tai jie duos"
     },
     {
       "surface": "איש",
-      "gloss": "kiekvienas"
+      "gloss": "kiekvienas žmogus"
     },
     {
       "surface": "כפר",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "už savo gyvybę"
+      "gloss": "už savo nefę"
     },
     {
       "surface": "ליהוה",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "בפקד",
-      "gloss": "kai surašinėji"
+      "gloss": "kai suskaičiuoji"
     },
     {
       "surface": "אתם",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir nebus"
     },
     {
       "surface": "יהיה",
-      "gloss": "bus"
+      "gloss": "ir nebus"
     },
     {
       "surface": "בהם",
@@ -104,17 +78,17 @@
     },
     {
       "surface": "נגף",
-      "gloss": "pražūties"
+      "gloss": "smūgio"
     },
     {
       "surface": "בפקד",
-      "gloss": "kai surašinėji"
+      "gloss": "kai suskaičiuoji"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ juos"
     }
   ],
-  "timestamp": "2026-10-20T05:06:47.611373722Z",
+  "timestamp": "2026-10-20T12:19:52.152816945Z",
   "model": "glm-5.3"
 }

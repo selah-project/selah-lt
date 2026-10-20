@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Bat Ševa",
-      "rationale": "Natano klausimas tiesiogiai kreipiamasi į Bat Ševą."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ponas",
-      "rationale": "אֲדֹנֵינוּ čia apie žmogų Davidą — 'mūsų ponas', ne Vardas."
-    }
-  ],
-  "translation": "Ir Natanas tarė Bat Ševai, Šlomoho motinai: Ar negirdėjai, kad karaliuja Adonijahas, Chagito sūnus, o mūsų ponas Davidas nežino?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "04176cf383202b003caf3b80cf1f7e173680039930a9c58fbd4e79f7b2c94485",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/1\/9-12.1792478662837.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Natanas tarė Bat Ševai, Šlomo motinai: Ar negirdėjai, kad karaliavo Adonijahu, Chagito sūnus, o mūsų ponas Davidas ⟨to⟩ nežino?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "נתן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "↔"
     },
     {
       "surface": "בת",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šlomoho"
+      "gloss": "Šlomo"
     },
     {
       "surface": "לאמר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "ar ne"
+      "gloss": "Ar ne"
     },
     {
       "surface": "שמעת",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "karaliuja"
+      "gloss": "karaliavo"
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adonijahas"
+      "gloss": "Adonijahu"
     },
     {
       "surface": "בן",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "ואדנינו",
-      "gloss": "mūsų ponas"
+      "gloss": "o mūsų ponas"
     },
     {
       "surface": "דוד",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nežino"
     },
     {
       "surface": "ידע",
-      "gloss": "žino"
+      "gloss": "⟨to⟩"
     }
   ],
-  "timestamp": "2026-10-20T06:44:22.839803569Z",
+  "timestamp": "2026-10-20T12:06:03.702688756Z",
   "model": "glm-5.3"
 }

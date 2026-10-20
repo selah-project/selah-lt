@@ -5,38 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nezeras-vainikas",
-      "rationale": "הנזר — 'pašventinimo ženklas, vainikas'; vertimai svyruoja tarp 'vainikas', 'diadema', 'karūna'."
-    },
-    {
-      "kind": "crux",
-      "subject": "liudijimą",
-      "rationale": "העדות — 'liudijimas': tikriausiai Toraos ritinys (Įst 17, 18–20) arba karališkosios santarties ženklai."
-    },
-    {
-      "kind": "idiom",
-      "subject": "plakė delnomis",
-      "rationale": "ויכו כף pažodžiui 'trenkė delną' — plojimas kaip pagerbimas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וימליכו ... וימשחהו",
-      "rationale": "'paskelbė karaliumi ... patepė' — karūnavimo ir patepimo pora, kuria maištaujančiai Atalijai atsakoma."
-    }
-  ],
-  "translation": "Ir jis išvedė ⟨את⟩ karaliaus sūnų, ir uždėjo ant jo ⟨את⟩ nezerą-vainiką ir ⟨את⟩ liudijimą, ir paskelbė jį karaliumi, ir patepė jį, ir ėmė ploti delnomis, ir sakė: Težyvuoja karalius!",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/11\/9-12.1792480193345.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis išvedė ⟨את⟩ karaliaus sūnų, uždėjo ant jo ⟨את⟩ žiedą ir ⟨את⟩ liudijimą, paskelbė jį karaliumi ir patepė jį; ir jie plojo rankomis bei šaukė: Tegyvuoja karalius!",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -57,7 +26,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ir uždėjo"
+      "gloss": "ir padėjo"
     },
     {
       "surface": "עליו",
@@ -66,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nezerą-vainiką"
+      "marks": "žiedą"
     },
     {
       "surface": "הנזר",
-      "gloss": "nezerą-vainiką"
+      "gloss": "žiedą"
     },
     {
       "surface": "ואת",
@@ -83,12 +52,12 @@
     },
     {
       "surface": "וימלכו",
-      "gloss": "ir paskelbė karaliumi"
+      "gloss": "ir padarė karaliumi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ jį",
-      "marks": "jį (karaliaus sūnų)"
+      "marks": "jį — karaliaus sūnų"
     },
     {
       "surface": "וימשחהו",
@@ -96,11 +65,11 @@
     },
     {
       "surface": "ויכו",
-      "gloss": "ir ėmė plakti"
+      "gloss": "ir jie smūgiavo"
     },
     {
       "surface": "כף",
-      "gloss": "delnomis"
+      "gloss": "delnu"
     },
     {
       "surface": "ויאמרו",
@@ -108,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Težyvuoja"
+      "gloss": "tegyvuoja"
     },
     {
       "surface": "המלך",
       "gloss": "karalius"
     }
   ],
-  "timestamp": "2026-10-20T07:09:53.349428691Z",
+  "timestamp": "2026-10-20T12:11:38.303430664Z",
   "model": "glm-5.3"
 }

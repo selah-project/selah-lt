@@ -5,41 +5,15 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "סקול יסקל",
-      "rationale": "Nepilnas veiksmažodžio kartojimas — „akmenimis būtinai bus užmuštas“; lietuvių kalboje tai atlikta prieveiksmiu „būtinai“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "užsmežo",
-      "rationale": "נגח pažodžiui „ smeigti ragais“ — veiksmažodis apima ir ragų dūrimą, ir puolimą apskritai."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tas⟩ miršta",
-      "rationale": "Hebrajų ומת be veikėjo; lietuvių kalbai reikia prisegtos santykinės nuorodos."
-    }
-  ],
-  "translation": "Ir jeigu jautis užsmežo ⟨את⟩ vyrą arba ⟨את⟩ moterį ir ⟨tas⟩ miršta, jautis būtinai užmušamas akmenimis, ir jo mėsos negalima valgyti, o jaučio šeimininkas nekaltas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/21\/25-28.1792472644679.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jei jautis užgauna ⟨את⟩ vyrą arba ⟨את⟩ moterį ir ⟨jie⟩ miršta, jautis būtinai užmušamas akmenimis, ir jo mėsos negalima valgyti, o jo paties — jaučio savininkas bus nekaltas.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ir jeigu"
+      "gloss": "ir jei"
     },
     {
       "surface": "יגח",
-      "gloss": "užsmežo"
+      "gloss": "užgauna ragais"
     },
     {
       "surface": "שור",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "יסקל",
-      "gloss": "būtinai bus užmuštas"
+      "gloss": "būtinai užmušamas"
     },
     {
       "surface": "השור",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "valgyti"
+      "gloss": "valgoma"
     },
     {
       "surface": "את",
@@ -102,7 +76,7 @@
     },
     {
       "surface": "ובעל",
-      "gloss": "o šeimininkas"
+      "gloss": "o savininkas"
     },
     {
       "surface": "השור",
@@ -113,6 +87,6 @@
       "gloss": "nekaltas"
     }
   ],
-  "timestamp": "2026-10-20T05:04:04.689834045Z",
+  "timestamp": "2026-10-20T12:19:34.714196384Z",
   "model": "glm-5.3"
 }

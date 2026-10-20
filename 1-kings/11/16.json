@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "šešis mėnesius",
-      "rationale": "Laiko trukmės nurodymas — skaičius lietuviškai pilnas, kaip hebrajų kalboje."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הכרית — išnaikinti",
-      "rationale": "Pažodžiui 'nukirpti' — naikinimo vaizdas išlaikytas per 'išnaikinti'."
-    }
-  ],
-  "translation": "nes šešis mėnesius Joabas ir visas Jisraelis ⟨sėdėjo⟩ ten, iki išnaikino kiekvieną vyriškį Edome.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/13-16.1792479232447.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes šešis mėnesius Joabas ir visi Jisraelis buvo ⟨ten⟩, kol ⟨buvo⟩ išnaikintas kiekvienas vyras Edome.",
   "tokens": [
     {
       "surface": "כי",
@@ -41,16 +20,12 @@
       "gloss": "mėnesius"
     },
     {
-      "surface": "יוב",
-      "gloss": "Joabas"
-    },
-    {
       "surface": "ישב",
       "gloss": "buvo"
     },
     {
       "surface": "שם",
-      "gloss": "ten"
+      "gloss": "⟨ten⟩"
     },
     {
       "surface": "יואב",
@@ -58,7 +33,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ir visas"
+      "gloss": "ir visi"
     },
     {
       "surface": "ישראל",
@@ -66,25 +41,25 @@
     },
     {
       "surface": "עד",
-      "gloss": "iki"
+      "gloss": "kol"
     },
     {
       "surface": "הכרית",
-      "gloss": "išnaikino"
+      "gloss": "išnaikintas"
     },
     {
       "surface": "כל",
-      "gloss": "kiekvieną"
+      "gloss": "kiekvienas"
     },
     {
       "surface": "זכר",
-      "gloss": "vyriškį"
+      "gloss": "vyras"
     },
     {
       "surface": "באדום",
       "gloss": "Edome"
     }
   ],
-  "timestamp": "2026-10-20T06:53:52.450011616Z",
+  "timestamp": "2026-10-20T12:05:40.605323799Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,20 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אין הקיר",
-      "rationale": "Pažodžiui 'nėra sienos' — griausmingas nebuvimo pareiškimas, lietuviškai 'sienos nebėra'."
-    }
-  ],
-  "translation": "Ir atliksiu ⟨את⟩ savo įnirštį sienoje ir tuose, kurie ją tinkuoja betinkiu, ir pasakysiu jums: sienos nebėra, ir nebėra tų, kurie ją tinkavo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/13\/13-16.1792484057705.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir įvykdysiu ⟨את⟩ savo įniršį sienoje ir tuose, kurie ją tinkuoja nevirtu tinku; ir pasakysiu jums: sienos nebėra ir tinkuotojų, kurie ją tinkavo, nebėra.",
   "tokens": [
     {
       "surface": "וכליתי",
-      "gloss": "ir atliksiu"
+      "gloss": "ir įvykdysiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo įnirštį"
+      "marks": "mano įniršį"
     },
     {
       "surface": "חמתי",
-      "gloss": "savo įnirštį"
+      "gloss": "mano įniršį"
     },
     {
       "surface": "בקיר",
@@ -46,12 +30,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "nevirtu tinku"
     },
     {
       "surface": "תפל",
-      "gloss": "betinkiu"
+      "gloss": "nevirtu tinku"
     },
     {
       "surface": "ואמר",
@@ -75,14 +59,14 @@
     },
     {
       "surface": "הטחים",
-      "gloss": "tų, kurie tinkavo"
+      "gloss": "tinkuotojų, kurie ją tinkavo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "sieną (tinkavimo objektas)"
     }
   ],
-  "timestamp": "2026-10-20T08:14:17.707851765Z",
+  "timestamp": "2026-10-20T12:21:07.418557933Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Priegaityklis 'pas' išplauta į žodį 'Pasakykite' — atskira glosa tuščia."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הבטחון \/ בטחת",
-      "rationale": "Toji pati šaknis bטח kartojama — 'pasitikėjimas, kuriuo pasitiki' — paronomazija."
-    },
-    {
-      "kind": "you",
-      "subject": "Chizkijahu",
-      "rationale": "Rabšakės žodžiai per pasiuntinius skirti karaliui Chizkijahu."
-    },
-    {
-      "kind": "idiom",
-      "subject": "Taip sako",
-      "rationale": "כה אמר — karališkojo pranešimo formulė, paliekama pažodžiui."
-    }
-  ],
-  "translation": "Ir Rabšakė tarė jiems: Pasakykite, prašau, Chizkijahu: Taip sako didysis karalius, Aššūro karalius: Koks tai pasitikėjimas, kuriuo tu pasitiki?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/1-4.1792481381267.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Rašakė tarė jiems: Pasakykite dabar Chizkijahui: Taip sako didysis karalius, Asiro karalius: Kas ⟨yra⟩ šis pasitikėjimas, kuriuo tu pasitiki?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אליהם",
@@ -48,19 +17,19 @@
     },
     {
       "surface": "רב",
-      "gloss": "Rab-"
+      "gloss": "Ra-"
     },
     {
       "surface": "שקה",
-      "gloss": "šakė (Rabšakė)"
+      "gloss": "šakė"
     },
     {
       "surface": "אמרו",
-      "gloss": "Pasakykite"
+      "gloss": "pasakykite"
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "dabar"
     },
     {
       "surface": "אל",
@@ -68,11 +37,11 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Chizkijahu"
+      "gloss": "Chizkijahui"
     },
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -92,15 +61,15 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Aššūro"
+      "gloss": "Asiro"
     },
     {
       "surface": "מה",
-      "gloss": "Koks"
+      "gloss": "kas"
     },
     {
       "surface": "הבטחון",
-      "gloss": "pasitikėjimas"
+      "gloss": "šis pasitikėjimas"
     },
     {
       "surface": "הזה",
@@ -108,13 +77,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuo"
+      "gloss": "kuo"
     },
     {
       "surface": "בטחת",
       "gloss": "tu pasitiki"
     }
   ],
-  "timestamp": "2026-10-20T07:29:41.269561396Z",
+  "timestamp": "2026-10-20T12:28:52.862968387Z",
   "model": "glm-5.3"
 }

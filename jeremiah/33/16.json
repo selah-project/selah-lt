@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יקרא לה",
-      "rationale": "KJV 'ji bus vadinama' vs YLT 'jis, kurį jai paskelbs' — gramatiškai abu įmanomi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mūsų cedek",
-      "rationale": "צדקנו — 'mūsų teisumas\/teisingumas', šaknis צדק palikta kaip cedek pagal D2"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩\/⟨ją⟩",
-      "rationale": "saitas ir įvardis, kurių hebrajų tekstas neturi, bet lietuvių reikia"
-    }
-  ],
-  "translation": "Tomis dienomis Jehoda bus išgelbėtas, ir Jerušalaimas gyvens saugiai; ir šitai yra vardas, kuriuo ⟨ją⟩ vadins: Jahvė — mūsų cedek.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fe4b7d3d799a3a830b5c52bfada97e382f78a355b9712ca9736c85ed6c94374f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/13-16.1792483112663.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tomis dienomis bus išgelbėtas Jehuda, ir Jerušalaimas gyvens saugiai; ir štai vardas, kuriuo ji bus vadinama: Jahvė cedekenu — ⟨mūsų teisumas⟩.",
   "tokens": [
     {
       "surface": "בימים",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ההם",
-      "gloss": ""
+      "gloss": "tomis"
     },
     {
       "surface": "תושע",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehoda"
+      "gloss": "Jehuda"
     },
     {
       "surface": "וירושלם",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "וזה",
-      "gloss": "ir šitai"
+      "gloss": "ir štai"
     },
     {
       "surface": "אשר",
-      "gloss": "kad"
+      "gloss": "kuris"
     },
     {
       "surface": "יקרא",
-      "gloss": "vadins"
+      "gloss": "bus vadinama"
     },
     {
       "surface": "לה",
-      "gloss": "ją"
+      "gloss": "ji"
     },
     {
       "surface": "יהוה",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "צדקנו",
-      "gloss": "mūsų cedek"
+      "gloss": "cedekenu"
     }
   ],
-  "timestamp": "2026-10-20T07:58:32.667512875Z",
+  "timestamp": "2026-10-20T12:31:12.444440024Z",
   "model": "glm-5.3"
 }

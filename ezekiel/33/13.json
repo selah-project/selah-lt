@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חיה יחיה",
-      "rationale": "Prievardinis sangrąžos pabrėtimas — „gyvendamas gyvens“ — kartojasi 33,15–16 ir yra šios skyriaus ritmo stuburas."
-    }
-  ],
-  "translation": "Kai sakau teisiajam: gyvendamas gyvens, o jis pasikliauja savo cedeku ir daro neteisybę — visas jo cedekas nebus minimas, ir už savo neteisybę, kurią padarė, dėl jos jis mirs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f3124e925e16ada7521a48a60ac20ac6a340d299b6aa6ea87c9309fb8dfa0ac1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/33\/13-16.1792484708780.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kai aš sakau teisiajam: gyvendamas jis gyvens, o jis pasitiki savo cedeku ir padaro neteisybę — viso jo cedeko nebebus prisiminta, ir savo neteisybe, kurią padarė, ⟨dėl jos⟩ jis mirs.",
   "tokens": [
     {
       "surface": "באמרי",
-      "gloss": "kai sakau"
+      "gloss": "kai aš sakau"
     },
     {
       "surface": "לצדיק",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "יחיה",
-      "gloss": "gyvens"
+      "gloss": "jis gyvens"
     },
     {
       "surface": "והוא",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "בטח",
-      "gloss": "pasikliauja"
+      "gloss": "pasitiki"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "צדקתו",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "ir daro"
+      "gloss": "ir padaro"
     },
     {
       "surface": "עול",
@@ -65,11 +49,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "visas"
+      "gloss": "viso"
     },
     {
       "surface": "צדקתו",
-      "gloss": "cedekas"
+      "gloss": "jo cedeko"
     },
     {
       "surface": "לא",
@@ -77,11 +61,11 @@
     },
     {
       "surface": "תזכרנה",
-      "gloss": "bus minimas"
+      "gloss": "bus prisiminta"
     },
     {
       "surface": "ובעולו",
-      "gloss": "už savo neteisybę"
+      "gloss": "ir savo neteisybe"
     },
     {
       "surface": "אשר",
@@ -93,13 +77,13 @@
     },
     {
       "surface": "בו",
-      "gloss": "dėl jos"
+      "gloss": "⟨dėl jos⟩"
     },
     {
       "surface": "ימות",
-      "gloss": "mirs"
+      "gloss": "jis mirs"
     }
   ],
-  "timestamp": "2026-10-20T08:25:08.780761440Z",
+  "timestamp": "2026-10-20T12:22:25.008603378Z",
   "model": "glm-5.3"
 }

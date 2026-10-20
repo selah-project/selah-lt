@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "apsirengti kitaip",
-      "rationale": "התחפש pažodžiui 'nuslėpti save, kaukėtis' — veiksmas, o ne tik drabužių keitimas."
-    },
-    {
-      "kind": "addition",
-      "subject": "אל",
-      "rationale": "hebrajiškas painsaga 'pas' neturi atskiro žodžio, išreiškiama linksniu."
-    }
-  ],
-  "translation": "Ir Jisraelio karalius tarė Jehošafatui: Apsirengsiu kitaip ir eisiu į mūšį, o tu vilkėk savo rūbais. Ir Jisraelio karalius apsirengė kitaip ir įėjo į mūšį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c7671b92e68bbba243a1370755a392553601eecda7eb01de80a553f0549086ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/29-32.1792479674798.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelio karalius tarė Jehošafatui: Apsirengsiu netikrais drabužiais ir žengsiu į mūšį, o tu vilkėk savo drabužiais. Ir Jisraelio karalius apsirengė netikrais drabužiais ir nužygiavo į mūšį.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "מלך",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehošafatui"
+      "gloss": "Jehošafatą"
     },
     {
       "surface": "התחפש",
-      "gloss": "apsirengsiu kitaip"
+      "gloss": "apsirengsiu netikrais drabužiais"
     },
     {
       "surface": "ובא",
-      "gloss": "ir eisiu"
+      "gloss": "ir žengsiu"
     },
     {
       "surface": "במלחמה",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "בגדיך",
-      "gloss": "savo rūbais"
+      "gloss": "savo drabužiais"
     },
     {
       "surface": "ויתחפש",
-      "gloss": "ir apsirengė kitaip"
+      "gloss": "ir apsirengė netikrais drabužiais"
     },
     {
       "surface": "מלך",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "ויבוא",
-      "gloss": "ir įėjo"
+      "gloss": "ir nužygiavo"
     },
     {
       "surface": "במלחמה",
       "gloss": "į mūšį"
     }
   ],
-  "timestamp": "2026-10-20T07:01:14.799892737Z",
+  "timestamp": "2026-10-20T12:07:16.334514462Z",
   "model": "glm-5.3"
 }

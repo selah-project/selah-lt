@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ותענה",
-      "rationale": "Veiksmažodis 'slėgti\/kankinti' — vertimuose 'elgėsi šiurkščiai'; lietuviškai vienas žodis išlaiko smurtą."
-    },
-    {
-      "kind": "addition",
-      "subject": "ir ji",
-      "rationale": "Hebrajų veiksmažodis neturi įvardžio; lietuvių reikalauja veikėjo taisyklės aiškumo."
-    }
-  ],
-  "translation": "Ir Avramas tarė Sarajei: Štai tavo vergė tavo rankoje; daryk jai, kas gera tavo akyse. Ir Sarajė ją slėgė, ir ji pabėgo nuo jos veido.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "73132e5a38ec914800d77d7a654fe5de9d64668276b8ddd1bb6e8ab52e956b87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/16\/5-8.1792471286578.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Avramas tarė Sarajai: Štai tavo vergė ⟨yra⟩ tavo rankoje; daryk jai, kas gera tavo akyse. Ir Sarają ją spaudė, ir ji pabėgo nuo jos veido.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אברם",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Sarajai"
     },
     {
       "surface": "שרי",
-      "gloss": "Sarajei"
+      "gloss": "Sarajai"
     },
     {
       "surface": "הנה",
-      "gloss": "Štai"
+      "gloss": "štai"
     },
     {
       "surface": "שפחתך",
@@ -74,21 +53,21 @@
     },
     {
       "surface": "ותענה",
-      "gloss": "ir slėgė"
+      "gloss": "spaudė"
     },
     {
       "surface": "שרי",
-      "gloss": "Sarajė"
+      "gloss": "Sarają"
     },
     {
       "surface": "ותברח",
-      "gloss": "ir ji pabėgo"
+      "gloss": "ir pabėgo"
     },
     {
       "surface": "מפניה",
       "gloss": "nuo jos veido"
     }
   ],
-  "timestamp": "2026-10-20T04:41:26.582005167Z",
+  "timestamp": "2026-10-20T12:24:16.761549295Z",
   "model": "glm-5.3"
 }

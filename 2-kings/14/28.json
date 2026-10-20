@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ליהודה בישראל",
-      "rationale": "„Jehudai Jisraelyje“ — arba „iš Jehudos Jisraeliui“ (BSB: Jerovamas atėmė iš Judos), arba „Judai priklausantį Jisraelyje“ (KJV); hebrajiškas dviejų prielinksnių derinys dviprasmiškas."
-    },
-    {
-      "kind": "invitation",
-      "subject": "הלא הם כתובים",
-      "rationale": "Retorinis klausimas „argi jie nerašyti?“ kreipiasi į skaitytoją, nukreipdamas jį į karalių metraščių knygą."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Priebalsis על prie ספר išlydėtas lietuviška locatyvo galūne „knygoje“."
-    }
-  ],
-  "translation": "O likusieji Jerovamo žodžiai ir visa, ką jis darė, ir jo narsa, kaip jis kariavo, ir kaip jis sugrąžino ⟨את⟩ Damaską ir ⟨את⟩ Chamatą Jehudai Jisraelyje — argi jie nerašyti Jisraelio karalių dienų žodžių knygoje?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/14\/25-28.1792480149371.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O kiti Jarobeamo žodžiai ir visa, ką jis padarė, ir jo narsa, kaip jis kariavo, ir kaip jis sugrąžino ⟨את⟩ Damaską ir ⟨את⟩ Hamatą Judui Jisraelyje — ar jie ne parašyti knygoje Jisraelio karalių dienų žodžių?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "O likusieji"
+      "gloss": "o kiti"
     },
     {
       "surface": "דברי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jerovamo"
+      "gloss": "Jarobeamo"
     },
     {
       "surface": "וכל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "darė"
+      "gloss": "padarė"
     },
     {
       "surface": "וגבורתו",
@@ -89,15 +63,15 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Chamatą"
+      "marks": "Hamatą"
     },
     {
       "surface": "חמת",
-      "gloss": "Chamatą"
+      "gloss": "Hamatą"
     },
     {
       "surface": "ליהודה",
-      "gloss": "Jehudai"
+      "gloss": "Judui"
     },
     {
       "surface": "בישראל",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "argi ne"
+      "gloss": "ar ne"
     },
     {
       "surface": "הם",
@@ -140,6 +114,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T07:09:09.374767600Z",
+  "timestamp": "2026-10-20T12:11:41.360975814Z",
   "model": "glm-5.3"
 }

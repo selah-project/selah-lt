@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the brothers",
-      "rationale": "Pakartota brolių ataskaita — kalbos veikėjas (šalies ponas) kreipiasi tiesiogiai į juos: 'palikite... paimkite ir eikite'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "רעבון",
-      "rationale": "'maistas badmečiui' vs 'badmetis' — רעבון reiškia badą, bet čia įvardija grūdus, paimamus badui."
-    }
-  ],
-  "translation": "Ir tarė mums vyras, ponas šalies: Iš to pažinsiu, kad esate sąžiningi — vieną iš savo brolių palikite pas mane, o ⟨את⟩ maisto badmečiui savo namams paimkite ir eikite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/33-36.1792471929749.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė mums tas vyras, žemės valdovas: „Šitaip sužinosiu, kad jūs esate sąžiningi: vieną savo brolį palikite ⟨את⟩ pas mane, o ⟨את⟩ maisto badui savo namams pasiimkite ir eikite.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אלינו",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "האיש",
-      "gloss": "vyras"
+      "gloss": "tas vyras"
     },
     {
       "surface": "אדני",
-      "gloss": "ponas"
+      "gloss": "valdovas"
     },
     {
       "surface": "הארץ",
-      "gloss": "šalies"
+      "gloss": "žemės"
     },
     {
       "surface": "בזאת",
-      "gloss": "iš to"
+      "gloss": "šitaip"
     },
     {
       "surface": "אדע",
-      "gloss": "pažinsiu"
+      "gloss": "sužinosiu"
     },
     {
       "surface": "כי",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "esate"
+      "gloss": "jūs"
     },
     {
       "surface": "אחיכם",
-      "gloss": "savo brolių"
+      "gloss": "savo brolį"
     },
     {
       "surface": "האחד",
@@ -87,11 +66,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "maisto"
+      "marks": "maistas badui"
     },
     {
       "surface": "רעבון",
-      "gloss": "badmečiui"
+      "gloss": "badui"
     },
     {
       "surface": "בתיכם",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "קחו",
-      "gloss": "paimkite"
+      "gloss": "pasiimkite"
     },
     {
-      "surface": "וילכו",
+      "surface": "ולכו",
       "gloss": "ir eikite"
     }
   ],
-  "timestamp": "2026-10-20T04:52:09.750189239Z",
+  "timestamp": "2026-10-20T12:26:56.792740344Z",
   "model": "glm-5.3"
 }

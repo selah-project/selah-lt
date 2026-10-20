@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עד לא",
-      "rationale": "Hebrew 'until not' = 'so that you did not'; rendered 'kol ne' keeping the temporal shape."
-    },
-    {
-      "kind": "you",
-      "subject": "tu",
-      "rationale": "Direct feminine address to Babel, who spoke in her heart."
-    }
-  ],
-  "translation": "Ir tu tarėi: Amžinai būsiu valdove, — kol nepadėjai šitų dalykų ant savo širdies, neatminei jų pabaigos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4834f379a231317a92848adab8e0e893c46ff375a712164cf9de47ea07ab5346",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/47\/7-8.1792494089879.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tu sakei: Amžinai būsiu valdovo ponia — ⟨iki⟩ nesidėjai ⟨šių dalykų⟩ ant širdies, nepamenei jų pabaigos.",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "gloss": "ir tu tarėi"
+      "gloss": "ir tu sakei"
     },
     {
       "surface": "לעולם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "גברת",
-      "gloss": "valdove"
+      "gloss": "valdovo ponia"
     },
     {
       "surface": "עד",
-      "gloss": "kol"
+      "gloss": "⟨iki⟩"
     },
     {
       "surface": "לא",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "שמת",
-      "gloss": "padėjai"
+      "gloss": "sidėjai"
     },
     {
       "surface": "אלה",
-      "gloss": "šitų dalykų"
+      "gloss": "⟨šių dalykų⟩"
     },
     {
       "surface": "על",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "לבך",
-      "gloss": "savo širdies"
+      "gloss": "širdies"
     },
     {
       "surface": "לא",
@@ -74,13 +53,13 @@
     },
     {
       "surface": "זכרת",
-      "gloss": "atminei"
+      "gloss": "pamenei"
     },
     {
       "surface": "אחריתה",
       "gloss": "jų pabaigos"
     }
   ],
-  "timestamp": "2026-10-20T11:01:29.880353254Z",
+  "timestamp": "2026-10-20T12:28:42.094639008Z",
   "model": "glm-5.3"
 }

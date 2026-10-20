@@ -5,36 +5,15 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Nepasitraukė",
-      "rationale": "Hebrajų ימיש yra sangrąžinis veiksmažodis 'neatsitraukė\/nebuvo pašalintas' — verčiant neiginiu išlaikytas veikėjo neapibrėžtumas."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨vietos⟩",
-      "rationale": "Hebrajų turi tik לפני העם 'prieš tautą'; lietuvių reikia daiktavardžio, kur „prieš“ eitų su prielinksniu."
-    }
-  ],
-  "translation": "Nepasitraukė debies stulpas dieną ir ugnies stulpas naktį iš ⟨vietos⟩ prieš ⟨ tautą⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/13\/21-22.1792472421819.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nesitraukė debesies stulpas dieną ir ugnies stulpas naktį nuo ⟨angelo⟩ tautos veido.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Nepasitraukė"
+      "gloss": "ne"
     },
     {
       "surface": "ימיש",
-      "gloss": ""
+      "gloss": "traukėsi"
     },
     {
       "surface": "עמוד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הענן",
-      "gloss": "debies"
+      "gloss": "debesies"
     },
     {
       "surface": "יומם",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ועמוד",
-      "gloss": "ir ugnies stulpas"
+      "gloss": "ir stulpas"
     },
     {
       "surface": "האש",
-      "gloss": ""
+      "gloss": "ugnies"
     },
     {
       "surface": "לילה",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "prieš"
+      "gloss": "priešais"
     },
     {
       "surface": "העם",
-      "gloss": "tautą"
+      "gloss": "tautos"
     }
   ],
-  "timestamp": "2026-10-20T05:00:21.823952077Z",
+  "timestamp": "2026-10-20T12:18:35.405860237Z",
   "model": "glm-5.3"
 }

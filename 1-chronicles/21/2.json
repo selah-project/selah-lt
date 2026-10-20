@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨mis⟩",
-      "rationale": "Lietuvių kalbai reikia žodžio 'mis' po 'valdiniams'; hebrajų šarai — 'kunigaikščiai, vadai'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "surašymas",
-      "rationale": "Įsakymas suskaičiuoti visą Jisraelį — skaičiavimo veiksmas, nuo Beer Ševos iki Dano."
-    }
-  ],
-  "translation": "Ir tarė Davidas Joabui ir valdiniams ⟨mis⟩: Eikite, suskaičiuokite ⟨את⟩ Jisraelį nuo Beer Ševos iki Dano, ir atneškite man, ir aš žinosiu ⟨את⟩ jų skaičių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/21\/1-4.1792493036567.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas tarė Joabui ir valdytojams ⟨sergėti⟩: eikite, suskaičiuokite ⟨את⟩ Jisraelį nuo Beer Ševos iki Dano ir atneškite man ⟨tai⟩, kad žinočiau ⟨את⟩ jų skaičių.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "יואב",
       "gloss": "Joabui"
     },
     {
-      "surface": "ו אל",
+      "surface": "יואב",
+      "gloss": "Joabas"
+    },
+    {
+      "surface": "ואל",
       "gloss": "ir"
     },
     {
       "surface": "שרי",
-      "gloss": "valdiniams"
+      "gloss": "valdytojams ⟨sergėti⟩"
     },
     {
       "surface": "העם",
-      "gloss": "⟨mis⟩ tautos"
+      "gloss": "žmonių"
     },
     {
       "surface": "לכו",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelį"
+      "gloss": "Jisraelis"
     },
     {
       "surface": "מבאר",
-      "gloss": "nuo Beer"
+      "gloss": "nuo Beero"
     },
     {
       "surface": "שבע",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ואדעה",
-      "gloss": "ir žinosiu"
+      "gloss": "kad žinočiau"
     },
     {
       "surface": "את",
@@ -111,6 +90,6 @@
       "gloss": "jų skaičių"
     }
   ],
-  "timestamp": "2026-10-20T10:43:56.568580918Z",
+  "timestamp": "2026-10-20T12:05:15.105997386Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "Jahvės pyktis",
-      "rationale": "וְאַף חָרָה pažodžiui 'ir nosis įsiliepsnojo' — hebrajų pykčio idiomą išverstą į lietuvių kalbą"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' šioje vietoje, lietuvių kalbai jo reikia"
-    }
-  ],
-  "translation": "Mėsa dar ⟨buvo⟩ tarp jų dantų, nespėta nukirsti, ir Jahvės pyktis užsiliepsnojo prieš tautą, ir Jahvė smogė tautai smūgį didelį labai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "24c5065908e30544df59da88b6b0a35a202fdb3946f12c8a092932ef40a690dc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/11\/33-35.1792474200879.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mėsa dar tebebuvo tarp jų dantų, kol ji nebuvo nukirsta, ir Jahvės nosis užsidegė tautoje, ir Jahvė smogė tautai smūgį labai didelį.",
   "tokens": [
     {
       "surface": "הבשר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "עודנו",
-      "gloss": "dar"
+      "gloss": "dar tebebuvo"
     },
     {
       "surface": "בין",
@@ -45,12 +24,12 @@
       "gloss": "jų dantų"
     },
     {
-      "surface": "הטרם",
-      "gloss": ""
+      "surface": "טרם",
+      "gloss": "kol dar ne"
     },
     {
       "surface": "יכרת",
-      "gloss": "nespėta nukirsti"
+      "gloss": "buvo nukirsta"
     },
     {
       "surface": "ואף",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "חרה",
-      "gloss": "užsiliepsnojo"
+      "gloss": "užsidegė"
     },
     {
       "surface": "בעם",
-      "gloss": "prieš tautą"
+      "gloss": "tautoje"
     },
     {
       "surface": "ויך",
@@ -93,6 +72,6 @@
       "gloss": "labai"
     }
   ],
-  "timestamp": "2026-10-20T05:30:00.880046794Z",
+  "timestamp": "2026-10-20T12:40:29.143259548Z",
   "model": "glm-5.3"
 }

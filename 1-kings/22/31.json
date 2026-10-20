@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Pažodžiui 'nes jeigu' — hebrajiškas ribojimas 'tik, išskyrus'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "trisdešimt du",
-      "rationale": "Vežimų viršininkų skaičius nurodytas tiksliai."
-    }
-  ],
-  "translation": "O Aramo karalius įsakė ⟨את⟩ savo vežimų viršininkams — jų buvo trisdešimt du — sakydamas: Nekaukite nei su mažu, nei su dideliu, o tik ⟨את⟩ Jisraelio karalių vieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c7671b92e68bbba243a1370755a392553601eecda7eb01de80a553f0549086ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/29-32.1792479674798.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Aramo karalius įsakė ⟨את⟩ savo vežimų karininkams — jų trisdešimt du — sakydamas: Nekaukite nei su mažu, nei su dideliu, o tik su Jisraelio karaliumi vienu.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "o karalius"
+      "gloss": "Ir karalius"
     },
     {
       "surface": "ארם",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo vežimų viršininkams"
+      "marks": "karininkus"
     },
     {
       "surface": "שרי",
-      "gloss": "viršininkams"
+      "gloss": "karininkams"
     },
     {
       "surface": "הרכב",
@@ -83,7 +62,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ su"
+      "gloss": "su ⟨את⟩",
+      "marks": "mažu"
     },
     {
       "surface": "קטן",
@@ -91,7 +71,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
+      "gloss": "ir su ⟨את⟩",
       "marks": "dideliu"
     },
     {
@@ -100,20 +80,20 @@
     },
     {
       "surface": "כי",
-      "gloss": "tik"
+      "gloss": "o"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tik"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Jisraelio karalių"
+      "gloss": "su ⟨את⟩",
+      "marks": "karaliumi"
     },
     {
       "surface": "מלך",
-      "gloss": "karalių"
+      "gloss": "karaliumi"
     },
     {
       "surface": "ישראל",
@@ -121,9 +101,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "vieną"
+      "gloss": "vienu"
     }
   ],
-  "timestamp": "2026-10-20T07:01:14.800482939Z",
+  "timestamp": "2026-10-20T12:07:15.448664947Z",
   "model": "glm-5.3"
 }

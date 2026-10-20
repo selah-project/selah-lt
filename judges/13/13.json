@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "elision of אל",
-      "rationale": "lietuvių linksnis 'Manoachui' \/ 'moteriai' jau reiškia 'pas', tad אל neišversta atskirai"
-    },
-    {
-      "kind": "you",
-      "subject": "to Manoach",
-      "rationale": "pasiuntinys atsako Manoachui, bet taisyklė kreipiama į moters elgesio"
-    }
-  ],
-  "translation": "Ir Jahvės pasiuntinys tarė Manoachui: nuo visko, ką aš sakiau moteriai, tepais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/13\/13-16.1792476678726.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvės pasiuntinys tarė Manoachui: nuo visko, ką sakiau moteriai, ⟨ji⟩ tesisaugo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Manoachui — ⟨pasak⟩"
     },
     {
       "surface": "מנוח",
-      "gloss": "Manoachui"
+      "gloss": "Manoachas"
     },
     {
       "surface": "מכל",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "aš sakiau"
+      "gloss": "sakiau"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨pasak⟩"
     },
     {
       "surface": "האשה",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "תשמר",
-      "gloss": "tepais"
+      "gloss": "tesisaugo"
     }
   ],
-  "timestamp": "2026-10-20T06:11:18.726948833Z",
+  "timestamp": "2026-10-20T12:35:43.185611737Z",
   "model": "glm-5.3"
 }

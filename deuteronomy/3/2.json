@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "Jahvė kalba tiesiogiai Mošei — neigiamas įsakymas 'nebijok jo'"
-    },
-    {
-      "kind": "crux",
-      "subject": "aš daviau",
-      "rationale": "נתתי — tobulasis laikas 'daviau' vs 'duodu\/duosiu'; lietuviškos formos parinkimas"
-    }
-  ],
-  "translation": "Ir Jahvė man tarė: Nebijok jo, nes į tavo ranką aš daviau ⟨את⟩ jį, ir ⟨את⟩ visą jo tautą, ir ⟨את⟩ jo šalį; ir darysi jam, kaip darei Sichonui, amoritų karaliui, gyvenančiam Chešbone.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/3\/1-4.1792474911035.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė man: nebijok ⟨את⟩ jo, nes į tavo ranką aš daviau ⟨את⟩ jį ir ⟨את⟩ visą jo tautą, ir ⟨את⟩ jo žemę; ir darysi jam, kaip darei Sichonui, emoriečių karaliui, kuris gyveno Chešbone.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -50,8 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį (Ogas)"
+      "gloss": "⟨את⟩",
+      "marks": "jo"
     },
     {
       "surface": "כי",
@@ -67,8 +46,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį (Ogas)"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "ואת",
@@ -86,11 +65,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo šalį"
+      "marks": "jo žemę"
     },
     {
       "surface": "ארצו",
-      "gloss": "jo šalį"
+      "gloss": "jo žemę"
     },
     {
       "surface": "ועשית",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "amoritų"
+      "gloss": "emoriečių"
     },
     {
       "surface": "אשר",
@@ -126,13 +105,13 @@
     },
     {
       "surface": "יושב",
-      "gloss": "gyvenančiam"
+      "gloss": "gyveno"
     },
     {
       "surface": "בחשבון",
       "gloss": "Chešbone"
     }
   ],
-  "timestamp": "2026-10-20T05:41:51.037486295Z",
+  "timestamp": "2026-10-20T12:16:49.814630566Z",
   "model": "glm-5.3"
 }

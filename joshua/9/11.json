@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרתו ברית",
-      "rationale": "Pažodžiui 'atkirpkite sandorą' — hebrajiškas idiomas sandorai sudaryti"
-    },
-    {
-      "kind": "addition",
-      "subject": "esame",
-      "rationale": "Lietuvių kalbai reikalinga sąsaja, hebrajų jos neturi"
-    },
-    {
-      "kind": "you",
-      "subject": "gibeoniečiai Jozuei",
-      "rationale": "Melagingas prašymas sudaryti sandorą, kreipimasis su imperatyvais"
-    }
-  ],
-  "translation": "Ir mūsų vyresnieji ir visi mūsų šalies gyventojai kalbėjo mums, sakydami: Imkite į rankas kelionei maisto ir eikite jų pasitikti, ir pasakykite jiems: Mes esame jūsų tarnai; dabar tad sudarykite su mumis sandorą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "08236b928cd720f70629bdb690d9f9a3bd4b6a9b8d1ffcd1a05f88906a240676",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/9\/9-12.1792475793906.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir mums tarė mūsų vyresnieji ir visi mūsų krašto gyventojai, sakydami: Imkite į rankas savo maisto kelionei ir eikite jų pasitikti, ir pasakykite jiems: Mes ⟨esame⟩ jūsų tarnai; tad dabar sudarykite su mumis sandorą.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ir kalbėjo"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אלינו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ארצנו",
-      "gloss": "mūsų šalies"
+      "gloss": "mūsų krašto"
     },
     {
       "surface": "לאמר",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "בידכם",
-      "gloss": "į rankas"
+      "gloss": "į rankas savo"
     },
     {
       "surface": "צידה",
@@ -103,10 +77,10 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "dabar"
+      "gloss": "tad dabar"
     },
     {
-      "surface": "כרתuo",
+      "surface": "כרתו",
       "gloss": "sudarykite"
     },
     {
@@ -118,6 +92,6 @@
       "gloss": "sandorą"
     }
   ],
-  "timestamp": "2026-10-20T05:56:33.916072877Z",
+  "timestamp": "2026-10-20T12:35:47.979480649Z",
   "model": "glm-5.3"
 }

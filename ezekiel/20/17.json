@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עיני חסה",
-      "rationale": "Hebraizmas 'mano akis pasigailėjo' — akis veikia kaip subjektas, išlaikyta pažodžiui."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pasigailėjo",
-      "rationale": "חס reiškia 'dengti, gailestingai pažvelgti'; pasirinktas gailestį perduodantis veiksmažodis."
-    }
-  ],
-  "translation": "Ir mano akis pasigailėjo jų, jų naikinimo ⟨nepadarius⟩, ir nepadariau jų pabaigos dykumoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/17-20.1792484318709.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir mano akis pasigailėjo jų, kad jų nesunaikinčiau, ir nepadarčiau ⟨את⟩ jų pilnos pabaigos dykumoje.",
   "tokens": [
     {
       "surface": "ותחס",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "משחתם",
-      "gloss": "jų naikinimo"
+      "gloss": "kad jų nesunaikinčiau"
     },
     {
       "surface": "ולא",
@@ -54,18 +33,18 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "pabaigos"
+      "gloss": "⟨את⟩",
+      "marks": "jų"
     },
     {
       "surface": "כלה",
-      "gloss": "pabaigos"
+      "gloss": "pilnos pabaigos"
     },
     {
       "surface": "במדבר",
       "gloss": "dykumoje"
     }
   ],
-  "timestamp": "2026-10-20T08:18:38.710012900Z",
+  "timestamp": "2026-10-20T12:21:20.609638341Z",
   "model": "glm-5.3"
 }

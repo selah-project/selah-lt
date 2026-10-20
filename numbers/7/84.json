@@ -5,45 +5,19 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "pridėta jungtis, kurios hebrajų kalba neturi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "chanukat",
-      "rationale": "חנוכת — įvedimo\/paskyrimo dovana; laikoma vienu žodžiu su 'dovana'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "indų sąrašas",
-      "rationale": "skaičiuojami indai: trys rūšys po dvylika."
-    }
-  ],
-  "translation": "Tai ⟨buvo⟩ aukštaro paskyrimo dovana dieną, kai jis buvo pateptas, ⟨את⟩ jį ⟨את⟩ iš Jisraelio vadų: dvylika sidabrinių dubenų, dvylika sidabrinių taurių, dvylika auksinių saujų;",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6d14fdc16a5dee2df0b4a43c9715d077bfbced8322bcc9ba8c687a688def0d81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/81-84.1792474051881.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tai buvo aukuro pašventinimas dieną, kai jis buvo pateptas, ⟨את⟩ iš Jisraelio kunigaikščių: sidabrinių dubenų dvylika, sidabrinių šlakstinimo dubenų dvylika, aukso lėkščių dvylika.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "tai"
+      "gloss": "Tai"
     },
     {
       "surface": "חנכת",
-      "gloss": "paskyrimo dovana"
+      "gloss": "pašventinimas"
     },
     {
       "surface": "המזבח",
-      "gloss": "aukštaro"
+      "gloss": "aukuro"
     },
     {
       "surface": "ביום",
@@ -51,11 +25,12 @@
     },
     {
       "surface": "המשח",
-      "gloss": "kai buvo pateptas"
+      "gloss": "buvo pateptas"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "jis (aukuras)"
     },
     {
       "surface": "מאת",
@@ -63,7 +38,7 @@
     },
     {
       "surface": "נשיאי",
-      "gloss": "vadų"
+      "gloss": "kunigaikščių"
     },
     {
       "surface": "ישראל",
@@ -71,7 +46,7 @@
     },
     {
       "surface": "קערת",
-      "gloss": "dubenų"
+      "gloss": "sidabrinių dubenų"
     },
     {
       "surface": "כסף",
@@ -83,11 +58,11 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "dvylika"
     },
     {
       "surface": "מזרקי",
-      "gloss": "taurių"
+      "gloss": "šlakstinimo dubenų"
     },
     {
       "surface": "כסף",
@@ -99,15 +74,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "dvylika"
     },
     {
       "surface": "כפות",
-      "gloss": "saujų"
+      "gloss": "lėkščių"
     },
     {
       "surface": "זהב",
-      "gloss": "auksinių"
+      "gloss": "aukso"
     },
     {
       "surface": "שתים",
@@ -115,9 +90,9 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "dvylika"
     }
   ],
-  "timestamp": "2026-10-20T05:27:31.883320378Z",
+  "timestamp": "2026-10-20T12:42:22.342923960Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לצמיתת",
-      "rationale": "„iškirpimui\/amžinai atkirstam“ — verčiama „visiems laikams“ arba „atkirto teisę“; hapax pasižyminti šaknis"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לא־חמה",
-      "rationale": "Ket tekstas sakytų „kuriame nėra sienos“, bet kontekstas reikalauja „kuriame yra siena“; vienas žodis לא čia atrodo klaida ar korekcija"
-    }
-  ],
-  "translation": "O jei jis neišperka, kol jam nepraeina pilnas metai, tai namas, kuris yra mieste, kuriame yra siena, įsitvirtina visiems laikams pirkėjui ⟨את⟩ jį, jo kartoms; jis neišeis per jobelio metus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c51166ecc0b254d6dc64ec525c22a27ccdcbc0e686a679132a3c4e60bcd0ec84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/29-32.1792473665261.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jeigu ⟨jis⟩ nebus išpirktas iki jam sueis pilnas metai, tai namas, kuris ⟨yra⟩ mieste, kuris neturi sienos, ⟨yra patvirtintas⟩ visiems laikams pirkėjui — ⟨את⟩ jį ir jo kartoms; jis neišeis jubejaus metais.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "o jei"
+      "gloss": "ir jeigu"
     },
     {
       "surface": "לא",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "יגאל",
-      "gloss": "išperka"
+      "gloss": "bus išpirktas"
     },
     {
       "surface": "עד",
-      "gloss": "kol"
+      "gloss": "iki"
     },
     {
       "surface": "מלאת",
-      "gloss": "nepraeina"
+      "gloss": "sueis"
     },
     {
       "surface": "לו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "וקם",
-      "gloss": "įsitvirtina"
+      "gloss": "ir ⟨yra patvirtintas⟩"
     },
     {
       "surface": "הבית",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriame"
+      "gloss": "kuris"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "ne"
     },
     {
       "surface": "חמה",
-      "gloss": "yra siena"
+      "gloss": "turi sieną"
     },
     {
       "surface": "לצמיתת",
@@ -99,7 +78,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį"
+      "marks": "jį ir jo kartoms (לדרתיו)"
     },
     {
       "surface": "לדרתיו",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "ביבל",
-      "gloss": "per jobelio metus"
+      "gloss": "jubejaus metais"
     }
   ],
-  "timestamp": "2026-10-20T05:21:05.265353152Z",
+  "timestamp": "2026-10-20T12:39:10.635865094Z",
   "model": "glm-5.3"
 }

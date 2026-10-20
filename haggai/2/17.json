@@ -5,45 +5,24 @@
   "book": "haggai",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואין אתכם אלי",
-      "rationale": "Pažodžiui 'ir nėra jūsų pas mane' — dauguma verčia 'jūs negrįžote pas mane', nors žodis 'grįžti' hebrajiškai nėra."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvė tautai",
-      "rationale": "Jahvė kreipiasi į tautą per Hagajų, apibūdindama praeities bausmes."
-    }
-  ],
-  "translation": "Nudaliau jus žaibiniu ir geltonuoju puvinimu bei kruša — ⟨את⟩ visą jūsų rankų darbą, ir ⟨buvo⟩ jūsų, kurie ⟨grįžote⟩ pas mane, nė vieno — sako Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/haggai\/2\/17-20.1792487056244.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aš jus skyriau ⟨את⟩: ūkanos išbalinimu ir sausra, ir kruša — ⟨את⟩ visus jūsų rankų darbus, ir ⟨את⟩ jūsų ⟨pasisukimo⟩ pas mane nebuvo, sako Jahvė.",
   "tokens": [
     {
       "surface": "הכיתי",
-      "gloss": "nudaliau"
+      "gloss": "skyriau"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus",
+      "gloss": "⟨את⟩",
       "marks": "jus"
     },
     {
       "surface": "בשדפון",
-      "gloss": "žaibiniu"
+      "gloss": "ūkanos išbalinimu"
     },
     {
       "surface": "ובירקון",
-      "gloss": "ir geltonuoju puvinimu"
+      "gloss": "ir sausra"
     },
     {
       "surface": "ובברד",
@@ -52,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visą jūsų rankų darbą"
+      "marks": "visus jūsų rankų darbus"
     },
     {
       "surface": "כל",
-      "gloss": "visą"
+      "gloss": "visus"
     },
     {
       "surface": "מעשה",
-      "gloss": "darbą"
+      "gloss": "darbus"
     },
     {
       "surface": "ידיכם",
@@ -68,11 +47,12 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ir nėra"
+      "gloss": "ir nebuvo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūsų"
+      "gloss": "⟨את⟩",
+      "marks": "jūsų"
     },
     {
       "surface": "אלי",
@@ -87,6 +67,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T09:04:16.246172432Z",
+  "timestamp": "2026-10-20T12:27:17.493803230Z",
   "model": "glm-5.3"
 }

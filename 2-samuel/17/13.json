@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חבלים",
-      "rationale": "Virvės vs 'sritys\/apsupa' — čia hiperbolė: visas Jisraelis velka miestą virvėmis į slėnį."
-    },
-    {
-      "kind": "crux",
-      "subject": "הנחל",
-      "rationale": "'Upelis\/žiemos torrentas' (KJV 'river') vs 'slėnis' (JPS) — naḥal turi abu reikšimus."
-    },
-    {
-      "kind": "substitution",
-      "subject": "צרור",
-      "rationale": "Pažodžiui 'surištas ryšulys\/akelė' — čia 'mažiausias akmenuko gabalėlis', hiperbolė."
-    }
-  ],
-  "translation": "O jeigu jis susirinks į kokį miestą, visas Jisraelis atneš virvių prie to miesto, ir nutempsime ⟨את⟩ jį iki slėnio, kol ten nebus rasta nė ⟨akmenuko⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/13-16.1792478449717.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jeigu jis susirinks į kokį miestą, tai visas Jisraelis neš virves prie to miesto, ir mes nutempsime ⟨את⟩ jį iki vagos, kol ten nebus rasta nė akmenuko.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "O jeigu"
+      "gloss": "ir jeigu"
     },
     {
       "surface": "אל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "והשיאו",
-      "gloss": "atneš"
+      "gloss": "neš virves"
     },
     {
       "surface": "כל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "חבלים",
-      "gloss": "virvių"
+      "gloss": "virves"
     },
     {
       "surface": "וסחבנו",
@@ -84,7 +58,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį (tą miestą)"
+      "marks": "jį (miestą)"
     },
     {
       "surface": "עד",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "הנחל",
-      "gloss": "slėnio"
+      "gloss": "vagos"
     },
     {
       "surface": "עד",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "לא",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "צרור",
-      "gloss": "akmenukas"
+      "gloss": "akmenuko"
     }
   ],
-  "timestamp": "2026-10-20T06:40:49.719455816Z",
+  "timestamp": "2026-10-20T12:13:47.283733630Z",
   "model": "glm-5.3"
 }

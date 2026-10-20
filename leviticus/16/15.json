@@ -5,40 +5,24 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "su juo",
-      "rationale": "lietuvių kalbai reikia prielinksnio, hebrajiškas את tiesiog rodo objektą"
-    }
-  ],
-  "translation": "Ir papjauks ⟨את⟩ nuodėmės ožį, kuris ⟨yra⟩ už tautą, ir įneš jo kraują už uždangos, ir padarys su juo, kaip padarė su jaučio krauju, ir pasės ⟨את⟩ jį ant sutaikinimo dangties ir priešais sutaikinimo dangtį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/16\/13-16.1792473524960.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir skers ⟨את⟩ ožį-įkaltį, kuris ⟨yra⟩ už tautą, paaukos, ir atneš ⟨את⟩ jo kraują už uždangos į vidų, ir elgsis su ⟨את⟩ jo krauju, kaip elgėsi su jaučio krauju, ir pašlakstys ⟨את⟩ jį ant sūkovimo dangčio ir priešais sūkovimo dangtį.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "ir papjauks"
+      "gloss": "ir paaukos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nuodėmės ožį"
+      "marks": "ožį-įkaltį"
     },
     {
       "surface": "שעיר",
-      "gloss": "ožį"
+      "gloss": "ožį-įkaltį"
     },
     {
       "surface": "החטאת",
-      "gloss": "nuodėmės"
+      "gloss": "įkaltis"
     },
     {
       "surface": "אשר",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "והביא",
-      "gloss": "ir įneš"
+      "gloss": "ir atneš"
     },
     {
       "surface": "את",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "vidun \/ už"
+      "gloss": "vidun"
     },
     {
       "surface": "לפרכת",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "ir padarys"
+      "gloss": "ir elgsis"
     },
     {
       "surface": "את",
@@ -92,7 +76,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "padarė"
+      "gloss": "elgėsi"
     },
     {
       "surface": "לדם",
@@ -104,12 +88,12 @@
     },
     {
       "surface": "והזה",
-      "gloss": "ir pasės"
+      "gloss": "ir pašlakstys"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ jį",
-      "marks": "kraują"
+      "marks": "jį (kraują)"
     },
     {
       "surface": "על",
@@ -117,7 +101,7 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "sutaikinimo dangties"
+      "gloss": "sūkovimo dangčio"
     },
     {
       "surface": "ולפני",
@@ -125,9 +109,9 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "sutaikinimo dangtį"
+      "gloss": "sūkovimo dangtį"
     }
   ],
-  "timestamp": "2026-10-20T05:18:44.964185472Z",
+  "timestamp": "2026-10-20T12:38:37.364656196Z",
   "model": "glm-5.3"
 }

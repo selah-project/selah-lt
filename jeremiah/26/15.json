@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ידע תדעו",
-      "rationale": "padvigubintas veiksmažodis 'žinodami žinokite' — hebrajiškas stiprinimas, iš dalies prarastas"
-    },
-    {
-      "kind": "idiom",
-      "subject": "kraują duoti ant",
-      "rationale": "נתן דם על — pažodžiui 'dėti kraują ant' reiškia 'prisiimti kaltę dėl kraujo'"
-    },
-    {
-      "kind": "you",
-      "subject": "kunigaikščiams ir tautai",
-      "rationale": "Jeremijas tiesiogiai įspėja teisėjus dėl nekalto kraujo"
-    }
-  ],
-  "translation": "Bet tikrai žinokite, kad jeigu mane nužudysite, tai nekaltą kraują jūs užsitrauksite ant savęs, ir ant šio miesto, ir ant jo gyventojų, nes iš tiesų Jahvė siuntė mane pas jus kalbėti į jūsų ausis ⟨את⟩ visus šiuos žodžius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/13-16.1792482836033.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tačiau tikrai žinokite, kad jei nužudysite ⟨את⟩ mane, tai nekaltą kraują jūs dedate ant savęs, ir ant šio miesto, ir ant jo gyventojų, nes iš tiesų Jahvė siuntė mane pas jus, kad kalbėčiau į jūsų ausis ⟨את⟩ visus šiuos žodžius.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "bet"
+      "gloss": "tačiau"
     },
     {
       "surface": "ידע",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeigu"
+      "gloss": "jei"
     },
     {
       "surface": "ממתים",
@@ -64,7 +38,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mane"
+      "marks": "mane — Jeremiją"
     },
     {
       "surface": "כי",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "užsitrauksite"
+      "gloss": "dedate"
     },
     {
       "surface": "עליכם",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "kalbėti"
+      "gloss": "kad kalbėčiau"
     },
     {
       "surface": "באזניכם",
@@ -149,13 +123,13 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "žodžius"
+      "gloss": "šiuos žodžius"
     },
     {
       "surface": "האלה",
       "gloss": "šiuos"
     }
   ],
-  "timestamp": "2026-10-20T07:53:56.035029663Z",
+  "timestamp": "2026-10-20T12:30:14.763186184Z",
   "model": "glm-5.3"
 }

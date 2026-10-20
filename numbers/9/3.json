@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tarp vakarų",
-      "rationale": "בין הערבים — pažodžiui 'tarp vakarų': popietė ar sutemų metas; LXX 'vakare', rabai — nuo vidurdienio."
-    },
-    {
-      "kind": "measurement",
-      "subject": "data",
-      "rationale": "Keturiolikta šio mėnesio diena — tiksli pesacho data."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תעשו ... אתו",
-      "rationale": "Veiksmažodžio kartojimas — tas pys עשה su אתו du kartus — formulinis pakartojimas."
-    }
-  ],
-  "translation": "Keturioliktąją šio mėnesio dieną, tarp vakarų, jūs jį atliksite jo paskirtu laiku; pagal visas jo statutes ir pagal visus jo teisius jūs jį atliksite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/9\/1-4.1792474101069.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Keturioliktąją šio mėnesio dieną, tarp vakarų, jūs padarysite ⟨את⟩ jį jo nustatytu metu; pagal visas jo čukot ir pagal visus jo teismus jūs padarysite ⟨את⟩ jį.",
   "tokens": [
     {
       "surface": "בארבעה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "-iolika"
+      "gloss": "keturioliktąją"
     },
     {
       "surface": "יום",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "jūs atliksite"
+      "gloss": "jūs padarysite"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "pesachą"
+      "gloss": "⟨את⟩",
+      "marks": "jį — jo nustatytu metu (pesachą)"
     },
     {
       "surface": "במועדו",
-      "gloss": "jo paskirtu laiku"
+      "gloss": "jo nustatytu metu"
     },
     {
       "surface": "ככל",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "חקתיו",
-      "gloss": "jo statutes"
+      "gloss": "jo čukot"
     },
     {
       "surface": "וככל",
@@ -88,18 +62,18 @@
     },
     {
       "surface": "משפטיו",
-      "gloss": "jo teisius"
+      "gloss": "jo teismus"
     },
     {
       "surface": "תעשו",
-      "gloss": "jūs atliksite"
+      "gloss": "jūs padarysite"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "pesachą"
+      "gloss": "⟨את⟩",
+      "marks": "jį (pesachą, numanomą iš 9,2)"
     }
   ],
-  "timestamp": "2026-10-20T05:28:21.070802378Z",
+  "timestamp": "2026-10-20T12:42:29.688339882Z",
   "model": "glm-5.3"
 }

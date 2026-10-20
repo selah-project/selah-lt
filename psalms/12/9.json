@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "זֻלּוּת",
-      "rationale": "Retas žodis, greičiausiai „niekingumas“; kiti skaito „pūga“ arba „pigumas“."
-    },
-    {
-      "kind": "crux",
-      "subject": "כְּרֻם זֻלּוּת",
-      "rationale": "„kai niekingumas išaukštinamas“ — passyvas be nurodyto veikėjo; alternatyva: „kaip vileness“ lyginimo atveju."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יתהלכון",
-      "rationale": "Intensyvi reflexyvioji forma — „vaikštinėja \/ sukinėjasi“ be perstojo."
-    }
-  ],
-  "translation": "Aplink niekšeliai vaikščioja visuomet, kai niekingumas išaukštinamas žmonių vaikų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/12\/9-9.1792487463724.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aplink nepravedieji vaikščiojo aplink, kai tarp žmonių vaikų išaukštinama menkavertybė.",
   "tokens": [
     {
       "surface": "סביב",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "niekšeliai"
+      "gloss": "nepravedieji"
     },
     {
       "surface": "יתהלכון",
-      "gloss": "vaikščioja visuomet"
+      "gloss": "vaikščiojo aplink"
     },
     {
       "surface": "כרם",
@@ -51,13 +25,17 @@
     },
     {
       "surface": "זלות",
-      "gloss": "niekingumas"
+      "gloss": "menkavertybė"
     },
     {
       "surface": "לבני",
-      "gloss": "žmonių vaikų"
+      "gloss": "vaikų"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "žmonių"
     }
   ],
-  "timestamp": "2026-10-20T09:11:03.725344214Z",
+  "timestamp": "2026-10-20T12:43:31.036556213Z",
   "model": "glm-5.3"
 }

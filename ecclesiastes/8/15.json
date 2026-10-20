@@ -5,32 +5,11 @@
   "book": "ecclesiastes",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrajų 'nes jei' = lietuvių 'tik, išskyrus' — sudėtinis jungtukas verčiamas vienu žodžiu."
-    },
-    {
-      "kind": "crux",
-      "subject": "ילונו",
-      "rationale": "Nuo לוה 'susijungti, lydėti': KJV 'abide with him' vs kai kurie 'jis praleis' — čia 'lydės'."
-    }
-  ],
-  "translation": "Ir aš šlovinau ⟨את⟩ džiaugsmą, kad nėra žmogui gero po saule, tik valgyti ir gerti bei džiaugtis, ir tai lydės jį per jo triūsą visas jo gyvenimo dienas, kurias Elohim davė jam po saule.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b34b3f6b96028f72fdfca2a4921ca172a67a104a88da4a1c11921abdf2c6750d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/8\/13-16.1792491372062.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš pagiriau ⟨את⟩ džiaugsmą, nes nėra žmogui gero po saule, nieko kito, tik valgyti ir gerti ir džiaugtis, ir tai lydės jį jo vargo dienas, gyvenimo dienas, kurias Elohim davė jam po saule.",
   "tokens": [
     {
       "surface": "ושבחתי",
-      "gloss": "ir šlovinau"
+      "gloss": "ir aš pagiriau"
     },
     {
       "surface": "אני",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tik"
+      "gloss": "nes"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "nieko kito, tik"
     },
     {
       "surface": "לאכול",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ולשמוח",
-      "gloss": "bei džiaugtis"
+      "gloss": "ir džiaugtis"
     },
     {
       "surface": "והוא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "בעמלו",
-      "gloss": "per jo triūsą"
+      "gloss": "jo vargo"
     },
     {
       "surface": "ימי",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "חייו",
-      "gloss": "jo gyvenimo"
+      "gloss": "gyvenimo"
     },
     {
       "surface": "אשר",
@@ -134,6 +113,6 @@
       "gloss": "saule"
     }
   ],
-  "timestamp": "2026-10-20T10:16:12.064318659Z",
+  "timestamp": "2026-10-20T12:17:44.452405285Z",
   "model": "glm-5.3"
 }

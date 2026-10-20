@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בעפלים",
-      "rationale": "„augliai\/navikai“ arba „apyvarpos išvarpos“ — senos versijos: emerodai (išangės augliai) prieš navikus"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "prieleidžiamoji dalelytė neturi atskiro žodžio lietuviškai, jos funkcija perteikta linksniu"
-    }
-  ],
-  "translation": "Ir tapo sunki Jahvės ranka asdodiečiams, ir juos nusiaubė, ir trenkė juos ⟨את⟩ augliais ⟨את⟩ Asdodą ir ⟨את⟩ jos ribas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/5\/5-8.1792477123631.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir sunki tapo Jahvės ranka ant ašdodiečių, ir jas nuniokojo, ir trenkė ⟨את⟩ juos vardiniu augliu — ⟨את⟩ Ašdodą ir ⟨את⟩ jos sienas.",
   "tokens": [
     {
       "surface": "ותכבד",
-      "gloss": "ir tapo sunki"
+      "gloss": "ir sunki tapo"
     },
     {
       "surface": "יד",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "האשדודים",
-      "gloss": "asdodiečiams"
+      "gloss": "ašdodiečių"
     },
     {
       "surface": "וישמם",
-      "gloss": "ir nusiaubė"
+      "gloss": "ir nuniokojo jas"
     },
     {
       "surface": "ויך",
@@ -58,31 +37,32 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩ juos",
+      "marks": "vardiniai augliai (בעפלים)"
     },
     {
       "surface": "בעפלים",
-      "gloss": "augliais"
+      "gloss": "vardiniais augliais"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Asdodą"
+      "marks": "Ašdodą"
     },
     {
       "surface": "אשדוד",
-      "gloss": "Asdodą"
+      "gloss": "Ašdodą"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jos ribas"
+      "marks": "jos sienas"
     },
     {
       "surface": "גבוליה",
-      "gloss": "jos ribas"
+      "gloss": "jos sienas"
     }
   ],
-  "timestamp": "2026-10-20T06:18:43.632405170Z",
+  "timestamp": "2026-10-20T12:09:28.453722807Z",
   "model": "glm-5.3"
 }

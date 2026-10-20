@@ -5,28 +5,7 @@
   "book": "lamentations",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ragą",
-      "rationale": "קרן 'ragas' — galios simbolis; 'iškelti ragą' = išaukštinti galią"
-    },
-    {
-      "kind": "crux",
-      "subject": "מימי קדם",
-      "rationale": "'nuo senų dienų' vs 'nuo amžių priekio' — קדם reiškia ir 'rytus', ir 'senovę'"
-    }
-  ],
-  "translation": "Padarė Jahvė, ką buvo sumanęs, įvykdė savo žodį, kurį įsakė nuo senų dienų; sugriovė ir nepagailėjo, ir pavedžiojo priešą džiaugsmu virš tavęs, iškėlė ragą tavo priešininkų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "13cb371b29f9272157f600113cf8dea5bffccb387d8747d72a61f4b7426704ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/lamentations\/2\/17-20.1792491143415.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Padarė Jahvė, ką sumanė, įvykdė savo žodį, kurį įsakė senų dienų dienomis: sugriovė ir nepagailėjo, ir pradžiugino tavo priešą, iškėlė ragą tavo priešininkų.",
   "tokens": [
     {
       "surface": "עשה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "זמם",
-      "gloss": "buvo sumanęs"
+      "gloss": "sumanė"
     },
     {
       "surface": "בצע",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "מימי",
-      "gloss": "dienuose"
+      "gloss": "dienų"
     },
     {
       "surface": "קדם",
@@ -73,20 +52,20 @@
       "gloss": "sugriovė"
     },
     {
-      "surface": "וloא",
-      "gloss": "ir ne"
+      "surface": "ולא",
+      "gloss": "ir nepagailėjo"
     },
     {
       "surface": "חמל",
-      "gloss": "pagailėjo"
+      "gloss": ""
     },
     {
       "surface": "וישמח",
-      "gloss": "ir sudžiugino"
+      "gloss": "ir pradžiugino"
     },
     {
       "surface": "עליך",
-      "gloss": "virš tavęs"
+      "gloss": "tavo"
     },
     {
       "surface": "אויב",
@@ -105,6 +84,6 @@
       "gloss": "tavo priešininkų"
     }
   ],
-  "timestamp": "2026-10-20T10:12:23.415998651Z",
+  "timestamp": "2026-10-20T12:37:24.490770883Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajiškame tekste nėra veiksmažodžio jungties"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dešimtoji efos dalis",
-      "rationale": "Minchos kiekis nurodytas tiksliai — dešimtoji efos, padalyta į dvi puses"
-    },
-    {
-      "kind": "substitution",
-      "subject": "korbanas",
-      "rationale": "קרבן pažodžiui 'tai, kas priartėja' — auka, prinešama prie aukuro"
-    }
-  ],
-  "translation": "Šis ⟨yra⟩ korbanas Aharono ir jo sūnų, kurį jie prineša Jahvei dieną, kai jis yra patepamas: dešimtoji efos dalis smulkių miltų — mincha nuolatinė; pusė jos ryte ir pusė jos vakare.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/13-16.1792473199642.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šitas ⟨yra⟩ korbanas Aharono ir jo sūnų, kurį jie aukoja Jahvei dieną, kai jis yra patepamas: dešimtoji efa dalis smulkių miltų — mincha nuolatinė, pusė jos ryte ir pusė jos vakare.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "šis"
+      "gloss": "Šitas"
     },
     {
       "surface": "קרבן",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "יקריבו",
-      "gloss": "jie prineša"
+      "gloss": "jie aukoja"
     },
     {
       "surface": "ליהוה",
@@ -67,12 +41,12 @@
     },
     {
       "surface": "המשח",
-      "gloss": "kai yra patepamas"
+      "gloss": "kai jis yra patepamas"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "dešimtoji efos dalis miltų"
+      "gloss": "⟨את⟩",
+      "marks": "dešimtoji efa dalis"
     },
     {
       "surface": "עשירת",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "האפה",
-      "gloss": "efos"
+      "gloss": "efa"
     },
     {
       "surface": "סלת",
@@ -111,6 +85,6 @@
       "gloss": "vakare"
     }
   ],
-  "timestamp": "2026-10-20T05:13:19.644516433Z",
+  "timestamp": "2026-10-20T12:39:10.104227037Z",
   "model": "glm-5.3"
 }

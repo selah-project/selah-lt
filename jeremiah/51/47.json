@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aplankysiu",
-      "rationale": "פקד 'aplankyti' su teismo sau — pažodžiui apsilankymas, čia baudžiamasis"
-    },
-    {
-      "kind": "substitution",
-      "subject": "išdrožinius",
-      "rationale": "פסיל — išdrožtas daiktas, vizualinė forma, ne tiesiog 'stabai'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dienos ateina",
-      "rationale": "nustatytas laikas — 'dienos ateina' kaip paskirtas matas"
-    }
-  ],
-  "translation": "Todėl štai ateina dienos, kai aplankysiu Babilono išdrožinius, ir visa jos šalis gėdysis, ir visi jos nukautieji kris jos viduryje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "41683d93fd285dc3c3c82ccec9514e66dd74b9de66325b1b0e2692b7cdfe438e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/51\/45-48.1792483806410.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl štai — ateina dienos, ir Aplankysiu ⟨את⟩ Babelio drožinius, ir visa jos žemė gėdysis, ir visi jos pervertieji kris jos viduryje.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "todėl"
+      "gloss": "Todėl"
     },
     {
       "surface": "הנה",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "ופקדתי",
-      "gloss": "ir aplankysiu"
+      "gloss": "ir Aplankysiu"
     },
     {
       "surface": "על",
-      "gloss": "prieš"
+      "gloss": "ant"
     },
     {
       "surface": "פסילי",
-      "gloss": "išdrožinius"
+      "gloss": "drožinius"
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "וכל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "jos šalis"
+      "gloss": "jos žemė"
     },
     {
       "surface": "תבוש",
@@ -82,8 +56,8 @@
       "gloss": "ir visi"
     },
     {
-      "surface": "חלALיה",
-      "gloss": "jos nukautieji"
+      "surface": "חלליה",
+      "gloss": "jos pervertieji"
     },
     {
       "surface": "יפלו",
@@ -94,6 +68,6 @@
       "gloss": "jos viduryje"
     }
   ],
-  "timestamp": "2026-10-20T08:10:06.412708940Z",
+  "timestamp": "2026-10-20T12:32:32.391239486Z",
   "model": "glm-5.3"
 }

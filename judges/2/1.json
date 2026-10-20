@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הבכים",
-      "rationale": "Vietos vardas Bokimas reiškia „verkiantys“ — tas pats šaknies žodis, kuris skambės 2 eilutės 4 pastraipoje (ויבכו) — žodžių žaismas prarastas."
-    },
-    {
-      "kind": "crux",
-      "subject": "אעלה",
-      "rationale": "Hebrajiškas yra netobula„aš keliau“ — JPS „I made you to go up“, kitur perfektas — laikas neaiškus."
-    },
-    {
-      "kind": "you",
-      "subject": "pasakymas",
-      "rationale": "Pasiuntinys tiesiogiai kalba Jisraelio tautai."
-    }
-  ],
-  "translation": "Ir pakilo Jahvės pasiuntinys nuo Gilgalo link Bokimo ir tarė: Aš išvedžiau ⟨את⟩ jus iš Micraimo ir atvedžiau ⟨את⟩ jus į žemę, kurią prisiekiau jūsų tėvams, ir pasakiau: Nesulaužysiu savo sandoros su jumis per amžius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/2\/1-4.1792476336857.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pakilo Jahvės malachas iš Gilgalo į Bokimą, ir tarė: Aš išvedžiau ⟨את⟩ jus iš Micraimo ir atvedžiau ⟨את⟩ jus į žemę, kurią prisiekiau jūsų tėvams, ir tariau: nesulaužysiu savo sandoros ⟨את⟩ su jumis per amžius.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "pakilo"
+      "gloss": "ir pakilo"
     },
     {
       "surface": "מלאך",
-      "gloss": "pasiuntinys"
+      "gloss": "malachas"
     },
     {
       "surface": "יהוה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "nuo"
+      "gloss": "iš"
     },
     {
       "surface": "הגלגל",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "link"
+      "gloss": "į"
     },
     {
       "surface": "הבכים",
-      "gloss": "Bokimo"
+      "gloss": "Bokimą"
     },
     {
       "surface": "ויאמר",
@@ -71,8 +45,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "iš Micraimo (jus)"
     },
     {
       "surface": "ממצרים",
@@ -84,8 +58,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "į žemę (jus)"
     },
     {
       "surface": "אל",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "ir pasakiau"
+      "gloss": "ir tariau"
     },
     {
       "surface": "לא",
@@ -125,14 +99,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "su jumis"
+      "gloss": "⟨את⟩ su jumis"
     },
     {
       "surface": "לעולם",
       "gloss": "per amžius"
     }
   ],
-  "timestamp": "2026-10-20T06:05:36.858516117Z",
+  "timestamp": "2026-10-20T12:36:38.601051916Z",
   "model": "glm-5.3"
 }

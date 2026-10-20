@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajiškame tekste nėra veiksmažodžio — pridedama sajunga, nes lietuvių kalbai reikia sakinio"
-    },
-    {
-      "kind": "substitution",
-      "subject": "plišietis",
-      "rationale": "פלשתי — plišietis, ne „filistinas“"
-    }
-  ],
-  "translation": "Ir kai Davidas grįžo nukovęs ⟨את⟩ plištiečio, Avneris paėmė jį ir atvedė jį priešais Šaulių — o galva plištiečio ⟨buvo⟩ jo rankoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/57-58.1792477413506.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kai Davidas grįžo nukovęs ⟨את⟩ plištį, Avneris paėmė ⟨את⟩ jį ir atvedė jį priešais Šaulių — o pliščio galva ⟨buvo⟩ jo rankoje.",
   "tokens": [
     {
       "surface": "וכשוב",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "plištiečio"
+      "marks": "plištį"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "plištiečio"
+      "gloss": "plištį"
     },
     {
       "surface": "ויקח",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
+      "gloss": "⟨את⟩",
       "marks": "jį (Davidą)"
     },
     {
@@ -76,17 +55,17 @@
     },
     {
       "surface": "וראש",
-      "gloss": "ir galva"
+      "gloss": "o galva"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "plištiečio"
+      "gloss": "pliščio"
     },
     {
       "surface": "בידו",
       "gloss": "jo rankoje"
     }
   ],
-  "timestamp": "2026-10-20T06:23:33.520912249Z",
+  "timestamp": "2026-10-20T12:08:07.459350445Z",
   "model": "glm-5.3"
 }

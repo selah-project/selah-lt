@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "taikingi",
-      "rationale": "šלמים pažodžiui 'svetimi\/balansuojantys' — pilni, nepriešiški; 'taikingi' yra vaidmens vertimas"
-    },
-    {
-      "kind": "idiom",
-      "subject": "plati rankų atžvilgiu",
-      "rationale": "רחבת ידים pažodžiui 'plati rankomis' — idiomа 'erdvi, gausi'"
-    }
-  ],
-  "translation": "Šie vyrai taikingi jie ⟨את⟩ mumis; te gyvena krašte ir prekiauja ⟨את⟩ ju; o žemė — štai plati rankų atžvilgiu prieš juos; jų dukteris imsime sau už žmonas, o savo dukteris atiduosime jiems.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "23860be52fcba231d83b894d1860d109c6890593c93c0c1549e60c6c94b6adef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/34\/21-24.1792471768438.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šie vyrai taikūs ⟨yra⟩ pas mus — tegul jie gyvena krašte ir jame prekiauja ⟨את⟩ jį; o kraštas — štai platus rankoms jų akivaizdoje; ⟨את⟩ jų dukteris imsime sau žmonomis ir ⟨את⟩ savo dukteris atiduosime jiems.",
   "tokens": [
     {
       "surface": "האנשים",
-      "gloss": "vyrai"
+      "gloss": "šie vyrai"
     },
     {
       "surface": "האלה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "שלמים",
-      "gloss": "taikingi"
+      "gloss": "taikūs"
     },
     {
       "surface": "הם",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ mumis"
+      "gloss": "⟨את⟩ pas mus"
     },
     {
       "surface": "וישבו",
-      "gloss": "te gyvena"
+      "gloss": "tegul jie gyvena"
     },
     {
       "surface": "בארץ",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "ויסחרו",
-      "gloss": "ir prekiauja"
+      "gloss": "prekiauja"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ju — žemę"
+      "marks": "jį (kraštą)"
     },
     {
       "surface": "והארץ",
-      "gloss": "o žemė"
+      "gloss": "o kraštas"
     },
     {
       "surface": "הנה",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "רחבת",
-      "gloss": "plati"
+      "gloss": "platus"
     },
     {
       "surface": "ידים",
-      "gloss": "rankų"
+      "gloss": "rankoms"
     },
     {
       "surface": "לפניהם",
-      "gloss": "prieš juos"
+      "gloss": "jų akivaizdoje"
     },
     {
       "surface": "את",
@@ -104,16 +83,16 @@
     },
     {
       "surface": "לנשים",
-      "gloss": "už žmonas"
+      "gloss": "žmonomis"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "mūsų dukteris"
+      "marks": "savo dukteris"
     },
     {
       "surface": "בנתינו",
-      "gloss": "mūsų dukteris"
+      "gloss": "savo dukteris"
     },
     {
       "surface": "נתן",
@@ -124,6 +103,6 @@
       "gloss": "jiems"
     }
   ],
-  "timestamp": "2026-10-20T04:49:28.442129700Z",
+  "timestamp": "2026-10-20T12:25:49.028821522Z",
   "model": "glm-5.3"
 }

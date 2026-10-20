@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨kažkas⟩",
-      "rationale": "hebrajiškas veiksmažodis ושחט neturi nurodyto veikėjo — 'papjovys' be subjekto lietuviškai neįmanomas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לפניו",
-      "rationale": "pažodžiui 'prieš jo veidą' — išversta 'jo akivaizdoje'"
-    }
-  ],
-  "translation": "Ir duosite ⟨את⟩ ją Elazarui kunigui, ir jis išves ⟨את⟩ ją už stovyklos ribos, ir ⟨kažkas⟩ papjovys ⟨את⟩ ją jo akivaizdoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "68499c7020022614e223c6beac7685c55cfe0577997e126e37dfa756ee28f38a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/19\/1-4.1792474412119.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir duosite ⟨את⟩ ją Elazarui kunigui, ir jis išves ⟨את⟩ ją už stovyklos ribų, ir paskers ⟨את⟩ ją jo akivaizdoje.",
   "tokens": [
     {
       "surface": "ונתתם",
@@ -35,11 +14,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (raudoną jauną karvę)"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Elazarui"
     },
     {
       "surface": "אלעזר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "והוציא",
-      "gloss": "ir jis išves"
+      "gloss": "ir išves"
     },
     {
       "surface": "אתה",
@@ -60,11 +39,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "iki"
     },
     {
       "surface": "מחוץ",
-      "gloss": "už ribos"
+      "gloss": "išorės"
     },
     {
       "surface": "למחנה",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "ir papjovys"
+      "gloss": "ir paskers"
     },
     {
       "surface": "אתה",
@@ -84,6 +63,6 @@
       "gloss": "jo akivaizdoje"
     }
   ],
-  "timestamp": "2026-10-20T05:33:32.121821026Z",
+  "timestamp": "2026-10-20T12:40:56.058536996Z",
   "model": "glm-5.3"
 }

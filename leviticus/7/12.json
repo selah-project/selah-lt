@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "toda",
-      "rationale": "תודה transliteruojama kaip toda, ne „padėkos auka“ — išlaikoma hebrajiška forma"
-    },
-    {
-      "kind": "crux",
-      "subject": "מֻרְבֶּכֶת",
-      "rationale": "hapaks pasakymas: „mirkyta“ arba „minkyta“ aliejuje — vertėjai skiriasi (soaked vs fried)"
-    }
-  ],
-  "translation": "Jeigu jis aukoja ⟨את⟩ ją kaip todos auką, tai kartu su todos auka jis aukos neraugintų miltų papločius, sumaišytus su aliejumi, ir neraugintus plonus vaflius, pateptus aliejumi, ir iš smulkių miltų, mirkytų aliejuje, papločius, sumaišytus su aliejumi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/7\/9-12.1792473169271.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei ⟨את⟩ jį aukoja kaip padėkos auką, tai kartu su padėkos skerdžiamąja auka jis atneš neraugintas mano tešlos apvalias bandeles, sumaišytas su aliejumi, ir neraugintus plonus paprastus paplotėlius, pateptus aliejumi, ir gerai minkytos smulkios miltų bandeles, sumaišytas su aliejumi.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jeigu"
+      "gloss": "jei"
     },
     {
       "surface": "על",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "תודה",
-      "gloss": "todos"
+      "gloss": "padėkos auka"
     },
     {
       "surface": "יקריבנו",
-      "gloss": "aukoja ⟨את⟩ ją"
+      "gloss": "aujoja ⟨את⟩ jį"
     },
     {
       "surface": "והקריב",
-      "gloss": "aukos"
+      "gloss": "ir atneš"
     },
     {
       "surface": "על",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "זבח",
-      "gloss": "auka"
+      "gloss": "skerdžiamąja auka"
     },
     {
       "surface": "התודה",
-      "gloss": "todos"
+      "gloss": "padėkos"
     },
     {
       "surface": "חלות",
-      "gloss": "papločius"
+      "gloss": "apvalias bandeles"
     },
     {
       "surface": "מצות",
-      "gloss": "neraugintų miltų"
+      "gloss": "neraugintas"
     },
     {
       "surface": "בלולת",
-      "gloss": "sumaišytus"
+      "gloss": "sumaišytas"
     },
     {
       "surface": "בשמן",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ורקיקי",
-      "gloss": "ir plonus vaflius"
+      "gloss": "ir plonus paplotėlius"
     },
     {
       "surface": "מצות",
@@ -94,25 +73,25 @@
     },
     {
       "surface": "וסלת",
-      "gloss": "ir iš smulkių miltų"
+      "gloss": "ir smulkios miltų"
     },
     {
       "surface": "מרבכת",
-      "gloss": "mirkytų"
+      "gloss": "gerai minkytos"
     },
     {
       "surface": "חלת",
-      "gloss": "papločius"
+      "gloss": "bandeles"
     },
     {
       "surface": "בלולת",
-      "gloss": "sumaišytus"
+      "gloss": "sumaišytas"
     },
     {
       "surface": "בשמן",
       "gloss": "su aliejumi"
     }
   ],
-  "timestamp": "2026-10-20T05:12:49.274944691Z",
+  "timestamp": "2026-10-20T12:39:19.585765615Z",
   "model": "glm-5.3"
 }

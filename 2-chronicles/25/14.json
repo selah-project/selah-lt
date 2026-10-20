@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kad",
-      "rationale": "lietuvių reikalauja jungiamo žodio po 'atsitiko'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dievus",
-      "rationale": "אלהי čia mažąja reikšme — tautų dievai, ne Elohim Vardas"
-    }
-  ],
-  "translation": "Ir atsitiko, Amacijui sugrįžus nuo edomiečių sumušimo, kad jis atsivežė ⟨את⟩ Seiro vaikų dievus ir pastatė juos sau į dievus; ir prieš juos jis parpuolė, ir jiems jis degino smilkalus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/25\/13-16.1792493797591.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir buvo, kai Amacijahas sugrįžo nukautęs ⟨את⟩ edomitus, jis atsivežė ⟨את⟩ Seiro sūnų dievus ir pastatė juos sau dievais, ir prieš juos nusilenkdavo, ir jiems degindavo kvapniąjį dūmą.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir atsitiko"
+      "gloss": "Ir buvo"
     },
     {
       "surface": "אחרי",
@@ -38,33 +17,33 @@
     },
     {
       "surface": "בוא",
-      "gloss": "sugrįžus"
+      "gloss": "sugrįžo"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amacijui"
+      "gloss": "Amacijahas"
     },
     {
       "surface": "מהכות",
-      "gloss": "nuo sumušimo"
+      "gloss": "nukautęs"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "edomiečius"
+      "marks": "edomitus"
     },
     {
       "surface": "אדומים",
-      "gloss": "edomiečių"
+      "gloss": "edomitus"
     },
     {
       "surface": "ויבא",
-      "gloss": "kad jis atsivežė"
+      "gloss": "atsivežė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dievus"
+      "marks": "Seiro sūnų dievus"
     },
     {
       "surface": "אלהי",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "vaikų"
+      "gloss": "sūnų"
     },
     {
       "surface": "שעיר",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ויעמידם",
-      "gloss": "ir pastatė juos"
+      "gloss": "pastatė juos"
     },
     {
       "surface": "לו",
@@ -88,25 +67,25 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "į dievus"
+      "gloss": "dievais"
     },
     {
       "surface": "ולפניהם",
-      "gloss": "ir prieš juos"
+      "gloss": "prieš juos"
     },
     {
       "surface": "ישתחוה",
-      "gloss": "jis parpuolė"
+      "gloss": "nusilenkdavo"
     },
     {
       "surface": "ולהם",
-      "gloss": "ir jiems"
+      "gloss": "jiems"
     },
     {
       "surface": "יקטר",
-      "gloss": "jis degino smilkalus"
+      "gloss": "degindavo kvapniąjį dūmą"
     }
   ],
-  "timestamp": "2026-10-20T10:56:37.592720992Z",
+  "timestamp": "2026-10-20T12:10:10.788885655Z",
   "model": "glm-5.3"
 }

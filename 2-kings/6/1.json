@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "hebrajiškas prielinksnis neturi atskiro žodžio, išreiškiamas linksniu „Elišai“"
-    },
-    {
-      "kind": "you",
-      "subject": "pranašų sūnūs",
-      "rationale": "tiesioginis kreipimasis į Elichą"
-    }
-  ],
-  "translation": "Ir pranašų sūnūs tarė Elichai: Štai prašau, vieta, kur mes gyvename tenai tavo akivaizdoje, per ankšta mums.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/1-4.1792479795569.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pranašų sūnūs tarė Elišai: Štai juk ⟨yra⟩ per ankštas mums ⟨yra⟩ vieta, kurioje mes sėdime ten priešais tave.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "juk"
     },
     {
       "surface": "המקום",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kur"
+      "gloss": "kurioje"
     },
     {
       "surface": "אנחנו",
@@ -70,25 +49,25 @@
     },
     {
       "surface": "ישבים",
-      "gloss": "gyvename"
+      "gloss": "sėdime"
     },
     {
       "surface": "שם",
-      "gloss": "tenai"
+      "gloss": "ten"
     },
     {
       "surface": "לפניך",
-      "gloss": "tavo akivaizdoje"
+      "gloss": "priešais tave"
     },
     {
       "surface": "צר",
-      "gloss": "ankšta"
+      "gloss": "per ankštas"
     },
     {
       "surface": "ממנו",
       "gloss": "mums"
     }
   ],
-  "timestamp": "2026-10-20T07:03:15.569951705Z",
+  "timestamp": "2026-10-20T12:12:45.767785991Z",
   "model": "glm-5.3"
 }

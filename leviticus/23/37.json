@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mincha",
-      "rationale": "מנחה čia aukos rūšis — tikras žodis, ne bendras 'dovana'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dalykas dienai jos dieną",
-      "rationale": "aukų tvarka susieta su kiekviena šventės diena"
-    }
-  ],
-  "translation": "Tai yra Jahvės paskirtieji laikai, kuriuos pašauksite ⟨kaip⟩ šventus sušaukimus, kad atneštumėte ugnies auką Jahvei — deginamąją auką ir minchą, auką ir libacijas, kiekvieną dalyką jo dieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fff561ee11a582f0c6fd2992dbed47a6f6fcfa90a18fcdeda042eecd3d8d835e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/37-40.1792473736772.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šitie yra Jahvės paskirtieji laikai, kuriuos jūs paskelbsite ⟨את⟩ šventaisiais susirinkimais, kad atneštumėte ugnies auką Jahvei: deginamoji auka ir mincha, skerdžiamoji auka ir laistymo aukos — kiekvienas dalykas savo dieną, dienai jos dienai.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Tai"
+      "gloss": "Šitie"
     },
     {
       "surface": "מועדי",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "תקראו",
-      "gloss": "pašauksite"
+      "gloss": "jūs paskelbsite"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "šventus sušaukimus"
+      "marks": "šventaisius susirinkimus"
     },
     {
       "surface": "מקראי",
-      "gloss": "šventus sušaukimus"
+      "gloss": "šventaisiais susirinkimais"
     },
     {
       "surface": "קדש",
-      "gloss": "šventus"
+      "gloss": "šventumo"
     },
     {
       "surface": "להקריב",
@@ -75,23 +54,23 @@
     },
     {
       "surface": "עלה",
-      "gloss": "deginamąją auką"
+      "gloss": "deginamoji auka"
     },
     {
       "surface": "ומנחה",
-      "gloss": "ir minchą"
+      "gloss": "ir mincha"
     },
     {
       "surface": "זבח",
-      "gloss": "auką"
+      "gloss": "skerdžiamoji auka"
     },
     {
       "surface": "ונסכים",
-      "gloss": "ir libacijas"
+      "gloss": "ir laistymo aukos"
     },
     {
       "surface": "דבר",
-      "gloss": "dalyką"
+      "gloss": "dalykas"
     },
     {
       "surface": "יום",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "jo dieną"
+      "gloss": "savo dieną"
     }
   ],
-  "timestamp": "2026-10-20T05:22:16.774355806Z",
+  "timestamp": "2026-10-20T12:38:49.860065899Z",
   "model": "glm-5.3"
 }

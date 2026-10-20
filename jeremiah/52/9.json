@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "teismo žodžius",
-      "rationale": "וידבר אתו משפטיט — pažodžiui „kalbėjo su juo teismus”; dauguma versijų paverčia „paskelbė teismą”"
-    }
-  ],
-  "translation": "Ir jie pagavo ⟨את⟩ karalių ir nuvedė ⟨את⟩ jį pas Babelio karalių, į Rivlą Chamato krašte, ir jis kalbėjo ⟨את⟩ su juo teismo žodžius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/52\/9-12.1792483734998.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie pagavo ⟨את⟩ karalių ir nuvedė ⟨את⟩ jį pas Babilono karalių, į Riblą Chamato krašte, ir jis kalbėjo su juo ⟨את⟩ teismus.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "ir jie pagavo"
+      "gloss": "Ir jie pagavo"
     },
     {
       "surface": "את",
@@ -37,12 +21,14 @@
       "gloss": "karalių"
     },
     {
-      "surface": "ויעלuvo",
-      "gloss": ""
+      "surface": "ויעלו",
+      "gloss": "ir nuvedė",
+      "_": null
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "אל",
@@ -54,11 +40,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babelio"
+      "gloss": "Babilono"
     },
     {
       "surface": "רבלתה",
-      "gloss": "į Rivlą"
+      "gloss": "į Riblą"
     },
     {
       "surface": "בארץ",
@@ -70,17 +56,17 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "ir kalbėjo"
+      "gloss": "ir jis kalbėjo"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "su juo ⟨את⟩"
     },
     {
       "surface": "משפטים",
-      "gloss": "teismo žodžius"
+      "gloss": "teismus"
     }
   ],
-  "timestamp": "2026-10-20T08:08:54.999347794Z",
+  "timestamp": "2026-10-20T13:25:52.634973590Z",
   "model": "glm-5.3"
 }

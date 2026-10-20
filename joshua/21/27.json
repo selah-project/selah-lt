@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Beštera",
-      "rationale": "בעשתרה gali būti susijusi su Aštera\/Ashtarot (Ps 21,16 eilutėse) — vardas galbūt suminkštintas."
-    },
-    {
-      "kind": "measurement",
-      "subject": "du miestai",
-      "rationale": "Geršono vaikų dalis pradedama: du miestai."
-    },
-    {
-      "kind": "substitution",
-      "subject": "priemiesčiai",
-      "rationale": "מגרש — atvira ganyklų apylinkė."
-    }
-  ],
-  "translation": "Ir Geršono vaikams iš levitų giminių — iš pusės Menašės giminės: ⟨את⟩ prieglaudos miestą žudikui, ⟨את⟩ Golaną Bašane su jo priemiesčiais, ir ⟨את⟩ Bešterą su jo priemiesčiais — du miestai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e88e41bee1b3f95ff6e1024da988452e33f92fbd99f425bb879f5f0e4a9f789f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/25-28.1792476152044.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir geršonitims, iš levitų šeimų, iš pusės Menašės giminių — ⟨את⟩ miestą prieglaudą žudikui, ⟨את⟩ Golaną Bašane ir ⟨את⟩ jo ganyklas, ir ⟨את⟩ Bešterą bei ⟨את⟩ jos ganyklas — du miestus.",
   "tokens": [
     {
       "surface": "ולבני",
-      "gloss": "Ir vaikams"
+      "gloss": "ir geršonitims"
     },
     {
       "surface": "גרשון",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ממשפחת",
-      "gloss": "iš giminių"
+      "gloss": "iš šeimų"
     },
     {
       "surface": "הלוים",
@@ -64,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miestą"
+      "marks": "miestą prieglaudą"
     },
     {
       "surface": "עיר",
-      "gloss": "miestą"
+      "gloss": "miestas"
     },
     {
       "surface": "מקלט",
-      "gloss": "prieglaudos"
+      "gloss": "prieglauda"
     },
     {
       "surface": "הרצח",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "גלון",
-      "gloss": "Golaną"
+      "gloss": "Golanas"
     },
     {
       "surface": "בבשן",
@@ -94,11 +68,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "priemiesčius"
+      "marks": "jo ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "su jo priemiesčiais"
+      "gloss": "ganyklos"
     },
     {
       "surface": "ואת",
@@ -107,16 +81,16 @@
     },
     {
       "surface": "בעשתרה",
-      "gloss": "Bešterą"
+      "gloss": "Beštera"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "priemiesčius"
+      "marks": "jos ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "su jo priemiesčiais"
+      "gloss": "ganyklos"
     },
     {
       "surface": "ערים",
@@ -127,6 +101,6 @@
       "gloss": "du"
     }
   ],
-  "timestamp": "2026-10-20T06:02:32.049642585Z",
+  "timestamp": "2026-10-20T12:34:42.190801045Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "לבבות",
-      "rationale": "'širdelės' — apvalios apykepės, žodis iš לב (širdis); 'apykepės' praranda formos vaizdą"
-    },
-    {
-      "kind": "you",
-      "subject": "karaliui Davidui",
-      "rationale": "Amnono prašymas tiesiogiai kreipiasi į karalių"
-    }
-  ],
-  "translation": "Ir Atsigulė Amnonas ir dėjosi sergąs; ir atėjo karalius jo aplankyti, ir tarė Amnonas karaliui: Tegu ateina, meldžiu, Tamara, mano sesuo, ir tegu mano akyse pagamina dvi apykepes, ir aš valgysiu iš jos rankos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/5-8.1792478173409.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Amonas pagulė ir apsimetė ⟨esąs⟩ ligonis; ir atėjo karalius jį pamatyti, ir tarė Amonas karaliui: teateina, meldžiu, Tamar, mano sesuo, ir tegul iškepa mano akyse du levivot, ir aš valgysiu iš jos rankos.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "Ir atsigulė"
+      "gloss": "ir pagulė"
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnonas"
+      "gloss": "Amonas"
     },
     {
       "surface": "ויתחל",
-      "gloss": "ir dėjosi sergąs"
+      "gloss": "ir apsimetė ligoniu"
     },
     {
       "surface": "ויבא",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "לראתו",
-      "gloss": "jo aplankyti"
+      "gloss": "jį pamatyti"
     },
     {
       "surface": "ויאמר",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnonas"
+      "gloss": "Amonas"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "karaliui"
     },
     {
       "surface": "המלך",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "Tegu ateina"
+      "gloss": "teateina"
     },
     {
       "surface": "נא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "תמר",
-      "gloss": "Tamara"
+      "gloss": "Tamar"
     },
     {
       "surface": "אחתי",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ותלבב",
-      "gloss": "ir tegu pagamina apykepes"
+      "gloss": "ir tegul iškepa levivot"
     },
     {
       "surface": "לעיני",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "שתי",
-      "gloss": "dvi"
+      "gloss": "du"
     },
     {
       "surface": "לבבות",
-      "gloss": "apykepes"
+      "gloss": "levivot (pyragėliai)"
     },
     {
       "surface": "ואברה",
@@ -109,6 +88,6 @@
       "gloss": "iš jos rankos"
     }
   ],
-  "timestamp": "2026-10-20T06:36:13.410320777Z",
+  "timestamp": "2026-10-20T12:13:43.384550850Z",
   "model": "glm-5.3"
 }

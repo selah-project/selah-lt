@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הקהל\/תקהל",
-      "rationale": "veiksmažodis 'sušaukti' (v. 3) ir 'susirinko' (v. 4) — ta pati šaknis, atliepas išlaikytas lietuviškai"
-    }
-  ],
-  "translation": "Ir Mošė padarė, kaip Jahvė buvo jam įsakęs, ir susirinkimas susirinko prie Susitikimo palapinės angos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/1-4.1792473228862.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė padarė, kaip buvo įsakęs Jahvė ⟨את⟩ jam; ir susirinko susirinkimas prie įėjimo į susitikimo palapinę.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Ir padarė"
+      "gloss": "padarė"
     },
     {
       "surface": "משה",
@@ -45,12 +29,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "Mošę"
+      "gloss": "⟨את⟩",
+      "marks": "jam"
     },
     {
       "surface": "ותקהל",
-      "gloss": "ir susirinko"
+      "gloss": "susirinko"
     },
     {
       "surface": "העדה",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "angos"
+      "gloss": "įėjimo"
     },
     {
       "surface": "אהל",
@@ -70,9 +54,9 @@
     },
     {
       "surface": "מועד",
-      "gloss": "Susitikimo"
+      "gloss": "susitikimo"
     }
   ],
-  "timestamp": "2026-10-20T05:13:48.866165720Z",
+  "timestamp": "2026-10-20T12:38:44.940166382Z",
   "model": "glm-5.3"
 }

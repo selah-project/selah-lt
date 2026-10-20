@@ -5,46 +5,15 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צבי",
-      "rationale": "'gazelė' (YLT Roebuck) vs 'grožis\/splendoras' (KJV beauty) vs 'tavo didybė' — žodis reiškia ir gyvūną, ir spindesį"
-    },
-    {
-      "kind": "substitution",
-      "subject": "iškapota",
-      "rationale": "חלל — 'perdurtas\/ išbadytas', ne tiesiog 'žuvo'"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tavo grožis⟩",
-      "rationale": "pridėtas aiškinamasis posakis, nes 'Gazelė, Jisraeli' vien be jo būtų nevienareikšmis"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "nukrito stipruoliai",
-      "rationale": "posakis 'איך נפלו גבורים' kartojamas kaip raudos refrenas (1, 25. 27)"
-    }
-  ],
-  "translation": "Gazelė, ⟨tavo grožis⟩, Jisraeli, ant tavo aukštumų iškapota — kaip nukrito stipruoliai!",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cc88d2e4843fdbf25685f6b0e860dcb288423ee68a3662c29e363cd8fb3020d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/1\/18-20.1792485533822.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gazė ⟨iš⟩ Jisraelio — nukautas ant tavo aukštumų! Kaip kritę krito stipruoliai!",
   "tokens": [
     {
       "surface": "הצבי",
-      "gloss": "gazelė"
+      "gloss": "gazė"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeli"
+      "gloss": "Jisraelio"
     },
     {
       "surface": "על",
@@ -55,8 +24,8 @@
       "gloss": "tavo aukštumų"
     },
     {
-      "surface": "חלal",
-      "gloss": "iškapota"
+      "surface": "חלל",
+      "gloss": "nukautas"
     },
     {
       "surface": "איך",
@@ -64,13 +33,13 @@
     },
     {
       "surface": "נפלו",
-      "gloss": "nukrito"
+      "gloss": "krito"
     },
     {
       "surface": "גבורים",
       "gloss": "stipruoliai"
     }
   ],
-  "timestamp": "2026-10-20T08:38:53.824547363Z",
+  "timestamp": "2026-10-20T12:13:15.762080630Z",
   "model": "glm-5.3"
 }

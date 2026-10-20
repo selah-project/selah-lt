@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio 'yra' — 'Jonaтano sūnus buvo Merib-Baalas'."
-    },
-    {
-      "kind": "crux",
-      "subject": "Merib-Baalas",
-      "rationale": "2 Sam 4,4 tas pats asmuo vadinamas Mefibošetu; Čronikos išlaiko 'baal' formą."
-    }
-  ],
-  "translation": "Ir Jonaтano sūnus — Merib-Baalas, ir Merib-Baalas susilaukė ⟨את⟩ Micho.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/8\/33-36.1792492800738.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jehonatano sūnus ⟨buvo⟩ Meriv-Baalis, ir Meriv-Baalis pagimdė ⟨את⟩ Miką.",
   "tokens": [
     {
       "surface": "ובן",
@@ -34,38 +13,38 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jonatano"
+      "gloss": "Jehonatano"
     },
     {
       "surface": "מריב",
-      "gloss": "Merib-"
+      "gloss": "Meriv"
     },
     {
       "surface": "בעל",
-      "gloss": "Baalas"
+      "gloss": "Baalis"
     },
     {
       "surface": "ומריב",
-      "gloss": "ir Merib-"
+      "gloss": "ir Meriv"
     },
     {
       "surface": "בעל",
-      "gloss": "Baalas"
+      "gloss": "Baalis"
     },
     {
       "surface": "הוליד",
-      "gloss": "susilaukė"
+      "gloss": "pagimdė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Micho"
+      "marks": "Miką"
     },
     {
       "surface": "מיכה",
-      "gloss": "Micho"
+      "gloss": "Miką"
     }
   ],
-  "timestamp": "2026-10-20T10:40:00.739142579Z",
+  "timestamp": "2026-10-20T12:05:41.003696017Z",
   "model": "glm-5.3"
 }

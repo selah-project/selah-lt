@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שלמים",
-      "rationale": "šelamim transliteruojama, ne verčiama į 'taikos auka'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "אליה",
-      "rationale": "riebi uodega — rytietiško avino ypatybė, būdinga tik čia ir gretimuose skyriuose"
-    },
-    {
-      "kind": "measurement",
-      "subject": "אברים",
-      "rationale": "eiliškas aukos dalių išvardijimas — kodas, ne pasakojimas"
-    }
-  ],
-  "translation": "Ir iš šelamim aukos jis atneš išeh — ugnies auką Jahvei: jos riebalus, visą riebią uodegą iki galo, prie pat stuburo jis ją pašalins, ir ⟨את⟩ riebalus, dengiančius ⟨את⟩ vidurių riebalus — visą riebalą, kuris ant vidurių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/3\/9-12.1792473131264.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir iš šalaminės aukos jis atneš ugnies auką Jahvei: jos riebalus — visą riebią uodegą, ištrauktą prie pat stuburo, ir ⟨את⟩ riebalus, dengiančius ⟨את⟩ vidurius, ir ⟨את⟩ visus riebalus, kurie yra ant vidurių.",
   "tokens": [
     {
       "surface": "והקריב",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "šelamim"
+      "gloss": "šalaminės"
     },
     {
       "surface": "אשה",
-      "gloss": "išeh — ugnies auką"
+      "gloss": "ugnies auką"
     },
     {
       "surface": "ליהוה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "תמימה",
-      "gloss": "visą iki galo"
+      "gloss": "visą"
     },
     {
       "surface": "לעמת",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "יסירנה",
-      "gloss": "jis ją pašalins"
+      "gloss": "ištrauktą"
     },
     {
       "surface": "ואת",
@@ -93,28 +67,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vidurių riebalus"
+      "marks": "vidurius"
     },
     {
       "surface": "הקרב",
-      "gloss": "vidurių riebalus"
+      "gloss": "vidurius"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visą riebalą"
+      "marks": "visus riebalus"
     },
     {
       "surface": "כל",
-      "gloss": "visą"
+      "gloss": "visus"
     },
     {
       "surface": "החלב",
-      "gloss": "riebalą"
+      "gloss": "riebalus"
     },
     {
       "surface": "אשר",
-      "gloss": "kuris"
+      "gloss": "kurie"
     },
     {
       "surface": "על",
@@ -125,6 +99,6 @@
       "gloss": "vidurių"
     }
   ],
-  "timestamp": "2026-10-20T05:12:11.266939839Z",
+  "timestamp": "2026-10-20T12:39:11.275906740Z",
   "model": "glm-5.3"
 }

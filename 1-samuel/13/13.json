@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי עתה הכין",
-      "rationale": "Hebraika netiesioginė sąlyga: 'dabar jau būtų patvirtinęs' (KJV\/BSB) vs skaitymas 'dabar patvirtins' (Geneva 'had nowe stablished')."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨dabar⟩ jau",
-      "rationale": "עתה į lietuvių kalbą išskaidyta į du žodžius su prievartos žyma."
-    },
-    {
-      "kind": "you",
-      "subject": "Šauliui",
-      "rationale": "Šmuelis tiesiogiai kreipiasi į Šaulį — tardamas jam nuosprendį."
-    }
-  ],
-  "translation": "Ir tarė Šmuelis Šauliui: elgeisi kvailai — nesilaikei ⟨את⟩ įsakymo, kurį tau įsakė Jahvė, tavo Elohim; ⟨dabar⟩ jau būtų Jahvė patvirtinęs ⟨את⟩ tavo karalystę prieš Jisraelį iki amžių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/13\/13-16.1792477235551.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šmuelis tarė Šauliui: Pasielgei kvailai — neišsaugojai ⟨את⟩ įsakymo, ⟨ kurį ⟩ Jahvė, tavo Elohim, tau įsakė; nes dabar Jahvė būtų įtvirtinęs ⟨את⟩ tavo karalystę prieš Jisraelį iki amžių.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "נסכלת",
-      "gloss": "elgeisi kvailai"
+      "gloss": "Pasielgei kvailai"
     },
     {
       "surface": "לא",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "שמרת",
-      "gloss": "nesilaikei"
+      "gloss": "išsaugojai"
     },
     {
       "surface": "את",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "jau"
+      "gloss": "nes"
     },
     {
       "surface": "עתה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "הכין",
-      "gloss": "būtų patvirtinęs"
+      "gloss": "būtų įtvirtinęs"
     },
     {
       "surface": "יהוה",
@@ -128,6 +102,6 @@
       "gloss": "amžių"
     }
   ],
-  "timestamp": "2026-10-20T06:20:35.552591963Z",
+  "timestamp": "2026-10-20T12:08:01.187468177Z",
   "model": "glm-5.3"
 }

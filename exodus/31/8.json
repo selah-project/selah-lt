@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הטהרה",
-      "rationale": "'tyroji \/ grynoji' — daugelyje vertimų pridedama 'auksinė'; hebrajų kalboje medžiagos nėra, tik 'tyri'."
-    },
-    {
-      "kind": "addition",
-      "subject": "su visais",
-      "rationale": "hebrajų kalboje ואת כליו — 'ir jos reikmenys' kaip išvardijimo dalis; pasirinktas jungiamasis 'su', kad lietuvių kalboje neatskiltų."
-    }
-  ],
-  "translation": "ir ⟨את⟩ stalą su visais jos reikmenimis, ir ⟨את⟩ tyriąją žibintą su visais jos reikmenimis, ir ⟨את⟩ smilkymo aukurą;",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/31\/5-8.1792472879625.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ir ⟨את⟩ stalą su visais jo įrankiais, ir ⟨את⟩ grynąją menorą su visais jos įrankiais, ir ⟨את⟩ smilkymo aukurą,",
   "tokens": [
     {
       "surface": "ואת",
@@ -40,29 +19,29 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jos reikmenis"
+      "marks": "jo įrankius"
     },
     {
       "surface": "כליו",
-      "gloss": "su jos reikmenimis"
+      "gloss": "jo įrankius"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "žibintą"
+      "marks": "grynąją menoralą"
     },
     {
       "surface": "המנרה",
-      "gloss": "žibintą"
+      "gloss": "menorą"
     },
     {
       "surface": "הטהרה",
-      "gloss": "tyriąją"
+      "gloss": "grynąją"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visus jos reikmenis"
+      "marks": "visus jos įrankius"
     },
     {
       "surface": "כל",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "כליה",
-      "gloss": "jos reikmenis"
+      "gloss": "jos įrankius"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "aukurą"
+      "marks": "smilkymo aukurą"
     },
     {
       "surface": "מזבח",
@@ -86,6 +65,6 @@
       "gloss": "smilkymo"
     }
   ],
-  "timestamp": "2026-10-20T05:07:59.632580614Z",
+  "timestamp": "2026-10-20T12:20:07.705591866Z",
   "model": "glm-5.3"
 }

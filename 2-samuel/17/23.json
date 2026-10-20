@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nusižudė pakaru",
-      "rationale": "ויחנק pažodžiui 'pasmaugė save' — lietuvių norminis 'nusižudė pakaru' praranda veiksmažodžio vaizdą"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויצו אל ביתו",
-      "rationale": "'įsakė savo namams' — 'savo namams' ar 'savo šeimai'; dauguma verčia 'sudėstė savo namų reikalus'"
-    }
-  ],
-  "translation": "O Achitofelas, pamatęs, kad jo pataras nebuvo įvykdytas, pabalnojo ⟨את⟩ asilą, pakilo ir nuėjo į savo namus, į savo miestą; ir įsakė savo namams, ir nusižudė pakaru, ir mirė, ir buvo palaidotas savo tėvo kape.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d7ecdda80f8bfca4f13817209edcb061966a2b15561bea0ab5b6517c19d8cbc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/21-24.1792478410251.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Achitofelis pamatė, kad jo patarimas nebuvo įvykdytas, ir pakinkė ⟨את⟩ asilą, ir pakilo, ir nuėjo į savo namus, į savo miestą, ir paliepė savo namams, ir pasikorė, ir mirė, ir buvo palaidotas savo tėvo kape.",
   "tokens": [
     {
       "surface": "ואחיתפל",
-      "gloss": "O Achitofelas"
+      "gloss": "Ir Achitofelis"
     },
     {
       "surface": "ראה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "עצתו",
-      "gloss": "jo pataras"
+      "gloss": "jo patarimas"
     },
     {
       "surface": "ויחבש",
-      "gloss": "ir pabalnojo"
+      "gloss": "ir pakinkė"
     },
     {
       "surface": "את",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "pakilo"
+      "gloss": "ir pakilo"
     },
     {
       "surface": "וילך",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ויצו",
-      "gloss": "ir įsakė"
+      "gloss": "ir paliepė"
     },
     {
       "surface": "אל",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ויחנק",
-      "gloss": "ir nusižudė pakaru"
+      "gloss": "ir pasikorė"
     },
     {
       "surface": "וימת",
@@ -122,6 +101,6 @@
       "gloss": "savo tėvo"
     }
   ],
-  "timestamp": "2026-10-20T06:40:10.254174290Z",
+  "timestamp": "2026-10-20T12:13:44.056885871Z",
   "model": "glm-5.3"
 }

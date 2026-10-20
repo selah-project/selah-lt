@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ערב\/מערבך",
-      "rationale": "tą pačią šaknį „mainyti \/ mainai“ tekstas kartoja — ערב ir מערב, lietuviškai skaidoma į du žodžius."
-    },
-    {
-      "kind": "crux",
-      "subject": "מחזיקי בדקך",
-      "rationale": "„tavo įtrūkimų stiprintojai“ vs tradicinis „tavo kalafiai“ — בדק yra laivo korpuso įtrūkimas."
-    }
-  ],
-  "translation": "Gebalo senoliai ir jos išmintingieji buvo tavyje, stiprino tavo įtrūkimus; visi jūros laivai ir jų jūrininkai buvo tavyje, kad mainytų tavo prekes.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "782a1083cfb2cad0700e585f85bc114bf6ee0966c874707f16c07b961e921f5d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/27\/9-12.1792484567114.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gebalo senoliai ir jos išminčiai buvo tavyje, tavo plyšių tvarkytojai; visos jūros laivai ir jų jūrininkai buvo tavyje mainyti tavo prekybos prekes.",
   "tokens": [
     {
       "surface": "זקני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "וחכמיה",
-      "gloss": "ir jos išmintingieji"
+      "gloss": "ir jos išminčiai"
     },
     {
       "surface": "היו",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "מחזיקי",
-      "gloss": "stiprintojai"
+      "gloss": "tvarkytojai"
     },
     {
       "surface": "בדקך",
-      "gloss": "tavo įtrūkimus"
+      "gloss": "tavo plyšių"
     },
     {
       "surface": "כל",
-      "gloss": "visi"
+      "gloss": "visos"
     },
     {
       "surface": "אניות",
@@ -81,14 +60,14 @@
       "gloss": "tavyje"
     },
     {
-      "surface": "לערob",
-      "gloss": "kad mainytų"
+      "surface": "לערב",
+      "gloss": "mainyti"
     },
     {
       "surface": "מערבך",
-      "gloss": "tavo prekes"
+      "gloss": "tavo prekybos prekes"
     }
   ],
-  "timestamp": "2026-10-20T08:22:47.114970305Z",
+  "timestamp": "2026-10-20T12:22:45.745937880Z",
   "model": "glm-5.3"
 }

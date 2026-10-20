@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נאקת",
-      "rationale": "בני ישראל sandara — verčiama 'Jisraelio sūnūs', o ne 'Jisraelio vaikai'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvė žodis Moše",
-      "rationale": "Kalbama apie Jisraelį, bet ne tiesiogiai jam — trečiasis asmuo"
-    }
-  ],
-  "translation": "Ir taip pat aš išgirdau ⟨את⟩ dejančius Jisraelio sūnų, kuriuos Micraimas verčia vergauti, ir aš atsiminiau ⟨את⟩ savo sandorą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/6\/5-8.1792472252562.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir taip pat aš išgirdau ⟨את⟩ dejavimą Jisraelio sūnų, kuriuos Micraimas verčia tarnauti, ir atsiminiau ⟨את⟩ savo sandorą.",
   "tokens": [
     {
       "surface": "וגם",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dejančius"
+      "marks": "dejavimą"
     },
     {
       "surface": "נאקת",
-      "gloss": "dejančius"
+      "gloss": "dejavimą"
     },
     {
       "surface": "בני",
@@ -67,11 +46,12 @@
     },
     {
       "surface": "מעבדים",
-      "gloss": "verčia vergauti"
+      "gloss": "verčia tarnauti"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩ juos",
+      "marks": "Jisraelio sūnus"
     },
     {
       "surface": "ואזכר",
@@ -80,13 +60,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo sandorą"
+      "marks": "sandorą"
     },
     {
       "surface": "בריתי",
       "gloss": "savo sandorą"
     }
   ],
-  "timestamp": "2026-10-20T04:57:32.565850762Z",
+  "timestamp": "2026-10-20T12:20:54.711378229Z",
   "model": "glm-5.3"
 }

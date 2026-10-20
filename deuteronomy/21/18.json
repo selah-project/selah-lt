@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "סורר ומורה",
-      "rationale": "Pažodžiui 'nukrypęs ir kartus' — šaknis מרר 'būti kartų'; 'atkaklus ir neklusnus' yra vaidmuo, ne paveikslas."
-    }
-  ],
-  "translation": "Kai kam nors bus sūnus, atkaklus ir neklusnus — jis neklauso nei tėvo balso, nei motinos balso, ir jie jį baudė, o jis jų neklauso —",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/21\/17-20.1792475309500.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kai kokiam vyrui bus sūnus užsispyręs ir nepaklusnus — neklauso nei tėvo balso, nei motinos balso, ir kai jie ⟨את⟩ jį baudžia, jis jų neklauso.",
   "tokens": [
     {
       "surface": "כי",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "kam nors"
+      "gloss": "kokiam vyrui"
     },
     {
       "surface": "בן",
@@ -41,15 +25,15 @@
     },
     {
       "surface": "סורר",
-      "gloss": "atkaklus"
+      "gloss": "užsispyręs"
     },
     {
       "surface": "ומורה",
-      "gloss": "ir neklusnus"
+      "gloss": "ir nepaklusnus"
     },
     {
       "surface": "איננו",
-      "gloss": "ne"
+      "gloss": "neklauso"
     },
     {
       "surface": "שמע",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "balso"
+      "gloss": "nei tėvo balso"
     },
     {
       "surface": "אביו",
@@ -65,7 +49,7 @@
     },
     {
       "surface": "ובקול",
-      "gloss": "ir balso"
+      "gloss": "ir motinos balso"
     },
     {
       "surface": "אמו",
@@ -73,16 +57,16 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "ir jie baudė"
+      "gloss": "ir kai jie baudžia"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį (sūnų)"
     },
     {
       "surface": "ולא",
-      "gloss": "o ne"
+      "gloss": "ir ne"
     },
     {
       "surface": "ישמע",
@@ -93,6 +77,6 @@
       "gloss": "jų"
     }
   ],
-  "timestamp": "2026-10-20T05:48:29.502510266Z",
+  "timestamp": "2026-10-20T12:17:13.339855906Z",
   "model": "glm-5.3"
 }

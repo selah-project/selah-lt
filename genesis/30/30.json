@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "santykinis jungtukas neturi atskiro lietuviško žodžio šioje struktūroje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לרגלי",
-      "rationale": "pažodžiui 'prie mano kojos' — 'mano žingsnių dėka'; citatos skiriasi: 'kur aš įžengiau' vs 'mano atėjimu'"
-    },
-    {
-      "kind": "addition",
-      "subject": "tai",
-      "rationale": "lietuvių kalbai reikia veiksnio 'išsiliejo' sakinyje"
-    }
-  ],
-  "translation": "Nes mažai turėjai anksčiau už mane, ir ⟨tai⟩ išsiliejo į daugybę, ir Jahvė palaimino ⟨את⟩ tave mano žingsnių dėka; o dabar — kada gi aš padirbsiu ir aš savo namams?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c93cbe9da8b5774e3e478463ff5870777686b7a6e6372e4590e4ebad983569e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/30\/30-32.1792485384525.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes mažai tu turėjai prieš mane, ir tai išsiplėtė ⟨iki⟩ gausos, ir Jahvė palaimino ⟨את⟩ tave prie mano žingsnio; o dabar kada aš darysiu taip pat ir aš savo namams?",
   "tokens": [
     {
       "surface": "כי",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "לפני",
-      "gloss": "anksčiau už"
+      "gloss": "prieš mane"
     },
     {
       "surface": "ויפרץ",
-      "gloss": "išsiliejo"
+      "gloss": "ir tai išsiplėtė"
     },
     {
       "surface": "לרב",
-      "gloss": "į daugybę"
+      "gloss": "iki gausos"
     },
     {
       "surface": "ויברך",
-      "gloss": "palaimino"
+      "gloss": "ir palaimino"
     },
     {
       "surface": "יהוה",
@@ -75,12 +49,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tave",
+      "gloss": "⟨את⟩",
       "marks": "tave"
     },
     {
       "surface": "לרגלי",
-      "gloss": "mano žingsnių dėka"
+      "gloss": "prie mano žingsnio"
     },
     {
       "surface": "ועתה",
@@ -88,25 +62,25 @@
     },
     {
       "surface": "מתי",
-      "gloss": "kada gi"
+      "gloss": "kada"
     },
     {
       "surface": "אעשה",
-      "gloss": "aš padirbsiu"
+      "gloss": "aš darysiu"
     },
     {
       "surface": "גם",
-      "gloss": "ir"
+      "gloss": "taip pat"
     },
     {
       "surface": "אנכי",
-      "gloss": "aš"
+      "gloss": "ir aš"
     },
     {
       "surface": "לביתי",
       "gloss": "savo namams"
     }
   ],
-  "timestamp": "2026-10-20T08:36:24.528145915Z",
+  "timestamp": "2026-10-20T12:25:51.477296414Z",
   "model": "glm-5.3"
 }

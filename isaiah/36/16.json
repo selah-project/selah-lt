@@ -5,38 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ברכה",
-      "rationale": "'daryti ברכה su manimi' — pažodžiui 'palaiminimą', bet tikriausiai reiškia 'sudaryti taikos sutartį' (įkaitas\/dovana), crux tarp senųjų vertimų"
-    },
-    {
-      "kind": "substitution",
-      "subject": "איש",
-      "gloss": "kiekvienas",
-      "rationale": "'vyras' paskirstomuoju Meaning — 'kiekvienas savo vynmedį'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Darykite... išeikite",
-      "rationale": "Asiro karaliaus sugestija-sąlyga, tiesioginis šaukimas atsiduoti"
-    }
-  ],
-  "translation": "Neklausykite Chizkijahu, nes taip sako Asiro karalius: Darykite su manimi ⟨את⟩ palaiminimą, ir išeikite pas mane, ir valgykite kiekvienas savo vynmedį, ir kiekvienas savo figmedį, ir gerkite kiekvienas savo šulinio vandenį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/36\/13-16.1792481364767.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neklausykite Chizkijahu, nes taip sako Asūro karalius: Sudarykite ⟨את⟩ palaiminimą-su manimi ir išeikite pas mane, ir tegu kiekvienas valgo savo vynmedį, ir kiekvienas savo figmedį, ir tegu kiekvienas geria vandenį iš savo cisternos.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Ne-"
+      "gloss": "ne"
     },
     {
       "surface": "תשמעו",
@@ -44,10 +17,10 @@
     },
     {
       "surface": "אל",
-      "gloss": "Chizkijahu"
+      "gloss": "į"
     },
     {
-      "surface": "חזקיהhu",
+      "surface": "חזקיהו",
       "gloss": "Chizkijahu"
     },
     {
@@ -68,15 +41,15 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asiro"
+      "gloss": "Asūro"
     },
     {
       "surface": "עשו",
-      "gloss": "Darykite"
+      "gloss": "sudarykite"
     },
     {
       "surface": "אתי",
-      "gloss": "su manimi ⟨את⟩"
+      "gloss": "⟨את⟩-su manimi"
     },
     {
       "surface": "ברכה",
@@ -124,9 +97,9 @@
     },
     {
       "surface": "בורו",
-      "gloss": "savo šulinio"
+      "gloss": "iš savo cisternos"
     }
   ],
-  "timestamp": "2026-10-20T07:29:24.770798761Z",
+  "timestamp": "2026-10-20T12:45:03.203601153Z",
   "model": "glm-5.3"
 }

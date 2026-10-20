@@ -5,32 +5,11 @@
   "book": "joel",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויקנא",
-      "rationale": "Wayyiqtol laikas: praeitis („pavydėjo“) arba, kaip dauguma vertimų po atgailos kontekste, būsimas įvykdymas („pavydės“)"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "חמל על lietuviškai reiškia genityvu be prielinksnio"
-    }
-  ],
-  "translation": "Ir Jahvė ėmė pavyduliauti dėl savo žemės ir pasigailėjo savo tautos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f35a0f18421a0934b7515f206b6972824de39b4f7cdf8843d10b7bd1addb0964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joel\/2\/17-20.1792486547887.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pavydėjo Jahvė dėl savo žemės, ir pasigailėjo savo tautos.",
   "tokens": [
     {
       "surface": "ויקנא",
-      "gloss": "ėmė pavyduliauti"
+      "gloss": "ir pavydėjo"
     },
     {
       "surface": "יהוה",
@@ -46,13 +25,13 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "dėl"
     },
     {
       "surface": "עמו",
       "gloss": "savo tautos"
     }
   ],
-  "timestamp": "2026-10-20T08:55:47.889814804Z",
+  "timestamp": "2026-10-20T12:33:38.871257658Z",
   "model": "glm-5.3"
 }

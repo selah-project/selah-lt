@@ -5,36 +5,16 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Tamuzas",
-      "rationale": "Semitiškos dievybės vardas; Tanache minimas tik čia — verkimas už Tamuzą."
-    },
-    {
-      "kind": "hapax",
-      "subject": "התמוז",
-      "rationale": "Žodis Tamuz Tanache pasirodo tik šioje vietoje."
-    }
-  ],
-  "translation": "Ir jis atvedė ⟨את⟩ mane prie įėjimo vartų į Jahvės namus, kurie šiaurės pusėje, ir štai ten sėdi moterys, raudodamos ⟨את⟩ Tamuzą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d1145a576d0344a7ab7f3fd28ab1e3950c2d0ebd102ba8945eeb904b92b9e1d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/8\/13-16.1792484039612.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis atvedė mane ⟨את⟩ prie įėjimo vartų Jahvės namų, kurie ⟨yra⟩ šiaurės pusėje, ir štai ten sėdėjo moterys, raudodamos ⟨את⟩ Tamuzą.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Ir atvedė"
+      "gloss": "ir atvedė"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mane"
+      "gloss": "⟨את⟩",
+      "marks": "mane"
     },
     {
       "surface": "אל",
@@ -50,7 +30,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "namus"
+      "gloss": "namų"
     },
     {
       "surface": "יהוה",
@@ -62,11 +42,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "<linksniuota>"
+      "gloss": "į"
     },
     {
       "surface": "הצפונה",
-      "gloss": "šiaurės pusėje"
+      "gloss": "šiaurės pusę"
     },
     {
       "surface": "והנה",
@@ -81,8 +61,8 @@
       "gloss": "moterys"
     },
     {
-      "surface": "יושבות",
-      "gloss": "sėdi"
+      "surface": "ישבות",
+      "gloss": "sėdėjo"
     },
     {
       "surface": "מבכות",
@@ -98,6 +78,6 @@
       "gloss": "Tamuzą"
     }
   ],
-  "timestamp": "2026-10-20T08:13:59.614260279Z",
+  "timestamp": "2026-10-20T12:24:23.034358684Z",
   "model": "glm-5.3"
 }

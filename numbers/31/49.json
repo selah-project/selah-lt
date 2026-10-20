@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאו את ראש",
-      "rationale": "„Pakelti galvą“ — hebrajiškas idiomas „suskaityti“, išsamus skaičiavimo paveikslas."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje."
-    },
-    {
-      "kind": "measurement",
-      "subject": "karo vyrų skaičius",
-      "rationale": "Eilutė praneša kariuomenės surašymą ir rezultatą — nė vieno netrūksta."
-    }
-  ],
-  "translation": "Ir jie tarė Mošei: tavo tarnai pakėlė ⟨את⟩ galvų skaičių karo vyrų, kurie ⟨yra⟩ mūsų rankose, ir nė vieno iš jų nepradingo — nė vieno vyro.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f120b510b8b93621728eedec0fa6e379e813f4966449b92a71f336fa330bf3d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/31\/49-52.1792474665000.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie tarė Mošei: tavo tarnai suskaičiavo ⟨את⟩ karo vyrų galvas, kurie ⟨yra⟩ mūsų rankoje, ir nebuvo praleista iš mūsų nė vieno žmogaus.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ir tarė"
+      "gloss": "ir jie tarė"
     },
     {
       "surface": "אל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mošė"
+      "gloss": "Mošei"
     },
     {
       "surface": "עבדיך",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "נשאו",
-      "gloss": "pakėlė"
+      "gloss": "suskaičiavo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "galvų skaičių"
+      "marks": "karo vyrų galvas"
     },
     {
       "surface": "ראש",
-      "gloss": "galvų"
+      "gloss": "galvas"
     },
     {
       "surface": "אנשי",
-      "gloss": "vyrai"
+      "gloss": "vyrų"
     },
     {
       "surface": "המלחמה",
@@ -76,29 +50,25 @@
     },
     {
       "surface": "בידנו",
-      "gloss": "mūsų rankose"
-    },
-    {
-      "surface": "ויאמרו ולא",
-      "gloss": ""
+      "gloss": "mūsų rankoje"
     },
     {
       "surface": "ולא",
-      "gloss": "ir nė"
+      "gloss": "ir nebuvo"
     },
     {
       "surface": "נפקד",
-      "gloss": "pradingo"
+      "gloss": "praleista"
     },
     {
       "surface": "ממנו",
-      "gloss": "iš jų"
+      "gloss": "iš mūsų"
     },
     {
       "surface": "איש",
-      "gloss": "nė vieno vyro"
+      "gloss": "nė vieno žmogaus"
     }
   ],
-  "timestamp": "2026-10-20T05:37:45.001275409Z",
+  "timestamp": "2026-10-20T12:41:25.874701450Z",
   "model": "glm-5.3"
 }

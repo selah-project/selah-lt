@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "peliestieji",
-      "rationale": "פלשתים verčiama pagal tautos vardą, ne „filistinai“ iš graikų"
-    },
-    {
-      "kind": "crux",
-      "subject": "המצודה",
-      "rationale": "„tvirtovė“ arba „tvirtinimas“ — vienaskaita su artikeliu, konkreti vietovė"
-    }
-  ],
-  "translation": "Ir išgirdo peleistieji, kad patepė ⟨את⟩ Davidą karaliumi virš Jisraelio, ir pakilo visi peleistieji ieškoti Davidą; o Davidas išgirdo ir nulipo į tvirtovę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a35aa081a31f9e0319d45ea4e41df206e87ab56b21b6e1abcb027338d4bd30fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/17-20.1792478059551.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir išgirdo filistiečiai, kad patepę pasmerkė — jie patepė ⟨את⟩ Davidą karaliumi per Jisraelį — tad visi filistiečiai užėjo ieškoti ⟨את⟩ Davido; ir Davidas išgirdo ir nužengė į tvirtovę.",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "peliestieji"
+      "gloss": "filistiečiai"
     },
     {
       "surface": "כי",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "על",
-      "gloss": "virš"
+      "gloss": "per"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelio"
+      "gloss": "Jisraelį"
     },
     {
       "surface": "ויעלו",
-      "gloss": "ir pakilo"
+      "gloss": "užėjo"
     },
     {
       "surface": "כל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "peliestieji"
+      "gloss": "filistiečiai"
     },
     {
       "surface": "לבקש",
@@ -84,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Davidą"
+      "marks": "Davido"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidą"
+      "gloss": "Davido"
     },
     {
       "surface": "וישמע",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "וירד",
-      "gloss": "ir nulipo"
+      "gloss": "ir nužengė"
     },
     {
       "surface": "אל",
@@ -111,6 +90,6 @@
       "gloss": "tvirtovę"
     }
   ],
-  "timestamp": "2026-10-20T06:34:19.553184986Z",
+  "timestamp": "2026-10-20T12:14:46.231336555Z",
   "model": "glm-5.3"
 }

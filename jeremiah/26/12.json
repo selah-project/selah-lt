@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šiam namui",
-      "rationale": "Jirmijahu atsako tuo pačiu אל — 'į, link', o ne 'prieš'; kaltinimas 'prieš miestą' yra jo akuzatorių interpretacija."
-    },
-    {
-      "kind": "you",
-      "subject": "girdėjote",
-      "rationale": "Jirmijahu ginais tiesiogiai kreipiasi į vadus ir visą tautą."
-    }
-  ],
-  "translation": "Ir tarė Jirmijahu visiems vadams ir visai tautai, sakydamas: Jahvė mane siuntė pranašauti šiam namui ir šiam miestui ⟨את⟩ visus žodžius, kuriuos girdėjote.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/9-12.1792482846318.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jirmejahu tarė visiems kunigaikščiams ir visai tautai, sakydamas: Jahvė siuntė mane pranašauti prieš šitą namą ir prieš šitą miestą ⟨את⟩ visus žodžius, kuriuos girdėjote.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmijahu"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prieš (visiems)"
     },
     {
       "surface": "כל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "השרים",
-      "gloss": "vadams"
+      "gloss": "kunigaikščiams"
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir (visai)"
     },
     {
       "surface": "כל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "mane siuntė"
+      "gloss": "siuntė mane"
     },
     {
       "surface": "להנבא",
@@ -78,27 +57,27 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prieš"
     },
     {
       "surface": "הבית",
-      "gloss": "namui"
+      "gloss": "namą"
     },
     {
       "surface": "הזה",
-      "gloss": "šiam"
+      "gloss": "šitą"
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir prieš"
     },
     {
       "surface": "העיר",
-      "gloss": "miestui"
+      "gloss": "miestą"
     },
     {
       "surface": "הזאת",
-      "gloss": "šiam"
+      "gloss": "šitą"
     },
     {
       "surface": "את",
@@ -122,6 +101,6 @@
       "gloss": "girdėjote"
     }
   ],
-  "timestamp": "2026-10-20T07:54:06.321124275Z",
+  "timestamp": "2026-10-20T12:30:04.146667818Z",
   "model": "glm-5.3"
 }

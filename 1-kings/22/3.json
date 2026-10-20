@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatyvo konstrukcijoje."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio karalius savo tarnams",
-      "rationale": "Tiesioginis kreipimasis su retoriniu klausimu."
-    }
-  ],
-  "translation": "Ir Jisraelio karalius tarė savo tarnams: Ar nežinote, kad Ramot-Gileadas yra mūsų, o mes tylime ir neimiame jos iš Aramo karaliaus rankos?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/1-4.1792479636809.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelio karalius tarė savo tarnams: Ar nežinote, kad Ramotas-Giladas — mūsų, o mes tylime ir neimiame ⟨את⟩ jos iš Aramo karaliaus rankos?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "מלך",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "savo tarnams —"
     },
     {
       "surface": "עבדיו",
-      "gloss": "saviems tarnams"
+      "gloss": "tarnams"
     },
     {
       "surface": "הידעתם",
-      "gloss": "Ar nežinote"
+      "gloss": "ar nežinote"
     },
     {
       "surface": "כי",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "רמת",
-      "gloss": "Ramot-"
+      "gloss": "Ramotas"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gileadas"
+      "gloss": "Giladas"
     },
     {
       "surface": "ואנחנו",
@@ -83,7 +62,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją (Ramot-Gileadą)"
+      "marks": "jos (Ramoto-Gilado)"
     },
     {
       "surface": "מיד",
@@ -98,6 +77,6 @@
       "gloss": "Aramo"
     }
   ],
-  "timestamp": "2026-10-20T07:00:36.810992713Z",
+  "timestamp": "2026-10-20T12:07:02.778644830Z",
   "model": "glm-5.3"
 }

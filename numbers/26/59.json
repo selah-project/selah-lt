@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ji⟩",
-      "rationale": "Hebrajų veiksmažodis ילדה moteriškos giminės, bet lietuvių kalbai reikia aiškaus veikėjo — motina"
-    },
-    {
-      "kind": "crux",
-      "subject": "יוכבד",
-      "rationale": "Kai kurie skaito ‘kurią (motina) pagimdė Leviui’ — tačiau čia gimsta pati Jokbedė, Levio duktė"
-    }
-  ],
-  "translation": "Ir Amramo žmonos vardas — Jokbedė, Levio duktė, kurią ⟨ji⟩ pagimdė Leviui Micraime; ir ji pagimdė Amramui ⟨את⟩ Aharoną ir ⟨את⟩ Mošę bei ⟨את⟩ Mirjam, jų seserį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a44fcee9abb88ffa0be749309fba6c7ba61756f0dad9db1bda0dbcc07604682a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/26\/57-60.1792474612117.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Amramo žmonos vardas ⟨buvo⟩ Jokebedė, Levio dukra, kurią ji pagimdė Leviui Micraime; ir ji pagimdė Amramui ⟨את⟩ Aaroną, ⟨את⟩ Mošę ir ⟨את⟩ Mirjamą, jų seserį.",
   "tokens": [
     {
       "surface": "ושם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "יוכבד",
-      "gloss": "Jokbedė"
+      "gloss": "Jokebedė"
     },
     {
       "surface": "בת",
-      "gloss": "duktė"
+      "gloss": "dukra"
     },
     {
       "surface": "לוי",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "ילדה",
-      "gloss": "pagimdė"
+      "gloss": "ji pagimdė"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "kurią (Jokbedę)"
+      "marks": "ją — Leviui"
     },
     {
       "surface": "ללוי",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "ir pagimdė"
+      "gloss": "ir ji pagimdė"
     },
     {
       "surface": "לעמרם",
@@ -84,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aharoną"
+      "marks": "Aaroną"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoną"
+      "gloss": "Aaroną"
     },
     {
       "surface": "ואת",
@@ -102,17 +81,17 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Mirjam"
+      "marks": "Mirjamą"
     },
     {
       "surface": "מרים",
-      "gloss": "Mirjam"
+      "gloss": "Mirjamą"
     },
     {
       "surface": "אחתם",
       "gloss": "jų seserį"
     }
   ],
-  "timestamp": "2026-10-20T05:36:52.121343783Z",
+  "timestamp": "2026-10-20T12:41:09.952718185Z",
   "model": "glm-5.3"
 }

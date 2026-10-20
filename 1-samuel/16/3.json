@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "whom to anoint",
-      "rationale": "Karaliaus tapatybė sąmoningai sulaikoma — 'tą, kurį įvardysiu'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Samuel",
-      "rationale": "Tiesioginiai imperatyvai Šmueliui."
-    }
-  ],
-  "translation": "Ir pakviesk Jišajų prie aukos, o aš tau pranešiu, ką daryti; ir patepk man ⟨את⟩ tą, kurį įvardysiu tau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/16\/1-4.1792477346650.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pakviesk Jisajų į aukojimą, o aš pranešiu tau, ką turi daryti; ir pateiksi man ⟨את⟩ tą, kurį aš pasakysiu tau.",
   "tokens": [
     {
       "surface": "וקראת",
-      "gloss": "Ir pakviesk"
+      "gloss": "ir pakviesk"
     },
     {
       "surface": "לישי",
-      "gloss": "Jišajų"
+      "gloss": "Jisajų"
     },
     {
       "surface": "בזבח",
-      "gloss": "prie aukos"
+      "gloss": "į aukojimą"
     },
     {
       "surface": "ואנכי",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "אודיעך",
-      "gloss": "tau pranešiu"
+      "gloss": "pranešiu tau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ką daryti"
+      "marks": "ką turi daryti"
     },
     {
       "surface": "אשר",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "daryti"
+      "gloss": "turi daryti"
     },
     {
       "surface": "ומשחת",
-      "gloss": "ir patepk"
+      "gloss": "ir pateiksi"
     },
     {
       "surface": "לי",
@@ -72,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tą, kurį įvardysiu tau"
+      "marks": "tą, kurį aš pasakysiu"
     },
     {
       "surface": "אשר",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "אמר",
-      "gloss": "įvardysiu"
+      "gloss": "pasakysiu"
     },
     {
       "surface": "אליך",
       "gloss": "tau"
     }
   ],
-  "timestamp": "2026-10-20T06:22:26.654299498Z",
+  "timestamp": "2026-10-20T12:07:53.128408631Z",
   "model": "glm-5.3"
 }

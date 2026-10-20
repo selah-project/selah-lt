@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨priklausančio⟩",
-      "rationale": " בūsų konstrukcija 'mano pono Avrahamo Elohim' — lietuvių turi skirti savininką ir priklausymą, žodis įdėtas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tiesos keliu",
-      "rationale": "אמת — 'patikimumas, tvirtumas'; 'tiesa' arti, bet žodis reiškia patikimumą"
-    }
-  ],
-  "translation": "Ir aš nusilenkiau ir puoliau veidu prieš Jahvę, ir laiminau Jahvę, mano ponui Avrahamui ⟨priklausančio⟩ Elohim, kuris vedė mane tiesos keliu, paimti ⟨את⟩ brolio mano pono dukterį jo sūnui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5dd6995fa0e5a1a7336a1533818fe224003c2e2e80cca0b24ee344674360afee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/45-48.1792471488959.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš nusilenkiau ir puoliau veidu prieš žemę prieš Jahvę, ir palaiminau ⟨את⟩ Jahvę, mano ponos Avrahamo Elohim, kuris vedė mane teisingu keliu, kad paimčiau ⟨את⟩ mano pono brolio dukterį jo sūnui.",
   "tokens": [
     {
       "surface": "ואקד",
-      "gloss": "Ir aš nusilenkiau"
+      "gloss": "ir nusilenkiau"
     },
     {
       "surface": "ואשתחוה",
-      "gloss": "ir puoliau veidu"
+      "gloss": "ir puoliau veidu prieš žemę"
     },
     {
       "surface": "ליהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ואברך",
-      "gloss": "ir laiminau"
+      "gloss": "ir palaiminau"
     },
     {
       "surface": "את",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אדני",
-      "gloss": "mano ponui"
+      "gloss": "mano pono"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avrahamui"
+      "gloss": "Avrahamo"
     },
     {
       "surface": "אשר",
@@ -79,16 +58,16 @@
     },
     {
       "surface": "אמת",
-      "gloss": "tiesos"
+      "gloss": "teisingu"
     },
     {
       "surface": "לקחת",
-      "gloss": "paimti"
+      "gloss": "kad paimčiau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dukterį"
+      "marks": "mano pono brolio dukterį"
     },
     {
       "surface": "בת",
@@ -107,6 +86,6 @@
       "gloss": "jo sūnui"
     }
   ],
-  "timestamp": "2026-10-20T04:44:48.964129650Z",
+  "timestamp": "2026-10-20T12:25:03.687492005Z",
   "model": "glm-5.3"
 }

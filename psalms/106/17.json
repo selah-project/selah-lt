@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "'על עדת' — 'ant\/su draugija': 'על' išnyko suliejus su 'paslėpė', hebrajiškai 'paslėpė ant'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תפתח...ותבלע",
-      "rationale": "Žemė 'atsižioja' ir 'ryja' — burnos paveikslas, lietuviškai 'atsivėrė\/prarijo' išlaiko dalį jo."
-    }
-  ],
-  "translation": "Atsivėrė žemė ir prarijo ⟨את⟩ Dataną, ir paslėpė ⟨את⟩ Abiramo draugiją.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/106\/17-20.1792488878264.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Žemė atsivėrė ir prarijo ⟨את⟩ Dataną, ir paslėpė ⟨את⟩ Abiramo draugiją.",
   "tokens": [
     {
       "surface": "תפתח",
@@ -42,7 +21,8 @@
     },
     {
       "surface": "דתן",
-      "gloss": "⟨את⟩ Dataną"
+      "gloss": "⟨את⟩ Dataną",
+      "marks": "Datanas"
     },
     {
       "surface": "ותכס",
@@ -50,7 +30,7 @@
     },
     {
       "surface": "על",
-      "gloss": "⟨את⟩"
+      "gloss": ""
     },
     {
       "surface": "עדת",
@@ -61,6 +41,6 @@
       "gloss": "Abiramo"
     }
   ],
-  "timestamp": "2026-10-20T09:34:38.264879164Z",
+  "timestamp": "2026-10-20T12:42:47.058257076Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aronas",
-      "rationale": "הארון yra 'skrynia\/aronas'; rašoma pagal skambesį, ne 'sandoros skrynia' viena."
-    },
-    {
-      "kind": "measurement",
-      "subject": "skaičiavimas",
-      "rationale": "Eilutė sako, kad aukų nei suskaičiuoti, nei apskaičiuoti negalima — skaičiavimo motyvas atmetamas dėl gausumo."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לא יספרו ולא ימנו",
-      "rationale": "Du beveik sinonimiški veiksmažodžiai (sąskaita ir skaičiavimas) — hebrajiškas dvilypis stiprinimas."
-    }
-  ],
-  "translation": "Ir karalius Šelomohas ir visa Jisraelio bendrija, susirinkusi pas jį, ⟨su juo⟩ buvo priešais aroną, aukodami avis ir galvijus, kurių nei įmanoma suskaičiuoti, nei apskaičiuoti dėl jų gausumo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/8\/5-8.1792479086931.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius Šelomas ir visa Jisraelio bendruomenė, susirinkę pas jį ⟨את⟩ ⟨su juo⟩ prieš ⟨את⟩ skrynią, aukojo avis ir ožkas bei galvijus, kurių negalima suskaičiuoti ir neišmatuoti dėl gausumo.",
   "tokens": [
     {
       "surface": "והמלך",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomohas"
+      "gloss": "Šelomas"
     },
     {
       "surface": "וכל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "עדת",
-      "gloss": "bendrija"
+      "gloss": "bendruomenė"
     },
     {
       "surface": "ישראל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הנועדים",
-      "gloss": "susirinkusi"
+      "gloss": "susirinkę"
     },
     {
       "surface": "עליו",
@@ -63,24 +37,23 @@
     },
     {
       "surface": "אתו",
-      "gloss": "su juo ⟨את⟩",
-      "marks": "karalius Šelomohas"
+      "gloss": "⟨את⟩ ⟨su juo⟩"
     },
     {
       "surface": "לפני",
-      "gloss": "priešais"
+      "gloss": "prieš"
     },
     {
       "surface": "הארון",
-      "gloss": "aroną"
+      "gloss": "skrynią"
     },
     {
       "surface": "מזבחים",
-      "gloss": "aukodami"
+      "gloss": "aukojo"
     },
     {
       "surface": "צאן",
-      "gloss": "avis"
+      "gloss": "avis ir ožkas"
     },
     {
       "surface": "ובקר",
@@ -92,25 +65,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "nei"
+      "gloss": "ne"
     },
     {
-      "surface": "יסספרו",
-      "gloss": "įmanoma suskaičiuoti"
+      "surface": "יספרו",
+      "gloss": "galima suskaičiuoti"
     },
     {
       "surface": "ולא",
-      "gloss": "nei"
+      "gloss": "ir nei"
     },
     {
       "surface": "ימנו",
-      "gloss": "apskaičiuoti"
+      "gloss": "išmatuoti"
     },
     {
       "surface": "מרב",
       "gloss": "dėl gausumo"
     }
   ],
-  "timestamp": "2026-10-20T06:51:26.932893305Z",
+  "timestamp": "2026-10-20T12:07:27.960969334Z",
   "model": "glm-5.3"
 }

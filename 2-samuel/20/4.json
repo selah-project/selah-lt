@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Amasui",
-      "rationale": "Karaliaus įsakymas tiesiogiai kreipiasi į Amasą — įsakomieji būdai 'sušauk', 'stovėk'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "lietuviškas linksnis 'Amasui' jau reiškia kreipimąsi — prielinksnis išnyko."
-    },
-    {
-      "kind": "measurement",
-      "subject": "per tris dienas",
-      "rationale": "terminas — laiko skaičiavimas."
-    }
-  ],
-  "translation": "Ir tarė karalius Amasui: Sušauk man ⟨את⟩ Jėhudės vyrus per tris dienas, o tu pats čia stovėk.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a650965cb1b4a9357c105dd9ac74d0551fd62aea490fc82d800378b799b70a85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/20\/1-4.1792478570633.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė karalius Amasai: Sušauk man ⟨את⟩ Jūdos vyrus per tris dienas, o tu pastovėk čia.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Amasai"
     },
     {
       "surface": "עמשא",
-      "gloss": "Amasui"
+      "gloss": "Amasai"
     },
     {
       "surface": "הזעק",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jėhudės vyrus"
+      "marks": "Jūdos vyrus"
     },
     {
       "surface": "איש",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jėhudės"
+      "gloss": "Jūdos"
     },
     {
       "surface": "שלשת",
-      "gloss": "per tris"
+      "gloss": "tris"
     },
     {
       "surface": "ימים",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "o tu pats"
+      "gloss": "o tu"
     },
     {
       "surface": "פה",
@@ -88,9 +62,9 @@
     },
     {
       "surface": "עמד",
-      "gloss": "stovėk"
+      "gloss": "pastovėk"
     }
   ],
-  "timestamp": "2026-10-20T06:42:50.635774685Z",
+  "timestamp": "2026-10-20T12:14:35.005804259Z",
   "model": "glm-5.3"
 }

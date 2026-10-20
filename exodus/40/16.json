@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויעש\/עשה",
-      "rationale": "chiazmo apvadas: 'darė... padarė' — pakartota veiksmažodio šaknis"
-    }
-  ],
-  "translation": "Ir Mošė padarė pagal viską, ką įsakė Jahvė jam; taip jis padarė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/40\/13-16.1792473094685.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė padarė pagal viską, ką įsakė Jahvė ⟨את⟩ jam — taip jis padarė.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "padarė"
+      "gloss": "ir padarė"
     },
     {
       "surface": "משה",
@@ -49,8 +33,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "צוה"
+      "gloss": "⟨את⟩",
+      "marks": "jam"
     },
     {
       "surface": "כן",
@@ -61,6 +45,6 @@
       "gloss": "padarė"
     }
   ],
-  "timestamp": "2026-10-20T05:11:34.689737653Z",
+  "timestamp": "2026-10-20T12:20:27.052152676Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šelamim",
-      "rationale": "השלמים — 'šelamim' (taikos aukos) išlaikytas pagal skambesį, ne verčiamas kaip 'taikos auka'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "skaičiai",
-      "rationale": "Aukų kiekiai iranto aukotojo vardo — skyriaus skaičiavimo struktūra"
-    }
-  ],
-  "translation": "ir aukai šelamim: du jaučiai, penki avinai, penki ožiai, penki ėriukai, metų sūnūs; štai Eliсūro, Šedeūro sūnaus, dovana.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f3b16c19c637c01139aa0a12dd7dab3d1d309eac1d10bbeda99b8592c89e62bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/33-36.1792473947926.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨už⟩ auką šelamim: du jaučius, penkis elnėnus, penkis ožius-atriukus, penkis avinėlius, metų amžiaus, penkis — ši ⟨yra⟩ auka Elicūro, Šedeūro sūnaus.",
   "tokens": [
     {
       "surface": "ולזבח",
-      "gloss": "ir aukai"
+      "gloss": "Ir už auką"
     },
     {
       "surface": "השלמים",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בקר",
-      "gloss": "jaučiai"
+      "gloss": "jaučius"
     },
     {
       "surface": "שנים",
@@ -46,47 +25,47 @@
     },
     {
       "surface": "אילם",
-      "gloss": "avinai"
+      "gloss": "elnėnus"
     },
     {
       "surface": "חמשה",
-      "gloss": "penki"
+      "gloss": "penkis"
     },
     {
       "surface": "עתדים",
-      "gloss": "ožiai"
+      "gloss": "ožius-atriukus"
     },
     {
       "surface": "חמשה",
-      "gloss": "penki"
+      "gloss": "penkis"
     },
     {
       "surface": "כבשים",
-      "gloss": "ėriukai"
+      "gloss": "avinėlius"
     },
     {
       "surface": "בני",
-      "gloss": "sūnūs"
-    },
-    {
-      "surface": "שנה",
       "gloss": "metų"
     },
     {
+      "surface": "שנה",
+      "gloss": "amžiaus"
+    },
+    {
       "surface": "חמשה",
-      "gloss": "penki"
+      "gloss": "penkis"
     },
     {
       "surface": "זה",
-      "gloss": "štai"
+      "gloss": "ši"
     },
     {
       "surface": "קרבן",
-      "gloss": "dovana"
+      "gloss": "auka"
     },
     {
       "surface": "אליצור",
-      "gloss": "Eliсūro"
+      "gloss": "Elicūro"
     },
     {
       "surface": "בן",
@@ -97,6 +76,6 @@
       "gloss": "Šedeūro"
     }
   ],
-  "timestamp": "2026-10-20T05:25:47.927539105Z",
+  "timestamp": "2026-10-20T13:26:13.611437440Z",
   "model": "glm-5.3"
 }

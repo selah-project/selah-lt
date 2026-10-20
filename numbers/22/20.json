@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "jeigu",
-      "rationale": "אם čia gali būti sąlyga („jeigu atėjo šaukti“) arba patvirtinimas („kadangi atėjo“) — KJV „If“, BSB „Since“."
-    },
-    {
-      "kind": "you",
-      "subject": "Bileamui",
-      "rationale": "Elohim kreipiasi tiesiogiai į Bileamą naktiniame žodyje."
-    }
-  ],
-  "translation": "Ir atėjo Elohim pas Bileamą naktį ir tarė jam: jeigu šaukti tavęs atėjo tie vyrai, kelkis, eik ⟨את⟩ su jais, bet tik ⟨את⟩ žodį, kurį aš kalbėsiu tau, — jį tu padarysi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/22\/17-20.1792474433574.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Elohim atėjo pas Bileamą naktį ir tarė jam: jeigu šaukti tave atėjo tie vyrai, kelkis, eik ⟨את⟩ su jais, bet tik ⟨את⟩ žodį, kurį aš kalbėsiu tau, ⟨את⟩ jį darysi.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Ir atėjo"
+      "gloss": "ir atėjo"
     },
     {
       "surface": "אלהים",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "tavęs"
+      "gloss": "tave"
     },
     {
       "surface": "באו",
@@ -86,7 +65,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ su jais"
+      "gloss": "⟨את⟩ su jais",
+      "marks": "אתם — prielinksnis „su“, ne DOM ⟨את⟩"
     },
     {
       "surface": "ואך",
@@ -107,7 +87,7 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "kalbėsiu"
+      "gloss": "aš kalbėsiu"
     },
     {
       "surface": "אליך",
@@ -115,14 +95,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "darysi"
     },
     {
       "surface": "תעשה",
-      "gloss": "padarysi"
+      "gloss": "darysi"
     }
   ],
-  "timestamp": "2026-10-20T05:33:53.577583707Z",
+  "timestamp": "2026-10-20T12:41:03.469775975Z",
   "model": "glm-5.3"
 }

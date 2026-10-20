@@ -5,31 +5,15 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajų היא — parodomoji dalelytė, lietuvių kalbai reikia veiksmažodžio."
-    }
-  ],
-  "translation": "Ir tauta nutilo ir neatsakė jam nė žodžio, nes karaliaus įsakymas ⟨buvo⟩ toks: Neatsakykite jam.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3d23a64626d02cac9213193d2c15c2bb7f1ca4715926b0e58930860abc9bc619",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/18\/33-36.1792480276938.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir žmonės nutilo ir neatsakė jam ⟨את⟩ nė žodžio, nes karaliaus įsakymas ⟨yra⟩ toks: nesakyk, kad ⟨ne⟩ atsakytum jam.",
   "tokens": [
     {
       "surface": "והחרישו",
-      "gloss": "ir nutilo"
+      "gloss": "nutilo"
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmonės"
     },
     {
       "surface": "ולא",
@@ -42,7 +26,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "nė žodžio"
+      "marks": "nė žodžio (דבר)"
     },
     {
       "surface": "דבר",
@@ -62,21 +46,21 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨buvo⟩"
+      "gloss": "⟨yra⟩"
     },
     {
       "surface": "לאמר",
-      "gloss": "toks"
+      "gloss": "sakantis"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "⟨ne⟩"
     },
     {
       "surface": "תענהו",
-      "gloss": "atsakykite jam"
+      "gloss": "atsakytum jam"
     }
   ],
-  "timestamp": "2026-10-20T07:11:16.940564542Z",
+  "timestamp": "2026-10-20T12:12:19.821757122Z",
   "model": "glm-5.3"
 }

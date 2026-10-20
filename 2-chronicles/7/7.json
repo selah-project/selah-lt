@@ -5,41 +5,20 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "riebalai",
-      "rationale": "חלב — aukos riebalinės dalys, geriausioji dalis, ne „storis“."
-    },
-    {
-      "kind": "crux",
-      "subject": "shelamim",
-      "rationale": "„Sveikinimo aukos“, „taikos aukos“ ar skambesiu paliktas „shelamim“ — vertėjai nesutaria."
-    }
-  ],
-  "translation": "Ir Šelomohas pašventino ⟨את⟩ vidurį kiemo, ⟨esančio⟩ priešais Jahvės namus, nes ten jis darė deginamąsias aukas ir ⟨את⟩ shelamim aukų riebalus, nes žalvario aukuras, kurį buvo padaręs Šelomohas, negalėjo sutalpinti ⟨את⟩ deginamosios aukos ir ⟨את⟩ minchos bei ⟨את⟩ riebalų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "985788be382bfc58bd1ed5a8a8d19be1bff61ff85d28c2f64ae99dfa477cf43b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/7\/5-8.1792493465644.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šlomohas pašventino ⟨את⟩ vidurį kiemo, kuris ⟨yra⟩ priešais Jahvės namus, nes ten jis darė deginamuosius aukojimus ir ⟨את⟩ riebalus šalomų aukų, nes vario aukuras, kurį padarė Šlomohas, negalėjo išlaikyti ⟨את⟩ deginamąją auką ir ⟨את⟩ minchą bei ⟨את⟩ riebalus.",
   "tokens": [
     {
       "surface": "ויקדש",
-      "gloss": "pašventino"
+      "gloss": "ir pašventino"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomohas"
+      "gloss": "Šlomohas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "vidurį kiemo"
+      "marks": "vidurį"
     },
     {
       "surface": "תוך",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "esančio"
+      "gloss": "kuris"
     },
     {
       "surface": "לפני",
@@ -79,12 +58,12 @@
     },
     {
       "surface": "העלות",
-      "gloss": "deginamąsias aukas"
+      "gloss": "deginamuosius aukojimus"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "shelamim aukų riebalus"
+      "marks": "riebalus"
     },
     {
       "surface": "חלבי",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "shelamim aukų"
+      "gloss": "šalomų aukų"
     },
     {
       "surface": "כי",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "žalvario"
+      "gloss": "vario"
     },
     {
       "surface": "אשר",
@@ -112,11 +91,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "buvo padaręs"
+      "gloss": "padarė"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomohas"
+      "gloss": "Šlomohas"
     },
     {
       "surface": "לא",
@@ -128,36 +107,36 @@
     },
     {
       "surface": "להכיל",
-      "gloss": "sutalpinti"
+      "gloss": "išlaikyti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "deginamosios aukos"
+      "marks": "deginamąją auką"
     },
     {
       "surface": "העלה",
-      "gloss": "deginamosios aukos"
+      "gloss": "deginamąją auką"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "minchos"
+      "marks": "minchą"
     },
     {
-      "surface": "המנחha",
-      "gloss": "minchos"
+      "surface": "המנחה",
+      "gloss": "minchą"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "riebalų"
+      "marks": "riebalus"
     },
     {
       "surface": "החלבים",
-      "gloss": "riebalų"
+      "gloss": "riebalus"
     }
   ],
-  "timestamp": "2026-10-20T10:51:05.645336035Z",
+  "timestamp": "2026-10-20T12:11:24.857753016Z",
   "model": "glm-5.3"
 }

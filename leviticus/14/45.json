@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עפר",
-      "rationale": "čia ne 'dulkės', o namų tinko nuolaužos; versta 'miltai' pagal žodio pavidalą (milteliai, trinta medžiaga), o ne 'tinkas'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sunaikinimo aprašas",
-      "rationale": "išvardyta kiekviena namų dalis po vieną — akmenys, mediena, visos dulkės — visas namas išmatuotas iki paskutinio gabalo"
-    }
-  ],
-  "translation": "Ir jis nugriaus ⟨את⟩ namus — ⟨את⟩ jo akmenis, ⟨את⟩ jo medieną ir ⟨את⟩ visus namų miltus — ir išneš laukan už miesto, į nešvarų ℝvietą ℝnešvarų vietą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/45-48.1792473384220.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis nugriaus ⟨את⟩ namą — ⟨את⟩ jo akmenis, ⟨את⟩ jo medį ir ⟨את⟩ visą namo dulkes — ir išneš laukan už miesto, į nešvarų ⟨vietą⟩.",
   "tokens": [
     {
       "surface": "ונתץ",
@@ -35,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "namus"
+      "marks": "namą"
     },
     {
       "surface": "הבית",
-      "gloss": "namus"
+      "gloss": "namą"
     },
     {
       "surface": "את",
@@ -53,28 +32,28 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo medieną"
+      "marks": "jo medį"
     },
     {
       "surface": "עציו",
-      "gloss": "jo medieną"
+      "gloss": "jo medį"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visus namų miltus"
+      "marks": "visą namo dulkes"
     },
     {
       "surface": "כל",
-      "gloss": "visus"
+      "gloss": "visą"
     },
     {
       "surface": "עפר",
-      "gloss": "miltus"
+      "gloss": "dulkes"
     },
     {
       "surface": "הבית",
-      "gloss": "namų"
+      "gloss": "namo"
     },
     {
       "surface": "והוציא",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "laukan"
+      "gloss": "lauką"
     },
     {
       "surface": "לעיר",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "טמא",
-      "gloss": "nešvarią"
+      "gloss": "nešvarų"
     }
   ],
-  "timestamp": "2026-10-20T05:16:24.223483455Z",
+  "timestamp": "2026-10-20T12:37:43.165338164Z",
   "model": "glm-5.3"
 }

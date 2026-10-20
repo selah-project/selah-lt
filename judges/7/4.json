@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "išgrynuosiu",
-      "rationale": "אצרף pažodžiui 'perlydysiu, išgrynuosiu' kaip metalą — dauguma vertimų minkština į 'išmėginsiu'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זה ילך \/ הוא ילך",
-      "rationale": "Kartojamas dviejų dalių šablonas — 'šitas eis — jis eis; šitas neis — jis neis' — simetrinis ir aiškinantis sakymas, lietuviškai atrodo perteklingas."
-    }
-  ],
-  "translation": "Ir Jahvė tarė Gedeonui: Dar per daug tautos; nusvesk ⟨את⟩ juos prie vandens, ir aš ten juos išgrynuosiu tau. Ir bus: kurį aš tau pasakysiu — šitas eis su tavimi, jis eis su tavimi; o kiekvieną, kurį aš tau pasakysiu — šitas neis su tavimi, — jis neis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f541274791300c57c5679772f88d7066f34433eebd3ab744c852817390f3d123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/7\/2-4.1792485502482.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Gideonui: dar per daug žmonių; nusivesk juos ⟨את⟩ prie vandens, ir ten aš juos išgrynuiu tau; ir bus: kurį aš tau pasakysiu „šis eis su tavimi“ — jis eis su tavimi, ir kiekvieną, kurį tau pasakysiu „šis neis su tavimi“ — jis neis.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "rod"
+      "gloss": ""
     },
     {
       "surface": "גדעון",
-      "gloss": "Gedeonui"
+      "gloss": "Gideonui"
     },
     {
       "surface": "עוד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "tautos"
+      "gloss": "žmonių"
     },
     {
       "surface": "רב",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "הורד",
-      "gloss": "nusvesk"
+      "gloss": "nusivesk"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "juos (žmones prie vandens)"
+      "gloss": "juos ⟨את⟩",
+      "marks": "juos (žmones)"
     },
     {
       "surface": "אל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "ir aš išgrynuosiu"
+      "gloss": "ir aš išgrynuosiu juos"
     },
     {
       "surface": "לך",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "Ir bus"
+      "gloss": "ir bus"
     },
     {
       "surface": "אשר",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "šitas"
+      "gloss": "šis"
     },
     {
       "surface": "ילך",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ su tavimi"
+      "gloss": "⟨את⟩ tavimi"
     },
     {
       "surface": "הוא",
@@ -123,11 +102,11 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ su tavimi"
+      "gloss": "⟨את⟩ tavimi"
     },
     {
       "surface": "וכל",
-      "gloss": "o kiekvieną"
+      "gloss": "ir kiekvieną"
     },
     {
       "surface": "אשר",
@@ -143,7 +122,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "šitas"
+      "gloss": "šis"
     },
     {
       "surface": "לא",
@@ -170,6 +149,6 @@
       "gloss": "eis"
     }
   ],
-  "timestamp": "2026-10-20T08:38:22.486001647Z",
+  "timestamp": "2026-10-20T12:37:03.382731172Z",
   "model": "glm-5.3"
 }

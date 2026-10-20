@@ -5,48 +5,27 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תונו",
-      "rationale": "ינה reiškia smurtą ir priespaudą; 'skriausti' apima abi reikšmes, o 'engti' būtų per siaura."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "Prielinksnis את (H854) 'su' išlaikytas ⟨את⟩ ženklu, nes forma ta pati, kaip objekto žymeklio."
-    }
-  ],
-  "translation": "Ir kai apsigyvens su tavimi ateivis jūsų žemėje, neskriauskite ⟨את⟩ jo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/33-36.1792473624776.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kai svetimasis gyvens ⟨את⟩ pas tave tavo šalyje, nejęsink ⟨את⟩ jo.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ir kai"
+      "gloss": "Ir kai"
     },
     {
       "surface": "יגור",
-      "gloss": "apsigyvens"
+      "gloss": "gyvens kaip ateivis"
     },
     {
       "surface": "אתך",
-      "gloss": "su tavimi ⟨את⟩"
+      "gloss": "⟨את⟩ pas tave"
     },
     {
       "surface": "גר",
-      "gloss": "ateivis"
+      "gloss": "svetimasis"
     },
     {
       "surface": "בארצכם",
-      "gloss": "jūsų žemėje"
+      "gloss": "tavo šalyje"
     },
     {
       "surface": "לא",
@@ -54,14 +33,14 @@
     },
     {
       "surface": "תונו",
-      "gloss": "neskriauskite"
+      "gloss": "jęsink"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį — ateivį"
+      "gloss": "⟨את⟩",
+      "marks": "jo"
     }
   ],
-  "timestamp": "2026-10-20T05:20:24.789278594Z",
+  "timestamp": "2026-10-20T12:38:29.894367459Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "צר",
-      "rationale": "Literaliai „susiaurėję“ — „siaurumas“ kaip vargo paveikslas; „sudėtinga“ išlygina."
-    },
-    {
-      "kind": "you",
-      "subject": "vyresniesiems",
-      "rationale": "Jeftajo retorinis klausimas tiesiogiai kreipiamas į Gilado vyresniuosius."
-    }
-  ],
-  "translation": "Ir Jeftajas tarė Gilado vyresniesiems: Ar ne jūs manęs nekentėte ir išvarėte mane iš tėvo namų? Ir kodėl ateinate pas mane dabar, kai jums sudėtinga?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e95f0722b4c4f08df53a059bfc9c0aa4600a0b3db6022311d8638491f46f8a1a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/11\/5-8.1792476638258.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jiftachas tarė Gilado vyresniesiems: Ar ne jūs nekentėte manęs ir išvarėte ⟨את⟩ mane iš tėvo namų? Ir kodėl ateinate pas mane dabar, kai jums sunku?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יפתח",
-      "gloss": "Jeftajas"
+      "gloss": "Jiftachas"
     },
     {
       "surface": "לזקני",
@@ -58,8 +37,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mane",
-      "marks": "mane"
+      "gloss": "⟨את⟩",
+      "marks": "manęs — mane, kurį jūs nekentėte"
     },
     {
       "surface": "ותגרשוני",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "אבי",
-      "gloss": "tėvo"
+      "gloss": "tėvo mano"
     },
     {
       "surface": "ומדוע",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "צר",
-      "gloss": "sudėtinga"
+      "gloss": "sunku"
     },
     {
       "surface": "לכם",
       "gloss": "jums"
     }
   ],
-  "timestamp": "2026-10-20T06:10:38.260594402Z",
+  "timestamp": "2026-10-20T12:36:09.273974544Z",
   "model": "glm-5.3"
 }

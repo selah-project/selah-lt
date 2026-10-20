@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jeruzalei",
-      "rationale": "Eilutė kreipiasi į Jeruzalę moteriškąja gimine ('ėmei', 'nusavindavai', 'užmirtei')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "užauga",
-      "rationale": "נֶשֶׁךְ — draudžiamos palūkanos už skolą; 'užauga' yra Tanacho terminas, ne šiuolaikinės 'palūkanos' vien."
-    }
-  ],
-  "translation": "Kyšius ėmė tavyje kraujo liejimui; užaugą ir priedą ėmei, ir artimus savo nusavindavai prievarta, ir ⟨את⟩ mane užmirtei — sako Adonai Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/22\/9-12.1792484466241.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kyšius ėmė tavyje, kad kraują pralietų; palūkanas ir priedus ėmei, ir apiplėšei ⟨את⟩ savo artimus engimu, o ⟨את⟩ mane užmirsei — sako Adonai Jahvė.",
   "tokens": [
     {
       "surface": "שחד",
@@ -41,7 +20,7 @@
       "gloss": "tavyje"
     },
     {
-      "surface": "لמען",
+      "surface": "למען",
       "gloss": "kad"
     },
     {
@@ -54,11 +33,11 @@
     },
     {
       "surface": "נשך",
-      "gloss": "užaugą"
+      "gloss": "palūkanas"
     },
     {
       "surface": "ותרבית",
-      "gloss": "ir priedą"
+      "gloss": "ir priedus"
     },
     {
       "surface": "לקחת",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ותבצעי",
-      "gloss": "ir nusavindavai"
+      "gloss": "apiplėšei"
     },
     {
       "surface": "רעיך",
@@ -74,15 +53,16 @@
     },
     {
       "surface": "בעשק",
-      "gloss": "prievarta"
+      "gloss": "engimu"
     },
     {
       "surface": "ואתי",
-      "gloss": "ir ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "mane"
     },
     {
       "surface": "שכחת",
-      "gloss": "mane užmirtei"
+      "gloss": "užmirsei"
     },
     {
       "surface": "נאם",
@@ -97,6 +77,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T08:21:06.242713724Z",
+  "timestamp": "2026-10-20T12:22:35.651862365Z",
   "model": "glm-5.3"
 }

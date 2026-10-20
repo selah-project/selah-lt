@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨jo⟩",
-      "rationale": "Lietuvių kalbai reikia veiksnio-objecto; hebrajiškoje sufikso formoje jis tik -נו"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ברך",
-      "rationale": "Bileamo lūpose ברך dažnai eufemizmas „keikti”, bet čia verčiama pagal formą — laiminti"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קב\/תקבנו · ברך\/תברכנו",
-      "rationale": "Šaknų kartojimas su prijungiamuoju -נו; atkarta išlaikyta"
-    }
-  ],
-  "translation": "Ir Balakas tarė Bileamui: kad ir keiktum — nekeik ⟨jo⟩; kad ir laimintum — nelaimink ⟨jo⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/25-28.1792474445241.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Balakas tarė Bileamui: jei jau keiki, jo nekeisk, jei jau laimini, jo nelaimink.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Bileamui"
     },
     {
       "surface": "בלעם",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "גם",
-      "gloss": "kad ir"
+      "gloss": "jei jau"
     },
     {
       "surface": "קב",
-      "gloss": "keiktum"
+      "gloss": "keiki"
     },
     {
       "surface": "לא",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "תקבנו",
-      "gloss": "keik ⟨jo⟩"
+      "gloss": "jo nekeisk"
     },
     {
       "surface": "גם",
-      "gloss": "kad ir"
+      "gloss": "jei jau"
     },
     {
       "surface": "ברך",
-      "gloss": "laimintum"
+      "gloss": "laimini"
     },
     {
       "surface": "לא",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "תברכנו",
-      "gloss": "laimink ⟨jo⟩"
+      "gloss": "jo nelaimink"
     }
   ],
-  "timestamp": "2026-10-20T05:34:05.242228001Z",
+  "timestamp": "2026-10-20T12:40:51.937301188Z",
   "model": "glm-5.3"
 }

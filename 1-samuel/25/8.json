@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ką tavo ranka ras",
-      "rationale": "את אשר תמצא ידך — pažodžiui 'ką tavo ranka ras'; BSB modernizuoja į 'ką gali sau leisti'."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "gloss": "Prielinksnis על prieš 'gerą dieną' lietuvių kalboj neišreiškiamas — 'atėjome gera diena'."
-    },
-    {
-      "kind": "you",
-      "subject": "Nabalui",
-      "rationale": "Tiesioginis kreipimasis į Nabalą per pasiuntinius — prašymo kalba."
-    }
-  ],
-  "translation": "Paklausk ⟨את⟩ savo jaunuolių, ir jie tau pasakys, ir teatranda jaunuoliai malonę tavo akyse, nes gera diena mums atėjo: duok, meldžiu, ⟨את⟩ tai, ką tavo ranka ras, tavo tarnams ir tavo sūnui Davidui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/5-8.1792477696310.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Klausk ⟨את⟩ savo jaunuolių, ir jie pasakys tau, o jaunuoliai teberanda malonę tavo akyse, nes gera diena mes atėjome; duok, meldžiu, ⟨את⟩ tai, ką tavo ranka randa, tavo tarnams ir tavo sūnui Davidui.",
   "tokens": [
     {
       "surface": "שאל",
-      "gloss": "paklausk"
+      "gloss": "Klausk"
     },
     {
       "surface": "את",
@@ -44,11 +18,11 @@
     },
     {
       "surface": "נעריך",
-      "gloss": "savo-jaunuolių"
+      "gloss": "jaunuolių"
     },
     {
       "surface": "ויגידו",
-      "gloss": "ir-jie-pasakys"
+      "gloss": "ir jie pasakys"
     },
     {
       "surface": "לך",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "וימצאו",
-      "gloss": "ir-teatranda"
+      "gloss": "teberanda"
     },
     {
       "surface": "הנערים",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "tavo-akyse"
+      "gloss": "tavo akyse"
     },
     {
       "surface": "כי",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "per"
     },
     {
       "surface": "יום",
@@ -101,33 +75,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tai, ką tavo ranka ras"
+      "marks": "tai, ką tavo ranka randa"
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "ką"
     },
     {
       "surface": "תמצא",
-      "gloss": "rasi"
+      "gloss": "randa"
     },
     {
       "surface": "ידך",
-      "gloss": "tavo-ranka"
+      "gloss": "tavo ranka"
     },
     {
       "surface": "לעבדיך",
-      "gloss": "tavo-tarnams"
+      "gloss": "tavo tarnams"
     },
     {
       "surface": "ולבנך",
-      "gloss": "ir-tavo-sūnui"
+      "gloss": "ir tavo sūnui"
     },
     {
       "surface": "לדוד",
       "gloss": "Davidui"
     }
   ],
-  "timestamp": "2026-10-20T06:28:16.314470865Z",
+  "timestamp": "2026-10-20T12:08:37.389139163Z",
   "model": "glm-5.3"
 }

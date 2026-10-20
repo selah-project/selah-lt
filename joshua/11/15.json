@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "צוה…צוה…צוה",
-      "rationale": "Trim kartojamas 'įsakė' — grandinė Jahvė→Mošė→Jehošua."
-    }
-  ],
-  "translation": "Kaip įsakė Jahvė Mošei, savo tarnui, taip Mošė įsakė Jehošuai, ir taip padarė Jehošua: nepraleido nė žodžio iš visko, ką Jahvė įsakė Mošei.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/13-16.1792475950701.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaip įsakė Jahvė ⟨את⟩ Mošei, savo tarnui, taip Mošė įsakė ⟨את⟩ Jehošua; ir taip padarė Jehošua — nepaliko nė vieno žodžio neįvykdyto iš visko, ką Jahvė buvo įsakęs ⟨את⟩ Mošei.",
   "tokens": [
     {
       "surface": "כאשר",
@@ -38,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošei"
+      "marks": "Mošę"
     },
     {
       "surface": "משה",
@@ -63,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehošuai"
+      "marks": "Jehošua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošuai"
+      "gloss": "Jehošua"
     },
     {
       "surface": "וכן",
@@ -87,19 +71,19 @@
     },
     {
       "surface": "הסיר",
-      "gloss": "praleido"
+      "gloss": "nukrypo"
     },
     {
       "surface": "דבר",
-      "gloss": "nė žodžio"
+      "gloss": "žodžio"
     },
     {
       "surface": "מכל",
-      "gloss": "iš visko"
+      "gloss": "nuo viso"
     },
     {
       "surface": "אשר",
-      "gloss": "ką"
+      "gloss": "ko"
     },
     {
       "surface": "צוה",
@@ -112,13 +96,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošei"
+      "marks": "Mošę"
     },
     {
       "surface": "משה",
       "gloss": "Mošei"
     }
   ],
-  "timestamp": "2026-10-20T05:59:10.705008124Z",
+  "timestamp": "2026-10-20T12:34:17.427416325Z",
   "model": "glm-5.3"
 }

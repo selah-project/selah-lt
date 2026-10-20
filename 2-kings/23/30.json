@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "mirusį",
-      "rationale": "מת gali reikšti 'mirusį' arba 'mergštą' (YLT 'dying') — jis mirė pakeliui; hebrajų kalba palieka tai atvira."
-    }
-  ],
-  "translation": "Ir jo tarnai, jau mirusį, išvežė jį ant vežimo iš Megido, ir atgabeno jį į Jerušalaimą, ir palaidojo jį jo kape; ir šalies žmonės paėmė ⟨את⟩ Jehoahazą, Jošijo sūnų, ir patepė ⟨את⟩ jį, ir padarė jį karaliumi vietoj jo tėvo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/29-32.1792480463148.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jo tarnai jį pavežė mirusį nuo Megido, ir atgabeno jį į Jerušalaimą, ir palaidojo jį jo kape; ir šalies žmonės paėmė ⟨את⟩ Jehoachazą, Jošijo sūnų, ir patepė ⟨את⟩ jį, ir padarė ⟨את⟩ jį karaliumi vietoj jo tėvo.",
   "tokens": [
     {
       "surface": "וירכבהו",
-      "gloss": "išvežė jį ant vežimo"
+      "gloss": "pavežė jį"
     },
     {
       "surface": "עבדיו",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ממגדו",
-      "gloss": "iš Megido"
+      "gloss": "nuo Megido"
     },
     {
       "surface": "ויבאהו",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "į Jerušalaimą"
+      "gloss": "Jerušalaimą"
     },
     {
       "surface": "ויקברהו",
@@ -70,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehoahazą"
+      "marks": "Jehoachazą"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Jehoahazą"
+      "gloss": "Jehoachazą"
     },
     {
       "surface": "בן",
@@ -90,7 +74,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
+      "gloss": "⟨את⟩",
       "marks": "jį"
     },
     {
@@ -99,7 +83,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
+      "gloss": "⟨את⟩",
       "marks": "jį"
     },
     {
@@ -111,6 +95,6 @@
       "gloss": "jo tėvo"
     }
   ],
-  "timestamp": "2026-10-20T07:14:23.151084510Z",
+  "timestamp": "2026-10-20T12:12:02.045755655Z",
   "model": "glm-5.3"
 }

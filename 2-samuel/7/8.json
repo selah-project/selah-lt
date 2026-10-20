@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הנוה",
-      "rationale": "Pažodžiui „malonioji vieta“ \/ „ganykla“ — YLT „comely place“, kiti „avidžių aptvaras“."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨turėti⟩",
-      "rationale": "Infinitivo paskirties šaknis להיות — lietuvių kalbai reikia jungties, bet „būti“ jau eina po jos; žymima tik sintaksinė siūlė."
-    }
-  ],
-  "translation": "Ir dabar taip pasakysi mano tarnui Davidui: taip sako Jahvė Cevaot: aš paėmiau tave iš ganyklos, iš paskui avį ⟨turėti⟩ būti valdovu mano tautai, Jisraeliui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/7\/5-8.1792478121617.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dabar taip pasakysi mano tarnui Davidui: taip sako Jahvė Cevaot: aš paėmiau tave iš ganyklos, iš paskui ⟨את⟩ avis ir ožkas, kad būtum valdovas mano tautai, Jisraeliui.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -86,15 +65,15 @@
     },
     {
       "surface": "הצאן",
-      "gloss": "avį"
+      "gloss": "⟨את⟩ avis ir ožkas"
     },
     {
       "surface": "להיות",
-      "gloss": "būti"
+      "gloss": "kad būtum"
     },
     {
       "surface": "נגיד",
-      "gloss": "valdovu"
+      "gloss": "valdovas"
     },
     {
       "surface": "על",
@@ -113,6 +92,6 @@
       "gloss": "Jisraeliui"
     }
   ],
-  "timestamp": "2026-10-20T06:35:21.621088103Z",
+  "timestamp": "2026-10-20T12:15:26.975705236Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta ⟨buvo⟩."
-    },
-    {
-      "kind": "substitution",
-      "subject": "צבא",
-      "rationale": "'Pulkas' — karinis dalinys, ne 'kariuomenė' bendrąja prasme."
-    }
-  ],
-  "translation": "Ir pajudėjo vėliava stovyklos Jisraelio sūnų Jehudos, pirmoji pagal jų pulkus, ir virš jo pulko ⟨buvo⟩ Nachšonas, Amīnadabo sūnus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/10\/13-16.1792474098489.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pajudėjo vėliava stovyklos Jėhudžių sūnų pirmiausia pagal jų pulkus, ir virš jo pulko ⟨buvo⟩ Nachšonas, sūnus Aminadavo.",
   "tokens": [
     {
       "surface": "ויסע",
@@ -45,12 +24,12 @@
       "gloss": "sūnų"
     },
     {
-      "surface": "יהוהודה",
-      "gloss": "Jehudos"
+      "surface": "יהודה",
+      "gloss": "Jėhudžių"
     },
     {
       "surface": "בראשנה",
-      "gloss": "pirmoji"
+      "gloss": "pirmiausia"
     },
     {
       "surface": "לצבאתם",
@@ -74,9 +53,9 @@
     },
     {
       "surface": "עמינדב",
-      "gloss": "Amīnadabo"
+      "gloss": "Aminadavo"
     }
   ],
-  "timestamp": "2026-10-20T05:28:18.490828128Z",
+  "timestamp": "2026-10-20T12:40:14.519340125Z",
   "model": "glm-5.3"
 }

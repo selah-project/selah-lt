@@ -5,37 +5,11 @@
   "book": "zechariah",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalboje nėra sangraudos — pridėta lietuviška ⟨yra⟩ „Jahvė yra mano Elohim“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "atsiliepsiu",
-      "rationale": "אענה — atsiliepsiu, bet hebrajiškai veiksmas rašomas su ⟨את⟩ prijungtiniu objektu."
-    },
-    {
-      "kind": "measurement",
-      "subject": "trečioji dalis",
-      "rationale": "Eilutė tęsia trečiosios dalies skaičiavimą iš 13,8 — dalis, kuri lieka."
-    }
-  ],
-  "translation": "Ir įvesiu ⟨את⟩ trečiąją dalį į ugnį ir išgryninsiu juos, kaip gryninaamas sidabras, ir išmėginsiu juos, kaip išmėginamas auksas. Jis šauksis mano vardo, ir aš atsiliepsiu ⟨jį⟩. Pasakysiu: mano tauta jis, ir jis sakys: Jahvė ⟨yra⟩ mano Elohim.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/zechariah\/13\/9-9.1792487194688.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš atvesiu ⟨את⟩ trečiąją dalį į ugnį ir išgryninsiu juos, kaip gryninamas sidabras, ir išmėginsiu juos, kaip išmėginamas auksas. Jis šauksis mano vardo, o aš atsakysiu jam; aš pasakysiu: tai mano tauta, o jis sakys: Jahvė ⟨yra⟩ mano Elohim.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "ir įvesiu"
+      "gloss": "ir aš atvesiu"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "כצרף",
-      "gloss": "kaip gryninaamas"
+      "gloss": "kaip gryninamas"
     },
     {
       "surface": "את",
@@ -98,20 +72,20 @@
     },
     {
       "surface": "ואני",
-      "gloss": "ir aš"
+      "gloss": "o aš"
     },
     {
       "surface": "אענה",
-      "gloss": "atsiliepsiu"
+      "gloss": "atsakysiu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jis (šaukiantysis)"
     },
     {
       "surface": "אמרתי",
-      "gloss": "pasakysiu"
+      "gloss": "aš pasakysiu"
     },
     {
       "surface": "עמי",
@@ -119,11 +93,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "jis"
+      "gloss": "tai jis"
     },
     {
       "surface": "והוא",
-      "gloss": "ir jis"
+      "gloss": "o jis"
     },
     {
       "surface": "יאמר",
@@ -138,6 +112,6 @@
       "gloss": "mano Elohim"
     }
   ],
-  "timestamp": "2026-10-20T09:06:34.690328079Z",
+  "timestamp": "2026-10-20T12:44:36.267487504Z",
   "model": "glm-5.3"
 }

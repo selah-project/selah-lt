@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Sąjunga 'bet' — hebrajų 'ky im' po neiginio reiškia 'o tik\/bet'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משל\/ימשלו",
-      "rationale": "Žodžio žaismas: priežodis (mašal) ir jį sakyti (jimašlu) — ta pati šaknis."
-    }
-  ],
-  "translation": "Todėl sakyk jiems: Taip sako Adonai Jahvė: Aš panaikinau ⟨את⟩ šį priežodį, ir jo daugiau nebesakys Jisraelyje; bet kalbėk jiems: Priartėjo dienos ir kiekvieno regėjimo žodis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/12\/21-24.1792483962417.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl sakyk jiems: taip sako Adonai Jahvė: Aš padariau galą ⟨את⟩ šiam priežodžiui, ir jie nebevartos ⟨את⟩ jo priežodžiu Jisraelyje, bet kalbėk jiems: priartėjo dienos ir ⟨yra išpildomas⟩ kiekvieno regėjimo žodis.",
   "tokens": [
     {
       "surface": "לכן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -58,28 +37,28 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "panaikinau"
+      "gloss": "padariau galą"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šį priežodį"
+      "marks": "šiam priežodžiui"
     },
     {
       "surface": "המשל",
-      "gloss": "priežodį"
+      "gloss": "priežodžiui"
     },
     {
       "surface": "הזה",
-      "gloss": "šį"
+      "gloss": "šiam"
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir nebe"
     },
     {
       "surface": "ימשלו",
-      "gloss": "besakys"
+      "gloss": "vartos priežodžiu"
     },
     {
       "surface": "אתו",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "daugiau"
+      "gloss": "nebe"
     },
     {
       "surface": "בישראל",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "-"
     },
     {
       "surface": "דבר",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "Priartėjo"
+      "gloss": "priartėjo"
     },
     {
       "surface": "הימים",
@@ -131,6 +110,6 @@
       "gloss": "regėjimo"
     }
   ],
-  "timestamp": "2026-10-20T08:12:42.420532702Z",
+  "timestamp": "2026-10-20T12:21:10.833662959Z",
   "model": "glm-5.3"
 }

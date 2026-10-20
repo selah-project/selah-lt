@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav su asmenuote („ją“) sulietas į įprastą lietuvišką įnaginį įvardį, ⟨את⟩ ženklelis nebeatskiriamas"
-    },
-    {
-      "kind": "addition",
-      "subject": "ją",
-      "rationale": "Lietuvių kalbai reikalingas įnaginis įvardis, hebrajų turi tik אתו"
-    }
-  ],
-  "translation": "Ir jie pasiuntė pasiuntinius pas Kirjat-Jearimo gyventojus, sakydami: Pelištų atidavė ⟨את⟩ Jahvės skrynią. Nusileiskite, pakelkite ją pas save.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/6\/21-21.1792477005195.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie pasiuntė pasiuntinius pas Kirjat-Jearimo gyventojus, sakydami: Pelištijiečiai grąžino ⟨את⟩ Jahvės skrynią. Apsilenkite, pakelkite ⟨את⟩ ją pas save.",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "השבו",
-      "gloss": "atidavė"
+      "gloss": "grąžino"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelištų"
+      "gloss": "Pelištijiečiai"
     },
     {
       "surface": "את",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "רדו",
-      "gloss": "Nusileiskite"
+      "gloss": "Apsilenkite"
     },
     {
       "surface": "העלו",
@@ -87,13 +66,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩  ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "pas save"
     },
     {
       "surface": "אליכם",
       "gloss": "pas save"
     }
   ],
-  "timestamp": "2026-10-20T06:16:45.196317474Z",
+  "timestamp": "2026-10-20T12:09:08.267297117Z",
   "model": "glm-5.3"
 }

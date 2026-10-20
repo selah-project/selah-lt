@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Jūdas vienas",
-      "rationale": "v. 21 prie Jūdo prisideda ir Binjamino giminė — čia sakoma „Jūdos gimine viena“, o vėliau tekstas mini ir Binjaminą"
-    }
-  ],
-  "translation": "Ir atsitiko, išgirdus visam Jisraeliui, kad grįžo Jaravamas, jie pasiuntė ir pašaukė ⟨את⟩ jį prie susirinkimo, ir padarė jį karaliumi per visą Jisraelį; niekas nesekė paskui Davidą, išskyrus Jūdos gimine vieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ebce0a2364cf3acde976d87e5d97a61fc1a27c9c85125086c5746248017ffc35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/17-20.1792479264421.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, visam Jisraeliui išgirdus, kad Jeroveamas grįžo, jie pasiuntė ir pašaukė ⟨את⟩ jį į susirinkimą, ir jie padarė ⟨את⟩ jį karaliumi visam Jisraeliui; nesekė ⟨yra⟩ nė vieno paskui Dvido namą, išskyrus Judo šeimą vienintelę.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ir atsitiko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "כשמע",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jaravamas"
+      "gloss": "Jeroveamas"
     },
     {
       "surface": "וישלחו",
@@ -61,29 +45,29 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "prie susirinkimo"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "אל",
-      "gloss": "prie"
+      "gloss": "į"
     },
     {
       "surface": "העדה",
-      "gloss": "susirinkimo"
+      "gloss": "susirinkimą"
     },
     {
       "surface": "וימליכו",
-      "gloss": "ir padarė karaliumi"
+      "gloss": "ir jie padarė karaliumi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "per visą Jisraelį"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "על",
-      "gloss": "per"
+      "gloss": "prieš — virš"
     },
     {
       "surface": "כל",
@@ -103,7 +87,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "kas sekė paskui"
+      "gloss": "paskui"
     },
     {
       "surface": "בית",
@@ -111,7 +95,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davido"
+      "gloss": "Dvido"
     },
     {
       "surface": "זולתי",
@@ -119,17 +103,17 @@
     },
     {
       "surface": "שבט",
-      "gloss": "giminę"
+      "gloss": "šeimą"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jūdos"
+      "gloss": "Judo"
     },
     {
       "surface": "לבדו",
-      "gloss": "vieną"
+      "gloss": "vienintelę"
     }
   ],
-  "timestamp": "2026-10-20T06:54:24.423802229Z",
+  "timestamp": "2026-10-20T12:05:56.989549133Z",
   "model": "glm-5.3"
 }

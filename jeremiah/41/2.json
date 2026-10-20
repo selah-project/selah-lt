@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nudėjo",
-      "rationale": "ויכו pažodžiui 'nukirto \/ sudavė'; וימת 'ir jis numirė' — veiksmažodis pasyvus, žudikas nutylimas."
-    },
-    {
-      "kind": "crux",
-      "subject": "אשר הפקיד",
-      "rationale": "Hebraiškai tik 'kurį paskyrė' — be 'valdytoju'; 'governor' yra vertėjų pridėta."
-    }
-  ],
-  "translation": "Ir atsistojo Išmaelis, Netanijos sūnus, ir dešimt vyrų, kurie buvo ⟨su⟩ juo, ir jie nudėjo ⟨את⟩ Gedaliją, Achikamo sūnų, Šafano sūnų, kardu; ir jis mirė — ⟨tą⟩, kurį Babilono karalius buvo paskyręs krašte.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/41\/1-4.1792483345937.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsikėlė Jišmaelis, Netanijos sūnus, ir dešimt vyrų, kurie buvo ⟨את⟩ su juo, ir jie nudėjo ⟨את⟩ Gedaliją, Ahikamo sūnų, Šafano sūnų, kardu, ir jis nužudė ⟨את⟩ jį — tą, kurį Babilono karalius buvo paskyręs krašte.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Ir atsistojo"
+      "gloss": "ir atsikėlė"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Išmaelis"
+      "gloss": "Jišmaelis"
     },
     {
       "surface": "בן",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Achikamo"
+      "gloss": "Ahikamo"
     },
     {
       "surface": "בן",
@@ -99,15 +78,16 @@
     },
     {
       "surface": "וימת",
-      "gloss": "ir mirė"
+      "gloss": "ir jis nužudė"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "ją"
     },
     {
       "surface": "אשר",
-      "gloss": "kurį"
+      "gloss": "tą, kurį"
     },
     {
       "surface": "הפקיד",
@@ -126,6 +106,6 @@
       "gloss": "krašte"
     }
   ],
-  "timestamp": "2026-10-20T08:02:25.938937556Z",
+  "timestamp": "2026-10-20T12:31:47.943715865Z",
   "model": "glm-5.3"
 }

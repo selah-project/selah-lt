@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "Sterptis kreipiasi į Izraelį apie jo ateitį pažadėtoje žemėje."
-    }
-  ],
-  "translation": "Kai Jahvė, tavo Elohim, išnaikins tautas, į kurias tu eini tenai jas paveldėti iš tavęs, ir tu jas paveldėsi, ir gyvensi jų žemėje,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "736f215c98bf7c1bc335c9393193470da507e1d3d7ba05e8b317e2cb7e8eff15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/29-31.1792475156182.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kai Jahvė, tavo Elohim, išnaikins ⟨את⟩ tautas, į kurias tu eini ten joms įgyti iš tavo veido, ir tu joms įgysi ⟨את⟩ jas, ir apsigyvensi jų krašte —",
   "tokens": [
     {
       "surface": "כי",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurias"
+      "gloss": "į kurias"
     },
     {
       "surface": "אתה",
@@ -62,38 +46,39 @@
     },
     {
       "surface": "שמה",
-      "gloss": "tenai"
+      "gloss": "ten"
     },
     {
       "surface": "לרשת",
-      "gloss": "paveldėti"
+      "gloss": "joms įgyti"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jas"
+      "gloss": "⟨את⟩ jas",
+      "marks": "jas (tautas)"
     },
     {
       "surface": "מפניך",
-      "gloss": "iš tavęs"
+      "gloss": "iš tavo veido"
     },
     {
       "surface": "וירשת",
-      "gloss": "ir tu paveldėsi"
+      "gloss": "ir tu įgysi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "jas"
+      "gloss": "⟨את⟩ jas",
+      "marks": "jas (tautas)"
     },
     {
       "surface": "וישבת",
-      "gloss": "ir gyvensi"
+      "gloss": "ir apsigyvensi"
     },
     {
       "surface": "בארצם",
-      "gloss": "jų žemėje"
+      "gloss": "jų krašte"
     }
   ],
-  "timestamp": "2026-10-20T05:45:56.183356234Z",
+  "timestamp": "2026-10-20T12:16:24.115947891Z",
   "model": "glm-5.3"
 }

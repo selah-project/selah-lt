@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חגר\/ויחגרו\/ויחגר",
-      "rationale": "Kalavijo juosimasis pakartotas tris kartą — įsakymas, vykdymas, Davido pavyzdys; lietuviškas kartojimas tai išlaiko."
-    },
-    {
-      "kind": "measurement",
-      "subject": "keturi šimtai \/ du šimtai",
-      "rationale": "Karių skaičiavimas: 400 žygin, 200 pas daiktus."
-    }
-  ],
-  "translation": "Ir tarė Davidas savo vyrams: Juosiamies kiekvienas savo kalaviją. Ir juosėsi kiekvienas savo kalaviją, ir Davidas taip pat juosėsi savo kalaviją. Ir užlipo paskui Davidą apie keturi šimtai vyrų, o du šimtai liko prie daiktų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/13-16.1792477705575.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas tarė savo vyrams: Apjuoskite kiekvienas savo kardą. Ir jie apsijuosė kiekvienas ⟨את⟩ savo kardą, ir Davidas taip pat apsijuosė ⟨את⟩ savo kardą; ir užlipo paskui Davidą maždaug keturi šimtai vyrų, o du šimtai liko prie daiktų.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "חגרו",
-      "gloss": "juosiamies"
+      "gloss": "Apjuoskite"
     },
     {
       "surface": "איש",
@@ -51,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo kalaviją"
+      "marks": "savo kardą"
     },
     {
       "surface": "חרבו",
-      "gloss": "savo kalaviją"
+      "gloss": "savo kardą"
     },
     {
       "surface": "ויחגרו",
-      "gloss": "ir juosėsi"
+      "gloss": "Ir jie apsijuosė"
     },
     {
       "surface": "איש",
@@ -68,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo kalaviją"
+      "marks": "savo kardą"
     },
     {
       "surface": "חרבו",
-      "gloss": "savo kalaviją"
+      "gloss": "savo kardą"
     },
     {
       "surface": "ויחגר",
-      "gloss": "ir juosėsi"
+      "gloss": "ir apsijuosė"
     },
     {
       "surface": "גם",
@@ -89,15 +68,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo kalaviją"
+      "marks": "savo kardą"
     },
     {
       "surface": "חרבו",
-      "gloss": "savo kalaviją"
+      "gloss": "savo kardą"
     },
     {
       "surface": "ויעלו",
-      "gloss": "užlipo"
+      "gloss": "ir užlipo"
     },
     {
       "surface": "אחרי",
@@ -109,11 +88,11 @@
     },
     {
       "surface": "כארבע",
-      "gloss": "apie keturis"
+      "gloss": "maždaug keturi"
     },
     {
       "surface": "מאות",
-      "gloss": "šimtus"
+      "gloss": "šimtai"
     },
     {
       "surface": "איש",
@@ -136,6 +115,6 @@
       "gloss": "daiktų"
     }
   ],
-  "timestamp": "2026-10-20T06:28:25.576858787Z",
+  "timestamp": "2026-10-20T12:08:30.104567964Z",
   "model": "glm-5.3"
 }

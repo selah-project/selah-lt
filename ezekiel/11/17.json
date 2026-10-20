@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvote",
-      "rationale": "Lietuvių reikalauja būtojo laiko pagalbinio veiksmažodžio; hebrajiškoji formą turi kamiene"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קבצתי\/אספתי",
-      "rationale": "Du artimi „rinkti“ veiksmažodžiai eilėje — surinksiu\/sugrąžinsiu, hebrajiškasis artimumas lietuviškai šiek tiek prarandamas"
-    }
-  ],
-  "translation": "Todėl sakyk: Taip sako Adonai Jahvė: ir surinksiu jus iš tautų ir sugrąžinsiu jus iš šalių, į kurias buvote išblaškyti, ir duosiu jums ⟨את⟩ Jisraelio žemę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fb65516434cdafe0319f8cb0a64229e65ddc9c796ad933a3fd366674d1216882",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/11\/17-20.1792484005623.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl sakyk: taip sako Adonai Jahvė: ir surinksiu ⟨את⟩ jus iš tautų, ir sugrąžinsiu ⟨את⟩ jus iš šalių, į kurias buvote išblaškyti, ir duosiu jums ⟨את⟩ Jisraelio žemę.",
   "tokens": [
     {
       "surface": "לכן",
@@ -58,7 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
     },
     {
       "surface": "מן",
@@ -74,7 +54,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
     },
     {
       "surface": "מן",
@@ -94,7 +75,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "jomis"
+      "gloss": "jose"
     },
     {
       "surface": "ונתתי",
@@ -118,6 +99,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T08:13:25.624969961Z",
+  "timestamp": "2026-10-20T12:21:45.353922882Z",
   "model": "glm-5.3"
 }

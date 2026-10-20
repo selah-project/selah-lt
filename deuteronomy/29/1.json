@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraeliui",
-      "rationale": "Mošė tiesiogiai kreipiasi į visą Jisraelį"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "šaukiantis veiksmažodis su אל lietuviškai jungiasi be atskiro žodžio"
-    }
-  ],
-  "translation": "Ir sušaukė Mošė visą Jisraelį ir tarė jiems: jūs matėte ⟨את⟩ visa, ką Jahvė padarė jūsų akyse Micraimo krašte Parohui ir visiems jo tarnams ir visai jo žemei —",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/29\/1-4.1792475481558.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė pašaukė visą Jisraelį ir tarė jiems: jūs matėte ⟨את⟩ viską, ką Jahvė padarė jūsų akivaizdoje Micraimo šalyje Parohui ir visiems jo tarnams ir visai jo žemei.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ir sušaukė"
+      "gloss": "pašaukė"
     },
     {
       "surface": "משה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "כל",
@@ -67,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visa, ką Jahvė padarė"
+      "marks": "viską"
     },
     {
       "surface": "כל",
-      "gloss": "visa"
+      "gloss": "viską"
     },
     {
       "surface": "אשר",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "לעיניכם",
-      "gloss": "jūsų akyse"
+      "gloss": "jūsų akivaizdoje"
     },
     {
       "surface": "בארץ",
-      "gloss": "krašte"
+      "gloss": "šalyje"
     },
     {
       "surface": "מצרים",
@@ -118,6 +97,6 @@
       "gloss": "jo žemei"
     }
   ],
-  "timestamp": "2026-10-20T05:51:21.560936477Z",
+  "timestamp": "2026-10-20T12:16:47.578964306Z",
   "model": "glm-5.3"
 }

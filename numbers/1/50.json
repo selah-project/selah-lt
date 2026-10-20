@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "miškanas",
-      "rationale": "משכן išlaikomas kaip skambesio žodis, ne 'padangtė'"
-    }
-  ],
-  "translation": "O tu paskirk levitus prie liudijimo miškano ir prie visų jo daiktų, ir prie visko, kas jam priklauso: jie neš miškaną ⟨את⟩ ir visus jo daiktus ⟨את⟩, ir jie jam tarnaus, ir aplink miškaną jie stovyklaus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/49-52.1792473832461.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O tu paskirk ⟨את⟩ levitus prie miškan liudijimo, prie visų jo indų ir prie visko, kas jam priklauso; jie neš miškaną ir ⟨את⟩ visus jo indus, ir jie jam tarnaus, ir aplink miškaną jie stovyklaus.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "משכן",
-      "gloss": "miškano"
+      "gloss": "miškan"
     },
     {
       "surface": "העדת",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ir prie"
+      "gloss": "prie"
     },
     {
       "surface": "כל",
@@ -62,7 +46,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "jo daiktų"
+      "gloss": "jo indų"
     },
     {
       "surface": "ועל",
@@ -99,8 +83,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "visus jo daiktus"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visus jo indus"
     },
     {
       "surface": "כל",
@@ -108,7 +92,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "jo daiktus"
+      "gloss": "jo indus"
     },
     {
       "surface": "והם",
@@ -116,11 +100,11 @@
     },
     {
       "surface": "ישרתהו",
-      "gloss": "tarnaus"
+      "gloss": "jam tarnaus"
     },
     {
       "surface": "וסביב",
-      "gloss": "aplink"
+      "gloss": "ir aplink"
     },
     {
       "surface": "למשכן",
@@ -131,6 +115,6 @@
       "gloss": "stovyklaus"
     }
   ],
-  "timestamp": "2026-10-20T05:23:52.463466107Z",
+  "timestamp": "2026-10-20T12:40:31.442608465Z",
   "model": "glm-5.3"
 }

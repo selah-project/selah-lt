@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ąžuolu",
-      "rationale": "האלה gali būti 'ąžuolas' arba 'terebintas' — JPS 'terebintas', KJV 'ąžuolas'"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "hebrajų praleidžia būtojo laiko veiksmažodį šalia 'kuris'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "prilipsnį aleph-tav prie 'juos' atspindi pats įvardis, atskira žyma nededama"
-    }
-  ],
-  "translation": "Ir jie atidavė Jaakovui ⟨את⟩ visus svetimųjų dievus, kurie buvo jų rankose, ir ⟨את}} žiedus, kurie buvo jų ausyse; ir Jaakovas paslėpė ⟨את⟩ juos po ąžuolu, kuris ⟨yra⟩ prie Škemo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/35\/1-4.1792471777502.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie atidavė Jaakovui ⟨את⟩ visus svetimųjų dievus, kurie buvo jų rankose, ir ⟨את⟩ žiedus, kurie buvo jų ausyse; ir Jaakovas paslėpė ⟨את⟩ juos po ąžuolu, kuris ⟨yra⟩ pas Šchemą.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "Ir jie atidavė"
+      "gloss": "ir jie atidavė"
     },
     {
       "surface": "אל",
@@ -93,7 +67,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "יעקב",
@@ -113,13 +88,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "prie"
+      "gloss": "pas"
     },
     {
       "surface": "שכם",
-      "gloss": "Škemo"
+      "gloss": "Šchemą"
     }
   ],
-  "timestamp": "2026-10-20T04:49:37.507730540Z",
+  "timestamp": "2026-10-20T12:25:50.932697607Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajiškas klausimas neturi veiksmažodžio — lietuvių kalbai reikia „yra“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדני",
-      "rationale": "Čia apie žmogų (Jicchaką), tad „ponas“, ne „Adonai“."
-    }
-  ],
-  "translation": "Ir ji tarė tarnui: Kas yra šisis vyras, einantis lauku mūsų pasitikti? Ir tarnas tarė: Tai mano ponas. Tada ji paėmė dangalą ir prisidengė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "02914551848bb75f012b1da09e9e6b4f05407675589426b2f0053eb78b00f16c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/24\/65-67.1792471461268.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ji tarė tarnui: kas ⟨yra⟩ tas vyras, einantis lauku mūsų pasitikti? Ir tarnas tarė: tai mano ponas. Ir ji paėmė dangalą ir prisidengė.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "tarnui"
     },
     {
       "surface": "העבד",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "yra ⟨yra⟩ vyras"
+      "gloss": "tas vyras"
     },
     {
       "surface": "הלזה",
-      "gloss": "šisis"
+      "gloss": "tas"
     },
     {
       "surface": "ההלך",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ותקח",
-      "gloss": "tada ji paėmė"
+      "gloss": "ir ji paėmė"
     },
     {
       "surface": "הצעיף",
@@ -93,6 +72,6 @@
       "gloss": "ir prisidengė"
     }
   ],
-  "timestamp": "2026-10-20T04:44:21.270591987Z",
+  "timestamp": "2026-10-20T12:24:56.643526861Z",
   "model": "glm-5.3"
 }

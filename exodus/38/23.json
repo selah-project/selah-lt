@@ -5,37 +5,12 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חרש",
-      "rationale": "Pažodžiui 'drožėjas, meistras' — bendras amatininko žodis, ne tik 'dailidė'."
-    },
-    {
-      "kind": "crux",
-      "subject": "בשש",
-      "rationale": "'Baltas linas' prieš 'smaragdas' (targume) — dauguma: švytinti balta medžiaga."
-    },
-    {
-      "kind": "hapax",
-      "subject": "שש šiame reikšme",
-      "rationale": "Baltas lino audinys, Tanache beveik vien skyreliuose apie miškaną."
-    }
-  ],
-  "translation": "Ir ⟨su⟩ juo — Oholiabas, Achisamacho sūnus, iš Dano giminės, meistras-dailidė ir siuvinėtojas, ir audėjas hyacinto mėlyniu, purpuru ir raudonuoju kirminėliu bei baltuoju linu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "89516dbc97c6d08c301a947f8dc4d4a27752438102c7d42a2cc4443d72409ae2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/21-24.1792473021163.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨su⟩ ⟨את⟩ juo — Oholiabas, Ahisamako sūnus, iš Dano giminės, meistras-dailidė ir sumanytojas, ir siuvinėtojas žydrynės, purpuro, raudonojo dažo ir balto lino.",
   "tokens": [
     {
       "surface": "ואתו",
-      "gloss": "Ir ⟨su⟩ juo ⟨את⟩"
+      "gloss": "ir ⟨su⟩ ⟨את⟩",
+      "marks": "juo (Oholiabas)"
     },
     {
       "surface": "אהליאב",
@@ -47,7 +22,7 @@
     },
     {
       "surface": "אחיסמך",
-      "gloss": "Achisamacho"
+      "gloss": "Ahisamako"
     },
     {
       "surface": "למטה",
@@ -63,33 +38,33 @@
     },
     {
       "surface": "וחשב",
+      "gloss": "ir sumanytojas"
+    },
+    {
+      "surface": "ורקם",
       "gloss": "ir siuvinėtojas"
     },
     {
-      "surface": "ו רקם",
-      "gloss": "ir audėjas"
-    },
-    {
       "surface": "בתכלת",
-      "gloss": "hyacinto mėlyniu"
+      "gloss": "žydrynės"
     },
     {
       "surface": "ובארגמן",
-      "gloss": "purpuru"
+      "gloss": "ir purpuro"
     },
     {
       "surface": "ובתולעת",
-      "gloss": "raudonuoju kirminėliu"
+      "gloss": "ir raudonojo dažo"
     },
     {
       "surface": "השני",
-      "gloss": "kirminėliu"
+      "gloss": "šurmės"
     },
     {
       "surface": "ובשש",
-      "gloss": "baltuoju linu"
+      "gloss": "ir balto lino"
     }
   ],
-  "timestamp": "2026-10-20T05:10:21.166087033Z",
+  "timestamp": "2026-10-20T12:20:27.782788248Z",
   "model": "glm-5.3"
 }

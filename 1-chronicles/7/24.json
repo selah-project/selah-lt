@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajų sako tik „ir jo duktė Šeera“ — be sąsos lietuvių kalbai pridėta ⟨buvo⟩."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אזן שארה",
-      "rationale": "Miesto vardas Uzen-Šeera sietinas su dukters vardu Šeera — vardas įrašytas į kraštovaizdį."
-    }
-  ],
-  "translation": "Ir jo duktė ⟨buvo⟩ Šeera; ji pastatė ⟨את⟩ Beit-Чorono žemutinį ir ⟨את⟩ aukštutinį, ir ⟨את⟩ Uzen-Šeerą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "82afb35ec53d4be1b9fda9111ba4d787a0f2b341136477fb20c53088a94f5ac3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/7\/21-24.1792492784968.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jo duktė ⟨buvo⟩ Šeera, ir ji pastatė ⟨את⟩ Beit-Choroną, apatinį, ir ⟨את⟩ viršutinį, ir ⟨את⟩ Uzen-Šeerą.",
   "tokens": [
     {
       "surface": "ובתו",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "ותבן",
-      "gloss": "ji pastatė"
+      "gloss": "ir ji pastatė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Beit-Choroną, žemutinį"
+      "marks": "Beit-Choroną"
     },
     {
       "surface": "בית",
@@ -51,20 +30,20 @@
     },
     {
       "surface": "חורון",
-      "gloss": "Chorono"
+      "gloss": "Choroną"
     },
     {
       "surface": "התחתון",
-      "gloss": "žemutinį"
+      "gloss": "apatinį"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "aukštutinį"
+      "marks": "viršutinį"
     },
     {
       "surface": "העליון",
-      "gloss": "aukštutinį"
+      "gloss": "viršutinį"
     },
     {
       "surface": "ואת",
@@ -77,9 +56,9 @@
     },
     {
       "surface": "שארה",
-      "gloss": "Šeera"
+      "gloss": "Šeerą"
     }
   ],
-  "timestamp": "2026-10-20T10:39:44.969606747Z",
+  "timestamp": "2026-10-20T12:04:57.653728218Z",
   "model": "glm-5.3"
 }

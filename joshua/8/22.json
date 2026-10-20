@@ -5,39 +5,18 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨jiems⟩",
-      "rationale": "hebrajiškas לו 'jam' yra vienaskaita apie kolektyvą; lietuviui reikia daugiskaitos įvardžio."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלה מזה ואלה מזה",
-      "rationale": "pakartota pora 'šie iš čia ir šie iš čia' — apsuptimo choreografija; lietuviškai perteikta priešybėmis 'viena pusė \/ kita'."
-    }
-  ],
-  "translation": "Ir šie išėjo iš miesto jų pasitikti, ir jie atsidūrė Jisraelio viduryje — šie iš vienos pusės ir šie iš kitos; ir jie ⟨את⟩ juos iškapojo, kol nepaliko ⟨jiems⟩ nei likusiojo, nei pabėgusio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "217ed01935e297e4d2c61568aa6c5c92193d3b6d89c271388dcc6a24c3346513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/8\/21-24.1792475859485.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir šitie išėjo iš miesto jų pasitikti, ir jie atsidūrė Jisraelio viduryje — vieni iš šios pusės, kiti iš šios pusės; ir jie juos ⟨את⟩ užmušė, kol nebeliko ⟨jam⟩ nė išgyvenusiojo, nė pabėgusiojo.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Ir šie"
+      "gloss": "ir šitie"
     },
     {
       "surface": "יצאו",
       "gloss": "išėjo"
     },
     {
-      "surface": "mן",
+      "surface": "מן",
       "gloss": "iš"
     },
     {
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "ir jie atsidūrė"
+      "gloss": "ir jie tapo"
     },
     {
       "surface": "לישראל",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "אלה",
-      "gloss": "šie"
+      "gloss": "vieni"
     },
     {
       "surface": "מזה",
-      "gloss": "iš vienos pusės"
+      "gloss": "iš šios pusės"
     },
     {
       "surface": "ואלה",
-      "gloss": "ir šie"
+      "gloss": "kiti"
     },
     {
       "surface": "מזה",
-      "gloss": "iš kitos"
+      "gloss": "iš šios pusės"
     },
     {
       "surface": "ויכו",
-      "gloss": "ir jie iškapojo"
+      "gloss": "ir užmušė"
     },
     {
       "surface": "אותם",
@@ -90,25 +69,25 @@
     },
     {
       "surface": "בלתי",
-      "gloss": "nepaliko"
+      "gloss": "nebeliko"
     },
     {
       "surface": "השאיר",
-      "gloss": "nepaliko"
+      "gloss": "paliko"
     },
     {
       "surface": "לו",
-      "gloss": "⟨jiems⟩"
+      "gloss": "⟨jam⟩"
     },
     {
       "surface": "שריד",
-      "gloss": "likusiojo"
+      "gloss": "išgyvenusiojo"
     },
     {
       "surface": "ופליט",
-      "gloss": "ir pabėgusio"
+      "gloss": "pabėgusiojo"
     }
   ],
-  "timestamp": "2026-10-20T05:57:39.511548322Z",
+  "timestamp": "2026-10-20T13:26:13.286300879Z",
   "model": "glm-5.3"
 }

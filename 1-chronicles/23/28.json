@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Saitaverbis pridėtas lietuvių kalbai."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Prielinksniai על prieš kiemus ir kambarius susilieja su naudininku lietuvių kalboje."
-    }
-  ],
-  "translation": "nes jų vieta — ⟨yra⟩ rankoje Aharono sūnų, Jahvės namų tarnybai: kiemams ir kambariams, ir kiekvieno šventumo apvalymui, ir Elohim namų tarnybos darbui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6c6e1ae13377def927ab7a5f88024ff7c657545f01897b496ec79a98c6b0836e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/23\/25-28.1792493114597.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes jų vieta yra rankoje Aharono sūnų — Jahvės namų tarnybai: kiemams ir kambariams, ir kiekvieno švento daikto apvalymui, bei Elohim namų tarnybos darbui.",
   "tokens": [
     {
       "surface": "כי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "kiemams"
     },
     {
       "surface": "החצרות",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "קדש",
-      "gloss": "šventumo"
+      "gloss": "švento daikto"
     },
     {
       "surface": "ומעשה",
@@ -109,6 +88,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-20T10:45:14.598273328Z",
+  "timestamp": "2026-10-20T12:05:13.305832463Z",
   "model": "glm-5.3"
 }

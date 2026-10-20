@@ -5,42 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 68,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ערבות",
-      "rationale": "„dykumos“ arba „dangūs“ (debesys) — kai kurie vertimai skaito „joja debesyse“."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ — pridėta lietuviška kopula."
-    },
-    {
-      "kind": "invitation",
-      "subject": "visa eilutė",
-      "rationale": "Kvietimas dainuoti, giedoti ir džiūgauti — imperatyvai, kreipimasis į bendruomenę."
-    },
-    {
-      "kind": "you",
-      "subject": "visiems klausytojams",
-      "rationale": "Daugybiniai imperatyvai (dainuokite, giedokite, džiūgaukite) kreipiasi į susirinkusiuosius."
-    }
-  ],
-  "translation": "Dainuokite Elohim, giedokite jo vardui, tieskite kelią Tam, kuris joja dykumose — Jah ⟨yra⟩ jo vardas, ir džiūgaukite prieš jį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/5-8.1792488275477.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dainuokite Elohim, giedokite ⟨את⟩ jo vardą, kelią supilkite Tam, kuris joja dykumomis; Jah — vardas jo, ir džiūgaukite jo akivaizdoje.",
   "tokens": [
     {
       "surface": "שירו",
-      "gloss": "dainuokite"
+      "gloss": "Dainuokite"
     },
     {
       "surface": "לאלהים",
@@ -52,11 +21,11 @@
     },
     {
       "surface": "שמו",
-      "gloss": "jo vardui"
+      "gloss": "⟨את⟩ jo vardą"
     },
     {
-      "surface": "סלu",
-      "gloss": "tieskite kelią"
+      "surface": "סלו",
+      "gloss": "kelią supilkite"
     },
     {
       "surface": "לרכב",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "בערבות",
-      "gloss": "dykumose"
+      "gloss": "dykumomis"
     },
     {
       "surface": "ביה",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "jo vardas"
+      "gloss": "vardas jo"
     },
     {
       "surface": "ועלזו",
@@ -80,9 +49,9 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "prieš jį"
+      "gloss": "jo akivaizdoje"
     }
   ],
-  "timestamp": "2026-10-20T09:24:35.478358999Z",
+  "timestamp": "2026-10-20T12:44:07.430944382Z",
   "model": "glm-5.3"
 }

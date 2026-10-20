@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "וּמִדַּלַּת הָאָרֶץ",
-      "rationale": "pažodžiui 'krašto nuskurėlieji' — nuo dal, 'banguoti, kabinėtis', t. y. liaudies dugnas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "טָף",
-      "rationale": "pažodžiui 'maži', vaikai kaip 'šeima būrelis' — kolektyvinis vaikų pavadinimas"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הִפְקִיד ... הִפְקִיד",
-      "rationale": "pakartotas veiksmažodis 'paskyrė\/pavedė' — karaliaus sprendimo sandara pažymėta dvigubai"
-    }
-  ],
-  "translation": "Ir išgirdo visi karių kunigaikščiai, kurie buvo lauke — jie ir jų vyrai — kad Babilono karalius paskyrė ⟨את⟩ Gedaliją, Achikamo sūnų, krašte, ir kad jam pavedė vyrus ir moteris, vaikus ir krašto vargšus — iš tų, kurie nebuvo išvaryti į Babiloną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/40\/5-8.1792483359534.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir išgirdo visi kariuomenės vadai, kurie buvo lauke — jie ir jų vyrai — kad Babilono karalius paskyrė ⟨את⟩ Gedaliją, Achikamo sūnų, ⟨atsakingu⟩ šalyje, ir kad pavedė ⟨את⟩-jai vyrus, moteris ir mažus vaikus, ir vargingiausius krašto žmones — iš tų, kurie nebuvo išvežti į Babiloną.",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "kunigaikščiai"
+      "gloss": "vadai"
     },
     {
       "surface": "החילים",
-      "gloss": "karių"
+      "gloss": "kariuomenės"
     },
     {
       "surface": "אשר",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "krašte"
+      "gloss": "šalyje"
     },
     {
       "surface": "וכי",
@@ -112,8 +86,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jam"
+      "gloss": "⟨את⟩-jai"
     },
     {
       "surface": "אנשים",
@@ -121,15 +94,15 @@
     },
     {
       "surface": "ונשים",
-      "gloss": "ir moteris"
+      "gloss": "moteris"
     },
     {
       "surface": "וטף",
-      "gloss": "ir vaikus"
+      "gloss": "ir mažus vaikus"
     },
     {
       "surface": "ומדלת",
-      "gloss": "ir vargšus"
+      "gloss": "ir vargingiausius"
     },
     {
       "surface": "הארץ",
@@ -137,7 +110,7 @@
     },
     {
       "surface": "מאשר",
-      "gloss": "iš tų, kurių"
+      "gloss": "iš tų, kurie"
     },
     {
       "surface": "לא",
@@ -145,13 +118,13 @@
     },
     {
       "surface": "הגלו",
-      "gloss": "buvo išvaryti"
+      "gloss": "buvo išvežti"
     },
     {
       "surface": "בבלה",
       "gloss": "į Babiloną"
     }
   ],
-  "timestamp": "2026-10-20T08:02:39.535702504Z",
+  "timestamp": "2026-10-20T12:32:07.741176221Z",
   "model": "glm-5.3"
 }

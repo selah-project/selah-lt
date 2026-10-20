@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "chesed ir emet",
-      "rationale": "חסד ואמת išlaikyti kaip transliteruoti terminai pagal D2, vietoj 'gailestingumas ir tiesa'."
-    },
-    {
-      "kind": "crux",
-      "subject": "chesed ir emet",
-      "rationale": "Neaišku, ar tai linkėjimas Itajui ('tebūnie su tavimi'), ar maldos kreipimasis — hebrajų kalboje be veiksmažodžio."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שוב והשב",
-      "rationale": "Žodžių žaismas: 'grįžk ir at-grąžink' — ta pati šaknis שׁוב, išlaikyta lietuviškai."
-    }
-  ],
-  "translation": "Vakar buvo tavo atėjimas, o šiandien ar varyčiau tave klajoti su mumis, kai aš pats einu, kur aš einu? Grįžk ir atgrąžink ⟨את⟩ savo brolius su savimi; chesed ir emet ⟨tebūnie⟩ su tavimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/17-20.1792478339867.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vakar atėjai, o šiandien versčiau tave klajoti su mumis eiti? O aš einu ⟨ten, kur⟩ aš einu — grįžk ir atvesk ⟨את⟩ savo brolius su savimi: chesed ir emet ⟨būk⟩ su tavimi.",
   "tokens": [
     {
       "surface": "תמול",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "בואך",
-      "gloss": "buvo tavo atėjimas"
+      "gloss": "atėjai"
     },
     {
       "surface": "והיום",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אנועך",
-      "gloss": "ar varyčiau tave klajoti"
+      "gloss": "versčiau tave klajoti"
     },
     {
       "surface": "עמנו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "⟨ten, kur⟩"
     },
     {
       "surface": "אשר",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "והשב",
-      "gloss": "ir atgrąžink"
+      "gloss": "ir atvesk"
     },
     {
       "surface": "את",
@@ -111,6 +85,6 @@
       "gloss": "ir emet"
     }
   ],
-  "timestamp": "2026-10-20T06:38:59.871650199Z",
+  "timestamp": "2026-10-20T12:14:05.860031588Z",
   "model": "glm-5.3"
 }

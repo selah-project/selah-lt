@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ביהוה שאל",
-      "rationale": "hebrajų idiomas „klausti per Jahvę“ — prašyti orakulo, ne tik klausinėti"
-    },
-    {
-      "kind": "addition",
-      "subject": "būtinai",
-      "rationale": "נתן אתן — infinitivus absolutas + veiksmažodis: „duoti, duosiu“, išversta pabrėžtimi"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvė Davidui",
-      "rationale": "Jahvė tiesiogiai atsako Davidui į jo klausimą"
-    }
-  ],
-  "translation": "Ir Davidas paklausė Jahvės, sakydamas: Ar aš turiu kilti prieš peleistieji — ar tu duosi jiems į mano ranką? Ir Jahvė tarė Davidui: Kilk, nes būtinai duosiu ⟨את⟩ peleistiejius į tavo ranką.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a35aa081a31f9e0319d45ea4e41df206e87ab56b21b6e1abcb027338d4bd30fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/17-20.1792478059551.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas paklausė Jahvės, sakydamas: Ar aš turėčiau kopti prieš filistiečius — ar tu atiduosi juos į mano ranką? Ir Jahvė tarė Davidui: Kopk, nes aš tikrai atiduosiu ⟨את⟩ filistiečius į tavo ranką.",
   "tokens": [
     {
       "surface": "וישאל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "האעלה",
-      "gloss": "ar aš turiu kilti"
+      "gloss": "ar aš turėčiau kopti"
     },
     {
       "surface": "אל",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "peliestieji"
+      "gloss": "filistiečius"
     },
     {
       "surface": "התתנם",
-      "gloss": "ar duosi juos"
+      "gloss": "ar tu atiduosi juos"
     },
     {
       "surface": "בידי",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Davidui"
     },
     {
       "surface": "דוד",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "kilk"
+      "gloss": "Kopk"
     },
     {
       "surface": "כי",
@@ -95,26 +69,26 @@
     },
     {
       "surface": "נתן",
-      "gloss": "būtinai"
+      "gloss": "tikrai"
     },
     {
       "surface": "אתן",
-      "gloss": "duosiu"
+      "gloss": "atiduosiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "peliestiejius"
+      "marks": "filistiečius"
     },
     {
       "surface": "הפלשתים",
-      "gloss": "peliestiejius"
+      "gloss": "filistiečius"
     },
     {
       "surface": "בידך",
       "gloss": "į tavo ranką"
     }
   ],
-  "timestamp": "2026-10-20T06:34:19.554535903Z",
+  "timestamp": "2026-10-20T12:15:26.128738225Z",
   "model": "glm-5.3"
 }

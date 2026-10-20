@@ -5,32 +5,16 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "רב טבחים",
-      "rationale": "pažodžiui „skerdikų viršininkas“ — karinis vardas, ne kasdienis „sargybos viršininkas“."
-    }
-  ],
-  "translation": "Ir Nevuzaradanas, skerdikų viršininkas, paėmė ⟨את⟩ juos ir nusivežė juos pas Babilono karalių į Rivlą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7e859e4cfbdca3a70711b2928860f719c91ab916c40b3bfd3c5c6df804cc5d44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/52\/25-28.1792483799599.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Nevuzaradanas, vyriausiasis budelis, paėmė ⟨את⟩ juos ir nusivedė ⟨את⟩ juos pas Babilono karalių į Rivlą.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "paėmė"
+      "gloss": "ir paėmė"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ juos",
-      "marks": "Nevuzaradanas juos paėmė"
+      "marks": "Nevuzaradanas iš jų ėmė — žymi objektą (juos)"
     },
     {
       "surface": "נבוזראדן",
@@ -38,20 +22,20 @@
     },
     {
       "surface": "רב",
-      "gloss": "viršininkas"
+      "gloss": "vyriausiasis"
     },
     {
       "surface": "טבחים",
-      "gloss": "skerdikų"
+      "gloss": "budelių"
     },
     {
       "surface": "וילך",
-      "gloss": "nusivežė"
+      "gloss": "ir nusivedė"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ juos",
-      "marks": "pas Babilono karalių"
+      "marks": "pas Babilono karalių — žymi objektą (juos)"
     },
     {
       "surface": "אל",
@@ -70,6 +54,6 @@
       "gloss": "į Rivlą"
     }
   ],
-  "timestamp": "2026-10-20T08:09:59.600894223Z",
+  "timestamp": "2026-10-20T12:32:32.189904745Z",
   "model": "glm-5.3"
 }

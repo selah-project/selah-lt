@@ -5,35 +5,19 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "išgirdai",
-      "rationale": "ותענני gali būti ir 'atsakei man' — abu skaitomi psalmėse"
-    }
-  ],
-  "translation": "Savo kelius papasakojau, ir tu mane išgirdai, išmokyk mane savo įstatų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f2437ca5471d849fd018ef3d09d157df70e1778b313c840a6add240c85a42e60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/25-28.1792489070712.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Savo kelius papasakojau, ir tu atsakei man; išmokyk mane savo įstatymų.",
   "tokens": [
     {
       "surface": "דרכי",
       "gloss": "savo kelius"
     },
     {
-      "surface": "ספrתי",
+      "surface": "ספרתי",
       "gloss": "papasakojau"
     },
     {
       "surface": "ותענני",
-      "gloss": "ir tu mane išgirdai"
+      "gloss": "ir tu atsakei man"
     },
     {
       "surface": "למדני",
@@ -41,9 +25,9 @@
     },
     {
       "surface": "חקיך",
-      "gloss": "savo įstatų"
+      "gloss": "savo įstatymų"
     }
   ],
-  "timestamp": "2026-10-20T09:37:50.713008655Z",
+  "timestamp": "2026-10-20T12:43:05.332588835Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tai",
-      "rationale": "והיה — 'ir bus'; lietuvių reikalauja įvardžio 'tai' išreikšti šakninį veiksmą"
-    },
-    {
-      "kind": "substitution",
-      "subject": "amžinu",
-      "rationale": "עולם — 'slaptas, už horizonto einantis laikas'; 'amžinas' yra įprastas, bet praranda laiko slėptuvės vaizdą"
-    }
-  ],
-  "translation": "Atnašos šlaunis ir mosymo krūtinė, su riebalų ugnies aukomis, bus atnešti atlikti tenuphah-mosymą prieš Jahvę, ir tai bus tau bei tavo sūnums ⟨את⟩ su tavimi amžinu paskyrimu, kaip įsakė Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/10\/13-16.1792473353801.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Paaukotąją šlaunį ⟨terumos⟩ ir pamojuotąją krūtinę ⟨tenufos⟩, ant ugnies aukojamųjų taukų, jie atneš mojimui, tenufai, prieš Jahvės veidą; ir tai bus tau ir tavo sūnums ⟨את⟩ su tavimi amžinu įstatymu, kaip įsakė Jahvė.",
   "tokens": [
     {
       "surface": "שוק",
       "gloss": "šlaunis"
     },
     {
-      "surface": "התרumה",
-      "gloss": "atnašos"
+      "surface": "התרומה",
+      "gloss": "paaukotoji ⟨teruma⟩"
     },
     {
       "surface": "וחזה",
@@ -42,39 +21,39 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "mosymo"
+      "gloss": "pamojuotoji ⟨tenufa⟩"
     },
     {
       "surface": "על",
-      "gloss": "su"
+      "gloss": "ant"
     },
     {
       "surface": "אשי",
-      "gloss": "ugnies aukomis"
+      "gloss": "ugnies aukojamųjų"
     },
     {
       "surface": "החלבים",
-      "gloss": "riebalų"
+      "gloss": "taukų"
     },
     {
       "surface": "יביאו",
-      "gloss": "bus atnešti"
+      "gloss": "jie atneš"
     },
     {
       "surface": "להניף",
-      "gloss": "atlikti mosymą"
+      "gloss": "mojimui"
     },
     {
       "surface": "תנופה",
-      "gloss": "tenuphah"
+      "gloss": "tenufa"
     },
     {
       "surface": "לפני",
-      "gloss": "prieš"
+      "gloss": "prieš veidą"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvę"
+      "gloss": "Jahvės"
     },
     {
       "surface": "והיה",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "לחק",
-      "gloss": "paskyrimu"
+      "gloss": "amžinu įstatymu"
     },
     {
       "surface": "עולם",
-      "gloss": "amžinu"
+      "gloss": "amžinai"
     },
     {
       "surface": "כאשר",
@@ -113,6 +92,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T05:15:53.806991946Z",
+  "timestamp": "2026-10-20T12:37:50.562387452Z",
   "model": "glm-5.3"
 }

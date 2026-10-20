@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נתן תתן",
-      "rationale": "Infinitivas absoliutus — pažyminys 'tikrai atiduosi'; lietuviškai perduriama prieveiksmiu 'tikrai'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pašventinsiu sunaikinimui",
-      "rationale": "חרם — atiduoti cheremui, t. y. pašventinti naikinimui; 'visiškai sunaikinti' praranda šventumo šaknį."
-    }
-  ],
-  "translation": "Ir Jisraelis davė pažadą Jahvei ir tarė: Jei tikrai atiduosi ⟨את⟩ šitą tautą į mano ranką, tai aš pašventinsiu jų miestus sunaikinimui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/21\/1-4.1792474358167.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelis pažadėjo pažadą Jahvei ir tarė: jeigu tikrai atiduosi ⟨את⟩ šitą tautą į mano ranką, tai aš juos uždrausiu — ⟨את⟩ jų miestus.",
   "tokens": [
     {
       "surface": "וידר",
-      "gloss": "Ir davė pažadą"
+      "gloss": "pažadėjo"
     },
     {
       "surface": "ישראל",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "Jei"
+      "gloss": "jeigu"
     },
     {
       "surface": "נתן",
-      "gloss": "tikrai atiduosi"
+      "gloss": "atiduosi"
     },
     {
       "surface": "תתן",
-      "gloss": "atiduosi"
+      "gloss": "tikrai atiduosi"
     },
     {
       "surface": "את",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "והחרמתי",
-      "gloss": "aš pašventinsiu sunaikinimui"
+      "gloss": "ir uždrausiu juos"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "jų miestus"
     }
   ],
-  "timestamp": "2026-10-20T05:32:38.170946576Z",
+  "timestamp": "2026-10-20T12:41:01.299684573Z",
   "model": "glm-5.3"
 }

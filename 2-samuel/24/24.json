@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "penkiasdešimt šekelių",
-      "rationale": "Nurodyta kaina — penkiasdešimt šekelių sidabro už gumą ir galvijus."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קנו אקנה",
-      "rationale": "Infinitivus absolutus — 'pirkdamas nupirksiu': žodžio kartojimas pabrėžia tvirtą ryžtą, lietuviškai išreikšta 'tikrai nupirksiu'."
-    }
-  ],
-  "translation": "Ir karalius tarė Aravnai: Ne, nes aš tikrai nupirksiu ⟨את⟩ iš tavęs už kainą, ir neaukosiu Jahvei, savo Elohim, deginamųjų aukų veltui. Ir Davidas nupirko ⟨את⟩ gumą ir ⟨את⟩ galvijus už sidabrą — penkiasdešimt šekelių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/21-24.1792478744107.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius tarė Aravnai: Ne, nes už dyką negimsiu; už kainą pirksiu ⟨את⟩ iš tavęs, ir neauošiu aukos deginamosios Jahvei, savo Elohim, už dyką. Ir Davidas nupirko ⟨את⟩ girną ir ⟨את⟩ jaučius už sidabrą, penkiasdešimt šekelių.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "המלך",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "(prie) Aravnos"
     },
     {
       "surface": "ארונה",
-      "gloss": "Aravnai"
+      "gloss": "Aravna"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "Ne"
     },
     {
       "surface": "כי",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "קנו",
-      "gloss": "tikrai nupirksiu"
+      "gloss": "pirksiu"
     },
     {
       "surface": "אקנה",
-      "gloss": "nupirksiu"
+      "gloss": "pirksiu"
     },
     {
       "surface": "מאותך",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "aukosiu"
+      "gloss": "auošiu"
     },
     {
       "surface": "ליהוה",
@@ -86,15 +65,15 @@
     },
     {
       "surface": "עלות",
-      "gloss": "deginamųjų aukų"
+      "gloss": "aukos deginamosios"
     },
     {
       "surface": "חנם",
-      "gloss": "veltui"
+      "gloss": "už dyką"
     },
     {
       "surface": "ויקן",
-      "gloss": "ir nupirko"
+      "gloss": "Ir nupirko"
     },
     {
       "surface": "דוד",
@@ -103,20 +82,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gumą"
+      "marks": "girną"
     },
     {
       "surface": "הגרן",
-      "gloss": "gumą"
+      "gloss": "girną"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "galvijus"
+      "marks": "jaučius"
     },
     {
       "surface": "הבקר",
-      "gloss": "galvijus"
+      "gloss": "jaučius"
     },
     {
       "surface": "בכסף",
@@ -131,6 +110,6 @@
       "gloss": "penkiasdešimt"
     }
   ],
-  "timestamp": "2026-10-20T06:45:44.110614903Z",
+  "timestamp": "2026-10-20T12:14:18.793645296Z",
   "model": "glm-5.3"
 }

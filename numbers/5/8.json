@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גואל",
-      "rationale": "„atpirkėjas“ (giminių teisės atstovas) prieš „giminaitis“ — KJV „kinsman“, čia išlaikytas atpirkimo pobūdis"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "hebrajiškame „kaltė — Jahvei, kunigui“ nėra veiksmažodžio; lietuviška kopula pridėta žodžiu „priklauso“"
-    }
-  ],
-  "translation": "O jei žmogus neturi atpirkėjo, kuriam būtų atlyginta kaltė, kaltė, kuri atlyginta, priklauso Jahvei — kunigui, be atpirkimo avino, kuriuo sutaikinama dėl jo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c9643639b94dd7c68b4d719576e9a7349c0f9011b70335748b7ebbb8108cee06",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/5\/5-8.1792474002709.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O jei žmogui nėra atpirkėjo, kuriam grąžinti kaltę, tai kaltė, kuri ⟨yra⟩ grąžinama, priklauso Jahvei — ⟨t.y.⟩ kunigui, be sutaikinimo avino, kuriuo už jį atliekamas sutaikinimas.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "O jei"
+      "gloss": "o jei"
     },
     {
       "surface": "אין",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "kuriam būtų atlyginta"
+      "gloss": "grąžinti"
     },
     {
       "surface": "האשם",
-      "gloss": "kaltė"
+      "gloss": "kaltę"
     },
     {
       "surface": "אליו",
-      "gloss": ""
+      "gloss": "kuriam"
     },
     {
       "surface": "האשם",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "המושב",
-      "gloss": "kuri atlyginta"
+      "gloss": "kuri ⟨yra⟩ grąžinama"
     },
     {
       "surface": "ליהוה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "הכפרים",
-      "gloss": "atpirkimo"
+      "gloss": "sutaikinimo"
     },
     {
       "surface": "אשר",
@@ -90,17 +69,17 @@
     },
     {
       "surface": "יכפר",
-      "gloss": "sutaikinama"
+      "gloss": "atliekamas sutaikinimas"
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "juo"
     },
     {
       "surface": "עליו",
-      "gloss": "dėl jo"
+      "gloss": "už jį"
     }
   ],
-  "timestamp": "2026-10-20T05:26:42.710748106Z",
+  "timestamp": "2026-10-20T12:42:24.552412848Z",
   "model": "glm-5.3"
 }

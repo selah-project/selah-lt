@@ -5,38 +5,7 @@
   "book": "job",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חג",
-      "rationale": "veiksmažodis 'brėžti ratu' Tanache tik čia — kosminio horizonto įvaizdis"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "prielinkas 'ant' lietuvių sakinyje ištirpdytas, nes 'ratu' jau reiškia judesį per paviršių"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ribų brėžimas",
-      "rationale": "eulutė matuoja kosmosą — vandens riba, šviesos ir tamsos riba"
-    },
-    {
-      "kind": "crux",
-      "subject": "עד תכלית אור עם חשך",
-      "rationale": "'iki šviesos su tamsa ribos' arba 'kol diena ir naktis pasibaigs' (KJV)"
-    }
-  ],
-  "translation": "Ribą apibrėžė ratu vandens veidui — iki šviesos ribos, kur ⟨ji susitinka⟩ su tamsa.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8bb6ca06b36eb2e0618a17ae9590a68e9c8a18a32bedf0907fe2ca3d3e213a1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/26\/9-12.1792490475433.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ribą jis apibrėžė ratu ant vandens paviršiaus, iki šviesos ribos kartu su tamsa.",
   "tokens": [
     {
       "surface": "חק",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "פני",
-      "gloss": "veidui"
+      "gloss": "paviršiaus"
     },
     {
       "surface": "מים",
@@ -72,13 +41,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "su"
+      "gloss": "kartu su"
     },
     {
       "surface": "חשך",
       "gloss": "tamsa"
     }
   ],
-  "timestamp": "2026-10-20T10:01:15.434364422Z",
+  "timestamp": "2026-10-20T12:33:24.917435411Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio — 'Elohim stovykla šis'"
-    },
-    {
-      "kind": "elision",
-      "subject": "ההוא",
-      "rationale": "hebrajiškas parodojamasis žodis 'toji' išreiškiamas lietuviška galūne 'tos vietos'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מחנה \/ מחנים",
-      "rationale": "vietovardis yra žodžio 'stovykla' dviskaita — 'Dvi stovyklos'; dviskaita prarasta lietuviškame vardijoje"
-    }
-  ],
-  "translation": "Ir tarė Jaakovas, kai juos pamatė: Elohim stovykla ⟨yra⟩ čia. Ir jis pavadino tos vietos vardą Machanajimu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "593863dba75e144f05b7cff6f0d2862998a89cf2ca64430d0587032be7b8f1c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/1-4.1792471617706.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jaakovas tarė, kai pamatė ⟨juos⟩: Tai Elohim stovykla. Ir jis pavadino tos vietos vardą Machanaimas.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ראם",
-      "gloss": "juos pamatė"
+      "gloss": "pamatė"
     },
     {
       "surface": "מחנה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "čia"
+      "gloss": "tai"
     },
     {
       "surface": "ויקרא",
@@ -75,13 +49,13 @@
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "tos"
     },
     {
       "surface": "מחנים",
-      "gloss": "Machanajimu"
+      "gloss": "Machanaimas"
     }
   ],
-  "timestamp": "2026-10-20T04:46:57.709322719Z",
+  "timestamp": "2026-10-20T12:25:56.652813311Z",
   "model": "glm-5.3"
 }

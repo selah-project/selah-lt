@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "prielinksnis „pas\/į“ išnyko linksniuojamojo galininko forma"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לעיני",
-      "rationale": "pažodžiui „(prieš) akis“ = akivaizdoje, liudininkams matant"
-    },
-    {
-      "kind": "addition",
-      "subject": "mano dėdės",
-      "rationale": "דדי — construct „mano dėdės sūnus“, įvardis iš dviejų žodžių"
-    }
-  ],
-  "translation": "Ir atidaviau ⟨את⟩ pirkimo raštą Baruchui, sūnui Nerijos, sūnui Machseijos, Chanamelio, mano dėdės, akivaizdoje ir liudytojų, rašančių pirkimo rašte, akivaizdoje, visų jehudiečių, sėdinčių sargybos kieme, akivaizdoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/9-12.1792483111797.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš daviau ⟨את⟩ pirkimo raštą Baruchui, Nerijos sūnui, Machsejos sūnui, Hanamelo, mano dėdės sūnaus, akyse, ir liudininkų, rašančių pirkimo rašte, akyse, visų žydų, sėdinčių sargybos kieme, akyse.",
   "tokens": [
     {
       "surface": "ואתן",
-      "gloss": "ir atidaviau"
+      "gloss": "ir aš daviau"
     },
     {
       "surface": "את",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Baruchui"
     },
     {
       "surface": "ברוך",
@@ -72,27 +46,27 @@
     },
     {
       "surface": "מחסיה",
-      "gloss": "Machseijos"
+      "gloss": "Machsejos"
     },
     {
       "surface": "לעיני",
-      "gloss": "akivaizdoje"
+      "gloss": "akyse"
     },
     {
       "surface": "חנמאל",
-      "gloss": "Chanamelio"
+      "gloss": "Hanamelo"
     },
     {
       "surface": "דדי",
-      "gloss": "mano dėdės"
+      "gloss": "mano dėdės sūnaus"
     },
     {
       "surface": "ולעיני",
-      "gloss": "ir akivaizdoje"
+      "gloss": "ir liudininkų akyse"
     },
     {
       "surface": "העדים",
-      "gloss": "liudytojų"
+      "gloss": "liudininkų"
     },
     {
       "surface": "הכתבים",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "akivaizdoje"
+      "gloss": "visų žydų akyse"
     },
     {
       "surface": "כל",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "jehudiečių"
+      "gloss": "žydų"
     },
     {
       "surface": "הישבים",
@@ -131,6 +105,6 @@
       "gloss": "sargybos"
     }
   ],
-  "timestamp": "2026-10-20T07:58:31.802771212Z",
+  "timestamp": "2026-10-20T12:30:42.802257482Z",
   "model": "glm-5.3"
 }

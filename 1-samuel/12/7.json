@@ -5,42 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "cedek darbai",
-      "rationale": "צדקות pagal D2 verčiama cedek — ne vien „teisumas“ ar „malonės“, kaip senesniuose vertimuose"
-    },
-    {
-      "kind": "crux",
-      "subject": "וְאִשָּׁפְטָה",
-      "rationale": "„teisiuosi \/ teisčiausi su jumis“ arba „atliksiu teismą su jumis“ — KJV „reason“, JPS „plead“"
-    },
-    {
-      "kind": "invitation",
-      "subject": "atsistokite",
-      "rationale": "Impulsinis kreipimasis į tautą — Šmuelis kviečia ją stoti prieš Jahvę"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio tautai",
-      "rationale": "Tiesioginis kreipimasis į susirinkusią tautą per visą eilutę"
-    }
-  ],
-  "translation": "O dabar atsistokite, ir aš teisiuosi su jumis prieš Jahvę dėl ⟨את⟩ visų Jahvės cedek darbų, kuriuos jis darė su jumis ⟨את⟩ ir su jūsų tėvais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a0cacb4c269de0673f5967fad94644fb711fa5b813641c2d03b8dca2ec1d9183",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/12\/6-8.1792485481421.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O dabar atsistokite, ir aš teisiuosiuosi su jumis prieš Jahvę dėl ⟨את⟩ visų Jahvės cedek darbų, kuriuos jis padarė su jumis ⟨את⟩ ir su jūsų tėvais.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "O dabar"
+      "gloss": "o dabar"
     },
     {
       "surface": "התיצבו",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "ואשפטה",
-      "gloss": "ir aš teisiuosi"
+      "gloss": "ir aš teisiuosiuosi"
     },
     {
       "surface": "אתכם",
@@ -65,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus cedek darbus"
+      "marks": "visų Jahvės cedek darbų"
     },
     {
       "surface": "כל",
-      "gloss": "visus"
+      "gloss": "visų"
     },
     {
       "surface": "צדקות",
-      "gloss": "cedek darbus"
+      "gloss": "cedek darbų"
     },
     {
       "surface": "יהוה",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "darė"
+      "gloss": "padarė"
     },
     {
       "surface": "אתכם",
@@ -100,6 +69,6 @@
       "gloss": "jūsų tėvais"
     }
   ],
-  "timestamp": "2026-10-20T08:38:01.426716746Z",
+  "timestamp": "2026-10-20T12:07:48.364785811Z",
   "model": "glm-5.3"
 }

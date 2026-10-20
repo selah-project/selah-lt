@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא פני",
-      "rationale": "Pažodžiui 'kelti veidą' — reiškia 'teikti pagarbą, palankumą'."
-    },
-    {
-      "kind": "crux",
-      "subject": "חי יהוה",
-      "rationale": "Prisaikdinimo formulė: pažodžiui 'gyvas Jahvė' — 'kad gyvas yra Jahvė'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ne⟩",
-      "rationale": "Hebrajų niekinamasis būsimasis laikas ('nežiūrėsiu') išreikštas lietuvišku tariamuoju su neiginio dalelyte."
-    }
-  ],
-  "translation": "Ir Eliša tarė: Gyvas yra Jahvė Cevaot, prieš kurį aš stoviu: jeigu ne Jehošafato, Judo karaliaus, veidas, kurį aš gerbiu, ⟨aš⟩ ⟨ne⟩žiūrėčiau į tave ir ⟨ne⟩matyčiau tavęs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/3\/13-16.1792479728787.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Elisha tarė: Kaip gyvas yra Jahvė Cevaot, kurio akivaizdoje aš stoviu, jei ne Jošafato, Jūdos karaliaus, veidas ⟨kurį gerbiu⟩, aš nežiūrėčiau ⟨את⟩ į tave ir neiščiau tavęs.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Eliša"
+      "gloss": "Elisha"
     },
     {
       "surface": "חי",
-      "gloss": "Gyvas"
+      "gloss": "gyvas"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "prieš kurį"
+      "gloss": "kurio"
     },
     {
       "surface": "עמדתי",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "jo veidui"
+      "gloss": "Jo akivaizdoje"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "jei"
     },
     {
       "surface": "לולי",
-      "gloss": "jeigu ne"
+      "gloss": "ne"
     },
     {
       "surface": "פני",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehošafato"
+      "gloss": "Jošafato"
     },
     {
       "surface": "מלך",
-      "gloss": "karalius"
+      "gloss": "karaliaus"
     },
     {
       "surface": "יהודה",
-      "gloss": "Judo"
+      "gloss": "Jūdos"
     },
     {
       "surface": "אני",
@@ -99,25 +73,26 @@
     },
     {
       "surface": "אם",
-      "gloss": "ar"
+      "gloss": "jei"
     },
     {
       "surface": "אביט",
-      "gloss": "žiūrėčiau"
+      "gloss": "nežiūrėčiau"
     },
     {
       "surface": "אליך",
-      "gloss": "į tave"
+      "gloss": "⟨את⟩ į tave",
+      "marks": "į tave"
     },
     {
       "surface": "ואם",
-      "gloss": "ir ar"
+      "gloss": "ir jei"
     },
     {
       "surface": "אראך",
-      "gloss": "matyčiau tavęs"
+      "gloss": "neiščiau tavęs"
     }
   ],
-  "timestamp": "2026-10-20T07:02:08.788919291Z",
+  "timestamp": "2026-10-20T12:13:11.685482451Z",
   "model": "glm-5.3"
 }

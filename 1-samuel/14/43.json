@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrajiškas prielinksnis lietuvių linksniuotoje kalboje ištirpsta kilmininke."
-    },
-    {
-      "kind": "crux",
-      "subject": "מעט דבש",
-      "rationale": "Zodge: 'Paragavau — paragavau — šiek tiek medaus' — išskaidyta pabrėžiamoji konstrukcija."
-    }
-  ],
-  "translation": "Ir tarė Šaulas Jonatanui: Pasakyk man, ką padarei. Ir Jonatanas jam pasakė ir tarė: Paragavau — paragavau kiek, medaus strypo galu, kuris yra mano rankoje. Štai aš — mirsiu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/41-44.1792477355834.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šaulis tarė Jonatanui: Pasakyk man, ką padarei. Ir Jonatanas jam pasakė ir tarė: Tik paragavau lašo medaus lazdos galu, kuri buvo mano rankoje — štai, aš mirštu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulas"
+      "gloss": "Šaulis"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "יונתן",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הגידה",
-      "gloss": "Pasakyk"
+      "gloss": "pasakyk"
     },
     {
       "surface": "לי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויגד",
-      "gloss": "Ir pasakė"
+      "gloss": "ir pasakė"
     },
     {
       "surface": "לו",
@@ -78,45 +57,45 @@
     },
     {
       "surface": "טעם",
-      "gloss": "Paragavau"
-    },
-    {
-      "surface": "טעמתי",
       "gloss": "paragavau"
     },
     {
+      "surface": "טעמתי",
+      "gloss": "ragaudamas"
+    },
+    {
       "surface": "בקצה",
-      "gloss": "kiek"
+      "gloss": "galu"
     },
     {
       "surface": "המטה",
-      "gloss": "medaus"
+      "gloss": "lazdos"
     },
     {
       "surface": "אשר",
-      "gloss": "kuris"
+      "gloss": "kuri ⟨buvo⟩"
     },
     {
       "surface": "בידי",
-      "gloss": "yra mano rankoje"
+      "gloss": "mano rankoje"
     },
     {
       "surface": "מעט",
-      "gloss": ""
+      "gloss": "lašo"
     },
     {
       "surface": "דבש",
-      "gloss": ""
+      "gloss": "medaus"
     },
     {
       "surface": "הנני",
-      "gloss": "Štai aš"
+      "gloss": "štai, aš"
     },
     {
       "surface": "אמות",
-      "gloss": "mirsiu"
+      "gloss": "mirštu"
     }
   ],
-  "timestamp": "2026-10-20T06:22:35.838348615Z",
+  "timestamp": "2026-10-20T12:08:08.678112327Z",
   "model": "glm-5.3"
 }

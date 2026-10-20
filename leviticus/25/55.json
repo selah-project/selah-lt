@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų praleidžia sietuvą — vardų sakinys be veiksmažodžio."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבדים \/ עבדי",
-      "rationale": "Kartojamas 'vergai \/ mano vergai' — retorinis tvirtinimas, išlaikytas."
-    },
-    {
-      "kind": "you",
-      "subject": "jūsų Elohim",
-      "rationale": "Tiesioginis kreipimasis į Jisraelio sūnus kaip į Jahvės tarnus."
-    }
-  ],
-  "translation": "Nes man Jisraelio sūnūs ⟨yra⟩ vergai — mano vergai jie, kuriuos išvedžiau iš Micraimo žemės; aš — Jahvė, jūsų Elohim.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5bfd8a8d98d15571d8e506a5d8b336657a9c301ac9a570aed0a90f39be06d51f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/53-55.1792473683337.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": " Nes man Jisraelio sūnūs ⟨yra⟩ tarnai — mano tarnai jie ⟨yra⟩, kuriuos išvedžiau ⟨את⟩ juos iš Micraimo krašto; aš ⟨esu⟩ Jahvė, jūsų Elohim.",
   "tokens": [
     {
       "surface": "כי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "vergai"
+      "gloss": "tarnai"
     },
     {
       "surface": "עבדי",
-      "gloss": "mano vergai"
+      "gloss": "mano tarnai"
     },
     {
       "surface": "הם",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurie"
+      "gloss": "kuriuos"
     },
     {
       "surface": "הוצאתי",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "iš žemės"
+      "gloss": "iš krašto"
     },
     {
       "surface": "מצרים",
@@ -95,6 +69,6 @@
       "gloss": "jūsų Elohim"
     }
   ],
-  "timestamp": "2026-10-20T05:21:23.338788671Z",
+  "timestamp": "2026-10-20T12:39:04.064463225Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sielas",
-      "rationale": "נפש — kvėpuojanti gyvybė, gerklė, alsavimas; ne tik nemateriali 'siela'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כזבכם \/ כזב",
-      "rationale": "Žodžio žaismas: 'jūsų melas' ir 'melas' — ta pati šaknis du kartus eilutės gale."
-    }
-  ],
-  "translation": "Ir jūs mane niekinote mano tautos akivaizdoje už saujas miežių ir už duonos kąsnius — žudyti sielas, kurios neturi mirti, ir gaivinti sielas, kurios neturi gyventi, meluodamos mano tautai, kuri klausosi melo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b0f51e720d19c2a4324ac4e4491ea16d8b4560df6b977c84ff528c4a8e385559",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/13\/17-20.1792484086699.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jūs išniekinote ⟨את⟩ mane tarp mano tautos už saujas miežių ir už duonos kąsnelius — žudyti sielas, kurios neturėtų mirti, ir gaivinti sielas, kurios neturėtų gyventi, meluodamos mano tautai, kuri klausosi melo.",
   "tokens": [
     {
       "surface": "ותחללנה",
-      "gloss": "Ir jūs niekinote"
+      "gloss": "ir jūs išniekinote"
     },
     {
       "surface": "אתי",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "akivaizdoje"
+      "gloss": "tarp"
     },
     {
       "surface": "עמי",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "ובפתותי",
-      "gloss": "ir už"
+      "gloss": "ir už kąsnelius"
     },
     {
       "surface": "לחם",
-      "gloss": "duonos kąsnius"
+      "gloss": "duonos"
     },
     {
       "surface": "להמית",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "תמותנה",
-      "gloss": "turi mirti"
+      "gloss": "turėtų mirti"
     },
     {
       "surface": "ולחיות",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "תחיינה",
-      "gloss": "turi gyventi"
+      "gloss": "turėtų gyventi"
     },
     {
       "surface": "בכזבכם",
@@ -118,6 +97,6 @@
       "gloss": "melo"
     }
   ],
-  "timestamp": "2026-10-20T08:14:46.703130638Z",
+  "timestamp": "2026-10-20T12:21:23.475747803Z",
   "model": "glm-5.3"
 }

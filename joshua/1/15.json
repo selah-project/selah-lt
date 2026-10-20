@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וירשו \/ ירשתכם \/ וירשתם",
-      "rationale": "Šaknis ירש kartojasi tris kartus — 'paveldėti \/ paveldėta žemė \/ paveldėsite' — visos giminės paveldėjimo vienovė."
-    },
-    {
-      "kind": "addition",
-      "subject": "tada",
-      "rationale": "Hebrajų sąlygos sakinys 'iki… ir grįšite' — lietuvių laiko santykiui pažymėti pridėtas 'tada'."
-    }
-  ],
-  "translation": "Kol Jahvė duos poilsį jūsų broliams, kaip ir jums, ir jie paveldės ⟨את⟩ žemę, kurią Jahvė, jūsų Elohim, duoda jiems; tada grįšite į savo paveldėtąją žemę ir paveldėsite ⟨את⟩ ją — tą, kurią jums davė Mošė, Jahvės tarnas, aname Jordano krašte, saulės rytuose.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b00f3725aff8b8cb07455fd3574627ec5a02bc7597f46b8b1b1d790b975f1660",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/1\/13-16.1792475723312.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kol Jahvė suteks poilsį jūsų broliams, kaip ir jums, ir jie užims kraštą, kurį Jahvė, jūsų Elohim, jiems duoda; tada grįšite į savo paveldėjimo kraštą ir užimsite ⟨את⟩ jį, kurį jums davė Mošė, Jahvės tarnas, aname Jordano krante, saulės tekėjimo pusėje.",
   "tokens": [
     {
       "surface": "עד",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨kad⟩"
     },
     {
       "surface": "יניח",
-      "gloss": "duos poilsį"
+      "gloss": "suteks poilsį"
     },
     {
       "surface": "יהוה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "ir jie paveldės"
+      "gloss": "ir užims"
     },
     {
       "surface": "גם",
-      "gloss": ""
+      "gloss": "irgi"
     },
     {
       "surface": "המה",
@@ -67,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "žemę"
+      "marks": "kraštą"
     },
     {
       "surface": "הארץ",
-      "gloss": "žemę"
+      "gloss": "kraštą"
     },
     {
       "surface": "אשר",
-      "gloss": "kurią"
+      "gloss": "kurį"
     },
     {
       "surface": "יהוה",
@@ -99,24 +78,24 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "į žemę"
+      "gloss": "į kraštą"
     },
     {
       "surface": "ירשתכם",
-      "gloss": "savo paveldėtąją"
+      "gloss": "savo paveldėjimo"
     },
     {
       "surface": "וירשתם",
-      "gloss": "ir paveldėsite"
+      "gloss": "ir užimsite"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ją",
-      "marks": "žemę, kurią davė Mošė"
+      "gloss": "⟨את⟩ jį",
+      "marks": "kurį (kraštą, duotą Mošės)"
     },
     {
       "surface": "אשר",
-      "gloss": "tą, kurią"
+      "gloss": "kurį"
     },
     {
       "surface": "נתן",
@@ -140,7 +119,7 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "aname krašte"
+      "gloss": "aname krante"
     },
     {
       "surface": "הירדן",
@@ -148,13 +127,13 @@
     },
     {
       "surface": "מזרח",
-      "gloss": "rytuose"
+      "gloss": "tekėjimo pusėje"
     },
     {
       "surface": "השמש",
       "gloss": "saulės"
     }
   ],
-  "timestamp": "2026-10-20T05:55:23.316293145Z",
+  "timestamp": "2026-10-20T12:34:02.138016353Z",
   "model": "glm-5.3"
 }

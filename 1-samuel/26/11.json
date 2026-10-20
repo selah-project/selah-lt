@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חלילה לי",
-      "rationale": "Hebrajų atmetimo formulė 'tebūna toli nuo manęs'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלח יד",
-      "rationale": "Pakartota iš v. 9 — 'ištiesti ranką prieš pateistąjį' grąžina tą pačią frazę, kuria buvo uždrausta liesti"
-    }
-  ],
-  "translation": "Tebūna toli nuo manęs nuo Jahvės ištiesti ranką prieš Jahvės pateptąjį! O dabar paimk išmintą išgalvotą ⟨prašau⟩ ietį, kuri ⟨yra⟩ prie jo galvūgalio, ir ⟨את⟩ vandens ąsotį, ir eikime sau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/26\/9-12.1792477766730.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tebūna tolima nuo manęs nuo Jahvės|Tebūnie man nuo Jahvės toli ištiesti savo ranką prieš Jahvės pateptąjį; o daban imk, meldžiu, ⟨את⟩ ietį, kuri ⟨yra⟩ prie jo galvūgalio, ir ⟨את⟩ vandens indą, ir eikime sau.",
   "tokens": [
     {
       "surface": "חלילה",
-      "gloss": "Tebūna toli"
+      "gloss": "tebūnie tolima"
     },
     {
       "surface": "לי",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "ranką"
+      "gloss": "savo ranką"
     },
     {
       "surface": "במשיח",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "O dabar"
+      "gloss": "o dabar"
     },
     {
       "surface": "קח",
-      "gloss": "paimk"
+      "gloss": "imk"
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "meldžiu"
     },
     {
       "surface": "את",
@@ -88,11 +67,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ąsotį"
+      "marks": "vandens indą"
     },
     {
       "surface": "צפחת",
-      "gloss": "ąsotį"
+      "gloss": "indą"
     },
     {
       "surface": "המים",
@@ -107,6 +86,6 @@
       "gloss": "sau"
     }
   ],
-  "timestamp": "2026-10-20T06:29:26.733553421Z",
+  "timestamp": "2026-10-20T12:09:17.759726618Z",
   "model": "glm-5.3"
 }

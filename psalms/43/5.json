@@ -5,46 +5,15 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesh",
-      "rationale": "נפש – gyvybės jėga, alsavimas, ne „siela” vėlesne prasme; paliktas nefes"
-    },
-    {
-      "kind": "elision",
-      "subject": "ל",
-      "rationale": "laipsninis priebalsis prieš Elohim neišreikštas atskiru žodžiu"
-    },
-    {
-      "kind": "crux",
-      "subject": "mano veido išgelbėjimas",
-      "rationale": "ישועת פני: KJV „health of my countenance”, JPS „salvation of my countenance”, BSB „my Savior” — laikomasi pažodinio „veido išgelbėjimas”"
-    },
-    {
-      "kind": "you",
-      "subject": "nefes",
-      "rationale": "kalbantysis kalbina savo paties nefes — savęs raginimas"
-    }
-  ],
-  "translation": "Ką lenkiosi, mano nefes, ir ką ūžoji manyje? Išlauk Elohim, nes dar išpažinsiu ⟨את⟩ jį — mano veido išgelbėjimą ir mano Elohim.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "837f2af0f1bd6d7958787686d09c697c8516a7cf41c36480b13976ea83772543",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/43\/5-5.1792487861457.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kodėl tu nulinkusi galvą, mano nefes, ir kodėl tu urzgi ant manęs? Lauk Elohim, nes dar išpažinsiu ⟨את⟩ jį — ⟨jis⟩ yra mano veido išgelbėjimas ir mano Elohim.",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "ką"
+      "gloss": "kodėl"
     },
     {
       "surface": "תשתוחחי",
-      "gloss": "lenkiosi"
+      "gloss": "nulinkusi galvą"
     },
     {
       "surface": "נפשי",
@@ -52,19 +21,19 @@
     },
     {
       "surface": "ומה",
-      "gloss": "ir ką"
+      "gloss": "ir kodėl"
     },
     {
       "surface": "תהמי",
-      "gloss": "ūžoji"
+      "gloss": "urzgi"
     },
     {
       "surface": "עלי",
-      "gloss": "manyje"
+      "gloss": "ant manęs"
     },
     {
       "surface": "הוחילי",
-      "gloss": "išlauk"
+      "gloss": "lauk"
     },
     {
       "surface": "לאלהים",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "ישועת",
-      "gloss": "išgelbėjimą"
+      "gloss": "išgelbėjimas"
     },
     {
       "surface": "פני",
@@ -95,6 +64,6 @@
       "gloss": "ir mano Elohim"
     }
   ],
-  "timestamp": "2026-10-20T09:17:41.457847116Z",
+  "timestamp": "2026-10-20T12:44:07.654234458Z",
   "model": "glm-5.3"
 }

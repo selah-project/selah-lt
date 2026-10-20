@@ -5,37 +5,16 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio 'būti' — pridėta porinėmis predikatinėmis konstrukcijomis"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jūrą",
-      "rationale": "ים pažodžiui 'jūra' — didysis vario baseinas šventykloje, pavadinimas išlaikytas pažodžiui"
-    }
-  ],
-  "translation": "Ir ⟨את⟩ vario stulpus, kurie ⟨buvo⟩ Jahvės namuose, ir ⟨את⟩ pjedestalus, ir ⟨את⟩ vario jūrą, kuri ⟨buvo⟩ Jahvės namuose, kasdėjai sudaužė ir išnešė visą jų varį į Babiloną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "21e97f00e7c53d77c58f5a00b2bed06857d22a50fc6de1308cf465def5501b9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/52\/17-20.1792483825265.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ variinius stulpus, kurie ⟨buvo⟩ Jahvės namuose, ir ⟨את⟩ pakoves, ir ⟨את⟩ vario jūrą, kuri ⟨buvo⟩ Jahvės namuose, kalviai sudaužė ir nunešė visą jų varį į Babiloną.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "vario stulpus"
+      "gloss": "ir ⟨את⟩",
+      "marks": "variinius stulpus"
     },
     {
       "surface": "עמודי",
-      "gloss": "stulpus"
+      "gloss": "variinius stulpus"
     },
     {
       "surface": "הנחשת",
@@ -55,16 +34,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "pjedestalus"
+      "gloss": "ir ⟨את⟩",
+      "marks": "pakoves"
     },
     {
       "surface": "המכנות",
-      "gloss": "pjedestalus"
+      "gloss": "pakoves"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ir ⟨את⟩",
       "marks": "vario jūrą"
     },
     {
@@ -93,11 +72,11 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "kasdėjai"
+      "gloss": "kasdai"
     },
     {
       "surface": "וישאו",
-      "gloss": "ir išnešė"
+      "gloss": "ir nunešė"
     },
     {
       "surface": "את",
@@ -117,6 +96,6 @@
       "gloss": "į Babiloną"
     }
   ],
-  "timestamp": "2026-10-20T08:10:25.267822361Z",
+  "timestamp": "2026-10-20T12:32:39.651179711Z",
   "model": "glm-5.3"
 }

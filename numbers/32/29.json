@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tai",
-      "rationale": "hebrajiškoje sąlygos struktūroje nėra lietuvių kalbai reikalingo sąryšio žodžio"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ginkluoti",
-      "rationale": "חלוץ pažodžiui 'išsitraukę (ginklą)', ginkluotam parengties žygiui"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošė kalba Izraelio vyresniesiems",
-      "rationale": "tiesioginis kreipimasis su sąlyga ir įsakymu 'duokite'"
-    }
-  ],
-  "translation": "Ir tarė Mošė jiems: jeigu Gado sūnūs ir Rubeno sūnūs pereis su jumis ⟨את⟩ Jordaną, visi ginkluoti kautynėms prieš Jahvęs ⟨veidą⟩, ir bus nukariauta žemė priešais jus, tai duokite jiems ⟨את⟩ Gileado žemę nuosavybei.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b1b4f20861417350c64a2d78e061cdfe52f885b1d019f917a39c7b90f33f3f69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/32\/29-32.1792474704691.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Mošė jiems: jei Gado sūnūs ir Reubeno sūnūs eis su ⟨את⟩ jumis per ⟨את⟩ Jordaną, visi ginkluoti į karą prieš Jahvęs veidą, ir žemė bus pajungta jums, tai duokite jiems ⟨את⟩ Gilado žemę nuosavybei.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "משה",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeigu"
+      "gloss": "jei"
     },
     {
       "surface": "יעברו",
-      "gloss": "pereis"
+      "gloss": "eis per"
     },
     {
       "surface": "בני",
@@ -67,20 +41,21 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Rubeno"
+      "gloss": "Reubeno"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jumis"
+      "gloss": "⟨את⟩ su jumis",
+      "marks": "perėjimas drauge su jumis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jordaną"
+      "marks": "Jordanas"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordaną"
+      "gloss": "Jordanas"
     },
     {
       "surface": "כל",
@@ -92,19 +67,19 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "kautynėms"
+      "gloss": "į karą"
     },
     {
       "surface": "לפני",
-      "gloss": "priešais veidą"
+      "gloss": "prieš veidą"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvę"
+      "gloss": "Jahvės"
     },
     {
       "surface": "ונכבשה",
-      "gloss": "ir bus nukariauta"
+      "gloss": "ir bus pajungta"
     },
     {
       "surface": "הארץ",
@@ -112,7 +87,7 @@
     },
     {
       "surface": "לפניכם",
-      "gloss": "priešais jus"
+      "gloss": "prieš jus"
     },
     {
       "surface": "ונתתם",
@@ -125,7 +100,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gileado žemę"
+      "marks": "Gilado žemė"
     },
     {
       "surface": "ארץ",
@@ -133,13 +108,13 @@
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gileado"
+      "gloss": "Gilado"
     },
     {
       "surface": "לאחזה",
       "gloss": "nuosavybei"
     }
   ],
-  "timestamp": "2026-10-20T05:38:24.693148746Z",
+  "timestamp": "2026-10-20T12:41:43.392445021Z",
   "model": "glm-5.3"
 }

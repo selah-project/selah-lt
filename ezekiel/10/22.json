@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "איש אל עבר פניו ילכו",
-      "rationale": "Pažodžiui „kiekvienas į savo veido pusę ėjo“ — reiškia „ėjo tiesiai pirmyn“; išlaikytas pažodinis paveikslas."
-    },
-    {
-      "kind": "elision",
-      "subject": "ואותם",
-      "rationale": "Aleph-tav su jungtuku rodo tiesioginį objektą „juos pačius“ — išlaikytas kaip ⟨את⟩ ženklas."
-    }
-  ],
-  "translation": "Ir jų veidų atvaizdas — ⟨tai⟩ tie veidai, kuriuos mačiau prie Chebaro upės; jų išvaizda ir jie patys: kiekvienas į savo veido pusę ėjo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ee605fa4b2f751bdfb109021403256714545ba008008bb45c84891222eebf6cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/10\/21-22.1792483979550.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O jų veidų pavidalas — tie patys veidai, kuriuos mačiau prie Kabaro upės; jų išvaizda ir jie patys — kiekvienas ⟨את⟩ tiesiai į priekį, veidu, kuriuo atsigręžęs, ėjo.",
   "tokens": [
     {
       "surface": "ודמות",
-      "gloss": "ir atvaizdas"
+      "gloss": "o pavidalas"
     },
     {
       "surface": "פניהם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "המה",
-      "gloss": "⟨tai⟩ tie"
+      "gloss": "tie patys"
     },
     {
       "surface": "הפנים",
-      "gloss": "tie veidai"
+      "gloss": "veidai"
     },
     {
       "surface": "אשר",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "כבר",
-      "gloss": "Chebaro"
+      "gloss": "Kabaro"
     },
     {
       "surface": "מראיהם",
@@ -70,8 +49,8 @@
     },
     {
       "surface": "ואותם",
-      "gloss": "⟨ir⟩ ⟨את⟩",
-      "marks": "juos pačius"
+      "gloss": "ir ⟨את⟩ jie patys",
+      "marks": "kiekvienas (אישׁ)"
     },
     {
       "surface": "איש",
@@ -94,6 +73,6 @@
       "gloss": "ėjo"
     }
   ],
-  "timestamp": "2026-10-20T08:12:59.551822974Z",
+  "timestamp": "2026-10-20T12:20:30.124647155Z",
   "model": "glm-5.3"
 }

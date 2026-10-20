@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "cherem",
-      "rationale": "החרימם — 'atiduoti cheremui (naikinimui)' vs 'pašventinti naikinimui'; viena šaknis su קדש kategorija, bet kitas žodis"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "hebrajų היתה čia beveik beveiksnis — 'tai buvo iš Jahvės'; lietuvių reikalauja saregės"
-    },
-    {
-      "kind": "substitution",
-      "subject": "malonė",
-      "rationale": "תחנה — pažodžiui 'maldavimas, maloningumas'; 'malonė' artimiausia vieno žodžio reikšmė"
-    }
-  ],
-  "translation": "Nes iš ⟨את⟩ Jahvės ⟨buvo⟩ — sutvirtinti jų širdis, kad ateitų į mūšį prieš ⟨את⟩ Jisraelį, kad būtų atiduoti cheremui, kad neliktų jiems malonės, bet kad būtų sunaikinti, kaip įsakė Jahvė ⟨את⟩ Mošei.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a0304fa8d4edd730bc5cbece05d2517bb7f9a4c4a7586d0ad076c9cb402b7565",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/17-20.1792475992778.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes iš ⟨את⟩ Jahvės buvo — sutvirtinti ⟨את⟩ jų širdis, kad stojo į mūšį prieš ⟨את⟩ Jisraelį, idant juos pašvęstų sunaikinimui, kad neturėtų jie malonės, nes idant juos sunaikintų, kaip įsakė Jahvė ⟨את⟩ Mošei.",
   "tokens": [
     {
       "surface": "כי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "⟨buvo⟩"
+      "gloss": "buvo"
     },
     {
       "surface": "לחזק",
@@ -56,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jų širdį"
+      "marks": "jų širdis"
     },
     {
       "surface": "לבם",
-      "gloss": "jų širdį"
+      "gloss": "jų širdis"
     },
     {
       "surface": "לקראת",
-      "gloss": "kad ateitų į"
+      "gloss": "kad stojo į mūšį prieš"
     },
     {
       "surface": "המלחמה",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "את",
-      "gloss": "prieš ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Jisraelį"
     },
     {
@@ -81,15 +55,15 @@
     },
     {
       "surface": "למען",
-      "gloss": "kad"
+      "gloss": "idant"
     },
     {
       "surface": "החרימם",
-      "gloss": "būtų atiduoti cheremui"
+      "gloss": "juos pašvęstų sunaikinimui"
     },
     {
       "surface": "לבלתי",
-      "gloss": "kad neliktų"
+      "gloss": "kad neturėtų"
     },
     {
       "surface": "היות",
@@ -105,15 +79,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "bet kad"
+      "gloss": "nes"
     },
     {
       "surface": "למען",
-      "gloss": ""
+      "gloss": "idant"
     },
     {
       "surface": "השמידם",
-      "gloss": "būtų sunaikinti"
+      "gloss": "juos sunaikintų"
     },
     {
       "surface": "כאשר",
@@ -137,6 +111,6 @@
       "gloss": "Mošei"
     }
   ],
-  "timestamp": "2026-10-20T05:59:52.783538Z",
+  "timestamp": "2026-10-20T12:34:20.808383725Z",
   "model": "glm-5.3"
 }

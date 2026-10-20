@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדע",
-      "rationale": "Nehaltoji infinityvo+veiksmažodžio forma 'žinodamas žinosi' — pabrėžimas, paprastai sutraukiamas į 'tikrai žinosi'."
-    },
-    {
-      "kind": "you",
-      "subject": "Akišas Davidui",
-      "rationale": "Tiesioginis kalbos aktas: Akišas kreipiasi į Davidą prieš mūšį."
-    }
-  ],
-  "translation": "Ir įvyko tomis dienomis, kad pelištiečiai sutelkė ⟨את⟩ savo stovyklas į kariuomenę kariauti su Jisraeliu, ir Akišas tarė Davidui: žinodamas žinosi, kad su manimi išeisi į stovyklą tu ir tavo vyrai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/28\/1-4.1792477810800.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko tomis dienomis, kad pelištiečiai surinko ⟨את⟩ savo stovyklas į karo pulką kariauti su Jisraeliu. Ir tarė Akišas Davidui: žinodamas žinosi, kad su manimi ⟨את⟩ tu išeisi į stovyklą, tu ir tavo vyrai.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir įvyko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "בימים",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ויקבצו",
-      "gloss": "sutelkė"
+      "gloss": "surinko"
     },
     {
       "surface": "פלשתים",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "į kariuomenę"
+      "gloss": "į karo pulką"
     },
     {
       "surface": "להלחם",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "אכיש",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": " tam"
     },
     {
       "surface": "דוד",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "אתי",
-      "gloss": "su ⟨את⟩ manimi"
+      "gloss": "su manimi ⟨את⟩"
     },
     {
       "surface": "תצא",
-      "gloss": "išeisi"
+      "gloss": "tu išeisi"
     },
     {
       "surface": "במחנה",
@@ -118,6 +97,6 @@
       "gloss": "ir tavo vyrai"
     }
   ],
-  "timestamp": "2026-10-20T06:30:10.801598364Z",
+  "timestamp": "2026-10-20T12:09:35.883036729Z",
   "model": "glm-5.3"
 }

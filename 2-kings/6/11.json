@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משלנו אל מלך ישראל",
-      "rationale": "Pažodžiui 'kas iš mūsų pas Jisraelio karalių' — prasmė 'kas išduoda mūsų paslaptis karaliui'; veiksmažodis pridėtas."
-    },
-    {
-      "kind": "you",
-      "subject": "tarnams",
-      "rationale": "Karalius tiesiogiai kreipiasi į savo tarnus klausimu."
-    },
-    {
-      "kind": "secret",
-      "subject": "išdavystė",
-      "rationale": "Klausimas apie paslapties atskleidimą — kas slepia informaciją Aramo taryboje."
-    }
-  ],
-  "translation": "Ir Aramo karaliaus širdis susiputo dėl šio dalyko, ir jis šaukėsi savo tarnų ir tarė jiems: Ar nepasakysite man, kas iš mūsiškių ⟨šnipinėja⟩ Jisraelio karaliui?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b5df42c8ee4da5b782e612421c37db39537b41c4eb129372d258e6b2a1047acf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/9-12.1792479826976.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dėl šio dalyko sudirbo Aramo karaliaus širdis, ir jis pašaukė savo tarnus ir tarė jiems: Ar nepasakysite man, kuris iš mūsų ⟨yra⟩ išdavęs Jisraelio karaliui?",
   "tokens": [
     {
       "surface": "ויסער",
-      "gloss": "susiputo"
+      "gloss": "sudirbo"
     },
     {
       "surface": "לב",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "šaukėsi"
+      "gloss": "ir pašaukė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "עבדיו",
-      "gloss": "tarnų"
+      "gloss": "savo tarnus"
     },
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אליהם",
@@ -95,25 +69,25 @@
     },
     {
       "surface": "מי",
-      "gloss": "kas"
+      "gloss": "kuris"
     },
     {
       "surface": "משלנו",
-      "gloss": "iš mūsiškių"
+      "gloss": "iš mūsų"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "מלך",
       "gloss": "karaliui"
     },
     {
-      "surface": "ישראל",
+      "surface": "מלך",
       "gloss": "Jisraelio"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "karaliui"
     }
   ],
-  "timestamp": "2026-10-20T07:03:46.979189066Z",
+  "timestamp": "2026-10-20T12:12:48.823332932Z",
   "model": "glm-5.3"
 }

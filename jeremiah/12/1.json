@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בגדי בגד",
-      "rationale": "ką tikrintojo vardo kartojimas — „klastingieji apgaule“ — hebrajų paronomazija lietuviškai neišlaikoma"
-    },
-    {
-      "kind": "crux",
-      "subject": "משפטים אדבר אותך",
-      "rationale": "„teismus kalbėsiu su Tavimi“ vs „tik teisybę kalbėsiu“ — kieno teismai: Jahvės ar bendri"
-    }
-  ],
-  "translation": "Teisus Tu, Jahvė, kai bylinėjuosi su Tavimi; vis dėlto apie teismus kalbėsiu su Tavimi: kodėl bedievių kelias klesti, ramu visiems, kurie elgiasi didžia apgaule?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/1-4.1792482477274.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Teisus esi Tu, Jahvė, kaiginčiju su Tavimi, tačiau teismus kalbėsiu ⟨את⟩ Tau: kodėl bedievių kelias skleidžiasi, ramūs yra visi, kurie išdavikiškai elgiasi?",
   "tokens": [
     {
       "surface": "צדיק",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Tu"
+      "gloss": "esi Tu"
     },
     {
       "surface": "יהוה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אריב",
-      "gloss": "bylinėjuosi"
+      "gloss": "ginčiju"
     },
     {
       "surface": "אליך",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אך",
-      "gloss": "vis dėlto"
+      "gloss": "tačiau"
     },
     {
       "surface": "משפטים",
-      "gloss": "apie teismus"
+      "gloss": "teismus"
     },
     {
       "surface": "אדבר",
@@ -66,7 +45,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ su Tavimi"
+      "gloss": "⟨את⟩",
+      "marks": "Tau"
     },
     {
       "surface": "מדוע",
@@ -82,25 +62,25 @@
     },
     {
       "surface": "צלחה",
-      "gloss": "klesti"
+      "gloss": "skleidžiasi"
     },
     {
       "surface": "שלו",
-      "gloss": "ramu"
+      "gloss": "ramūs"
     },
     {
       "surface": "כל",
-      "gloss": "visiems"
+      "gloss": "visi"
     },
     {
       "surface": "בגדי",
-      "gloss": "kurie elgiasi klastingai"
+      "gloss": "kurie išdavikiškai elgiasi"
     },
     {
       "surface": "בגד",
-      "gloss": "apgaule"
+      "gloss": "išdavikiškai"
     }
   ],
-  "timestamp": "2026-10-20T07:47:57.275371043Z",
+  "timestamp": "2026-10-20T12:29:33.448607187Z",
   "model": "glm-5.3"
 }

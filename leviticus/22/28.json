@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "vienu metu",
-      "rationale": "ביום אחד — 'vieną dieną', t. y. tą pačią dieną"
-    }
-  ],
-  "translation": "Ir jautį arba ėriuką — jį ir ⟨את⟩ jo jaiklį — jūs neskersite vieną dieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/25-28.1792473574517.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jautį arba avį — ⟨את⟩ jį ir ⟨את⟩ jo jauniklį — nežudykite vieną dieną.",
   "tokens": [
     {
       "surface": "ושור",
@@ -33,21 +17,21 @@
     },
     {
       "surface": "שה",
-      "gloss": "ėriuką"
+      "gloss": "avį"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jautį arba ėriuką"
+      "marks": "jį"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo jaiklį"
+      "marks": "jo jauniklį"
     },
     {
       "surface": "בנו",
-      "gloss": "jo jaiklį"
+      "gloss": "jo jauniklį"
     },
     {
       "surface": "לא",
@@ -55,7 +39,7 @@
     },
     {
       "surface": "תשחטו",
-      "gloss": "jūs skersite"
+      "gloss": "žudykite"
     },
     {
       "surface": "ביום",
@@ -66,6 +50,6 @@
       "gloss": "vieną"
     }
   ],
-  "timestamp": "2026-10-20T05:19:34.521603069Z",
+  "timestamp": "2026-10-20T12:38:54.074298349Z",
   "model": "glm-5.3"
 }

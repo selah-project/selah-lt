@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dienų knyga",
-      "rationale": "ספר דברי הימים pažodžiui „dienų reikalų knyga” — stambusis veikalas, lietuviškai trūksta vieno tikslaus žodžio"
-    },
-    {
-      "kind": "invitation",
-      "subject": "ar jie neparašyti",
-      "rationale": "retorinis klausimas חלא kreipiasi į skaitytoją, nurodydamas į šaltinį"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "hebrajiškas prielinksnis prie ספר lietuvių linksniu pralietas, atskiru žodžiu nevertas"
-    }
-  ],
-  "translation": "O likusieji Nadabo darbai ir visa, ką jis padarė — ar jie neparašyti dienų knygoje, Jisraelio karalių [kronikoje]?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/15\/29-32.1792479419617.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O likutis Nadabo reikalų ir visa, ką jis padarė — ar jie ne parašyti knygoje dienų reikalų Jisraelio karalių?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "O likusieji"
+      "gloss": "O likutis"
     },
     {
       "surface": "דברי",
-      "gloss": "darbai"
+      "gloss": "reikalų"
     },
     {
       "surface": "נדב",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "ar"
+      "gloss": "ar ne"
     },
     {
       "surface": "הם",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "neparašyti"
+      "gloss": "parašyti"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "knygoje"
     },
     {
       "surface": "ספר",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "dienų [kronikos]"
+      "gloss": "reikalų"
     },
     {
       "surface": "הימים",
@@ -94,6 +68,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T06:56:59.618819047Z",
+  "timestamp": "2026-10-20T12:06:22.677399124Z",
   "model": "glm-5.3"
 }

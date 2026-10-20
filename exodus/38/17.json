@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "hebrajų kalba neturi veiksmažodžio 'būti' esamajame laike"
-    },
-    {
-      "kind": "measurement",
-      "subject": "skaičius",
-      "rationale": "išvardijami visi stulpų komponentai pagal metalus — žalvaris ir sidabras"
-    }
-  ],
-  "translation": "Ir stulpų pamatai — iš žalvario, o stulpų kabliai ir jų apkaltai — sidabras, ir jų viršūnių apkalas — sidabras, ir jie ⟨buvo⟩ apkaustyti sidabru — visi kiemo stulpai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4a5e2a2c61cf1a271f164d4b8a06bdf8782e2edd23c52536f7d5b34367f94980",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/38\/17-20.1792473027373.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ pamatus stulpams — bronza, o stulpų kabliai ir jų apjuosimas — sidabras, ir jų viršūnių apklijavimas — sidabras, ir jie buvo apjuosti sidabru, visi kiemo stulpai.",
   "tokens": [
     {
       "surface": "והאדנים",
-      "gloss": "ir pamatai"
+      "gloss": "Ir ⟨את⟩ pamatus"
     },
     {
       "surface": "לעמדים",
@@ -38,15 +17,19 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "žalvaris"
+      "gloss": "bronza"
     },
     {
-      "surface": "ושוי העמודים",
-      "gloss": "stulpų kabliai"
+      "surface": "ווי",
+      "gloss": "o kabliai"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "stulpų"
     },
     {
       "surface": "וחשוקיהם",
-      "gloss": "ir jų apkaltai"
+      "gloss": "ir jų apjuosimas"
     },
     {
       "surface": "כסף",
@@ -54,7 +37,7 @@
     },
     {
       "surface": "וצפוי",
-      "gloss": "ir apkalas"
+      "gloss": "ir apklijavimas"
     },
     {
       "surface": "ראשיהם",
@@ -70,7 +53,7 @@
     },
     {
       "surface": "מחשקים",
-      "gloss": "apkaustyti"
+      "gloss": "apjuosti"
     },
     {
       "surface": "כסף",
@@ -89,6 +72,6 @@
       "gloss": "kiemo"
     }
   ],
-  "timestamp": "2026-10-20T05:10:27.375558140Z",
+  "timestamp": "2026-10-20T12:20:37.564348048Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את אחיך",
-      "rationale": "kai kurie skaito 'su tavimi jūsų brolis' (pagal 15,2 'jo brolis'), kiti — prielinksnis 'את' + 'iš tavo brolio rankos'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "tiesioginis įsakymas antruoju asmeniu"
-    }
-  ],
-  "translation": "Nuo svetimojo gali reikalauti, o kas tavo yra ⟨את⟩ su tavimi pas tavo brolį — atleis tavo ranka.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/15\/1-4.1792475202478.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iš svetimšalio tu gali reikalauti ⟨את⟩, o kas bus tavo broliui — ⟨את⟩ tavo brolį atleis tavo ranka.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "svetimąjį"
+      "marks": "svetimšalį"
     },
     {
       "surface": "הנכרי",
-      "gloss": "svetimąjį"
+      "gloss": "svetimšalį"
     },
     {
       "surface": "תגש",
@@ -47,19 +26,20 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "yra"
+      "gloss": "bus"
     },
     {
       "surface": "לך",
-      "gloss": "tavo"
+      "gloss": "tau"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ su"
+      "gloss": "⟨את⟩",
+      "marks": "tavo brolį"
     },
     {
       "surface": "אחיך",
-      "gloss": "tavo broliu"
+      "gloss": "tavo broliui"
     },
     {
       "surface": "תשמט",
@@ -70,6 +50,6 @@
       "gloss": "tavo ranka"
     }
   ],
-  "timestamp": "2026-10-20T05:46:42.480471908Z",
+  "timestamp": "2026-10-20T12:16:25.367940951Z",
   "model": "glm-5.3"
 }

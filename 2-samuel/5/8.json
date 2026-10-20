@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העורים והפסחים",
-      "rationale": "Ar tai Davido nekenčiami priešai, ar jebusiečių pašaipos žodžiai iš 5,6 — vertėjų nuomonės skiriasi; hebrajiškas tekstas nutrūksta be aiškaus sakinio galo"
-    },
-    {
-      "kind": "hapax",
-      "subject": "צנור",
-      "rationale": "„Vandens latakas“ — žodis Tanache beveik vien tik čia (2 Sam 5,8)"
-    }
-  ],
-  "translation": "Ir Davidas sakė tą dieną: kiekvienas, mušąs jebusitį ir pasiekiantis vandens lataką — ir ⟨את⟩ raišiuosius, ir ⟨את⟩ akluosius, nekenčia Davido siela. Todėl sakoma: aklasis ir raišasis neateis į namą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/5-8.1792478069179.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas tą dieną tarė: Kiekvienas, kuris muša jebusiečius ir pasiekia vandens griovį, o ⟨את⟩ raištuosius ir ⟨את⟩ akluosius — nekenčia jų Davido nefesh; todėl sakoma: aklasis ir raišasis neis į namus.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir sakė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "דוד",
@@ -50,32 +29,32 @@
     },
     {
       "surface": "מכה",
-      "gloss": "mušąs"
+      "gloss": "kuris muša"
     },
     {
       "surface": "יבסי",
-      "gloss": "jebusitį"
+      "gloss": "jebusietį"
     },
     {
       "surface": "ויגע",
-      "gloss": "ir pasiekiantis"
+      "gloss": "ir pasiekia"
     },
     {
       "surface": "בצנור",
-      "gloss": "vandens lataką"
+      "gloss": "vandens griovį"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "raišiuosius"
+      "gloss": "⟨את⟩",
+      "marks": "raištuosius"
     },
     {
       "surface": "הפסחים",
-      "gloss": "raišiuosius"
+      "gloss": "raištuosius"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "akluosius"
     },
     {
@@ -84,11 +63,11 @@
     },
     {
       "surface": "שנאו",
-      "gloss": "nekenčia"
+      "gloss": "nekenčia jų"
     },
     {
       "surface": "נפש",
-      "gloss": "siela"
+      "gloss": "nefesh"
     },
     {
       "surface": "דוד",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "על",
-      "gloss": "todėl"
+      "gloss": "dėl to"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "todėl"
     },
     {
       "surface": "יאמרו",
@@ -120,7 +99,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "ateis"
+      "gloss": "eis"
     },
     {
       "surface": "אל",
@@ -128,9 +107,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "namą"
+      "gloss": "namus"
     }
   ],
-  "timestamp": "2026-10-20T06:34:29.183422291Z",
+  "timestamp": "2026-10-20T12:15:40.386681124Z",
   "model": "glm-5.3"
 }

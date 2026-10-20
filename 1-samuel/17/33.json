@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Lietuviškas brūkšnys „jis — karo vyras“ atstoja hebrajų kalboje nėra esančio sietuvo"
-    }
-  ],
-  "translation": "Ir tarė Šaulis Davidui: tu negali eiti prieš šį pelištietį, kautis su juo, nes tu jaunuolis, o jis — karo vyras nuo savo jaunystės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e91ff987f6340ac01af3316be5b8c5ac7dd578a5f225d491b01cb604f3efab39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/33-36.1792477495877.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šaulis tarė Davidui: negali eiti prieš šį peleistį kautis su juo, nes tu esi jaunuolis, o jis — karo vyras nuo savo jaunystės.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prie"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidui"
+      "gloss": "Davido"
     },
     {
       "surface": "לא",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "tu negali"
+      "gloss": "gali"
     },
     {
       "surface": "ללכת",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "šį pelištietį"
+      "gloss": "šį peleistį"
     },
     {
       "surface": "הזה",
@@ -100,6 +84,6 @@
       "gloss": "nuo savo jaunystės"
     }
   ],
-  "timestamp": "2026-10-20T06:24:55.878141203Z",
+  "timestamp": "2026-10-20T12:07:47.291853148Z",
   "model": "glm-5.3"
 }

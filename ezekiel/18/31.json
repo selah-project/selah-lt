@@ -5,42 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בם",
-      "gloss": "Priemonė „juose“ išlydyta į santykinį „kuriomis“."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פשעיכם\/פשעתם",
-      "rationale": "Daiktavardis ir veiksmažodis iš tos pačios šaknies פשע — paronomazija, lietuviškai nutrinkta („nuodėmės\/nusikaltote“)."
-    },
-    {
-      "kind": "invitation",
-      "subject": "kodėl jūs turite mirti",
-      "rationale": "Retorinis klausimas kviečia gyventi — atsivertimo šaukimas."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio namai",
-      "rationale": "Tiesioginis kreipimasis į Jisraelio namus."
-    }
-  ],
-  "translation": "Nusimeskite nuo savęs ⟨את⟩ visas savo nuodėmes, kuriomis nusikaltote, ir pasidarykite sau naują širdį ir naują ruach — kodėl jūs turite mirti, Jisraelio namai?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d01d7ec72d42433de4da5515b1d5b6a7252c4874be5e493d02814cc2ee541ee5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/18\/29-32.1792484255474.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nusimeskite nuo savęs ⟨את⟩ visus savo maištus, kuriais sukėlėte maištą prieš ⟨juos⟩, ir pasidarykite sau naują širdį ir naują ruach; ir kodėl jūs mirštate, Jisraelio namai?",
   "tokens": [
     {
       "surface": "השליכו",
-      "gloss": "Nusimeskite"
+      "gloss": "nusimeskite"
     },
     {
       "surface": "מעליכם",
@@ -49,27 +18,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visas savo nuodėmes"
+      "marks": "visus savo maištus"
     },
     {
       "surface": "כל",
-      "gloss": "visas"
+      "gloss": "visus"
     },
     {
       "surface": "פשעיכם",
-      "gloss": "savo nuodėmes"
+      "gloss": "savo maištus"
     },
     {
       "surface": "אשר",
-      "gloss": "kuriomis"
+      "gloss": "kuriais"
     },
     {
       "surface": "פשעתם",
-      "gloss": "nusikaltote"
+      "gloss": "sukėlėte maištą"
     },
     {
       "surface": "בם",
-      "gloss": ""
+      "gloss": "prieš juos"
     },
     {
       "surface": "ועשו",
@@ -97,21 +66,21 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "kodėl"
+      "gloss": "ir kodėl"
     },
     {
       "surface": "תמתו",
-      "gloss": "turite mirti"
+      "gloss": "mirštate"
     },
     {
       "surface": "בית",
-      "gloss": "Jisraelio namai"
+      "gloss": "namai"
     },
     {
       "surface": "ישראל",
-      "gloss": ""
+      "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T08:17:35.475402238Z",
+  "timestamp": "2026-10-20T12:21:35.728069715Z",
   "model": "glm-5.3"
 }

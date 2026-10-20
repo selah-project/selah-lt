@@ -5,40 +5,19 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כזאת וכזאת",
-      "rationale": "Pakartota 'taip ir taip' — hebrajų būdas perduoti nesmulkintą turinį (poruojama kategorija), išlaikyta pažodžiui."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Prielinksnis susiliejo su vardo linksniu lietuvių vertime („pasakė Cadokui“), atskirai neišreikštas."
-    }
-  ],
-  "translation": "Ir Chušajas pasakė Cadokui ir Ebjatarui, kunigams: Taip ir taip patarė Achitofelas ⟨את⟩ Avšalomui ir ⟨את⟩ Jisraelio vyresniesiems, o taip ir taip aš patariau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/17\/13-16.1792478449717.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Chušajus tarė Cadokui ir Evjatarui, kunigams: Šitaip ir šitaip patarė Achitofelis ⟨את⟩ Avšalomui ir ⟨את⟩ Jisraelio vyresniuosius; o šitaip ir šitaip patariau aš.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir pasakė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "חושי",
-      "gloss": "Chušajas"
+      "gloss": "Chušajus"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Cadokui"
     },
     {
       "surface": "צדוק",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אביתר",
-      "gloss": "Ebjatarui"
+      "gloss": "Evjatarui"
     },
     {
       "surface": "הכהנים",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "כזאת",
-      "gloss": "Taip"
+      "gloss": "Šitaip"
     },
     {
       "surface": "וכזאת",
-      "gloss": "ir taip"
+      "gloss": "ir šitaip"
     },
     {
       "surface": "יעץ",
@@ -70,25 +49,25 @@
     },
     {
       "surface": "אחיתפל",
-      "gloss": "Achitofelas"
+      "gloss": "Achitofelis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avšalomui"
+      "marks": "Avšalomą"
     },
     {
       "surface": "אבשלם",
       "gloss": "Avšalomui"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Jisraelio vyresniesiems"
+      "marks": "Jisraelio vyresniuosius"
     },
     {
       "surface": "זקני",
-      "gloss": "vyresniesiems"
+      "gloss": "vyresniuosius"
     },
     {
       "surface": "ישראל",
@@ -96,21 +75,21 @@
     },
     {
       "surface": "וכזאת",
-      "gloss": "o taip"
+      "gloss": "o šitaip"
     },
     {
       "surface": "וכזאת",
-      "gloss": "ir taip"
+      "gloss": "ir šitaip"
     },
     {
       "surface": "יעצתי",
-      "gloss": "aš patariau"
+      "gloss": "patariau"
     },
     {
       "surface": "אני",
       "gloss": "aš"
     }
   ],
-  "timestamp": "2026-10-20T06:40:49.721361319Z",
+  "timestamp": "2026-10-20T12:13:36.978645840Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מנחיל\/הניח",
-      "rationale": "abi formos iš vieno šaknies נוח — 'duoda paveldėti' ir 'suteiks ramybę' dera su v. 9 מנוחה"
-    }
-  ],
-  "translation": "Ir pereisite ⟨את⟩ Jordeną, ir gyvensite žemėje, kurią Jahvė, jūsų Elohim, duoda jums paveldėti, ir jis suteiks jums ramybę nuo visų jūsų priešų aplinkui, ir gyvensite saugiai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/9-12.1792475222057.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Pereisite ⟨את⟩ Jordaną ir gyvensite žemėje, kurią Jahvė, jūsų Elohim, duoda jums paveldėti; ir jis suteiks jums ramybę nuo visų jūsų priešų aplinkui, ir gyvensite saugiai.",
   "tokens": [
     {
       "surface": "ועברתם",
@@ -30,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jordeną"
+      "marks": "Jordaną"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jordeną"
+      "gloss": "Jordaną"
     },
     {
       "surface": "וישבתם",
@@ -62,7 +46,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩ jums",
+      "marks": "duoda paveldėti jums"
     },
     {
       "surface": "והניח",
@@ -93,6 +78,6 @@
       "gloss": "saugiai"
     }
   ],
-  "timestamp": "2026-10-20T05:47:02.059419239Z",
+  "timestamp": "2026-10-20T12:16:25.144329340Z",
   "model": "glm-5.3"
 }

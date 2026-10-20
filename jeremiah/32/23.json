@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Toroja",
-      "rationale": "תורה — Tora, mokymas; ne 'įstatymas' vienas."
-    },
-    {
-      "kind": "substitution",
-      "subject": "atnešei",
-      "rationale": "קרא pažodžiui 'pašaukei' — 'pašaukei ant jų' blogį, t. y. atsiuntei; įprasčiausias understand. yra 'atnešei juos'."
-    }
-  ],
-  "translation": "Ir jie įėjo ir paveldėjo ją, bet jie neklausė tavo balso ir tavo Toroje nevaikščiojo; visko, ką įsakei jiems daryti, jie nedarė, ir tu atnešei jiems ⟨את⟩ visą šitą blogį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ac637168d4dbec7f4987c93f1b0e73fa1ea18da462c9d1a52da3148600f0e64f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/21-24.1792483175828.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie atėjo ir paveldėjo ⟨את⟩ ją, bet jie neklausė tavo balso ir tavo Tora neėjo — visko, ką įsakei jiems daryti, jie nepadary; ir tu užtraukei jiems ⟨את⟩ visą šitą blogį.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "įėjo"
+      "gloss": "ir jie atėjo"
     },
     {
       "surface": "וירשו",
@@ -39,7 +18,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (šią žemę)"
     },
     {
       "surface": "ולא",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ובתרותך",
-      "gloss": "tavo Toroje"
+      "gloss": "tavo Tora"
     },
     {
       "surface": "לא",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "vaikščiojo"
+      "gloss": "ėjo"
     },
     {
       "surface": "את",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "darė"
+      "gloss": "padary"
     },
     {
       "surface": "ותקרא",
-      "gloss": "atnešei"
+      "gloss": "ir tu užtraukei"
     },
     {
       "surface": "אתם",
@@ -110,7 +89,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visą blogį"
+      "marks": "visą"
     },
     {
       "surface": "כל",
@@ -125,6 +104,6 @@
       "gloss": "šitą"
     }
   ],
-  "timestamp": "2026-10-20T07:59:35.844839874Z",
+  "timestamp": "2026-10-20T12:31:21.890476266Z",
   "model": "glm-5.3"
 }

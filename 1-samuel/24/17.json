@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "ויהי yra emphazinis „atsitiko“; lietuvių kalbai reikia ⟨buvo⟩"
-    }
-  ],
-  "translation": "Ir buvo, kai Davidas baigė kalbėti ⟨את⟩ šiuos žodžius Šauliui, kad Šaulis tarė: Ar tai tavo balsas, mano sūnau Davidai? Ir Šaulis pakėlė savo balsą ir verkė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/24\/17-20.1792477621744.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, kai Davidas baigė kalbėti ⟨את⟩ šiuos žodžius Šauliui, Šaulis tarė: Ar tai tavo balsas, sūnau mano Davidai? Ir Šaulis pakėlė savo balsą ir verksmo verkti.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir ⟨buvo⟩"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "ככלות",
@@ -54,15 +38,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "שאול",
       "gloss": "Šauliui"
     },
     {
+      "surface": "שאול",
+      "gloss": "Šaulis"
+    },
+    {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "tarė"
     },
     {
       "surface": "שאול",
@@ -78,7 +62,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "mano sūnau"
+      "gloss": "sūnau mano"
     },
     {
       "surface": "דוד",
@@ -86,7 +70,7 @@
     },
     {
       "surface": "וישא",
-      "gloss": "ir pakėlė"
+      "gloss": "pakėlė"
     },
     {
       "surface": "שאול",
@@ -98,9 +82,9 @@
     },
     {
       "surface": "ויבך",
-      "gloss": "ir verkė"
+      "gloss": "verkė"
     }
   ],
-  "timestamp": "2026-10-20T06:27:01.746140924Z",
+  "timestamp": "2026-10-20T12:08:34.684170310Z",
   "model": "glm-5.3"
 }

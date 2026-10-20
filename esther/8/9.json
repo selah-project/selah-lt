@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "šimtas dvidešimt septynios provincijos",
-      "rationale": "Data ir valstybės apimtis skaičiuojamos tiksliai — data, mėnuo, diena, provincijų skaičius."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל \/ ואל",
-      "rationale": "Hebrajiškas prielinksnis lietuviško linksnio sangloba nebereikalingas, atitinkamai elijuotas."
-    }
-  ],
-  "translation": "Buvo pašaukti karaliaus raštininkai tuo metu — trečiąjį mėnesį, tai yra Sivano mėnesį, dvidešimt trečiąją jo dieną, — ir buvo parašyta visa, ką įsakė Mordochėjas žydams, ir satrapams, bei valdytojams, bei provincijų kunigaikščiams, kurie nuo Hodu iki Kušo — šimtas dvidešimt septynios provincijos, — kiekvienai provincijai pagal jos raštą ir kiekvienai tautai pagal jos kalbą, ir žydams pagal jų raštą ir pagal jų kalbą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/8\/9-12.1792491613843.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir buvo pašaukti karaliaus raštininkai tuo metu, trečiąjį mėnesį — tai yra Sivano mėnesį — dvidešimt trečiąją jo dieną; ir ⟨buvo⟩ parašyta viskas, ką įsakė Mordechajus žydams, ir satrapams, ir vietininkams, ir krašto valdytojams nuo Hodu iki Kušo — šimtas dvidešimt septyni kraštai — kiekvienam kraštui pagal jo raštą ir kiekvienai tautai pagal jos kalbą, ir žydams pagal jų raštą ir jų kalbą.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "buvo pašaukti"
+      "gloss": "ir buvo pašaukti"
     },
     {
       "surface": "ספרי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "metu"
+      "gloss": "tuo metu"
     },
     {
       "surface": "ההיא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בשלושה",
-      "gloss": "tris"
+      "gloss": "trečiąją"
     },
     {
       "surface": "ועשרים",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "בו",
-      "gloss": "jo"
+      "gloss": "jo dieną"
     },
     {
       "surface": "ויכתב",
-      "gloss": "ir buvo parašyta"
+      "gloss": "ir ⟨buvo⟩ parašyta"
     },
     {
       "surface": "ככל",
-      "gloss": "visa"
+      "gloss": "viskas"
     },
     {
       "surface": "אשר",
@@ -98,11 +77,11 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordochėjas"
+      "gloss": "Mordechajus"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "žydams"
     },
     {
       "surface": "היהודים",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": ""
+      "gloss": "ir satrapams"
     },
     {
       "surface": "האחשדרפנים",
@@ -118,15 +97,15 @@
     },
     {
       "surface": "והפחות",
-      "gloss": "valdytojams"
+      "gloss": "ir vietininkams"
     },
     {
       "surface": "ושרי",
-      "gloss": "kunigaikščiams"
+      "gloss": "ir valdytojams"
     },
     {
       "surface": "המדינות",
-      "gloss": "provincijų"
+      "gloss": "krašto"
     },
     {
       "surface": "אשר",
@@ -146,7 +125,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "septynios"
+      "gloss": "septyni"
     },
     {
       "surface": "ועשרים",
@@ -158,23 +137,23 @@
     },
     {
       "surface": "מדינה",
-      "gloss": "provincijos"
+      "gloss": "kraštai"
     },
     {
       "surface": "מדינה",
-      "gloss": "provincijai"
+      "gloss": "kiekvienam kraštui"
     },
     {
       "surface": "ומדינה",
-      "gloss": "ir provincijai"
+      "gloss": "ir kraštui"
     },
     {
       "surface": "ככתבה",
-      "gloss": "pagal jos raštą"
+      "gloss": "pagal jo raštą"
     },
     {
       "surface": "ועם",
-      "gloss": "tautai"
+      "gloss": "ir tautai"
     },
     {
       "surface": "ועם",
@@ -186,7 +165,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": ""
+      "gloss": "ir"
     },
     {
       "surface": "היהודים",
@@ -198,9 +177,9 @@
     },
     {
       "surface": "וכלשונם",
-      "gloss": "ir pagal jų kalbą"
+      "gloss": "ir jų kalbą"
     }
   ],
-  "timestamp": "2026-10-20T10:20:13.844253295Z",
+  "timestamp": "2026-10-20T12:18:32.178647861Z",
   "model": "glm-5.3"
 }

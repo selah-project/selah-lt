@@ -5,36 +5,20 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נתח\/נתחיה",
-      "rationale": "tą pačią šaknį 'pjaustyti' kartojama veiksmažodyje ir daiktavardyje — 'supjaustys ją jos gabalais'"
-    }
-  ],
-  "translation": "Ir jis nulups odą nuo deginamosios aukos ir supjaustys ⟨את⟩ ją jos gabalais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/1\/5-8.1792473126829.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis nudirgs ⟨את⟩ deginamąją auką ir supjaustys ⟨את⟩ ją į jos gabalus.",
   "tokens": [
     {
       "surface": "והפשיט",
-      "gloss": "ir nulups"
+      "gloss": "ir nudirgs"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "deginamąją auką"
+      "marks": "deginamoji auka"
     },
     {
       "surface": "העלה",
-      "gloss": "deginamoji auka"
+      "gloss": "deginamąją auką"
     },
     {
       "surface": "ונתח",
@@ -43,13 +27,13 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ji"
     },
     {
       "surface": "לנתחיה",
-      "gloss": "jos gabalais"
+      "gloss": "į jos gabalus"
     }
   ],
-  "timestamp": "2026-10-20T05:12:06.831509134Z",
+  "timestamp": "2026-10-20T12:37:31.771919932Z",
   "model": "glm-5.3"
 }

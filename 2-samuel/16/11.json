@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gyvybė",
-      "rationale": "נפש yra 'gerklė, kvapas, gyvybės jėga', ne atskira 'siela'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל · ואל",
-      "rationale": "lietuvių naudininkas 'Avišajui, tarnams' pasako kryptį, atskiras prielinksnis nereikalingas"
-    },
-    {
-      "kind": "you",
-      "subject": "Davido žodžiai tarnams",
-      "rationale": "įsakymo forma: 'palikite jį'"
-    }
-  ],
-  "translation": "Ir tarė Davidas Avišajui ir visiems savo tarnams: štai mano sūnus, išėjęs iš mano įsčių, siekia ⟨את⟩ mano gyvybės — o juo labiau dabar šis Benjaminietis; palikite jį, tegul keikia, nes taip jam tarė Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fa3ea732bc9e47d22f162419bc3012e6a4957ca7ff8eb8c494de33f640ce2ff9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/16\/9-12.1792478337741.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas tarė Avišajui ir visiems savo tarnams: Štai mano sūnus, kuris išėjo iš mano vidurių, siekia ⟨את⟩ mano gyvybę — tai kiek labiau dabar šis Benjaminitas? Palikite jį, ir tekeikia, nes Jahvė jam taip yra pasakęs.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Avišajui"
     },
     {
       "surface": "אבישי",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "štai"
+      "gloss": "Štai"
     },
     {
       "surface": "בני",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ממעי",
-      "gloss": "iš mano įsčių"
+      "gloss": "iš mano vidurių"
     },
     {
       "surface": "מבקש",
-      "gloss": "sieks"
+      "gloss": "siekia"
     },
     {
       "surface": "את",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "ואף",
-      "gloss": "o dar"
+      "gloss": "tai kiek labiau"
     },
     {
       "surface": "כי",
-      "gloss": "juo labiau"
+      "gloss": "kiek"
     },
     {
       "surface": "עתה",
@@ -108,15 +82,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "sūnus"
+      "gloss": "Benjaminitas"
     },
     {
       "surface": "הימיני",
-      "gloss": "Benjaminietis"
+      "gloss": "Benjaminitas"
     },
     {
       "surface": "הנחו",
-      "gloss": "palikite"
+      "gloss": "Palikite"
     },
     {
       "surface": "לו",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "ויקלל",
-      "gloss": "ir tegul keikia"
+      "gloss": "ir tekeikia"
     },
     {
       "surface": "כי",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "tarė"
+      "gloss": "pasakęs"
     },
     {
       "surface": "לו",
@@ -143,6 +117,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T06:38:57.744629146Z",
+  "timestamp": "2026-10-20T12:13:37.536354778Z",
   "model": "glm-5.3"
 }

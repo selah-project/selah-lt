@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jaučia",
-      "rationale": "Hebrajų konstrukcija באהבת יהוה את עמו neturi veiksmažodžio — pridėtas ⟨jaučia⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "Šlomohui",
-      "rationale": "Churamo laiško kreipimasis į Šlomohą."
-    }
-  ],
-  "translation": "Ir tarė Churamas, Tsoro karalius, raštu ir pasiuntė Šlomohui: iš meilės, kurią Jahvė ⟨jaučia⟩ ⟨את⟩ savo tautai, Jis paskyrė tave jiem karaliumi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6b0c6715ad3b4bf7343e52f9f4df0d0899fb4356af4ad3e1732db4a2d5621e1b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/2\/9-12.1792493287047.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Churamas, Coro karalius, tarė laiške ir išsiuntė ⟨את⟩ jį Šlomui: dėl to, kad Jahvė myli ⟨את⟩ savo tautą, paskyrė tave jų karaliumi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "חורם",
@@ -42,27 +21,27 @@
     },
     {
       "surface": "צר",
-      "gloss": "Tsoro"
+      "gloss": "Coras"
     },
     {
       "surface": "בכתב",
-      "gloss": "raštu"
+      "gloss": "laiške"
     },
     {
       "surface": "וישלח",
-      "gloss": "ir pasiuntė"
+      "gloss": "ir išsiuntė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩ jį"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šlomohui"
+      "gloss": "Šlomui"
     },
     {
       "surface": "באהבת",
-      "gloss": "iš meilės"
+      "gloss": "dėl meilės"
     },
     {
       "surface": "יהוה",
@@ -71,25 +50,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo tautai"
+      "marks": "savo tautą"
     },
     {
       "surface": "עמו",
-      "gloss": "savo tautai"
+      "gloss": "savo tautą"
     },
     {
       "surface": "נתנך",
-      "gloss": "Jis paskyrė tave"
+      "gloss": "paskyrė tave"
     },
     {
       "surface": "עליהם",
-      "gloss": "jiem"
+      "gloss": "jų"
     },
     {
       "surface": "מלך",
       "gloss": "karaliumi"
     }
   ],
-  "timestamp": "2026-10-20T10:48:07.048301212Z",
+  "timestamp": "2026-10-20T12:10:00.059786138Z",
   "model": "glm-5.3"
 }

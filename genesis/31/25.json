@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תקע",
-      "rationale": "hebrajiškas veiksmažodis reiškia 'įkalti stakes \/ pastatyti palapinę'; verstą 'įsikurti'"
-    },
-    {
-      "kind": "elision",
-      "subject": "את (prieš אחיו)",
-      "rationale": "čia את iš tiesų prielinksnis 'su'; lietuvių kalboje žodis 'su' atlieka šį vaidmenį"
-    }
-  ],
-  "translation": "Ir Lavanas pasivijo ⟨את⟩ Jaakovą; o Jaakovas buvo įsikūręs savo palapine kalne, ir Lavanas įsikūrė ⟨את⟩ su savo broliais Gilado kalne.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/31\/25-28.1792471645719.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Ląbanas pasivijo ⟨את⟩ Jaakovą; o Jaakovas buvo įsmeigęs savo palapinę kalne, ir Ląbanas su savo broliais įsmeigė ⟨את⟩ palapines Gilado kalne.",
   "tokens": [
     {
       "surface": "וישג",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לבן",
-      "gloss": "Lavanas"
+      "gloss": "Ląbanas"
     },
     {
       "surface": "את",
@@ -51,16 +30,16 @@
     },
     {
       "surface": "תקע",
-      "gloss": "buvo įsikūręs"
+      "gloss": "buvo įsmeigęs"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo palapine"
+      "marks": "savo palapinę"
     },
     {
       "surface": "אהלו",
-      "gloss": "savo palapine"
+      "gloss": "savo palapinę"
     },
     {
       "surface": "בהר",
@@ -68,20 +47,20 @@
     },
     {
       "surface": "ולבן",
-      "gloss": "ir Lavanas"
+      "gloss": "ir Ląbanas"
     },
     {
       "surface": "תקע",
-      "gloss": "įsikūrė"
+      "gloss": "įsmeigė"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ su",
-      "marks": "savo broliais"
+      "gloss": "⟨את⟩",
+      "marks": "palapines"
     },
     {
       "surface": "אחיו",
-      "gloss": "savo broliais"
+      "gloss": "su savo broliais"
     },
     {
       "surface": "בהר",
@@ -92,6 +71,6 @@
       "gloss": "Gilado"
     }
   ],
-  "timestamp": "2026-10-20T04:47:25.720757835Z",
+  "timestamp": "2026-10-20T12:25:22.632467498Z",
   "model": "glm-5.3"
 }

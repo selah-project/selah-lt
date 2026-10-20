@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "lietuviškas linksnis (Mošei) jau reiškia 'prie', atskiras prielinksnis netelpa prie kiekvieno žodžio"
-    }
-  ],
   "translation": "Ir Jahvė prakalbo Mošei ir Aharonui, sakydamas jiems:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/1-4.1792473290967.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "prakalbo"
+      "gloss": "ir prakalbo"
     },
     {
       "surface": "יהוה",
@@ -33,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "משה",
       "gloss": "Mošei"
     },
     {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir Aharonui"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharonui"
+      "gloss": "Aharonas"
     },
     {
       "surface": "לאמר",
@@ -56,6 +40,6 @@
       "gloss": "jiems"
     }
   ],
-  "timestamp": "2026-10-20T05:14:50.968989355Z",
+  "timestamp": "2026-10-20T12:37:49.705555834Z",
   "model": "glm-5.3"
 }

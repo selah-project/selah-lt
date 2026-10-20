@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ganyklos",
-      "rationale": "מגרש — atvira miesto pievų žemė"
-    },
-    {
-      "kind": "substitution",
-      "subject": "žudikas",
-      "rationale": "הרצח — partizipas 'nužudantisis', ne iš anksto sumanytas žmogžudys"
-    },
-    {
-      "kind": "measurement",
-      "subject": "trys",
-      "rationale": "miestų skaičiavimas — prieglaudos miestas išskiriamas"
-    }
-  ],
-  "translation": "Ir iš Naftalio giminių: prieglaudos miestą žudikui — ⟨את⟩ Kedešą Galilyje su jo ganyklomis, ⟨את⟩ Chamot Dorą su jos ganyklomis ir ⟨את⟩ Kartaną su jos ganyklomis — miestai trys.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7dc977a9060792cf01f6681291259fda8e705fd13c91b7f93f53703da1ec5228",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/29-32.1792476164267.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir iš Naftalio giminių — pabėgėlio miestą žudikui, Kedešą Galile, ⟨ir⟩ jo ganyklas, ir Chamot-Doorą ⟨ir⟩ jo ganyklas, ir Kartaną ⟨ir⟩ jo ganyklas: trys miestai.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "ir iš giminės"
+      "gloss": "ir iš ... giminių"
     },
     {
       "surface": "נפתלי",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kedešą"
+      "marks": "pabėgėlio miestą"
     },
     {
       "surface": "עיר",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "מקלט",
-      "gloss": "prieglaudos"
+      "gloss": "pabėgėlio"
     },
     {
       "surface": "הרצח",
@@ -69,38 +43,38 @@
     },
     {
       "surface": "בגליל",
-      "gloss": "Galilyje"
+      "gloss": "Galile"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklomis"
+      "marks": "jo ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "ganyklomis"
+      "gloss": "jo ganyklas"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Chamot Dorą"
+      "marks": "Chamot-Doorą"
     },
     {
       "surface": "חמת",
-      "gloss": "Chamot"
+      "gloss": "Chamot-"
     },
     {
       "surface": "דאר",
-      "gloss": "Dorą"
+      "gloss": "Doorą"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklomis"
+      "marks": "jo ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "ganyklomis"
+      "gloss": "jo ganyklas"
     },
     {
       "surface": "ואת",
@@ -114,11 +88,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklomis"
+      "marks": "jo ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "ganyklomis"
+      "gloss": "jo ganyklas"
     },
     {
       "surface": "ערים",
@@ -129,6 +103,6 @@
       "gloss": "trys"
     }
   ],
-  "timestamp": "2026-10-20T06:02:44.272844338Z",
+  "timestamp": "2026-10-20T12:34:25.671775592Z",
   "model": "glm-5.3"
 }

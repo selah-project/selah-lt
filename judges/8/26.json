@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "שהרונים",
-      "rationale": "Retas žodis — 'mėnulio formos kabutės', ne paprasti papuošalai."
-    },
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų turi tik ויהי."
-    },
-    {
-      "kind": "measurement",
-      "subject": "1700 šekelių aukso",
-      "rationale": "Svoris skaičiais — matavimo eilutė."
-    }
-  ],
-  "translation": "Ir aukso žiedų, kurių jis prašė, svoris buvo tūkstantis septyni šimtai šekelių aukso, be mėnulio kabučių, ir auskarų-kabučių, ir purpurinių rūbų, kurie buvo Midjano karaliams, ir be grandinių, kurios buvo ant jų kupranugarių kaklų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9d4f2b6fbe5d88993ea4402035b7e2693d6abc7099b3c66d2de9f620c7d3e2ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/8\/25-28.1792476504516.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨buvo⟩ aukso žiedų, kurių jis paprašė, svoris — tūkstantis septyni šimtai aukso, be mėnulio kabučių ir auskarų-kabučių, ir purpuro drabužių, kurie buvo ant Midjano karalių, ir be grandinių, kurios ant jų kupranugarių kaklų.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ir buvo"
+      "gloss": "Ir ⟨buvo⟩"
     },
     {
       "surface": "משקל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "שאל",
-      "gloss": "jis prašė"
+      "gloss": "jis paprašė"
     },
     {
       "surface": "אלף",
@@ -79,19 +53,19 @@
     },
     {
       "surface": "מן",
-      "gloss": "nuo"
+      "gloss": ""
     },
     {
       "surface": "השהרנים",
-      "gloss": "mėnulio kabutės"
+      "gloss": "mėnulio kabučių"
     },
     {
-      "surface": "והנטפot",
-      "gloss": "ir auskarai-kabutės"
+      "surface": "והנטפות",
+      "gloss": "ir auskarų-kabučių"
     },
     {
       "surface": "ובגדי",
-      "gloss": "ir rūbai"
+      "gloss": "ir drabužių"
     },
     {
       "surface": "הארגמן",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "nuo"
+      "gloss": ""
     },
     {
       "surface": "הענקות",
@@ -134,6 +108,6 @@
       "gloss": "jų kupranugarių"
     }
   ],
-  "timestamp": "2026-10-20T06:08:24.519804031Z",
+  "timestamp": "2026-10-20T12:37:36.770591769Z",
   "model": "glm-5.3"
 }

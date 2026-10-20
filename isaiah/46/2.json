@@ -5,48 +5,27 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gyvybė",
-      "rationale": "נפש — kvėpuojanti būtybė, gerklė, gyvybės jėga; „siela“ būtų vėlesnis supratimas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קרסו כרעו",
-      "rationale": "V. 1 veiksmažodžių tvarka apversta — smukimas ir klumpimas dabar apima ir dievus, ir jų nešikus."
-    }
-  ],
-  "translation": "Smunka, klumpa kartu — negalėjo išgelbėti naštos, ir jų gyvybė nuėjo į nelaisvę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/46\/1-4.1792481663946.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Suglebo, klupo drauge — ⟨jie⟩ negalėjo išgelbėti ⟨את⟩ nešulio, ir ⟨את⟩ jų nefesh ėjo į nelaisvę.",
   "tokens": [
     {
       "surface": "קרסו",
-      "gloss": "smunka"
+      "gloss": "suglebo"
     },
     {
       "surface": "כרעו",
-      "gloss": "klumpa"
+      "gloss": "klupo"
     },
     {
       "surface": "יחדו",
-      "gloss": "kartu"
+      "gloss": "drauge"
     },
     {
       "surface": "לא",
-      "gloss": "negalėjo"
+      "gloss": "ne"
     },
     {
       "surface": "יכלו",
-      "gloss": ""
+      "gloss": "galėjo"
     },
     {
       "surface": "מלט",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "משא",
-      "gloss": "naštos"
+      "gloss": "nešulio"
     },
     {
       "surface": "ונפשם",
-      "gloss": "ir jų gyvybė"
+      "gloss": "ir jų nefesh"
     },
     {
       "surface": "בשבי",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "הלכה",
-      "gloss": "nuėjo"
+      "gloss": "ėjo"
     }
   ],
-  "timestamp": "2026-10-20T07:34:23.948723822Z",
+  "timestamp": "2026-10-20T12:28:53.547922553Z",
   "model": "glm-5.3"
 }

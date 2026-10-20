@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שלמתי ושלמתי",
-      "rationale": "to paties veiksmažodžio kartojimas — 'atlyginsiu, taip atlyginsiu'; lietuvių kalba tam reikia neiginio ir skirtumo."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חיקם",
-      "rationale": "pažodžiui 'jų嘉ų lapas\/पrieglauda' — hebrajiškas 'pagalbos \/ atlygio į čia' vaizdinys."
-    }
-  ],
-  "translation": "Štai ⟨tai⟩ parašyta prieš mane: neutilsiu, kol neatlyginsiu, ir atlyginsiu į jų prieglaudą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/65\/5-8.1792482074629.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Štai tai parašyta mano akivaizdoje: nesiliausiu, kol neatsilyginsiu — atlyginsiu jiems į patį jų užantį.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "što"
+      "gloss": "Štai"
     },
     {
       "surface": "כתובה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "prieš mane"
+      "gloss": "mano akivaizdoje"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אחשה",
-      "gloss": "utilsiu"
+      "gloss": "liausiuosi (tylėti)"
     },
     {
       "surface": "כי",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ne"
     },
     {
       "surface": "שלמתי",
-      "gloss": "neatlyginsiu"
+      "gloss": "atsilyginsiu"
     },
     {
       "surface": "ושלמתי",
-      "gloss": "ir atlyginsiu"
+      "gloss": "atlyginsiu"
     },
     {
       "surface": "על",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "חיקם",
-      "gloss": "jų prieglaudą"
+      "gloss": "jų užantį"
     }
   ],
-  "timestamp": "2026-10-20T07:41:14.632457653Z",
+  "timestamp": "2026-10-20T12:29:20.951470904Z",
   "model": "glm-5.3"
 }

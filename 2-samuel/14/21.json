@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "אל",
-      "rationale": "הesreiškimas „pas“ susilieja su linksniu „Joabui“"
-    },
-    {
-      "kind": "you",
-      "subject": "karalius Joabui",
-      "rationale": "tiesioginis karaliaus kreipimasis į Joabą"
-    }
-  ],
-  "translation": "Ir karalius tarė Joabui: Štai dabar aš padariau ⟨את⟩ šį dalyką, tad eik, sugrąžink ⟨את⟩ jaunuolį ⟨את⟩ Avšalomą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "29651a140c921cabe5a41e0359e29a912e0ab4ef5aaea5d517f4ee2fbb88b9d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/21-24.1792478408538.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius tarė Joabui: Štai dabar aš padariau ⟨את⟩ šį dalyką; eikite, grąžink ⟨את⟩ jaunuolį ⟨את⟩ Avšalomą.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "המלך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Joabui"
     },
     {
       "surface": "יואב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "štai"
+      "gloss": "Štai"
     },
     {
       "surface": "נא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "padariau"
+      "gloss": "aš padariau"
     },
     {
       "surface": "את",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "ולך",
-      "gloss": "tad eik"
+      "gloss": "eikite"
     },
     {
       "surface": "השב",
-      "gloss": "sugrąžink"
+      "gloss": "grąžink"
     },
     {
       "surface": "את",
@@ -96,6 +75,6 @@
       "gloss": "Avšalomą"
     }
   ],
-  "timestamp": "2026-10-20T06:40:08.539286535Z",
+  "timestamp": "2026-10-20T12:13:28.741929341Z",
   "model": "glm-5.3"
 }

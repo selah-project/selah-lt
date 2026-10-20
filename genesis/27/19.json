@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefesh",
-      "rationale": "נפש — ne „siela“, o gyvybės jėga, alsavimas; paliekama nefesh."
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "„Aš — Eisavas“: hebrajų אנכי עשו be veiksmažodžio, brūkšnys žymi struktūrinį siūlę."
-    }
-  ],
-  "translation": "Ir Jaakovas tarė savo tėvui: Aš — Eisavas, tavo pirmagimis. Padariau, kaip sakei man: kelkis, prašau, sėsk ir valgyk mano medžioklės, kad tavo nefesh mane palaimintų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/27\/17-20.1792471541152.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jaakovas tarė savo tėvui: Aš ⟨yra⟩ Esavas, tavo pirmagimis; padariau, kaip tu man sakei. Kelkis, meldžiu, sėsk ir valgyk iš mano medžioklės, kad tavo nefesh mane palaimintų.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יעקב",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "אביו",
-      "gloss": "savo tėvui"
+      "gloss": "savo tėvą"
     },
     {
       "surface": "אנכי",
-      "gloss": "aš"
+      "gloss": "Aš"
     },
     {
       "surface": "עשו",
-      "gloss": "Eisavas"
+      "gloss": "Esavas"
     },
     {
       "surface": "בכרך",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "דברת",
-      "gloss": "sakei"
+      "gloss": "tu sakei"
     },
     {
       "surface": "אלי",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "קום",
-      "gloss": "kelkis"
+      "gloss": "Kelkis"
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "meldžiu"
     },
     {
       "surface": "שבה",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "מצידי",
-      "gloss": "mano medžioklės"
+      "gloss": "iš mano medžioklės"
     },
     {
       "surface": "בעבור",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "תברכני",
-      "gloss": "palaimintų mane"
+      "gloss": "mane palaimintų"
     },
     {
       "surface": "נפשך",
       "gloss": "tavo nefesh"
     }
   ],
-  "timestamp": "2026-10-20T04:45:41.155269640Z",
+  "timestamp": "2026-10-20T12:25:02.084530412Z",
   "model": "glm-5.3"
 }

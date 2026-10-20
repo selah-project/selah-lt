@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "kad",
-      "rationale": "lietuviškas jungiamasis žodis tarp tikslo infinityvų, hebrajų jo neturi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "įžeisdami",
-      "rationale": "להכעסני pažodžiui 'kad sukeltų man pyktį' — išversta pagal poveikį"
-    }
-  ],
-  "translation": "Ir Jahvė Cevaot, kuris tave pasodino, kalbėjo prieš tave pikta — dėl pikto namo Jisraelio ir namo Jehudos, kurį jie padarė sau, mane įžeisdami, kad kvepintų Baalui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/17-20.1792482426145.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė Cevaot, kuris tave pasodino, yra kalbėjęs prieš tave ⟨את⟩ pikta — dėl pikto namo Jisraelio ir namo Jehudos, kurį jie patys sau padarė, mane supykdydami, smilkydami Baalui.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -38,12 +17,11 @@
     },
     {
       "surface": "הנוטע",
-      "gloss": "kuris tave pasodino"
+      "gloss": "kuris pasodino"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "tave"
+      "gloss": "⟨את⟩ tave"
     },
     {
       "surface": "דבר",
@@ -63,7 +41,7 @@
     },
     {
       "surface": "רעת",
-      "gloss": "pikto"
+      "gloss": "piktumo"
     },
     {
       "surface": "בית",
@@ -87,7 +65,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "jie padarė"
+      "gloss": "padarė"
     },
     {
       "surface": "להם",
@@ -95,17 +73,17 @@
     },
     {
       "surface": "להכעסני",
-      "gloss": "mane įžeisdami"
+      "gloss": "mane supykdydami"
     },
     {
       "surface": "לקטר",
-      "gloss": "kad kvepintų"
+      "gloss": "smilkydami"
     },
     {
       "surface": "לבעל",
       "gloss": "Baalui"
     }
   ],
-  "timestamp": "2026-10-20T07:47:06.146643474Z",
+  "timestamp": "2026-10-20T12:30:00.399702888Z",
   "model": "glm-5.3"
 }

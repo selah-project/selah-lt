@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 53,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחלק \/ יחלק",
-      "rationale": "ta pati šaknis חלק „dalinti“ du kartus — aš dalinu, jis dalys, pakartojimas prarandamas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "gyvybę",
-      "rationale": "נפש — gyvybė, alsavimas, ne „siela“"
-    },
-    {
-      "kind": "crux",
-      "subject": "יפגיע",
-      "rationale": "„susitiko, įsikišo, tarėsi“ — nuo maldos tarpininkavimo iki paprasčiausio „pakliuvo“"
-    }
-  ],
-  "translation": "Todėl aš skirtu jam dalį tarp daugelio, ir ⟨su⟩ galingaisiais jis dalysis grobiu, už tai, kad jis išliejo ⟨את⟩ savo gyvybę mirčiai ir ⟨su⟩ nusikaltėliais buvo suskaičiuotas; ir jis daugelio nuodėmę nešė ir už nusikaltėlius tarėsi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/53\/9-12.1792481782025.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl aš jam paskirsiu dalį tarp daugelio, ir ⟨את⟩ galingųjų grobį jis dalys, už tai, kad jis atidengė savo nefesh mirčiai ir ⟨את⟩ nusikaltėlius buvo ⟨priskirtas⟩ prie jų; ir jis daugelio nuodėmę nešė, ir už nusikaltėlius jis tarpininkavo.",
   "tokens": [
     {
       "surface": "לכן",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אחלק",
-      "gloss": "aš skirtu dalį"
+      "gloss": "aš paskirsiu dalį"
     },
     {
       "surface": "לו",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "galingaisiais"
+      "gloss": "ir ⟨את⟩",
+      "marks": "galingųjų grobį"
     },
     {
       "surface": "עצומים",
-      "gloss": "galingaisiais"
+      "gloss": "galingųjų"
     },
     {
       "surface": "יחלק",
-      "gloss": "dalysis"
+      "gloss": "jis dalys"
     },
     {
       "surface": "שלל",
-      "gloss": "grobiu"
+      "gloss": "grobį"
     },
     {
       "surface": "תחת",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "הערה",
-      "gloss": "išliejo"
+      "gloss": "atidengė"
     },
     {
       "surface": "למות",
@@ -84,20 +58,20 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "savo gyvybę"
+      "gloss": "savo nefesh"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "nusikaltėliais"
+      "gloss": "ir ⟨את⟩",
+      "marks": "nusikaltėlius"
     },
     {
       "surface": "פשעים",
-      "gloss": "nusikaltėliais"
+      "gloss": "nusikaltėlius"
     },
     {
       "surface": "נמנה",
-      "gloss": "buvo suskaičiuotas"
+      "gloss": "buvo priskirtas"
     },
     {
       "surface": "והוא",
@@ -121,9 +95,9 @@
     },
     {
       "surface": "יפגיע",
-      "gloss": "tarėsi"
+      "gloss": "tarpininkavo"
     }
   ],
-  "timestamp": "2026-10-20T07:36:22.026721538Z",
+  "timestamp": "2026-10-20T12:29:21.417477716Z",
   "model": "glm-5.3"
 }

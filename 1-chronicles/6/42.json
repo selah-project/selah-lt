@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מגרשיה",
-      "rationale": "מגרש – atvira gyvenvietės aplinka ganykloms; verčiama 'ganyklos', ne 'priemiestis'"
-    },
-    {
-      "kind": "crux",
-      "subject": "Hebrono statusas",
-      "rationale": "Hebronas vadinamas prieglaudos miestu, nors Joz 21,13 jis taip pat kunigų miestas; tekstas čia sutrumpintas"
-    }
-  ],
-  "translation": "Ir Aharono sūnums jie davė prieglaudos miestus: ⟨את⟩ Hebroną ir ⟨את⟩ Libną su jos ganyklomis, ir ⟨את⟩ Jatirą, ir ⟨את⟩ Eštemoa su jos ganyklomis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "64856c99f64cbd4f76b22ebd58503854a0979f8096c54f982adec649990b3571",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/6\/41-44.1792492739617.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Aharono sūnums davė ⟨את⟩ prieglaudos miestus: ⟨את⟩ Chebroną, ⟨את⟩ Libną su jo ganyklomis, ⟨את⟩ Jatirą ir ⟨את⟩ Eštemoa su jos ganyklomis.",
   "tokens": [
     {
       "surface": "ולבני",
-      "gloss": "Ir sūnums"
+      "gloss": "Ir ... sūnums"
     },
     {
       "surface": "אהרן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "jie davė"
+      "gloss": "davė"
     },
     {
       "surface": "את",
@@ -56,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hebroną"
+      "marks": "Chebroną"
     },
     {
       "surface": "חברון",
-      "gloss": "Hebroną"
+      "gloss": "Chebroną"
     },
     {
       "surface": "ואת",
@@ -74,11 +53,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklas"
+      "marks": "jo ganyklas"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ganyklas"
+      "gloss": "su jo ganyklomis"
     },
     {
       "surface": "ואת",
@@ -101,13 +80,13 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklas"
+      "marks": "jos ganyklas"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "ganyklas"
+      "gloss": "su jos ganyklomis"
     }
   ],
-  "timestamp": "2026-10-20T10:38:59.618587321Z",
+  "timestamp": "2026-10-20T12:05:13.525738661Z",
   "model": "glm-5.3"
 }

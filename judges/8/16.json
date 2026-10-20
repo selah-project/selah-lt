@@ -5,41 +5,20 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "pamokė",
-      "rationale": "וידע hiphil: KJV\/JPS 'išmokė\/pamokė' eufemizmas; iš konteksto — badė erškėčiais, 'prijautino'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הברקנים",
-      "rationale": "dygliai — žodis Tanache tik čia, siejamas su 'žiba\/degina'"
-    }
-  ],
-  "translation": "Ir paėmė ⟨את⟩ miesto vyresniuosius, ir ⟨את⟩ dykumos erškėčius, ir ⟨את⟩ dyglius, ir jais pamokė ⟨t. y. nubaudė⟩ Sukoto vyrus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/8\/13-16.1792476538124.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir paėmė ⟨את⟩ miesto senolius bei ⟨את⟩ dykumos dyglius ir ⟨את⟩ dygliakrūmius, ir jais pamokė ⟨את⟩ Sukoto vyrus.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ir paėmė"
+      "gloss": "ir paėmė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miesto vyresniuosius"
+      "marks": "miesto senolius"
     },
     {
       "surface": "זקני",
-      "gloss": "vyresniuosius"
+      "gloss": "senolius"
     },
     {
       "surface": "העיר",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "dykumos erškėčius"
+      "gloss": "bei ⟨את⟩",
+      "marks": "dykumos dyglius"
     },
     {
       "surface": "קוצי",
-      "gloss": "erškėčius"
+      "gloss": "dyglius"
     },
     {
       "surface": "המדבר",
@@ -61,15 +40,15 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "dyglius"
+      "marks": "dygliakrūmius"
     },
     {
       "surface": "הברקנים",
-      "gloss": "dyglius"
+      "gloss": "dygliakrūmius"
     },
     {
       "surface": "וידע",
-      "gloss": "pamokė ⟨nubaudė⟩"
+      "gloss": "ir pamokė"
     },
     {
       "surface": "בהם",
@@ -89,6 +68,6 @@
       "gloss": "Sukoto"
     }
   ],
-  "timestamp": "2026-10-20T06:08:58.127815305Z",
+  "timestamp": "2026-10-20T12:36:46.045592158Z",
   "model": "glm-5.3"
 }

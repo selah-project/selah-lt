@@ -5,33 +5,7 @@
   "book": "ecclesiastes",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajiškoji sakinio dalis neturi veiksmažodžio — pridėta kopula"
-    },
-    {
-      "kind": "crux",
-      "subject": "המלאך",
-      "rationale": "Pasiuntinys: Dievo angelas, šventyklos tarnas ar kunigas — vertėjai nesutaria"
-    },
-    {
-      "kind": "you",
-      "subject": "žadėtojui",
-      "rationale": "Tiesioginis paliepimas žmogui, kuris davė pažadą"
-    }
-  ],
-  "translation": "Neduok ⟨את⟩ savo burnos, kad nusidėtų tavo kūnas, ir nesakyk prieš pasiuntinį, kad ⟨yra⟩ apsirikimas — kodėl Elohim nirštų ant tavo balso ir sužalotų ⟨את⟩ tavo rankų darbą?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/5\/5-8.1792491322707.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neduok ⟨את⟩ savo burnos nukaldinti ⟨את⟩ savo kūno, ir nesakyk prieš pasiuntinį, kad ⟨tai⟩ buvo apsirikimas — kodėl Elohim turėtų rūsti ant tavo balso ir pražudyti ⟨את⟩ tavo rankų darbą?",
   "tokens": [
     {
       "surface": "אל",
@@ -48,20 +22,20 @@
     },
     {
       "surface": "פיך",
-      "gloss": "tavo burna"
+      "gloss": "savo burnos"
     },
     {
       "surface": "לחטיא",
-      "gloss": "kad nusidėtų"
+      "gloss": "nukaldinti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tavo kūnui"
+      "marks": "savo kūno"
     },
     {
       "surface": "בשרך",
-      "gloss": "tavo kūnas"
+      "gloss": "savo kūno"
     },
     {
       "surface": "ואל",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "yra"
+      "gloss": "buvo"
     },
     {
       "surface": "למה",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "יקצף",
-      "gloss": "nirštų"
+      "gloss": "turėtų rūste"
     },
     {
       "surface": "האלהים",
@@ -113,7 +87,7 @@
     },
     {
       "surface": "וחבל",
-      "gloss": "ir sužalotų"
+      "gloss": "ir pražudyti"
     },
     {
       "surface": "את",
@@ -129,6 +103,6 @@
       "gloss": "tavo rankų"
     }
   ],
-  "timestamp": "2026-10-20T10:15:22.708441708Z",
+  "timestamp": "2026-10-20T12:17:43.169583176Z",
   "model": "glm-5.3"
 }

@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ההיא",
-      "rationale": "Hebrajiškas parodytinis įvardis 'tą [valandą]' sulietas su 'tuo metu' — atskira glosa nereikalinga"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dovana",
-      "rationale": "מנחה čia ne aukos mincha, o karališka dovana tarp valdovų — pagal D2 taisyklę"
-    }
-  ],
-  "translation": "Tuo metu Berodak-Baladanas, Baladano sūnus, Babilono karalius, siuntė laiškus ir dovaną pas Chizkijahu, nes jis buvo girdėjęs, kad Chizkijahu sirgo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/20\/9-12.1792480399525.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tuo metu Berodak-Baladanas, Baladano sūnus, Babelio karalius, atsiuntė laiškus ir dovaną Chizkijahui, nes buvo girdėjęs, kad Chizkijahas sirgo.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "tuo metu"
+      "gloss": "Tuo metu"
     },
     {
       "surface": "ההיא",
-      "gloss": ""
+      "gloss": "tame"
     },
     {
       "surface": "שלח",
-      "gloss": "siuntė"
+      "gloss": "atsiuntė"
     },
     {
       "surface": "בראדך",
-      "gloss": "Berodak"
+      "gloss": "Berodak-"
     },
     {
       "surface": "בלאדן",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "ספרים",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "ומנחה",
-      "gloss": "ir dovaną"
+      "gloss": "ir dovana"
     },
     {
       "surface": "אל",
-      "gloss": "pas"
+      "gloss": "Chizkijahui"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Chizkijahu"
+      "gloss": "⟨Chizkijahas⟩"
     },
     {
       "surface": "כי",
@@ -98,9 +77,9 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Chizkijahu"
+      "gloss": "Chizkijahas"
     }
   ],
-  "timestamp": "2026-10-20T07:13:19.526848516Z",
+  "timestamp": "2026-10-20T12:12:36.183064362Z",
   "model": "glm-5.3"
 }

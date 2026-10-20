@@ -5,49 +5,23 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "geografijos sąrašas",
-      "rationale": "Eilutė aprėpia žemę geografiniu sąrašu — nuo Chorebo iki Eufrato."
-    },
-    {
-      "kind": "elision",
-      "subject": "לכם",
-      "gloss": "atitrūkęs dalelytinis 'sau' — lietuvių kalboje neišreiškiama."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Sukite ir keliaukite",
-      "rationale": "Dvigubas imperatyvas — paraginimas keliauti."
-    }
-  ],
-  "translation": "Sukite ir keliaukite bei eikite į amorėjų kalną ir pas visus jo kaimynus — Araboje, kalne, žemumoje, Negeve ir prie jūros kranto, kanaaniečių žemėje ir Libane, iki didžiosios upės, upės Prat.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/5-8.1792474854407.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Grįžkite ir keliaukite sau, ateikite į emorų kalną ir pas visus jo kaimynus — stepėje, kalne, žemumoje ir Negeve, ir prie jūros kranto — kenaniečių žemėje ir Libane, iki didžiosios upės, upės Perato.",
   "tokens": [
     {
       "surface": "פנו",
-      "gloss": "Sukite"
+      "gloss": "Grįžkite"
     },
     {
       "surface": "וסעו",
-      "gloss": "keliaukite"
+      "gloss": "ir keliaukite"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "sau"
     },
     {
       "surface": "ובאו",
-      "gloss": "eikite"
+      "gloss": "ateikite"
     },
     {
       "surface": "הר",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "amorėjų"
+      "gloss": "emorų"
     },
     {
       "surface": "ואל",
-      "gloss": "pas"
+      "gloss": "ir pas"
     },
     {
       "surface": "כל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "בערבה",
-      "gloss": "Araboje"
+      "gloss": "stepėje"
     },
     {
       "surface": "בהר",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "ובשפלה",
-      "gloss": "žemumoje"
+      "gloss": "ir žemumoje"
     },
     {
       "surface": "ובנגב",
-      "gloss": "Negeve"
+      "gloss": "ir Negeve"
     },
     {
       "surface": "ובחוף",
-      "gloss": "prie kranto"
+      "gloss": "ir prie kranto"
     },
     {
       "surface": "הים",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "kanaaniečių"
+      "gloss": "kenaniečių"
     },
     {
       "surface": "והלבנון",
@@ -123,9 +97,9 @@
     },
     {
       "surface": "פרת",
-      "gloss": "Prat"
+      "gloss": "Perato"
     }
   ],
-  "timestamp": "2026-10-20T05:40:54.410986633Z",
+  "timestamp": "2026-10-20T12:16:12.843823679Z",
   "model": "glm-5.3"
 }

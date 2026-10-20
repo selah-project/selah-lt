@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "אֹתוֹ čia ne DOM, o prielinksnis את su įvardžiu — 'prieš jį'; verčiama įvardžiu ⟨jo⟩."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨jo⟩",
-      "rationale": "Lietuviškas įvardis pridėtas prie žodžio 'bijojo', hebrajų turi jį kamiene מיראתו."
-    }
-  ],
-  "translation": "Ir jis nebegalėjo atsakyti Avneriui nė žodžio, nes bijojo ⟨את⟩ ⟨jo⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/9-12.1792477927245.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨jis⟩ nebegalėjo atsakyti ⟨את⟩ Avneriui nė žodžio, nes bijojo ⟨את⟩ jį.",
   "tokens": [
     {
       "surface": "ולא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "עוד",
-      "gloss": "be"
+      "gloss": "bege"
     },
     {
       "surface": "להשיב",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "nė žodžio"
+      "gloss": "žodžio"
     },
     {
       "surface": "מיראתו",
@@ -63,9 +42,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨jo⟩"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     }
   ],
-  "timestamp": "2026-10-20T06:32:07.246986388Z",
+  "timestamp": "2026-10-20T12:14:40.264090919Z",
   "model": "glm-5.3"
 }

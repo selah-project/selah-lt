@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "האתות",
-      "rationale": "Žodis reiškia 'ženklas, žymuo' — ne tik 'stebuklas'."
-    },
-    {
-      "kind": "crux",
-      "subject": "המעלה",
-      "rationale": "Hifil iš 'lipti' — 'pakelti, išvesti aukštyn'; KJV 'brought us up' vs 'išvesti'."
-    },
-    {
-      "kind": "you",
-      "subject": "tauta",
-      "rationale": "Tautos išpažinimas atsakant Jašui — tiesioginis kalbėtojų balsas."
-    }
-  ],
-  "translation": "Nes Jahvė, mūsų Elohim, — tai jis išvedė mus ir ⟨את⟩ mūsų tėvus iš Micraimo žemės, iš vergų namų, ir tai, ką jis padarė mūsų akivaizdoje — ⟨את⟩ šiuos didžiuosius ženklus, ir saugojo mus visame kelyje, kuriuo ėjome, ir visuose kraštuose, kurių viduriu ėjome pro juos,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/24\/17-20.1792476240061.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes Jahvė, mūsų Elohim, — ⟨tai⟩ jis pakėlė ⟨את⟩ mus ir ⟨את⟩ mūsų tėvus iš Micraimo žemės, iš vergų namų, ir kuris padarė mūsų akivaizdoje ⟨את⟩ šiuos didžiuosius ženklus, ir saugojo mus visame kelyje, kuriuo ėjome, ir visuose tautose, kurių vidumi ėjome.",
   "tokens": [
     {
       "surface": "כי",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tai jis"
+      "gloss": "jis"
     },
     {
       "surface": "המעלה",
-      "gloss": "išvedė"
+      "gloss": "pakėlė"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ mus",
+      "gloss": "⟨את⟩",
       "marks": "mus"
     },
     {
@@ -85,7 +59,7 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "ir tai, ką"
+      "gloss": "ir kuris"
     },
     {
       "surface": "עשה",
@@ -102,7 +76,7 @@
     },
     {
       "surface": "האתות",
-      "gloss": "žymenis"
+      "gloss": "ženklus"
     },
     {
       "surface": "הגדלות",
@@ -142,7 +116,7 @@
     },
     {
       "surface": "העמים",
-      "gloss": "kraštuose"
+      "gloss": "tautose"
     },
     {
       "surface": "אשר",
@@ -150,13 +124,13 @@
     },
     {
       "surface": "עברנו",
-      "gloss": "ėjome pro juos"
+      "gloss": "ėjome"
     },
     {
       "surface": "בקרבם",
-      "gloss": "jų viduriu"
+      "gloss": "jų vidumi"
     }
   ],
-  "timestamp": "2026-10-20T06:04:00.063471679Z",
+  "timestamp": "2026-10-20T12:35:09.278941641Z",
   "model": "glm-5.3"
 }

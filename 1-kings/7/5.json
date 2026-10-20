@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "hebrajiškai nėra sietuvo, lietuvių kalbai jo reikia"
-    },
-    {
-      "kind": "crux",
-      "subject": "שקף",
-      "rationale": "reikšmė neaiški: 'languotos' arba 'su langu virš durų'; kiti verčia 'matmenys buvo vienodi'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "trys kartus",
-      "rationale": "langų eilių skaičius — trimis pakopomis"
-    }
-  ],
-  "translation": "Ir visos durys ir staktos ⟨buvo⟩ keturkampės, languotos, ir langas priešais langą tris kartus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/7\/5-8.1792478964983.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir visos angos bei staktos buvo keturkampės su apžvalgos langeliais, ir langas ⟨buvo⟩ priešais langą tris kartus.",
   "tokens": [
     {
       "surface": "וכל",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "הפתחים",
-      "gloss": "durys"
+      "gloss": "angos"
     },
     {
       "surface": "והמזוזות",
-      "gloss": "ir staktos"
+      "gloss": "bei staktos"
     },
     {
       "surface": "רבעים",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "שקף",
-      "gloss": "languotos"
+      "gloss": "su apžvalgos langeliais"
     },
     {
       "surface": "ומול",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨buvo⟩ priešais"
     },
     {
       "surface": "מחזה",
@@ -71,13 +45,13 @@
     },
     {
       "surface": "שלש",
-      "gloss": "trys"
+      "gloss": "tris"
     },
     {
       "surface": "פעמים",
       "gloss": "kartus"
     }
   ],
-  "timestamp": "2026-10-20T06:49:24.984163976Z",
+  "timestamp": "2026-10-20T12:07:19.863407791Z",
   "model": "glm-5.3"
 }

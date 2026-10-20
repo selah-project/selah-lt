@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "prielinksnis „pas\/į“ ištirpsta lietuviškoje galinklninko konstrukcijoje „pašaukė Šaulų“"
-    },
-    {
-      "kind": "you",
-      "subject": "Šaului",
-      "rationale": "Šmuelis tiesiogiai kreipiasi į Šaulų: „Kelkis, ir aš tave išleisiu“"
-    }
-  ],
-  "translation": "Ir jie atsikėlė anksti, ir atsitiko, brėkštant aušrai, kad Šmuelis pašaukė Šaulų ant stogo, sakydamas: Kelkis, ir aš tave išleisiu. Ir Šaulis pakilo, ir išėjo jiedu — jis ir Šmuelis — laukan.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/9\/25-27.1792477150321.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie atsikėlė anksti, ir atsitiko, kylant aušrai, kad Šmuelis pašaukė Šaulą ⟨ant⟩ stogo, sakydamas: Kelkis, ir aš tave išleisiu. Ir Šaulis atsikėlė, ir išėjo jiedu — jis ir Šmuelis — laukan.",
   "tokens": [
     {
       "surface": "וישכמו",
-      "gloss": "ir atsikėlė anksti"
+      "gloss": "ir jie atsikėlė anksti"
     },
     {
       "surface": "ויהי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כעלות",
-      "gloss": "brėkštant"
+      "gloss": "kylant"
     },
     {
       "surface": "השחר",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulų"
+      "gloss": "Šaulą"
     },
     {
       "surface": "הגג",
-      "gloss": "ant stogo"
+      "gloss": "stogas"
     },
     {
       "surface": "לאמר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "קומה",
-      "gloss": "Kelkis"
+      "gloss": "kelkis"
     },
     {
       "surface": "ואשלחך",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "ir pakilo"
+      "gloss": "ir atsikėlė"
     },
     {
       "surface": "שאול",
@@ -105,6 +84,6 @@
       "gloss": "laukan"
     }
   ],
-  "timestamp": "2026-10-20T06:19:10.322770453Z",
+  "timestamp": "2026-10-20T12:09:30.099194805Z",
   "model": "glm-5.3"
 }

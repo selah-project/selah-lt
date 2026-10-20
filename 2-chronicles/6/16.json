@@ -5,42 +5,11 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tora",
-      "rationale": "בתורתי — „ mano Toroje“, ne „mano įstatyme“ vien"
-    },
-    {
-      "kind": "crux",
-      "subject": "רק אם",
-      "rationale": "„tik jei“ — sąlyginis pažadas; vertimuose skirstoma tarp „jei tik“ ir absoliučios Nelaimos pažado"
-    },
-    {
-      "kind": "you",
-      "subject": "malda",
-      "rationale": "Saliamas toliau kreipiasi tiesiai į Jahvę"
-    },
-    {
-      "kind": "measurement",
-      "subject": "palikuonys",
-      "rationale": "pažadas apie nenutrūkstančią vyro liniją ant Jisraelio sosto"
-    }
-  ],
-  "translation": "O dabar, Jahve, Jisraelio Elohimai, išlaikyk savo tarnui Davidui, mano tėvui, ⟨את⟩ tai, ką jam sakei, sakydamas: Nebus tau nukirsta nuo mano veido vyras, sėdintis Jisraelio soste; tik jei tavo sūnūs saugos ⟨את⟩ savo kelią, eidami mano Toroje, kaip tu ėjai prieš mane.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8cb3b022dfafc4545f4ef916adfbcd97a39cb0c515201ef917ce303806d61bdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/6\/13-16.1792493327557.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O dabar, Jahve, Elohim Jisraelio, išlaikyk savo tarnui Davidui, mano tėvui, ⟨את⟩ tai, ką jam esi kalbėjęs, sakydamas: nebus tau nukirsta vyras nuo mano veido, sėdintis ant Jisraelio sosto, — tik jei tavo sūnūs saugos ⟨את⟩ savo kelią, eiti mano Toroje, kaip tu ėjai mano veido afterEach priekyje.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "O dabar"
+      "gloss": "o dabar"
     },
     {
       "surface": "יהוה",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Jisraelio Elohimai"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": ""
+      "gloss": "Jisraelio"
     },
     {
       "surface": "שמר",
@@ -73,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tai, ką jam sakei"
+      "marks": "tai, ką esi kalbėjęs"
     },
     {
       "surface": "אשר",
@@ -81,7 +50,7 @@
     },
     {
       "surface": "דברת",
-      "gloss": "sakei"
+      "gloss": "esi kalbėjęs"
     },
     {
       "surface": "לו",
@@ -93,7 +62,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "יכרת",
@@ -154,7 +123,7 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "eidami"
+      "gloss": "eiti"
     },
     {
       "surface": "בתורתי",
@@ -170,9 +139,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "prieš mane"
+      "gloss": "mano veido priekyje"
     }
   ],
-  "timestamp": "2026-10-20T10:48:47.558383960Z",
+  "timestamp": "2026-10-20T12:10:55.459016673Z",
   "model": "glm-5.3"
 }

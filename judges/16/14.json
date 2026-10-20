@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "išrovė",
-      "rationale": "ויסע pažodžiui „ištraukė stulpą, pajudėjo kelionėn“ — čia apie smeigtuko išrovimą"
-    },
-    {
-      "kind": "you",
-      "subject": "Delila Šimšonui",
-      "rationale": "šauksmas tiesiogiai Šimšonui"
-    }
-  ],
-  "translation": "Ir ji įkalė smeigtuką ir tarė jam: Plėšikai ant tavęs, Šimšonai! Ir jis pabudo iš miego ir išrovė smeigtuką, audėklą ir metmenis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6954d2708d79fa7944c9d738d96ceb06aabdd8528dddafbc75dd50f865721150",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/16\/13-16.1792476826193.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ji įkalė smeigtuką ir tarė jam: Plštimiečiai ⟨yra⟩ ant tavęs, Šimšonai! Ir jis pabudo iš savo miego ir ištraukė ⟨את⟩ smeigtuką iš audimo stovo ir ⟨את⟩ audinį.",
   "tokens": [
     {
       "surface": "ותתקע",
-      "gloss": "ir įkalė"
+      "gloss": "ir ji įkalė"
     },
     {
       "surface": "ביתד",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "plėšikai"
+      "gloss": "Plštimiečiai"
     },
     {
       "surface": "עליך",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "משנתו",
-      "gloss": "iš miego"
+      "gloss": "iš savo miego"
     },
     {
       "surface": "ויסע",
-      "gloss": "ir išrovė"
+      "gloss": "ir ištraukė"
     },
     {
       "surface": "את",
@@ -79,18 +58,18 @@
     },
     {
       "surface": "הארג",
-      "gloss": "audėklą"
+      "gloss": "iš audimo stovo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "metmenis"
+      "gloss": "ir ⟨את⟩",
+      "marks": "audinį"
     },
     {
       "surface": "המסכת",
-      "gloss": "metmenis"
+      "gloss": "audinį"
     }
   ],
-  "timestamp": "2026-10-20T06:13:46.199185878Z",
+  "timestamp": "2026-10-20T12:35:59.012621535Z",
   "model": "glm-5.3"
 }

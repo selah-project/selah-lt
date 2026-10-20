@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ואמר לשפך",
-      "rationale": "Pažodžiui „ir tariau išlieti“ — apsisprendimo išraiška, ne tiesioginis sakymas."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חמה \/ אף",
-      "rationale": "Pažodžiui „karštis“ ir „nosis\/šnervės“ — abu reiškia pyktį, lietuvių kalboje skirstyta į „įniršį“ ir „rūstybę“."
-    }
-  ],
-  "translation": "Ir sukilo prieš mane vaikai: mano nuostatose jie neėjo, ir ⟨את⟩ mano teismus jie nesilaikė jų daryti — kuriuos darydamas žmogus gyvens jais; mano šabatus jie išniekino. Ir aš tariau išlieti savo įniršį ant jų, baigti savo rūstybę prieš ⟨את⟩ juos dykumoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/21-24.1792484248525.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bet sūnūs sukilo prieš mane; mano statutuose jie neėjo, ir ⟨את⟩ mano teismus jie nesilaikė — daryti ⟨את⟩ juos, kuriuos darys ⟨את⟩ žmogus ir gyvens jais; ⟨את⟩ mano šabatus jie išniekino. Ir aš tariau išlieti savo įniršį ant jų, kad baigčiau savo rūstybę prieš juos dykumoje.",
   "tokens": [
     {
       "surface": "וימרו",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הבנים",
-      "gloss": "vaikai"
+      "gloss": "sūnūs"
     },
     {
       "surface": "בחקותי",
-      "gloss": "mano nuostatose"
+      "gloss": "mano statutuose"
     },
     {
       "surface": "לא",
@@ -75,7 +54,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "אשר",
@@ -83,11 +63,12 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "daro"
+      "gloss": "darys"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "žmogus"
     },
     {
       "surface": "האדם",
@@ -99,7 +80,7 @@
     },
     {
       "surface": "בהם",
-      "gloss": "juose"
+      "gloss": "jais"
     },
     {
       "surface": "את",
@@ -132,7 +113,7 @@
     },
     {
       "surface": "לכלות",
-      "gloss": "baigti"
+      "gloss": "kad baigčiau"
     },
     {
       "surface": "אפי",
@@ -147,6 +128,6 @@
       "gloss": "dykumoje"
     }
   ],
-  "timestamp": "2026-10-20T08:17:28.526447483Z",
+  "timestamp": "2026-10-20T12:21:23.927670349Z",
   "model": "glm-5.3"
 }

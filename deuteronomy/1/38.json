@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ją Jisraeliui duodamas",
-      "rationale": "priežasties aplinkybė išskleista; hebrajiškai vienas veiksmažodis ינחלנה"
-    }
-  ],
-  "translation": "Jehošua, Nūno sūnus, stovintis prieš tave, — jis eis ten; jį stiprink, nes jis paveldės ⟨את⟩ ją Jisraeliui duodamas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/37-40.1792474828530.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jehošua, Nūno sūnus, kuris stovi prieš tave, — jis ten įeis; ⟨את⟩ jį stiprink, nes jis padarys, kad ⟨את⟩ Jisraelis paveldės ją.",
   "tokens": [
     {
       "surface": "יהושע",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "stovintis"
+      "gloss": "kuris stovi"
     },
     {
       "surface": "לפניך",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "eis"
+      "gloss": "įeis"
     },
     {
       "surface": "שמה",
@@ -57,8 +41,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį (Jehošuą)"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "חזק",
@@ -74,18 +58,18 @@
     },
     {
       "surface": "ינחלנה",
-      "gloss": "paveldės ją"
+      "gloss": "padarys, kad paveldės ją"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraelį"
+      "marks": "Jisraelis"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelį"
+      "gloss": "Jisraelis"
     }
   ],
-  "timestamp": "2026-10-20T05:40:28.532236368Z",
+  "timestamp": "2026-10-20T12:16:19.877926132Z",
   "model": "glm-5.3"
 }

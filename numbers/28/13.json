@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is (nėra — šiame nenaudota)",
-      "rationale": "hebrajų kalba neturi būtojo laiko veiksmažodžio; trūkstama kopula įterpiama skliaustuose ten, kur reikia"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mincha",
-      "rationale": "מנחה čia aukos rūšis — paliekama mincha, ne „duoklė“"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dešimtinė",
-      "rationale": "efos dešimtoji dalis — saiko nurodymas"
-    }
-  ],
-  "translation": "ir dešimtinė, dešimtinė smulkių miltų, mincha, maišyta aliejumi, vienam avinėliui — deginamoji auka, ramų kvapą skleidžiantis kvapas, ugnies auka Jahvei.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/13-16.1792474587780.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ir dešimtoji dalis, dešimtinė smulkių miltų, mincha, maišyta aliejumi, vienam ėriukui — visiškoji deginamoji auka, ramus kvapas, ugnies auka Jahvei.",
   "tokens": [
     {
       "surface": "ועשרן",
-      "gloss": "ir dešimtinė"
+      "gloss": "ir dešimtoji dalis"
     },
     {
       "surface": "עשרון",
@@ -46,7 +20,7 @@
       "gloss": "smulkių miltų"
     },
     {
-      "surface": "מנחha",
+      "surface": "מנחה",
       "gloss": "mincha"
     },
     {
@@ -59,15 +33,15 @@
     },
     {
       "surface": "לכבש",
-      "gloss": "avinėliui"
+      "gloss": "vienam ėriukui"
     },
     {
       "surface": "האחד",
-      "gloss": "vienam"
+      "gloss": "tam vienam"
     },
     {
       "surface": "עלה",
-      "gloss": "deginamoji auka"
+      "gloss": "visiškoji deginamoji auka"
     },
     {
       "surface": "ריח",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "ramų skleidžiantis"
+      "gloss": "ramus, malonus"
     },
     {
       "surface": "אשה",
@@ -86,6 +60,6 @@
       "gloss": "Jahvei"
     }
   ],
-  "timestamp": "2026-10-20T05:36:27.781221604Z",
+  "timestamp": "2026-10-20T12:40:45.937660168Z",
   "model": "glm-5.3"
 }

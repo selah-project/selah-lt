@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajiškame posakyje nėra veiksmažodžio."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יריב\/ריבם",
-      "rationale": "Veiksmažodis ir daiktavardis iš tos pačios šaknies — 'gins jų teisinį ginčą'."
-    }
-  ],
-  "translation": "Nes jų išpirkėjas stiprus ⟨yra⟩, jis gins jų bylą prieš tave ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/proverbs\/23\/9-12.1792489856548.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "nes jų atpirkėjas galingas — jis ginys ⟨את⟩ jų bylą prieš tave ⟨את⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "גאלם",
-      "gloss": "jų išpirkėjas"
+      "gloss": "jų atpirkėjas"
     },
     {
       "surface": "חזק",
-      "gloss": "stiprus"
+      "gloss": "galingas"
     },
     {
       "surface": "הוא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "יריב",
-      "gloss": "gins bylą"
+      "gloss": "ginys"
     },
     {
       "surface": "את",
@@ -62,6 +41,6 @@
       "gloss": "prieš tave ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-20T09:50:56.549310076Z",
+  "timestamp": "2026-10-20T12:42:51.893214647Z",
   "model": "glm-5.3"
 }

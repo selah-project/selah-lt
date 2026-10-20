@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "data",
-      "rationale": "Miško pralaužimo data: vienuolikti metai, ketvirtas mėnuo, devinta diena."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajiškoji passive forma neturi lietuvių veiksmažodžio pagalbininko; ⟨buvo⟩ pridėta."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pralaužta",
-      "rationale": "הבקעה — įtrūkimas, pralaužimo vieta; lietuviškai „pralaužta miesto siena“ aiškinama iš konteksto."
-    }
-  ],
-  "translation": "Vienuoliktaisiais Cidkijahu metais, ketvirtąjį mėnesį, devintąją mėnesio dieną, miestas ⟨buvo⟩ pralaužtas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "165028f1741c1b507e606daec09be736c48d7e915bae80b8fd56dffd4f1b403a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/39\/1-4.1792483302065.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vienuoliktoje ⟨metais⟩ Cedekijaus ⟨metais⟩, ketvirtąjį mėnesį, devintąją mėnesio dieną, ⟨buvo⟩ išmušta ⟨skylė⟩ miesto ⟨mūre⟩ — miestas buvo pralaužtas.",
   "tokens": [
     {
       "surface": "בעשתי",
-      "gloss": "vienuoliktaisiais"
+      "gloss": "vienuoliktoje"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "–toje"
     },
     {
       "surface": "שנה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "לצדקיהו",
-      "gloss": "Cidkijahu"
+      "gloss": "Cedekijaus"
     },
     {
       "surface": "בחדש",
@@ -63,17 +37,17 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "mėnesio"
+      "gloss": "mėnesio dieną"
     },
     {
       "surface": "הבקעה",
-      "gloss": "pralaužta"
+      "gloss": "buvo pralaužtas"
     },
     {
       "surface": "העיר",
       "gloss": "miestas"
     }
   ],
-  "timestamp": "2026-10-20T08:01:42.067198895Z",
+  "timestamp": "2026-10-20T12:31:01.702373843Z",
   "model": "glm-5.3"
 }

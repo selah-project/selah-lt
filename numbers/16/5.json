@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir parodys",
-      "rationale": "lietuvių kalbai reikia veiksmažodžio, hebrajų וידע reiškia 'pamatys\/sužinos'"
-    },
-    {
-      "kind": "crux",
-      "subject": "רב לכם",
-      "rationale": "Sk 16,7 רב לכם — 'užtenka jums' arba 'per daug sau imate'; čia tik dydžio žodis רב"
-    },
-    {
-      "kind": "you",
-      "subject": "Korachui ir jo susirinkimui",
-      "rationale": "Mošė kreipiasi tiesiogiai į Korachą ir jo bendriją"
-    }
-  ],
-  "translation": "Ir jis kalbėjo Korachui ir visai jo susirinkimui, sakydamas: Rytoj Jahvė pamatys ir parodys, kas ⟨yra⟩ jo, ir kas šventas, ir priartins ⟨את⟩ tą prie savęs; ir ką jis išsirinks, tą prives prie savęs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cca3ccd83f873828d186056634870c5db36dc7bb3b69ca3fec4e08c733cc2ff9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/5-8.1792474296476.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis kalbėjo Korachui ir visai jo bendruomenei, sakydamas: Rytą Jahvė parodys ⟨את⟩ tuos, kurie yra Jo, ir ⟨את⟩ šventąjį, ir pritrauks jį pas save; ir ⟨את⟩ tą, kurį jis išsirinks, pritrauks pas save.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ir kalbėjo"
+      "gloss": "Ir kalbėjo"
     },
     {
       "surface": "אל",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "קרח",
-      "gloss": "⟨Korachui⟩"
+      "gloss": "Korachui"
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir visai"
     },
     {
       "surface": "כל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "עדתו",
-      "gloss": "jo susirinkimui"
+      "gloss": "jo bendruomenei"
     },
     {
       "surface": "לאמר",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "בקר",
-      "gloss": "rytoj"
+      "gloss": "Rytą"
     },
     {
       "surface": "וידע",
-      "gloss": "ir pamatys"
+      "gloss": "parodys"
     },
     {
       "surface": "יהוה",
@@ -76,41 +50,41 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kas yra jo"
+      "marks": "tuos, kurie yra Jo"
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "tuos, kurie"
     },
     {
       "surface": "לו",
-      "gloss": "yra jo"
+      "gloss": "yra Jo"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "šventas"
+      "gloss": "ir ⟨את⟩",
+      "marks": "šventąjį"
     },
     {
       "surface": "הקדוש",
-      "gloss": "ir šventas"
+      "gloss": "šventąjį"
     },
     {
       "surface": "והקריב",
-      "gloss": "ir priartins"
+      "gloss": "ir pritrauks"
     },
     {
       "surface": "אליו",
-      "gloss": "prie savęs"
+      "gloss": "pas save"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ką jis išsirinks"
+      "gloss": "ir ⟨את⟩",
+      "marks": "tą, kurį jis išsirinks"
     },
     {
       "surface": "אשר",
-      "gloss": "ką"
+      "gloss": "tą, kurį"
     },
     {
       "surface": "יבחר",
@@ -118,17 +92,17 @@
     },
     {
       "surface": "בו",
-      "gloss": "tą"
+      "gloss": "jį"
     },
     {
-      "surface": "יקרריב",
-      "gloss": ""
+      "surface": "יקריב",
+      "gloss": "pritrauks"
     },
     {
       "surface": "אליו",
-      "gloss": "prives prie savęs"
+      "gloss": "pas save"
     }
   ],
-  "timestamp": "2026-10-20T05:31:36.477792743Z",
+  "timestamp": "2026-10-20T12:40:27.928303049Z",
   "model": "glm-5.3"
 }

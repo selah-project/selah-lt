@@ -5,42 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "המצפצפים",
-      "rationale": "čiurlenantys — žodis vartojamas tik čia visame Tanache, paukščio čiulbėjimo paveikslas apie burtininkų balsus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אוב",
-      "rationale": "iš pirminės reikšmės 'burbuliuojantis garsas \/ vandenmaišis' — mirusiųjų dvasios iššaukėjas; 'iššaukėjas' perduoda funkciją, ne garsą"
-    },
-    {
-      "kind": "crux",
-      "subject": "už gyvuosius — pas mirusiuosius",
-      "rationale": "בעד החיים אל המתים: 'už gyvuosius klausti mirusiųjų?' arba 'iš gyvųjų — mirusiesiems?'; įvairios skyrybos ir smurtavimo galimybės"
-    },
-    {
-      "kind": "invitation",
-      "subject": "retorinis klausimas",
-      "rationale": "'argi tauta neturi klausti savo Elohim?' — klausimas nukreipia klausytoją atgal prie Toros"
-    }
-  ],
-  "translation": "Ir kai jie jums sakys: „Klauskite mirusiųjų dvasių iššaukėjų ir raganių, čiurlenančių ir burbančių“ — argi tauta neturi klausti savo Elohim? Už gyvuosius — pas mirusiuosius?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/8\/17-20.1792480688329.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kai jie jums sakys: „Klauskite dvasių iššaukėjų ir žinovų-būrėjų, tų, kurie čirškia ir burba“ — argi tauta turi klausinėti savo Elohim dėl gyvųjų ⟨pas⟩ mirusiuosius?",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ir kai"
+      "gloss": "Ir kai"
     },
     {
       "surface": "יאמרו",
@@ -52,31 +21,31 @@
     },
     {
       "surface": "דרשו",
-      "gloss": "klausinėkite"
+      "gloss": "klausykite"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
-      "surface": "האובות",
-      "gloss": "mirusiųjų dvasių iššaukėjų"
+      "surface": "האבות",
+      "gloss": "dvasių iššaukėjus"
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir pas"
     },
     {
       "surface": "הידענים",
-      "gloss": "raganių"
+      "gloss": "žinovus-būrėjus"
     },
     {
       "surface": "המצפצפים",
-      "gloss": "čiurlenančių"
+      "gloss": "čirškiančius"
     },
     {
       "surface": "והמהגים",
-      "gloss": "ir burbančių"
+      "gloss": "ir burbančius"
     },
     {
       "surface": "הלוא",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "אלהיו",
@@ -96,15 +65,15 @@
     },
     {
       "surface": "ידרש",
-      "gloss": "turi klausti"
+      "gloss": "turi klausinėti"
     },
     {
       "surface": "בעד",
-      "gloss": "už"
+      "gloss": "dėl"
     },
     {
       "surface": "החיים",
-      "gloss": "gyvuosius"
+      "gloss": "gyvųjų"
     },
     {
       "surface": "אל",
@@ -115,6 +84,6 @@
       "gloss": "mirusiuosius"
     }
   ],
-  "timestamp": "2026-10-20T07:18:08.332040949Z",
+  "timestamp": "2026-10-20T12:29:38.565820210Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "lietuvių kreipinys 'Mošei' jau turi kryptį, prielinksnis ištirpsta"
-    },
-    {
-      "kind": "crux",
-      "subject": "דבר יום ביומו",
-      "rationale": "'dienos dalykas jo dienai': 'dienos dalis\/porcija kasdien' prieš 'kasdienis dalykas' — rinkimo saikas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dienos dalį savo dienai",
-      "rationale": "nustatytas dienos saikas — manos duonos matas"
-    },
-    {
-      "kind": "mystery",
-      "subject": "ar jie eis mano Tora, ar ne",
-      "rationale": "atviras klausimas — išbandymo baigtis dar nežinoma"
-    }
-  ],
-  "translation": "Ir tarė Jahvė Mošei: Štai aš lydinsiu jums duoną iš dangaus, ir tauta eis ir rinks dienos dalį savo dienai, kad išmėginčiau juos, ar jie eis mano Tora, ar ne.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8af8f9c3a55ffaf8b44f5422e406409016e09f97bbeb1e2aba11aa076425aec6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/16\/1-4.1792472535107.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: Štai aš lydinsiu jums duoną iš dangaus, ir tauta išeis ir rinks dienos dalį kiekvieną dieną, kad išmėginčiau juos, ar jie elgsis pagal mano Torą, ar ne.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Mošei"
     },
     {
       "surface": "משה",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "štai aš"
+      "gloss": "Štai aš"
     },
     {
       "surface": "ממטיר",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "ir eis"
+      "gloss": "ir išeis"
     },
     {
       "surface": "העם",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dalis"
+      "gloss": "dalį"
     },
     {
       "surface": "יום",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "savo dienai"
+      "gloss": "kiekvieną dieną"
     },
     {
       "surface": "למען",
@@ -112,11 +81,11 @@
     },
     {
       "surface": "הילך",
-      "gloss": "ar eis"
+      "gloss": "ar elgsis"
     },
     {
       "surface": "בתורתי",
-      "gloss": "mano Tora"
+      "gloss": "pagal mano Torą"
     },
     {
       "surface": "אם",
@@ -127,6 +96,6 @@
       "gloss": "ne"
     }
   ],
-  "timestamp": "2026-10-20T05:02:15.117088065Z",
+  "timestamp": "2026-10-20T12:18:52.483435544Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,24 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נצים",
-      "rationale": "Retas žodis, greičiausiai 'išnykę\/atsidavę' — verčiant sujungtas su 'griuvėsių krūvomis', atskira glosa tuščia."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ar neišgirdai",
-      "rationale": "Rėžiamas klausimas Sennacheribui — Jahvė kalba per pranašą tiesiogiai priešininkui."
-    },
-    {
-      "kind": "crux",
-      "subject": "להשות גלים נצים",
-      "rationale": "'Nuniokinta iki griuvėsių krūvų' — kam priklauso nuniokojimas (Asirijai kaip užduotis ar kaip jos lemtis), senos versijos skiriasi."
-    }
-  ],
-  "translation": "Ar neišgirdai — iš toli ⟨את⟩ tai padariau, dienomis senovės tai suformavau; dabar atvedžiau tai, ir ⟨tai⟩ tapo nuniokinta, griuvėsių krūvos — miestai tvirtinti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "63ded7348a99fe4696a2b5655ff89ec7f7853b1224e015346bb4c080e667b82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/25-28.1792480389090.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Argi negirdėjai iš tolo? ⟨את⟩ tai padariau senovės dienomis ir suformavau; dabar atvedžiau ⟨tai⟩, kad ji taptų dykyna — griuvėsių krūvos, miestai tvirtoviški.",
   "tokens": [
     {
       "surface": "הלא",
-      "gloss": "ar ne"
+      "gloss": "argi ne"
     },
     {
       "surface": "שמעת",
-      "gloss": "išgirdai"
+      "gloss": "negirdėjai"
     },
     {
       "surface": "למרחוק",
-      "gloss": "iš toli"
+      "gloss": "iš tolo"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "tai (ką padariau)"
+      "marks": "tai (objektas, kurį aš padariau)"
     },
     {
       "surface": "עשיתי",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "ויצרתיה",
-      "gloss": "suformavau"
+      "gloss": "ir suformavau ⟨tai⟩"
     },
     {
       "surface": "עתה",
@@ -72,15 +46,15 @@
     },
     {
       "surface": "הביאתיה",
-      "gloss": "atvedžiau tai"
+      "gloss": "atvedžiau ⟨tai⟩"
     },
     {
       "surface": "ותהי",
-      "gloss": "ir tapo"
+      "gloss": "kad taptų"
     },
     {
       "surface": "להשות",
-      "gloss": "nuniokinta"
+      "gloss": "dykyna"
     },
     {
       "surface": "גלים",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "בצרות",
-      "gloss": "tvirtinti"
+      "gloss": "tvirtoviški"
     }
   ],
-  "timestamp": "2026-10-20T07:13:09.091117863Z",
+  "timestamp": "2026-10-20T12:45:06.781784052Z",
   "model": "glm-5.3"
 }

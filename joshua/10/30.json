@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gyvybė",
-      "rationale": "נפש — kvėpuojanti gyva būtybė, ne 'siela'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "kardo žiotys",
-      "rationale": "לפי חרב pažodžiui 'kardo burna' — kardo ašmenų briauna"
-    }
-  ],
-  "translation": "Ir Jahvė davė ir ją, ir jos karalių į Jisraelio ranką; ir jis kirto ją kardo žiotimis, ir ⟨את⟩ visą gyvybę, kuri joje ⟨buvo⟩ — nepaliko joje nė vieno, kuris išlikęs; ir padarė jos karaliui, kaip buvo padaręs Jericho karaliui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c17f947eba72f35fcdd535f44e8d4db02b5235738980d3292d353fc9b8b212fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/10\/29-32.1792475938940.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė atidavė ir ją — ⟨את⟩ jos karalių — į Jisraelio ranką; ir jis iškirto ją kardo burna, ir ⟨את⟩ visą gyvą būtybę ⟨gyvybęs kvėpavimą⟩, kuri joje buvo — nepaliko joje jokio išlikusiojo; ir jos karaliui padarė taip, kaip buvo padaręs Jericho karaliui.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "ir davė"
+      "gloss": "ir atidavė"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją (Libną)"
     },
     {
       "surface": "ביד",
@@ -54,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ir ⟨את⟩",
       "marks": "jos karalių"
     },
     {
@@ -63,11 +43,11 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "ir kirto"
+      "gloss": "ir iškirto"
     },
     {
       "surface": "לפי",
-      "gloss": "žiotimis"
+      "gloss": "burna"
     },
     {
       "surface": "חרב",
@@ -75,8 +55,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "visą gyvybę"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą gyvą būtybę"
     },
     {
       "surface": "כל",
@@ -84,7 +64,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "gyvybę"
+      "gloss": "gyvą būtybę ⟨nefesh⟩"
     },
     {
       "surface": "אשר",
@@ -135,6 +115,6 @@
       "gloss": "Jericho"
     }
   ],
-  "timestamp": "2026-10-20T05:58:58.941829960Z",
+  "timestamp": "2026-10-20T12:34:07.169866592Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ושכלה",
-      "rationale": "Veiksmažodis reiškia 'padaryti vaikišką, atimti vaikus' — KJV 'apiplėšti jus nuo jūsų vaikų'; čia apibendrinta 'apvaikšios'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨paversti dykyne⟩",
-      "rationale": "ונשמו — 'būti nustebintiems, apleistiems'; lietuvių reikalauja veiksmažodinės išraiškos."
-    }
-  ],
-  "translation": "Ir pasiųsiu į jus ⟨את⟩ lauko žvėrį, ir jiū apvaikšios jus, ir jiū išnaikins jūsų gyvulius, ir jiū sumažins jus, ir jūsų keliai bus ⟨paversti dykyne⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/21-24.1792473833181.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Aš pasiųsiu prieš jus ⟨את⟩ lauko žvėrį, ir jis atims ⟨iš jūsų⟩ vaikus, ir išnaikins ⟨את⟩ jūsų gyvulius, ir sumažins ⟨את⟩ jus, ir jūsų keliai bus ⟨ištuštėję⟩.",
   "tokens": [
     {
       "surface": "והשלחתי",
-      "gloss": "Ir pasiųsiu"
+      "gloss": "ir pasiųsiu"
     },
     {
       "surface": "בכם",
-      "gloss": "į jus"
+      "gloss": "prieš jus"
     },
     {
       "surface": "את",
@@ -51,11 +30,12 @@
     },
     {
       "surface": "ושכלה",
-      "gloss": "ir apvaikšios"
+      "gloss": "ir atims vaikus"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "atims vaikus iš jūsų"
     },
     {
       "surface": "והכריתה",
@@ -76,17 +56,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "sumažins jus"
     },
     {
       "surface": "ונשמו",
-      "gloss": "ir bus ⟨paversti dykyne⟩"
+      "gloss": "ir bus ištuštėję"
     },
     {
       "surface": "דרכיכם",
       "gloss": "jūsų keliai"
     }
   ],
-  "timestamp": "2026-10-20T05:23:53.183290789Z",
+  "timestamp": "2026-10-20T12:39:10.397666257Z",
   "model": "glm-5.3"
 }

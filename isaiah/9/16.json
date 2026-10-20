@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨jis⟩",
-      "rationale": "כלו — „visas jis“, įvardis pridėtas aiškumui lietuvių kalboje."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אפו",
-      "rationale": "pažodžiui „jo nosis \/ šnervės“ — hebrajiškas rūstybės įvaizdis."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "refrenas",
-      "rationale": "„už visa tai jo rūstybė neatšlijo, ir dar jo ranka ištiesta“ — pakartotas lyderio refrenas (9, 11; 9, 16; 9, 20)."
-    }
-  ],
-  "translation": "Todėl Adonai nesidžiaugs jo jaunuoliais ir ⟨את⟩ jo našlaičių bei ⟨את⟩ jo našlių nepagailės, nes visas ⟨jis⟩ veidmainis ir pikta darantis, ir kiekviena burna kalba niekšybę. Už visa tai jo rūstybė neatšlijo, ir dar jo ranka ištiesta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/9\/13-16.1792480848011.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dėl to Adonai nesidžiaugs savo jaunuoliais, ir ⟨את⟩ savo našlaičius, ir ⟨את⟩ savo našles jis nepagailės, nes kiekvienas jų — veidmainis ir piktadarys, ir kiekviena burna kalba niekšybes. Nors visa tai, jo rūstybė nenuslūgo ir jo ranka vis dar ištiesta.",
   "tokens": [
     {
       "surface": "על",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "בחוריו",
-      "gloss": "jo jaunuolių"
+      "gloss": "savo jaunuolių"
     },
     {
       "surface": "לא",
@@ -63,21 +37,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "jo našlaičius"
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo našlaičius"
     },
     {
       "surface": "יתמיו",
-      "gloss": "jo našlaičius"
+      "gloss": "savo našlaičius"
     },
     {
-      "surface": "ויתמיו",
+      "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo našlaites"
+      "marks": "savo našles"
     },
     {
       "surface": "אלמנתיו",
-      "gloss": "jo našlaites"
+      "gloss": "savo našles"
     },
     {
       "surface": "לא",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "כלו",
-      "gloss": "visas"
+      "gloss": "kiekvienas jų"
     },
     {
       "surface": "חנף",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "ומרע",
-      "gloss": "ir pikta darantis"
+      "gloss": "ir piktadarys"
     },
     {
       "surface": "וכל",
@@ -117,11 +91,11 @@
     },
     {
       "surface": "נבלה",
-      "gloss": "niekšybę"
+      "gloss": "niekšybes"
     },
     {
       "surface": "בכל",
-      "gloss": "už visa"
+      "gloss": "nors visa"
     },
     {
       "surface": "זאת",
@@ -133,7 +107,7 @@
     },
     {
       "surface": "שב",
-      "gloss": "atšlijo"
+      "gloss": "nuslūgo"
     },
     {
       "surface": "אפו",
@@ -141,7 +115,7 @@
     },
     {
       "surface": "ועוד",
-      "gloss": "ir dar"
+      "gloss": "ir vis dar"
     },
     {
       "surface": "ידו",
@@ -152,6 +126,6 @@
       "gloss": "ištiesta"
     }
   ],
-  "timestamp": "2026-10-20T07:20:48.015489049Z",
+  "timestamp": "2026-10-20T12:29:53.589231780Z",
   "model": "glm-5.3"
 }

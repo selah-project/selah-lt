@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יפרע",
-      "rationale": "pažodžiui „neatpalaiduos“ — apie plaukus; KJV „neatidengs galvos“ yra interpretacija, ASV\/JPS „neleis plaukams palaidais“ arčiau šaknies פרע „atpalaiduoti“"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ומלא את ידו",
-      "rationale": "pažodžiui „ir pripildė ⟨את⟩ jo ranką“ — pašventinimo idoma, lietuviškai „įdedota ranka“"
-    }
-  ],
-  "translation": "Ir kunigas, didysis tarp savo brolių, kuriam ant galvos išlietas patepimo aliejus ir kurio ranka įdedota aprengti drabužius, savo galvos plaukų neleis ir savo drabužių neperplėš.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/21\/9-12.1792473603162.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigas, didis tarp savo brolių, ant kurio galvos išlietas patepimo aliejus ir kurio ranka buvo ⟨pripildyta⟩ ⟨את⟩, kad vilkėtų ⟨את⟩ drabužius — ⟨את⟩ savo galvos neatribs ir savo drabužių neperplėš.",
   "tokens": [
     {
       "surface": "והכהן",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "didysis"
+      "gloss": "didis"
     },
     {
       "surface": "מאחיו",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "galvos"
+      "gloss": "jo galvos"
     },
     {
       "surface": "שמן",
@@ -66,12 +45,12 @@
     },
     {
       "surface": "ומלא",
-      "gloss": "ir įdedota"
+      "gloss": "ir pripildyta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo ranką"
+      "marks": "jo ranka"
     },
     {
       "surface": "ידו",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ללבש",
-      "gloss": "aprengti"
+      "gloss": "kad vilkėtų"
     },
     {
       "surface": "את",
@@ -93,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo galvą"
+      "marks": "savo galvos"
     },
     {
       "surface": "ראשו",
-      "gloss": "jo galva"
+      "gloss": "savo galvos"
     },
     {
       "surface": "לא",
@@ -105,7 +84,7 @@
     },
     {
       "surface": "יפרע",
-      "gloss": "plaukų neleis"
+      "gloss": "atribs"
     },
     {
       "surface": "ובגדיו",
@@ -117,9 +96,9 @@
     },
     {
       "surface": "יפרם",
-      "gloss": "neperplėš"
+      "gloss": "perplėš"
     }
   ],
-  "timestamp": "2026-10-20T05:20:03.172529654Z",
+  "timestamp": "2026-10-20T12:38:30.029615424Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefeš",
-      "rationale": "נפש — ne „siela”, o gyvybės jėga, kvėpuojanti būtybė; pavartotas hebrajiškas skambesys."
-    },
-    {
-      "kind": "crux",
-      "subject": "האבת",
-      "rationale": "אוב — „šnabždes-burėja” (murmėtoja, iškviečianti mirusiuosius): variantai nuo „ragana” iki „ Medium”."
-    },
-    {
-      "kind": "crux",
-      "subject": "הידענים",
-      "rationale": "ידעני — „žinantis”, išminčius-vaiduoklių šauklys; „burtininkas” praranda šaknį ידע (pažinti)."
-    }
-  ],
-  "translation": "O ⟨tą⟩ nefesą, kuris atsigręš į šnabždes-burėjas ir į vaiduoklių žinovus, kad ištvirkautų paskui juos, — aš atkreipsiu ⟨את⟩ savo veidą į tą nefesą ir išnaikinsiu jį iš jo tautos vidurio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/5-8.1792473579292.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir siela, kuri atsigręš į dvasių iškviesėjus ir į žynius, kad ištvirkautų paskui juos, – aš atkreipsiu ⟨את⟩ savo veidą į tą sielą ir iškirpsiu ⟨את⟩ jį iš jos tautos vidurio.",
   "tokens": [
     {
       "surface": "והנפש",
-      "gloss": "o nefesą"
+      "gloss": "Ir siela"
     },
     {
       "surface": "אשר",
-      "gloss": "kuris"
+      "gloss": "kuri"
     },
     {
       "surface": "תפנה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "האבת",
-      "gloss": "šnabždes-burėjas"
+      "gloss": "dvasių iškviesėjus"
     },
     {
       "surface": "ואל",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "הידענים",
-      "gloss": "vaiduoklių žinovus"
+      "gloss": "žynius"
     },
     {
       "surface": "לזנות",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "veidą"
+      "gloss": "savo veidą"
     },
     {
       "surface": "בנפש",
-      "gloss": "į nefesą"
+      "gloss": "į tą sielą"
     },
     {
       "surface": "ההוא",
@@ -92,21 +66,22 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ir išnaikinsiu"
+      "gloss": "ir iškirpsiu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "מקרב",
-      "gloss": "iš vidurio"
+      "gloss": "iš jos tautos vidurio"
     },
     {
       "surface": "עמו",
-      "gloss": "jo tautos"
+      "gloss": "jos tautos"
     }
   ],
-  "timestamp": "2026-10-20T05:19:39.295381590Z",
+  "timestamp": "2026-10-20T12:38:24.749426628Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "atskrido",
-      "rationale": "בא — tiesiog „atėjo“; paukščiui priderinta „atskrido“."
-    }
-  ],
-  "translation": "ir pasakysi: Taip sako Adonai Jahvė: didis erelis, dideliais sparnais, ilgomis plunksnomis, pilnas plunksnų, kurių jam raštuota įvairiaspalvė, atskrido į Lebanoną ir paėmė ⟨את⟩ cedro viršūnę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6169c77e954f3434afea4d143b2aee001bfea15fc5d16910cbcecf7e9361a85f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/17\/1-4.1792484091177.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pasakysi: Taip sako Adonai Jahvė: Erelis didis, dideliais sparnais, ilgomis plunksnomis, pilnas plunksnų, kurios ⟨yra⟩ įvairiaspalvės, atskrido į Libaną ir nusinešė ⟨את⟩ cedro viršūnę.",
   "tokens": [
     {
       "surface": "ואמרת",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "didis"
+      "gloss": "dideliais"
     },
     {
       "surface": "הכנפים",
@@ -65,7 +49,7 @@
     },
     {
       "surface": "האבר",
-      "gloss": "plunksnomis"
+      "gloss": "plunksnomis-prikabinom"
     },
     {
       "surface": "מלא",
@@ -77,15 +61,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurių"
+      "gloss": "kurios"
     },
     {
       "surface": "לו",
       "gloss": "jam"
     },
     {
-      "surface": "הרקמha",
-      "gloss": "raštuota įvairiaspalvė"
+      "surface": "הרקמה",
+      "gloss": "įvairiaspalvės"
     },
     {
       "surface": "בא",
@@ -97,11 +81,11 @@
     },
     {
       "surface": "הלבנון",
-      "gloss": "Lebanoną"
+      "gloss": "Libaną"
     },
     {
       "surface": "ויקח",
-      "gloss": "ir paėmė"
+      "gloss": "ir nusinešė"
     },
     {
       "surface": "את",
@@ -117,6 +101,6 @@
       "gloss": "cedro"
     }
   ],
-  "timestamp": "2026-10-20T08:14:51.180355049Z",
+  "timestamp": "2026-10-20T12:21:33.996982605Z",
   "model": "glm-5.3"
 }

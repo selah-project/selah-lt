@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "negalavimas",
-      "rationale": "נגע pažodžiui „smūgis, smūgis-liga“; išlaikytas neutralus terminas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "caraat",
-      "rationale": "הצרעת — tradiciškai „raupsai“, tačiau apima ir odos, ir drabužių, ir sienų pažeidimus"
-    }
-  ],
-  "translation": "Ir kunigas išeis už stovyklos ribų, ir kunigas pamatys, ir štai — negalavimas, caraat, pagijo nuo nukentėjusiojo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/1-4.1792473369513.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigas išeis į išorę, už stovyklos, ir kunigas pamatys, ir štai — įvyko išgijimas: maras, raupsų ⟨yra⟩ išgydytas ⟨nuo⟩ raupsuotojo.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "į"
     },
     {
       "surface": "מחוץ",
-      "gloss": "už ribų"
+      "gloss": "išorę"
     },
     {
       "surface": "למחנה",
-      "gloss": "stovyklos"
+      "gloss": "už stovyklos"
     },
     {
       "surface": "וראה",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "נרפא",
-      "gloss": "pagijo"
+      "gloss": "išgydytas"
     },
     {
       "surface": "נגע",
-      "gloss": "negalavimas"
+      "gloss": "maras"
     },
     {
       "surface": "הצרעת",
-      "gloss": "caraat"
+      "gloss": "raupsų"
     },
     {
       "surface": "מן",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "הצרוע",
-      "gloss": "nukentėjusiojo"
+      "gloss": "raupsuotojo"
     }
   ],
-  "timestamp": "2026-10-20T05:16:09.515579770Z",
+  "timestamp": "2026-10-20T12:37:26.265749693Z",
   "model": "glm-5.3"
 }

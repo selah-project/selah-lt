@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עד רדתה",
-      "rationale": "„kol ji nusileis\/kris“ — KJV „kol ji bus nukariauta“, hebrajiškai veiksmažodis ירד „nusileisti, kristi“ be veikėjo; pasirinkta „jis kris“ (miestas, moteriškos giminės עיר — lietuviškai „miestas“)."
-    }
-  ],
-  "translation": "Tik tą medį, kurį žinai, kad jis nėra valgomas medis, tą pražudyk ir nukirsk, ir statyk apgulties įrengimą prieš miestą, kuris kariauja su tavimi, kol jis kris.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/20\/17-20.1792475324782.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tik medį, kurį žinosi, kad jis nėra maisto medis, ⟨tą⟩ ⟨את⟩ gali sunaikinti ir nukirsti; ir statysi apgulties įrengimą prieš miestą, kuris kariauja su tavimi, kol jį nugalėsi.",
   "tokens": [
     {
       "surface": "רק",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "žinai"
+      "gloss": "žinosi"
     },
     {
       "surface": "כי",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nėra"
     },
     {
       "surface": "עץ",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "מאכל",
-      "gloss": "valgomas"
+      "gloss": "maisto"
     },
     {
       "surface": "הוא",
@@ -61,20 +45,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį"
+      "gloss": "⟨את⟩",
+      "marks": "medį (tą medį)"
     },
     {
       "surface": "תשחית",
-      "gloss": "pražudyk"
+      "gloss": "sunaikinsi"
     },
     {
       "surface": "וכרת",
-      "gloss": "ir nukirsk"
+      "gloss": "ir nukirsi"
     },
     {
       "surface": "ובנית",
-      "gloss": "ir statyk"
+      "gloss": "ir statysi"
     },
     {
       "surface": "מצור",
@@ -114,9 +98,9 @@
     },
     {
       "surface": "רדתה",
-      "gloss": "jis kris"
+      "gloss": "jį nugalėsi (pažeminsi)"
     }
   ],
-  "timestamp": "2026-10-20T05:48:44.784544853Z",
+  "timestamp": "2026-10-20T12:16:50.196577220Z",
   "model": "glm-5.3"
 }

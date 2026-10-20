@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "pažodžiui 'kardo burna' — lietuviškai 'kardo briauna'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הטף",
-      "rationale": "rečiausias žodis 'šeima\/vaisius' — čia maži vaikai"
-    }
-  ],
-  "translation": "Ir pasiuntė ten susirinkimas dvylika tūkstančių vyrų iš stipriųjų ir įsakė jiems, sakydami: Eikite ir iškapokite ⟨את⟩ Javešo Gileado gyventojus kardo briauna — ir moteris, ir vaikus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b4375730f88e155a209dba8cb1ab499942e1d826162bbb0d0fab7198a4186ecf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/21\/9-12.1792476905591.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ten pasiuntė sueiga dvylika tūkstantį vyrų iš kario sūnų ir įsakė ⟨את⟩ jiems, sakydama: Eikite ir sumuškite ⟨את⟩ Jabėso-Gileado gyventojus kardo burna, ir moteris, ir vaikus.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Ir pasiuntė"
+      "gloss": "ir pasiuntė"
     },
     {
       "surface": "שם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "העדה",
-      "gloss": "susirinkimas"
+      "gloss": "sueiga"
     },
     {
       "surface": "שנים",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "עשר",
-      "gloss": "dešimt"
+      "gloss": "lika"
     },
     {
       "surface": "אלף",
-      "gloss": "tūkstančių"
+      "gloss": "tūkstantį"
     },
     {
       "surface": "איש",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "מבני",
-      "gloss": "iš stipriųjų"
+      "gloss": "iš sūnų"
     },
     {
       "surface": "החיל",
-      "gloss": "⟨iš stipriųjų⟩"
+      "gloss": "kario"
     },
     {
       "surface": "ויצוו",
@@ -70,24 +49,25 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "לאמר",
-      "gloss": "sakydami"
+      "gloss": "sakydama"
     },
     {
       "surface": "לכו",
-      "gloss": "Eikite"
+      "gloss": "eikite"
     },
     {
       "surface": "והכיתם",
-      "gloss": "ir iškapokite"
+      "gloss": "ir sumuškite"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Javešo Gileado gyventojus"
+      "marks": "Jabėso-Gileado gyventojus"
     },
     {
       "surface": "יושבי",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "יבש",
-      "gloss": "Javešo"
+      "gloss": "Jabėso"
     },
     {
       "surface": "גלעד",
@@ -103,7 +83,7 @@
     },
     {
       "surface": "לפי",
-      "gloss": "briauna"
+      "gloss": "burna"
     },
     {
       "surface": "חרב",
@@ -118,6 +98,6 @@
       "gloss": "ir vaikus"
     }
   ],
-  "timestamp": "2026-10-20T06:15:05.592760427Z",
+  "timestamp": "2026-10-20T12:37:00.898327097Z",
   "model": "glm-5.3"
 }

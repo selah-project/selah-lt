@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את (prieš פני)",
-      "rationale": "prieverbys „prieš“, neturi atskiro atitikmens"
-    },
-    {
-      "kind": "idiom",
-      "subject": "את פני יהוה",
-      "rationale": "pažodžiui „veidu į Jahvės veidą“, idiomą „prieš veidą“ lietuviškai reiškia per prielinksnį"
-    }
-  ],
-  "translation": "nes mes niokojame ⟨את⟩ šitą vietą, nes jų šauksmas išaugo prieš Jahvės veidą, ir Jahvė siuntė mus jos sunaikinti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/13-16.1792471321794.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": " Nes mes sunaikinsime ⟨את⟩ šią vietą, nes jų šauksmas tapo didelis ⟨את⟩ Jahvės veidu, ir Jahvė siuntė mus ją sunaikinti.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "משחתים",
-      "gloss": "niokojame"
+      "gloss": "sunaikinsime"
     },
     {
       "surface": "אנחנו",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šitą vietą"
+      "marks": "šią vietą"
     },
     {
       "surface": "המקום",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "šitą"
+      "gloss": "šią"
     },
     {
       "surface": "כי",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "גדלה",
-      "gloss": "išaugo"
+      "gloss": "tapo didelis"
     },
     {
       "surface": "צעקתם",
@@ -67,11 +46,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "Jahvės veidu"
     },
     {
       "surface": "פני",
-      "gloss": "veidą"
+      "gloss": "veidu"
     },
     {
       "surface": "יהוה",
@@ -87,9 +67,9 @@
     },
     {
       "surface": "לשחתה",
-      "gloss": "jos sunaikinti"
+      "gloss": "ją sunaikinti"
     }
   ],
-  "timestamp": "2026-10-20T04:42:01.797008659Z",
+  "timestamp": "2026-10-20T12:24:43.592923313Z",
   "model": "glm-5.3"
 }

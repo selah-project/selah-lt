@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "penkiasdešimt, penkiasdešimt",
-      "rationale": "חמשים חמשים — gali reikšti „po penkiasdešimt [atskirose olose]“; kartojimas išlaikytas pažodžiui"
-    },
-    {
-      "kind": "you",
-      "subject": "Obadjahui kalbant su Elijahu",
-      "rationale": "tiesioginis kreipimasis „mano pone“ į konkretų adresatą"
-    }
-  ],
-  "translation": "Argi mano ponui nebuvo pranešta, ką aš padariau, kai Izabelė žudė ⟨את⟩ Jahvės pranašus, kad paslėpiau iš Jahvės pranašų šimtą vyrų — penkiasdešimt, penkiasdešimt vyrų — oloje, ir juos išlaikiau duona ir vandeniu?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "14bc60d05de03195ed682f16b6e3c613dace6618370cf1164f0661cc7c642b35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/18\/13-16.1792479530585.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Argi mano ponui nebuvo pranešta ⟨את⟩ tai, ką padariau — kai Izebelė žudė ⟨את⟩ Jahvės pranašus, — kad aš paslėpiau iš Jahvės pranašų šimtą vyrų, po penkiasdešimt, po penkiasdešimt vyrų, oloje, ir maitinau juos duona ir vandeniu?",
   "tokens": [
     {
       "surface": "הלא",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ką"
+      "marks": "tai, ką padariau"
     },
     {
       "surface": "אשר",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "aš padariau"
+      "gloss": "padariau"
     },
     {
       "surface": "בהרג",
-      "gloss": "žudant"
+      "gloss": "žudė"
     },
     {
       "surface": "איזבל",
-      "gloss": "Izabelė"
+      "gloss": "Izebelė"
     },
     {
       "surface": "את",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "ואחבא",
-      "gloss": "kad paslėpiau"
+      "gloss": "paslėpiau"
     },
     {
       "surface": "מנביאי",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "ואכלכלם",
-      "gloss": "ir juos išlaikiau"
+      "gloss": "maitinau juos"
     },
     {
       "surface": "לחם",
@@ -123,6 +102,6 @@
       "gloss": "ir vandeniu"
     }
   ],
-  "timestamp": "2026-10-20T06:58:50.586366062Z",
+  "timestamp": "2026-10-20T12:06:59.444859667Z",
   "model": "glm-5.3"
 }

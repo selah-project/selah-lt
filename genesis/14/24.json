@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חלק \/ חלקם",
-      "rationale": "Žodžio 'dalis' kartojimas — vyrų dalis ir jų dalis, kadencija uždaro kalbą"
-    }
-  ],
-  "translation": "išskyrus tik tai, ką suvalgė vaikinai, ir vyrų, kurie ėjo su manimi, dalis — Anerio, Eškolo ir Mamrės; jie tepaima savo dalį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d8ba334136d15a1e124145b15aa64fc074c5f17fe53693ab422d7a88216e5001",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/14\/21-24.1792471242902.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Išskyrus tik tai, ką suvalgė jaunuoliai, ir dalį vyrų, kurie ėjo ⟨su manimi⟩ — Aneris, Eškolis ir Mamrė — jie tepaima savo dalį.",
   "tokens": [
     {
       "surface": "בלעדי",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "הנערים",
-      "gloss": "vaikinai"
+      "gloss": "jaunuoliai"
     },
     {
       "surface": "וחלק",
-      "gloss": "ir dalis"
+      "gloss": "ir dalį"
     },
     {
       "surface": "האנשים",
@@ -61,19 +45,20 @@
     },
     {
       "surface": "אתי",
-      "gloss": "su ⟨את⟩ manimi"
+      "gloss": "⟨את⟩ su manimi",
+      "marks": "vyrų, kurie ėjo su manimi"
     },
     {
       "surface": "ענר",
-      "gloss": "Anerio"
+      "gloss": "Aneris"
     },
     {
       "surface": "אשכל",
-      "gloss": "Eškolo"
+      "gloss": "Eškolis"
     },
     {
       "surface": "וממרא",
-      "gloss": "ir Mamrės"
+      "gloss": "ir Mamrė"
     },
     {
       "surface": "הם",
@@ -88,6 +73,6 @@
       "gloss": "savo dalį"
     }
   ],
-  "timestamp": "2026-10-20T04:40:42.908853567Z",
+  "timestamp": "2026-10-20T12:24:17.423554126Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שלשים",
-      "rationale": "'didžiūnai\/karininkai' (KJV) vs 'trečiakeliai vežimų kariai' — halomeric šališim, vežimo trečiasis karys."
-    },
-    {
-      "kind": "hapax",
-      "subject": "פקוד",
-      "rationale": "Pekodas — genties vardas žaidžia su šaknies paqad 'lankytis\/bausmė' iš 21 eilutės."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פקוד \/ ותפקדי",
-      "rationale": "ta pati šaknis: ji 'apsilankė' savo nuodėmėse — ateis Pekodas ją bausti."
-    }
-  ],
-  "translation": "Babelio sūnūs ir visi kasdėjai, Pekodas, Šoa ir Koa — visi Asūro sūnūs su jais: norimi jaunikiai, valdytojai ir paskirtieji — visi jie didžiūnai ir šaukiamieji, žirgų jojikai, visi jie.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "291e6e7a8e8a499a25243fd4672dac9ed0d189dce0e41f67900d8677a5d4cf77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/21-24.1792484471646.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Babilono sūnūs ir visi kasdai, Pekodas, Šoa ir Koa, visi Asūro sūnūs ⟨su jais⟩ — ⟨את⟩ juos visus — jaunuoliai, geidžiamo grožio, valdytojai ir vietininkai, visi jie — didūs ir šauktiniai, jojantys ant žirgų, visi jie.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "sūnūs"
+      "gloss": "Babilono sūnūs"
     },
     {
       "surface": "בבל",
-      "gloss": "Babelio"
+      "gloss": "Babilonas"
     },
     {
       "surface": "וכל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "kasdėjai"
+      "gloss": "kasdai"
     },
     {
       "surface": "פקוד",
@@ -71,20 +45,20 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Asūro"
+      "gloss": "Asūras"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "norimi jaunikiai"
+      "marks": "juos visus — jaunuoliai"
     },
     {
       "surface": "בחורי",
-      "gloss": "jaunikiai"
+      "gloss": "jaunuoliai"
     },
     {
       "surface": "חמד",
-      "gloss": "norimi"
+      "gloss": "geidžiamo grožio"
     },
     {
       "surface": "פחות",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "וסגנים",
-      "gloss": "ir paskirtieji"
+      "gloss": "ir vietininkai"
     },
     {
       "surface": "כלם",
@@ -100,25 +74,25 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "didžiūnai"
+      "gloss": "didūs"
     },
     {
       "surface": "וקרואים",
-      "gloss": "ir šaukiamieji"
+      "gloss": "ir šauktiniai"
     },
     {
       "surface": "רכבי",
-      "gloss": "jojikai"
+      "gloss": "jojantys"
     },
     {
       "surface": "סוסים",
-      "gloss": "žirgų"
+      "gloss": "ant žirgų"
     },
     {
       "surface": "כלם",
       "gloss": "visi jie"
     }
   ],
-  "timestamp": "2026-10-20T08:21:11.648071046Z",
+  "timestamp": "2026-10-20T12:22:56.107621066Z",
   "model": "glm-5.3"
 }

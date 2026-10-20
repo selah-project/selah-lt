@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השחת תשחתון",
-      "rationale": "Infinitivinis absoliutas — tas pats veiksmažodis kartojamas stiprinimui: 'sugadindami sugadinsite'; lietuviškame vertime sutraukta į 'visiškai susigadinsite'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וקראת אתכם הרעה",
-      "rationale": "Pažodžiui 'susitikins jus pikta' — nelaimė kaip subjektas, kuris ateina pasitikti; verstiniuose dažnai 'prikris jums nelaimė'."
-    },
-    {
-      "kind": "you",
-      "subject": "Izraelio susirinkimas",
-      "rationale": "Mošė kreipiasi į visą Izraelį kaip į 'jūs' — tiesioginis adresatas."
-    }
-  ],
-  "translation": "Nes aš žinau, kad po mano mirties jūs visiškai susigadinsite ir nukrypsite nuo kelio, kurį ⟨את⟩ jums įsakiau, ir ištiks ⟨את⟩ jus nelaimė paskutinėmis dienomis, nes darysite pikta Jahvės akyse, jį įžeisite savo rankų darbais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/31\/29-30.1792475542569.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes žinau, kad po mano mirties jūs visiškai susigesite ir nukrypsite nuo kelio, kurį įsakiau ⟨את⟩ jums, ir piktybė ištiks ⟨את⟩ jus paskučiojoje dienų, nes darysite ⟨את⟩ piktą Jahvės akyse, jį erzindami savo rankų darbais.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "aš žinau"
+      "gloss": "žinau"
     },
     {
       "surface": "אחרי",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "השחת",
-      "gloss": "visiškai susigadinsite"
+      "gloss": "visiškai susigesti"
     },
     {
       "surface": "תשחתון",
-      "gloss": "sugadinsite"
+      "gloss": "jūs susigedote"
     },
     {
       "surface": "וסרתם",
@@ -83,7 +57,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩ jums",
+      "marks": "jums (įsakymo gavėjai)"
     },
     {
       "surface": "וקראת",
@@ -91,19 +66,20 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
     },
     {
       "surface": "הרעה",
-      "gloss": "nelaimė"
+      "gloss": "piktybė"
     },
     {
       "surface": "באחרית",
-      "gloss": "paskutinėmis"
+      "gloss": "paskučiojoje"
     },
     {
       "surface": "הימים",
-      "gloss": "dienomis"
+      "gloss": "dienų"
     },
     {
       "surface": "כי",
@@ -132,7 +108,7 @@
     },
     {
       "surface": "להכעיסו",
-      "gloss": "jį įžeisite"
+      "gloss": "jį erzindami"
     },
     {
       "surface": "במעשה",
@@ -143,6 +119,6 @@
       "gloss": "savo rankų"
     }
   ],
-  "timestamp": "2026-10-20T05:52:22.571092258Z",
+  "timestamp": "2026-10-20T12:17:32.712663122Z",
   "model": "glm-5.3"
 }

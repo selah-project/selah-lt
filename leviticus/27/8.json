@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי",
-      "rationale": "Pažodžiui 'pagal burną', reiškia 'pagal tai, kas pasakyta\/ėmanoma'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "תשיג יד",
-      "rationale": "Pažodžiui 'ranka pasiekia' — hebrajiška išgalos išraiška; verčiama laikant vaizdą."
-    },
-    {
-      "kind": "alternative",
-      "subject": "והעמידו",
-      "rationale": "Niphal 'bus pastatytas prieš kunigą' arba hifil 'pats stoja\/pastato save' — pasirinkta aktyvioji reikšmė."
-    }
-  ],
-  "translation": "Ir jeigu jis pernelyg neturtingas ⟨nei⟩ tavo įvertinimui, tai jis stoja prieš kunigą, ir kunigas jį įvertina; pagal tai, ką pasiekia duotojo pažado ranka, taip kunigas jį įvertina.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0712f58046de051d51708ccb7e71e54d31c3903fe3ea7833994f374b3602863f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/27\/5-8.1792473789176.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jei jis yra pernelyg vargšas ⟨kad sumokėtų⟩ tavo įvertinimą, tai jis bus pastatytas kunigo akivaizdoje, ir kunigas jį įvertins ⟨את⟩; pagal tai, ko pasiekia pasižadėjusiojo ranka, kunigas jį įvertins.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ir jeigu"
+      "gloss": "ir jei"
     },
     {
       "surface": "מך",
-      "gloss": "neturtingas"
+      "gloss": "vargšas"
     },
     {
       "surface": "הוא",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "מערכך",
-      "gloss": "tavo įvertinimui"
+      "gloss": "tavo įvertinimas"
     },
     {
       "surface": "והעמידו",
-      "gloss": "stoja jį"
+      "gloss": "ir jis bus pastatytas"
     },
     {
       "surface": "לפני",
-      "gloss": "prieš"
+      "gloss": "prieš akis"
     },
     {
       "surface": "הכהן",
-      "gloss": "kunigą"
+      "gloss": "kunigas"
     },
     {
       "surface": "והעריך",
@@ -67,8 +41,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį — kunigo vertinamą asmenį"
+      "gloss": "⟨את⟩",
+      "marks": "jis (vyras, atvestas įvertinti)"
     },
     {
       "surface": "הכהן",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "burną"
+      "gloss": "burną ⟨tai, ką sako⟩"
     },
     {
       "surface": "אשר",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "הנדר",
-      "gloss": "duotojo pažado"
+      "gloss": "pasižadėjusiojo"
     },
     {
       "surface": "יעריכנו",
-      "gloss": "įvertins jį"
+      "gloss": "jį įvertins"
     },
     {
       "surface": "הכהן",
       "gloss": "kunigas"
     }
   ],
-  "timestamp": "2026-10-20T05:23:09.177396947Z",
+  "timestamp": "2026-10-20T12:39:17.842515554Z",
   "model": "glm-5.3"
 }

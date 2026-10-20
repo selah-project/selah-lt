@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tai⟩",
-      "rationale": "Hebr. tiesioginis objektas po אשר-sakinio reikalauja parodyti, į ką rodo ⟨את⟩ — pridėta „tai“."
-    },
-    {
-      "kind": "alternative",
-      "subject": "והוריתי = mokysiu",
-      "rationale": "Šaknis ירה reiškia ir „mokyti“, ir „rodyti, nukreipti (kaip strėlė)“ — alternatyva: „ir parodysiu jums“."
-    }
-  ],
-  "translation": "Ir tu kalbėsi su juo ir dėsi ⟨את⟩ žodžius į jo burną, o aš būsiu su tavo burna ir su jo burna, ir mokysiu jus ⟨את⟩ ⟨tai⟩, ką turite daryti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/4\/13-16.1792472233170.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tu kalbėsi su juo ir dėsi ⟨את⟩ žodžius į jo burną, o aš būsiu su tavo burna ir su jo burna, ir mokysiu ⟨את⟩ jus ⟨את⟩ tai, ką darysite.",
   "tokens": [
     {
       "surface": "ודברת",
-      "gloss": "Ir kalbėsi"
+      "gloss": "ir kalbėsi"
     },
     {
       "surface": "אליו",
@@ -83,13 +62,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ jus",
       "marks": "jus"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tai, ką turite daryti"
+      "marks": "tai, ką darysite"
     },
     {
       "surface": "אשר",
@@ -97,9 +76,9 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "turite daryti"
+      "gloss": "darysite"
     }
   ],
-  "timestamp": "2026-10-20T04:57:13.173845608Z",
+  "timestamp": "2026-10-20T12:20:35.812312184Z",
   "model": "glm-5.3"
 }

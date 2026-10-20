@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajų kalba neturi sakinio tarinio jungties — pridėta lietuviška kopula."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כרת \/ לכרת",
-      "rationale": "Sandoros „kirpimo“ veiksmažodis kartojamas du kartus — sandora „pjaunama“ ir Moabe, ir Chorebe; lietuviškas „sudaryti“ šį vaizdą praranda."
-    },
-    {
-      "kind": "elision",
-      "subject": "כרת עם",
-      "rationale": "Hebrajiškas „kirpti sandorą su“ (כרת את…אתם) paverstas į lietuvišką „sudaryti su“ — vaizdas prarastas."
-    }
-  ],
-  "translation": "Šitie ⟨yra⟩ sandoros žodžiai, kuriuos Jahvė įsakė ⟨את⟩ Mošei sudaryti ⟨את⟩ su Jisraelio vaikais Moabo žemėje — be sandoros, kurią jis sudarė su jais Chorebe.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9626b37cd429e5a89173d2f4a5c508cf86c29c941cb65c5ab24ffc614df56edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/69-69.1792475454282.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šitie — ⟨yra⟩ žodžiai sandoros, kurią Jahvė įsakė ⟨את⟩ Mošei sudaryti su ⟨את⟩ Jisraelio sūnumis Moabo žemėje, be sandoros, kurią jis sudarė su jais ⟨אתם⟩ prie Chorebo.",
   "tokens": [
     {
       "surface": "אלה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurią"
     },
     {
       "surface": "צוה",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošę"
+      "marks": "Mošei"
     },
     {
       "surface": "משה",
@@ -73,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraelio vaikus"
+      "marks": "Jisraelio sūnumis"
     },
     {
       "surface": "בני",
-      "gloss": "vaikus"
+      "gloss": "sūnumis"
     },
     {
       "surface": "ישראל",
@@ -109,13 +83,13 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ su jais"
+      "gloss": "su jais ⟨את⟩"
     },
     {
       "surface": "בחרב",
-      "gloss": "Chorebe"
+      "gloss": "prie Chorebo"
     }
   ],
-  "timestamp": "2026-10-20T05:50:54.282755915Z",
+  "timestamp": "2026-10-20T12:17:07.170999985Z",
   "model": "glm-5.3"
 }

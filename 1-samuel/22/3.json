@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Moabo karaliui",
-      "rationale": "Davido kreipimasis su prašymu priimti tėvus"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "pažodžiui 'su jumis' — išlaikomas ⟨את⟩ ženklelis, prielinksniui priderinta laisva sintaksė"
-    }
-  ],
-  "translation": "Ir nuėjo Davidas iš ten į Moabo Micpę, ir tarė Moabo karaliui: Tegu mano tėvas ir mano motina ⟨את⟩ pas jus, kol sužinosiu, ką Elohim padarys man.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/22\/1-4.1792477662775.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas nuėjo iš ten į Micpo-Moabo ⟨vietą⟩ ir tarė Moabo karaliui: Išeikite, prašau, mano tėvas ir mano mama, ⟨את⟩ būkite su jumis, kol sužinosiu, ką Elohim padarys man.",
   "tokens": [
     {
       "surface": "וילך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מצפה",
-      "gloss": "į Micpę"
+      "gloss": "į Micpą"
     },
     {
       "surface": "מואב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "gloss": " "
+      "gloss": ""
     },
     {
       "surface": "מלך",
@@ -65,8 +44,8 @@
       "gloss": "Moabo"
     },
     {
-      "surface": "י צא",
-      "gloss": "tegu išeina"
+      "surface": "יצא",
+      "gloss": "išeikite"
     },
     {
       "surface": "נא",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "ואמי",
-      "gloss": "ir mano motina"
+      "gloss": "ir mano mama"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ su jumis"
     },
     {
       "surface": "עד",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": " "
+      "gloss": ""
     },
     {
       "surface": "אדע",
@@ -113,6 +92,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-20T06:27:42.778496598Z",
+  "timestamp": "2026-10-20T12:08:50.520411723Z",
   "model": "glm-5.3"
 }

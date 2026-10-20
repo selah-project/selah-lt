@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תריעו \/ הריעו \/ והריעתם",
-      "rationale": "tą pačią šaknį רוע tris kartus — uždraustas ir galiausiai įsakyas riksmas; lietuviškai išlaikyta 'rėkti'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jehošua tautai",
-      "rationale": "tiesioginis įsakymas tautai: nebylumo draudimas iki nurodyto momento"
-    }
-  ],
-  "translation": "Ir ⟨את⟩ tautą įsakė Jehošua sakydamas: nerėkite ir neleiskite garsiai skambėti savo balsui, ir neišeis iš jūsų burnų nė žodis, iki dienos, kai jums pasakysiu: rėkite! — tada jūs rėksite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/9-12.1792475719402.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ tautą Yehoshua įsakė, sakydamas: nericėkite ir neleiskite girdėti ⟨את⟩ savo balso, ir neišeis iš jūsų burnos nė žodis, iki dienos, kai aš jums pasakysiu: rikite! — tada suriksite.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tautą"
     },
     {
@@ -43,7 +22,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošua"
+      "gloss": "Yehoshua"
     },
     {
       "surface": "לאמר",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "תריעו",
-      "gloss": "rėksite"
+      "gloss": "nė riktelėsite"
     },
     {
       "surface": "ולא",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "תשמיעו",
-      "gloss": "leisite garsiai skambėti"
+      "gloss": "neleisite girdėti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo balsą"
+      "marks": "savo balso"
     },
     {
       "surface": "קולכם",
-      "gloss": "savo balsą"
+      "gloss": "savo balso"
     },
     {
       "surface": "ולא",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "מפיכם",
-      "gloss": "iš jūsų burnų"
+      "gloss": "iš jūsų burnos"
     },
     {
       "surface": "דבר",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "אמרי",
-      "gloss": "kai sakysiu"
+      "gloss": "aš pasakysiu"
     },
     {
       "surface": "אליכם",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "הריעו",
-      "gloss": "rėkite"
+      "gloss": "rikite!"
     },
     {
       "surface": "והריעתם",
-      "gloss": "tada jūs rėksite"
+      "gloss": "tada suriksite"
     }
   ],
-  "timestamp": "2026-10-20T05:55:19.406370111Z",
+  "timestamp": "2026-10-20T12:35:21.746885893Z",
   "model": "glm-5.3"
 }

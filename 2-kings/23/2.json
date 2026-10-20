@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "jų ausims",
-      "rationale": "Hebrajų idiomą 'skelbti ausyse' lietuviškai reiškia 'skaityti garsiai visiems girdint'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "public reading",
-      "rationale": "Karaliaus viešas sandoros knygos skaitymas sušaukia visą tautą — veiksmas, kreipiantis į visus."
-    }
-  ],
-  "translation": "Ir karalius užlipo į Jahvės namą, ir visi Jehudos vyrai bei visi Jerušalaimo gyventojai ⟨su juo⟩, ir kunigai, ir pranašai, ir visa tauta nuo mažo iki didelio; ir jis skaitė jų ausims ⟨את⟩ visus sandoros knygos, rastos Jahvės namuose, žodžius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7921ae9ccd06a74b3fb2508331a18fb512dc07fafbf1eca7eea7c32a9636a3b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/1-4.1792480480692.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius užlipo į Jahvės namus, ir visi Jėhudos vyrai bei visi Jerušalaimo gyventojai ⟨את⟩ su juo, ir kunigai, ir pranašai, ir visa tauta — nuo mažo iki didelio; ir jis perskaitė jų ausims ⟨את⟩ visus sandoros knygos, rastos Jahvės namuose, žodžius.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "namą"
+      "gloss": "namus"
     },
     {
       "surface": "יהוה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudos"
+      "gloss": "Jėhudos"
     },
     {
       "surface": "וכל",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ir skaitė balsu"
+      "gloss": "ir perskaitė"
     },
     {
       "surface": "באזניהם",
@@ -111,7 +90,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus žodžius"
+      "marks": "visus sandoros knygos žodžius"
     },
     {
       "surface": "כל",
@@ -142,6 +121,6 @@
       "gloss": "Jahvės"
     }
   ],
-  "timestamp": "2026-10-20T07:14:40.693990588Z",
+  "timestamp": "2026-10-20T12:12:37.071932064Z",
   "model": "glm-5.3"
 }

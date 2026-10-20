@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אלכה לי",
-      "rationale": "״eisiu sau״ — hebrajiškas pažyminys sau, lietuvių nekeičia prasmės"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על \/ מוסרות",
-      "rationale": "jungas ir pančiai — vergijos ir drausmės vaizdas, sulaužytas drauge kaip maištas"
-    }
-  ],
-  "translation": "Eisiu pas didžiuosius ir kalbėsiu su jais, nes jie pažįsta Jahvės kelią, savo Elohim teismą; bet jie visi kartu sulaužė jungą, nuplėšė pančius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/5\/5-8.1792482258727.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eisiu aš pas didžiuosius ir kalbėsiu ⟨את⟩ jiems, nes jie pažįsta Jahvės kelią, savo Elohim teismą; bet jie visi drauge sulaužė jungą ir nutraukė pančius.",
   "tokens": [
     {
       "surface": "אלכה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "⟨man⟩"
+      "gloss": "aš"
     },
     {
       "surface": "אל",
@@ -50,8 +29,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "su jų ⟨את⟩",
-      "marks": "didieji"
+      "gloss": "⟨את⟩",
+      "marks": "jiems"
     },
     {
       "surface": "כי",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "יחדו",
-      "gloss": "visi kartu"
+      "gloss": "visi drauge"
     },
     {
       "surface": "שברו",
@@ -103,13 +82,13 @@
     },
     {
       "surface": "נתקו",
-      "gloss": "nuplėšė"
+      "gloss": "nutraukė"
     },
     {
       "surface": "מוסרות",
       "gloss": "pančius"
     }
   ],
-  "timestamp": "2026-10-20T07:44:18.729067389Z",
+  "timestamp": "2026-10-20T12:32:32.615981664Z",
   "model": "glm-5.3"
 }

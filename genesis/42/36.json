@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jaakovas to his sons",
-      "rationale": "Tiesioginis kreipimasis į sūnus su priekaištu."
-    },
-    {
-      "kind": "crux",
-      "subject": "היו כלנה",
-      "rationale": "'visa tai mane užgulė' — hebrajiškai 'visos jos buvo ant manęs': ką reiškia 'ant' — 'prieš mane' ar 'užgulė mane', vertėjų diskutuojama."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bevaikiu",
-      "rationale": "שכל — patirti vaikų netekimą; 'padarėte bevaikiu' vietoj kruopščios 'atėmėte iš manęs vaikus'."
-    }
-  ],
-  "translation": "Ir tarė jiems Jaakovas, jų tėvas: Mane jūs padarėte bevaikiu — Josefo nėra, ir Šimono nėra, o ⟨את⟩ Binyaminą paimsitate; visa tai mane užgulė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/33-36.1792471929749.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė jiems jų tėvas Jaakovas: Mane ⟨את⟩ jūs apiplėšėte vaikų — Jozefo nėra, ir Šimono nėra, o Binyamino ⟨את⟩ norite iš manęs paimti; visa tai užgriuvo mane.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,15 +25,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mane"
+      "gloss": "⟨את⟩ Mane",
+      "marks": "Mane"
     },
     {
       "surface": "שכלתם",
-      "gloss": "padarėte bevaikiu"
+      "gloss": "apiplėšėte vaikų"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefas"
+      "gloss": "Jozefo"
     },
     {
       "surface": "איננו",
@@ -76,29 +51,29 @@
     {
       "surface": "ואת",
       "gloss": "o ⟨את⟩",
-      "marks": "Binyaminą"
+      "marks": "Binyamino"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyaminą"
+      "gloss": "Binyamino"
     },
     {
       "surface": "תקחו",
-      "gloss": "paimsitate"
+      "gloss": "norite paimti"
     },
     {
       "surface": "עלי",
-      "gloss": "mane"
+      "gloss": "iš manęs"
     },
     {
       "surface": "היו",
-      "gloss": "yra"
+      "gloss": "užgriuvo"
     },
     {
       "surface": "כלנה",
       "gloss": "visa tai"
     }
   ],
-  "timestamp": "2026-10-20T04:52:09.751918357Z",
+  "timestamp": "2026-10-20T12:26:37.869993343Z",
   "model": "glm-5.3"
 }

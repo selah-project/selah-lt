@@ -5,56 +5,35 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tekintysis",
-      "rationale": "הַזָּב — dalyvinė forma „tas, kuris teka“; lietuvių dalyvis „tekintysis“ išlaiko tą paveikslą"
-    },
-    {
-      "kind": "elision",
-      "subject": "עליו",
-      "rationale": "prielinksnis įlietas į lietuvišką santykinį „ant kurio“"
-    }
-  ],
-  "translation": "Kiekvienas guolis, ant kurio gulasi tekintysis, bus nešvarus, ir kiekvienas daiktas, ant kurio jis sėdi, bus nešvarus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/1-4.1792473440944.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kiekviena lova, ant kurios guli⟨tai⟩, kuris turi ištekėjimą, bus nešvari, ir kiekvienas daiktas, ant kurio jis sėdės, bus nešvarus.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Kiekvienas"
+      "gloss": "kiekviena"
     },
     {
       "surface": "המשכב",
-      "gloss": "guolis"
+      "gloss": "lova"
     },
     {
       "surface": "אשר",
-      "gloss": "ant kurio"
+      "gloss": "ant kurios"
     },
     {
       "surface": "ישכב",
-      "gloss": "gulasi"
+      "gloss": "guli"
     },
     {
       "surface": "עליו",
-      "gloss": ""
+      "gloss": "ant jos"
     },
     {
       "surface": "הזב",
-      "gloss": "tekintysis"
+      "gloss": "tai, kuris turi ištekėjimą"
     },
     {
       "surface": "יטמא",
-      "gloss": "bus nešvarus"
+      "gloss": "bus nešvari"
     },
     {
       "surface": "וכל",
@@ -70,17 +49,17 @@
     },
     {
       "surface": "ישב",
-      "gloss": "jis sėdi"
+      "gloss": "sėdės"
     },
     {
       "surface": "עליו",
-      "gloss": ""
+      "gloss": "ant jo"
     },
     {
       "surface": "יטמא",
       "gloss": "bus nešvarus"
     }
   ],
-  "timestamp": "2026-10-20T05:17:20.947089442Z",
+  "timestamp": "2026-10-20T12:38:23.499422104Z",
   "model": "glm-5.3"
 }

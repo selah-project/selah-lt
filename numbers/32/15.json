@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pražudysite",
-      "rationale": "Hebrajų ושחתם 'sugadinsite\/sužlugdysite' — pražudysite yra pasekmė, ne pažodinis vaizdas."
-    },
-    {
-      "kind": "alternative",
-      "subject": "להניחו",
-      "rationale": "Galima 'paliksi jį' (Jisraelį) vietoje 'paliks juos' — sufikso objektas dviprasmis."
-    }
-  ],
-  "translation": "Jei atsigręšite nuo jo ⟨savo veidu⟩, jis dar kartą paliks ⟨juos⟩ dykumoje, ir jūs pražudysite visą šitą tautą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a69f441f1e8ad518205c66b18daa656d75d7ec50ec4651fc88af0af37686d52f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/32\/13-16.1792474663682.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei atsigręšite nuo paskui jį, jis dar kartą paliks jį dykumoje, ir jūs pražudysite visą šitą tautą.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Jei"
+      "gloss": "jei"
     },
     {
       "surface": "תשובן",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "מאחריו",
-      "gloss": "nuo jo"
+      "gloss": "nuo paskui jį"
     },
     {
       "surface": "ויסף",
-      "gloss": "jis dar kartą"
+      "gloss": "dar pridės"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "kartą"
     },
     {
       "surface": "להניחו",
-      "gloss": "paliks"
+      "gloss": "paliks jį"
     },
     {
       "surface": "במדבר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ושחתם",
-      "gloss": "ir jūs pražudysite"
+      "gloss": "ir pražudysite"
     },
     {
       "surface": "לכל",
@@ -73,6 +52,6 @@
       "gloss": "šitą"
     }
   ],
-  "timestamp": "2026-10-20T05:37:43.684023360Z",
+  "timestamp": "2026-10-20T12:41:51.111168937Z",
   "model": "glm-5.3"
 }

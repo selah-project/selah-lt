@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "אל",
-      "rationale": "Žodis „savo“ pridėtas, nes אישה su אל reiškia „savo vyrui“ — įvardis reikalingas lietuvių kalboje."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אישה \/ איש אלהים",
-      "rationale": "אישה (vyras-jos, t. y. jos vyras) skamba kaip איש (vyras) — moters žodžiai apie savo vyrą ir apie Dievo vyrą."
-    }
-  ],
-  "translation": "Ir ji tarė savo vyrui: Štai jau žinau, kad šis — šventas Elohim žmogus, kuris praeina pro mus nuolat.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/4\/9-12.1792479748802.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ji tarė savo vyrui: Žiūrėk, jau žinau, kad tai šventas Elohim žmogus, kuris praeina pro mus nuolat.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "Ir ji tarė"
+      "gloss": "ir ji tarė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "savo"
     },
     {
       "surface": "אישה",
-      "gloss": "savo vyrui"
+      "gloss": "vyrui"
     },
     {
       "surface": "הנה",
-      "gloss": "Štai"
+      "gloss": "Žiūrėk"
     },
     {
       "surface": "נא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "šis"
+      "gloss": "tai ⟨yra⟩"
     },
     {
       "surface": "עבר",
@@ -85,6 +64,6 @@
       "gloss": "nuolat"
     }
   ],
-  "timestamp": "2026-10-20T07:02:28.803628658Z",
+  "timestamp": "2026-10-20T12:12:54.703632890Z",
   "model": "glm-5.3"
 }

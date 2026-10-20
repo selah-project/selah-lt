@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פשה תפשה",
-      "rationale": "Infinity + infinitivo su priešdėliu derinys 'išplito — tikrai išplito': akcentuojantis kartojimas, lietuviškai išlyginta į vieną veiksmažodį."
-    },
-    {
-      "kind": "measurement",
-      "subject": "septintąją dieną",
-      "rationale": "Pakartotinio patikrinimo diena — nustatytas laikas."
-    }
-  ],
-  "translation": "Ir kunigas pamatys jį septintąją dieną: jei ji išplito odoje, tai kunigas paskelbs jį nešvariu — negá caraat tai yra.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cd63a8ca935c7da5b1eaa4bb278bc3dddf288d17b0b43f95ca180a35e8d8403c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/25-28.1792473408896.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigas apžiūrės jį septintąją dieną; jei ⟨tai⟩ smarkiai išplinta odoje, kunigas paskelbs jį nešvariu ⟨את⟩: negą — caraat ⟨tai yra⟩.",
   "tokens": [
     {
       "surface": "וראהו",
-      "gloss": "ir pamatys jį"
+      "gloss": "ir apžiūrės jį"
     },
     {
       "surface": "הכהן",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "išplito"
+      "gloss": "smarkiai išplinta"
     },
     {
       "surface": "תפשה",
-      "gloss": "išplito"
+      "gloss": "išplinta"
     },
     {
       "surface": "בעור",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "ir paskelbs nešvariu"
+      "gloss": "paskelbs nešvariu"
     },
     {
       "surface": "הכהן",
@@ -71,11 +50,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį"
+      "marks": "negą"
     },
     {
       "surface": "נגע",
-      "gloss": "negá"
+      "gloss": "negą"
     },
     {
       "surface": "צרעת",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tai yra"
+      "gloss": "⟨tai yra⟩"
     }
   ],
-  "timestamp": "2026-10-20T05:16:48.898407785Z",
+  "timestamp": "2026-10-20T12:37:35.001543567Z",
   "model": "glm-5.3"
 }

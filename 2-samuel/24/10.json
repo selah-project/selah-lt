@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "širdis kirto Davidą",
-      "rationale": "Hebrajų idiomą ויך לב דוד אתו — „ir širdis kirto Davidą jį“ — lietuvių kalboje reiškia per sąžinės priekaištą."
-    },
-    {
-      "kind": "you",
-      "subject": "Davidas",
-      "rationale": "Tiesioginis maldos kreipimasis į Jahvę."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav su galūne ו — išlaikomas kaip „jį“ žymeklis."
-    }
-  ],
-  "translation": "Ir širdis kirto Davidą, po to kai jis suskaičiavo ⟨את⟩ tautą; ir Davidas tarė Jahvei: labai nusidėjau dėl to, ką padariau; o dabar, Jahve, prašau, atitolink ⟨את⟩ savo tarno kaltę, nes elgiausi labai kvailai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/9-12.1792478741536.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davido širdis smogė ⟨את⟩ jam, kai jis suskaičiavo ⟨את⟩ tautą; ir Davidas tarė Jahvei: Labai nusidėjau dėl to, ką padariau; ir dabar, Jahve, prašau, atitolink ⟨את⟩ kaltę savo tarno, nes labai paskurdau protu.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "ir kirto"
+      "gloss": "ir smogė"
     },
     {
       "surface": "לב",
@@ -43,12 +17,12 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidą"
+      "gloss": "Davidas"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ jį",
-      "marks": "אחרי"
+      "marks": "jį"
     },
     {
       "surface": "אחרי",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jahvei"
     },
     {
       "surface": "יהוה",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "dėl to, ką"
+      "gloss": "ką"
     },
     {
       "surface": "עשיתי",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "o dabar"
+      "gloss": "ir dabar"
     },
     {
       "surface": "יהוה",
@@ -122,7 +96,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo tarno kaltę"
+      "marks": "kaltę"
     },
     {
       "surface": "עון",
@@ -138,13 +112,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "elgiausi kvailai"
+      "gloss": "paskurdau protu"
     },
     {
       "surface": "מאד",
       "gloss": "labai"
     }
   ],
-  "timestamp": "2026-10-20T06:45:41.538427297Z",
+  "timestamp": "2026-10-20T12:14:19.966114671Z",
   "model": "glm-5.3"
 }

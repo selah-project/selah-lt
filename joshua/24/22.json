@@ -5,57 +5,31 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בכם",
-      "rationale": "„prieš save“ arba „savo atžvilgiu“ — liudininkai patys prieš save; LXX ir kai kurie verčiai palieka be prielinksnio „jūs esate liudininkai“"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨esate⟩",
-      "rationale": "hebrajiškame翘sakinėje nėra veiksmažodžio „būti“"
-    },
-    {
-      "kind": "you",
-      "subject": "tautai",
-      "rationale": "Jehošua tiesiogiai kreipiasi į Izraelio tautą"
-    }
-  ],
-  "translation": "Ir Jehošua tarė tautai: Liudininkai jūs ⟨esate⟩ prieš save, kad jūs išsirinkote sau ⟨את⟩ Jahvę, ⟨את⟩ jam tarnauti. Ir jie tarė: Liudininkai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/24\/21-24.1792476250760.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jozuė tarė ⟨į⟩ tautą: Jūs esate liudytojai prieš save, nes jūs pasirinkote sau ⟨את⟩ Jahvę, kad jam tarnautumėte. Ir jie tarė: Liudytojai ⟨esame⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošua"
+      "gloss": "Jozuė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨į⟩"
     },
     {
       "surface": "העם",
-      "gloss": "tautai"
+      "gloss": "tautą"
     },
     {
       "surface": "עדים",
-      "gloss": "liudininkai"
+      "gloss": "liudytojai"
     },
     {
       "surface": "אתם",
-      "gloss": "jūs"
+      "gloss": "jūs esate"
     },
     {
       "surface": "בכם",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kad"
+      "gloss": "nes"
     },
     {
       "surface": "אתם",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "בחרתם",
-      "gloss": "išsirinkote"
+      "gloss": "pasirinkote"
     },
     {
       "surface": "לכם",
-      "gloss": "se"
+      "gloss": "sau"
     },
     {
       "surface": "את",
@@ -88,21 +62,22 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "tarnauti"
+      "gloss": "kad tarnautumėte"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ jam"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį — Jahvę, tarnavimo objektą"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ir jie tarė"
+      "gloss": "Ir jie tarė"
     },
     {
       "surface": "עדים",
-      "gloss": "liudininkai"
+      "gloss": "Liudytojai"
     }
   ],
-  "timestamp": "2026-10-20T06:04:10.762904148Z",
+  "timestamp": "2026-10-20T12:35:06.550721069Z",
   "model": "glm-5.3"
 }

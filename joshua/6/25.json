@@ -5,46 +5,25 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jehošua",
-      "rationale": "Prisiekimo ir ataskaitos kontekstas adresuojamas Izraeliui per Jehošuą."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pasiuntinius",
-      "rationale": "המלאכים čia — žmonės-siuntiniai, ne dangiškosios būtybės."
-    }
-  ],
-  "translation": "Ir ⟨את⟩ Rachabę, ištvirkėlę, ir ⟨את⟩ jos tėvo namus, ir ⟨את⟩ viską, kas jai priklausė, Jehošua paliko gyvą; ir ji gyveno Jisraelio viduryje iki šios dienos, nes ji paslėpė pasiuntinius, kuriuos Jehošua buvo išsiuntęs šnipinėti Jerichą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a6a6485352707eee21d69188f1a0c9587a947c41684df6ed5ad0047e2f9e8dd1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/6\/25-27.1792475793136.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O ⟨את⟩ Rahabą paleistuve ir ⟨את⟩ jos tėvo namus, ir ⟨את⟩ viską, kas jai priklausė, Jehošua paliko gyvus; ir ji gyvena Jisraelio viduryje iki šios dienos, nes ji paslėpė pasiuntinius, kuriuos Jehošua buvo pasiuntęs išžvalgyti ⟨את⟩ Jerichą.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "Rachabę"
+      "gloss": "⟨את⟩",
+      "marks": "Rahabą"
     },
     {
       "surface": "רחב",
-      "gloss": "Rachabę"
+      "gloss": "Rahabą"
     },
     {
       "surface": "הזונה",
-      "gloss": "ištvirkėlę"
+      "gloss": "paleistuve"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "namus"
+      "gloss": "⟨את⟩",
+      "marks": "jos tėvo namus"
     },
     {
       "surface": "בית",
@@ -56,8 +35,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "viską"
+      "gloss": "⟨את⟩",
+      "marks": "viską, kas jai priklausė"
     },
     {
       "surface": "כל",
@@ -69,11 +48,11 @@
     },
     {
       "surface": "לה",
-      "gloss": "jai"
+      "gloss": "jai priklausė"
     },
     {
       "surface": "החיה",
-      "gloss": "paliko gyvą"
+      "gloss": "paliko gyvus"
     },
     {
       "surface": "יהושע",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "ותשב",
-      "gloss": "ir ji gyveno"
+      "gloss": "ir ji gyvena"
     },
     {
       "surface": "בקרב",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "buvo išsiuntęs"
+      "gloss": "buvo pasiuntęs"
     },
     {
       "surface": "יהושע",
@@ -134,7 +113,7 @@
     },
     {
       "surface": "לרגל",
-      "gloss": "šnipinėti"
+      "gloss": "išžvalgyti"
     },
     {
       "surface": "את",
@@ -146,6 +125,6 @@
       "gloss": "Jerichą"
     }
   ],
-  "timestamp": "2026-10-20T05:56:33.144019706Z",
+  "timestamp": "2026-10-20T12:35:49.649317250Z",
   "model": "glm-5.3"
 }

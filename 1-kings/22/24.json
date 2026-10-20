@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אי זה",
-      "rationale": "Pažodžiui 'kur — šis?'; lietuviškai išskleista į 'kur, kuriuo keliu'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruach",
-      "rationale": "רוח išlaikytas kaip ruach — D2 taisyklė."
-    }
-  ],
-  "translation": "Ir prisiartino Cidkijahu, Kenaanos sūnus, ir sudavė Michejahu ⟨את⟩ per skruostą, ir tarė: Kur, ⟨kuriuo keliu⟩, praėjo Jahvės ruach nuo manęs, kad kalbėtų ⟨את⟩ su tavimi?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e2f327823bf68f5ccf51c5ee885339f4404fd0ea69b2de88e2f1f681a343bc6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/21-24.1792479675987.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Cidkijahu, Kenaanos sūnus, prisiartino ir smogė ⟨את⟩ Michajui per skruostą, ir tarė: Kur, šitas, perėjo Jahvės ruach ⟨את⟩ iš manęs, kad kalbėtų ⟨את⟩ su tavimi?",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "Ir prisiartino"
+      "gloss": "ir prisiartino"
     },
     {
       "surface": "צדקיהו",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "ir sudavė"
+      "gloss": "ir smogė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Michejahu"
+      "marks": "Michajų"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Michejahu"
+      "gloss": "Michajui"
     },
     {
       "surface": "על",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "אי",
-      "gloss": "Kur"
+      "gloss": "kur"
     },
     {
       "surface": "זה",
-      "gloss": "⟨kuriuo keliu⟩"
+      "gloss": "šitas"
     },
     {
       "surface": "עבר",
-      "gloss": "praėjo"
+      "gloss": "perėjo"
     },
     {
       "surface": "רוח",
@@ -91,7 +70,8 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "nuo manęs ⟨את⟩"
+      "gloss": "⟨את⟩ iš manęs",
+      "marks": "iš manęs — את šįkart yra prielinksnis „iš“"
     },
     {
       "surface": "לדבר",
@@ -99,9 +79,10 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ su tavimi"
+      "gloss": "⟨את⟩ su tavimi",
+      "marks": "su tavimi"
     }
   ],
-  "timestamp": "2026-10-20T07:01:15.989830159Z",
+  "timestamp": "2026-10-20T12:07:10.777352317Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jėhu laiškas Šomerono diduomenei",
-      "rationale": "Tiesioginis kreipimasis į laiško gavėjus — kunigaikščius ir vyresniuosius"
-    },
-    {
-      "kind": "crux",
-      "subject": "ואתכם",
-      "rationale": "Čia את ne tiesioginis objekto žymuo, o prielinksnis „su“ (H854); KJV „seeing… are with you“ vs YLT laiko „and with you“"
-    }
-  ],
-  "translation": "O dabar, kai šis laiškas ateis pas jus — ir ⟨su⟩ jumis yra jūsų pono sūnūs, ir ⟨su⟩ jumis yra karo vežimai bei žirgai, ir įtvirtintas miestas bei ginklai:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/1-4.1792479932530.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dabar, vos šis laiškas ateis pas jus — ir su jumis ⟨yra⟩ jūsų pono sūnūs, ir su jumis ⟨yra⟩ vežimai ir žirgai, ir įtvirtintas miestas, ir ginklai —",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "O dabar"
+      "gloss": "Ir dabar"
     },
     {
       "surface": "כבא",
-      "gloss": "kai ateis"
+      "gloss": "vos ateis"
     },
     {
       "surface": "הספר",
-      "gloss": "šis laiškas"
+      "gloss": "laiškas"
     },
     {
       "surface": "הזה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "ir ⟨את⟩ su jumis",
+      "gloss": "⟨את⟩ ir su jumis",
       "marks": "jūsų pono sūnūs"
     },
     {
@@ -63,12 +42,12 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "ir ⟨את⟩ su jumis",
-      "marks": "karo vežimai ir žirgai"
+      "gloss": "⟨את⟩ ir su jumis",
+      "marks": "vežimai ir žirgai"
     },
     {
       "surface": "הרכב",
-      "gloss": "karo vežimai"
+      "gloss": "vežimai"
     },
     {
       "surface": "והסוסים",
@@ -87,6 +66,6 @@
       "gloss": "ir ginklai"
     }
   ],
-  "timestamp": "2026-10-20T07:05:32.532177971Z",
+  "timestamp": "2026-10-20T12:11:32.194435630Z",
   "model": "glm-5.3"
 }

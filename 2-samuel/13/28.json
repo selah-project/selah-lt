@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "jaunuoliai",
-      "rationale": "visas eilutė — Avšalomo įsakymas tarnams, imperatyvų grandinė: žiūrėkite, smogite, užmuškite, nebijokite, būkite stiprūs."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בני חיל",
-      "rationale": "pažodžiui 'valios\/jėgos sūnūs' — 'vyrai valios' išlaiko hebrajišką sandarą."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "retorinio klausimo dalelytė 'הלוא כי' neturi atskiro lietuviško atitikmens."
-    }
-  ],
-  "translation": "Ir įsakė Avšalomas ⟨את⟩ savo jaunuoliams, sakydamas: žiūrėkite, kai Amnonui palinks širdis nuo vyno, ir aš jums pasakysiu: smogite ⟨את⟩ Amnonui, ir užmuškite ⟨אתו⟩ jį. Nebijokite! Ar ne aš įsakiau jums? Būkite stiprūs ir būkite vyrai valios.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/13\/25-28.1792478241207.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Avšalomas įsakė ⟨את⟩ savo jauniesiems tarnams, sakydamas: Žiūrėkite, kai Amnono širdis linksminsis su vynu, ir aš jums pasakysiu: Smogite ⟨את⟩ Amnonui ir užmuškite ⟨את⟩ jį. Nebijokite — argi ne aš jums įsakiau? Būkite stiprūs ir būkite vyrai narsūs.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo jaunuoliams"
+      "marks": "savo tarnams"
     },
     {
       "surface": "נעריו",
-      "gloss": "savo jaunuoliams"
+      "gloss": "savo jauniesiems tarnams"
     },
     {
       "surface": "לאמר",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "dabar"
     },
     {
       "surface": "כטוב",
-      "gloss": "kai palinks"
+      "gloss": "kai linksminsis"
     },
     {
       "surface": "לב",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnonui"
+      "gloss": "Amnono"
     },
     {
       "surface": "ביין",
-      "gloss": "nuo vyno"
+      "gloss": "su vynu"
     },
     {
       "surface": "ואמרתי",
@@ -93,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amnonui"
+      "marks": "Amnoną"
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnonas"
+      "gloss": "Amnoną"
     },
     {
       "surface": "והמתם",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "jį"
     },
     {
@@ -118,11 +92,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "ar ne"
+      "gloss": "argi ne"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "kadangi"
     },
     {
       "surface": "אנכי",
@@ -150,9 +124,9 @@
     },
     {
       "surface": "חיל",
-      "gloss": "valios"
+      "gloss": "narsūs"
     }
   ],
-  "timestamp": "2026-10-20T06:37:21.210950970Z",
+  "timestamp": "2026-10-20T12:14:00.474592984Z",
   "model": "glm-5.3"
 }

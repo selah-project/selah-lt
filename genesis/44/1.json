@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta kopula lietuvių kalbai"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sidabrą",
-      "rationale": "כסף reiškia ir sidabrą, ir pinigus; laikomasi pažodinio 'sidabras'"
-    }
-  ],
-  "translation": "Ir jis įsakė ⟨את⟩ tam, kuris ⟨buvo⟩ jo namų viršininkas, sakydamas: Pripildyk vyrų maišus maistu, kiek jie gali nešti, ir įdėk kiekvieno sidabrą į jo maišo angą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/44\/1-4.1792471973437.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis įsakė ⟨את⟩ tam, kuris ⟨yra⟩ virš jo namų, sakydamas: Pripildyk ⟨את⟩ vyrų maišus maistu, kiek jie gali nešti, ir padėk kiekvieno sidabrą prie jo maišo angos.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tam, kuris buvo jo namų viršininkas"
+      "marks": "tam, kuris yra virš jo namų"
     },
     {
       "surface": "אשר",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "ושים",
-      "gloss": "ir įdėk"
+      "gloss": "ir padėk"
     },
     {
       "surface": "כסף",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "בפי",
-      "gloss": "į angą"
+      "gloss": "prie ... angos"
     },
     {
       "surface": "אמתחתו",
       "gloss": "jo maišo"
     }
   ],
-  "timestamp": "2026-10-20T04:52:53.438621284Z",
+  "timestamp": "2026-10-20T12:26:48.865321443Z",
   "model": "glm-5.3"
 }

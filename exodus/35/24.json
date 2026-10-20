@@ -5,35 +5,19 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תרומת \/ מרים",
-      "rationale": "abu žodžiai reiškia 'kelti' — auka keliama aukštyn, kartojamas vaizdas"
-    }
-  ],
-  "translation": "Visi, kurie kėlė sidabro ir vario aukojamos dovanos auką, atnešė ⟨את⟩ Jahvės aukojamą dovaną; ir visi, pas kuriuos buvo rasta akacijos medienos bet kokiam tarnybos darbui, — atnešė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/35\/21-24.1792472974668.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kiekvienas, pakėlęs auką iš sidabro ir vario, atnešė ⟨את⟩ auką Jahvei; ir kiekvienas, pas kurį buvo rasta šitim medžio bet kokiam tarnystės darbui, atnešė ⟨את⟩ jį.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "visi"
+      "gloss": "kiekvienas"
     },
     {
       "surface": "מרים",
-      "gloss": "kurie kėlė"
+      "gloss": "pakėlęs"
     },
     {
       "surface": "תרומת",
-      "gloss": "aukojamos dovanos"
+      "gloss": "auką"
     },
     {
       "surface": "כסף",
@@ -50,23 +34,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvės aukojamą dovaną"
+      "marks": "auką"
     },
     {
       "surface": "תרומת",
-      "gloss": "aukojamą dovaną"
+      "gloss": "auką"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvės"
+      "gloss": "Jahvei"
     },
     {
       "surface": "וכל",
-      "gloss": "ir visi"
+      "gloss": "ir kiekvienas"
     },
     {
       "surface": "אשר",
-      "gloss": "pas kuriuos"
+      "gloss": "kuris"
     },
     {
       "surface": "נמצא",
@@ -74,16 +58,15 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "pas juos"
+      "gloss": "⟨את⟩ su juo"
     },
     {
       "surface": "עצי",
-      "gloss": "medienos"
+      "gloss": "medžio"
     },
     {
       "surface": "שטים",
-      "gloss": "akacijos"
+      "gloss": "šitim"
     },
     {
       "surface": "לכל",
@@ -95,13 +78,13 @@
     },
     {
       "surface": "העבדה",
-      "gloss": "tarnybos"
+      "gloss": "tarnystės"
     },
     {
       "surface": "הביאו",
       "gloss": "atnešė"
     }
   ],
-  "timestamp": "2026-10-20T05:09:34.673861205Z",
+  "timestamp": "2026-10-20T12:20:03.982627028Z",
   "model": "glm-5.3"
 }

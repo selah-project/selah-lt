@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שרף",
-      "rationale": "'serafas' — deginanti gyvatė; 21,9 tas pats žodis tampa 'žalvarinė' (נחש נחושת), žodžio garsų žaismas"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נחש\/נחושת",
-      "rationale": "21,9 gyvatė\/žalvaris paronomazija — čia dar tik שרף"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "Jahvės paliepimas Mošei — imperatyvas 'pasidaryk'"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Mošei: Pasidaryk sau serafą ir uždėk ⟨את⟩ jį ant vėliavos stiebo, ir bus: kiekvienas įkirstas, pamatęs jį, gyvens.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "974bebcc9ae6c61854be7cea6eabdf8c3e39e2ac1182f605aed4ef5efd6015b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/21\/5-8.1792474409282.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: Pasidaryk sau serafą ir padėk ⟨את⟩ jį ant ženklo; ir bus, kiekvienas įgeltas, pamatęs ⟨את⟩ jį, gyvens.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "Mošei"
+      "gloss": "—"
     },
     {
       "surface": "משה",
-      "gloss": "Mošė"
+      "gloss": "Mošei"
     },
     {
       "surface": "עשה",
-      "gloss": "pasidaryk"
+      "gloss": "Pasidaryk"
     },
     {
       "surface": "לך",
@@ -59,16 +33,16 @@
     },
     {
       "surface": "שרף",
-      "gloss": "serafas"
+      "gloss": "serafą"
     },
     {
       "surface": "ושים",
-      "gloss": "ir uždėk"
+      "gloss": "ir padėk"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "serafą"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "על",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "נס",
-      "gloss": "vėliavos stiebo"
+      "gloss": "ženklo"
     },
     {
       "surface": "והיה",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "הנשוך",
-      "gloss": "įkirstas"
+      "gloss": "įgeltas"
     },
     {
       "surface": "וראה",
@@ -96,14 +70,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "serafą"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "וחי",
       "gloss": "gyvens"
     }
   ],
-  "timestamp": "2026-10-20T05:33:29.287848774Z",
+  "timestamp": "2026-10-20T12:41:00.993553280Z",
   "model": "glm-5.3"
 }

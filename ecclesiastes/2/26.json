@@ -5,37 +5,11 @@
   "book": "ecclesiastes",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Eloheim⟩",
-      "rationale": "Sakinio veiksnys netiesiogiai pridėtas, eilutėje nėra נתן be veiksnio, tik kontekstas parodo, kad duoda Dievas."
-    },
-    {
-      "kind": "hapax",
-      "subject": "ענין",
-      "rationale": "Žodis ענין „užsiėmimas, rūpestis“ Tanache beveik vien tik Mokytuvo knygoje."
-    },
-    {
-      "kind": "substitution",
-      "subject": "havel ir rūpestis vėju",
-      "rationale": "הבל — „kvapas, tuštuma“ — rašomas pagal skambesį; רעות רוח pažodžiui „ganymasis vėjo“."
-    }
-  ],
-  "translation": "Nes žmogui, kuris geras Jo akyse, ⟨Elohim⟩ davė ⟨את⟩ išmintį ir ⟨את⟩ pažinimą bei ⟨את⟩ džiaugsmą; o nusidėjėliui davė užsiėmimą — rinkti ir kaupti, kad atiduotų tam, kuris geras Elohim akyse. Ir tai — havel ir gaudymasis po vėju.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/2\/25-26.1792491174798.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes žmogui, kuris geras Jo akyse, ⟨yra⟩ duota išmintis, pažinimas ir džiaugsmas; o nusidėjėliui ⟨yra⟩ duota vargas — rinkti ir kaupti, kad atiduotų tam, kas geras Elohim akivaizdoje. Ir tai — havelas ir vėjo ganymas ⟨ruach⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Nes"
+      "gloss": "nes"
     },
     {
       "surface": "לאדם",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "נתן",
-      "gloss": "davė"
+      "gloss": "duota"
     },
     {
       "surface": "חכמה",
-      "gloss": "⟨את⟩ išmintį"
+      "gloss": "išmintis"
     },
     {
       "surface": "ודעת",
-      "gloss": "ir ⟨את⟩ pažinimą"
+      "gloss": "ir pažinimas"
     },
     {
       "surface": "ושמחה",
-      "gloss": "bei ⟨את⟩ džiaugsmą"
+      "gloss": "ir džiaugsmas"
     },
     {
       "surface": "ולחוטא",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "נתן",
-      "gloss": "davė"
+      "gloss": "duota"
     },
     {
       "surface": "ענין",
-      "gloss": "užsiėmimą"
+      "gloss": "vargas"
     },
     {
       "surface": "לאסוף",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "לטוב",
-      "gloss": "tam, kuris geras"
+      "gloss": "tam, kas geras"
     },
     {
       "surface": "לפני",
-      "gloss": "akyse"
+      "gloss": "akivaizdoje"
     },
     {
       "surface": "האלהים",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "Ir"
+      "gloss": "ir"
     },
     {
       "surface": "זה",
@@ -111,17 +85,17 @@
     },
     {
       "surface": "הבל",
-      "gloss": "havel"
+      "gloss": "havelas"
     },
     {
       "surface": "ורעות",
-      "gloss": "ir gaudymasis"
+      "gloss": "ir ganymas"
     },
     {
       "surface": "רוח",
-      "gloss": "po vėju"
+      "gloss": "vėjo ⟨ruach⟩"
     }
   ],
-  "timestamp": "2026-10-20T10:12:54.798793364Z",
+  "timestamp": "2026-10-20T12:17:43.907629761Z",
   "model": "glm-5.3"
 }

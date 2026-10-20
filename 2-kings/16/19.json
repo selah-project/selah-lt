@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nėra",
-      "rationale": "Hebrajų neiginys הלא su klausimu lietuvių kalboje reikalauja „nėra“"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Prielinksnis „ant“ tirpsta lietuviškame locative „knygoje“"
-    }
-  ],
-  "translation": "O likusieji Achazo darbai, kuriuos jis padarė, — argi jie nėra užrašyti dienų darbų knygoje Jūdos karaliams?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a5cc649ff12461568591e7b1c8d6e1868461dac114d3a43ed9d460bf9604a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/17-20.1792480292297.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O likęs Achazo reikalas, kurį jis padarė, ar jie ⟨nėra⟩ užrašyti knygoje Jisraelio karalių dienų žodžių, Jūdos karalių?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "O likusieji"
+      "gloss": "o likęs"
     },
     {
       "surface": "דברי",
-      "gloss": "darbai"
+      "gloss": "reikalas"
     },
     {
       "surface": "אחז",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurį"
     },
     {
       "surface": "עשה",
-      "gloss": "jis padarė"
+      "gloss": "padarė"
     },
     {
       "surface": "הלא",
-      "gloss": "argi"
+      "gloss": "ar"
     },
     {
       "surface": "הם",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "nėra užrašyti"
+      "gloss": "užrašyti"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "ספר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "darbų"
+      "gloss": "žodžių"
     },
     {
       "surface": "הימים",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "למלכי",
-      "gloss": "karaliams"
+      "gloss": "karalių"
     },
     {
       "surface": "יהודה",
       "gloss": "Jūdos"
     }
   ],
-  "timestamp": "2026-10-20T07:11:32.298968276Z",
+  "timestamp": "2026-10-20T12:44:45.686462730Z",
   "model": "glm-5.3"
 }

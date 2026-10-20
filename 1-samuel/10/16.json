@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הגד הגיד",
-      "rationale": "Infinite absolutus — „tikrai pasakė, aiškiai pasakė“; perdėtas tvirtinimas, iš dalies prarastas."
-    },
-    {
-      "kind": "secret",
-      "subject": "karalystės reikalas",
-      "rationale": "Šaulis tyli apie patepimą karaliumi — didelė paslaptis nuslėpta."
-    }
-  ],
-  "translation": "Ir Šaulis tarė savo dėdei: Aiškiai pasakė mums, kad asilos rastos. O ⟨apie⟩ karalystės ⟨את⟩ reikalą, kurį kalbėjo Šmuelis, — to jam nepasakė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/10\/13-16.1792477149468.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šaulis tarė savo dėdei: Jis aiškiai mums pasakė, kad asilės rastos, o ⟨את⟩ reikalo karalystės, kurį tarė Šmuelis, jis jam nepasakė.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "שאול",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "דודו",
       "gloss": "savo dėdei"
     },
     {
+      "surface": "דודו",
+      "gloss": "dėdei"
+    },
+    {
       "surface": "הגד",
-      "gloss": "aiškiai"
+      "gloss": "aiškiai pasakė"
     },
     {
       "surface": "הגיד",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "האתנות",
-      "gloss": "asilos"
+      "gloss": "asilės"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "karalystės reikalą"
+      "marks": "reikalo karalystės"
     },
     {
       "surface": "דבר",
-      "gloss": "reikalą"
+      "gloss": "reikalo"
     },
     {
       "surface": "המלוכה",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kalbėjo"
+      "gloss": "tarė"
     },
     {
       "surface": "שמואל",
       "gloss": "Šmuelis"
     }
   ],
-  "timestamp": "2026-10-20T06:19:09.471275981Z",
+  "timestamp": "2026-10-20T12:07:16.771889071Z",
   "model": "glm-5.3"
 }

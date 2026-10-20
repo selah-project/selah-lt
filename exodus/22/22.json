@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ענה תענה \/ צעק יצעק \/ שמע אשמע",
-      "rationale": "Triguba infinitivo absoliuto konstrukcija — „skriausti skriausiant, šaukti šauksiant, išgirsti išgirsiąs” — lietuviškai perteikta pabrėžiančiu kartojimu."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Jungtukas כי אם 'nes jei' sulietas į vieną 'jei', kad nesidvejintų sąlyga."
-    }
-  ],
-  "translation": "Jei skriausi jį — jei šauks, jis šauks pas mane, išgirsiu, aš tikrai išgirsiu jo šauksmą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/22\/21-24.1792472647020.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei skriausi tikrai skriausi ⟨את⟩ jį, jeigu jis šauks — šauks manęs, išgirsiu — išgirsiu jo šauksmą.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "ענה",
-      "gloss": "skriausi"
+      "gloss": "tikrai skriausti"
     },
     {
       "surface": "תענה",
-      "gloss": "jį"
+      "gloss": "skriausi"
     },
     {
       "surface": "אתו",
@@ -47,23 +26,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "jeigu tik"
     },
     {
       "surface": "אם",
-      "gloss": "jei"
+      "gloss": "tik"
     },
     {
       "surface": "צעק",
       "gloss": "šauks"
     },
     {
-      "surface": "יצעעק",
-      "gloss": "jis šauks"
+      "surface": "יצעק",
+      "gloss": "šauks"
     },
     {
       "surface": "אלי",
-      "gloss": "pas mane"
+      "gloss": "manęs"
     },
     {
       "surface": "שמע",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "אשמע",
-      "gloss": "aš tikrai išgirsiu"
+      "gloss": "išgirsiu"
     },
     {
       "surface": "צעקתו",
       "gloss": "jo šauksmą"
     }
   ],
-  "timestamp": "2026-10-20T05:04:07.023826347Z",
+  "timestamp": "2026-10-20T12:19:19.414821744Z",
   "model": "glm-5.3"
 }

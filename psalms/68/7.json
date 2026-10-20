@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 68,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צחיחה",
-      "rationale": "Žodis צחיחה (išdžiūvusi vietovė) Tanache randamas tik šioje vietoje."
-    },
-    {
-      "kind": "crux",
-      "subject": "בכושרות",
-      "rationale": "Daugiskaita „כושרות“ reiškia „prosperatą \/ laisvę“ — vertimai svyruoja tarp „į laisvę“ ir „su dainomis“ (iš כשר)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "vienšiems į namus",
-      "rationale": "ביתה gali reikšti ir „į namus \/ šeimas“ (KJV „in families“), ir „į buvimą namuose“ — pasirinkta pažodinė reikšmė „namuose“."
-    }
-  ],
-  "translation": "Elohim apgyvendina vienišuosius namuose, išveda kalinius į laisvę, bet nepaklusnieji gyvens išdžiūvusioje žemėje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/68\/5-8.1792488275477.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim apgyvendina vienišuosius namuose, išveda kalinius ⟨į⟩ gerovę, bet tik maištautojai gyvena išdžiūvusioje ⟨žemėje⟩.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -55,29 +29,29 @@
     },
     {
       "surface": "אסירים",
-      "gloss": "kaliniai"
+      "gloss": "kalinius"
     },
     {
       "surface": "בכושרות",
-      "gloss": "į laisvę"
+      "gloss": "į gerovę"
     },
     {
       "surface": "אך",
-      "gloss": "bet"
+      "gloss": "bet tik"
     },
     {
-      "surface": "סוררim",
-      "gloss": "nepaklusnieji"
+      "surface": "סוררים",
+      "gloss": "maištautojai"
     },
     {
       "surface": "שכנו",
-      "gloss": "gyvens"
+      "gloss": "gyvena"
     },
     {
       "surface": "צחיחה",
-      "gloss": "išdžiūvusioje žemėje"
+      "gloss": "išdžiūvusioje"
     }
   ],
-  "timestamp": "2026-10-20T09:24:35.478788Z",
+  "timestamp": "2026-10-20T12:43:52.883135989Z",
   "model": "glm-5.3"
 }

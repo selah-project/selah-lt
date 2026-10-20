@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ולא ראיתי",
-      "rationale": "Hebrew negation and verb rendered as one unit 'nemačiau'; split across two tokens"
-    },
-    {
-      "kind": "substitution",
-      "subject": "duona",
-      "rationale": "לחם yra 'duona' kartu ir 'maistas' — čia apima visą kasdieninį maistą"
-    }
-  ],
-  "translation": "Jaunas buvau, ir ⟨taip pat⟩ pasenau, ir nemačiau teisiojo apleisto, nei jo sėklos ieškančios duonos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/25-28.1792487909138.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Buvau jaunas, taip pat pasenau, ir nemačiau teisiojo ⟨את⟩ apleisto, nė jo sėklos duonos ieškančios.",
   "tokens": [
     {
       "surface": "נער",
-      "gloss": "Jaunas"
+      "gloss": "jaunas"
     },
     {
       "surface": "הייתי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "גם",
-      "gloss": "⟨taip pat⟩"
+      "gloss": "taip pat"
     },
     {
       "surface": "זקנתי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": ""
+      "gloss": "mačiau"
     },
     {
       "surface": "צדיק",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "נעזב",
-      "gloss": "apleisto"
+      "gloss": "apleistas"
     },
     {
       "surface": "וזרעו",
-      "gloss": "nei jo sėklos"
+      "gloss": "jo sėklos"
     },
     {
       "surface": "מבקש",
@@ -73,6 +52,6 @@
       "gloss": "duonos"
     }
   ],
-  "timestamp": "2026-10-20T09:18:29.139046379Z",
+  "timestamp": "2026-10-20T12:43:21.127576237Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨taps⟩",
-      "rationale": "Hebrajų היתה 'taps' kartu su ל — 'ji tautoms'; veiksmažodis išreikštas žodžiu, lietuvių kalbai reikia šnervės 'taps'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וברכתי ... וברכתיה",
-      "rationale": "Palaiminimas kartojamas du kartus — retorinis pabrėžimas."
-    }
-  ],
-  "translation": "Ir ją palaiminsiu, ir taip pat duosiu tau iš jos sūnų; ir ją palaiminsiu, ir ji tautų ⟨taps⟩ — tautų karaliai iš jos kils.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/17\/13-16.1792471266401.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir palaiminsiu ⟨את⟩ ją, ir taip pat duosiu tau iš jos sūnų; ir aš ją palaiminsiu, ir ji taps tautomis — tautų karaliai iš jos bus.",
   "tokens": [
     {
       "surface": "וברכתי",
@@ -35,7 +14,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (Sarą)"
     },
     {
       "surface": "וגם",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "וברכתיה",
-      "gloss": "ir ją palaiminsiu"
+      "gloss": "ir palaiminsiu ją"
     },
     {
       "surface": "והיתה",
-      "gloss": "ir taps"
+      "gloss": "ir ji taps"
     },
     {
       "surface": "לגוים",
-      "gloss": "tautų"
+      "gloss": "tautomis"
     },
     {
       "surface": "מלכי",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "kils"
+      "gloss": "bus"
     }
   ],
-  "timestamp": "2026-10-20T04:41:06.404857136Z",
+  "timestamp": "2026-10-20T12:24:24.148779118Z",
   "model": "glm-5.3"
 }

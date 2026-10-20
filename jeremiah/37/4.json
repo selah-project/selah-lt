@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בא ויצא",
-      "rationale": "„eidavo ⟨vidun⟩ ir laukan“ — hebrajiškas ėjimo į vidų ir išėjimo porų junginys reiškia laisvą judėjimą tarp žmonių."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בית הכליא",
-      "rationale": "„kalėjimo namai“ — žodis בית išlaikytas, o ne sulietas į vieną žodį „kalėjimas“."
-    }
-  ],
-  "translation": "Ir Jirmejahu eidavo ⟨vidun⟩ ir laukan tarp žmonių, ir jo dar nebuvo įmetę į kalėjimo namus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "696216b146a56e8f7ae503e0d58deb0929d5b0e290572e44099b32b2f533e0de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/37\/4-4.1792494074751.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jirmejahu ateidavo ir išeidavo tautos viduryje, ir jie dar nebuvo įmetę ⟨את⟩ jo į kalėjimo namus.",
   "tokens": [
     {
       "surface": "וירמיהו",
@@ -34,23 +13,23 @@
     },
     {
       "surface": "בא",
-      "gloss": "eidavo vidun"
+      "gloss": "ateidavo"
     },
     {
       "surface": "ויצא",
-      "gloss": "ir laukan"
+      "gloss": "ir išeidavo"
     },
     {
       "surface": "בתוך",
-      "gloss": "tarp"
+      "gloss": "viduryje"
     },
     {
       "surface": "העם",
-      "gloss": "žmonių"
+      "gloss": "tautos"
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir dar ne"
     },
     {
       "surface": "נתנו",
@@ -58,8 +37,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "į kalėjimo namus"
+      "gloss": "⟨את⟩",
+      "marks": "jo"
     },
     {
       "surface": "בית",
@@ -70,6 +49,6 @@
       "gloss": "kalėjimo"
     }
   ],
-  "timestamp": "2026-10-20T11:01:14.751991725Z",
+  "timestamp": "2026-10-20T12:30:59.573509921Z",
   "model": "glm-5.3"
 }

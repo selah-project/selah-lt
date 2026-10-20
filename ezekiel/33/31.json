@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עגבים",
-      "rationale": "Reiškia meilės (kūniškos) žodžius: 'meilės žodžius' (JPS\/BSB) prieš Genevos 'juokavo'; pasirinkta pažodinė reikšmė."
-    }
-  ],
-  "translation": "Ir jie ateis pas tave kaip ateina tauta, ir sėdės priešais tave — mano tauta, ir girdės ⟨את⟩ tavo žodžius, bet jų nedarys, nes meilės žodžius jie daro savo burna, o jų širdis eina paskui jų neteisėtą pelną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/33\/29-32.1792484683745.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie ateina pas tave, kaip ateina žmonės, ir sėdi tavo akivaizdoje — mano tauta, ir girdi ⟨את⟩ tavo žodžius, bet ⟨את⟩ jų jie nedaro, nes meilės-žodžius lūpomis jie daro, o jų širdis eina paskui jų nesąžiningą pelną.",
   "tokens": [
     {
       "surface": "ויבואו",
-      "gloss": "ir jie ateis"
+      "gloss": "ir jie ateina"
     },
     {
       "surface": "אליך",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "כמבוא",
-      "gloss": "kaip ateina"
+      "gloss": "kaip atėjimas"
     },
     {
       "surface": "עם",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ir sėdės"
+      "gloss": "ir sėdi"
     },
     {
       "surface": "לפניך",
-      "gloss": "priešais tave"
+      "gloss": "tavo akivaizdoje"
     },
     {
       "surface": "עמי",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "ושמעו",
-      "gloss": "ir girdės"
+      "gloss": "ir girdi"
     },
     {
       "surface": "את",
@@ -66,7 +50,8 @@
     },
     {
       "surface": "ואותם",
-      "gloss": "⟨את⟩ bet juos"
+      "gloss": "ir ⟨את⟩ juos",
+      "marks": "juos (žodžius)"
     },
     {
       "surface": "לא",
@@ -74,7 +59,7 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "darys"
+      "gloss": "jie daro"
     },
     {
       "surface": "כי",
@@ -82,11 +67,11 @@
     },
     {
       "surface": "עגבים",
-      "gloss": "meilės žodžius"
+      "gloss": "meilės-žodžius"
     },
     {
       "surface": "בפיהם",
-      "gloss": "savo burna"
+      "gloss": "lūpomis"
     },
     {
       "surface": "המה",
@@ -94,7 +79,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "daro"
+      "gloss": "jie daro"
     },
     {
       "surface": "אחרי",
@@ -102,7 +87,7 @@
     },
     {
       "surface": "בצעם",
-      "gloss": "jų neteisėtą pelną"
+      "gloss": "jų nesąžiningą pelną"
     },
     {
       "surface": "לבם",
@@ -113,6 +98,6 @@
       "gloss": "eina"
     }
   ],
-  "timestamp": "2026-10-20T08:24:43.746998518Z",
+  "timestamp": "2026-10-20T12:22:27.109954962Z",
   "model": "glm-5.3"
 }

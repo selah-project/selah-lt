@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "Jahvė kalba tiesiogiai Mošei"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשיא אחד ליום",
-      "rationale": "pažodžiui kartojama du kartus — 'vienas vadas per dieną, vienas vadas per dieną'"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Mošei: vienas vadų per dieną, vienas vadų per dieną — jie pristatys ⟨את⟩ savo aukojimą aukuro pašventinimui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/9-12.1792473979510.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: po vieną vadą per dieną, po vieną vadą per dieną — jie pridės ⟨את⟩ savo auką altoriaus pašventinimui.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "משה",
       "gloss": "Mošei"
     },
     {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
       "surface": "נשיא",
-      "gloss": "vadas"
+      "gloss": "vadą"
     },
     {
       "surface": "אחד",
-      "gloss": "vienas"
+      "gloss": "vieną"
     },
     {
       "surface": "ליום",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "vadas"
+      "gloss": "vadą"
     },
     {
       "surface": "אחד",
-      "gloss": "vienas"
+      "gloss": "vieną"
     },
     {
       "surface": "ליום",
@@ -70,16 +49,16 @@
     },
     {
       "surface": "יקריבו",
-      "gloss": "jie pristatys"
+      "gloss": "jie pridės"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo aukojimą"
+      "marks": "savo auką"
     },
     {
       "surface": "קרבנם",
-      "gloss": "savo aukojimą"
+      "gloss": "savo auką"
     },
     {
       "surface": "לחנכת",
@@ -87,9 +66,9 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "aukuro"
+      "gloss": "altoriaus"
     }
   ],
-  "timestamp": "2026-10-20T05:26:19.512025643Z",
+  "timestamp": "2026-10-20T12:42:17.659140719Z",
   "model": "glm-5.3"
 }

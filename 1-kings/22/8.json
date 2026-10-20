@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מאתו",
-      "rationale": "Priebalsinis aleph-tav (מ + אתו) glose „per jį“ — jungtinė forma, markeris neatskiriamas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טוב \/ רע",
-      "rationale": "Gera–bloga priešprieša kartojasi per visą 22 skyrių; lietuvių išlaiko porą „gera \/ bloga“."
-    },
-    {
-      "kind": "crux",
-      "subject": "שנאתיו",
-      "rationale": "Karalius „nekenčia“ pranašo už žinią, ne už asmenį — hebrajiškas שנא čia apie tai, ką pranašas sako."
-    }
-  ],
-  "translation": "Ir Jisraelio karalius tarė Jehošafatui: Yra dar vienas vyras, per kurį galima pasiteirauti ⟨את⟩ Jahvės, o aš jį nekenčiu, nes jis nepranašauja man gera, o tik bloga — Michejas, Jimlos sūnus. Ir Jehošafatas tarė: Tegu karalius taip nesako.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/22\/5-8.1792479670829.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelio karalius tarė Jehošafatui: Yra dar vienas vyras, per kurį galima klausti Jahvės, bet aš jį nekenčiu, nes jis nepranašauja man gera, o tik bloga — Michaachas, Jimlos sūnus. O Jehošafatas tarė: Tegul karalius taip nesako.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "מלך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehošafatui"
+      "gloss": "Jehošafatą"
     },
     {
       "surface": "עוד",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "vienas vyras"
+      "gloss": "vyras"
     },
     {
       "surface": "אחד",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לדרש",
-      "gloss": "pasiteirauti"
+      "gloss": "klausti"
     },
     {
       "surface": "את",
@@ -80,7 +54,8 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ per jį"
+      "gloss": "per ⟨את⟩ jį",
+      "marks": "per jį (vyras)"
     },
     {
       "surface": "ואני",
@@ -124,7 +99,7 @@
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Michejas"
+      "gloss": "Michaachas"
     },
     {
       "surface": "בן",
@@ -136,7 +111,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "יהושפט",
@@ -144,11 +119,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Tegu ... nesako"
+      "gloss": "tegu ne"
     },
     {
       "surface": "יאמר",
-      "gloss": "nesako"
+      "gloss": "sako"
     },
     {
       "surface": "המלך",
@@ -159,6 +134,6 @@
       "gloss": "taip"
     }
   ],
-  "timestamp": "2026-10-20T07:01:10.833720871Z",
+  "timestamp": "2026-10-20T12:07:02.349452159Z",
   "model": "glm-5.3"
 }

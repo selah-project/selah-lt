@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ביד",
-      "rationale": "„per ranką“ — hebrajiškas idiomatas „per ranką X“ lietuvių kalboje trumpinamas į „per X“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויפגע",
-      "rationale": "Pažodžiui „smogė\/atsitrenkė į jį“ — eufemizmas užmušti."
-    }
-  ],
-  "translation": "Ir karalius Šelomas pasiuntė per Benają, Jehojados sūnų, ir jis puolė ⟨את⟩ jį, ir jis mirė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b5214810363284f83c04fc9d0eeb1a94acc59dcea7eb9e9ae870a4c5ba566b38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/25-28.1792478862061.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius Šlomo pasiuntė per ranką Benajahu, Jehojados sūnų, ir šis jį puolė, ir jis mirė.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "pasiuntė"
+      "gloss": "Ir pasiuntė"
     },
     {
       "surface": "המלך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomas"
+      "gloss": "Šlomo"
     },
     {
       "surface": "ביד",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בניהו",
-      "gloss": "Benają"
+      "gloss": "Benajahu"
     },
     {
       "surface": "בן",
@@ -58,17 +37,17 @@
     },
     {
       "surface": "ויפגע",
-      "gloss": "puolė"
+      "gloss": "ir puolė"
     },
     {
       "surface": "בו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "jį"
     },
     {
       "surface": "וימת",
       "gloss": "ir jis mirė"
     }
   ],
-  "timestamp": "2026-10-20T06:47:42.062287872Z",
+  "timestamp": "2026-10-20T12:06:38.324079007Z",
   "model": "glm-5.3"
 }

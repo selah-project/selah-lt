@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio „būti“ šioje vietoje — lietuvių sakinys reikalauja."
-    },
-    {
-      "kind": "measurement",
-      "subject": "septyniolikos metų",
-      "rationale": "Tikslus amžiaus skaičius — Josefui septyniolika metų."
-    },
-    {
-      "kind": "substitution",
-      "subject": "blogą šneką",
-      "rationale": "דבה retas žodis — šnekėjimas už nugaros, paskalos; „piktą pranešimą“."
-    }
-  ],
-  "translation": "Šitos ⟨yra⟩ Jaakovo giminės istorijos. Josefas, septyniolikos metų sūnus, buvo ganytojas su savo broliais ⟨את⟩ kaimenėje; o jis, vaikas, buvo su Bilhos sūnumis ir su Zilpos sūnumis, savo tėvo žmonomis; ir Josefas atnešdavo jų blogą šneką jų tėvui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "72b6973ed3bb683749f37a9efc5286c33fb0be434f30b0084174ae02a374dd18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/37\/1-4.1792471786339.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Štai Jaakovo giminės istorija. Jozefas, septyniolikos metų sūnus, ganydavo ⟨את⟩ savo brolius avimis — o jis buvo vaikas su Bilhos sūnumis ir su Zilpos sūnumis, savo tėvo žmonomis; ir Jozefas atnešė ⟨את⟩ jų blogą žinią jų tėvui.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Šitos"
+      "gloss": "Štai"
     },
     {
       "surface": "תלדות",
-      "gloss": "giminės istorijos"
+      "gloss": "giminės istorija"
     },
     {
       "surface": "יעקב",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefas"
+      "gloss": "Jozefas"
     },
     {
       "surface": "בן",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "שבע",
-      "gloss": "septyni"
+      "gloss": "septyniolika"
     },
     {
       "surface": "עשרה",
-      "gloss": "dešimt"
+      "gloss": "—"
     },
     {
       "surface": "שנה",
@@ -71,20 +45,20 @@
     },
     {
       "surface": "רעה",
-      "gloss": "ganytojas"
+      "gloss": "ganydavo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaimenėje"
+      "marks": "savo brolius"
     },
     {
       "surface": "אחיו",
-      "gloss": "su savo broliais"
+      "gloss": "savo brolius"
     },
     {
       "surface": "בצאן",
-      "gloss": "kaimenėje"
+      "gloss": "avimis"
     },
     {
       "surface": "והוא",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ su",
+      "gloss": "⟨את⟩ ⟨su⟩",
       "marks": "Bilhos sūnumis"
     },
     {
@@ -109,7 +83,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir su ⟨את⟩",
+      "gloss": "⟨את⟩ ir ⟨su⟩",
       "marks": "Zilpos sūnumis"
     },
     {
@@ -130,24 +104,24 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "ir atnešdavo"
+      "gloss": "atnešė"
     },
     {
       "surface": "יוסף",
-      "gloss": "Josefas"
+      "gloss": "Jozefas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jų blogą šneką"
+      "marks": "jų blogą žinią"
     },
     {
       "surface": "דבתם",
-      "gloss": "jų blogą šneką"
+      "gloss": "jų blogą žinią"
     },
     {
       "surface": "רעה",
-      "gloss": "piktą"
+      "gloss": "blogą"
     },
     {
       "surface": "אל",
@@ -158,6 +132,6 @@
       "gloss": "jų tėvą"
     }
   ],
-  "timestamp": "2026-10-20T04:49:46.342075607Z",
+  "timestamp": "2026-10-20T12:25:46.766194365Z",
   "model": "glm-5.3"
 }

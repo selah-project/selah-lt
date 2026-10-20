@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gyvybės",
-      "rationale": "נפשות yra 'kvėpuojančios būtybės' — gerklė, gyvybės jėga, ne siela plačiąja prasme."
-    },
-    {
-      "kind": "crux",
-      "subject": "parems",
-      "rationale": "יעשה אותו... במלחמה pažodžiui 'padarys jį kare' — verčiamos 'parems\/jam padės kare'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "דיק",
-      "rationale": "דייק 'apgulties bokštas' — retas žodis, siejamas su Ezek 21, 27; tiksli militaristinė prasmė."
-    }
-  ],
-  "translation": "Ir ne dideliu kariniu pulku ir ne gausiu būriu Parohas jį parems kare, pylę pylant ir apgulties bokštams statant, kad būtų išnaikintos daug gyvybių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "be0978ccc929a9c28b4ba27c5d5ae05661c75d4b0020e6ff57555d033de0f734",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/17\/17-20.1792484124281.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ne jėga didele ir ne minia gausia Parohas ⟨את⟩ jį parems karo metu, pilant pylimą ir statant apgulties bokštą, kad būtų išnaikintos daug gyvybių.",
   "tokens": [
     {
       "surface": "ולא",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "בחיל",
-      "gloss": "kariniu pulku"
+      "gloss": "jėga"
     },
     {
       "surface": "גדול",
-      "gloss": "dideliu"
+      "gloss": "didele"
     },
     {
       "surface": "ובקהל",
-      "gloss": "ir gausiu būriu"
+      "gloss": "ir minia"
     },
     {
       "surface": "רב",
-      "gloss": "gausiu"
+      "gloss": "gausia"
     },
     {
       "surface": "יעשה",
@@ -60,7 +34,7 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "jį (Parohas jam) — tiesioginis objektas: jį"
+      "marks": "jį — Zedekiją, kurį Parohas rems"
     },
     {
       "surface": "פרעה",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "kare"
+      "gloss": "karo metu"
     },
     {
       "surface": "בשפך",
-      "gloss": "pylant"
+      "gloss": "pilant"
     },
     {
       "surface": "סללה",
-      "gloss": "pylę"
+      "gloss": "pylimą"
     },
     {
       "surface": "ובבנות",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "דיק",
-      "gloss": "apgulties bokštus"
+      "gloss": "apgulties bokštą"
     },
     {
       "surface": "להכרית",
@@ -99,6 +73,6 @@
       "gloss": "daug"
     }
   ],
-  "timestamp": "2026-10-20T08:15:24.282701480Z",
+  "timestamp": "2026-10-20T12:21:31.489470946Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חמה \/ חרב",
-      "rationale": "pykčio taurė (חמה) v. 15 veda į kalaviją (חרב) v. 16 — skambesių artimumas sąmoningas"
-    },
-    {
-      "kind": "you",
-      "subject": "Jeremijui",
-      "rationale": "Jahvė tiesiogiai kreipiasi į pranašą imperatyvu „Imk“"
-    }
-  ],
-  "translation": "Nes taip sako Jahvė, Jisraelio Elohim, man: Imk iš mano rankos šitą pykčio vyno taurę ir duok išgerti ⟨את⟩ ją visoms tautoms, pas kurias aš ⟨את⟩ tave siunčiu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/25\/13-16.1792482795943.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes taip sako Jahvė, Jisraelio Elohim, man: Imk ⟨את⟩ šią vyno taurę, įniršio taurę, iš mano rankos, ir duok išgerti iš jos visoms tautoms, pas kurias aš tave siunčiu.",
   "tokens": [
     {
       "surface": "כי",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "קח",
-      "gloss": "Imk"
+      "gloss": "imk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pykčio vyno taurę"
+      "marks": "šią vyno taurę, įniršio taurę"
     },
     {
       "surface": "כוס",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "החמה",
-      "gloss": "pykčio"
+      "gloss": "įniršio"
     },
     {
       "surface": "הזאת",
-      "gloss": "šitą"
+      "gloss": "šią"
     },
     {
       "surface": "מידי",
@@ -92,7 +71,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (tautoms)"
     },
     {
       "surface": "את",
@@ -121,13 +100,14 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tave"
+      "gloss": "⟨את⟩ tave",
+      "marks": "tave"
     },
     {
       "surface": "אליהם",
       "gloss": "pas jas"
     }
   ],
-  "timestamp": "2026-10-20T07:53:15.945559189Z",
+  "timestamp": "2026-10-20T12:30:15.361462642Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nebent",
-      "rationale": "כי אם po neiginio — 'nebent', lietuviui reikia vieno žodio dviejų hebrajiškų vietai"
-    },
-    {
-      "kind": "addition",
-      "subject": "mano",
-      "rationale": "פני — 'veidas' su asmeniniu įvardžiu, hebrajiškas šablonas 'matyti veidą'"
-    },
-    {
-      "kind": "you",
-      "subject": "Dovydas Abneriui",
-      "rationale": "tiesioginis kreipimasis, reikalavimo sąlyga"
-    }
-  ],
-  "translation": "Ir jis tarė: Gerai, aš sudarysiu ⟨את⟩ su tavimi sandorą, tik vieno dalyko aš prašau ⟨את⟩ iš tavęs, sakydamas: Nematysi mano veido, nebent pirma atvesi ⟨את⟩ Mikalę, Šauliaus dukterią, eidamas pamatyti mano veido.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/3\/13-16.1792477979511.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis tarė: Gerai, aš sukirsiu su tavimi sandorą, tik vieno dalyko aš prašau iš tavęs, sakydamas: nematysi mano veido, jei tik pirma neatvesi Mikal, Šaulo dukters, kai ateisi pamatyti mano veidą.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "sudarysiu"
+      "gloss": "sukirsiu"
     },
     {
       "surface": "אתך",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "מאתך",
-      "gloss": "⟨את⟩ iš tavęs"
+      "gloss": "iš ⟨את⟩ tavęs"
     },
     {
       "surface": "לאמר",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "Ne"
+      "gloss": "ne"
     },
     {
       "surface": "תראה",
@@ -96,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano veido"
+      "marks": "mano veidas"
     },
     {
       "surface": "פני",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "nebent"
+      "gloss": "jei"
     },
     {
       "surface": "אם",
-      "gloss": "nebent"
+      "gloss": "tik"
     },
     {
       "surface": "לפני",
@@ -121,23 +95,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mikalę"
+      "marks": "Mikal, Šaulo dukteris"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikalę"
+      "gloss": "Mikal"
     },
     {
       "surface": "בת",
-      "gloss": "dukterią"
+      "gloss": "dukterį"
     },
     {
       "surface": "שאול",
-      "gloss": "Šauliaus"
+      "gloss": "Šaulo"
     },
     {
       "surface": "בבאך",
-      "gloss": "eidamas"
+      "gloss": "ateisi"
     },
     {
       "surface": "לראות",
@@ -146,13 +120,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano veido"
+      "marks": "mano veidas"
     },
     {
       "surface": "פני",
-      "gloss": "veido"
+      "gloss": "veidą"
     }
   ],
-  "timestamp": "2026-10-20T06:32:59.513123383Z",
+  "timestamp": "2026-10-20T12:14:47.492471954Z",
   "model": "glm-5.3"
 }

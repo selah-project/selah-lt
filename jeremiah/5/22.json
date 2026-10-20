@@ -5,38 +5,12 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Judah",
-      "rationale": "Retsykiais užduodami klausimai tiesiogiai kreipiasi į tautą per pranašą."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויתגעשו",
-      "rationale": "'Drumsčiuojasi \/ smarkiai maišosi': veiksmažodis reiškia laukinį, audringą jūros judesį — 'toss themselves' (KJV), 'rage' (Geneva)."
-    },
-    {
-      "kind": "addition",
-      "subject": "jos bangos",
-      "rationale": "גליו 'bangos' — suliejus su והמו 'ir dunda', kad lietuvių sakinys turėtų veikėją; sudvigubinta."
-    }
-  ],
-  "translation": "Ar ⟨את⟩ manęs nebijote, — sako Jahvė, — ar nuo mano veido nedrebate, aš, kuris padėjau smėlį jūrai riba, amžiną įstatą, kurio ji neperžengs? Bangos drumsčiuojasi ir negali, jos bangos dunda ir jo neperžengia.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "33849a71e9b907a3c297de41cd83adee06e2098a861d8eae5a94678ac65ab46e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/5\/21-24.1792482330045.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ar ⟨את⟩ manęs nebijote? — sako Jahvė. Ar nuo mano veido nedrebėsite? ⟨Esu tas⟩, kuris padėjau smėlį jūrai kaip ribą, amžinu įsaku, kurio ji neperžengs; bangos jos teškiasi, bet negali, jos bangos riaumoja, bet jo neperžengia.",
   "tokens": [
     {
       "surface": "האותי",
-      "gloss": "⟨את⟩ manęs",
-      "marks": "manęs"
+      "gloss": "⟨את⟩",
+      "marks": "manęs — klausiamasis 'ar' su אותֹי: ar MANĘS"
     },
     {
       "surface": "לא",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "תחילו",
-      "gloss": "drebate"
+      "gloss": "drebėsite"
     },
     {
       "surface": "אשר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "גבול",
-      "gloss": "riba"
+      "gloss": "kaip ribą"
     },
     {
       "surface": "לים",
@@ -92,39 +66,11 @@
     },
     {
       "surface": "חק",
-      "gloss": "įstatą"
+      "gloss": "įsaku"
     },
     {
       "surface": "עולם",
-      "gloss": "amžiną"
-    },
-    {
-      "surface": "ולא",
-      "gloss": "ne"
-    },
-    {
-      "surface": "יעברנהו",
-      "gloss": "peržengs"
-    },
-    {
-      "surface": "ויתגעשו",
-      "gloss": "ir drumsčiuojasi"
-    },
-    {
-      "surface": "ולא",
-      "gloss": "ir negali"
-    },
-    {
-      "surface": "יוכלו",
-      "gloss": ""
-    },
-    {
-      "surface": "והמו",
-      "gloss": "ir dunda"
-    },
-    {
-      "surface": "גליו",
-      "gloss": "jos bangos"
+      "gloss": "amžinu"
     },
     {
       "surface": "ולא",
@@ -132,9 +78,37 @@
     },
     {
       "surface": "יעברנהו",
-      "gloss": "peržengia"
+      "gloss": "ji peržengs jį"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "jos bangos teškiasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "gali"
+    },
+    {
+      "surface": "והמו",
+      "gloss": "riaumoja"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "jos bangos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bet ne"
+    },
+    {
+      "surface": "יעברנהו",
+      "gloss": "peržengia jį"
     }
   ],
-  "timestamp": "2026-10-20T07:45:30.047736720Z",
+  "timestamp": "2026-10-20T12:32:59.048261257Z",
   "model": "glm-5.3"
 }

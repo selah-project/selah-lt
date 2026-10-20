@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מטעמים",
-      "rationale": "ליט. „skanėstai“ — išplėsta į „patiekalai\/skanėstai“, vieno žodžio atitikmuo „delikatesas“ skambėtų svetimai."
-    },
-    {
-      "kind": "substitution",
-      "subject": "גדיי עזים",
-      "rationale": "Hebrajiškai „ožkų jaunikliai“ — vaikų Gdedayas; įprastas „ėriukas“ netinka, nes čia ožkos jauniklis."
-    }
-  ],
-  "translation": "Eik, prašau, pas kaimenę ir paimk man iš ten du gerus ožkos ėriukus — ožiukus, — ir aš iš jų padarysiu patiekalų tavo tėvui, tokių, kokių jis mėgsta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/27\/9-12.1792471544004.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eik dabar pas kaimenę ir paimk man iš ten du gerus ožkos ėriukus — ožiukus, — ir aš iš jų padarysiu skanėstų tavo tėvui, tokių, kokių jis mėgsta.",
   "tokens": [
     {
       "surface": "לך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "prašau"
+      "gloss": "dabar"
     },
     {
       "surface": "אל",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "גדיי",
-      "gloss": "ožkos jauniklius"
+      "gloss": "ožkos ėriukus"
     },
     {
       "surface": "עזים",
-      "gloss": "ožkų"
+      "gloss": "ožiukus"
     },
     {
       "surface": "טבים",
@@ -74,15 +53,15 @@
     },
     {
       "surface": "ואעשה",
-      "gloss": "ir padarysiu"
+      "gloss": "ir aš padarysiu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "juos (ožkos jauniklius)"
+      "gloss": "⟨את⟩",
+      "marks": "skanėstų — ožiukai, iš kurių gaminama"
     },
     {
-      "surface": "מטעmamים",
+      "surface": "מטעמים",
       "gloss": "skanėstų"
     },
     {
@@ -91,13 +70,13 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kokių"
+      "gloss": "tokių, kokių"
     },
     {
       "surface": "אהב",
       "gloss": "jis mėgsta"
     }
   ],
-  "timestamp": "2026-10-20T04:45:44.006303134Z",
+  "timestamp": "2026-10-20T12:24:39.988663159Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "piktavykė",
-      "rationale": "רשעה — iš tos pačios šaknies kaip רשע (piktadarys), lietuvių atitikmuo sudurtinis, kad išliktų ryšys"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sudaužys",
-      "rationale": "יכשל — pažodžiui 'susvyrvuosiuoti, suklupti' per silpnas kojas; 'sudaužys' yra perkeltos reikšmės"
-    },
-    {
-      "kind": "addition",
-      "subject": "jos dėka",
-      "rationale": "Hebrajų בה turi tik priešdėlį, lietuvių kalbai reikia prielinksnio 'dėka'"
-    }
-  ],
-  "translation": "O tu, žmogaus sūnau, sakyk savo tautos vaikams: Teisiojo cedek neišgelbės jo jo sukilimo dieną, ir piktadarį jo piktavykė nesudaužys jo grįžimo iš piktavykės dieną, o teisusis negalės jos dėka gyventi savo nusikaltimo dieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "89f843eb5721d337e99cc2e20680124663fdd4c7e38191c913da3a0954915686",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/33\/10-12.1792485787886.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tu, žmogaus sūnau, sakyk savo tautos vaikams: teisiojo teisumas neišgelbės jo jo nusikaltimo dieną, o nedorėlio nedora — jis dėl jos neklups, kai jis grįš nuo savo nedorybės; ir teisusis negalės dėl jos gyventi, kai jis nusidės.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "O tu"
+      "gloss": "Ir tu"
     },
     {
       "surface": "בן",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨savo⟩"
     },
     {
       "surface": "בני",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "עמך",
-      "gloss": "savo tautos"
+      "gloss": "tautos"
     },
     {
       "surface": "צדקת",
-      "gloss": "cedek"
+      "gloss": "teisumas"
     },
     {
       "surface": "הצדיק",
-      "gloss": "Teisiojo"
+      "gloss": "teisiojo"
     },
     {
       "surface": "לא",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "פשעו",
-      "gloss": "jo sukilimo"
+      "gloss": "jo nusikaltimo"
     },
     {
       "surface": "ורשעת",
-      "gloss": "ir piktavykė"
+      "gloss": "o nedora"
     },
     {
       "surface": "הרשע",
-      "gloss": "piktadario"
+      "gloss": "nedorėlio"
     },
     {
       "surface": "לא",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "יכשל",
-      "gloss": "sudaužys"
+      "gloss": "klups"
     },
     {
       "surface": "בה",
-      "gloss": "jos"
+      "gloss": "dėl jos"
     },
     {
       "surface": "ביום",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "מרשעו",
-      "gloss": "iš piktavykės"
+      "gloss": "nuo savo nedorybės"
     },
     {
       "surface": "וצדיק",
-      "gloss": "o teisusis"
+      "gloss": "ir teisusis"
     },
     {
       "surface": "לא",
@@ -135,7 +109,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "jos dėka"
+      "gloss": "dėl jos"
     },
     {
       "surface": "ביום",
@@ -143,9 +117,9 @@
     },
     {
       "surface": "חטאתו",
-      "gloss": "savo nusikaltimo"
+      "gloss": "jo nuodėmės"
     }
   ],
-  "timestamp": "2026-10-20T08:43:07.888382962Z",
+  "timestamp": "2026-10-20T12:22:28.360894190Z",
   "model": "glm-5.3"
 }

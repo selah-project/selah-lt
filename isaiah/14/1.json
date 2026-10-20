@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bus",
-      "rationale": "lietuvių reikalauja bendrakamienio veiksmažodžio su ונספחו"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על",
-      "rationale": "tas pats prielinksnis עal tris kartus — „ant žemės“, „prie jų“, „prie namų“ — lietuviškai išsiskaido į tris skirtingus"
-    }
-  ],
-  "translation": "Nes Jahvė pasigailės ⟨את⟩ Jaakovo ir vėl išsirinks Jisraelį, ir įkurdins juos jų žemėje, ir ateivis prisijungs prie jų ir bus priskirtas prie Jaakovo namų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7cdb14f693c68ea96e85396ab6aad4f6669ce0dd7b22b2b5c7a10e64d7e1cdab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/14\/1-4.1792480850583.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes Jahvė pasigailės ⟨את⟩ Jaakovo ir vėl išsirinks Jisraelį, ir sudės juos ant jų žemės, ir prie jų prisijungs ateivis, ir jie bus prijungti prie Jaakovo namų.",
   "tokens": [
     {
       "surface": "כי",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "והניחם",
-      "gloss": "ir įkurdins juos"
+      "gloss": "ir sudės juos"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "אדמתם",
-      "gloss": "jų žemėje"
+      "gloss": "jų žemės"
     },
     {
       "surface": "ונלוה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ונספחו",
-      "gloss": "ir bus priskirti"
+      "gloss": "ir jie bus prijungti"
     },
     {
       "surface": "על",
@@ -102,6 +81,6 @@
       "gloss": "Jaakovo"
     }
   ],
-  "timestamp": "2026-10-20T07:20:50.584631742Z",
+  "timestamp": "2026-10-20T12:28:19.075711566Z",
   "model": "glm-5.3"
 }

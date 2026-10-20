@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מפניכם",
-      "rationale": "pažodžiui „nuo jūsų veido“ — hebrajų idiomas „iš jūsų akies“"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תורישו \/ תותירו",
-      "rationale": "šaknų ירש ir יתר paronomazija — „neišvarysite \/ paliksite“"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "perspėjimas, tiesiogiai kreipiamasi į Jisraelį"
-    }
-  ],
-  "translation": "O jei neišvarysite ⟨את⟩ žemės gyventojų nuo savo veido, tai bus: kuriuos iš jų paliksite, jie bus dygliai jūsų akyse ir erškėčiai jūsų šonuose, ir jie spaus jus žemėje, kurioje jūs gyvenate.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/33\/53-56.1792474798101.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O jeigu neišnaikinsite ⟨את⟩ žemės gyventojų nuo jūsų veido, tai ⟨yra⟩: kuriuos iš jūsų paliksite, ⟨jie⟩ bus dygliai jūsų akyse ir erškėčiai jūsų šonuose, ir jie spaus ⟨את⟩ jus žemėje, kurioje jūs gyvenate.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "o jei"
+      "gloss": "o jeigu"
     },
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "תורישו",
-      "gloss": "išvarysite"
+      "gloss": "išnaikinsite"
     },
     {
       "surface": "את",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "nuo savo veido"
+      "gloss": "nuo jūsų veido"
     },
     {
       "surface": "והיה",
-      "gloss": "tai bus"
+      "gloss": "tai ⟨yra⟩"
     },
     {
       "surface": "אשר",
@@ -100,15 +74,16 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "jus"
     },
     {
       "surface": "על",
-      "gloss": "žemėje"
+      "gloss": ""
     },
     {
       "surface": "הארץ",
-      "gloss": "esančioje"
+      "gloss": "žemėje"
     },
     {
       "surface": "אשר",
@@ -127,6 +102,6 @@
       "gloss": "joje"
     }
   ],
-  "timestamp": "2026-10-20T05:39:58.105410288Z",
+  "timestamp": "2026-10-20T12:41:58.696620721Z",
   "model": "glm-5.3"
 }

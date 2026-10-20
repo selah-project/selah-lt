@@ -5,32 +5,12 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "jisraielyje",
-      "rationale": "Mošė kalba Jisraeliui: 'jus', 'jūs pereinate'"
-    },
-    {
-      "kind": "elision",
-      "subject": "ואתי",
-      "rationale": "pažymėtasis aleph-tav 'o ⟨את⟩ manąjį' — iškeltas prieš veiksnį"
-    }
-  ],
-  "translation": "O manąjį įsakė Jahvė tame mete mokyti jus ⟨את⟩ įstatų ir teismų, kad juos vykdytumėte ⟨את⟩ žemėje, į kurią jūs pereinate ten jos paveldėti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/4\/13-16.1792474919510.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ mane įsakė Jahvė tuo metu mokyti jus įstatus ir teismus, kad juos darytumėte žemėje, į kurią jūs pereinate ten paveldėti jos.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "o ⟨את⟩ manąjį"
+      "gloss": "ir ⟨את⟩ mane",
+      "marks": "įsakė (Jahvės įsakymą man)"
     },
     {
       "surface": "צוה",
@@ -42,11 +22,11 @@
     },
     {
       "surface": "בעת",
-      "gloss": "tame"
+      "gloss": "tuo metu"
     },
     {
       "surface": "ההוא",
-      "gloss": "mete"
+      "gloss": "tuo"
     },
     {
       "surface": "ללמד",
@@ -54,7 +34,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "įstatus ir teismus"
     },
     {
       "surface": "חקים",
@@ -66,11 +47,12 @@
     },
     {
       "surface": "לעשתכם",
-      "gloss": "kad vykdytumėte"
+      "gloss": "kad darytumėte"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩ juos",
+      "marks": "žemėje"
     },
     {
       "surface": "בארץ",
@@ -78,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "į kurią"
+      "gloss": "kurią"
     },
     {
       "surface": "אתם",
@@ -94,9 +76,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "ją paveldėti"
+      "gloss": "paveldėti ją"
     }
   ],
-  "timestamp": "2026-10-20T05:41:59.512135709Z",
+  "timestamp": "2026-10-20T12:18:04.393650601Z",
   "model": "glm-5.3"
 }

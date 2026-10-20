@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מאת פני פרעה",
-      "rationale": "pažodžiui „nuo Farao veido“ — hebrajiškas posakis „iš akylų“"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם מבקשים",
-      "rationale": "prielinksniuota aleph-tav forma אתה išlaikoma kaip ⟨את⟩, neturinti atskiro žodžio lietuvių kalboje"
-    }
-  ],
-  "translation": "Ne taip! Eikite dabar jūs, vyrai, ir tarnaukite Jahvei, nes to jūs ieškote. Ir jis išvarė juos nuo ⟨את⟩ Farao veido.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/10\/9-12.1792472349569.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ne taip; eikite dabar jūs, vyrai, ir tarnaukite ⟨את⟩ Jahvei, nes ⟨את⟩ jos jūs ieškote. Ir jis išvarė juos iš ⟨את⟩ Farono veido.",
   "tokens": [
     {
       "surface": "לא",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvei"
+      "marks": "Jahvę"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvei"
+      "gloss": "Jahvę"
     },
     {
       "surface": "כי",
@@ -68,7 +47,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "to"
+      "marks": "jos"
     },
     {
       "surface": "אתם",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "nuo ⟨את⟩"
+      "gloss": "iš ⟨את⟩"
     },
     {
       "surface": "פני",
@@ -97,9 +76,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Farao"
+      "gloss": "Farono"
     }
   ],
-  "timestamp": "2026-10-20T04:59:09.578150252Z",
+  "timestamp": "2026-10-20T12:18:31.543657732Z",
   "model": "glm-5.3"
 }

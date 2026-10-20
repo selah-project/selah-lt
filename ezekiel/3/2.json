@@ -5,59 +5,39 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "padarė, kad suvalgyčiau",
-      "rationale": "Hebrew hiphil of אכל, 'caused me to eat'; no single Lithuanian causative verb matches."
-    }
-  ],
-  "translation": "⟨את⟩ Ir aš atsimerkiau burną, ⟨את⟩ ir Jis padarė, kad suvalgyčiau ⟨את⟩ tą ritinį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/3\/1-4.1792483858274.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš atveriau ⟨את⟩ savo burną, ir jis pamaitino mane ⟨את⟩ šiuo ritiniu.",
   "tokens": [
     {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ואפתח",
-      "gloss": "⟨את⟩ Ir aš atsimerkiau"
+      "gloss": "ir atveriau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "burną"
+      "marks": "savo burną"
     },
     {
       "surface": "פי",
-      "gloss": "burną"
+      "gloss": "burna"
     },
     {
       "surface": "ויאכלני",
-      "gloss": "⟨את⟩ ir Jis padarė, kad suvalgyčiau"
+      "gloss": "pamaitino mane"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tą ritinį"
+      "marks": "šiuo ritiniu"
     },
     {
       "surface": "המגלה",
-      "gloss": "ritinį"
+      "gloss": "ritinys"
     },
     {
       "surface": "הזאת",
-      "gloss": "tą"
+      "gloss": "šis"
     }
   ],
-  "timestamp": "2026-10-20T08:10:58.275973036Z",
+  "timestamp": "2026-10-20T12:22:18.914827717Z",
   "model": "glm-5.3"
 }

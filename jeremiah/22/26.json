@@ -5,35 +5,20 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "אֹתְךָ čia yra įvardžiuotinis objekto įvardis 'tave', ne daiktavardžio žymeklis — ⟨את⟩ skliaustai nededami"
-    }
-  ],
-  "translation": "Ir išsviesiu tave ir ⟨את⟩ tavo motiną, kuri tave pagimdė, į žemę kitokią, kurioje jūs negimėte, ir ten jūs mirsite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/22\/25-28.1792482665169.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Aš mesiu ⟨את⟩ tave ir ⟨את⟩ tavo motiną, kuri tave pagimdė, į kitą žemę, kurioje jūs negimėte, ir ten mirsite.",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "ir išsviesiu"
+      "gloss": "Ir Aš mesiu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tave"
+      "gloss": "⟨את⟩ tave",
+      "marks": "tave"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ir ⟨את⟩",
       "marks": "tavo motiną"
     },
     {
@@ -58,7 +43,7 @@
     },
     {
       "surface": "אחרת",
-      "gloss": "kitokią"
+      "gloss": "kitą"
     },
     {
       "surface": "אשר",
@@ -70,7 +55,7 @@
     },
     {
       "surface": "ילדתם",
-      "gloss": "jūs negimėte"
+      "gloss": "gimėte"
     },
     {
       "surface": "שם",
@@ -82,9 +67,9 @@
     },
     {
       "surface": "תמותו",
-      "gloss": "jūs mirsite"
+      "gloss": "mirsite"
     }
   ],
-  "timestamp": "2026-10-20T07:51:05.170162647Z",
+  "timestamp": "2026-10-20T12:30:35.422452867Z",
   "model": "glm-5.3"
 }

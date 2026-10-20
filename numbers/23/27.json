@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨juos⟩",
-      "rationale": "Veiksnys „juos” hebrajiškame veiksmažodyje nėra — pridėtas iš konteksto"
-    },
-    {
-      "kind": "substitution",
-      "subject": "prakeiksi",
-      "rationale": "קב pažodžiui „iškasti, durti žodžiais”; čia Балak reikalauja būtent keikimo"
-    }
-  ],
-  "translation": "Ir Balakas tarė Bileamui: eikš dabar, imsiu tave į kitą vietą; galbūt bus tiesa Elohim akyse, ir prakeiksi ⟨juos⟩ man iš ten.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/23\/25-28.1792474445241.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Balakas tarė Bileamui: Eikš, prašau, paimsiu tave į kitą vietą — galbūt bus tiesa Eloheimo akyse, ir prakeiksi jį ⟨את⟩ man iš ten.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "בלעם",
       "gloss": "Bileamui"
     },
     {
+      "surface": "בלעם",
+      "gloss": "Bileamas"
+    },
+    {
       "surface": "לכה",
-      "gloss": "eikš"
+      "gloss": "Eikš"
     },
     {
       "surface": "נא",
-      "gloss": "dabar"
+      "gloss": "prašau"
     },
     {
       "surface": "אקחך",
-      "gloss": "imsiu tave"
+      "gloss": "paimsiu tave"
     },
     {
       "surface": "אל",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Eloheimo"
     },
     {
       "surface": "וקבתו",
@@ -97,6 +76,6 @@
       "gloss": "iš ten"
     }
   ],
-  "timestamp": "2026-10-20T05:34:05.243398773Z",
+  "timestamp": "2026-10-20T12:40:54.439704885Z",
   "model": "glm-5.3"
 }

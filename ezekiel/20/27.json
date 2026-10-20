@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "žmogaus sūnau",
-      "rationale": "Tiesioginis kreipimasis į Ezechielį — įsakyta kalbėti Jisraelio namams."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "במעלם בי מעל",
-      "rationale": "Šaknies מעל kartojimas — 'išduodami... išdavyste' — zondo struktūra, lietuviškai atkarta ta pačia šaknim."
-    }
-  ],
-  "translation": "Todėl kalbėk Jisraelio namams, žmogaus sūnau, ir sakyk jiems: Taip sako Adonai Jahvė: Dar ir šituo jūsų tėvai mane niekino — manęs išdavyste išduodami.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bb7c1943b67fa9d013ec401b68a9674d52f2e3084286182fa1abdeaa64fe683e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/25-28.1792484362782.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl kalbėk su Jisraelio namais, žmogaus sūnau, ir sakyk jiems: taip sako Adonai Jahvė: dar šituo jūsų tėvai mane aprėkė ⟨את⟩ — jie nusikalto manyje išdavyste.",
   "tokens": [
     {
       "surface": "לכן",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "−"
+      "gloss": "su"
     },
     {
       "surface": "בית",
-      "gloss": "namams"
+      "gloss": "namais"
     },
     {
       "surface": "ישראל",
@@ -86,16 +65,16 @@
     },
     {
       "surface": "זאת",
-      "gloss": "ir šituo"
+      "gloss": "šituo"
     },
     {
       "surface": "גדפו",
-      "gloss": "niekino"
+      "gloss": "aprėkė"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "mane"
+      "marks": "mane (tėvų aprėkimą)"
     },
     {
       "surface": "אבותיכם",
@@ -103,17 +82,17 @@
     },
     {
       "surface": "במעלם",
-      "gloss": "išduodami"
+      "gloss": "nusikalto manyje išdavyste"
     },
     {
       "surface": "בי",
-      "gloss": "manęs"
+      "gloss": "manyje"
     },
     {
       "surface": "מעל",
       "gloss": "išdavyste"
     }
   ],
-  "timestamp": "2026-10-20T08:19:22.783293002Z",
+  "timestamp": "2026-10-20T12:21:07.560417068Z",
   "model": "glm-5.3"
 }

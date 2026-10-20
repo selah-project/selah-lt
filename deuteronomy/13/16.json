@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "Pažodžiui 'pagal kardo burną' — lietuviškai 'kardo briauna'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "uždrausk",
-      "rationale": "חרם — cherem, atskyrimo ir sunaikinimo draudimas; verčiama 'uždrausti', prarandama cherem sąvoka."
-    }
-  ],
-  "translation": "Tikrai smysi ⟨את⟩ to miesto gyventojus kardo briauna; uždrausk ją ir ⟨את⟩ viską, kas joje, ir ⟨את⟩ jos gyvulius kardo briauna.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/13-16.1792475158435.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kirsdamas tikrai kirsi ⟨את⟩ gyventojus to miesto — ⟨tą⟩ — pagal kardo burną; paskirk ją cheremui, ją ir ⟨את⟩ viską, kas ⟨yra⟩ joje, ir ⟨את⟩ jos gyvulius — pagal kardo burną.",
   "tokens": [
     {
       "surface": "הכה",
-      "gloss": "Tikrai"
+      "gloss": "kirsdamas"
     },
     {
       "surface": "תכה",
-      "gloss": "smysi"
+      "gloss": "tikrai kirsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "to miesto gyventojus"
+      "marks": "gyventojus"
     },
     {
       "surface": "ישבי",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "to"
+      "gloss": "tą"
     },
     {
       "surface": "לפי",
@@ -59,16 +38,16 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kardą"
+      "gloss": "kardo burną"
     },
     {
       "surface": "החרם",
-      "gloss": "uždrausk"
+      "gloss": "paskirk ją cheremui"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją (tą miestą)"
     },
     {
       "surface": "ואת",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kardą"
+      "gloss": "kardo burną"
     }
   ],
-  "timestamp": "2026-10-20T05:45:58.436621674Z",
+  "timestamp": "2026-10-20T12:16:08.718007233Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "rationale": "Hebrajiškai nėra veiksmažodžio „būti“ — pridėta lietuvių kalbos reikalavimu"
-    },
-    {
-      "kind": "addition",
-      "subject": "tavo",
-      "rationale": "Persiška galūnė אליך turi įvardį; atskiras įvardis pridėtas dėl aiškumo"
-    }
-  ],
-  "translation": "Ir Jahvė kalbėjo Mošei, sakydamas: Aš ⟨esu⟩ Jahvė; kalbėk Parogui, Micraimo karaliui, ⟨את⟩ viską, ką aš kalbu ⟨tavo⟩ atžvilgiu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/6\/29-30.1792472187283.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė kalbėjo Mošei, sakydamas: Aš ⟨esu⟩ Jahvė; kalbėk Parohui, Micraimo karaliui, ⟨את⟩ viską, ką aš kalbu tau.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "kalbėjo"
+      "gloss": "ir kalbėjo"
     },
     {
       "surface": "יהוה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Parogui"
+      "gloss": "Parohui"
     },
     {
       "surface": "מלך",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "אליך",
-      "gloss": "tavo atžvilgiu"
+      "gloss": "tau"
     }
   ],
-  "timestamp": "2026-10-20T04:56:27.285842344Z",
+  "timestamp": "2026-10-20T12:20:48.490482752Z",
   "model": "glm-5.3"
 }

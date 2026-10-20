@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לאתים",
-      "rationale": "אתים — kapliai\/leisai (žemės darbo įrankiai); KJV „plowshares“ vs čia iš hebrajiškos reikšmės"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אתים",
-      "rationale": "žodis את ם skambuoja kaip aleph-tav ženklas ⟨את⟩ — perkėlimas kalavijas→tautos yra struktūrinis ženklas"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kariauti",
-      "rationale": "מלחמה yra daiktavardis „karas“ — lietuvių kalboje reikia veiksmažodžio"
-    }
-  ],
-  "translation": "Ir jis teis tarp tautų ir įspės daug tautų; ir jie perkals savo kalavijus į ⟨את⟩ leismus, o savo ietis — į ⟨את⟩ genėjimo peilius. Tauta nebekels kalavijo prieš tautą ir nebe mokys ⟨yra⟩ kariauti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4a521ae11be849a0cacbf48072a998c302126c37ad15bab58e907430a2d6169f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/2\/1-4.1792480601781.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis teis tarp tautų, ir nuteis daugelį tautų; ir jie kalūs savo kardus į kaplius, o savo ietis — Ĩ genėjimo peilius; nebekels tauta prieš tautą kardo, ir nebesimokys karo.",
   "tokens": [
     {
       "surface": "ושפט",
-      "gloss": "Ir teis"
+      "gloss": "ir teis"
     },
     {
       "surface": "בין",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "והוכיח",
-      "gloss": "ir įspės"
+      "gloss": "ir nuteis"
     },
     {
       "surface": "לעמים",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "רבים",
-      "gloss": "daug"
+      "gloss": "daugelį"
     },
     {
       "surface": "וכתתו",
-      "gloss": "ir perkals"
+      "gloss": "ir jie kalūs"
     },
     {
       "surface": "חרבותם",
-      "gloss": "savo kalavijus"
+      "gloss": "savo kardus"
     },
     {
       "surface": "לאתים",
-      "gloss": "į ⟨את⟩ leismus"
+      "gloss": "į kaplius"
     },
     {
       "surface": "וחניתותיהם",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "למזמרות",
-      "gloss": "į ⟨את⟩ genėjimo peilius"
+      "gloss": "į genėjimo peilius"
     },
     {
       "surface": "לא",
-      "gloss": "nebe"
+      "gloss": "nebe-"
     },
     {
       "surface": "ישא",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "גוי",
-      "gloss": "Tauta"
+      "gloss": "tauta"
     },
     {
       "surface": "אל",
@@ -99,25 +73,25 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kalavijo"
+      "gloss": "kardo"
     },
     {
       "surface": "ולא",
-      "gloss": "ir nebe"
+      "gloss": "ir nebe-"
     },
     {
       "surface": "ילמדו",
-      "gloss": "mokys"
+      "gloss": "simokys"
     },
     {
       "surface": "עוד",
-      "gloss": "be"
+      "gloss": ""
     },
     {
       "surface": "מלחמה",
-      "gloss": "kariauti"
+      "gloss": "karo"
     }
   ],
-  "timestamp": "2026-10-20T07:16:41.783962752Z",
+  "timestamp": "2026-10-20T12:28:31.520412130Z",
   "model": "glm-5.3"
 }

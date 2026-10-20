@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 77,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esi",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' šioje predikatinėje konstrukcijoje."
-    }
-  ],
-  "translation": "Tu esi ⟨את⟩ El, darantis stebuklus; paskelbei tavo galią tautų viduje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/77\/13-16.1792488405796.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tu esi ⟨yra⟩ El, darantis stebuklus; tu paskelbei tautos tarp tautų ⟨את⟩ savo galią.",
   "tokens": [
     {
       "surface": "אתה",
@@ -29,8 +13,7 @@
     },
     {
       "surface": "האל",
-      "gloss": "⟨את⟩ El",
-      "marks": "El"
+      "gloss": "El"
     },
     {
       "surface": "עשה",
@@ -42,17 +25,17 @@
     },
     {
       "surface": "הודעת",
-      "gloss": "paskelbei"
+      "gloss": "tu paskelbei"
     },
     {
       "surface": "בעמים",
-      "gloss": "tautų viduje"
+      "gloss": "tarp tautų"
     },
     {
       "surface": "עזך",
-      "gloss": "tavo galią"
+      "gloss": "savo galią"
     }
   ],
-  "timestamp": "2026-10-20T09:26:45.796879389Z",
+  "timestamp": "2026-10-20T12:43:57.749581980Z",
   "model": "glm-5.3"
 }

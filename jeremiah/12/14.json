@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הנגעים\/הנחלתי",
-      "rationale": "שaknys נגע 'liesti\/puolti' ir נחל 'paveldas\/dovanoti paveldą' — garsinis paveikslas per visą eilutę."
-    },
-    {
-      "kind": "alternative",
-      "subject": "הנגעים",
-      "rationale": "'liečia' (JPS) arba 'puola' — נגע nuo švelnaus lietimo iki smurto; čia kontekstas grasinamasis."
-    }
-  ],
-  "translation": "Taip sako Jahvė apie visus mano blogus kaimynus, kurie puola paveldą, kurį dovanojau kaip paveldą savo tautai — ⟨את⟩ Jisraelį: štai aš išrausiu juos nuo jų žemės, o ⟨את⟩ Jūdos namą išrausiu iš jų vidurio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3fc4f534b4d305adb8964613d2acaff60e2d42f7daa22d12c36b789094add8cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/12\/13-16.1792482554693.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taip sako Jahvė prieš visus mano piktus kaimynus, kurie liečia paveldą, kurį dovanojau kaip paveldą ⟨את⟩ savo tautai, ⟨את⟩ Jisraelį: štai aš išrausiu juos iš jų žemės, o ⟨את⟩ Judo namus išrausiu iš jų vidurio.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "apie"
+      "gloss": "prieš"
     },
     {
       "surface": "כל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "הרעים",
-      "gloss": "blogus"
+      "gloss": "piktus"
     },
     {
       "surface": "הנגעים",
-      "gloss": "kurie puola"
+      "gloss": "kurie liečia"
     },
     {
       "surface": "בנחלה",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "הנחלתי",
-      "gloss": "dovanoti kaip paveldą"
+      "gloss": "dovanau kaip paveldą"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo tautai"
+      "marks": "savo tauta"
     },
     {
       "surface": "עמי",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "מעל",
-      "gloss": "nuo"
+      "gloss": "iš"
     },
     {
       "surface": "אדמתם",
@@ -109,15 +88,15 @@
     {
       "surface": "ואת",
       "gloss": "o ⟨את⟩",
-      "marks": "Jūdos namą"
+      "marks": "Judo namus"
     },
     {
       "surface": "בית",
-      "gloss": "namą"
+      "gloss": "namus"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jūdos"
+      "gloss": "Judo"
     },
     {
       "surface": "אתוש",
@@ -128,6 +107,6 @@
       "gloss": "iš jų vidurio"
     }
   ],
-  "timestamp": "2026-10-20T07:49:14.696377181Z",
+  "timestamp": "2026-10-20T12:29:37.571321659Z",
   "model": "glm-5.3"
 }

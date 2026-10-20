@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "אל\/ועל pora — 'namui ir namui' — susilieja su linksniu, atskiro žodžio nereikia"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Štai dienos ateina",
-      "rationale": "הנה kreipia skaitytojo žvilgsnį į tai, kas ateina"
-    }
-  ],
-  "translation": "Štai dienos ateina, sako Jahvė, ir įvykdysiu ⟨את⟩ tą gerąjį žodį, kurį kalbėjau Jisraelio namui ir Jehudos namui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fe4b7d3d799a3a830b5c52bfada97e382f78a355b9712ca9736c85ed6c94374f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/33\/13-16.1792483112663.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Štai ateina dienos, sako Jahvė, ir aš įvykdysiu ⟨את⟩ gerąjį žodį, kurį kalbėjau Jisraelio namams ir apie Jūdos namus.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "štai"
+      "gloss": "Štai"
     },
     {
       "surface": "ימים",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "והקמתי",
-      "gloss": "ir įvykdysiu"
+      "gloss": "ir aš įvykdysiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tą gerąjį žodį"
+      "marks": "gerąjį žodį"
     },
     {
       "surface": "הדבר",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "namams"
     },
     {
       "surface": "בית",
-      "gloss": "namui"
+      "gloss": "Jisraelio namams"
     },
     {
       "surface": "ישראל",
@@ -87,17 +66,17 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ir"
+      "gloss": "ir apie"
     },
     {
       "surface": "בית",
-      "gloss": "namui"
+      "gloss": "Jūdos namus"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudos"
+      "gloss": "Jūdos"
     }
   ],
-  "timestamp": "2026-10-20T07:58:32.666372832Z",
+  "timestamp": "2026-10-20T12:31:16.564525674Z",
   "model": "glm-5.3"
 }

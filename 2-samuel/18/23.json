@@ -5,31 +5,15 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויהי מה",
-      "rationale": "kartoja 22 eilutės idiomą — 'kad ir kas būtų'"
-    }
-  ],
-  "translation": "Kad ir kas būtų, aš bėgsiu. Ir jis tarė jam: Bėk. Ir nubėgo Ahimaacas per lygumos kelią ir pralenkė ⟨את⟩ kušitą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cf93e87ca20eaabcd1acbc4ab3747aaa5a9188b559b6940a0b258d76eef56c6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/18\/21-24.1792478567879.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨kad tik kas bebūtų⟩, aš bėgsiu. Ir jis tarė jam: Bėk. Ir Ahimaacas nubėgo keliu per lygumą ir pralėkė pro ⟨את⟩ kušitą.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "kad ir kas būtų"
+      "gloss": "ir buvo"
     },
     {
       "surface": "מה",
-      "gloss": ""
+      "gloss": "kad tik kas"
     },
     {
       "surface": "ארוץ",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "לו",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "רוץ",
-      "gloss": "Bėk"
+      "gloss": "bėk"
     },
     {
       "surface": "וירץ",
-      "gloss": "Ir nubėgo"
+      "gloss": "ir nubėgo"
     },
     {
       "surface": "אחימעץ",
@@ -57,15 +41,15 @@
     },
     {
       "surface": "דרך",
-      "gloss": "per kelią"
+      "gloss": "keliu"
     },
     {
       "surface": "הככר",
-      "gloss": "lygumos"
+      "gloss": "per lygumą"
     },
     {
       "surface": "ויעבר",
-      "gloss": "ir pralenkė"
+      "gloss": "ir pralėkė pro"
     },
     {
       "surface": "את",
@@ -77,6 +61,6 @@
       "gloss": "kušitą"
     }
   ],
-  "timestamp": "2026-10-20T06:42:47.894985654Z",
+  "timestamp": "2026-10-20T12:14:24.102701892Z",
   "model": "glm-5.3"
 }

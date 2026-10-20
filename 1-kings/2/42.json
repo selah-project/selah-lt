@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מות תמות",
-      "rationale": "pažodžiui 'mirtimi mirsi' — infinitivus absolutus stiprinimas, lietuviškai 'tikrai mirsi'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדע",
-      "rationale": "pakartotas veiksmažodis 'žinok, žinok' — hebrajiškas stiprinimas, išlyginta į 'žinok gerai'"
-    },
-    {
-      "kind": "you",
-      "subject": "kalba Šimiui",
-      "rationale": "karaliaus Šalomo tiesioginis kreipimasis į Šimį"
-    }
-  ],
-  "translation": "Ir karalius siuntė ir pakvietė Šimį, ir tarė jam: argi aš neprisaikdinau tavęs per Jahvę ir įspėjau tave, sakydamas: dieną, kai išeisi ir eisi kur nors, žinok gerai, kad tikrai mirsi? Ir tu atsakei man: geras yra tas žodis, kurį išgirdau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/2\/41-44.1792478871742.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius siuntė ir pašaukė Šimį, ir tarė jam: Ar neprisažudžiau tavęs Jahve ir įspėjau tave, sakydamas: dieną, kai išeisi ir eisi čia ar ten, žinok tikrai, kad mirtingai mirsi? Ir tu manei: geras žodis, kurį išgirdau.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ir siuntė"
+      "gloss": "siuntė"
     },
     {
       "surface": "המלך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ir pakvietė"
+      "gloss": "pašaukė"
     },
     {
       "surface": "לשמעי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "tarė"
     },
     {
       "surface": "אליו",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "argi ne"
+      "gloss": "ar ne"
     },
     {
       "surface": "השבעתיך",
-      "gloss": "prisaikdinau tavęs"
+      "gloss": "prisažudžiau tave"
     },
     {
       "surface": "ביהוה",
-      "gloss": "per Jahvę"
+      "gloss": "Jahve"
     },
     {
       "surface": "ואעד",
-      "gloss": "ir įspėjau"
+      "gloss": "įspėjau"
     },
     {
       "surface": "בך",
@@ -91,19 +65,15 @@
     },
     {
       "surface": "והלכת",
-      "gloss": "ir eisi"
+      "gloss": "eisi"
     },
     {
       "surface": "אנה",
-      "gloss": "kur"
+      "gloss": "čia"
     },
     {
       "surface": "ואנה",
-      "gloss": "nors kur"
-    },
-    {
-      "surface": "surface_placeholder",
-      "gloss": ""
+      "gloss": "ar ten"
     },
     {
       "surface": "ידע",
@@ -111,7 +81,7 @@
     },
     {
       "surface": "תדע",
-      "gloss": "gerai žinok"
+      "gloss": "tikrai žinosi"
     },
     {
       "surface": "כי",
@@ -119,7 +89,7 @@
     },
     {
       "surface": "מות",
-      "gloss": "tikrai mirsi"
+      "gloss": "mirtingai"
     },
     {
       "surface": "תמות",
@@ -127,7 +97,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "ir atsakei"
+      "gloss": "manei"
     },
     {
       "surface": "אלי",
@@ -139,13 +109,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "yra tas žodis"
+      "gloss": "žodis"
     },
     {
       "surface": "שמעתי",
       "gloss": "kurį išgirdau"
     }
   ],
-  "timestamp": "2026-10-20T06:47:51.744397026Z",
+  "timestamp": "2026-10-20T12:06:28.908663795Z",
   "model": "glm-5.3"
 }

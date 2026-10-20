@@ -5,62 +5,36 @@
   "book": "malachi",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גער לכם את הזרע",
-      "rationale": "'Bausiu jums sėklą' — ar 'sėkla' reiškia palikuonis (KJV 'corrupt your seed'), ar grūdų auką (JPS 'the seed for your hurt'); taip pat kam skirtas 'jums'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ונשא אתכם אליו",
-      "rationale": "'Ir nuneš jus pas save' — veikėjas neaiškus: mėšlas nuneš juos (KJV) ar kažkas kitas iškelia juos į tremtį"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פרש",
-      "rationale": "Pažodžiui 'išmatos, mėšlas' — aukaune (offal) iš švenčių aukų; grubus vaizdas lietuviškai pateiktas kaip 'mėšlas'"
-    }
-  ],
-  "translation": "Štai aš bausiu jums ⟨את⟩ jūsų sėklą ir barsiu mėšlą jūsų veidams — jūsų švenčių mėšlą; ir jis nuneš jus su savimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/malachi\/2\/1-4.1792487317586.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Štai, aš baru jūsų sėklą ⟨את⟩ ir pabersiu išmatas jūsų veidams — išmatas jūsų švenčių, ir ⟨tai⟩ nuneš ⟨את⟩ jus pas jį.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "štai aš"
+      "gloss": "Štai, aš"
     },
     {
       "surface": "גער",
-      "gloss": "bausiu"
+      "gloss": "baru"
     },
     {
       "surface": "לכם",
-      "gloss": "jums"
+      "gloss": "jūsų"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jūsų sėklą"
+      "marks": "sėklą"
     },
     {
       "surface": "הזרע",
-      "gloss": "sėkla"
+      "gloss": "sėklą"
     },
     {
       "surface": "וזריתי",
-      "gloss": "ir barsiu"
+      "gloss": "ir pabersiu"
     },
     {
       "surface": "פרש",
-      "gloss": "mėšlą"
+      "gloss": "išmatas"
     },
     {
       "surface": "על",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "פרש",
-      "gloss": "mėšlą"
+      "gloss": "išmatas"
     },
     {
       "surface": "חגיכם",
@@ -84,13 +58,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "pas jį"
     },
     {
       "surface": "אליו",
-      "gloss": "pas save"
+      "gloss": "pas jį"
     }
   ],
-  "timestamp": "2026-10-20T09:08:37.589580518Z",
+  "timestamp": "2026-10-20T12:39:42.143879565Z",
   "model": "glm-5.3"
 }

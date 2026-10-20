@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חוקות",
-      "rationale": "חוקות — 'paskirtieji įsakymai'; 'įstatymai' arti, bet Tora yra תורה"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הלכו \/ לכלותם",
-      "rationale": "ta pati šaknis הלך — 'ėjo' ir 'sun(tok)inti' lietuviškai skirtingi"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio namams",
-      "rationale": "pranašystė kreipiama per Jisraelio istoriją"
-    }
-  ],
-  "translation": "Ir sukilo prieš mane Jisraelio namai dykumoje; mano įstatymuose (חוקים) jie nevaikščiojo, ir ⟨את⟩ mano teismus jie atmetė — kuriuos daręs žmogus gyvens jais — ir ⟨את⟩ mano šabus jusliai išniekino. Ir aš tariau išlieti savo įniršį ant jų dykumoje, juos sunaikinti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/13-16.1792484317060.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir sukilo prieš mane Jisraelio namai dykumoje; jie neėjo mano įstatymuose ir ⟨את⟩ mano teismus atmetė — kuriuos, jei žmogus ⟨את⟩ juos daro, gyvens jais — ir ⟨את⟩ mano šabatus labai išniekino. Ir aš tariau išlieti savo įnūžį ant jų dykumoje, kad juos panaikinčiau.",
   "tokens": [
     {
       "surface": "וימרו",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "vaikščiojo"
+      "gloss": "ėjo"
     },
     {
       "surface": "ואת",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "darąs"
+      "gloss": "daro"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "žmogus"
+      "marks": "juos"
     },
     {
       "surface": "האדם",
@@ -106,11 +80,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mano šabus"
+      "marks": "mano šabatus"
     },
     {
       "surface": "שבתתי",
-      "gloss": "mano šabus"
+      "gloss": "mano šabatus"
     },
     {
       "surface": "חללו",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "jusliai"
+      "gloss": "labai"
     },
     {
       "surface": "ואמר",
@@ -130,7 +104,7 @@
     },
     {
       "surface": "חמתי",
-      "gloss": "savo įniršį"
+      "gloss": "savo įnūžį"
     },
     {
       "surface": "עליהם",
@@ -142,9 +116,9 @@
     },
     {
       "surface": "לכלותם",
-      "gloss": "juos sunaikinti"
+      "gloss": "kad juos panaikinčiau"
     }
   ],
-  "timestamp": "2026-10-20T08:18:37.061193484Z",
+  "timestamp": "2026-10-20T12:21:50.305842942Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ואחיו",
-      "rationale": "lemma — Achijo asmenvardis 'Achijas', ne 'jo brolis'"
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajiškame tekste nėra kopulos — 'kurie yra Gibojoje'"
-    }
-  ],
-  "translation": "Ir pasodino ⟨את⟩ Elohim arką ant naujo vežimo, ir iškėlė ją iš Avinadabo namų, kurie yra Gibojoje; ir Uza ir Achijas, Avinadabo sūnūs, vairavo naująjį vežimą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/6\/1-4.1792478134342.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie pasodino ⟨את⟩ Elohim skrynią ant naujo vežimo, ir iškėlė ją iš Avinadavo namų, kurie Gibeoje; o Uza ir jo brolis Achio, Avinadavo sūnūs, varydami varydavo tą naująjį vežimą.",
   "tokens": [
     {
       "surface": "וירכבו",
@@ -35,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohim arką"
+      "marks": "Elohim skrynią"
     },
     {
       "surface": "ארון",
-      "gloss": "arką"
+      "gloss": "skrynią"
     },
     {
       "surface": "האלהים",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אבינדב",
-      "gloss": "Avinadabo"
+      "gloss": "Avinadavo"
     },
     {
       "surface": "אשר",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "Gibojoje"
+      "gloss": "Gibeoje"
     },
     {
       "surface": "ועזא",
-      "gloss": "ir Uza"
+      "gloss": "o Uza"
     },
     {
       "surface": "ואחיו",
-      "gloss": "ir Achijas"
+      "gloss": "ir jo brolis Achio"
     },
     {
       "surface": "בני",
@@ -91,11 +70,11 @@
     },
     {
       "surface": "אבינדב",
-      "gloss": "Avinadabo"
+      "gloss": "Avinadavo"
     },
     {
       "surface": "נהגים",
-      "gloss": "vairavo"
+      "gloss": "varydami varydavo"
     },
     {
       "surface": "את",
@@ -111,6 +90,6 @@
       "gloss": "naująjį"
     }
   ],
-  "timestamp": "2026-10-20T06:35:34.346799013Z",
+  "timestamp": "2026-10-20T12:15:16.250554821Z",
   "model": "glm-5.3"
 }

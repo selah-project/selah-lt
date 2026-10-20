@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrajiškas prielinksnis lietuviško žodžio rengiant „tarė kunigaikščiams“ nebereikalauja."
-    },
-    {
-      "kind": "you",
-      "subject": "to Balako kunigaikščiams",
-      "rationale": "Bileamas tiesiogiai kreipiasi į Balako pasiuntinius imperatyvu „Eikite“."
-    }
-  ],
-  "translation": "Ir atsikėlė Bileamas ryte ir tarė Balako kunigaikščiams: Eikite į savo šalį, nes Jahvė atsisakė leisti man eiti su jumis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "38dd7bd7db6dd1818278d81a65f15d8a668437b540d61656af910438379d96b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/22\/13-16.1792474394882.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Bileamas atsikėlė ryte ir tarė Balako kunigaikščiams: Eikite į savo kraštą, nes Jahvė atsisakė duoti man leidimą eiti su jumis.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Ir atsikėlė"
+      "gloss": "ir atsikėlė"
     },
     {
       "surface": "בלעם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨kam⟩"
     },
     {
       "surface": "שרי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "Eikite"
+      "gloss": "eikite"
     },
     {
       "surface": "אל",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ארצכם",
-      "gloss": "savo šalį"
+      "gloss": "savo kraštą"
     },
     {
       "surface": "כי",
@@ -82,17 +61,17 @@
     },
     {
       "surface": "לתתי",
-      "gloss": "leisti"
+      "gloss": "duoti man"
     },
     {
       "surface": "להלך",
-      "gloss": "eiti"
+      "gloss": "leisti eiti"
     },
     {
       "surface": "עמכם",
       "gloss": "su jumis"
     }
   ],
-  "timestamp": "2026-10-20T05:33:14.883685839Z",
+  "timestamp": "2026-10-20T12:41:05.697847193Z",
   "model": "glm-5.3"
 }

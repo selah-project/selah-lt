@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jie",
-      "rationale": "Prieveiksmis „jie“ pridėtas, nes hebrajiškai veiksnys tik iš konteksto (suvarstyti vyrai)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "איש באהלו יקומו",
-      "rationale": "Chiazmas: „kiekvienas — savo palapinėje — jie atsiks“; vienetai vėl tampa daugiskaita"
-    }
-  ],
-  "translation": "Nes jei ir būtumėte sumušę visą kasdėjų kariuomenę, kuri kovoja su jumis, ir iš jų būtų likę suvarstyti vyrai — kiekvienas savo palapinėje jie atsikeltų ir sudegintų ⟨את⟩ šitą miestą ugnimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "34abc6e22be67936765d00e0ad9beab40db8b5b7ee9f56e32ed52d65c98f30e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/37\/9-12.1792483257278.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes jeigu nugalėtumėte visą chaldėjų kariuomenę, kuri kovoja su jumis, ir iš jų liktų tik perdurti vyrai, kiekvienas savo palapinėje — jie pakiltų ir sudegintų ⟨את⟩ šį miestą ugnimi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Nes"
+      "gloss": "nes"
     },
     {
       "surface": "אם",
-      "gloss": "jei"
+      "gloss": "jeigu"
     },
     {
       "surface": "הכיתם",
-      "gloss": "būtumėte sumušę"
+      "gloss": "nugalėtumėte"
     },
     {
       "surface": "כל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "כשדים",
-      "gloss": "kasdėjų"
+      "gloss": "chaldėjų"
     },
     {
       "surface": "הנלחמים",
@@ -58,11 +37,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ su jumis"
+      "gloss": "⟨את⟩ su jumis",
+      "marks": "jūs"
     },
     {
       "surface": "ונשארו",
-      "gloss": "ir būtų likę"
+      "gloss": "ir liktų"
     },
     {
       "surface": "בם",
@@ -74,7 +54,7 @@
     },
     {
       "surface": "מדקרים",
-      "gloss": "suvarstyti"
+      "gloss": "perdurti"
     },
     {
       "surface": "איש",
@@ -86,7 +66,7 @@
     },
     {
       "surface": "יקומו",
-      "gloss": "jie atsikeltų"
+      "gloss": "jie pakiltų"
     },
     {
       "surface": "ושרפו",
@@ -95,7 +75,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šitą miestą"
+      "marks": "šį miestą"
     },
     {
       "surface": "העיר",
@@ -103,13 +83,13 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "šitą"
+      "gloss": "šį"
     },
     {
       "surface": "באש",
       "gloss": "ugnimi"
     }
   ],
-  "timestamp": "2026-10-20T08:00:57.280562624Z",
+  "timestamp": "2026-10-20T12:31:18.402564908Z",
   "model": "glm-5.3"
 }

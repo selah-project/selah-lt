@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Izraeliui",
-      "rationale": "Baustinė kalba kreipiasi į Izraelį antruoju asmeniu."
-    },
-    {
-      "kind": "crux",
-      "subject": "ליראאה",
-      "rationale": "Nesutarimas: „kad bijotum“ (tikslas) arba „nesibijodamas“ (neigiamame sakinyje) — čia pasirinkta tikslumo reikšmė."
-    }
-  ],
-  "translation": "Jei nesisaugosi daryti visus šios Toros žodžius, užrašytus šioje knygoje, bijoti šio garbingo ir baugaus Vardo, Jahvės, savo Elohim,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7b75ced901d03558e44795d428faafe94ade63ab081581a537a68576b5b7242f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/57-60.1792475540656.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei nesaugosi daryti ⟨את⟩ visus šios Toros žodžius, ⟨kurie⟩ parašyti šioje knygoje, kad bijytum ⟨את⟩ tą šlovingąjį ir bauginantįjį Vardą, ⟨את⟩ Jahvę, tavo Elohim —",
   "tokens": [
     {
       "surface": "אם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "תשמר",
-      "gloss": "nesisaugosi"
+      "gloss": "saugosi"
     },
     {
       "surface": "לעשות",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "התורה",
-      "gloss": "šios Toros"
+      "gloss": "Toros"
     },
     {
       "surface": "הזאת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "הכתובים",
-      "gloss": "užrašytus"
+      "gloss": "parašyti"
     },
     {
       "surface": "בספר",
@@ -78,8 +57,8 @@
       "gloss": "šioje"
     },
     {
-      "surface": "ליראאה",
-      "gloss": "bijoti"
+      "surface": "ליראה",
+      "gloss": "kad bijytum"
     },
     {
       "surface": "את",
@@ -92,15 +71,15 @@
     },
     {
       "surface": "הנכבד",
-      "gloss": "garbingo"
+      "gloss": "šlovingąjį"
     },
     {
       "surface": "והנורא",
-      "gloss": "ir baugaus"
+      "gloss": "ir bauginantįjį"
     },
     {
       "surface": "הזה",
-      "gloss": "šio"
+      "gloss": "šį"
     },
     {
       "surface": "את",
@@ -109,13 +88,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvės"
+      "gloss": "Jahvę"
     },
     {
       "surface": "אלהיך",
-      "gloss": "savo Elohim"
+      "gloss": "tavo Elohim"
     }
   ],
-  "timestamp": "2026-10-20T05:52:20.659620703Z",
+  "timestamp": "2026-10-20T12:17:14.334177190Z",
   "model": "glm-5.3"
 }

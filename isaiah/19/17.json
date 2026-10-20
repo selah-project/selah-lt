@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "לחגא",
-      "rationale": "Retas žodis, pažodžiui 'svaigulys' — čia vienintelė vieta Tanache šia reikšme, 'siaubas' yra perkeltinis vaizdas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יועץ \/ עצת",
-      "rationale": "Žodžių žaismas 'patarimas — patarė' (cacah-jaac) — tas pati šaknis du kartus."
-    }
-  ],
-  "translation": "Ir Judo žemė bus Micraimui siaubu; visi, kas tik pamins ją ⟨jam⟩, drebės ⟨nuo veido⟩ Jahvės Cevaot patarimo, kurį jis patarė prieš jį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/19\/17-20.1792481036398.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jehudos žemė taps Micraimui svaiguliu- siaubu; kiekvienas, kas tik primins ⟨את⟩ ją jam, drebės dėl Jahvės Cevaot patarimo, kurį jis pataria prieš jį.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "ir bus"
+      "gloss": "ir taps"
     },
     {
       "surface": "אדמת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Judo"
+      "gloss": "Jehudos"
     },
     {
       "surface": "למצרים",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "לחגא",
-      "gloss": "siaubu"
+      "gloss": "svaiguliu-siaubu"
     },
     {
       "surface": "כל",
-      "gloss": "visi"
+      "gloss": "kiekvienas"
     },
     {
       "surface": "אשר",
-      "gloss": "kas tik"
+      "gloss": "kas"
     },
     {
       "surface": "יזכיר",
-      "gloss": "pamins"
+      "gloss": "primins"
     },
     {
       "surface": "אתה",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "nuo veido"
+      "gloss": "dėl"
     },
     {
       "surface": "עצת",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "יועץ",
-      "gloss": "patarė"
+      "gloss": "pataria"
     },
     {
       "surface": "עליו",
       "gloss": "prieš jį"
     }
   ],
-  "timestamp": "2026-10-20T07:23:56.399183978Z",
+  "timestamp": "2026-10-20T12:28:10.591490840Z",
   "model": "glm-5.3"
 }

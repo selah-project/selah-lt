@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio — įstatytas ‚buvo‘ lietuvių kalbos reikalavimu."
-    },
-    {
-      "kind": "crux",
-      "subject": "duktorė Omrio",
-      "rationale": "בת עמרי: Atalija iš tikrųjų buvo Achabo dukra ir Omrio anūkė (2 Krn 22, 2); hebrajiškai ‚dukra‘ gali reikšti ir anūkę."
-    },
-    {
-      "kind": "measurement",
-      "subject": "amžius ir karaliavimo trukmė",
-      "rationale": "Amžius dvidešimt dveji metai ir vieneri karaliavimo metai."
-    }
-  ],
-  "translation": "Dvidešimt dvejų metų ⟨buvo⟩ Achazjahu, kai jis karaliavo, ir vienerius metus karaliavo Jerušalaime; ir jo motinos vardas Atalija, duktė Omrio, Jisraelio karaliaus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/8\/25-28.1792480004607.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dvidešimt dvejų metų ⟨buvo⟩ Achazjahu, kai pradėjo karaliauti, ir vienerius metus karaliavo Jerušalaime; ir jo motinos vardas — Atalija, duktė Omrio, karaliaus Jisraelio.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": ""
+      "gloss": "metų"
     },
     {
       "surface": "עשרים",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ושתים",
-      "gloss": "dvejų"
+      "gloss": "ir dvejų"
     },
     {
       "surface": "שנה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "kai jis karaliavo"
+      "gloss": "kai karaliavo"
     },
     {
       "surface": "ושנה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": ""
+      "gloss": "vienerius"
     },
     {
       "surface": "מלך",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "בת",
-      "gloss": "duktorė"
+      "gloss": "duktė"
     },
     {
       "surface": "עמרי",
@@ -102,6 +76,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T07:06:44.608915077Z",
+  "timestamp": "2026-10-20T12:12:48.036354488Z",
   "model": "glm-5.3"
 }

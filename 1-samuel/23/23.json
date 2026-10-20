@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tūkstantinės",
-      "rationale": "אלפי — 'tūkstančiai' kaip genties kariniai-administraciniai daliniai, ne skaičius"
-    },
-    {
-      "kind": "you",
-      "subject": "Zifo vyrai",
-      "rationale": "Tęsinys — Šaulio tiesioginis įsakymas su imperatyvais ir pažadu"
-    }
-  ],
-  "translation": "Ir pasižiūrėkite, ir sužinokite visas slėptuves, kuriose jis ten slepiasi, ir grįšite pas mane su tikrumu, ir aš eisiu su jumis; ir bus: jei jis yra krašte, tai aš jo ieškosiu ⟨את⟩ jį visose Jehudos tūkstantinėse.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/21-24.1792477634548.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pažiūrėkite, ir žinokite visas slėptuves, kur jis ten slepiasi, ir grįžkite pas mane su tikrumu, ir aš eisiu su jumis; ir bus: jei jis yra krašte, tai aš jį ⟨את⟩ išieškosiu visuose Jūdos tūkstantinėse.",
   "tokens": [
     {
       "surface": "וראו",
-      "gloss": "ir pasižiūrėkite"
+      "gloss": "ir pažiūrėkite"
     },
     {
       "surface": "ודעו",
-      "gloss": "ir sužinokite"
+      "gloss": "ir žinokite"
     },
     {
       "surface": "מכל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriose"
+      "gloss": "kur"
     },
     {
       "surface": "יתחבא",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ושבתם",
-      "gloss": "ir grįšite"
+      "gloss": "ir grįžkite"
     },
     {
       "surface": "אלי",
@@ -98,16 +77,16 @@
     },
     {
       "surface": "וחפשתי",
-      "gloss": "ir aš ieškosiu"
+      "gloss": "aš išieškosiu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "Jūdos tūkstantinėse"
     },
     {
       "surface": "בכל",
-      "gloss": "visose"
+      "gloss": "visuose"
     },
     {
       "surface": "אלפי",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudos"
+      "gloss": "Jūdos"
     }
   ],
-  "timestamp": "2026-10-20T06:27:14.653009135Z",
+  "timestamp": "2026-10-20T12:09:00.372316706Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "hebrajiškas prielinksnis ištirpsta lietuviško linksnio „Avrahamui“ galūnėje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "זה",
-      "rationale": "„ši“ tiesiogiai reiškia „tai\/šitai“, ne adverbą „šitaip“"
-    },
-    {
-      "kind": "you",
-      "subject": "to Avraham",
-      "rationale": "Jahvė tiesiogiai kreipiasi į Avrahamą klausimu apie Saros juoką"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Avrahamui: kodėl šitaip nusijuokė Sara, sakydama: ar iš tiesų aš pagimdysiu, kai aš pasenau?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/18\/13-16.1792471265648.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Avrahamui: kodėl šitaip juokiasi Sara, sakydama: ar tikrai, iš tiesų gimdysiu, nors aš pasenau?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Avrahamui"
     },
     {
       "surface": "אברהם",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "צחקה",
-      "gloss": "nusijuokė"
+      "gloss": "juokiasi"
     },
     {
       "surface": "שרה",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "האף",
-      "gloss": "ar"
+      "gloss": "ar tikrai"
     },
     {
       "surface": "אמנם",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "אלד",
-      "gloss": "aš pagimdysiu"
+      "gloss": "gimdysiu"
     },
     {
       "surface": "ואני",
-      "gloss": "kai aš"
+      "gloss": "nors aš"
     },
     {
       "surface": "זקנתי",
       "gloss": "pasenau"
     }
   ],
-  "timestamp": "2026-10-20T04:41:05.649798101Z",
+  "timestamp": "2026-10-20T12:24:50.702526286Z",
   "model": "glm-5.3"
 }

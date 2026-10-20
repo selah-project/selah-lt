@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שר מנוחה",
-      "rationale": "Pažodžiui 'ramybės kunigaikštis'; KJV 'quiet prince', ASV 'vyriausiasis kambarinis', JPS 'intendantas' — laikomasi pažodinio."
-    },
-    {
-      "kind": "elision",
-      "subject": "את צדקיהו",
-      "rationale": "Čia את yra prielinksnis 'su' ( עם), ne tiesioginis objektas — išversta 'su Cidkijahu', be ⟨את⟩ žymeklio."
-    }
-  ],
-  "translation": "Žodį, kurį įsakė pranašas Jirmejahu Serajahui, Nerijos sūnui, Machsejos sūnui, kai šis ėjo ⟨את⟩ su Cidkijahu, Jūdos karaliumi, į Babiloną ketvirtaisiais jo karaliavimo metais; o Serajahus buvo ramybės kunigaikštis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/51\/57-60.1792483793786.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Žodis, kurį įsakė Jirmejahu pranašas ⟨את⟩ Serajahui, Nerijos sūnui, Machsejos sūnui, kai jis ėjo su ⟨את⟩ Cidkijahu, Jehudos karaliumi, į Babelį, jo karaliavimo ketvirtaisiais metais; o Serajahas buvo ⟨yra⟩ poilsio vadas.",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "Žodį"
+      "gloss": "žodis"
     },
     {
       "surface": "אשר",
@@ -51,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Serajahą"
+      "marks": "Serajahui"
     },
     {
       "surface": "שריה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "sūnui"
+      "gloss": "sūnus"
     },
     {
       "surface": "נריה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "sūnui"
+      "gloss": "sūnus"
     },
     {
       "surface": "מחסיה",
@@ -75,11 +54,12 @@
     },
     {
       "surface": "בלכתו",
-      "gloss": "kai šis ėjo"
+      "gloss": "kai jis ėjo"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ su"
+      "gloss": "su ⟨את⟩",
+      "marks": "Cidkijahu"
     },
     {
       "surface": "צדקיהו",
@@ -87,15 +67,15 @@
     },
     {
       "surface": "מלך",
-      "gloss": "karalius"
+      "gloss": "karaliumi"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jūdos"
+      "gloss": "Jehudos"
     },
     {
       "surface": "בבל",
-      "gloss": "Babiloną"
+      "gloss": "į Babelį"
     },
     {
       "surface": "בשנת",
@@ -111,17 +91,17 @@
     },
     {
       "surface": "ושריה",
-      "gloss": "o Serajahus"
+      "gloss": "o Serajahas"
     },
     {
       "surface": "שר",
-      "gloss": "kunigaikštis"
+      "gloss": "vadas"
     },
     {
       "surface": "מנוחה",
-      "gloss": "ramybės"
+      "gloss": "poilsio"
     }
   ],
-  "timestamp": "2026-10-20T08:09:53.789857544Z",
+  "timestamp": "2026-10-20T12:32:57.473826731Z",
   "model": "glm-5.3"
 }

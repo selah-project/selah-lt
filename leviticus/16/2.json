@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכפרת",
-      "rationale": "'sūkdė' (dangtis) vs 'gailestingumo sostas' tradicinis vertimas; žodis reiškia dangtį, dengiantį skrynią"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מבית",
-      "rationale": "pažodžiui 'iš vidaus (namo)' — 'už uždangos'"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Mošei: Kalbėk Aharonui, savo broliui, kad jis neitų bet kuriuo metu į šventovę, už uždangos, prie sūkdės, kuri yra ant skrynios, kad jis nemirtų, nes debesyje aš pasirodysiu virš sūkdės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e09f2501975e233fe541d6cffc035133522fcb252ea6750f4b9ae54699c0b02a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/16\/1-4.1792473539545.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: Kalbėk su Aharonu, tavo broliu, kad jis neitų kiekvienu metu ⟨את⟩ į šventumą, iš vidaus už uždangos, prie veido sūkinio, kuris yra ant aronų, kad jis nemirtų, nes debesyje aš pasirodysiu ant sūkinio.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prie"
     },
     {
       "surface": "משה",
-      "gloss": "Mošei"
+      "gloss": "Mošės"
     },
     {
       "surface": "דבר",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "su"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharonui"
+      "gloss": "Aharonu"
     },
     {
       "surface": "אחיך",
-      "gloss": "savo broliui"
+      "gloss": "tavo broliu"
     },
     {
       "surface": "ואל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "bet kuriuo"
+      "gloss": "kiekvienu"
     },
     {
       "surface": "עת",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "šventovę"
+      "gloss": "šventumą"
     },
     {
       "surface": "מבית",
-      "gloss": "už"
+      "gloss": "iš vidaus"
     },
     {
       "surface": "לפרכת",
-      "gloss": "uždangos"
+      "gloss": "už uždangos"
     },
     {
       "surface": "אל",
@@ -98,15 +77,15 @@
     },
     {
       "surface": "פני",
-      "gloss": ""
+      "gloss": "veido"
     },
     {
       "surface": "הכפרת",
-      "gloss": "sūkdės"
+      "gloss": "sūkinio"
     },
     {
       "surface": "אשר",
-      "gloss": "kuri"
+      "gloss": "kuris"
     },
     {
       "surface": "על",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "הארן",
-      "gloss": "skrynios"
+      "gloss": "aronų"
     },
     {
       "surface": "ולא",
@@ -138,13 +117,13 @@
     },
     {
       "surface": "על",
-      "gloss": "virš"
+      "gloss": "ant"
     },
     {
       "surface": "הכפרת",
-      "gloss": "sūkdės"
+      "gloss": "sūkinio"
     }
   ],
-  "timestamp": "2026-10-20T05:18:59.550360955Z",
+  "timestamp": "2026-10-20T12:38:33.227386102Z",
   "model": "glm-5.3"
 }

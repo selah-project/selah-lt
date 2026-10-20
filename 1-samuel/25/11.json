@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "טבחתי \/ טבחתי",
-      "rationale": "Daiktavardis „skerdena“ ir veiksmažodis „užskersti“ — ta pati šaknis du kartus iš eilės"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אי מזה המה",
-      "rationale": "Pažodžiui „kur iš šito — jie?“; lietuviškai „iš kur jie?“"
-    }
-  ],
-  "translation": "Ir ar imsiu ⟨את⟩ savo duoną, ir ⟨את⟩ savo vandenį, ir ⟨את⟩ savo skerdeną, kurią esu užskerdes savo kirpėjams, ir duosiu vyrams, kurių aš nežinau, iš kur jie?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/9-12.1792477634710.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ar turėčiau imti ⟨את⟩ savo duoną ir ⟨את⟩ savo vandenį, ir ⟨את⟩ savo skersteną mėsą, kurią paskerčiau savo kirpėjams, ir atiduoti ⟨tai⟩ vyrams, kurių aš nežinau, iš kur jie?",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "ir ar imsiu"
+      "gloss": "imti"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "savo vandenį"
     },
     {
@@ -52,12 +31,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "savo skerdeną"
+      "gloss": "⟨את⟩",
+      "marks": "savo skersteną mėsą"
     },
     {
       "surface": "טבחתי",
-      "gloss": "savo skerdeną"
+      "gloss": "skersteną mėsą"
     },
     {
       "surface": "אשר",
@@ -65,7 +44,7 @@
     },
     {
       "surface": "טבחתי",
-      "gloss": "esu užskerdes"
+      "gloss": "paskerčiau"
     },
     {
       "surface": "לגזזי",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "ir duosiu"
+      "gloss": "atiduoti"
     },
     {
       "surface": "לאנשים",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "žinau"
+      "gloss": "aš nežinau"
     },
     {
       "surface": "אי",
@@ -104,6 +83,6 @@
       "gloss": "jie"
     }
   ],
-  "timestamp": "2026-10-20T06:27:14.713989553Z",
+  "timestamp": "2026-10-20T12:08:36.458911024Z",
   "model": "glm-5.3"
 }

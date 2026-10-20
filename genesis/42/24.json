@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמעון \/ וישמע",
-      "rationale": "surįšamas Šimonas — jo vardas iš שמע 'girdėti', o broliai 21 eilutėje 'neišgirdo'"
-    }
-  ],
-  "translation": "Ir jis nusisuko nuo jų ir verkė; ir grįžo pas juos, ir kalbėjo jiems; ir paėmė iš jų ⟨את⟩ Simoną ir surišo ⟨את⟩ jį jų akivaizdoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "edb09b9d8fb3fdfa3fd6a3ca91b8cf63e3791071989974a20b12d9f736c19c66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/21-24.1792471923610.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis nusisuko nuo jų, ir verkė; ir sugrįžo pas juos, ir kalbėjo su jais, ir paėmė ⟨את⟩ iš jų ⟨את⟩ Šimono, ir surišo ⟨את⟩ jį jų akivaizdoje.",
   "tokens": [
     {
       "surface": "ויסב",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "ir grįžo"
+      "gloss": "ir sugrįžo"
     },
     {
       "surface": "אלהם",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "jiems"
+      "gloss": "su jais"
     },
     {
       "surface": "ויקח",
@@ -57,16 +41,16 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "iš jų ⟨את⟩"
+      "gloss": "⟨את⟩ iš jų"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Simoną"
+      "marks": "Šimono"
     },
     {
       "surface": "שמעון",
-      "gloss": "Simoną"
+      "gloss": "Šimono"
     },
     {
       "surface": "ויאסר",
@@ -74,14 +58,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jį — surištam objektas, jų akivaizdoje"
     },
     {
       "surface": "לעיניהם",
       "gloss": "jų akivaizdoje"
     }
   ],
-  "timestamp": "2026-10-20T04:52:03.614570690Z",
+  "timestamp": "2026-10-20T12:27:06.111380861Z",
   "model": "glm-5.3"
 }

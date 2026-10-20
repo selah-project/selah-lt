@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "בריאה",
-      "rationale": "Žodis „sukurtas dalykas, naujovė“ Tanache tik čia — iš šaknies ברא."
-    },
-    {
-      "kind": "substitution",
-      "subject": "šeolą",
-      "rationale": "שאול — ne „pragaras“, o požeminis mirusiųjų pasaulis."
-    },
-    {
-      "kind": "you",
-      "subject": "pažinsite",
-      "rationale": "Tiesioginis kreipimasis į susirinkimą: jie patys taps liudytojais."
-    }
-  ],
-  "translation": "O jei Jahvė padarys kūrinį-naują ir žemė prasižios, atvers savo burną, ir praris ⟨את⟩ juos bei ⟨את⟩ viską, kas jų yra, ir jie gyvi nusileis į šeolą — tada pažinsite, kad šitie žmonės niekino ⟨את⟩ Jahvę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "721770a72061354889270f3106b5c2d1c66012372fb1a02abf3cda4ce5c40d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/29-32.1792474305768.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O jei kūrinys — naujas dalykas — Jahvė sukurs, ir žemė pravers ⟨את⟩ savo burną, ir praris juos bei ⟨את⟩ visa, kas jų yra, ir jie gyvi nusileis į šeolą, tada jūs žinosite, kad šie žmonės niekino ⟨את⟩ Jahvę.",
   "tokens": [
     {
       "surface": "ואם",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בריאה",
-      "gloss": "kūrinį-naują"
+      "gloss": "kūrinys — naujas dalykas"
     },
     {
       "surface": "יברא",
-      "gloss": "padarys"
+      "gloss": "sukurs"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ופצתה",
-      "gloss": "ir prasižios"
+      "gloss": "pravers"
     },
     {
       "surface": "האדמה",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "ובלעה",
-      "gloss": "ir praris"
+      "gloss": "praris"
     },
     {
       "surface": "אתם",
@@ -77,12 +51,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "bei ⟨את⟩",
-      "marks": "viską, kas jų yra"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visa, kas jų yra"
     },
     {
       "surface": "כל",
-      "gloss": "viską"
+      "gloss": "visa"
     },
     {
       "surface": "אשר",
@@ -106,7 +80,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "tada pažinsite"
+      "gloss": "tada jūs žinosite"
     },
     {
       "surface": "כי",
@@ -118,11 +92,11 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "žmonės"
+      "gloss": "šie žmonės"
     },
     {
       "surface": "האלה",
-      "gloss": "šitie"
+      "gloss": "šie"
     },
     {
       "surface": "את",
@@ -134,6 +108,6 @@
       "gloss": "Jahvę"
     }
   ],
-  "timestamp": "2026-10-20T05:31:45.772287315Z",
+  "timestamp": "2026-10-20T12:40:39.337922734Z",
   "model": "glm-5.3"
 }

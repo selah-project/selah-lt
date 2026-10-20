@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "per ugnį",
-      "rationale": "העביר באש — 'pervedė per ugnį': vaikų paaukojimas Molochui ar tik simbolinis pravedimas per liepsną; vertėjai nesutaria."
-    }
-  ],
-  "translation": "ir ėjo keliais, kuriais ėjo Jisraelio karaliai, — taip pat ir ⟨את⟩ savo sūnų pervedė per ugnį, pagal tautų pasibjaurėjimus, kuriuos Jahvė išstūmė iš Jisraelio sūnų akiračio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/16\/1-4.1792480317972.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ėjo keliu Jisraelio karalių, ir netgi ⟨את⟩ savo sūnų pervedė per ugnį, pagal tautų pasibjaurėjimus, kurias Jahvė išvarė iš Jisraelio sūnų akiračio.",
   "tokens": [
     {
       "surface": "וילך",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "keliais"
+      "gloss": "keliu"
     },
     {
       "surface": "מלכי",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "taip pat"
+      "gloss": "ir netgi"
     },
     {
       "surface": "את",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "העביר",
-      "gloss": "pervedė"
+      "gloss": "pervedė per"
     },
     {
       "surface": "באש",
-      "gloss": "per ugnį"
+      "gloss": "ugnį"
     },
     {
       "surface": "כתעבות",
@@ -70,11 +54,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurias"
     },
     {
       "surface": "הוריש",
-      "gloss": "išstūmė"
+      "gloss": "išvarė"
     },
     {
       "surface": "יהוה",
@@ -83,7 +67,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tautų pasibjaurėjimus"
+      "marks": "jas (tautas)"
     },
     {
       "surface": "מפני",
@@ -98,6 +82,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T07:11:57.974500477Z",
+  "timestamp": "2026-10-20T12:12:02.011222463Z",
   "model": "glm-5.3"
 }

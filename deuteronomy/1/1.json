@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מול סוף",
-      "rationale": "„priešais Sufą“ — Sufas be „raudonosios jūros“ (KJV tradicija) arba vietovė, arba nendrių jūra."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "די זהב",
-      "rationale": "„Di Zahabas“ reiškia „aukso gausa“ — vietovardis, skambantis kaip ironija apie auksą."
-    }
-  ],
-  "translation": "Šitie žodžiai, kuriuos Mošė kalbėjo visam Jisraeliui aname Jordano krante, dykumoje, Araboje, priešais Sufą, tarp Parano ir Tofelio, bei Labano, bei Cacrot, bei Di Zahabo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/1-4.1792474865121.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šie ⟨yra⟩ žodžiai, kuriuos Mošė kalbėjo visam Jisraeliui anapus Jordano, dykumoje, Araboje, priešais Sufą, tarp Parano ir Tofelio, ir Labano, ir Chaceroto, ir Di Zahabo.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "Šitie"
+      "gloss": "Šie"
     },
     {
       "surface": "הדברים",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "aname krante"
+      "gloss": "anapus"
     },
     {
       "surface": "הירדן",
@@ -102,21 +81,21 @@
     },
     {
       "surface": "ולבן",
-      "gloss": "bei Labano"
+      "gloss": "ir Labano"
     },
     {
       "surface": "וחצרת",
-      "gloss": "bei Cacrot"
+      "gloss": "ir Chaceroto"
     },
     {
       "surface": "ודי",
-      "gloss": "bei Di"
+      "gloss": "ir Di"
     },
     {
       "surface": "זהב",
       "gloss": "Zahabo"
     }
   ],
-  "timestamp": "2026-10-20T05:41:05.191332565Z",
+  "timestamp": "2026-10-20T12:16:14.469395023Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בנותיה",
-      "rationale": "Pažodžiui 'jo dukterys' — reiškia priklausomus miestelius."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויואל",
-      "rationale": "'Nutarė\/norėjo\/prisiruošė gyventi' — vertėjai skiriasi tarp valios ir leistino likimo."
-    }
-  ],
-  "translation": "Ir Menašė neišnaikino ⟨את⟩ Beit-Šeano ir jo miestelių, nei ⟨את⟩ Taanako ir jo miestelių, nei ⟨את⟩ Doro gyventojų ir jų miestelių, nei ⟨את⟩ Jibleamo gyventojų ir jų miestelių, nei ⟨את⟩ Megido gyventojų ir jų miestelių, ir kenauniečiai nutarė gyventi šioje žemėje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/1\/25-28.1792476323593.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Menašė neišvarė ⟨את⟩ Beit Šeano ir ⟨את⟩ jos dukrų, nei ⟨את⟩ Taanako ir ⟨את⟩ jos dukrų, nei ⟨את⟩ Doro gyventojus ir ⟨את⟩ jos dukrų, nei ⟨את⟩ Ibleamo gyventojus ir ⟨את⟩ jos dukrų, nei ⟨את⟩ Megido gyventojus ir ⟨את⟩ jos dukrų, ir kanaaniečiai sutiko gyventi ⟨את⟩-žemėje — šitoje žemėje.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "išnaikino"
+      "gloss": "išvarė"
     },
     {
       "surface": "מנשה",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Beit-Šeaną"
+      "marks": "Beit Šeanas"
     },
     {
       "surface": "בית",
-      "gloss": "Beit-"
+      "gloss": "Beit"
     },
     {
       "surface": "שאן",
@@ -55,17 +34,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "jo miestelius"
+      "gloss": "⟨את⟩",
+      "marks": "jos dukros"
     },
     {
       "surface": "בנותיה",
-      "gloss": "jo miestelius"
+      "gloss": "jos dukros"
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "Taanaką"
+      "gloss": "⟨את⟩",
+      "marks": "Taanakas"
     },
     {
       "surface": "תענך",
@@ -73,17 +52,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "jo miestelius"
+      "gloss": "⟨את⟩",
+      "marks": "jos dukros"
     },
     {
       "surface": "בנתיה",
-      "gloss": "jo miestelius"
+      "gloss": "jos dukros"
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "Doro gyventojus"
+      "gloss": "⟨את⟩",
+      "marks": "Doro gyventojai"
     },
     {
       "surface": "ישב",
@@ -95,17 +74,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "jų miestelius"
+      "gloss": "⟨את⟩",
+      "marks": "jos dukros"
     },
     {
       "surface": "בנותיה",
-      "gloss": "jų miestelius"
+      "gloss": "jos dukros"
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "Jibleamo gyventojus"
+      "gloss": "⟨את⟩",
+      "marks": "Ibleamo gyventojai"
     },
     {
       "surface": "יושבי",
@@ -113,21 +92,21 @@
     },
     {
       "surface": "יבלעם",
-      "gloss": "Jibleamo"
+      "gloss": "Ibleamo"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "jų miestelius"
+      "gloss": "⟨את⟩",
+      "marks": "jos dukros"
     },
     {
       "surface": "בנתיה",
-      "gloss": "jų miestelius"
+      "gloss": "jos dukros"
     },
     {
       "surface": "ואת",
-      "gloss": "nei ⟨את⟩",
-      "marks": "Megido gyventojus"
+      "gloss": "⟨את⟩",
+      "marks": "Megido gyventojai"
     },
     {
       "surface": "יושבי",
@@ -139,20 +118,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "jų miestelius"
+      "gloss": "⟨את⟩",
+      "marks": "jos dukros"
     },
     {
       "surface": "בנותיה",
-      "gloss": "jų miestelius"
+      "gloss": "jos dukros"
     },
     {
       "surface": "ויואל",
-      "gloss": "ir nutarė"
+      "gloss": "sutoko"
     },
     {
       "surface": "הכנעני",
-      "gloss": "kenauniečiai"
+      "gloss": "kanaaniečiai"
     },
     {
       "surface": "לשבת",
@@ -164,9 +143,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "šioje"
+      "gloss": "šitoje"
     }
   ],
-  "timestamp": "2026-10-20T06:05:23.595720661Z",
+  "timestamp": "2026-10-20T12:36:05.794986835Z",
   "model": "glm-5.3"
 }

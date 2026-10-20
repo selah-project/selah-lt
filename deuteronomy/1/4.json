@@ -5,61 +5,40 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nukovė",
-      "rationale": "הכה pažodžiui „trenkė\/nukirto“ — čia apie karinį pralaimėjimą, ne mirties bausmę."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עשתרת",
-      "rationale": "Aštarotė — ir vietovė Bašane, ir deivės Aštartės vardas; dviprasmybė lietuviškai prarandama."
-    }
-  ],
-  "translation": "Po to, kai jis nukovė ⟨את⟩ Sihoną, amoritų karalių, gyvenantį Chešbone, ir ⟨את⟩ Ogą, Bašano karalių, gyvenantį Aštarote Edreyje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/1-4.1792474865121.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Po to, kai buvo sumuštas ⟨את⟩ Sichonas, emoriejų karalius, gyvenantis Chešbone, ir ⟨את⟩ Ogas, Bašano karalius, gyvenantis Aštrote Edrejaus krašte,",
   "tokens": [
     {
       "surface": "אחרי",
-      "gloss": "Po to, kai"
+      "gloss": "po to"
     },
     {
       "surface": "הכתו",
-      "gloss": "jis nukovė"
+      "gloss": "kai buvo sumuštas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sihoną"
+      "marks": "Sichonas"
     },
     {
       "surface": "סיחן",
-      "gloss": "Sihoną"
+      "gloss": "Sichonas"
     },
     {
       "surface": "מלך",
-      "gloss": "karalių"
+      "gloss": "karalius"
     },
     {
       "surface": "האמרי",
-      "gloss": "amoritų"
+      "gloss": "emoriejų"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kuris"
     },
     {
       "surface": "יושב",
-      "gloss": "gyvenantį"
+      "gloss": "gyvenantis"
     },
     {
       "surface": "בחשבון",
@@ -68,15 +47,15 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Ogą"
+      "marks": "Ogas"
     },
     {
       "surface": "עוג",
-      "gloss": "Ogą"
+      "gloss": "Ogas"
     },
     {
       "surface": "מלך",
-      "gloss": "karalių"
+      "gloss": "karalius"
     },
     {
       "surface": "הבשן",
@@ -84,21 +63,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kuris"
     },
     {
       "surface": "יושב",
-      "gloss": "gyvenantį"
+      "gloss": "gyvenantis"
     },
     {
       "surface": "בעשתרת",
-      "gloss": "Aštarote"
+      "gloss": "Aštrote"
     },
     {
       "surface": "באדרעי",
-      "gloss": "Edreyje"
+      "gloss": "Edrejaus krašte"
     }
   ],
-  "timestamp": "2026-10-20T05:41:05.194963759Z",
+  "timestamp": "2026-10-20T12:16:10.790029056Z",
   "model": "glm-5.3"
 }

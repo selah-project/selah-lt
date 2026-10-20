@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨esu⟩",
-      "rationale": "Hebėjų kalboje nėra veiksmažodžio „būti“ — pridėta lietuvių kalbos griovio"
-    },
-    {
-      "kind": "crux",
-      "subject": "pirmųjų",
-      "rationale": "ראשנים: KJV „pirmųjų (protėvių)“ vs citeretorium „pirmosios sandros“ — kas buvo pirmieji, žmonės ar sandora"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sandora",
-      "rationale": "ברית verčiama kaip „sandora“, ne „paktas“ ar „sąjunga“ — viena forma visame Tanache"
-    }
-  ],
-  "translation": "Ir aš prisiminsiu jiems sandrą pirmųjų, kuriuos išvedžiau iš Micraimo žemės tautų akivaizdoje, būti jiems Elohim — aš ⟨esu⟩ Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/45-46.1792473780646.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsiminsiu jiems sandorą pirmųjų, kuriuos išvedžiau ⟨את⟩ iš krašto Micraimo tautų akivaizdoje, kad būčiau jiems Elohim — aš, Jahvė.",
   "tokens": [
     {
       "surface": "וזכרתי",
-      "gloss": "Ir aš prisiminsiu"
+      "gloss": "ir atsiminsiu"
     },
     {
       "surface": "להם",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ברית",
-      "gloss": "sandora"
+      "gloss": "sandorą"
     },
     {
       "surface": "ראשנים",
@@ -60,11 +34,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "juos — pirmuosius (protėvius)"
+      "marks": "juos — iš krašto Micraimo"
     },
     {
       "surface": "מארץ",
-      "gloss": "iš žemės"
+      "gloss": "iš krašto"
     },
     {
       "surface": "מצרים",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "להית",
-      "gloss": "būti"
+      "gloss": "kad būčiau"
     },
     {
       "surface": "להם",
@@ -99,6 +73,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T05:23:00.647177061Z",
+  "timestamp": "2026-10-20T12:38:58.304234482Z",
   "model": "glm-5.3"
 }

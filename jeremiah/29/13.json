@@ -5,31 +5,16 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ištrėmimui į Babiloną",
-      "rationale": "Pažadas, kreiptas į ištremtuosius per Jeremiją."
-    }
-  ],
-  "translation": "Ir jūs manęs ieškosite ir rasite, nes manęs ieškosite visa savo širdimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/29\/13-16.1792483023926.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jūs manęs ieškosite ir ⟨את⟩ mane rasite, nes mane ieškosite visa savo širdimi.",
   "tokens": [
     {
       "surface": "ובקשתם",
-      "gloss": "ir ieškosite"
+      "gloss": "ir jūs ieškosite"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ manęs"
+      "gloss": "⟨את⟩",
+      "marks": "manęs \/ mane"
     },
     {
       "surface": "ומצאתם",
@@ -41,7 +26,7 @@
     },
     {
       "surface": "תדרשני",
-      "gloss": "manęs ieškosite"
+      "gloss": "mane ieškosite"
     },
     {
       "surface": "בכל",
@@ -52,6 +37,6 @@
       "gloss": "savo širdimi"
     }
   ],
-  "timestamp": "2026-10-20T07:57:03.927735633Z",
+  "timestamp": "2026-10-20T12:30:05.387973526Z",
   "model": "glm-5.3"
 }

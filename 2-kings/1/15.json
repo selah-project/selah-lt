@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אותו",
-      "rationale": "čia 'su juo', o ne tiesioginis objektas — 'eik žemyn su juo'; kai kurie vertėjai skaito kaip DOM"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvės pasiuntinys → Elijui",
-      "rationale": "tiesioginis įsakymas Elijui: nusileisk, nebijok"
-    }
-  ],
-  "translation": "Ir Jahvės pasiuntinys kalbėjo Elijui: Nusileisk su juo, nebijok jo veido. Ir jis atsikėlė ir nusileido su juo pas karalių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/1\/13-16.1792479790378.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvės pasiuntinys tarė Elijahu: Nueik žemyn ⟨את⟩ su juo, nebijok jo veido. Ir jis atsikėlė ir nuėjo žemyn ⟨את⟩ su juo pas karalių.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Ir kalbėjo"
+      "gloss": "ir tarė"
     },
     {
       "surface": "מלאך",
@@ -42,19 +21,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "pas"
+      "gloss": "—"
     },
     {
       "surface": "אליהו",
-      "gloss": "Eliją"
+      "gloss": "Elijahu"
     },
     {
       "surface": "רד",
-      "gloss": "Nusileisk"
+      "gloss": "nueik žemyn"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨את⟩ su juo",
+      "marks": "su juo (su trečiuoju penkiasdešimtiku)"
     },
     {
       "surface": "אל",
@@ -70,15 +50,16 @@
     },
     {
       "surface": "ויקם",
-      "gloss": "Ir atsikėlė"
+      "gloss": "ir atsikėlė"
     },
     {
       "surface": "וירד",
-      "gloss": "ir nusileido"
+      "gloss": "ir nuėjo žemyn"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨את⟩ su juo",
+      "marks": "pas karalių"
     },
     {
       "surface": "אל",
@@ -89,6 +70,6 @@
       "gloss": "karalių"
     }
   ],
-  "timestamp": "2026-10-20T07:03:10.381478175Z",
+  "timestamp": "2026-10-20T12:11:51.367742901Z",
   "model": "glm-5.3"
 }

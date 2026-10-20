@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra \/ nėra",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio; lietuvių reikalauja ⟨yra⟩ ir ⟨nėra⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "broliams kalba Jozefui",
-      "rationale": "Broliai atsako į Jozefo kaltinimą, kreipdamiesi į jį kaip į valdovą"
-    }
-  ],
-  "translation": "Ir jie tarė: Tavo tarnai — dvylika brolių, mes esame vieno vyro sūnūs Kanaano žemėje, ir štai mažiausias ⟨yra⟩ šiandien su mūsų tėvu, o vieno ⟨nėra⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/42\/13-16.1792471905741.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie tarė: Dvylika, tavo vergai, broliai esame mes, vieno vyrio sūnūs Kenaano žemėje; ir štai jauniausias šiandien ⟨yra⟩ pas ⟨את⟩ mūsų tėvą, o vieno ⟨nėra⟩.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "שנים",
-      "gloss": "dvylika"
+      "gloss": "du"
     },
     {
       "surface": "עשר",
-      "gloss": "(dvylika)"
+      "gloss": "dešimt"
     },
     {
       "surface": "עבדיך",
-      "gloss": "tavo tarnai"
+      "gloss": "tavo vergai"
     },
     {
       "surface": "אחים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "mes"
+      "gloss": "esame mes"
     },
     {
       "surface": "בני",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "vieno vyro"
+      "gloss": "vyrio"
     },
     {
       "surface": "אחד",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kanaano"
+      "gloss": "Kenaano"
     },
     {
       "surface": "והנה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "הקטן",
-      "gloss": "mažiausias"
+      "gloss": "jauniausias"
     },
     {
       "surface": "את",
@@ -87,21 +66,21 @@
     },
     {
       "surface": "אבינו",
-      "gloss": "mūsų tėvas"
+      "gloss": "mūsų tėvą"
     },
     {
       "surface": "היום",
       "gloss": "šiandien"
     },
     {
-      "surface": "ווהאחד",
-      "gloss": "o vieno"
+      "surface": "והאחד",
+      "gloss": "o vienas"
     },
     {
       "surface": "איננו",
-      "gloss": "nėra"
+      "gloss": "jo nėra"
     }
   ],
-  "timestamp": "2026-10-20T04:51:45.744751710Z",
+  "timestamp": "2026-10-20T12:26:36.036852363Z",
   "model": "glm-5.3"
 }

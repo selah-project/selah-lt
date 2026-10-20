@@ -5,23 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 65,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "būsią",
-      "rationale": "Hebrajiškai busena nepridėta, „su jais“ pakanka"
-    }
-  ],
-  "translation": "Nevargs veltui ir negimdys baimėje; nes jie — Jahvės palaimintųjų sėkla, ⟨את⟩ ir jų vaikaičiai ⟨būsią⟩ su jais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "578420fffc6089f267425b5bfce70af2733c9d7132c0d4690945e0838dcb9dd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/65\/21-24.1792482039247.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jie nebus varginsi dėl tuštybės ir negimdys siaubo vaikų, nes jie — Jahvės palaimintųjų sėkla, ir jų palikuonys ⟨אתם⟩ — su jais.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,19 +13,15 @@
     },
     {
       "surface": "ייגעו",
-      "gloss": "vargs"
+      "gloss": "varginsis"
     },
     {
       "surface": "לריק",
-      "gloss": "veltui"
+      "gloss": "dėl tuštybės"
     },
     {
       "surface": "ולא",
       "gloss": "ir ne"
-    },
-    {
-      "surface": "ייגעו2",
-      "gloss": ""
     },
     {
       "surface": "ילדו",
@@ -49,7 +29,7 @@
     },
     {
       "surface": "לבהלה",
-      "gloss": "baimei"
+      "gloss": "siaubo vaikams"
     },
     {
       "surface": "כי",
@@ -73,13 +53,14 @@
     },
     {
       "surface": "וצאצאיהם",
-      "gloss": "⟨את⟩ ir jų vaikaičiai"
+      "gloss": "ir jų palikuonys"
     },
     {
       "surface": "אתם",
-      "gloss": "su jais"
+      "gloss": "⟨אתם⟩",
+      "marks": "pas juos — prepozicija artumo, ne objekto žymeklis"
     }
   ],
-  "timestamp": "2026-10-20T07:40:39.253234403Z",
+  "timestamp": "2026-10-20T12:29:24.544155072Z",
   "model": "glm-5.3"
 }

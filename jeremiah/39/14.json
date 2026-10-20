@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "המטרה",
-      "rationale": "Pažodžiui 'apšaudymo\/sargybos' kiemas — kalėjimo kiemas; vertėjai svyruoja tarp 'kalėjimo' ir 'sargybos'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אל",
-      "rationale": "גדליהו ženklas 'atidavė jį pas Gedaliją' — ar אל čia 'pas', ar priklauso הוציא 'į namą'; verčiu paprasčiausiai 'atidavė Gedalijui'."
-    }
-  ],
-  "translation": "Ir jie pasiuntė ir paėmė ⟨את⟩ Jeremiją iš sargybos kiemo, ir atidavė jį Gedalijui, Ahikamo sūnui, Šafano sūnui, kad išvestų jį į namą; ir jis gyveno tarp tautos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bf1ae255eccc1ec5f88f109689a31ab6703f68ef5d6190be4fbe4516c0a474d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/39\/13-16.1792483263736.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie pasiuntė ir paėmė ⟨את⟩ Jeremiją iš sargybos kiemo, ir atidavė ⟨את⟩ jį Gedalijui, Achikamo sūnui, Šafano sūnui, kad išvestų jį į namą; ir jis gyveno tarp žmonių.",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -59,7 +38,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "Gedalijui"
     },
     {
       "surface": "אל",
@@ -75,7 +55,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikamo"
+      "gloss": "Achikamo"
     },
     {
       "surface": "בן",
@@ -99,7 +79,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "ir gyveno"
+      "gloss": "ir jis gyveno"
     },
     {
       "surface": "בתוך",
@@ -107,9 +87,9 @@
     },
     {
       "surface": "העם",
-      "gloss": "tautos"
+      "gloss": "žmonių"
     }
   ],
-  "timestamp": "2026-10-20T08:01:03.739337042Z",
+  "timestamp": "2026-10-20T12:31:36.657620364Z",
   "model": "glm-5.3"
 }

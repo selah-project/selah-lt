@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "didelis įniršis",
-      "rationale": "קצף גדול: kieno rūstybė — Jisraelio kariuomenės pasibjaurėjimo, ar Jahvės rūstybės dėl kraujo ant sienos; tekstas to nesako."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויעלהו עלה",
-      "rationale": "'pakėlė jį — deginamoji auka': ta pati šaknis עלה (kilti \/ auka, kuri pakyla dūmuose) — žodžių žaismas dingsta lietuviškai."
-    },
-    {
-      "kind": "elision",
-      "subject": "ויסעו",
-      "rationale": "'pakilo' — hebrajiškai stovyklavietės kuolai ištraukiami; karinio išvykimo vaizdas."
-    }
-  ],
-  "translation": "Ir jis paėmė ⟨את⟩ savo sūnų, pirmagimį, kuris turėjo karaliauti jo vietoje, ir aukojo jį deginamąja auka ant sienos, ir kilo didelis įniršis prieš Jisraelį, ir jie pakilo nuo jo ir sugrįžo į savo žemę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fe1b0d40ea7af4f15b55e3b0870e513963e006713ad29d80724305c08210a945",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/3\/25-27.1792479794891.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis paėmė ⟨את⟩ savo pirmagimį sūnų, kuris karaliaus vietoj jo, ir aukino jį deginamąja auka ant sienos; ir kilo didis rūstis prieš Jisraelį, ir jie traukėsi nuo jo, ir sugrįžo į savo kraštą.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -40,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo sūnų, pirmagimį"
+      "marks": "savo pirmagimį sūnų"
     },
     {
       "surface": "בנו",
@@ -56,19 +30,19 @@
     },
     {
       "surface": "ימלך",
-      "gloss": "turėjo karaliauti"
+      "gloss": "karaliaus"
     },
     {
       "surface": "תחתיו",
-      "gloss": "jo vietoje"
+      "gloss": "vietoj jo"
     },
     {
       "surface": "ויעלהו",
-      "gloss": "ir aukojo jį"
+      "gloss": "ir aukino jį"
     },
     {
       "surface": "עלה",
-      "gloss": "deginamąja auka"
+      "gloss": "deginamoji auka"
     },
     {
       "surface": "על",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "קצף",
-      "gloss": "įniršis"
+      "gloss": "rūstis"
     },
     {
       "surface": "גדול",
-      "gloss": "didelis"
+      "gloss": "didis"
     },
     {
       "surface": "על",
@@ -99,8 +73,8 @@
       "gloss": "Jisraelį"
     },
     {
-      "surface": "ויסעu",
-      "gloss": "ir jie pakilo"
+      "surface": "ויסעו",
+      "gloss": "ir jie traukėsi"
     },
     {
       "surface": "מעליו",
@@ -112,9 +86,9 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "į savo žemę"
+      "gloss": "į savo kraštą"
     }
   ],
-  "timestamp": "2026-10-20T07:03:14.893796175Z",
+  "timestamp": "2026-10-20T12:12:59.088220098Z",
   "model": "glm-5.3"
 }

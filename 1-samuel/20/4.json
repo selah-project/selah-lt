@@ -5,44 +5,23 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gyvybė",
-      "rationale": "נפש čia reiškia patį Davidą jo gyvybės jėga — 'ką norės tavo gyvybė', o ne 'siela'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Davidui",
-      "rationale": "Jonatanas kviečia Davidą pasakyti savo norą — atvira pasiūlymo forma"
-    }
-  ],
-  "translation": "Ir tarė Jonatanas Davidui: ką sakys tavo gyvybė, tą aš padarysiu tau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/1-4.1792477474904.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jonathanas tarė Davidui: ką sako tavo nefes, ir aš padarysiu ⟨tau⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jonatanas"
+      "gloss": "Jonathanas"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "į"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidui"
+      "gloss": "Davidą"
     },
     {
       "surface": "מה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "תאמר",
-      "gloss": "sakys"
+      "gloss": "sako"
     },
     {
       "surface": "נפשך",
-      "gloss": "tavo gyvybė"
+      "gloss": "tavo nefes"
     },
     {
       "surface": "ואעשה",
@@ -62,9 +41,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "tau"
+      "gloss": "⟨tau⟩"
     }
   ],
-  "timestamp": "2026-10-20T06:24:34.925287155Z",
+  "timestamp": "2026-10-20T12:08:16.854887631Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨įtūžis⟩",
-      "rationale": "ויחר pažodžiui 'sudegė' — daiktavardis 'pyktis' hebrajiškai nėra, pridėta lietuviškai"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mincha",
-      "rationale": "מנחתם — auka-dovana; pagal D2 rašoma pagal skambesį, ne 'aukojimas' vienas"
-    }
-  ],
-  "translation": "Ir Mošei labai užsidegė ⟨įtūžis⟩, ir jis tarė Jahvei: Nepalink prie jų minchos — nė vieno jų asilo nepriėmiau ir nė vieno iš jų nė nuskriaudžiau ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/13-16.1792474314985.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošei labai užsidegė pykčiu, ir jis tarė Jahvei: nepripažink jų minchos — nė vieno asilų iš jų aš neėmiau ir nė vieno iš jų ⟨את⟩ neskriaudžiau.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ir užsidegė"
+      "gloss": "užsidegė pykčiu"
     },
     {
       "surface": "למשה",
-      "gloss": "Mošei"
+      "gloss": "Ir Mošei"
     },
     {
       "surface": "מאד",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "יהוה",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "תפן",
-      "gloss": "palink prie"
+      "gloss": "pripažink (nepripažink)"
     },
     {
       "surface": "אל",
-      "gloss": "prie"
+      "gloss": "—"
     },
     {
       "surface": "מנחתם",
-      "gloss": "jų minchos"
+      "gloss": "jų minchą"
     },
     {
       "surface": "לא",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "חמור",
-      "gloss": "asilo"
+      "gloss": "asilų"
     },
     {
       "surface": "אחד",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "priėmiau"
+      "gloss": "aš neėmiau"
     },
     {
       "surface": "ולא",
@@ -94,12 +73,12 @@
     },
     {
       "surface": "הרעתי",
-      "gloss": "nuskriaudžiau"
+      "gloss": "skriaudžiau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nė vieno"
+      "marks": "nė vieno iš jų"
     },
     {
       "surface": "אחד",
@@ -110,6 +89,6 @@
       "gloss": "iš jų"
     }
   ],
-  "timestamp": "2026-10-20T05:31:54.987692512Z",
+  "timestamp": "2026-10-20T12:40:27.928303049Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "eiti",
-      "rationale": "Hebrajų תלכו stovi paskutinis; lietuvių žodžių tvarka reikalauja pažymėto įterpimo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ilgai gyventumėte dienas",
-      "rationale": "הארכתם ימים pažodžiui 'pailginsite dienas' — idiomą 'pratęsti dienas' lietuviškai perteikia 'ilgai gyventi'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "tiesioginis kreipimasis į Izraelį Mošės kalboje"
-    }
-  ],
-  "translation": "Visu keliu, kuriuo Jahvė, jūsų Elohim, įsakė jums ⟨eiti⟩, jūs eisite, kad gyventumėte ir kad jums būtų gerai, ir kad ilgai gyventumėte ⟨dienas⟩ žemėje, kurią paveldėsite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "34f0c670934a57f4504d6821e7ea6cd01cf0be12d13089e1068b9f3a44fc6cdf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/5\/33-33.1792474898962.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visu keliu, kuriuo Jahvė, jūsų Elohim, įsakė ⟨את⟩ jums eiti, jūs eikite, kad gyventumėte ir kad jums būtų gerai, ir ilgai gyventumėte žemėje, kurią paveldėsite.",
   "tokens": [
     {
       "surface": "בכל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurio"
+      "gloss": "kuriuo"
     },
     {
       "surface": "צוה",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "תלכו",
-      "gloss": "jūs eisite"
+      "gloss": "jūs eikite"
     },
     {
       "surface": "למען",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "וטוב",
-      "gloss": "ir būtų gerai"
+      "gloss": "ir kad gerai"
     },
     {
       "surface": "לכם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "⟨dienas⟩"
+      "gloss": "dienu"
     },
     {
       "surface": "בארץ",
@@ -103,6 +77,6 @@
       "gloss": "paveldėsite"
     }
   ],
-  "timestamp": "2026-10-20T05:41:38.963833577Z",
+  "timestamp": "2026-10-20T12:18:04.382358478Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": " baudysiu",
-      "rationale": "Antras veiksmažodis hebrajų praleistas — „o aš — skorpionais“; lietuviškai pridėtas „baudysiu“ be skliaustų kadastro tikslumu būtų pridėjimas."
-    },
-    {
-      "kind": "idiom",
-      "subject": "skorpionais",
-      "rationale": "עקרבים — tikriausiai mazguota rimba su kabliais, ne gyvis; laikomasi pažodinio paveikslo."
-    }
-  ],
-  "translation": "ir kalbėjo jiems pagal vaikų patarimą, sakydamas: mano tėvas padarė jums jungą sunkų, o aš pridėsiu prie jo; mano tėvas baudė ⟨את⟩ jus rimbalais, o aš baudysiu skorpionais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/10\/13-16.1792493411100.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis kalbėjo jiems pagal jaunuolių patarimą, sakydamas: mano tėvas darė ⟨את⟩ jūsų jungą sunkų, o aš pridėsiu prie jo; mano tėvas baudė ⟨את⟩ jus rykštimis, o aš — skorpionais.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הילדים",
-      "gloss": "vaikų"
+      "gloss": "jaunuolių"
     },
     {
       "surface": "לאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אכביד",
-      "gloss": "padariau sunkų"
+      "gloss": "dariau sunkų"
     },
     {
       "surface": "את",
@@ -83,11 +62,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩ jus",
+      "marks": "rykštimis"
     },
     {
       "surface": "בשוטים",
-      "gloss": "rimbais"
+      "gloss": "rykštimis"
     },
     {
       "surface": "ואני",
@@ -98,6 +78,6 @@
       "gloss": "skorpionais"
     }
   ],
-  "timestamp": "2026-10-20T10:50:11.101056832Z",
+  "timestamp": "2026-10-20T12:09:03.253666271Z",
   "model": "glm-5.3"
 }

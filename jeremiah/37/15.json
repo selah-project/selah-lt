@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתו (paskutinis)",
-      "rationale": "Hebrajiškai vienaskaita 'jį' (namą), lietuviškai natūraliau daugiskaita 'juos' (namus)"
-    }
-  ],
-  "translation": "Ir kunigaikščiai supyko ant Jeremijo ir jį sumušė, ir įmetė jį į kalėjimo namus, į raštininko Jehonatano namus, nes ⟨את⟩ juos jie buvo padarę kalėjimo namais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6f54195d2cc6f60e689c53b6ae9762ffddb6ed69828e816b72a9dd838ebf3b1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/37\/13-16.1792483250164.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigaikščiai supyko ant Jeremijo ir sumušė ⟨את⟩ jį, ir įmetė ⟨את⟩ jį į kalėjimo namus, į Jehonatano raštininko namus, nes ⟨את⟩ juos buvo pavertę kalėjimo namais.",
   "tokens": [
     {
       "surface": "ויקצפו",
-      "gloss": "Ir supyko"
+      "gloss": "supyko"
     },
     {
       "surface": "השרים",
@@ -41,21 +25,21 @@
     },
     {
       "surface": "והכו",
-      "gloss": "ir sumušė"
+      "gloss": "sumušė"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "sumušė"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "ונתנו",
-      "gloss": "ir įmetė"
+      "gloss": "įmetė"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "įmetė"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "בית",
@@ -83,12 +67,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ juos",
-      "marks": "padarę"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "עשו",
-      "gloss": "padarę"
+      "gloss": "pavertė"
     },
     {
       "surface": "לבית",
@@ -99,6 +83,6 @@
       "gloss": "kalėjimo"
     }
   ],
-  "timestamp": "2026-10-20T08:00:50.167467038Z",
+  "timestamp": "2026-10-20T12:44:47.659789761Z",
   "model": "glm-5.3"
 }

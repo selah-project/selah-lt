@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "padarė kvapą dvokiančiu",
-      "rationale": "Hebrajų idiomą הבאשתם את ריחנו — „prijaukinote mūsų kvapą dvokti“ — reiškia „padarėte mus niekais, pasibjaurėjimu“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הבאשתם",
-      "rationale": "Veiksmažodis iš tikrųjų reiškia „dvokti, būti bjauriam“; „padarėte dvokiančiu“ laiko žodžio paveikslą."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ירא \/ וישפט",
-      "rationale": "Santrumpa-oath: „težiūri ir teisie“ — gunta formula, prarandanti ritmą."
-    }
-  ],
-  "translation": "Ir jie tarė jiems: Težiūri Jahvė ⟨į jus⟩ ir teisingai teisie, nes jūs padarėte mums kvapą dvokiančiu Farono akyse ir jo tarnų akyse — duoti kardą jų rankon, kad mus užmuštų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/5\/21-23.1792472208167.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie tarė jiems: Teįžiūri Jahvė ⟨į jus⟩ ir teisieja — jūs padarėte mums dvoką ⟨את⟩ — mūsų kvapą — Farao akimis ir jo tarnų akimis, duoti kalaviją jiems į ranką mus nužudyti.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ir jie tarė"
+      "gloss": "Ir jie tarė"
     },
     {
       "surface": "אלהם",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "težiūri"
+      "gloss": "Teįžiūri"
     },
     {
       "surface": "יהוה",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "וישפט",
-      "gloss": "ir teisie"
+      "gloss": "ir teisieja"
     },
     {
       "surface": "אשר",
-      "gloss": "nes"
+      "gloss": "—"
     },
     {
       "surface": "הבאשתם",
-      "gloss": "jūs padarėte dvokiančiu"
+      "gloss": "jūs padarėte dvoką"
     },
     {
       "surface": "את",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "akyse"
+      "gloss": "akimis"
     },
     {
       "surface": "פרעה",
-      "gloss": "Farono"
+      "gloss": "Farao"
     },
     {
       "surface": "ובעיני",
-      "gloss": "ir akyse"
+      "gloss": "ir akimis"
     },
     {
       "surface": "עבדיו",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "חרב",
-      "gloss": "kardą"
+      "gloss": "kalaviją"
     },
     {
       "surface": "בידם",
-      "gloss": "jų rankon"
+      "gloss": "į ranką"
     },
     {
       "surface": "להרגנו",
-      "gloss": "kad mus užmuštų"
+      "gloss": "mus nužudyti"
     }
   ],
-  "timestamp": "2026-10-20T04:56:48.169554915Z",
+  "timestamp": "2026-10-20T12:20:34.632210139Z",
   "model": "glm-5.3"
 }

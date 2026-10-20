@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio 'būti' — pridėta lietuviška kopula."
-    },
-    {
-      "kind": "you",
-      "subject": "Izraelio bendruomenei",
-      "rationale": "Tiesioginis paliepimas bendruomenei — Kun 19 įstatymų rinkinio dalis."
-    }
-  ],
-  "translation": "Mano šabatus saugokite ir mano šventovę garbinkite; aš ⟨esu⟩ Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/19\/29-32.1792473599348.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ mano šabatus laikykite ir mano šventyklą bijokite — aš ⟨esu⟩ Jahvė.",
   "tokens": [
     {
       "surface": "את",
@@ -39,15 +18,15 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "saugokite"
+      "gloss": "laikykite"
     },
     {
       "surface": "ומקדשי",
-      "gloss": "ir mano šventovę"
+      "gloss": "ir mano šventyklą"
     },
     {
       "surface": "תיראו",
-      "gloss": "garbinkite"
+      "gloss": "bijokite"
     },
     {
       "surface": "אני",
@@ -58,6 +37,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T05:19:59.366180594Z",
+  "timestamp": "2026-10-20T12:38:23.234163580Z",
   "model": "glm-5.3"
 }

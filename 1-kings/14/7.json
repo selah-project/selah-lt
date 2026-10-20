@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Santykinis įvardis sulieja su 'kadanga' į vientisą sakinį"
-    }
-  ],
-  "translation": "Eik, sakyk Jerovamui: Taip sako Jahvė, Jisraelio Elohim: Kadangi aš tave iškėliau iš žmonių vidurio ir paskyriau tave vadu mano tautai Jisraeliui,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a9f675a4df74d6852a5c69f02461ccc235ec46797f0394d24065f75a6c334a25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/14\/5-8.1792479349508.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eik ir sakyk Jerobeamui: Taip sako Jahvė, Jisraelio Elohim: Kadangi aukštai tave iškėliau iš vidurio ⟨tautos⟩ ir paskyriau tave vadu virš mano tautos Jisraelio —",
   "tokens": [
     {
       "surface": "לכי",
-      "gloss": "Eik"
+      "gloss": "eik"
     },
     {
       "surface": "אמרי",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "לירבעם",
-      "gloss": "Jerovamui"
+      "gloss": "Jerobeamui"
     },
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -49,23 +33,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Jisraelio Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": ""
+      "gloss": "Jisraelio"
     },
     {
       "surface": "יען",
-      "gloss": "Kadangi"
+      "gloss": "kadangi"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "הרימתיך",
-      "gloss": "aš tave iškėliau"
+      "gloss": "aukštai tave iškėliau"
     },
     {
       "surface": "מתוך",
@@ -73,7 +57,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "žmonių"
+      "gloss": "tautos"
     },
     {
       "surface": "ואתנך",
@@ -85,17 +69,17 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "virš"
     },
     {
       "surface": "עמי",
-      "gloss": "mano tautai"
+      "gloss": "mano tautos"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeliui"
+      "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T06:55:49.511440272Z",
+  "timestamp": "2026-10-20T12:06:36.203410697Z",
   "model": "glm-5.3"
 }

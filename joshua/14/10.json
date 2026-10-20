@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בן חמש ושמונים שנה",
-      "rationale": "Pažodžiui „penkerių ir aštuoniasdešimties metų sūnus“ — hebrajiškas amžiaus sakymas, pridedama ⟨esu⟩ ir ⟨metų⟩"
-    },
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "rationale": "Lietuvių kalbai reikia būtojo laiko veiksmažodžio, hebrajų jį nutyli"
-    },
-    {
-      "kind": "measurement",
-      "subject": "Kalebo amžius",
-      "rationale": "Eilutė skaičiuoja metus — keturiasdešimt penkeri dykumoje ir aštuoniasdešimt penkeri dabar"
-    }
-  ],
-  "translation": "Ir dabar štai Jahvė paliko mane gyvą, kaip jis kalbėjo, — jau keturiasdešimt penkeri metai nuo tada, kai Jahvė kalbėjo ⟨את⟩ šitą žodį Mošei, kai Jisraelis ėjo dykumoje; ir dabar štai aš šiandien esu aštuoniasdešimt penkerių metų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3d79cd8fc07bdf5534eaea30df10274208d18a3715e96be7af49a84bde24fd52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/14\/9-12.1792475951656.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dabar štai, Jahvė išlaikė mane gyvą, kaip jis kalbėjo, jau keturiasdešimt ir penkeri metai nuo tada, kai Jahvė kalbėjo ⟨את⟩ šį žodį Mošei, kai Jisraelis ėjo dykumoje; ir dabar štai, aš šiandien esu sūnus penkerių ir aštuoniasdešimties metų.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Ir dabar"
+      "gloss": "ir dabar"
     },
     {
       "surface": "הנה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "paliko gyvą"
+      "gloss": "išlaikė gyvą"
     },
     {
       "surface": "יהוה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ mane",
       "marks": "mane"
     },
     {
@@ -64,7 +38,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "šitą"
+      "gloss": "jau"
     },
     {
       "surface": "ארבעים",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "penkeri"
+      "gloss": "ir penkeri"
     },
     {
       "surface": "שנה",
@@ -93,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šitą žodį"
+      "marks": "šį žodį"
     },
     {
       "surface": "הדבר",
@@ -101,15 +75,15 @@
     },
     {
       "surface": "הזה",
-      "gloss": "šitą"
+      "gloss": "šį"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "Mošei"
     },
     {
       "surface": "משה",
-      "gloss": "Mošei"
+      "gloss": "Mošė"
     },
     {
       "surface": "אשר",
@@ -145,7 +119,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "esu ⟨metų⟩"
+      "gloss": "sūnus"
     },
     {
       "surface": "חמש",
@@ -153,13 +127,13 @@
     },
     {
       "surface": "ושמונים",
-      "gloss": "aštuoniasdešimt"
+      "gloss": "ir aštuoniasdešimties"
     },
     {
       "surface": "שנה",
       "gloss": "metų"
     }
   ],
-  "timestamp": "2026-10-20T05:59:11.658783051Z",
+  "timestamp": "2026-10-20T12:34:16.669302208Z",
   "model": "glm-5.3"
 }

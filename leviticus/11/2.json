@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "hebrajų kalba neturi veiksmažodžio; lietuvių reikalauja"
-    },
-    {
-      "kind": "substitution",
-      "subject": "gyvulys",
-      "rationale": "החיה pažodžiui 'gyvas padaras'; 'gyvulys' arti, bet praranda 'gyvas' šaknį"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Kalbėkite Jisraelio vaikams",
-      "rationale": "Dievo įsakymas pranašams kreiptis į tautą — tiesioginis kreipimasis"
-    }
-  ],
-  "translation": "Kalbėkite Jisraelio vaikams, sakydami: šis ⟨yra⟩ gyvulys, kurį valgysite iš visų gyvulių, kurie yra ant žemės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/11\/1-4.1792473290967.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kalbėkite Jisraelio vaikams ir sakykite: šis ⟨yra⟩ gyvūnas, kurį galite valgyti iš visų gyulių, kurie ant žemės.",
   "tokens": [
     {
       "surface": "דברו",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sakydami"
+      "gloss": "ir sakykite"
     },
     {
       "surface": "זאת",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "gyvulys"
+      "gloss": "gyvūnas"
     },
     {
       "surface": "אשר",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "valgysite"
+      "gloss": "galite valgyti"
     },
     {
       "surface": "מכל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "gyvulių"
+      "gloss": "gyulių"
     },
     {
       "surface": "אשר",
@@ -90,6 +64,6 @@
       "gloss": "žemės"
     }
   ],
-  "timestamp": "2026-10-20T05:14:50.969586126Z",
+  "timestamp": "2026-10-20T12:37:43.432819169Z",
   "model": "glm-5.3"
 }

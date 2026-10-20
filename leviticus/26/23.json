@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨dalykus⟩",
-      "rationale": "באלה — 'šiais'; daiktavardis pridėtas lietuviškam skaidrumui."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קרי",
-      "rationale": "Kartojamas retasis קרי iš v. 21 — sąmoningas aistrų kartojimas, struktūruojantis visą skyrių (26, 21.23.24.27.28)."
-    }
-  ],
-  "translation": "Ir jei per šiuos <dalykus> nebūsite mano auklėjami, o eisite su manimi priešiškai,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/26\/21-24.1792473833181.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jei per šiuos ⟨dalykus⟩ nebūsite drausminami manęs, ir eisite su manimi priešiškai (kri)",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "באלה",
-      "gloss": "per šiuos ⟨dalykus⟩"
+      "gloss": "per šiuos"
     },
     {
       "surface": "לא",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "תוסרו",
-      "gloss": "būsite auklėjami"
+      "gloss": "būsite drausminami"
     },
     {
       "surface": "לי",
-      "gloss": "mano"
+      "gloss": "manęs"
     },
     {
       "surface": "והלכתם",
-      "gloss": "o eisite"
+      "gloss": "ir eisite"
     },
     {
       "surface": "עמי",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "קרי",
-      "gloss": "priešiškai"
+      "gloss": "priešiškai (kri)"
     }
   ],
-  "timestamp": "2026-10-20T05:23:53.183758972Z",
+  "timestamp": "2026-10-20T12:38:48.358909108Z",
   "model": "glm-5.3"
 }

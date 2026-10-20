@@ -5,37 +5,16 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "retorinis klausimas",
-      "rationale": "Klausimas be atsakymo — grasinimo retorika, nukreipta į Chizkijahu per pasiuntinius."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dievai",
-      "rationale": "אלהי הגוים čia tautų dievai mažąja raide — ne Elohim Izraelio Dievo prasme."
-    }
-  ],
-  "translation": "Ar išgelbėjo juos ⟨את⟩ tautų dievai, kuriuos sunaikino mano tėvai — ⟨את⟩ Gozaną ir ⟨את⟩ Haraną, ir Recefą bei Edeno sūnus, kurie Telasare?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/19\/9-12.1792480273300.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ar išgelbėjo ⟨את⟩ juos tautų dievai, kuriuos sunaikino mano tėvai — Gozanas, ir ⟨את⟩ Haranas, ir Recefas, ir Edeno sūnūs, kurie Telasare?",
   "tokens": [
     {
       "surface": "ההצילו",
-      "gloss": "Ar-išgelbėjo"
+      "gloss": "Ar išgelbėjo"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "tautų dievai"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "אלהי",
@@ -50,38 +29,38 @@
       "gloss": "kuriuos"
     },
     {
-      "surface": "שחתu",
+      "surface": "שחתו",
       "gloss": "sunaikino"
     },
     {
       "surface": "אבותי",
-      "gloss": "mano-tėvai"
+      "gloss": "mano tėvai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gozaną"
+      "marks": "Gozanas"
     },
     {
       "surface": "גוזן",
-      "gloss": "Gozaną"
+      "gloss": "Gozanas"
     },
     {
       "surface": "ואת",
-      "gloss": "ir-⟨את⟩",
-      "marks": "Haraną"
+      "gloss": "ir ⟨את⟩",
+      "marks": "Haranas"
     },
     {
       "surface": "חרן",
-      "gloss": "Haraną"
+      "gloss": "Haranas"
     },
     {
       "surface": "ורצף",
-      "gloss": "ir-Recefą"
+      "gloss": "ir Recefas"
     },
     {
       "surface": "ובני",
-      "gloss": "ir-sūnūs"
+      "gloss": "ir sūnūs"
     },
     {
       "surface": "עדן",
@@ -96,6 +75,6 @@
       "gloss": "Telasare"
     }
   ],
-  "timestamp": "2026-10-20T07:11:13.304946787Z",
+  "timestamp": "2026-10-20T12:12:20.372079230Z",
   "model": "glm-5.3"
 }

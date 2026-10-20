@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Kelkitės, traukite",
-      "rationale": "Eilutė — tiesioginis Dievo paliepimas Izraeliui keliauti ir kariauti."
-    },
-    {
-      "kind": "you",
-      "subject": "Israelis",
-      "rationale": "Jahvė kalba Mošei \/ Izraeliui antruoju asmeniu: 'tavo ranką', 'pradėk'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "והתגר בו מלחמה",
-      "rationale": "Bukv. 'prikurstyti jį karui' — t. y. sukelti karą prieš jį, ne 'įžeisti'."
-    }
-  ],
-  "translation": "Kelkitės, traukite ir pereikite ⟨את⟩ nahalą Arnóną: žiūrėk, daviau į tavo ranką ⟨את⟩ Sichoną, Chešbono karalių, amoritą, ir ⟨את⟩ jo kraštą — pradėk užimti ir sukelsk prieš jį karą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "46328a2d34770af900396ff48af963ebc9cc0f729f73c6a42044d0a7bf657e8e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/2\/21-24.1792474881497.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kelkitės, keliaukite ir pereikite ⟨את⟩ Arnono slėnį: žiūrėk, aš daviau į tavo ranką ⟨את⟩ Sichoną, amoritų karalių, Chešbono valdovą, ir ⟨את⟩ jo žemę — pradėk paveldėti ⟨ją⟩ ir paskelbk jam karą.",
   "tokens": [
     {
       "surface": "קומו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "סעו",
-      "gloss": "traukite"
+      "gloss": "keliaukite"
     },
     {
       "surface": "ועברו",
@@ -48,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nahalą Arnóną"
+      "marks": "Arnono slėnį"
     },
     {
       "surface": "נחל",
-      "gloss": "nahalą"
+      "gloss": "slėnį"
     },
     {
       "surface": "ארנן",
-      "gloss": "Arnóną"
+      "gloss": "Arnono"
     },
     {
       "surface": "ראה",
@@ -89,16 +63,16 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "amoritą"
+      "gloss": "amoritų"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo kraštą"
+      "marks": "jo žemę"
     },
     {
       "surface": "ארצו",
-      "gloss": "jo kraštą"
+      "gloss": "jo žemę"
     },
     {
       "surface": "החל",
@@ -106,11 +80,11 @@
     },
     {
       "surface": "רש",
-      "gloss": "užimti"
+      "gloss": "paveldėti"
     },
     {
       "surface": "והתגר",
-      "gloss": "ir sukelsk"
+      "gloss": "ir paskelbk karą"
     },
     {
       "surface": "בו",
@@ -121,6 +95,6 @@
       "gloss": "karą"
     }
   ],
-  "timestamp": "2026-10-20T05:41:21.500545783Z",
+  "timestamp": "2026-10-20T12:16:23.266231449Z",
   "model": "glm-5.3"
 }

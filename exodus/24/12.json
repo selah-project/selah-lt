@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "juos",
-      "rationale": "להורתם — 'mokyti juos'; įvardis iš priesagos, pridėtas skliaustuose nereikalingas, nes lietuvių galūnė neša objektą."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Uzkopk pas mane",
-      "rationale": "Jahvė tiesiogiai kreipiasi į Mošę imperatyvu — kvietimas."
-    },
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "Tiesioginis adresatas — Mošė."
-    }
-  ],
-  "translation": "Ir Jahvė tarė Mošei: Uzkopk pas mane į kalną ir būk ten, ir aš duosiu tau ⟨את⟩ akmenies lenteles, ir Torą, ir įsakymą, kuriuos parašiau, kad juos mokytum.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/24\/9-12.1792472668452.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: Uzkopk pas mane ⟨į⟩ kalną ir būk ten, ir aš duosiu tau ⟨את⟩ akmens lenteles, ir Torą, ir įsakymą, kurį parašiau, kad juos mokyčiau.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "משה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ההרה",
-      "gloss": "į kalną"
+      "gloss": "⟨į⟩ kalną"
     },
     {
       "surface": "והיה",
@@ -80,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "akmenies lenteles"
+      "marks": "akmens lenteles"
     },
     {
       "surface": "לחת",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "האבן",
-      "gloss": "akmenies"
+      "gloss": "akmens"
     },
     {
       "surface": "והתורה",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurį"
     },
     {
       "surface": "כתבתי",
@@ -108,9 +82,9 @@
     },
     {
       "surface": "להורתם",
-      "gloss": "kad juos mokytum"
+      "gloss": "kad juos mokyčiau"
     }
   ],
-  "timestamp": "2026-10-20T05:04:28.551204960Z",
+  "timestamp": "2026-10-20T12:19:09.031508681Z",
   "model": "glm-5.3"
 }

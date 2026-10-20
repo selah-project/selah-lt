@@ -5,34 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קרע אקרע",
-      "rationale": "Bendroji priesaga — 'atplėšdamas atplėšiu', įtvirtintas pažadas, lietuviškai išreikšta 'tikrai atplėšiu'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Šlomo",
-      "rationale": "Jahvė tiesiogiai kreipiasi į Šlomą su teismo nuosprendžiu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "",
-      "rationale": "Jahvės kalbos priežasties jungiamasis žodis, lietuviškame sakinio prijungime ištirpsta"
-    }
-  ],
-  "translation": "Ir tarė Jahvė Šlomui: Kadangi tai buvo su tavimi ir tu nesilaikei mano sandoros ir mano įstatų, kuriuos tau įsakiau, aš tikrai atplėšiu ⟨את⟩ karalystę nuo tavęs ir atiduosiu ją tavo tarnui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/9-12.1792479245388.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Šalomui: Kadangi tai buvo su tavimi ir tu nesilaikei mano sandoros ir mano įstatų, kuriuos įsakiau tau, aš tikrai atplėšiu ⟨את⟩ karalystę nuo tavęs ir atiduosiu ją tavo tarnui.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "לשלמה",
-      "gloss": "Šlomui"
+      "gloss": "Šalomui"
     },
     {
       "surface": "יען",
@@ -52,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kadangi"
     },
     {
       "surface": "היתה",
@@ -76,11 +49,11 @@
     },
     {
       "surface": "בריתי",
-      "gloss": "mano sandoros"
+      "gloss": "mano sandora"
     },
     {
       "surface": "וחקתי",
-      "gloss": "ir mano įstatų"
+      "gloss": "ir mano įstatai"
     },
     {
       "surface": "אשר",
@@ -96,7 +69,7 @@
     },
     {
       "surface": "קרע",
-      "gloss": "tikrai atplėšiu"
+      "gloss": "atplėšti"
     },
     {
       "surface": "אקרע",
@@ -124,6 +97,6 @@
       "gloss": "tavo tarnui"
     }
   ],
-  "timestamp": "2026-10-20T06:54:05.390029385Z",
+  "timestamp": "2026-10-20T12:05:43.325440034Z",
   "model": "glm-5.3"
 }

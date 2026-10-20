@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כפי",
-      "rationale": "pažodžiui 'pagal burną' — pagal paklausą, pagal poreikį; idiomatinis 'burnos' vartojimas"
-    },
-    {
-      "kind": "you",
-      "subject": "Imk",
-      "rationale": "Jahvė kalba Mošei — tiesioginis kreipimasis, įsakymas"
-    }
-  ],
-  "translation": "Imk iš ⟨את⟩ jų, kad jie tarnautų Susirinkimo palapinės tarnybai, ir duok ⟨את⟩ juos levitams, kiekvienam pagal jo tarnybą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/7\/5-8.1792473964191.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Imk ⟨את⟩ iš jų, ir tegul jie būna Susitikimo palapinės tarnybai skirti, ir duok juos levitams, kiekvienam pagal jo tarnybą.",
   "tokens": [
     {
       "surface": "קח",
@@ -34,15 +13,16 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "iš ⟨את⟩ jų"
+      "gloss": "⟨את⟩ iš jų",
+      "marks": "iš jų"
     },
     {
       "surface": "והיו",
-      "gloss": "kad jie būtų"
+      "gloss": "ir tegul jie būna"
     },
     {
       "surface": "לעבד",
-      "gloss": "tarnautų"
+      "gloss": "tarnybai skirti"
     },
     {
       "surface": "את",
@@ -59,7 +39,7 @@
     },
     {
       "surface": "מועד",
-      "gloss": "Susirinkimo"
+      "gloss": "Susitikimo"
     },
     {
       "surface": "ונתתה",
@@ -68,7 +48,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ juos",
-      "marks": "levitams"
+      "marks": "juos"
     },
     {
       "surface": "אל",
@@ -91,6 +71,6 @@
       "gloss": "jo tarnybą"
     }
   ],
-  "timestamp": "2026-10-20T05:26:04.192547168Z",
+  "timestamp": "2026-10-20T12:42:12.229974846Z",
   "model": "glm-5.3"
 }

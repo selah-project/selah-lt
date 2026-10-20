@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "žudikas",
-      "rationale": "הרוצח — veiksmažodinė forma 'žudantysis'; hebrajiškas priebalsinis šaknis r-ts-ch, vaizdas 'smogiantis'"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "hebrajų kalba neturi veiksmažodžio 'duoti' — jis iš ankstesnės eilutės"
-    }
-  ],
-  "translation": "Ir iš Gado gimines — pabėgimo miestą žudikui, ⟨את⟩ Ramotą Giloade su jos ganyklomis ir ⟨את⟩ Machanaimą su jos ganyklomis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "eb8f822dead556476f59ef2c288b995b269a191a46c598b23198b0ca0383db01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/21\/37-40.1792476175133.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir iš Gado šeimos ⟨את⟩ prieglaudos miestą žudikui — ⟨את⟩ Ramotą Gilade ir ⟨את⟩ jos ganyklas, ir ⟨את⟩ Machanaimą, ir ⟨את⟩ jos ganyklas.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "ir iš gimines"
+      "gloss": "Ir iš šeimos"
     },
     {
       "surface": "גד",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pabėgimo miestą"
+      "marks": "prieglaudos miestą"
     },
     {
       "surface": "עיר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "מקלט",
-      "gloss": "pabėgimo"
+      "gloss": "prieglaudos"
     },
     {
       "surface": "הרצח",
@@ -56,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ramotą"
+      "marks": "Ramotą Gilade"
     },
     {
       "surface": "רמת",
@@ -64,16 +43,16 @@
     },
     {
       "surface": "בגלעד",
-      "gloss": "Giloade"
+      "gloss": "Gilade"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklomis"
+      "marks": "jos ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "jos ganyklomis"
+      "gloss": "jos ganyklas"
     },
     {
       "surface": "ואת",
@@ -87,13 +66,13 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "ganyklomis"
+      "marks": "jos ganyklas"
     },
     {
       "surface": "מגרשה",
-      "gloss": "jos ganyklomis"
+      "gloss": "jos ganyklas"
     }
   ],
-  "timestamp": "2026-10-20T06:02:55.135785053Z",
+  "timestamp": "2026-10-20T12:34:45.003130531Z",
   "model": "glm-5.3"
 }

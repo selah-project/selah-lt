@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Hebrajiškas וחטאתם po tikslo sakinio skaitomas kaip pasekmė — „kad ne… ir (taip) nenusidėtumėte“."
-    }
-  ],
-  "translation": "Kad jie neišmokytų ⟨את⟩ jūsų daryti pagal visas jų pasibjaurėtinas darbas, kuriuos jie darė savo dievams, ir jūs nusidėtumėte Jahvei, savo Elohim.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1a1d65c0a3335f74ba6766fac2daffbabbc9c2e411125f6611a255f321d60f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/20\/17-20.1792475324782.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kad jie neišmokytų jūsų ⟨את⟩ daryti pagal visas jų pasibjaurėjimo apeigas, kurias jie darė savo dievams, ir kad nenusidėtumėte Jahvei, savo Elohim.",
   "tokens": [
     {
       "surface": "למען",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "ילמדו",
-      "gloss": "jie išmokytų"
+      "gloss": "išmokytų"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jūsų",
+      "gloss": "⟨את⟩",
       "marks": "jūsų"
     },
     {
@@ -54,11 +38,11 @@
     },
     {
       "surface": "תועבתם",
-      "gloss": "jų pasibjaurėtinus darbus"
+      "gloss": "jų pasibjaurėjimo apeigas"
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurias"
     },
     {
       "surface": "עשו",
@@ -70,7 +54,7 @@
     },
     {
       "surface": "וחטאתם",
-      "gloss": "ir nusidėtumėte"
+      "gloss": "ir kad nusidėtumėte"
     },
     {
       "surface": "ליהוה",
@@ -81,6 +65,6 @@
       "gloss": "savo Elohim"
     }
   ],
-  "timestamp": "2026-10-20T05:48:44.783826455Z",
+  "timestamp": "2026-10-20T12:16:33.869990598Z",
   "model": "glm-5.3"
 }

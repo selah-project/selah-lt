@@ -5,45 +5,19 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "prielinknis išnyksta linksnio galūnėje (sūnums)"
-    },
-    {
-      "kind": "addition",
-      "subject": "jį",
-      "rationale": "כנכחו reiškia 'priešais save\/jį' — įvardis pridėtas aiškumui"
-    },
-    {
-      "kind": "measurement",
-      "subject": "geografija",
-      "rationale": "eiliui nurodomos tiksios stovyklos vietos koordinatės"
-    }
-  ],
-  "translation": "Kalbėk Jisraelio sūnums, kad jie grįžtų ir stovyklautų priešais Pi-Hachirotą, tarp Migdolo ir jūros, priešais Baal-Cefoną; priešais jį stovyklausite prie jūros.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ae79ed79448e939b4d7305993182dcd9c3fffa5fb5f9a41c185b12c793b16863",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/1-4.1792472499237.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kalbėk su Jisraelio sūnumis, kad jie grįžtų ir stovyklautų Pi-HaChirot priekyje, tarp Migdolo ir jūros, Baal-Cefono priekyje; priešais jį stovyklaukite prie jūros.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Kalbėk"
+      "gloss": "kalbėk"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "su"
     },
     {
       "surface": "בני",
-      "gloss": "sūnums"
+      "gloss": "sūnumis"
     },
     {
       "surface": "ישראל",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "פי",
-      "gloss": "Pi-"
+      "gloss": "Pi"
     },
     {
       "surface": "החירת",
-      "gloss": "Hachirotą"
+      "gloss": "HaChirot"
     },
     {
       "surface": "בין",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "Baal-"
+      "gloss": "Baal"
     },
     {
       "surface": "צפן",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "נכחו",
-      "gloss": "priešais jį"
+      "gloss": "priešingai"
     },
     {
       "surface": "תחנו",
-      "gloss": "stovyklausite"
+      "gloss": "stovyklaukite"
     },
     {
       "surface": "על",
@@ -114,6 +88,6 @@
       "gloss": "jūros"
     }
   ],
-  "timestamp": "2026-10-20T05:01:39.239406757Z",
+  "timestamp": "2026-10-20T12:18:41.350189566Z",
   "model": "glm-5.3"
 }

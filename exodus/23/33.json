@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kilpa",
-      "rationale": "מוקש pažodžiui — kilpa gaudyklei žvėriams gaudyti; čia − spąstai"
-    },
-    {
-      "kind": "substitution",
-      "subject": "dievams",
-      "rationale": "אלהיהם čia apie tautų dievus, todėl mažąja raide, ne Elohim"
-    }
-  ],
-  "translation": "Jie negyvens tavo žemėje, kad nenuvarytų tavęs į nuodėmę prieš mane, nes tu tarnausi ⟨את⟩ jų dievams, nes jie bus tau kilpa.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/23\/33-33.1792472621920.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jie negyvens tavo žemėje, kad jie nepriverstų tavęs nusidėti ⟨prieš⟩ mane, nes tu tarnausi ⟨את⟩ jų dievams — jie bus tau spąstais.",
   "tokens": [
     {
       "surface": "לא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ישבו",
-      "gloss": "jie gyvens"
+      "gloss": "gyvens"
     },
     {
       "surface": "בארצך",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "פן",
-      "gloss": "kad ne"
+      "gloss": "kad (ne)"
     },
     {
       "surface": "יחטיאו",
-      "gloss": "nuvarys į nuodėmę"
+      "gloss": "nepriverstų nusidėti"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tave",
-      "marks": "tave"
+      "gloss": "⟨את⟩",
+      "marks": "tavęs"
     },
     {
       "surface": "לי",
-      "gloss": "prieš mane"
+      "gloss": "mane"
     },
     {
       "surface": "כי",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "תעבד",
-      "gloss": "tu tarnausi"
+      "gloss": "tarnausi"
     },
     {
       "surface": "את",
@@ -88,9 +67,9 @@
     },
     {
       "surface": "למוקש",
-      "gloss": "kilpa"
+      "gloss": "spąstais"
     }
   ],
-  "timestamp": "2026-10-20T05:03:41.921486987Z",
+  "timestamp": "2026-10-20T12:19:16.556610470Z",
   "model": "glm-5.3"
 }

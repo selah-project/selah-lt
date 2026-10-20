@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "draugui",
-      "rationale": "Pranašo tiesioginis teismas draugui: „tu nesiklausei… tu eini… tave sumuš“."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sumušė",
-      "rationale": "הכה verčiama „sumušė\/nukovė“ — hebrajiškai tas pats veiksmažodis, kuriuo liepta mušti pranašą; kartojimas struktūrinis."
-    }
-  ],
-  "translation": "Ir jis tarė jam: Kadangi tu nesiklausei Jahvės balso, štai tu eini ⟨nuo manęs⟩, ir liūtas tave sumuš. Ir jis nuėjo nuo jo, ir liūtas jį rado ir jį sumušė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8048adefe8470d0ef1272e65122f624efafa6dd840b7ea53b4abc1ecbd0475b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/20\/33-36.1792479617950.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė jam: Kadangi neklausei balso Jahvės, štai tu eini ⟨את⟩-keliu nuo manęs, ir liūtas tave užmuš. Ir jis nuėjo nuo jo, ir liūtas jį rado ir užmušė.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "לו",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "יען",
-      "gloss": "kadangi"
+      "gloss": "Kadangi"
     },
     {
       "surface": "אשר",
-      "gloss": "kad"
+      "gloss": ""
     },
     {
       "surface": "לא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "בקול",
-      "gloss": "balsą"
+      "gloss": "balso"
     },
     {
       "surface": "יהוה",
@@ -70,12 +49,11 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ nuo manęs",
-      "marks": "tu eini"
+      "gloss": "⟨את⟩-keliu nuo manęs"
     },
     {
       "surface": "והכך",
-      "gloss": "ir sumuš"
+      "gloss": "ir užmuš tave"
     },
     {
       "surface": "האריה",
@@ -83,7 +61,7 @@
     },
     {
       "surface": "וילך",
-      "gloss": "ir nuėjo"
+      "gloss": "Ir nuėjo"
     },
     {
       "surface": "מאצלו",
@@ -99,9 +77,9 @@
     },
     {
       "surface": "ויכהו",
-      "gloss": "ir sumušė jį"
+      "gloss": "ir užmušė jį"
     }
   ],
-  "timestamp": "2026-10-20T07:00:17.997838757Z",
+  "timestamp": "2026-10-20T12:06:35.084358037Z",
   "model": "glm-5.3"
 }

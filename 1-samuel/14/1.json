@@ -5,45 +5,19 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "peletų",
-      "rationale": "פלשתים verčiama „peletai“ pagal lietuvišką Biblijos tradiciją, ne „filistinai“"
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų kalba neturi veiksmažodžio šioje šalutiniame sakinyje"
-    },
-    {
-      "kind": "secret",
-      "subject": "savo tėvui nepasakė",
-      "rationale": "slaptas Jonatano žygis — tėvas ir tauta nieko nežino"
-    }
-  ],
-  "translation": "Ir atsitiko vieną dieną, kad Jonatanas, Šauliaus sūnus, tarė ginklanešiui berniukui: Eime, pereikime iki peletų įgulos užposto, kuris ⟨yra⟩ anoje pusėje. Bet savo tėvui jis nepasakė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/1-4.1792477186432.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atėjo diena, ir Jonatanas, Šauliaus sūnus, tarė jaunuoliui, nešančiam jo ginklus: Eime, perkelsimės prie filistėnų įgulos, kuri ⟨yra⟩ aname krante; o savo tėvui jis to nepasakė.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir atsitiko"
+      "gloss": "Ir atėjo"
     },
     {
       "surface": "היום",
-      "gloss": "vieną dieną"
+      "gloss": "diena"
     },
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "יונתן",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "jaunuoliui"
     },
     {
       "surface": "הנער",
-      "gloss": "berniiukui"
+      "gloss": "jaunuoliui"
     },
     {
       "surface": "נשא",
-      "gloss": "ginklanešiui"
+      "gloss": "nešančiam"
     },
     {
       "surface": "כליו",
@@ -75,39 +49,39 @@
     },
     {
       "surface": "לכה",
-      "gloss": "eikime"
+      "gloss": "Eime"
     },
     {
       "surface": "ונעברה",
-      "gloss": "pereikime"
+      "gloss": "perkelsimės"
     },
     {
       "surface": "אל",
-      "gloss": "iki"
+      "gloss": "prie"
     },
     {
       "surface": "מצב",
-      "gloss": "įgulos užposto"
+      "gloss": "įgulos"
     },
     {
       "surface": "פלשתים",
-      "gloss": "peletų"
+      "gloss": "filistėnų"
     },
     {
       "surface": "אשר",
-      "gloss": "kuris"
+      "gloss": "kuri"
     },
     {
       "surface": "מעבר",
-      "gloss": "pusėje"
+      "gloss": "aname krante"
     },
     {
       "surface": "הלז",
-      "gloss": "anoje"
+      "gloss": "aname"
     },
     {
       "surface": "ולאביו",
-      "gloss": "savo tėvui"
+      "gloss": "o savo tėvui"
     },
     {
       "surface": "לא",
@@ -118,6 +92,6 @@
       "gloss": "pasakė"
     }
   ],
-  "timestamp": "2026-10-20T06:19:46.433592225Z",
+  "timestamp": "2026-10-20T12:45:02.719662244Z",
   "model": "glm-5.3"
 }

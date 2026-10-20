@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "hebrajiškas prielinksnis net atskiro žodžio — liepsnos vardo vietoje"
-    },
-    {
-      "kind": "crux",
-      "subject": "כי",
-      "rationale": "neigiamame atsakyme כי reiškia „o, bet“ — „Ne, o Jahvę tarnausime“; kai kurie verčia „ne, nes“"
-    }
-  ],
-  "translation": "Ir tauta tarė Jehošua: Ne, o ⟨את⟩ Jahvę mes tarnausime.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/24\/21-24.1792476250760.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tauta tarė Jozuei: Ne, nes ⟨את⟩ Jahvę mes tarnausime.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "העם",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jozuei"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošua"
+      "gloss": "Jozuei"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "Ne"
     },
     {
       "surface": "כי",
-      "gloss": "o"
+      "gloss": "nes"
     },
     {
       "surface": "את",
@@ -66,6 +45,6 @@
       "gloss": "mes tarnausime"
     }
   ],
-  "timestamp": "2026-10-20T06:04:10.762081903Z",
+  "timestamp": "2026-10-20T12:35:28.092212105Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סבה",
-      "rationale": "„posūkis\/apsukimas iš Jahvės“: dieviškas apėjimas arba priežastis — verčiama įvairiai"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "hebrajų prielinksnis אל sulietas su veiksmažodžiu „klausė“"
-    }
-  ],
-  "translation": "Ir neklausė karalius tautos, nes buvo ⟨yra⟩ posūkis nuo Jahvės, kad jis išpildytų ⟨את⟩ savo žodį, kurį Jahvė kalbėjo per Achiją Šilonietį Joroboamui, Nevato sūnui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/12\/13-16.1792479280624.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius nepaklausė ⟨את⟩ tautos, nes ⟨buvo⟩ posūkis iš Jahvės, kad įvykdytų ⟨את⟩ savo žodį, kurį Jahvė buvo pasakęs per Achiją Šilonietį Jerobeamui, Nevato sūnui.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "klausė"
+      "gloss": "paklausė"
     },
     {
       "surface": "המלך",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "מעם",
-      "gloss": "nuo"
+      "gloss": "iš"
     },
     {
       "surface": "יהוה",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "הקים",
-      "gloss": "išpildytų"
+      "gloss": "įvykdytų"
     },
     {
       "surface": "את",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "kalbėjo"
+      "gloss": "buvo pasakęs"
     },
     {
       "surface": "יהוה",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "per ranką"
+      "gloss": "per"
     },
     {
       "surface": "אחיה",
@@ -115,7 +94,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Joroboamui"
+      "gloss": "Jerobeamui"
     },
     {
       "surface": "בן",
@@ -126,6 +105,6 @@
       "gloss": "Nevato"
     }
   ],
-  "timestamp": "2026-10-20T06:54:40.626662399Z",
+  "timestamp": "2026-10-20T12:06:08.452917196Z",
   "model": "glm-5.3"
 }

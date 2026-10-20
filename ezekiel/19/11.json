@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רykštės–skeptrai",
-      "rationale": "מטה ir שבט abu reiškia ir lazdą, ir gentį, ir valdžią — dviejų žodžių žaismas lietuviškai dalinai prarastas."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrajiškas prielinksnis išsiskleidė per linksnį 'skeptrams', atskiras žodis nebereikalingas."
-    }
-  ],
-  "translation": "Ir atsirado jai stiprios rykštės valdovų skeptrams, ir jos ūgis iškilo tarp pintų šakų, ir buvo matoma savo aukšty per savo ūglių gausybę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3023e77c88539be0f766ca77e12b465a06d7bcd2cfb478bc3af34de0b101056e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/19\/10-12.1792485695988.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jai atsirado šakos-jėgos skeptrams valdančiųjų, ir iškilo jos ūgis tarp pintų vainikų, ir ji pasirodė savo aukštybe gausybėje savo šakų.",
   "tokens": [
     {
       "surface": "ויהיו",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "מטות",
-      "gloss": "rykštės"
+      "gloss": "šakos"
     },
     {
       "surface": "עז",
-      "gloss": "stiprios"
+      "gloss": "jėgos"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "שבטי",
       "gloss": "skeptrams"
     },
     {
+      "surface": "שבטי",
+      "gloss": "skeptrai"
+    },
+    {
       "surface": "משלים",
-      "gloss": "valdovų"
+      "gloss": "valdančiųjų"
     },
     {
       "surface": "ותגבה",
@@ -74,25 +53,25 @@
     },
     {
       "surface": "עבתים",
-      "gloss": "pintų šakų"
+      "gloss": "pintų vainikų"
     },
     {
       "surface": "וירא",
-      "gloss": "ir buvo matoma"
+      "gloss": "ir pasirodė"
     },
     {
       "surface": "בגבהו",
-      "gloss": "savo aukšty"
+      "gloss": "savo aukštybe"
     },
     {
       "surface": "ברב",
-      "gloss": "per gausybę"
+      "gloss": "gausybėje"
     },
     {
       "surface": "דליתיו",
-      "gloss": "savo ūglių"
+      "gloss": "savo šakų"
     }
   ],
-  "timestamp": "2026-10-20T08:41:35.989657370Z",
+  "timestamp": "2026-10-20T12:21:47.642696282Z",
   "model": "glm-5.3"
 }

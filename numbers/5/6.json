@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "įsakymas „Kalbėk Jisraelio sūnums“ — tiesioginis kreipimasis į Mošę"
-    },
-    {
-      "kind": "substitution",
-      "subject": "gyvybė",
-      "rationale": "נפש yra arčiau „gerklės \/ gyvybės jėgos“, ne atskira „siela“"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "למעול מעל",
-      "rationale": "ta pati šaknis מעל pakartota du kartus — „iškrėsti išdavystę, išdavystę“; dvilypumas išlaikytas"
-    }
-  ],
-  "translation": "Kalbėk Jisraelio sūnums: žmogus arba moteris, kai padarys kurią nors iš žmonių nuodėmių, iškrėsdami išdavystę, išdavystę prieš Jahvę, ir ta gyvybė bus kalta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c9643639b94dd7c68b4d719576e9a7349c0f9011b70335748b7ebbb8108cee06",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/5\/5-8.1792474002709.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kalbėk Jisraelio sūnums: vyras arba moteris, kai jie padarys kurią nors iš visų žmonių kalčių — padarys išdavystę prieš Jahvę — ir ta gyvybė bus kalta,",
   "tokens": [
     {
       "surface": "דבר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "su"
     },
     {
       "surface": "בני",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "žmogus"
+      "gloss": "vyras"
     },
     {
       "surface": "או",
@@ -67,23 +41,23 @@
     },
     {
       "surface": "יעשו",
-      "gloss": "padarys"
+      "gloss": "jie padarys"
     },
     {
       "surface": "מכל",
-      "gloss": " kurią nors iš"
+      "gloss": "iš visų"
     },
     {
       "surface": "חטאת",
-      "gloss": "nuodėmių"
+      "gloss": "kalčių"
     },
     {
       "surface": "האדם",
       "gloss": "žmonių"
     },
     {
-      "surface": "למעול",
-      "gloss": "iškrėsdami išdavystę"
+      "surface": "למעל",
+      "gloss": "padarys išdavystę"
     },
     {
       "surface": "מעל",
@@ -106,6 +80,6 @@
       "gloss": "ta"
     }
   ],
-  "timestamp": "2026-10-20T05:26:42.710271960Z",
+  "timestamp": "2026-10-20T12:42:25.575941286Z",
   "model": "glm-5.3"
 }

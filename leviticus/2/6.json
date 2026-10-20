@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פתות\/פתים",
-      "rationale": "veiksmažodis 'laužyti į gabalus' ir daiktavardis 'gabalai' — ta pati šaknis, lietuviškai išlaikyta 'gabalėn'"
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų neturi veiksmažodžio — ⟨yra⟩ pridėta"
-    }
-  ],
-  "translation": "Sulaužyk ją gabalėn ir užpilk ant jos aliejaus — tai mincha.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/2\/5-8.1792473107673.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sulaužyk ją ⟨את⟩ gabalais ir užpilk ant jos aliejaus — mincha tai ⟨yra⟩.",
   "tokens": [
     {
       "surface": "פתות",
-      "gloss": "Sulaužyk gabalėn"
+      "gloss": "sulaužyk"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "gabalais"
     },
     {
       "surface": "פתים",
-      "gloss": "gabalėn"
+      "gloss": "gabalais"
     },
     {
       "surface": "ויצקת",
-      "gloss": "ir užpilk"
+      "gloss": "užpilk"
     },
     {
       "surface": "עליה",
@@ -62,6 +41,6 @@
       "gloss": "tai ⟨yra⟩"
     }
   ],
-  "timestamp": "2026-10-20T05:11:47.675301927Z",
+  "timestamp": "2026-10-20T12:38:15.775848945Z",
   "model": "glm-5.3"
 }

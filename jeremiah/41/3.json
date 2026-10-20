@@ -5,33 +5,12 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "trijų את eiliškumas",
-      "rationale": "Trys ⟨את⟩ paeiliui žymi tris aukų grupes — chiazminis vardijimas, lietuvių kalboje išlieka per sakinių struktūrą."
-    },
-    {
-      "kind": "crux",
-      "subject": "אנשי המלחמה",
-      "rationale": "'karo vyrai' — ar tai kasdėjų apibrėžimas (JPS, BSB), ar trečia atskira grupė (KJV)."
-    }
-  ],
-  "translation": "Ir ⟨את⟩ visus judėjus, kurie buvo ⟨את⟩ ⟨su⟩ juo, ⟨su⟩ Gedalijumi, Micpoje, ir ⟨את⟩ kasdėjus, kurie ten buvo rasti, ⟨את⟩ karo vyrus — nukirto Išmaelis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/41\/1-4.1792483345937.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ visus jehudiečius, kurie buvo su juo, su Gedalijahu Micpoje, ir ⟨את⟩ kasdiečius, kurie ten buvo rasti — ⟨את⟩ karo vyrus — išmušė Yišmaelas.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visus judėjus"
+      "marks": "visus jehudiečius"
     },
     {
       "surface": "כל",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "judėjus"
+      "gloss": "jehudiečius"
     },
     {
       "surface": "אשר",
@@ -51,16 +30,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨su⟩ juo"
+      "gloss": "su juo ⟨את⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalijumi"
+      "marks": "Gedalijahu"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalijumi"
+      "gloss": "Gedalijahu"
     },
     {
       "surface": "במצפה",
@@ -69,11 +48,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "kasdėjus"
+      "marks": "kasdiečius"
     },
     {
       "surface": "הכשדים",
-      "gloss": "kasdėjus"
+      "gloss": "kasdiečius"
     },
     {
       "surface": "אשר",
@@ -102,13 +81,13 @@
     },
     {
       "surface": "הכה",
-      "gloss": "nukirto"
+      "gloss": "išmušė"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Išmaelis"
+      "gloss": "Yišmaelas"
     }
   ],
-  "timestamp": "2026-10-20T08:02:25.939219459Z",
+  "timestamp": "2026-10-20T12:31:45.107118678Z",
   "model": "glm-5.3"
 }

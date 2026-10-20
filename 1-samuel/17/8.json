@@ -5,42 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "Hebrajiškas „prie\/į“ prieš rikiuotes išlydyta lietuviškoje linksnio formoje „rikiuotėms“"
-    },
-    {
-      "kind": "crux",
-      "subject": "ברו",
-      "rationale": "Nepatvirtinta forma: „išsirinkite“ (iš ברה „rinkti“) arba „pasiruoškite“ — laikomasi „išsirinkite“ pagal kontekstą"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio rikiuotės",
-      "rationale": "Golijatas kreipiasi tiesiogiai į Jisraelio karius su klausimu ir iššūkiu"
-    },
-    {
-      "kind": "invitation",
-      "subject": "iššūkis",
-      "rationale": "„Išsirinkite sau vyrą, ir tesileidžia jis pas mane“ — šaukimas į dvikovą"
-    }
-  ],
-  "translation": "Ir jis stojo ir šaukė ⟨את⟩ Jisraelio rikiuotėms, ir tarė jiems: kodėl jūs išeinate rikiuoti mūšio? Argi ne aš — plištas, o jūs — Shaulo tarnai? Išsirinkite sau vyrą, ir tesileidžia jis pas mane.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/5-8.1792477334945.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨jis⟩ stojo ir šaukė Jisraelio rikiuotėms ir tarė jiems: Kodėl jūs išeinate rikiuoti mūšio? Argi ne aš — plištiečiai, o jūs — Šaulo vergai? Išsirinkite sau vyrą, ir teis jis pas mane!",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "ir jis stojo"
+      "gloss": "ir stojo"
     },
     {
       "surface": "ויקרא",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prie"
     },
     {
       "surface": "מערכת",
@@ -92,7 +61,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "plištas"
+      "gloss": "plištitis"
     },
     {
       "surface": "ואתם",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "Shaulo"
+      "gloss": "Šaului"
     },
     {
       "surface": "ברו",
@@ -112,7 +81,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sevms"
+      "gloss": "sau"
     },
     {
       "surface": "איש",
@@ -120,13 +89,13 @@
     },
     {
       "surface": "וירד",
-      "gloss": "ir tesileidžia"
+      "gloss": "ir teis"
     },
     {
       "surface": "אלי",
       "gloss": "pas mane"
     }
   ],
-  "timestamp": "2026-10-20T06:22:14.952558521Z",
+  "timestamp": "2026-10-20T12:08:53.066428427Z",
   "model": "glm-5.3"
 }

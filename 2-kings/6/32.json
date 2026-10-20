@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "karalius",
-      "rationale": "Seka §6,32 kontekste — hebrajiškame tekste veikėjas tik numanomas, pridėta ⟨karalius⟩"
-    },
-    {
-      "kind": "crux",
-      "subject": "בן המרצח",
-      "rationale": "'Žmogžudžio sūnus' — Jaešo keiksmažodis karaliui Jorams, arba per architektūrą 'sis žmogžudys' kaip BSB skaito"
-    },
-    {
-      "kind": "idiom",
-      "subject": "klots ragliu adonijo acharav",
-      "rationale": "'Argi ne jo pono žingsnių garsas už jo?' — karalius pats seka pasiuntiniui iš paskos"
-    }
-  ],
-  "translation": "O Eliša sėdėjo savo namuose, ir vyresnieji sėdėjo ⟨את⟩ su juo; ir ⟨karalius⟩ pasiuntė vyrą pirma savęs; dar prieš pasiuntiniui ateinant pas jį, jis tarė vyresniesiems: Ar matėte, kad šis žmogžudžio sūnus pasiuntė atimti ⟨את⟩ mano galvą? Žiūrėkite, kai ateis pasiuntinys, uždarykite duris ir spauskite ⟨את⟩ jį prie durų — argi ne jo pono žingsnių garsas už jo?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/6\/29-32.1792479881619.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O Eliša sėdėjo savo namuose, ir vyresnieji sėdėjo ⟨את⟩ su juo; ir ⟨karalius⟩ pasiuntė vyrą ⟨prieš save⟩; bet dar prieš ateinant pasiuntiniui pas jį, jis tarė vyresniesiems: ar matote, kad šis žmogžudžio sūnus pasiuntė nukirsti ⟨את⟩ mano galvą? Žiūrėkite: kai ateis pasiuntinys, uždarykite duris ir laikykite jį ⟨את⟩ prie durų — argi ne jo pono žingsnių garsas ⟨yra⟩ už jo?",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "su juo ⟨את⟩"
+      "gloss": "⟨את⟩ su juo"
     },
     {
       "surface": "וישלח",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מלפניו",
-      "gloss": "pirma savęs"
+      "gloss": "iš savo veido ⟨prieš save⟩"
     },
     {
       "surface": "בטרם",
-      "gloss": "dar prieš"
+      "gloss": "prieš"
     },
     {
       "surface": "יבא",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "pasiuntiniui"
+      "gloss": "pasiuntinys"
     },
     {
       "surface": "אליו",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "vyresniesiems"
     },
     {
       "surface": "הזקנים",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "הראיתם",
-      "gloss": "ar matėte"
+      "gloss": "ar matote"
     },
     {
       "surface": "כי",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "atimti"
+      "gloss": "nukirsti"
     },
     {
       "surface": "את",
@@ -160,11 +134,12 @@
     },
     {
       "surface": "ולחצתם",
-      "gloss": "ir spauskite"
+      "gloss": "ir laikykite"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "prie durų"
     },
     {
       "surface": "בדלת",
@@ -184,13 +159,13 @@
     },
     {
       "surface": "אדניו",
-      "gloss": "jo pono"
+      "gloss": "jo ponyje"
     },
     {
       "surface": "אחריו",
       "gloss": "už jo"
     }
   ],
-  "timestamp": "2026-10-20T07:04:41.622931349Z",
+  "timestamp": "2026-10-20T12:12:58.449584556Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויציקו",
-      "rationale": "'Nuleido\/pastatė' — BSB verčia 'aukojo aukas'; čia 'pastatė žemėn'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "išeiti",
-      "rationale": "לעבור pažodžiui 'persikelti', čia 'išeiti iš miesto'"
-    }
-  ],
-  "translation": "Ir štai taip pat Cadokas ir visi leviai su juo, nešantys ⟨את⟩ Elohim sandoros skrynią; ir pastatė ⟨את⟩ Elohim skrynią, ir pakilo Evjataras, — kol visi žmonės baigė išeiti iš miesto.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "821a19cf0eed0e2525c4003a798e8cf6d5e8fe270ef07cda8eef120ad49fa66d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/22-24.1792485527224.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir štai — ir Cadokas, ir visi levitai ⟨את⟩ su juo, nešantys ⟨את⟩ sandoros skrynią, ⟨את⟩ Elohim skrynią; ir jie padėjo ⟨את⟩ Elohim skrynią, ir Abiataras ėjo aukštyn, kol visi žmonės baigė pereiti iš miesto.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Ir štai"
+      "gloss": "ir štai"
     },
     {
       "surface": "גם",
-      "gloss": "taip pat"
+      "gloss": "irgi"
     },
     {
       "surface": "צדוק",
@@ -46,12 +25,11 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "leviai"
+      "gloss": "levitai"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo",
-      "marks": "su juo"
+      "gloss": "⟨את⟩ su juo"
     },
     {
       "surface": "נשאים",
@@ -60,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "skrynią"
+      "marks": "sandoros skrynią"
     },
     {
       "surface": "ארון",
@@ -76,12 +54,12 @@
     },
     {
       "surface": "ויצקו",
-      "gloss": "ir pastatė"
+      "gloss": "ir padėjo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "skrynią"
+      "marks": "Elohim skrynią"
     },
     {
       "surface": "ארון",
@@ -93,11 +71,11 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "ir pakilo"
+      "gloss": "ir ėjo aukštyn"
     },
     {
       "surface": "אביתר",
-      "gloss": "Evjataras"
+      "gloss": "Abiataras"
     },
     {
       "surface": "עד",
@@ -117,7 +95,7 @@
     },
     {
       "surface": "לעבור",
-      "gloss": "išeiti"
+      "gloss": "pereiti"
     },
     {
       "surface": "מן",
@@ -128,6 +106,6 @@
       "gloss": "miesto"
     }
   ],
-  "timestamp": "2026-10-20T08:38:47.228564199Z",
+  "timestamp": "2026-10-20T12:14:02.150168392Z",
   "model": "glm-5.3"
 }

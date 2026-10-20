@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "דלתות",
-      "rationale": "Pažodžiui 'durys\/durelės' — ritinio stulpeliai ar lapai; vertėjai skirstosi tarp 'lapai', 'stulpeliai', 'puslapiai'."
-    },
-    {
-      "kind": "crux",
-      "subject": "יקרעה veiksnys",
-      "rationale": "Kas perplėšia — karalius (kontekstas) ar Jehudis (gramatiškai arčiau); hebrajų tekstas nesako tiesiai."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על האש... על האח",
-      "rationale": "Kartojamas dvigubas 'ugnies... ant žarių indo' per plėšymo sceną — ritminis grąžinimas, lietuvių kalboi iš dalies prarandamas."
-    }
-  ],
-  "translation": "Ir įvyko, kai Jehudis perskaitė tris ar keturias dureles, ⟨jis⟩ perplėšė jį raštininko peiliuku ir metė į ugnį, kuri ant žarių indo, kol buvo sunaikintas visas ritinys ugnies, kuri ant žarių indo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/36\/21-24.1792483296622.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, kai Jehudis buvo perskaitęs tris ar keturias kolonas, ⟨karalius⟩ jas perplėšė raštininko peiliuku ir metė į ugnį, kuri buvo žarijų inde, kol visa ritinys buvo sunaikintas ugnyje, kuri ⟨buvo⟩ ant žarijų indo.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ir įvyko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "כקרוא",
-      "gloss": "kai perskaitė"
+      "gloss": "kai buvo perskaitęs"
     },
     {
       "surface": "יהודי",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "שלש",
-      "gloss": "trys"
+      "gloss": "tris"
     },
     {
       "surface": "דלתות",
-      "gloss": "durelės"
+      "gloss": "kolonas"
     },
     {
       "surface": "וארבעה",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "יקרעה",
-      "gloss": "perplėšė jį"
+      "gloss": "jas perplėšė"
     },
     {
       "surface": "בתער",
-      "gloss": "raštininko peiliuku"
+      "gloss": "peiliuku"
     },
     {
       "surface": "הספר",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ant"
+      "gloss": "⟨buvo⟩"
     },
     {
       "surface": "האח",
-      "gloss": "žarių indo"
+      "gloss": "žarijų inde"
     },
     {
       "surface": "עד",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "visas"
+      "gloss": "visa"
     },
     {
       "surface": "המגלה",
@@ -111,25 +85,25 @@
     },
     {
       "surface": "על",
-      "gloss": "ugnies"
-    },
-    {
-      "surface": "האש",
-      "gloss": "kuri"
-    },
-    {
-      "surface": "אשר",
       "gloss": "ant"
     },
     {
+      "surface": "האש",
+      "gloss": "ugnyje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuri"
+    },
+    {
       "surface": "על",
-      "gloss": "žarių indo"
+      "gloss": "ant"
     },
     {
       "surface": "האח",
-      "gloss": ""
+      "gloss": "žarijų indo"
     }
   ],
-  "timestamp": "2026-10-20T08:01:36.626784619Z",
+  "timestamp": "2026-10-20T12:31:34.686293191Z",
   "model": "glm-5.3"
 }

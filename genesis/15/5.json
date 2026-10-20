@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jas",
-      "rationale": "Hebrajiškas אתם turi prielinksnį -ם; lietuviškas objekto įnagininkas pridėtas skliaustuose"
-    },
-    {
-      "kind": "measurement",
-      "subject": "suskaičiuok žvaigždes",
-      "rationale": "skaičiavimo veiksmas — žvaigždžių skaičiavimas kaip pažadas dėl palikuonių"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Pažvelk dabar",
-      "rationale": "tiesioginis paliepimas Avrahamui pažvelgti ir suskaičiuoti"
-    }
-  ],
-  "translation": "Ir jis išvedė jį ⟨את⟩ laukan ir tarė: Pažvelk dabar į dangų ir suskaičiuok žvaigždes — ar gali ⟨jas⟩ suskaičiuoti? Ir tarė jam: Taip bus tavo sėkla.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/15\/5-8.1792471233950.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir [Elohim] išvedė ⟨את⟩ jį laukan ir tarė: Pažvelk dabar į dangų ir suskaičiuok žvaigždes — ar sugebėsi jas suskaičiuoti? Ir tarė jam: Taip bus tavo sėkla.",
   "tokens": [
     {
       "surface": "ויוצא",
-      "gloss": "išvedė"
+      "gloss": "ir išvedė"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
+      "gloss": "⟨את⟩",
       "marks": "jį"
     },
     {
@@ -76,7 +50,7 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "gali"
+      "gloss": "sugebėsi"
     },
     {
       "surface": "לספר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ jas",
+      "gloss": "⟨את⟩",
       "marks": "jas (žvaigždes)"
     },
     {
@@ -108,6 +82,6 @@
       "gloss": "tavo sėkla"
     }
   ],
-  "timestamp": "2026-10-20T04:40:33.952392817Z",
+  "timestamp": "2026-10-20T12:24:29.193321330Z",
   "model": "glm-5.3"
 }

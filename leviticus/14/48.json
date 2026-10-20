@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בא יבא",
-      "rationale": "infinitivus absoliutus — 'ateis-tikrai-ateis'; versta 'ateis' su pabrėžtiniu 'tikrai'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הנגע",
-      "rationale": "pažodžiui 'smūgis, žaizda' — ne 'tartis' ar 'meldas'; namų žaizda, išgydoma kaip kūnas"
-    }
-  ],
-  "translation": "O jeigu kunigas ateis ir pažiūrės, ir štai žaizda ⟨yra⟩ nepaplitusi name po to, kai namai buvo ištepti, tai kunigas paskelbs namus švariais, nes žaizda išgydyta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/45-48.1792473384220.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jeigu kunigas tikrai ateina ir mato, ir štai pažeidimas neišsiplėtė name, po to, kai namas buvo išteptas ⟨kalkėmis⟩, tai kunigas paskelbia ⟨את⟩ namą tyrą, nes pažeidimas užgijo.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "o jeigu"
+      "gloss": "Ir jeigu"
     },
     {
       "surface": "בא",
-      "gloss": "ateis"
+      "gloss": "ateiti"
     },
     {
       "surface": "יבא",
-      "gloss": "tikrai ateis"
+      "gloss": "tikrai ateina"
     },
     {
       "surface": "הכהן",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וראה",
-      "gloss": "ir pažiūrės"
+      "gloss": "ir mato"
     },
     {
       "surface": "והנה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "פשה",
-      "gloss": "paplitusi"
+      "gloss": "išsiplėtė"
     },
     {
       "surface": "הנגע",
-      "gloss": "žaizda"
+      "gloss": "pažeidimas"
     },
     {
       "surface": "בבית",
@@ -70,24 +49,24 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "po"
+      "gloss": "po to, kai"
     },
     {
       "surface": "הטח",
-      "gloss": "ištepimo"
+      "gloss": "buvo išteptas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "namus"
+      "marks": "namą"
     },
     {
       "surface": "הבית",
-      "gloss": "namus"
+      "gloss": "namas"
     },
     {
       "surface": "וטהר",
-      "gloss": "ir paskelbs švariu"
+      "gloss": "paskelbia tyrą"
     },
     {
       "surface": "הכהן",
@@ -96,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "namus"
+      "marks": "namą"
     },
     {
       "surface": "הבית",
-      "gloss": "namus"
+      "gloss": "namas"
     },
     {
       "surface": "כי",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "נרפא",
-      "gloss": "išgydyta"
+      "gloss": "užgijo"
     },
     {
       "surface": "הנגע",
-      "gloss": "žaizda"
+      "gloss": "pažeidimas"
     }
   ],
-  "timestamp": "2026-10-20T05:16:24.226659805Z",
+  "timestamp": "2026-10-20T12:38:06.195812395Z",
   "model": "glm-5.3"
 }

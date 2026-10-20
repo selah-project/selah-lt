@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויחזק",
-      "rationale": "'sutvirtino' — žodis žodžiu 'padarė stipriu'; verčiama ir 'sukietino' (KJV 'hardened')."
-    }
-  ],
-  "translation": "Ir Jahvė sutvirtino ⟨את⟩ Paro širdį, ir jis neišleido Jisraelio sūnų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/10\/17-20.1792472368071.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė sutvirtino ⟨את⟩ faraono širdį, ir jis nepaleido ⟨את⟩ Jisraelio sūnų.",
   "tokens": [
     {
       "surface": "ויחזק",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Paro širdį"
+      "marks": "faraono širdį"
     },
     {
       "surface": "לב",
@@ -42,15 +26,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "faraono"
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir nepaleido"
     },
     {
       "surface": "שלח",
-      "gloss": "išleido"
+      "gloss": "nepaleido"
     },
     {
       "surface": "את",
@@ -66,6 +50,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T04:59:28.075689785Z",
+  "timestamp": "2026-10-20T12:18:25.361261849Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Hebrajiškas על prieš עבדתם\/משמרותם lietuvių linksniavime ištirpsta — pareigos eina naudininku."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לשער ושער",
-      "rationale": "Pažodžiui „vartams ir vartams“ — pakartojimu sakoma „kiekvieniems vartams“."
-    }
-  ],
-  "translation": "Ir jis paskyrė pagal savo tėvo Davido taisyklę ⟨את⟩ kunigų skyrius jų tarnybai, o levitus — jų sargyboms: šlovinti ir tarnauti priešais kunigus pagal kasdienės dienos reikalą; ir vartininkus jų skyriais prie kiekvienų vartų, nes tokia buvo Davido, Elohim žmogaus, įsakyma.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b97195c46fa01b9ba2c8099b1ee9008ca22678cc5bccb48161fa4d39e94797fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/8\/13-16.1792493397748.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis paskyrė pagal paprotį Davido, savo tėvo, ⟨את⟩ kunigų skyrius jų tarnybai, ir levitus jų sargyboms, kad šlovintų ir tarnautų priešais kunigus pagal kiekvienos dienos reikalą dieną po dienos, ir vartininkus jų skyriuose prie kiekvienų vartų, nes toks buvo įsakymas Davido, Elohim žmogaus.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "ir paskyrė"
+      "gloss": "ir jis paskyrė"
     },
     {
       "surface": "כמשפט",
-      "gloss": "pagal taisyklę"
+      "gloss": "pagal paprotį"
     },
     {
       "surface": "דויד",
@@ -59,31 +38,31 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "jų"
     },
     {
       "surface": "עבדתם",
-      "gloss": "jų tarnybai"
+      "gloss": "tarnybai"
     },
     {
       "surface": "והלוים",
-      "gloss": "o levitus"
+      "gloss": "ir levitus"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "jų"
     },
     {
       "surface": "משמרותם",
-      "gloss": "jų sargyboms"
+      "gloss": "sargyboms"
     },
     {
       "surface": "להלל",
-      "gloss": "šlovinti"
+      "gloss": "kad šlovintų"
     },
     {
       "surface": "ולשרת",
-      "gloss": "ir tarnauti"
+      "gloss": "ir tarnautų"
     },
     {
       "surface": "נגד",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "יום",
-      "gloss": "dienos"
+      "gloss": "kiekvienos dienos"
     },
     {
       "surface": "ביומו",
-      "gloss": "jos dieną"
+      "gloss": "dieną po dienos"
     },
     {
       "surface": "והשוערים",
@@ -111,15 +90,15 @@
     },
     {
       "surface": "במחלקותם",
-      "gloss": "jų skyriais"
+      "gloss": "jų skyriuose"
     },
     {
       "surface": "לשער",
-      "gloss": "prie vartų"
+      "gloss": "prie kiekvienų"
     },
     {
       "surface": "ושער",
-      "gloss": "ir vartų"
+      "gloss": "vartų"
     },
     {
       "surface": "כי",
@@ -127,11 +106,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "tokia"
+      "gloss": "toks"
     },
     {
       "surface": "מצות",
-      "gloss": "įsakyma"
+      "gloss": "buvo įsakymas"
     },
     {
       "surface": "דויד",
@@ -146,6 +125,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-20T10:49:57.749749307Z",
+  "timestamp": "2026-10-20T12:11:25.679987107Z",
   "model": "glm-5.3"
 }

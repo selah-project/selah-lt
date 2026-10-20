@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Lietuvių reikalauja sietuvo; hebrajų רעה היה — „ganytojas buvo“"
-    }
-  ],
-  "translation": "Ir tarė Davidas Šauliui: tavo tarnas buvo ganytojas jo tėvui tarp avų, ir atėjo liūtas, ir ⟨את⟩ lokį, ir nusinešė ėriuką iš kaimenės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e91ff987f6340ac01af3316be5b8c5ac7dd578a5f225d491b01cb604f3efab39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/17\/33-36.1792477495877.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas tarė Šauliui: tavo tarnas ganydavo savo tėvo avis, ir atėdavo liūtas arba ⟨את⟩ lokys ir nusinešdavo ėriuką iš kaimenės.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "שאול",
       "gloss": "Šauliui"
     },
     {
+      "surface": "שאול",
+      "gloss": "Šaulas"
+    },
+    {
       "surface": "רעה",
-      "gloss": "ganytojas"
+      "gloss": "ganydavo"
     },
     {
       "surface": "היה",
@@ -53,15 +37,15 @@
     },
     {
       "surface": "לאביו",
-      "gloss": "jo tėvui"
+      "gloss": "savo tėvo"
     },
     {
       "surface": "בצאן",
-      "gloss": "tarp avų"
+      "gloss": "avis"
     },
     {
       "surface": "ובא",
-      "gloss": "ir atėjo"
+      "gloss": "ir atėdavo"
     },
     {
       "surface": "הארי",
@@ -69,16 +53,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "lokį"
+      "gloss": "⟨את⟩",
+      "marks": "lokiui"
     },
     {
       "surface": "הדוב",
-      "gloss": "lokį"
+      "gloss": "lokys"
     },
     {
       "surface": "ונשא",
-      "gloss": "ir nusinešė"
+      "gloss": "ir nusinešdavo"
     },
     {
       "surface": "שה",
@@ -89,6 +73,6 @@
       "gloss": "iš kaimenės"
     }
   ],
-  "timestamp": "2026-10-20T06:24:55.879274266Z",
+  "timestamp": "2026-10-20T12:07:52.194198200Z",
   "model": "glm-5.3"
 }

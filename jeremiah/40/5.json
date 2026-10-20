@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tarė jis⟩",
-      "rationale": "hebrajiškas tekstas neturi veiksnio — kalbėtojas (Nebuzaradanas) įterptas iš konteksto"
-    },
-    {
-      "kind": "crux",
-      "subject": "וְעוֹדֶנּוּ לֹא יָשׁוּב",
-      "rationale": "neaiškus posakis: 'jam dar nesugrįžus' arba 'jis dar neatsakė' (JPS 'yet he would not go back')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רַב טַבָּחִים",
-      "rationale": "pažodžiui 'budelių viršininkas' — karaliaus gvardijos vadas, atsakingas ir už egzekucijas"
-    }
-  ],
-  "translation": "O jam dar nesugrįžus ⟨tarė jis⟩: sugrįžk pas Gedaliją, Achikamo sūnų, Šafano sūnų, kurį Babilono karalius paskyrė Jėudo miestuose, ir pasilik su juo tarp žmonių, arba eik, kur tik teisinga tavo akyse eiti — eik. Ir budelių viršininkas davė jam maisto davinį ir dovaną ir išleido jį.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "86c225f3f225906cd17ad16549c5228f41293277f330f9e2bb4b5cbae21c4577",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/40\/5-8.1792483359534.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kol jis dar ⟨ne⟩grįžo ⟨ir nesuspėjo atsakyti⟩: „Grįžk pas Gedaliją, Achikamo sūnų, Šafano sūnų, kurį Babelio karalius paskyrė ⟨viršintu⟩ J ehudos miestuose, ir gyvenk ⟨את⟩-juo ⟨kartu⟩ tarp žmonių, arba eik, kur tik tau atrogo teisinga eiti — eik.“ Ir skerdikų viršininkas davė jam maisto davilą ir dovaną, ir paleido jį.",
   "tokens": [
     {
       "surface": "ועודנו",
-      "gloss": "dar"
+      "gloss": "kol dar"
     },
     {
       "surface": "לא",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "grįžta"
+      "gloss": "grįš"
     },
     {
       "surface": "ושבה",
-      "gloss": "sugrįžk"
+      "gloss": "grįžk"
     },
     {
       "surface": "אל",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "בערי",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jėudo"
+      "gloss": "Jehudos"
     },
     {
       "surface": "ושב",
-      "gloss": "ir pasilik"
+      "gloss": "ir gyvenk"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩-juo",
       "marks": "su juo"
     },
     {
@@ -120,15 +94,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ten, kur"
+      "gloss": "į"
     },
     {
       "surface": "כל",
-      "gloss": "visur, kas"
+      "gloss": "visa"
     },
     {
       "surface": "הישר",
-      "gloss": "teisinga"
+      "gloss": "kas teisinga"
     },
     {
       "surface": "בעיניך",
@@ -156,11 +130,11 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "budelių"
+      "gloss": "skerdikų"
     },
     {
       "surface": "ארחה",
-      "gloss": "maisto davinį"
+      "gloss": "maisto davilą"
     },
     {
       "surface": "ומשאת",
@@ -168,9 +142,9 @@
     },
     {
       "surface": "וישלחהו",
-      "gloss": "ir išleido jį"
+      "gloss": "ir paleido jį"
     }
   ],
-  "timestamp": "2026-10-20T08:02:39.535258831Z",
+  "timestamp": "2026-10-20T12:31:53.814874427Z",
   "model": "glm-5.3"
 }

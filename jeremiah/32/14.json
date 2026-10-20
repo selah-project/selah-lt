@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Baruchui",
-      "rationale": "Tęsiamas tiesioginis įsakymas Baruchui."
-    },
-    {
-      "kind": "measurement",
-      "subject": "daug dienų",
-      "rationale": "Laiko trukmės nurodymas — kad raštai išliktų ilgai."
-    },
-    {
-      "kind": "secret",
-      "subject": "užantspauduotas raštas",
-      "rationasure": "Antspauduotas dokumentas — paslėptas, neužsklęstas niekam iki laiko."
-    }
-  ],
-  "translation": "Taip sako Jahvė Cevaot, Jisraelio Elohim: Imk ⟨את⟩ šiuos raštus, ⟨את⟩ šį pirkimo raštą, užantspauduotą ir ⟨את⟩ šį atvirą raštą, ir padėk juos moliniame inde, kad jie išstovėtų daug dienų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8fd57db92a3793e1c34098d64eaf4c3fe7fb78d18ec97b283e42ac3d1760ebc3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/13-16.1792483124654.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taip sako Jahvė Cevaot, Jisraelio Elohim: Imk ⟨את⟩ šiuos raštus — ⟨את⟩ šį pirkimo raštą, ⟨ir⟩ ⟨את⟩ užantspauduotąjį ir ⟨את⟩ šį atvirąjį raštą — ir padėk juos į molio indą, kad jie išliktų ilgus laikus.",
   "tokens": [
     {
       "surface": "כה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Jisraelio Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -94,16 +68,16 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "užantspauduotą"
+      "marks": "užantspauduotąjį"
     },
     {
       "surface": "החתום",
-      "gloss": "užantspauduotą"
+      "gloss": "užantspauduotąjį"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "šį atvirą raštą"
+      "marks": "šį atvirąjį raštą"
     },
     {
       "surface": "ספר",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "הגלוי",
-      "gloss": "atvirą"
+      "gloss": "atvirąjį"
     },
     {
       "surface": "הזה",
@@ -123,11 +97,11 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "inde"
+      "gloss": "į indą"
     },
     {
       "surface": "חרש",
-      "gloss": "moliniame"
+      "gloss": "molio"
     },
     {
       "surface": "למען",
@@ -135,17 +109,17 @@
     },
     {
       "surface": "יעמדו",
-      "gloss": "išstovėtų"
+      "gloss": "jie išliktų"
     },
     {
       "surface": "ימים",
-      "gloss": "dienų"
+      "gloss": "laikus"
     },
     {
       "surface": "רבים",
-      "gloss": "daug"
+      "gloss": "ilgus"
     }
   ],
-  "timestamp": "2026-10-20T07:58:44.656233603Z",
+  "timestamp": "2026-10-20T12:30:44.913919273Z",
   "model": "glm-5.3"
 }

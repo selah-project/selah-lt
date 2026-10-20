@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ji",
-      "rationale": "hebrajų ויעבדני neturi aiškaus subjekto; pridėta 'ji' nurodo tautą"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": "Jahvė tiesiogiai įsako Mošei anksti rytą stoti prieš Parohą"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Mošei: atsikėlk anksti rytą ir atsistok Parohui priešais — štai jis eina prie vandens — ir sakyk jam: Taip sako Jahvė: paleisk ⟨את⟩ mano tautą, kad ji man tarnautų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1c13e0b64070dc2cc894ae9130a1c307a107a63743ee1a56dd00a4534bbbc3d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/8\/13-16.1792472349716.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Jahvė Mošei: atsikelk anksti rytą ir stok prieš Paraohą — štai jis išeina prie vandens — ir pasakysi jam: taip sako Jahvė: išleisk mano tautą, kad jie man tarnautų.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨Mošei⟩"
-    },
-    {
-      "surface": "משה",
       "gloss": "Mošei"
     },
     {
+      "surface": "משה",
+      "gloss": "Mošė"
+    },
+    {
       "surface": "השכם",
-      "gloss": "atsikėlk anksti"
+      "gloss": "atsikelk anksti"
     },
     {
       "surface": "בבקר",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "והתיצב",
-      "gloss": "ir atsistok"
+      "gloss": "ir stok"
     },
     {
       "surface": "לפני",
-      "gloss": "priešais"
+      "gloss": "prieš"
     },
     {
       "surface": "פרעה",
-      "gloss": "Parohui"
+      "gloss": "Paraohą"
     },
     {
       "surface": "הנה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "יוצא",
-      "gloss": "jis eina"
+      "gloss": "jis išeina"
     },
     {
       "surface": "המימה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "ir sakyk"
+      "gloss": "ir pasakysi"
     },
     {
       "surface": "אליו",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -98,17 +77,17 @@
     },
     {
       "surface": "שלח",
-      "gloss": "paleisk"
+      "gloss": "išleisk"
     },
     {
       "surface": "עמי",
-      "gloss": "⟨את⟩ mano tautą"
+      "gloss": "mano tautą"
     },
     {
       "surface": "ויעבדני",
-      "gloss": "kad ji man tarnautų"
+      "gloss": "kad jie man tarnautų"
     }
   ],
-  "timestamp": "2026-10-20T04:59:09.723295714Z",
+  "timestamp": "2026-10-20T12:20:52.562384598Z",
   "model": "glm-5.3"
 }

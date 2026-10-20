@@ -5,47 +5,26 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ten⟩",
-      "rationale": "שמה 'ten, į tą vietą' lietuvių kalboje sakinio gale reikalauja parodymo žodžio; sutrūkioja su 'šalį, į kurią vedu'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelio sūnums",
-      "rationale": "Moišei įsakyta kalbėti Jisraelio sūnums — tiesioginis kreipimasis"
-    }
-  ],
-  "translation": "Kalbėk Jisraelio sūnums ir sakyk jiems: kai ateisite į šalį, į kurią aš jus vedu, ⟨ten⟩ —",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/15\/17-20.1792474228826.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Šnekėk su Jisraelio sūnumis ir sakyk jiems: kai ateisite į žemę, į kurią aš jus vedu ⟨את⟩ tenai,",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Kalbėk"
+      "gloss": "Šnekėk"
     },
     {
       "surface": "אל",
-      "gloss": "pas"
+      "gloss": "su"
     },
     {
       "surface": "בני",
-      "gloss": "sūnums"
+      "gloss": "sūnumis"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraelio"
     },
     {
-      "surface": "ויאמרת",
+      "surface": "ואמרת",
       "gloss": "ir sakyk"
     },
     {
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "šalį"
+      "gloss": "žemę"
     },
     {
       "surface": "אשר",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "שמה",
-      "gloss": "⟨ten⟩"
+      "gloss": "tenai"
     }
   ],
-  "timestamp": "2026-10-20T05:30:28.834535087Z",
+  "timestamp": "2026-10-20T12:40:12.502268743Z",
   "model": "glm-5.3"
 }

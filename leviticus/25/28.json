@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "והיה tarpininkaujantysis 'ir bus' lietuvių kalboje tampa kopula, pridėta skliaustuose"
-    },
-    {
-      "kind": "measurement",
-      "subject": "jubiliejaus metai",
-      "rationale": "žemės grąžinimas susietas su penkiasdešimtųjų metų — jubiliejaus — skaičiumi"
-    },
-    {
-      "kind": "elision",
-      "subject": "עד",
-      "rationale": "'kol išeis jubiliejaus metais' — hebrajiškas עד שנת היובל ('iki jubiliejaus metų') sujungtas su ויצא į vieną sakinio dalyką, kad nereikėtų kartoti"
-    }
-  ],
-  "translation": "O jei jo ranka nesuras pakankamai, kad jam grąžintų, tai jo parduotasis liks ⟨yra⟩ rankoje pirkėjo, kol jubiliejaus metais išeis, ir jis sugrįš į savo valdą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/25\/25-28.1792473730536.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jei jo ranka neranda pakankamai, kad grąžintų jam, tai jo parduotasis daiktas liks ⟨yra⟩ rankoje to, kuris ⟨את⟩ jį nupirko, iki jobelio metų; ir jobelyje jis išeis, ir ⟨tai⟩ sugrįš į jo valdą.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "o jei"
+      "gloss": "ir jei"
     },
     {
       "surface": "לא",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מצאה",
-      "gloss": "nesuras"
+      "gloss": "neranda"
     },
     {
       "surface": "ידו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "kad grąžintų"
+      "gloss": "grąžintų"
     },
     {
       "surface": "לו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ממכרו",
-      "gloss": "jo parduotasis"
+      "gloss": "jo parduotasis daiktas"
     },
     {
       "surface": "ביד",
@@ -75,31 +49,32 @@
     },
     {
       "surface": "הקנה",
-      "gloss": "pirkėjo"
+      "gloss": "to, kuris nupirko"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "עד",
-      "gloss": "kol"
+      "gloss": "iki"
     },
     {
       "surface": "שנת",
-      "gloss": "metais"
+      "gloss": "metų"
     },
     {
       "surface": "היובל",
-      "gloss": "jubiliejaus"
+      "gloss": "jobelio"
     },
     {
       "surface": "ויצא",
-      "gloss": "išeis"
+      "gloss": "ir išeis"
     },
     {
       "surface": "ביבל",
-      "gloss": "jubiliejaus metu"
+      "gloss": "jobelyje"
     },
     {
       "surface": "ושב",
@@ -107,9 +82,9 @@
     },
     {
       "surface": "לאחזתו",
-      "gloss": "į savo valdą"
+      "gloss": "į jo valdą"
     }
   ],
-  "timestamp": "2026-10-20T05:22:10.538817155Z",
+  "timestamp": "2026-10-20T13:26:18.378427833Z",
   "model": "glm-5.3"
 }

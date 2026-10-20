@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אחרי גוך",
-      "rationale": "Pažodžiui 'už savo nugaros' — hebrajiškas posakis 'atmesti, išmesti iš galvos'; lietuviškai išlaikytas pažodžiui."
-    }
-  ],
-  "translation": "Todėl taip sako Adonai Jahvė: kadangi tu užmirai mane ir įmečiau mane už savo nugaros — nešk ir tu savo nedorybę bei ⟨את⟩ savo paleistuvystes.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/23\/33-36.1792484389342.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl taip sako Adonai Jahvė: Kadangi tu užmirdei ⟨את⟩ mane ir nusiřígei ⟨את⟩ mane už savo nugaros, todėl ir tu nešk savo nedorą ir savo paleistuvystę.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "todėl"
+      "gloss": "Todėl"
     },
     {
       "surface": "כה",
@@ -45,23 +29,25 @@
     },
     {
       "surface": "יען",
-      "gloss": "kadangi"
+      "gloss": "Kadangi"
     },
     {
       "surface": "שכחת",
-      "gloss": "tu užmirai"
+      "gloss": "užmirdei"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mane"
+      "gloss": "⟨את⟩",
+      "marks": "mane"
     },
     {
       "surface": "ותשליכי",
-      "gloss": "ir įmečiau"
+      "gloss": "ir nusiřígei"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mane"
+      "gloss": "⟨את⟩",
+      "marks": "mane"
     },
     {
       "surface": "אחרי",
@@ -73,7 +59,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ir"
+      "gloss": "todėl ir"
     },
     {
       "surface": "את",
@@ -85,18 +71,18 @@
     },
     {
       "surface": "זמתך",
-      "gloss": "savo nedorybę"
+      "gloss": "savo nedorą"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "savo paleistuvystes"
+      "gloss": "ir ⟨את⟩",
+      "marks": "savo paleistuvystę"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "savo paleistuvystes"
+      "gloss": "savo paleistuvystę"
     }
   ],
-  "timestamp": "2026-10-20T08:19:49.343302768Z",
+  "timestamp": "2026-10-20T12:22:51.749643788Z",
   "model": "glm-5.3"
 }

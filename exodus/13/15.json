@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "buvo sukietėjęs",
-      "rationale": "הקשה pažodžiui 'padarė sunkiu\/kietu' — išversta kaip sukietėjusi valia leisti išeiti"
-    },
-    {
-      "kind": "substitution",
-      "subject": "įsias atveriančius",
-      "rationale": "פטר רחם pažodžiui 'gimdymo vartų atvėrėją' — veiksmas, ne būsenos vardas"
-    }
-  ],
-  "translation": "Ir įvyko, kai Parao buvo sukietęs širdį, kad neleistų mūsų, tai Jahvė nudobė visus pirmagimius Micraimo krašte — nuo žmogaus pirmagimio iki gyvulio pirmagimio; todėl aš aukoju Jahvei visus vyriškosios lyties įsias atveriančius, o visus savo sūnų pirmagimius išperku.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "aac7fbc3af869d65974bac5dfc8708cc0f03b36114cd47697cacc3bc7aa4aae6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/13\/13-16.1792472485655.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨buvo⟩: kai Parohas pasunkino mūsų išleidimą, Jahvė užmušė visus pirmagimius Micraimo žemėje — nuo pimgimio žmogaus iki pirmagimio gyulio; todėl aš aukoju Jahvei visus, kurie atveria gimdą, patinus, o visus savo sūnų pirmagimius išperku.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir įvyko"
+      "gloss": "Ir ⟨buvo⟩"
     },
     {
       "surface": "כי",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "הקשה",
-      "gloss": "buvo sukietęs"
+      "gloss": "pasunkino"
     },
     {
       "surface": "פרעה",
-      "gloss": "Parao"
+      "gloss": "Parohas"
     },
     {
-      "surface": "לשלחynu",
-      "gloss": "kad neleistų mūsų"
+      "surface": "לשלחנו",
+      "gloss": "mūsų išleidimą"
     },
     {
       "surface": "ויהרג",
-      "gloss": "tai nudobė"
+      "gloss": "užmušė"
     },
     {
       "surface": "יהוה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "krašte"
+      "gloss": "žemėje"
     },
     {
       "surface": "מצרים",
@@ -90,15 +69,15 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "gyvulio"
+      "gloss": "gyulio"
     },
     {
       "surface": "על",
-      "gloss": "Dėl to"
+      "gloss": "todėl"
     },
     {
       "surface": "כן",
-      "gloss": "todėl"
+      "gloss": "štai kodėl"
     },
     {
       "surface": "אני",
@@ -118,15 +97,15 @@
     },
     {
       "surface": "פטר",
-      "gloss": "įsias atveriančius"
+      "gloss": "atveriančius"
     },
     {
       "surface": "רחם",
-      "gloss": "Įsias"
+      "gloss": "gimdą"
     },
     {
       "surface": "הזכרים",
-      "gloss": "vyriškosios lyties"
+      "gloss": "patinus"
     },
     {
       "surface": "וכל",
@@ -145,6 +124,6 @@
       "gloss": "išperku"
     }
   ],
-  "timestamp": "2026-10-20T05:01:25.660206727Z",
+  "timestamp": "2026-10-20T12:18:37.339163756Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kvailystę",
-      "rationale": "נבלה — 'beždžionybė, begėdiškas darbas'; lietuvių 'kvailystė' sulaiko hebrajišką motyvą kvailumo kaip moralės pažeidimo."
-    }
-  ],
-  "translation": "Ir bus: sugautasis su cheremu bus sudegintas ugnyje — jis ir visa, kas ⟨yra⟩ jo, nes jis peržengė ⟨את⟩ Jahvės sandorą ir nes padarė kvailystę Jisraelyje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/7\/13-16.1792475861887.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir bus: tas, kuris bus pagautas su cheremo daiktu, bus sudegintas ugnimi — ⟨את⟩ jį ir ⟨את⟩ visa, kas jo yra, nes jis peržengė ⟨את⟩ Jahvės sandorą ir nes padarė nešvencybę Jisraelyje.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "הנלכד",
-      "gloss": "sugautasis"
+      "gloss": "tas, kuris bus pagautas"
     },
     {
       "surface": "בחרם",
-      "gloss": "su cheremu"
+      "gloss": "su cheremo daiktu"
     },
     {
       "surface": "ישרף",
@@ -41,16 +25,17 @@
     },
     {
       "surface": "באש",
-      "gloss": "ugnyje"
+      "gloss": "ugnimi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį (tą žmogų)"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visa, kas jo"
+      "marks": "visa, kas jo yra"
     },
     {
       "surface": "כל",
@@ -62,7 +47,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "jo"
+      "gloss": "jo yra"
     },
     {
       "surface": "כי",
@@ -95,13 +80,13 @@
     },
     {
       "surface": "נבלה",
-      "gloss": "kvailystę"
+      "gloss": "nešvencybę"
     },
     {
       "surface": "בישראל",
       "gloss": "Jisraelyje"
     }
   ],
-  "timestamp": "2026-10-20T05:57:41.902364601Z",
+  "timestamp": "2026-10-20T12:36:24.838471164Z",
   "model": "glm-5.3"
 }

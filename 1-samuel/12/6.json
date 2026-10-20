@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajiškame tekste nėra veiksmažodžio-orodo; lietuvių sakinys jo reikalauja"
-    },
-    {
-      "kind": "elision",
-      "subject": "העלה",
-      "rationale": "Hiphil „pakelti aukštyn“ išplėsta į „išvedė“ — aukštyn-kylimo vaizdas prarandamas"
-    }
-  ],
-  "translation": "Ir Šmuelis tarė tautai: Jahvė ⟨yra⟩ tas, kuris padarė ⟨את⟩ Mošę ir ⟨את⟩ Aharoną, ir kuris išvedė ⟨את⟩ jūsų tėvus iš Micraimo krašto.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a0cacb4c269de0673f5967fad94644fb711fa5b813641c2d03b8dca2ec1d9183",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/12\/6-8.1792485481421.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šmuelis tarė žmonėms: Jahvė — tas, kuris padarė ⟨את⟩ Mošę ir ⟨את⟩ Aharoną, ir kuris išvedė ⟨את⟩ jūsų tėvus iš Micraimo krašto.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "שמואל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "žmonėms"
     },
     {
       "surface": "העם",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Mošę"
+      "gloss": "Mošė"
     },
     {
       "surface": "ואת",
@@ -100,6 +79,6 @@
       "gloss": "Micraimo"
     }
   ],
-  "timestamp": "2026-10-20T08:38:01.424494509Z",
+  "timestamp": "2026-10-20T12:07:37.622573601Z",
   "model": "glm-5.3"
 }

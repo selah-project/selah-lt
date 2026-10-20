@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Junginys 'tik\/nes kitaip' sutraukytas į vieną žodį 'tik'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לחם הפנים",
-      "rationale": "'Veido duona' — duona, stovinti prieš Jahvės veidą; dviprasmiškas פנים pakartojimas išlaikytas."
-    }
-  ],
-  "translation": "Ir kunigas davė jam šventos duonos, nes ten nebuvo duonos, tik Veido duona, nuimta nuo Jahvės veido, kad padėtų karštą duoną tą dieną, kai ji buvo paimta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/21\/5-8.1792477700305.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir davė jam kunigas šventą ⟨duoną⟩, nes ten nebuvo duonos, o tik veido duona, nuimta nuo veido Jahvės, kad būtų padėta karšta duona dieną, kai ji buvo paimta.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "קדש",
-      "gloss": "šventos"
+      "gloss": "šventą"
     },
     {
       "surface": "כי",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tik"
+      "gloss": "o"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tik"
     },
     {
       "surface": "לחם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "הפנים",
-      "gloss": "Veido"
+      "gloss": "veido"
     },
     {
       "surface": "המוסרים",
@@ -94,15 +73,15 @@
     },
     {
       "surface": "לשום",
-      "gloss": "kad padėtų"
+      "gloss": "kad būtų padėta"
     },
     {
       "surface": "לחם",
-      "gloss": "duoną"
+      "gloss": "duona"
     },
     {
       "surface": "חם",
-      "gloss": "karštą"
+      "gloss": "karšta"
     },
     {
       "surface": "ביום",
@@ -113,6 +92,6 @@
       "gloss": "kai ji buvo paimta"
     }
   ],
-  "timestamp": "2026-10-20T06:28:20.309038753Z",
+  "timestamp": "2026-10-20T12:08:25.431045571Z",
   "model": "glm-5.3"
 }

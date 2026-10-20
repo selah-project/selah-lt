@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sėdynės",
-      "rationale": "שׂתָה — „sėdynė, užpakalis“; žodis Tanache tik čia ir Iš 28, 42"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ערום \/ ערוה",
-      "rationale": "Nuogumas (ערום) ir gėdingas nuogumas (ערוה) — ta pati šaknis kartoja vizualinį vaizdą"
-    }
-  ],
-  "translation": "taip Ašūro karalius varys Micraimo belaisvius ir ⟨את⟩ Kūšo ištrėmtuosius — jaunus ir senus, nuogus ir basus, apnuogintomis sėdynėmis — į Micraimo gėdą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/20\/1-4.1792481031215.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taip Asūro karalius varys ⟨את⟩ Micraimo belaisvius ir ⟨את⟩ Kušo ištremtuosius — jaunuolius ir senolius, nuogus ir basokojančius, o atidengtu sėdmeniu — į Micraimo gėdą.",
   "tokens": [
     {
       "surface": "כן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ašūro"
+      "gloss": "Asūro"
     },
     {
       "surface": "את",
@@ -60,23 +39,23 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "Kūšo ištrėmtuosius"
+      "marks": "Kušo ištremtuosius"
     },
     {
       "surface": "גלות",
-      "gloss": "ištrėmtuosius"
+      "gloss": "ištremtuosius"
     },
     {
       "surface": "כוש",
-      "gloss": "Kūšo"
+      "gloss": "Kušo"
     },
     {
       "surface": "נערים",
-      "gloss": "jaunus"
+      "gloss": "jaunuolius"
     },
     {
       "surface": "וזקנים",
-      "gloss": "ir senus"
+      "gloss": "ir senolius"
     },
     {
       "surface": "ערום",
@@ -84,15 +63,15 @@
     },
     {
       "surface": "ויחף",
-      "gloss": "ir basus"
+      "gloss": "ir basokojančius"
     },
     {
       "surface": "וחשופי",
-      "gloss": "apnuogintomis"
+      "gloss": "o atidengtu"
     },
     {
       "surface": "שת",
-      "gloss": "sėdynėmis"
+      "gloss": "sėdmeniu"
     },
     {
       "surface": "ערות",
@@ -103,6 +82,6 @@
       "gloss": "Micraimo"
     }
   ],
-  "timestamp": "2026-10-20T07:23:51.217917049Z",
+  "timestamp": "2026-10-20T12:28:22.246617380Z",
   "model": "glm-5.3"
 }

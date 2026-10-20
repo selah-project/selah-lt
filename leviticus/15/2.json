@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זב \/ זובו",
-      "rationale": "veiksmažodis ir daiktavardis iš tos pačios šaknies (zav \/ zovo) — lietuviškame „teka \/ tekėjimas“ šaknies kartojimas iš dalies išlaikytas"
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų kalba neturi veiksmažodžio šiam sakiniui, lietuvių reikalauja ⟨yra⟩"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Kalbėkite",
-      "rationale": "imperatyvas, nukreiptas į Mošę ir Aharoną, kreipimasis į Jisraelio sūnus"
-    }
-  ],
-  "translation": "Kalbėkite Jisraelio sūnums ir sakykite jiems: kiekvienas vyras, kai iš jo kūno teka tekėjimas, — tokiu tekėjimu jis yra nešvarus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/15\/1-4.1792473440944.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kalbėkite su Jisraelio sūnumis ir pasakykite jiems: kiekvienas vyras, kai iš jo kūno teka išskyra — jo išskyra ⟨yra⟩ nešvari ⟨tai⟩.",
   "tokens": [
     {
       "surface": "דברו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "su"
     },
     {
       "surface": "בני",
-      "gloss": "sūnums"
+      "gloss": "sūnumis"
     },
     {
       "surface": "ישראל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ואמרתם",
-      "gloss": "ir sakykite"
+      "gloss": "ir pasakykite"
     },
     {
       "surface": "אלהם",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "kiekvienas"
+      "gloss": "vyras"
     },
     {
       "surface": "איש",
-      "gloss": "vyras"
+      "gloss": "kiekvienas"
     },
     {
       "surface": "כי",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "yra"
+      "gloss": "bus"
     },
     {
       "surface": "זב",
-      "gloss": "teka tekėjimas"
+      "gloss": "teka išskyra"
     },
     {
       "surface": "מבשרו",
@@ -83,17 +57,17 @@
     },
     {
       "surface": "זובו",
-      "gloss": "tokiu tekėjimu"
+      "gloss": "jo išskyra"
     },
     {
       "surface": "טמא",
-      "gloss": "nešvarus"
+      "gloss": "nešvari"
     },
     {
       "surface": "הוא",
-      "gloss": "jis"
+      "gloss": "tai"
     }
   ],
-  "timestamp": "2026-10-20T05:17:20.946361709Z",
+  "timestamp": "2026-10-20T12:38:22.727304722Z",
   "model": "glm-5.3"
 }

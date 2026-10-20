@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "H854 prielinksnis „su manimi“, ne DOM žymuo — tačiau išlaikomas ⟨את⟩ ženklelis pagal Selah taisyklę"
-    },
-    {
-      "kind": "invitation",
-      "subject": "kvietimas",
-      "rationale": "karaliaus imperatyvas „pereik su manimi“ — šaukimas eiti kartu"
-    }
-  ],
-  "translation": "Ir karalius tarė Barzilajui: Pereik ⟨את⟩ su manimi, ir aš tave išlaikysiu su savimi Jerušalaime.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/19\/33-36.1792478574721.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius tarė Barzilajui: Tu eik ⟨את⟩ su manimi ⟨את⟩, ir aš tave išlaikysiu su savimi Jerušalaime.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "המלך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Barzilajui"
+      "gloss": ""
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barzilajus"
+      "gloss": "Barzilajui"
     },
     {
       "surface": "אתה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "עבר",
-      "gloss": "pereik"
+      "gloss": "eik"
     },
     {
       "surface": "אתי",
@@ -74,6 +53,6 @@
       "gloss": "Jerušalaime"
     }
   ],
-  "timestamp": "2026-10-20T06:42:54.722812242Z",
+  "timestamp": "2026-10-20T12:14:12.979631085Z",
   "model": "glm-5.3"
 }

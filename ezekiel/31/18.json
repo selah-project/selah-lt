@@ -5,57 +5,31 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Parohui",
-      "rationale": "Rhetorinis klausimas ir tiesioginis kreipimasis į Egipto karalių."
-    },
-    {
-      "kind": "substitution",
-      "subject": "neapipjaustytieji",
-      "rationale": "ערלים — kūniškas ženklas, Tanache reiškia gėdą tarp mirusiųjų, ne tik religinę kategoriją."
-    },
-    {
-      "kind": "alternative",
-      "subject": "Tai yra Parohas",
-      "rationale": "הוא פרעה — pažymintis sakinio gale: 'jis — Parohas', t. y. visos raudonosios medžio alegorijos adresatas."
-    }
-  ],
-  "translation": "Kam tu panašus šlovėje ir didybėje tarp Edeno medžių? Ir būsi nuleistas ⟨את⟩ Edeno medžiais į žemiausią žemę, tarp neapipjaustytųjų guldysi su kardu išbadytaisiais. Tai yra Parohas ir visa jo minia — sako Adonai Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8fe58fd7207ee972e501194ac1da852c52f4cd735d1faad2ec783797f3c61cc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/31\/17-18.1792484638502.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kam tu tapatinai save su šitokiu šlovingumu ir didybe tarp Edeno medžių? Ir būsi nuleistas ⟨su⟩ Edenų ⟨את⟩ medžiais į žemę žemiausią, tarp neapipjaustytųjų gulėsi ⟨kartu⟩ su kardu ⟨את⟩ nudobtaisiais. ⟨Tai⟩ yra Parohas ir visa jo minia — sako Adonai Jahvė.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Kam"
-    },
-    {
-      "surface": "מי",
       "gloss": "kam"
     },
     {
+      "surface": "מי",
+      "gloss": "kas"
+    },
+    {
       "surface": "דמית",
-      "gloss": "tu panašus"
+      "gloss": "tapatinai"
     },
     {
       "surface": "ככה",
-      "gloss": "šitaip"
+      "gloss": "šitokiu"
     },
     {
       "surface": "בכבוד",
-      "gloss": "šlovėje"
+      "gloss": "šlovingumu"
     },
     {
       "surface": "ובגדל",
-      "gloss": "ir didybėje"
+      "gloss": "ir didybe"
     },
     {
       "surface": "בעצי",
@@ -72,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Edeno medžius"
+      "marks": "Edenų medžius"
     },
     {
       "surface": "עצי",
-      "gloss": "medžių"
+      "gloss": "medžiais"
     },
     {
       "surface": "עדן",
-      "gloss": "Edeno"
+      "gloss": "Edenų"
     },
     {
       "surface": "אל",
@@ -104,16 +78,16 @@
     },
     {
       "surface": "תשכב",
-      "gloss": "guldysi"
+      "gloss": "gulėsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kardu išbadytuosius"
+      "marks": "kardu nudobtuosius"
     },
     {
       "surface": "חללי",
-      "gloss": "išbadytaisiais"
+      "gloss": "nudobtaisiais"
     },
     {
       "surface": "חרב",
@@ -148,6 +122,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T08:23:58.503298479Z",
+  "timestamp": "2026-10-20T12:23:01.157223291Z",
   "model": "glm-5.3"
 }

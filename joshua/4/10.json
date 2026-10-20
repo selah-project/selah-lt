@@ -5,29 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "πrieš",
-      "rationale": "hebrajų צוה ת + את neišreikšta veiksmažodžio konstrukcija; paliktas nept — žr. pataisymą žemiau",
-      "subject2": null
-    },
-    {
-      "kind": "substitution",
-      "subject": "žodis",
-      "rationale": "דבר — 'žodis' ir 'dalykas'; čia 'visa, kas buvo įsakyta'"
-    }
-  ],
-  "translation": "Ir kunigai, nešantys aroną, stovėjo Jardeno viduryje, iki buvo atliktas visas žodis, kurį Jahvė įsakė Jehošuai pasakyti tautai, pagal viską, ką Mošė įsakė ⟨את⟩ Jehošuai; ir tauta skubėjo ir perėjo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0808450a2322e6610a7278093b460c9754b46b743936d60cd47c0ed7b30816c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/4\/9-12.1792475738892.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigai, nešantys arono ⟨את⟩, stovėjo Jordano viduryje, kol buvo baigtas visas dalykas, kurį Jahvė įsakė ⟨את⟩ Jehošuai pasakyti žmonėms, pagal visa, ką Mošė įsakė ⟨את⟩ Jehošuai; ir žmonės skubėjo ir perėjo.",
   "tokens": [
     {
       "surface": "והכהנים",
@@ -39,7 +17,7 @@
     },
     {
       "surface": "הארון",
-      "gloss": "aroną"
+      "gloss": "aronas"
     },
     {
       "surface": "עמדים",
@@ -51,15 +29,15 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardeno"
+      "gloss": "Jordano"
     },
     {
       "surface": "עד",
-      "gloss": "iki"
+      "gloss": "kol"
     },
     {
       "surface": "תם",
-      "gloss": "buvo atliktas"
+      "gloss": "buvo baigtas"
     },
     {
       "surface": "כל",
@@ -67,7 +45,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "žodis"
+      "gloss": "dalykas"
     },
     {
       "surface": "אשר",
@@ -88,7 +66,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošuai"
+      "gloss": "Jehošua"
     },
     {
       "surface": "לדבר",
@@ -96,15 +74,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "πrieš — tautai"
+      "gloss": ""
     },
     {
       "surface": "העם",
-      "gloss": "tautai"
+      "gloss": "žmonėms"
     },
     {
       "surface": "ככל",
-      "gloss": "pagal viską"
+      "gloss": "pagal visa"
     },
     {
       "surface": "אשר",
@@ -125,7 +103,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošuai"
+      "gloss": "Jehošua"
     },
     {
       "surface": "וימהרו",
@@ -133,13 +111,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmonės"
     },
     {
       "surface": "ויעברו",
       "gloss": "ir perėjo"
     }
   ],
-  "timestamp": "2026-10-20T05:55:38.896071161Z",
+  "timestamp": "2026-10-20T12:35:30.518120831Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מנגד",
-      "rationale": "Pašonimas 'iš priešingybės, priekiškai'; tradiciniai vertimai sako 'iš toli', bet žodis reiškia 'priešais'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Vietos žodis lietuviškame derinyje 'taro Gechaziui' jau išreikštas naudininku, todėl atskira prepozicija išnyksta."
-    }
-  ],
-  "translation": "Ir ji nuėjo, ir atėjo pas Dievo vyrą, prie Karmelio kalno. Ir atsitiko, kai Dievo vyras pamatė ⟨את⟩ ją priekiškai, jis tarė Gechaziui, savo tarnui: Štai ta Šunemitė!",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/4\/25-28.1792479823349.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ji nuėjo bei atėjo pas Elohim žmogų, pas Karmelo kalną. Ir atsitiko, kai Elohim žmogus pamatė ⟨את⟩ ją iš priekio, jis tarė Gechazi, savo tarnui: Štai ta Šunemitė.",
   "tokens": [
     {
       "surface": "ותלך",
-      "gloss": "Ir ji nuėjo"
+      "gloss": "ir ji nuėjo"
     },
     {
       "surface": "ותבוא",
-      "gloss": "ir atėjo"
+      "gloss": "bei atėjo"
     },
     {
       "surface": "אל",
@@ -42,27 +21,27 @@
     },
     {
       "surface": "איש",
-      "gloss": "vyrą"
+      "gloss": "žmogų"
     },
     {
       "surface": "האלהים",
-      "gloss": "Dievo"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "gloss": "prie"
+      "gloss": "pas"
     },
     {
       "surface": "הר",
-      "gloss": "kalno"
+      "gloss": "kalną"
     },
     {
       "surface": "הכרמל",
-      "gloss": "Karmelio"
+      "gloss": "Karmelo"
     },
     {
       "surface": "ויהי",
-      "gloss": "Ir atsitiko"
+      "gloss": "ir atsitiko"
     },
     {
       "surface": "כראות",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "vyras"
+      "gloss": "žmogus"
     },
     {
       "surface": "האלהים",
-      "gloss": "Dievo"
+      "gloss": "Elohim"
     },
     {
       "surface": "אתה",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "מנגד",
-      "gloss": "priekiškai"
+      "gloss": "iš priekio"
     },
     {
       "surface": "ויאמר",
-      "gloss": "jis tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "אל",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "גיחזי",
-      "gloss": "Gechaziui"
+      "gloss": "Gechazi"
     },
     {
       "surface": "נערו",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Štai"
+      "gloss": "štai"
     },
     {
       "surface": "השונמית",
@@ -114,6 +93,6 @@
       "gloss": "ta"
     }
   ],
-  "timestamp": "2026-10-20T07:03:43.350919078Z",
+  "timestamp": "2026-10-20T12:13:11.235746399Z",
   "model": "glm-5.3"
 }

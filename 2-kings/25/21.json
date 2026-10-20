@@ -5,37 +5,16 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "išvarė",
-      "rationale": "גלה reiškia 'nuoginti, išvežti į tremtį' — išvarytas iš žemės yra tremtis"
-    },
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "hebrajų kalba neturi pasyvo veiksmažodžio 'buvo išvarytas' — pridėta"
-    }
-  ],
-  "translation": "Ir Babilono karalius juos ⟨nukiršo⟩ ir nužudė juos Rivloje, Chamato šalyje; ir Jėzus buvo išvarytas ⟨iš⟩ savo žemės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/25\/21-24.1792480570884.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Babelio karalius sumušė ⟨את⟩ juos ir nužudė juos Rivloje, Chamato šalyje; ir jis ištrėmė Jehudą nuo jo žemės.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "nukiršo"
+      "gloss": "sumušė"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "juos (vyrus)"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "מלך",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "וימיתם",
-      "gloss": "nužudė juos"
+      "gloss": "ir nužudė juos"
     },
     {
       "surface": "ברבלה",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "ויגל",
-      "gloss": "išvarė"
+      "gloss": "ir ištrėmė"
     },
     {
       "surface": "יהודה",
-      "gloss": "Judą"
+      "gloss": "Jehudą"
     },
     {
       "surface": "מעל",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "savo žemės"
+      "gloss": "jo žemės"
     }
   ],
-  "timestamp": "2026-10-20T07:16:10.885055682Z",
+  "timestamp": "2026-10-20T12:12:14.509235833Z",
   "model": "glm-5.3"
 }

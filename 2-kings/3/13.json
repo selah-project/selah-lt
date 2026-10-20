@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לי ולך",
-      "rationale": "Hebrajų idiomą 'ką man ir tau' lietuviškai reiškia 'ką man bendra su tavimi'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨už⟩",
-      "rationale": "Lietuvių kalbai reikia prielinksnio prie tiesioginio objekto su veiksmažodžiu 'šaukė'."
-    }
-  ],
-  "translation": "Ir Eliša tarė Jisraelio karaliui: Ką man ir tau? Eik pas savo tėvo pranašus ir pas savo motinos pranašus. Ir Jisraelio karalius jam tarė: Ne, nes Jahvė šaukė ⟨už⟩ šiuos tris karalius atiduoti ⟨את⟩ juos Moabui į ranką.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/3\/13-16.1792479728787.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Eliša tarė Jisraelio karaliui: Ką man ir tau? Eik pas savo tėvo pranašus ir pas savo motinos pranašus. Ir Jisraelio karalius jam tarė: Ne, nes Jahvė sušaukė šiuos tris karalius, kad atiduotų ⟨את⟩ juos į Moabo ranką.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "karalius"
+      "gloss": "karaliui"
     },
     {
       "surface": "ישראל",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "šaukė"
+      "gloss": "sušaukė"
     },
     {
       "surface": "יהוה",
@@ -130,16 +109,16 @@
     },
     {
       "surface": "האלה",
-      "gloss": "šiuos"
+      "gloss": ""
     },
     {
       "surface": "לתת",
-      "gloss": "atiduoti"
+      "gloss": "kad atiduotų"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ juos",
-      "marks": "tris karalius"
+      "marks": "juos — šiuos tris karalius"
     },
     {
       "surface": "ביד",
@@ -147,9 +126,9 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Moabui"
+      "gloss": "Moabo"
     }
   ],
-  "timestamp": "2026-10-20T07:02:08.788276704Z",
+  "timestamp": "2026-10-20T12:13:12.447954475Z",
   "model": "glm-5.3"
 }

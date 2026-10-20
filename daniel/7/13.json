@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jie",
-      "rationale": "Hebrajų (aramėjų) veiksmažodis הקרבוהי yra daugiskaitos, bet lietuvių kalbai reikia įvardžio ⟨jie⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Amžinojo dienų",
-      "rationale": "עתיק יומיא pažodžiui 'Dienu Senis\/Veneruotasis' — figūra, ne epitetas"
-    },
-    {
-      "kind": "mystery",
-      "subject": "nakties regėjimas",
-      "rationale": "Regėjimas, kurio reikšmė ateityje atskleidžiama per aiškintoją (7,16)"
-    }
-  ],
-  "translation": "Žiūrėjau nakties regėjimuose, ir štai, su dangaus debesimis ateino kaip žmogaus sūnus, ir iki Amžinojo dienų jis atėjo, ir priešais jį ⟨jie⟩ jį privedė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0c9e55e5e7b74564f37fe6c45b068ceb5c7659b8f0fe7244a7650a863a932df7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/7\/13-16.1792491815530.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Regėjau nakties regėjimuose, ir štai, su dangaus debesimis kaip žmogaus sūnus atėjo, ir iki Dienų Senojo atvyko, ir prieš jį ⟨buvo⟩ priartintas.",
   "tokens": [
     {
       "surface": "חזה",
-      "gloss": "žiūrėjau"
+      "gloss": "regėjau"
     },
     {
       "surface": "הוית",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "אנש",
-      "gloss": "žmogaus"
+      "gloss": "žmogaus sūnus"
     },
     {
       "surface": "אתה",
-      "gloss": "ateino"
+      "gloss": "atėjo"
     },
     {
       "surface": "הוה",
-      "gloss": "buvo"
+      "gloss": "⟨buvo⟩"
     },
     {
       "surface": "ועד",
@@ -87,25 +61,25 @@
     },
     {
       "surface": "עתיק",
-      "gloss": "Amžinojo"
+      "gloss": "Senasis"
     },
     {
       "surface": "יומיא",
-      "gloss": "dienų"
+      "gloss": "Dienų"
     },
     {
       "surface": "מטה",
-      "gloss": "atėjo"
+      "gloss": "atvyko"
     },
     {
       "surface": "וקדמוהי",
-      "gloss": "ir priešais jį"
+      "gloss": "ir prieš jį"
     },
     {
       "surface": "הקרבוהי",
-      "gloss": "jį privedė"
+      "gloss": "priartintas"
     }
   ],
-  "timestamp": "2026-10-20T10:23:35.530730728Z",
+  "timestamp": "2026-10-20T12:15:14.481249855Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Sunk<yra>",
-      "rationale": "כבד pažodžiui 'sunki' — širdis kaip sunkus daiktas; lietuvių reikalauja kopulios ⟨yra⟩."
-    },
-    {
-      "kind": "addition",
-      "subject": "jis",
-      "rationale": "Prielinksnis 'מאן' neturi aiškaus veikėjo — 'jis' pridėtas, nes hebrajų dalyvinė struktūra to nereikalauja."
-    }
-  ],
-  "translation": "Ir tarė Jahvė Mošei: Sunk<yra> Faraono širdis — jis atsisako išleisti tautą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/7\/13-16.1792472246899.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Mošei: sunki ⟨yra⟩ Paro širdis — jis atsisako leisti tautą eiti.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Mošei"
+      "gloss": "—"
     },
     {
       "surface": "משה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "כבד",
-      "gloss": "Sunk<yra>"
+      "gloss": "sunki"
     },
     {
       "surface": "לב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Faraono"
+      "gloss": "Paro"
     },
     {
       "surface": "מאן",
@@ -62,13 +41,13 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "išleisti"
+      "gloss": "leisti eiti"
     },
     {
       "surface": "העם",
       "gloss": "tautą"
     }
   ],
-  "timestamp": "2026-10-20T04:57:26.902927267Z",
+  "timestamp": "2026-10-20T12:20:24.412978874Z",
   "model": "glm-5.3"
 }

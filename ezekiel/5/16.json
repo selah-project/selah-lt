@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מטה לחם",
-      "rationale": "'Duonos lazdą' — daiktinis vaizdas: duona kaip atrama, kuria laužiama; eufemizmo nereikia, palikta tiesiogiai"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רעב\/הרעים",
-      "rationale": "רעב (badą) ir רע (piktąsias) — beveik vienodas skambesys hebrajiškai, lietuviškai žodinis žaismas prarandamas"
-    }
-  ],
-  "translation": "Kai pasiųsiu ⟨את⟩ badą strėles, piktąsias, į juos, kurie buvo naikinimui, kurias pasiųsiu, kad sunaikinčiau jus, ir badą dauginsiu ant jūsų, ir palaušiu jums duonos lazdą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8ccfe23b3d5a6a02451a89799e5558989965e652ad4456ff330c6874932eec00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/5\/13-16.1792483921649.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kai siųsiu į juos ⟨את⟩ badmečio strėles — piktaužes, kurios ⟨yra⟩ naikinimui, kurias siųsiu jūsų sunaikinimui: ir badą dar pridėsiu prie jūsų, ir sulaužysiu jums duonos lazdą.",
   "tokens": [
     {
       "surface": "בשלחי",
-      "gloss": "kai pasiųsiu"
+      "gloss": "kai siųsiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badą strėles"
+      "marks": "badmečio strėles"
     },
     {
       "surface": "חצי",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "הרעב",
-      "gloss": "badą"
+      "gloss": "badmečio"
     },
     {
       "surface": "הרעים",
-      "gloss": "piktąsias"
+      "gloss": "piktaužes"
     },
     {
       "surface": "בהם",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurie"
+      "gloss": "kurios"
     },
     {
       "surface": "היו",
-      "gloss": "buvo"
+      "gloss": "⟨yra⟩"
     },
     {
       "surface": "למשחית",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "אשלח",
-      "gloss": "pasiųsiu"
+      "gloss": "siųsiu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jas",
-      "marks": "kad sunaikinčiau jus"
+      "gloss": "⟨את⟩",
+      "marks": "strėles"
     },
     {
       "surface": "לשחתכם",
-      "gloss": "kad sunaikinčiau jus"
+      "gloss": "jūsų sunaikinimui"
     },
     {
       "surface": "ורעב",
@@ -88,15 +67,15 @@
     },
     {
       "surface": "אסף",
-      "gloss": "dauginsiu"
+      "gloss": "pridėsiu"
     },
     {
       "surface": "עליכם",
-      "gloss": "ant jūsų"
+      "gloss": "pečiaus jūsų"
     },
     {
       "surface": "ושברתי",
-      "gloss": "ir palaušiu"
+      "gloss": "ir sulaužysiu"
     },
     {
       "surface": "לכם",
@@ -104,13 +83,13 @@
     },
     {
       "surface": "מטה",
-      "gloss": "lazdą"
+      "gloss": "lazda"
     },
     {
       "surface": "לחם",
       "gloss": "duonos"
     }
   ],
-  "timestamp": "2026-10-20T08:12:01.655241174Z",
+  "timestamp": "2026-10-20T12:24:13.618685573Z",
   "model": "glm-5.3"
 }

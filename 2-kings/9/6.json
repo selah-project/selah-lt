@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨vidun⟩",
-      "rationale": "הביתה — krypties galūnė „namo-vidun“; lietuviškai prireikia žodžio „vidun“"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "du kartus pakartotas prielinksnys prie „tautai“ ir „Jisraeliui“ lietuvių kilmininkas-linksniu jau išreiškia"
-    }
-  ],
-  "translation": "Ir jis atsikėlė ir įėjo ⟨vidun⟩ namo, ir išliejo aliejų ant jo galvos, ir tarė jam: Taip sako Jahvė, Jisraelio Elohim: Aš patepiau tave karaliumi Jahvės tautai, Jisraeliui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/5-8.1792479916817.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis atsistojo, įėjo ⟨vidun⟩ namo ir išpylė aliejų ant jo galvos, ir tarė jam: Tariau sako, Elohim, Jisraelio Dievas: patepiau tave karaliumi Jahvės tautai, Jisraeliui.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "ir jis atsikėlė"
+      "gloss": "ir jis atsistojo"
     },
     {
       "surface": "ויבא",
-      "gloss": "ir įėjo"
+      "gloss": "įėjo"
     },
     {
       "surface": "הביתה",
-      "gloss": "namo vidun"
+      "gloss": "namo ⟨vidun⟩"
     },
     {
       "surface": "ויצק",
-      "gloss": "ir išliejo"
+      "gloss": "ir išpylė"
     },
     {
       "surface": "השמן",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "taip"
+      "gloss": "Tariau sako"
     },
     {
       "surface": "אמר",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Jisraelio Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": ""
+      "gloss": "Jisraelio"
     },
     {
       "surface": "משחתיך",
-      "gloss": "aš patepiau tave"
+      "gloss": "patepiau tave"
     },
     {
       "surface": "למלך",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "עם",
@@ -106,13 +85,13 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraeliui"
     }
   ],
-  "timestamp": "2026-10-20T07:05:16.818510339Z",
+  "timestamp": "2026-10-20T12:12:46.142217393Z",
   "model": "glm-5.3"
 }

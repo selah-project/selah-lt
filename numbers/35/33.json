@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חניף",
-      "rationale": "חניף reiškia 'išniekinti, padaryti veidmainišku'; verčiama plačiu 'teršti'"
-    },
-    {
-      "kind": "crux",
-      "subject": "יכפר",
-      "rationale": "כפר: 'išpirkti \/ apvalyti \/ atlyginti' — vertėjai skiriasi tarp 'atone', 'expiate', 'cleansed'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrajų pora 'כי אם' reiškia 'tik, išskyrus'; verčiama vienu žodžiu 'tik'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חניף \/ יחניף",
-      "rationale": " Tos pačios šaknies kartojimas — 'neterškite... nes kraujas teršia' — šaknies žaismas lietuviškai išlieka"
-    }
-  ],
-  "translation": "Ir neterškite ⟨את⟩ žemės, kurioje jūs esate, nes kraujas pats teršia ⟨את⟩ žemę, ir žemei nebus atlyginta už kraują, kuris išlietas joje, — tik krauju to, kuris jį liejo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c16118f94e46841ff816556e2762e266ae5912dda079e968e4ab17236057de89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/33-34.1792474745320.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir nesuterškite ⟨את⟩ žemės, kurioje jūs esate, nes kraujas — jis suteršia ⟨את⟩ žemę, ir žemei nebus atlyginta už kraują, kuris joje išlietas, o tik krauju to, kuris jį liejo.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir nesuterškite — ne"
     },
     {
       "surface": "תחניפו",
-      "gloss": "neterškite"
+      "gloss": "suterškite"
     },
     {
       "surface": "את",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "joje"
+      "gloss": "joje esate"
     },
     {
       "surface": "כי",
@@ -77,11 +46,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "pats"
+      "gloss": "jis"
     },
     {
       "surface": "יחניף",
-      "gloss": "teršia"
+      "gloss": "suteršia"
     },
     {
       "surface": "את",
@@ -98,11 +67,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nebus"
     },
     {
       "surface": "יכפר",
-      "gloss": "bus atlyginta"
+      "gloss": "atlyginta"
     },
     {
       "surface": "לדם",
@@ -122,11 +91,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "tik"
+      "gloss": "o tik"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "tik"
     },
     {
       "surface": "בדם",
@@ -134,9 +103,9 @@
     },
     {
       "surface": "שפכו",
-      "gloss": "to, kuris liejo"
+      "gloss": "to, kuris jį liejo"
     }
   ],
-  "timestamp": "2026-10-20T05:39:05.321803339Z",
+  "timestamp": "2026-10-20T12:41:27.119066672Z",
   "model": "glm-5.3"
 }

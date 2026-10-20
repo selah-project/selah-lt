@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "hebrajiškame tekste — dalyvinė konstrukcija be būtojo laisko veiksmažodžio"
-    },
-    {
-      "kind": "crux",
-      "subject": "נגש",
-      "gloss": "„vyrai buvo varomi\/suspausti“ — KJV „distressed“, Genevos 1599 „pressed with hunger“; šaknis reiškia varyti kaip jautį, spaudimą"
-    },
-    {
-      "kind": "crux",
-      "subject": "עד הערב ונקמתי",
-      "gloss": "ar „iki vakaro, kol atkeršysiu“ yra du kadrai, ar vienas — „iki vakaro, tai yra iki atkeršijimo“"
-    }
-  ],
-  "translation": "Ir Jisraelio vyrai ⟨buvo⟩ varomi tą dieną, nes Šaulius įpareigojo ⟨את⟩ tautą, sakydamas: prakeiktas yra vyras, kuris valgys maisto iki vakaro, kol atkeršysiu savo priešams; ir nė vienas iš tautos neragavo maisto.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b49fd63885df2a96d2978ccc58b59bb395ab14190ca45e1e92b4e9c219a09d93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/14\/21-24.1792477314811.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelio vyrai tą dieną ⟨buvo⟩ vargomi, ir Šaulis privertė ⟨את⟩ tautą prisiekti, sakydamas: prakeiktas vyras, kuris valgys maistą iki vakaro, kol atkeršysiu savo priešams. Ir nė vienas iš tautos neragavo maisto.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ir vyrai"
+      "gloss": "Ir vyrai"
     },
     {
       "surface": "ישראל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "נגש",
-      "gloss": "varomi"
+      "gloss": "vargomi"
     },
     {
       "surface": "ביום",
@@ -55,16 +29,16 @@
     },
     {
       "surface": "ויאל",
-      "gloss": "ir įpareigojo priesaika"
+      "gloss": "ir privertė prisiekti"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulius"
+      "gloss": "Šaulis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tautą"
+      "marks": "tauta"
     },
     {
       "surface": "העם",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "לחם",
-      "gloss": "maisto"
+      "gloss": "maistą"
     },
     {
       "surface": "עד",
@@ -111,12 +85,8 @@
       "gloss": "savo priešams"
     },
     {
-      "surface": "ו",
-      "gloss": "ir"
-    },
-    {
-      "surface": "לא",
-      "gloss": "ne"
+      "surface": "ולא",
+      "gloss": "ir ne"
     },
     {
       "surface": "טעם",
@@ -135,6 +105,6 @@
       "gloss": "maisto"
     }
   ],
-  "timestamp": "2026-10-20T06:21:54.815297286Z",
+  "timestamp": "2026-10-20T12:07:58.941233287Z",
   "model": "glm-5.3"
 }

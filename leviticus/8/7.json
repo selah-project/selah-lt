@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "בחשב",
-      "rationale": "Efodo pintas diržas — retas žodis, minimas tik kunigo rūbų kontekste"
-    },
-    {
-      "kind": "elision",
-      "subject": "ויתן",
-      "rationale": "Žodis 'dėti' plačiai naudojamas, verčiama 'uždėjo\/apvilko' pagal rūbą"
-    }
-  ],
-  "translation": "Ir apvilkęs jį tunika, ir apjuosęs jį juosta, ir apvilko jį ⟨את⟩ apsiaustu, ir uždėjo ant jo ⟨את⟩ efodą, ir apjuosė jį efodo pintu diržu, ir prisisegė jį juo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/5-8.1792473309970.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir uždėjo ant jo ⟨את⟩ tuniką, ir apjuosė jį ⟨את⟩ juosta, ir apvilko jį ⟨את⟩ ⟨את⟩ apsiaustu, ir uždėjo ant jo ⟨את⟩ efodą, ir apjuosė jį ⟨את⟩ efodo pintą juosta, ir prisisegė jį ja prie savęs.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Ir uždėjo"
+      "gloss": "ir uždėjo"
     },
     {
       "surface": "עליו",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "הכתנת",
-      "gloss": "tunika"
+      "gloss": "tuniką"
     },
     {
       "surface": "ויחגר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "jį ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "juosta"
     },
     {
@@ -64,17 +43,17 @@
     },
     {
       "surface": "אתו",
-      "gloss": "jį ⟨את⟩",
-      "marks": "apsiaustą"
+      "gloss": "⟨את⟩",
+      "marks": "apsiaustu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "apsiaustą"
+      "marks": "apsiaustu"
     },
     {
       "surface": "המעיל",
-      "gloss": "apsiaustas"
+      "gloss": "apsiaustu"
     },
     {
       "surface": "ויתן",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "האפד",
-      "gloss": "efodas"
+      "gloss": "efodą"
     },
     {
       "surface": "ויחגר",
@@ -99,30 +78,30 @@
     },
     {
       "surface": "אתו",
-      "gloss": "jį ⟨את⟩",
-      "marks": "pintas diržas"
+      "gloss": "⟨את⟩",
+      "marks": "efodo pinta juosta"
     },
     {
       "surface": "בחשב",
-      "gloss": "pintu diržu"
+      "gloss": "efodo pinta juosta"
     },
     {
       "surface": "האפד",
       "gloss": "efodo"
     },
     {
-      "surface": "ואאפד",
+      "surface": "ויאפד",
       "gloss": "ir prisisegė"
     },
     {
       "surface": "לו",
-      "gloss": "jam"
+      "gloss": "prie savęs"
     },
     {
       "surface": "בו",
-      "gloss": "juo"
+      "gloss": "ja"
     }
   ],
-  "timestamp": "2026-10-20T05:15:09.972742957Z",
+  "timestamp": "2026-10-20T12:39:46.160059646Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebraiškas teksta neturi veiksmažodžio — lietuvių kalba reikalauja jungties."
-    },
-    {
-      "kind": "you",
-      "subject": "Aronui",
-      "rationale": "Tiesioginis kreipimasis į Aharoną: aukos skirtos jam, jo sūnums ir dukroms."
-    }
-  ],
-  "translation": "Ir šitai tau ⟨yra⟩: jų dovanų aukojimas, visos Jisraelio sūnų pakėlimo aukos; tau daviau jas, ir tavo sūnums, ir tavo dukroms, ⟨su⟩ tavimi — amžinam įstatymui; kiekvienas tyras tavo namuose valgys ⟨את⟩ jas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "39d83533cd78079dc6f863f9860ab51678f75e536738270b83267cd983e126c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/18\/9-12.1792474278819.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tai tau — teruma iš jų dovanų, drauge su visomis Jisraelio sūnų tenufot: tau aš jas daviau, tavo sūnums ir tavo dukterims ⟨את⟩ ⟨su tavimi⟩, įstatymu amžių; visi, kurie tyrų tavo namuose, valgys ⟨את⟩ jį.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Ir šitai"
+      "gloss": "ir tai"
     },
     {
       "surface": "לך",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "תרומת",
-      "gloss": "aukojimas"
+      "gloss": "teruma"
     },
     {
       "surface": "מתנם",
-      "gloss": "jų dovanų"
+      "gloss": "iš jų dovanų"
     },
     {
       "surface": "לכל",
-      "gloss": "visos"
+      "gloss": "drauge su visomis"
     },
     {
       "surface": "תנופת",
-      "gloss": "pakėlimo aukos"
+      "gloss": "tenufot"
     },
     {
       "surface": "בני",
@@ -66,35 +45,35 @@
     },
     {
       "surface": "נתתים",
-      "gloss": "daviau jas"
+      "gloss": "aš jas daviau"
     },
     {
       "surface": "ולבניך",
-      "gloss": "ir tavo sūnums"
+      "gloss": "tavo sūnums"
     },
     {
       "surface": "ולבנתיך",
-      "gloss": "ir tavo dukroms"
+      "gloss": "tavo dukterims"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ su tavimi"
+      "gloss": "⟨את⟩ ⟨su tavimi⟩"
     },
     {
       "surface": "לחק",
-      "gloss": "įstatymui"
+      "gloss": "įstatymu"
     },
     {
       "surface": "עולם",
-      "gloss": "amžinam"
+      "gloss": "amžių"
     },
     {
       "surface": "כל",
-      "gloss": "kiekvienas"
+      "gloss": "visi"
     },
     {
       "surface": "טהור",
-      "gloss": "tyras"
+      "gloss": "tyrų"
     },
     {
       "surface": "בביתך",
@@ -106,10 +85,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jas",
-      "marks": "jas (tuoos aukas)"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     }
   ],
-  "timestamp": "2026-10-20T05:31:18.833785004Z",
+  "timestamp": "2026-10-20T12:40:42.320285516Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יָצֹא יֵצֵא",
-      "rationale": "prielinksnis+veiksmažodis pakartotas — intensyvus 'tikrai išeis'"
-    }
-  ],
-  "translation": "Bet jei žmogžudys išeis, išeis už jo prieglaudos miesto ribos, į kurį jis bėga, —",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "28d5752f8a604d947087b4aeb51b92eef169a7b258a488831c2fd0949ecc9854",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/35\/25-28.1792474789061.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jeigu žudikas išeis už ⟨את⟩ ribos savo prieglaudos miesto, į kurį jis pabėgo,",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "bet jei"
+      "gloss": "ir jeigu"
     },
     {
       "surface": "יצא",
@@ -37,16 +21,16 @@
     },
     {
       "surface": "הרצח",
-      "gloss": "žmogžudys"
+      "gloss": "žudikas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ribą"
+      "marks": "ribos"
     },
     {
       "surface": "גבול",
-      "gloss": "ribą"
+      "gloss": "ribos"
     },
     {
       "surface": "עיר",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "מקלטו",
-      "gloss": "jo prieglaudos"
+      "gloss": "savo prieglaudos"
     },
     {
       "surface": "אשר",
@@ -62,13 +46,13 @@
     },
     {
       "surface": "ינוס",
-      "gloss": "bėga"
+      "gloss": "pabėgo"
     },
     {
       "surface": "שמה",
-      "gloss": "ten"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-20T05:39:49.063904351Z",
+  "timestamp": "2026-10-20T12:41:28.358349696Z",
   "model": "glm-5.3"
 }

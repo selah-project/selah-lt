@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על פני",
-      "rationale": "Idioma 'ant veido' = 'priešais'; פני atskira glosa nelieka."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חל",
-      "rationale": "'Profanus, pasaulietis' — priešybė šventam; ne 'niekšingas'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "plotas",
-      "rationale": "Likusieji 5000 pločio skirti miestui."
-    }
-  ],
-  "translation": "O penki tūkstančiai, likę pločio priešais dvidešimt penkis tūkstančius, — profanus ⟨yra⟩ tai: miestui gyvenimui ir priemiesčiui; ir miestas ⟨stovės⟩ jo viduryje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "50ab0ce3e44692fbb883a81808004f033f33e684399275df9ca34d212703607e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/48\/13-16.1792486256880.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir penki tūkstančiai, likę pločio atžvilgiu prieš penkis ir dvidešimt tūkstančių, yra bendra žemė — miestui, gyvenimui ir priemiestžemei; ir miestas bus jos ⟨viduryje⟩.",
   "tokens": [
     {
       "surface": "וחמשת",
-      "gloss": "o penki"
+      "gloss": "Ir penki"
     },
     {
       "surface": "אלפים",
@@ -47,35 +21,35 @@
     },
     {
       "surface": "ברחב",
-      "gloss": "pločio"
+      "gloss": "pločio atžvilgiu"
     },
     {
       "surface": "על",
-      "gloss": "priešais"
+      "gloss": "prieš"
     },
     {
       "surface": "פני",
-      "gloss": ""
+      "gloss": "priešais"
     },
     {
       "surface": "חמשה",
-      "gloss": "penki"
+      "gloss": "penkis"
     },
     {
       "surface": "ועשרים",
-      "gloss": "dvidešimt"
+      "gloss": "ir dvidešimt"
     },
     {
       "surface": "אלף",
-      "gloss": "tūkstančius"
+      "gloss": "tūkstančių"
     },
     {
       "surface": "חל",
-      "gloss": "profanus"
+      "gloss": "bendra žemė"
     },
     {
       "surface": "הוא",
-      "gloss": "tai"
+      "gloss": "yra"
     },
     {
       "surface": "לעיר",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ולמגרש",
-      "gloss": "ir priemiesčiui"
+      "gloss": "ir priemiestžemei"
     },
     {
       "surface": "והיתה",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "jo viduryje"
+      "gloss": "jos viduryje"
     }
   ],
-  "timestamp": "2026-10-20T08:50:56.882631253Z",
+  "timestamp": "2026-10-20T13:26:06.467991490Z",
   "model": "glm-5.3"
 }

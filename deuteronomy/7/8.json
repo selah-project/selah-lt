@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jis",
-      "rationale": "Įvardis pridėtas aiškumui — hebrajų kalboje veiksmas dalyvauja be įvardžio"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ביד חזקה",
-      "rationale": "pažodžiui 'stipria ranka' — išlaikyta lauko prasmė, ne idiomatinis 'galingai'"
-    }
-  ],
-  "translation": "Nes iš meilės ⟨את⟩ jums Jahvė ir iš laikymo priesaikos, kurią jis prisiekė jūsų tėvams, išvedė jus Jahvė ⟨את⟩ stipria ranka ir išpirko jus iš vergų namų, iš Parao, Micraimo karaliaus, rankos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/7\/5-8.1792474991491.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes iš meilės, kuria Jahvė pamilo ⟨את⟩ jus, ir saugodamas priesaiką, kurią jis prisiekė jūsų tėvams, Jahvė išvedė ⟨את⟩ jus galinga ranka ir išpirko jus iš vergų namų, iš faraono, Micraimo karaliaus, rankos.",
   "tokens": [
     {
       "surface": "כי",
@@ -42,20 +21,21 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums"
+      "gloss": "⟨את⟩",
+      "marks": "jus"
     },
     {
       "surface": "ומשמרו",
-      "gloss": "ir iš laikymo"
+      "gloss": "ir saugodamas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "priesaikos"
+      "marks": "priesaiką"
     },
     {
       "surface": "השבעה",
-      "gloss": "priesaikos"
+      "gloss": "priesaiką"
     },
     {
       "surface": "אשר",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "jis prisiekė"
+      "gloss": "prisiekė"
     },
     {
       "surface": "לאבתיכם",
@@ -79,7 +59,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus"
+      "gloss": "⟨את⟩",
+      "marks": "jus"
     },
     {
       "surface": "ביד",
@@ -87,7 +68,7 @@
     },
     {
       "surface": "חזקה",
-      "gloss": "stipria"
+      "gloss": "galinga"
     },
     {
       "surface": "ויפדך",
@@ -107,7 +88,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Parao"
+      "gloss": "faraono"
     },
     {
       "surface": "מלך",
@@ -118,6 +99,6 @@
       "gloss": "Micraimo"
     }
   ],
-  "timestamp": "2026-10-20T05:43:11.495603336Z",
+  "timestamp": "2026-10-20T12:18:01.904353189Z",
   "model": "glm-5.3"
 }

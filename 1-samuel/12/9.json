@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "pardavė",
-      "rationale": "וימכר 'pardavė' — hebrajų idiomą 'parduoti į ranką' reiškia atiduoti priešui, ne prekybą"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kovojo prieš juos",
-      "rationale": "בם tiesiog 'juose'; lietuvių kalbai reikia 'prieš'"
-    }
-  ],
-  "translation": "Ir jie užmiršo Jahvę, savo Elohim, ir jis pardavė juos į Siseros ranką, Hacoro kariuomenės vardo, ir į filistiečių ranką, ir į Moabo karaliaus ranką, ir jie kovojo prieš juos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/12\/9-12.1792477199063.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie užmiršo ⟨את⟩ Jahvę, savo Elohim, ir jis pardavė ⟨אתם⟩ į Siseros, Hacoro kariuomenės vado, ranką, ir į plištiečių ranką, ir į Moabo karaliaus ranką, ir jie kovojo prieš juos.",
   "tokens": [
     {
       "surface": "וישכחו",
-      "gloss": "ir jie užmiršo"
+      "gloss": "ir užmiršo"
     },
     {
       "surface": "את",
@@ -47,11 +26,12 @@
     },
     {
       "surface": "וימכר",
-      "gloss": "ir jis pardavė"
+      "gloss": "ir pardavė"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨אתם⟩",
+      "marks": "juos"
     },
     {
       "surface": "ביד",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "שר",
-      "gloss": "vado"
+      "gloss": "vadas"
     },
     {
       "surface": "צבא",
@@ -79,7 +59,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistiečių"
+      "gloss": "plištiečių"
     },
     {
       "surface": "וביד",
@@ -95,13 +75,13 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "ir jie kovojo"
+      "gloss": "ir kovojo"
     },
     {
       "surface": "בם",
       "gloss": "prieš juos"
     }
   ],
-  "timestamp": "2026-10-20T06:19:59.065411481Z",
+  "timestamp": "2026-10-20T12:07:35.199815292Z",
   "model": "glm-5.3"
 }

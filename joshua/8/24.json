@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "pažodžiui 'kardo burna' — stilius 'nuo kardo \/ kardo ašmenimis'; hebrajiškas paveikslas prarastas."
-    },
-    {
-      "kind": "addition",
-      "subject": "Jisraelio vyrai",
-      "rationale": "visas Jisraelis — kolektyvas; 'vyrai' pridėta aiškumo dėlei, nors hebrajiškai tik 'visas Jisraelis'."
-    }
-  ],
-  "translation": "Ir įvyko, kai Jisraelis baigė žudyti ⟨את⟩ visus Hai gyventojus lauke — dykumoje, kurioje jie juos vijosi, — ir visi jie krito nuo kardo iki galo, tai visi Jisraelio vyrai sugrįžo prie Hai ir jį iškapojo kardo ašmenimis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "217ed01935e297e4d2c61568aa6c5c92193d3b6d89c271388dcc6a24c3346513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/8\/21-24.1792475859485.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, kai Jisraelis pabaigė žudyti ⟨את⟩ visus Hai gyventojus lauke, dykumoje, kurioje jie juos vijosi, ir visi jie krito kardo žiočių ⟨priekyje⟩, kol jų pabaiga, tai visi Jisraelio vyrai sugrįžo prie Hai ir iškapojo ⟨את⟩ ją kardo žiotimis.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ir įvyko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "ככלות",
-      "gloss": "kai baigė"
+      "gloss": "kai pabaigė"
     },
     {
       "surface": "ישראל",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לפי",
-      "gloss": "nuo"
+      "gloss": "žiočių ⟨priekyje⟩"
     },
     {
       "surface": "חרב",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "iki"
+      "gloss": "kol"
     },
     {
       "surface": "תמם",
-      "gloss": "galo"
+      "gloss": "jų pabaiga"
     },
     {
       "surface": "וישבו",
@@ -127,17 +106,18 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ją"
+      "gloss": "⟨את⟩",
+      "marks": "ją (Hai)"
     },
     {
       "surface": "לפי",
-      "gloss": "kardo"
+      "gloss": "žiotimis"
     },
     {
       "surface": "חרב",
-      "gloss": "ašmenimis"
+      "gloss": "kardo"
     }
   ],
-  "timestamp": "2026-10-20T05:57:39.520760485Z",
+  "timestamp": "2026-10-20T12:35:59.024471681Z",
   "model": "glm-5.3"
 }

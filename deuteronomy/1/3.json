@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "data",
-      "rationale": "Tiksli data: keturiasdešimti metai, vienuoliktas mėnesis, pirma diena."
-    },
-    {
-      "kind": "addition",
-      "subject": "pasakyti",
-      "rationale": "Hebrajas sako tik „įsakė jam jiems“; veiksmažodis pridėtas gramatiškai."
-    }
-  ],
-  "translation": "Ir įvyko keturiasdešimtaisiais metais, vienuoliktąjį mėnesį, pirmąją mėnesio dieną, Mošė kalbėjo Jisraelio sūnums viską, ką Jahvė ⟨את⟩ jam įsakė ⟨pasakyti⟩ jiems.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/1\/1-4.1792474865121.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir įvyko keturiasdešimtaisiais metais, vienuoliktąjį mėnesį, pirmąją mėnesio dieną, Mošė kalbėjo Jisraelio sūnums pagal viską, ką Jahvė jam įsakė ⟨את⟩ jiems:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "viską"
+      "gloss": "pagal viską"
     },
     {
       "surface": "אשר",
@@ -98,13 +77,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jam"
+      "gloss": "⟨את⟩",
+      "marks": "jiems"
     },
     {
       "surface": "אלהם",
       "gloss": "jiems"
     }
   ],
-  "timestamp": "2026-10-20T05:41:05.193902088Z",
+  "timestamp": "2026-10-20T12:16:00.253048653Z",
   "model": "glm-5.3"
 }

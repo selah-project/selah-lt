@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "census",
-      "rationale": "Visas posūkis — gyventojų surašymo įsakymas: skaičiavimas kaip veiksmas."
-    },
-    {
-      "kind": "you",
-      "subject": "to Joab",
-      "rationale": "Karaliaus tiesioginis kreipimasis su imperatyvais 'apgaubk... suskaičiuokite'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "gimines",
-      "rationale": "שבט yra 'lazda, skeptras', iš to 'giminė\/šeima' — lietuviškai 'giminė' praranda lazdos paveikslą."
-    }
-  ],
-  "translation": "Ir tarė karalius Joabui, karo vadui, kuris buvo ⟨את⟩ su juo: Apgaubk dabar visas Jisraelio gimines, nuo Dano iki Beer-Šebos, ir suskaičiuokite ⟨את⟩ tautą, kad aš žinočiau ⟨את⟩ tautos skaičių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/24\/1-4.1792478782203.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius tarė Joabui, kunigaikščiui, kuris ⟨buvo⟩ ⟨אתו⟩ pas jį, jo kariuomenės: Prašau, apkeliauk visus Jisraelio augalus nuo Dano iki Beer-Šebos, ir suskaičiuokite ⟨את⟩ tautą, kad aš pažinčiau ⟨את⟩ tautos skaičių.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Joabui"
     },
     {
       "surface": "יואב",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "vadui"
+      "gloss": "kunigaikščiui"
     },
     {
       "surface": "החיל",
-      "gloss": "karo"
+      "gloss": "kariuomenės"
     },
     {
       "surface": "אשר",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "אתו",
-      "gloss": "buvo ⟨את⟩ su juo"
+      "gloss": "⟨אתו⟩ pas jį"
     },
     {
       "surface": "שוט",
-      "gloss": "apgaubk"
+      "gloss": "apkeliauk"
     },
     {
       "surface": "נא",
-      "gloss": "dabar"
+      "gloss": "prašau"
     },
     {
       "surface": "בכל",
-      "gloss": "visas"
+      "gloss": "visus"
     },
     {
       "surface": "שבטי",
-      "gloss": "gimines"
+      "gloss": "augalus"
     },
     {
       "surface": "ישראל",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "וידעתי",
-      "gloss": "kad žinočiau"
+      "gloss": "kad pažinčiau"
     },
     {
       "surface": "את",
@@ -132,6 +106,6 @@
       "gloss": "tautos"
     }
   ],
-  "timestamp": "2026-10-20T06:46:22.205752271Z",
+  "timestamp": "2026-10-20T12:14:28.533329596Z",
   "model": "glm-5.3"
 }

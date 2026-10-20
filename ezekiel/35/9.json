@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "rationale": "Hebrajiškas tekstas neturi veiksmažodžio 'būti'; lietuvių kalbai reikia ⟨esu⟩"
-    },
-    {
-      "kind": "you",
-      "subject": "Edomui",
-      "rationale": "Eilutė kreipiasi į Edomą (Seirą), pranašaujant amžiną dykynę"
-    }
-  ],
-  "translation": "Amžinomis dykynomis padarysiu tave, ir tavo miestai nebus apgyvendinti, ir jūs pažinsite, kad aš ⟨esu⟩ Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "71cdc1ffe536b38f41edaf6652145c6e0b02c46730fd3c42b7201aa980227277",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/35\/9-12.1792485846034.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Amžinomis dykromis padarysiu tave, ir tavo miestai nebus apgyventi, ir jūs pažinsite, kad aš esu Jahvė.",
   "tokens": [
     {
       "surface": "שממות",
-      "gloss": "dykynomis"
+      "gloss": "amžinomis dykromis"
     },
     {
       "surface": "עולם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "תישבנה",
-      "gloss": "bus apgyvendinti"
+      "gloss": "bus apgyventi"
     },
     {
       "surface": "וידעתם",
@@ -69,6 +48,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T08:44:06.034912465Z",
+  "timestamp": "2026-10-20T12:22:33.088310244Z",
   "model": "glm-5.3"
 }

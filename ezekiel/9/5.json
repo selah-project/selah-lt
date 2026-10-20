@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על תחוס עיניכם",
-      "rationale": "Hebrajų idiomą 'jūsų akys tesigaili' reikia išversti su ⟨nuo⟩ — akys 'nuleidžiamos' arba 'gailisi'"
-    },
-    {
-      "kind": "elision",
-      "subject": "תחמלו",
-      "rationale": "Porinis veiksmažodis 'pasigailėti' išskaidytas tarp תחס ir תחמלו — glosa tuščia, nes reikšmė jau atiduota"
-    }
-  ],
-  "translation": "Ir šiems jis tarė mano ausų girdint: Eikite per miestą paskui jį ir muškite; nenuleiskite savo akių ir nesigailėkite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "742ff5541b69573f7d9e74a9ea8ad730516d88935a1cb2ee6b1523f36c06e63e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/9\/5-8.1792484010346.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨itiems⟩ jis tarė mano ausyse: Eikite per miestą paskui jį ir muškite — tepasigaili jūsų akys ⟨ne⟩ ir ⟨ne⟩ pasigailėkite.",
   "tokens": [
     {
       "surface": "ולאלה",
-      "gloss": "ir šiems"
+      "gloss": "ir ⟨itiems⟩"
     },
     {
       "surface": "אמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "mano ausų girdint"
+      "gloss": "mano ausyse"
     },
     {
       "surface": "עברו",
@@ -58,25 +37,25 @@
     },
     {
       "surface": "על",
-      "gloss": "nenuleiskite ⟨nuo⟩"
+      "gloss": "⟨ne⟩"
     },
     {
       "surface": "תחס",
-      "gloss": "gailėkitės"
+      "gloss": "tepasigaili"
     },
     {
       "surface": "עיניכם",
-      "gloss": "savo akių"
+      "gloss": "jūsų akys"
     },
     {
       "surface": "ואל",
-      "gloss": "ir nesigailėkite"
+      "gloss": "ir ⟨ne⟩"
     },
     {
       "surface": "תחמלו",
-      "gloss": ""
+      "gloss": "pasigailėkite"
     }
   ],
-  "timestamp": "2026-10-20T08:13:30.348116167Z",
+  "timestamp": "2026-10-20T12:24:07.399985835Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא שם לשוא",
-      "rationale": "pažodžiui „kelti vardą tuščiai“ — juridine prasme: neteisėtai prisiekti ar vadinti Netiesą Tiesa"
-    },
-    {
-      "kind": "crux",
-      "subject": "לשוא",
-      "rationale": "„tuščiai, veltui, netikrumu, melagingai“ — įvairios tradicijos supranta skirtingai: prakeiksmas, klusmingumas, netikras liudijimas"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישא ... לשוא",
-      "rationale": "pakartota ta pati konstrukcija du kartus — chiazminis apsupimas"
-    }
-  ],
-  "translation": "Nekelk ⟨את⟩ Jahvės, tavo Elohim, vardo tuščiai, nes Jahvė neišteisins to, kuris kelia ⟨את⟩ jo vardą tuščiai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/20\/5-8.1792472533552.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nekelk ⟨את⟩ vardo Jahvės, tavo Elohim, tuščiai, nes Jahvė nepaliks be bausmės ⟨את⟩ to, kuris kelia ⟨את⟩ jo vardą tuščiai.",
   "tokens": [
     {
       "surface": "לא",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvės, tavo Elohim, vardą"
+      "marks": "vardo"
     },
     {
       "surface": "שם",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ינקה",
-      "gloss": "išteisins"
+      "gloss": "paliks be bausmės"
     },
     {
       "surface": "יהוה",
@@ -81,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tą, kuris kelia jo vardą tuščiai"
+      "marks": "to, kuris"
     },
     {
       "surface": "אשר",
-      "gloss": "tą, kuris"
+      "gloss": "to, kuris"
     },
     {
       "surface": "ישא",
@@ -105,6 +79,6 @@
       "gloss": "tuščiai"
     }
   ],
-  "timestamp": "2026-10-20T05:02:13.558173588Z",
+  "timestamp": "2026-10-20T12:19:26.304322769Z",
   "model": "glm-5.3"
 }

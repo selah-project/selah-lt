@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תהום",
-      "rationale": "תהום — pirmykštė bedugnė, chaoso giluma (Pr 1, 2); verčiama 'bedugnė', ne tiesiog 'gelmė'."
-    },
-    {
-      "kind": "mystery",
-      "subject": "pražūties žemė",
-      "rationale": "Prasideda nusileidimo į požemio pasaulį vaizdinys — Tiras nuleidžiamas pas mirusiųjų tautą."
-    }
-  ],
-  "translation": "Nes taip sako Adonai Jahvė: padarysiu tave miestu sugriautu, kaip miestai, kurie nebegyvenami; iškelsiu prieš tave ⟨את⟩ bedugnę, ir apdengs tave gausūs vandenys.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6269de898cd1b9742b181c937a08522fc22e8b8fe4597b787ecdd1fe995f0621",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/26\/17-20.1792484597024.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes taip sako Adonai Jahvė: kai padarysiu tave ⟨את⟩ miestu nuniokotu, kaip miestai, kurie nebegyvenami, kai iškelsiu prieš tave ⟨את⟩ tehomą, ir daug vandenų tave apdengs.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nes"
+      "gloss": "Nes"
     },
     {
       "surface": "כה",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "בתתי",
-      "gloss": "padarysiu"
+      "gloss": "kai padarysiu"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ tave",
-      "marks": "miestas sugriautas"
+      "marks": "miestas nuniokotas"
     },
     {
       "surface": "עיר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נחרבת",
-      "gloss": "sugriautu"
+      "gloss": "nuniokotu"
     },
     {
       "surface": "כערים",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "nebe"
+      "gloss": "ne"
     },
     {
       "surface": "נושבו",
-      "gloss": "gyvenami"
+      "gloss": "begyvenami"
     },
     {
       "surface": "בהעלות",
-      "gloss": "iškelsiu"
+      "gloss": "kai iškelsiu"
     },
     {
       "surface": "עליך",
@@ -92,11 +71,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bedugnė"
+      "marks": "tehomas"
     },
     {
       "surface": "תהום",
-      "gloss": "bedugnę"
+      "gloss": "tehomą"
     },
     {
       "surface": "וכסוך",
@@ -104,13 +83,13 @@
     },
     {
       "surface": "המים",
-      "gloss": "vandenys"
+      "gloss": "vandenų"
     },
     {
       "surface": "הרבים",
-      "gloss": "gausūs"
+      "gloss": "daug"
     }
   ],
-  "timestamp": "2026-10-20T08:23:17.026568597Z",
+  "timestamp": "2026-10-20T12:22:54.926993650Z",
   "model": "glm-5.3"
 }

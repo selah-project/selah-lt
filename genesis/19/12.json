@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "angelų klausimas Lotui",
-      "rationale": "Tiesioginis klausimas ir įsakymas Lotui prieš miesto sunaikinimą."
-    },
-    {
-      "kind": "alternative",
-      "subject": "עוד מי לך פה",
-      "rationale": "Pažodžiui „dar kas tau čia?“ — sąrašas (žentas, sūnūs, dukterys) yra paties klausimo išskaidymas, ne atskiras klausimas."
-    }
-  ],
-  "translation": "Ir vyrai tarė Lotui: Ar dar kas nors tau čia yra? žentas, tavo sūnūs ir tavo dukterys, ir visa, kas tavo mieste — išvesk iš šios vietos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/19\/9-12.1792471261325.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir vyrai tarė Lotui: ar dar kas ⟨yra⟩ čia tavęs — žentas, tavo sūnūs ir tavo dukterys, ir visa, kas tavo yra mieste? Išvesk ⟨את⟩ jų iš šios vietos.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "האנשים",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "עד",
-      "gloss": "ar dar"
+      "gloss": "dar"
     },
     {
       "surface": "מי",
-      "gloss": "kas nors"
+      "gloss": "kas"
     },
     {
       "surface": "לך",
-      "gloss": "tau"
+      "gloss": "tavęs"
     },
     {
       "surface": "פה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "tavo sūnūs"
+      "gloss": "ir tavo sūnūs"
     },
     {
       "surface": "ובנתיך",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "הוצא",
-      "gloss": "išvesk"
+      "gloss": "Išvesk"
     },
     {
       "surface": "מן",
@@ -101,6 +80,6 @@
       "gloss": "šios vietos"
     }
   ],
-  "timestamp": "2026-10-20T04:41:01.330854909Z",
+  "timestamp": "2026-10-20T12:24:37.498982865Z",
   "model": "glm-5.3"
 }

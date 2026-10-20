@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הנשה",
-      "rationale": "skolintojas — 'tas, kuris skolina'; pažodžiui 'skolintojas\/įkeitėjas'"
-    },
-    {
-      "kind": "you",
-      "subject": "moteris Eišui",
-      "rationale": "moters šauksmas tiesiogiai kreipiasi į Eišą"
-    }
-  ],
-  "translation": "Ir šaukė viena moteris iš moterų, ⟨priklausančių⟩ pranašų sūnums, Eišui, sakydama: Tavo tarnas, mano vyras, mirė, o tu žinai, jog tavo tarnas bijojo Jahvę, ir skolintojas atėjo pasiimti mano dviejų vaikų sau vergauti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cbf9e9acaa57307841f54d7f94891d183ea828694b502b9f700b9f9fa531684c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/4\/1-4.1792479789889.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir viena iš žmonų pranašų sūnų šaukėsi Elišos, sakydama: Tavo tarnas, mano vyras, mirė, o tu žinai, kad tavo tarnas bijojo ⟨את⟩ Jahvę; ir skolintojas atėjo paimti ⟨את⟩ mano dviejų vaikų sau vergauti.",
   "tokens": [
     {
       "surface": "ואשה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "מנשי",
-      "gloss": "iš moterų"
+      "gloss": "iš žmonų"
     },
     {
       "surface": "בני",
-      "gloss": "sūnums"
+      "gloss": "sūnų"
     },
     {
       "surface": "הנביאים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "צעקה",
-      "gloss": "šaukė"
+      "gloss": "šaukėsi"
     },
     {
       "surface": "אל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Eišą"
+      "gloss": "Elišą"
     },
     {
       "surface": "לאמר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "jog"
+      "gloss": "kad"
     },
     {
       "surface": "עבדך",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "bijojo ⟨buvo⟩"
+      "gloss": "buvo"
     },
     {
       "surface": "ירא",
@@ -119,16 +98,16 @@
     },
     {
       "surface": "לקחת",
-      "gloss": "pasiimti"
+      "gloss": "paimti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano du vaikus"
+      "marks": "mano dviejų vaikų"
     },
     {
       "surface": "שני",
-      "gloss": "du"
+      "gloss": "dviejų"
     },
     {
       "surface": "ילדי",
@@ -136,13 +115,13 @@
     },
     {
       "surface": "לו",
-      "gloss": "jam"
+      "gloss": "sau"
     },
     {
       "surface": "לעבדים",
-      "gloss": "vergais"
+      "gloss": "vergauti"
     }
   ],
-  "timestamp": "2026-10-20T07:03:09.891073007Z",
+  "timestamp": "2026-10-20T12:13:10.153077521Z",
   "model": "glm-5.3"
 }

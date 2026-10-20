@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "aplankysiu",
-      "rationale": "פקד reiškia 'aplankyti' tiek geranoriškai, tiek priešiškai — čia baudžiamasis apsilankymas, ne paprasta bausmė."
-    },
-    {
-      "kind": "crux",
-      "subject": "עד תמי אתם בידו",
-      "rationale": "Pažodžiui 'kol pabaigsiu juos jo rankoje' — ar 'sunaikinsiu', ar 'baigsiu atiduoti į jo ranką'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבד...ועבדו",
-      "rationale": "Šaknis עבד kartoja per 6–8 eilutes: tarnauti, tarnas, ištarnavimas — jungo tema."
-    }
-  ],
-  "translation": "Ir bus: tauta ir karalystė, kuri netarnaus ⟨את⟩ jam — Nevukadnecarui, Babilono karaliui, — ir kuri nepaklus ⟨את⟩ savo sprando Babilono karaliaus jungui, tą tautą kardu, badu ir maru aš aplankysiu, sako Jahvė, kol visiškai sunaikinsiu ⟨את⟩ juos jo ranka.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6daa34ae43df54ac910cc02c1020e968402961072fa170fadbff0c42b14dfd21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/27\/5-8.1792482927787.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir bus: tauta ir karalystė, kuri netarnaus ⟨את⟩ jam — Nebukadnecarui, Babelio karaliui, — ir kuri neduos ⟨את⟩ savo sprando po Babelio karaliaus jungu, — kardu, badu ir maru aš aplankysiu tą tautą, sako Jahvė, kol visiškai pribaigsiu ⟨את⟩ juos jo rankon.",
   "tokens": [
     {
       "surface": "והיה",
@@ -59,30 +33,30 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "Nevukadnecarui"
+      "gloss": "⟨את⟩",
+      "marks": "jam (Nebukadnecarui)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nevukadnecarui, Babilono karaliui"
+      "marks": "Nebukadnecarą"
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nevukadnecarui"
+      "gloss": "Nebukadnecarui"
     },
     {
       "surface": "מלך",
-      "gloss": "karaliui"
+      "gloss": "karalius"
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "kuri nepaklus"
+      "marks": "tą, kuri…"
     },
     {
       "surface": "אשר",
@@ -94,20 +68,20 @@
     },
     {
       "surface": "יתן",
-      "gloss": "paklus"
+      "gloss": "duos"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo sprando"
+      "marks": "savo sprandą"
     },
     {
       "surface": "צוארו",
-      "gloss": "savo sprando"
+      "gloss": "savo sprandą"
     },
     {
       "surface": "בעל",
-      "gloss": "jungui"
+      "gloss": "po jungu"
     },
     {
       "surface": "מלך",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babilono"
+      "gloss": "Babelio"
     },
     {
       "surface": "בחרב",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "וברעב",
-      "gloss": "badu"
+      "gloss": "ir badu"
     },
     {
       "surface": "ובדבר",
@@ -135,15 +109,15 @@
     },
     {
       "surface": "על",
-      "gloss": "tą"
+      "gloss": "ant"
     },
     {
       "surface": "הגוי",
-      "gloss": "tautą"
+      "gloss": "tos tautos"
     },
     {
       "surface": "ההוא",
-      "gloss": "tą"
+      "gloss": "toji"
     },
     {
       "surface": "נאם",
@@ -159,7 +133,7 @@
     },
     {
       "surface": "תמי",
-      "gloss": "visiškai sunaikinsiu"
+      "gloss": "visiškai pribaigsiu"
     },
     {
       "surface": "אתם",
@@ -168,9 +142,9 @@
     },
     {
       "surface": "בידו",
-      "gloss": "jo ranka"
+      "gloss": "jo rankon"
     }
   ],
-  "timestamp": "2026-10-20T07:55:27.790474699Z",
+  "timestamp": "2026-10-20T12:30:32.964489422Z",
   "model": "glm-5.3"
 }

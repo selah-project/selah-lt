@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "savo",
-      "rationale": "'savo' prie 'kardais' — hebrajiškoje galūnėje -ם jau yra 'jų', lietuviškas įnaginis linksnis to nešioja."
-    }
-  ],
-  "translation": "Ir sukels prieš tave susirinkimą, ir apmėtys ⟨את⟩ tave akmenimis, ir sukapos tave savo kardais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "11091746fc5030c0b3b9c1248487d2112884ecc9e51aec66a5039fa20a130735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/37-40.1792484160050.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie pakels prieš tave susirinkimą, ir jie užmuš tave akmenimis, o paskui iškapos tave jų kardais.",
   "tokens": [
     {
       "surface": "והעלו",
-      "gloss": "ir sukels"
+      "gloss": "ir pakels"
     },
     {
       "surface": "עליך",
@@ -36,13 +20,13 @@
       "gloss": "susirinkimą"
     },
     {
-      "surface": "ורgמו",
-      "gloss": "ir apmėtys"
+      "surface": "ורגמו",
+      "gloss": "ir užmuš (apmes akmenimis)"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tave",
-      "marks": "tave"
+      "gloss": "⟨את⟩",
+      "marks": "tave (su באבן — akmenimis)"
     },
     {
       "surface": "באבן",
@@ -50,13 +34,13 @@
     },
     {
       "surface": "ובתקוך",
-      "gloss": "ir sukapos tave"
+      "gloss": "o paskui iškapos"
     },
     {
       "surface": "בחרבותם",
-      "gloss": "savo kardais"
+      "gloss": "jų kardais"
     }
   ],
-  "timestamp": "2026-10-20T08:16:00.055992036Z",
+  "timestamp": "2026-10-20T12:21:20.553294535Z",
   "model": "glm-5.3"
 }

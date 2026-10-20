@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "tarp jūsų",
-      "rationale": "Kreipimasis į Izraelio bendruomenę eilutės pabaigoje."
-    },
-    {
-      "kind": "substitution",
-      "subject": "זמה",
-      "rationale": "'Piktybė \/ nedorybė' — žodis reiškia tyčią, blogą sumanymą; įvairiai verčiamas 'iškrypimas', 'nedora elgesys'."
-    }
-  ],
-  "translation": "Ir vyras, kuris ims moterį ir ⟨את⟩ jos motiną, — piktybė tai; ugnyje sudegins jį ir ⟨את⟩ jas, kad nebūtų piktybės tarp jūsų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/20\/13-16.1792473627605.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir vyras, kuris paima ⟨את⟩ moterį ir ⟨את⟩ jos motiną — piktybė ⟨yra⟩ tai; ugnyje sudegins ⟨את⟩ jį ir ⟨את⟩ jas, kad nebūtų piktybės tarp jūsų.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "יקח",
-      "gloss": "ims"
+      "gloss": "paims"
     },
     {
       "surface": "את",
@@ -76,12 +55,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "jį ⟨את⟩",
-      "marks": "jį ir jas"
+      "gloss": "⟨את⟩",
+      "marks": "jį"
     },
     {
       "surface": "ואתהן",
-      "gloss": "ir ⟨את⟩ jas",
+      "gloss": "ir ⟨את⟩",
       "marks": "jas"
     },
     {
@@ -101,6 +80,6 @@
       "gloss": "tarp jūsų"
     }
   ],
-  "timestamp": "2026-10-20T05:20:27.613297766Z",
+  "timestamp": "2026-10-20T12:38:05.797430123Z",
   "model": "glm-5.3"
 }

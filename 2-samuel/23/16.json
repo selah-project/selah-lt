@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨kuris yra⟩",
-      "rationale": "אשר בשער — 'kuris prie vartų'; 'yra' pridėta dėl lietuvių sintaksės."
-    },
-    {
-      "kind": "substitution",
-      "subject": "prasiveržė",
-      "rationale": "בקע pažodžiui 'perplėšė\/pralaužė' — pro priešo stovyklą, kaip per sieną."
-    }
-  ],
-  "translation": "Ir trys galiūnai prasiveržė pro plištiečių stovyklą ir ėmė vandens iš šulinio, ⟨kuris yra⟩ Beit Lecheme, prie vartų, ir pasiėmė bei atnešė Davidui; bet jis nenorėjo jų išgerti, ir išliejo ⟨את⟩ juos Jahvei.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a9e64c49c5f3f3e0d565f343396199ca6f2b624bdf681ca9cba4147e459c03a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/23\/13-16.1792478741282.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir trys galiūnai prasiveržė į filistiejiečių stovyklą ir atsiurbė vandens iš Bet Lechemo šulinio, kuris ⟨yra⟩ prie vartų, ir pakėlė bei atnešė Davidui; bet jis nenorėjo jų išgerti ir išliejo ⟨את⟩ juos Jahvei.",
   "tokens": [
     {
       "surface": "ויבקעו",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "במחנה",
-      "gloss": "pro stovyklą"
+      "gloss": "į stovyklą"
     },
     {
       "surface": "פלשתים",
-      "gloss": "plištiečių"
+      "gloss": "filistiejiečių"
     },
     {
-      "surface": "וישאבuvo placeholder",
-      "gloss": "ir ėmė"
+      "surface": "וישאבו",
+      "gloss": "ir atsiurbė"
     },
     {
       "surface": "מים",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Bet Lechemo"
     },
     {
       "surface": "לחם",
-      "gloss": "Lecheme"
+      "gloss": "Bet Lechemo"
     },
     {
       "surface": "אשר",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "ir pasiėmė"
+      "gloss": "ir pakėlė"
     },
     {
       "surface": "ויבאו",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "pas"
+      "gloss": "prie"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidą"
+      "gloss": "Davido"
     },
     {
       "surface": "ולא",
@@ -111,13 +90,13 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "juos"
+      "marks": "juos — vandens Ben Lechemo išlietimas Jahvei"
     },
     {
       "surface": "ליהוה",
       "gloss": "Jahvei"
     }
   ],
-  "timestamp": "2026-10-20T06:45:41.284537337Z",
+  "timestamp": "2026-10-20T12:14:36.356835680Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונקה לא אנקך",
-      "rationale": "Klasikinė vieta: dvigubas neiginys — „visai neatleisiu be bausmės“ arba „visiškai nenaikinsiu“; čia išlaikytas pažodinis dvigubas neiginys."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "Perskaičius עם: „su tavimi“ — ה pažymėta forma reiškia artumą, ne daiktavardį."
-    }
-  ],
-  "translation": "Nes ⟨את⟩ tave Aš <esu> su tavimi, sako Jahvė, kad tave išgelbėčiau; nes padarysiu galą visoms tautoms, kurias išblaškiau ten, bet ⟨את⟩ tavęs visiškai nenaikinsiu, ir sudrausiu tave teismu, bet visai neišteisinsiu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/30\/9-12.1792482971708.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes aš esu ⟨את⟩ su tavimi — sako Jahvė —, kad tave išgelbėčiau; nes galą padarysiu visoms tautoms, tarp kurių tave išblaškiau, bet ⟨את⟩ tavęs galu nepaversiu, ir pamokysiu tave teismu, ir visiškai be bausmės tavęs nepaliksiu.",
   "tokens": [
     {
       "surface": "כי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Aš"
+      "gloss": "aš"
     },
     {
       "surface": "נאם",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kurias"
+      "gloss": "tarp kurių"
     },
     {
       "surface": "הפצותיך",
-      "gloss": "išblaškiau"
+      "gloss": "tave išblaškiau"
     },
     {
       "surface": "שם",
@@ -90,7 +69,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "tavęs"
     },
     {
       "surface": "לא",
@@ -106,7 +86,7 @@
     },
     {
       "surface": "ויסרתיך",
-      "gloss": "ir sudrausiu tave"
+      "gloss": "ir pamokysiu tave"
     },
     {
       "surface": "למשפט",
@@ -114,17 +94,17 @@
     },
     {
       "surface": "ונקה",
-      "gloss": "bet išteisinsiu"
+      "gloss": "ir be bausmės"
     },
     {
       "surface": "לא",
-      "gloss": "ne"
+      "gloss": "nepaliksiu"
     },
     {
       "surface": "אנקך",
-      "gloss": "tavęs visai"
+      "gloss": "tavęs visiškai"
     }
   ],
-  "timestamp": "2026-10-20T07:56:11.712703192Z",
+  "timestamp": "2026-10-20T12:30:49.057565327Z",
   "model": "glm-5.3"
 }

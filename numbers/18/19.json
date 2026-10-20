@@ -5,40 +5,19 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "druskos sandora",
-      "rationale": "ברית מלח — druska kaip amžinos sandoros ženklas; verčiama pažodžiui"
-    },
-    {
-      "kind": "you",
-      "subject": "Aaronui",
-      "rationale": "Jahvė kalba Aaronui apie kunigų dalį"
-    }
-  ],
-  "translation": "Visas šventųjų dovanas, kurias Jisraelio sūnūs pakels Jahvei, daviau tau, tavo sūnums ir tavo dukterims ⟨tau⟩ su tavimi — amžioms įstatyties tvarka: druskos sandora amžinė ji ⟨yra⟩ Jahvės akivaizdoje, tau ir tavo palikuonims su tavimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b34d383721a9e3becf3d33cf969c415450cf34c8ec211c491c07e0091d193407",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/18\/17-20.1792474305331.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visos šventųjų dalykų terumot dovanos, kurias Jisraelio sūnūs pakelia Jahvei, daviau tau ir tavo sūnums bei tavo dukterims ⟨את⟩ tavimi — amžinu įstatymu; tai amžinoji druskos sandora Jahvės akivaizdoje — tau ir tavo sėklai ⟨את⟩ tavimi.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "visas"
+      "gloss": "visos"
     },
     {
       "surface": "תרומת",
-      "gloss": "dovanas"
+      "gloss": "terumot dovanos"
     },
     {
       "surface": "הקדשים",
-      "gloss": "šventųjų"
+      "gloss": "šventųjų dalykų"
     },
     {
       "surface": "אשר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ירימו",
-      "gloss": "pakels"
+      "gloss": "pakelia"
     },
     {
       "surface": "בני",
@@ -74,19 +53,20 @@
     },
     {
       "surface": "ולבנתיך",
-      "gloss": "ir tavo dukterims"
+      "gloss": "bei tavo dukterims"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨su tavimi⟩"
+      "gloss": "⟨את⟩ tavimi",
+      "marks": "tau ir tavo sūnums bei dukterims"
     },
     {
       "surface": "לחק",
-      "gloss": "įstatyties tvarka"
+      "gloss": "amžinu įstatymu"
     },
     {
       "surface": "עולם",
-      "gloss": "amžioms"
+      "gloss": "amžinu"
     },
     {
       "surface": "ברית",
@@ -98,11 +78,11 @@
     },
     {
       "surface": "עולם",
-      "gloss": "amžinė"
+      "gloss": "amžinoji"
     },
     {
       "surface": "הוא",
-      "gloss": "ji"
+      "gloss": "tai"
     },
     {
       "surface": "לפני",
@@ -118,13 +98,14 @@
     },
     {
       "surface": "ולזרעך",
-      "gloss": "ir tavo palikuonims"
+      "gloss": "ir tavo sėklai"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨su tavimi⟩"
+      "gloss": "⟨את⟩ tavimi",
+      "marks": "tau ir tavo sėklai"
     }
   ],
-  "timestamp": "2026-10-20T05:31:45.339779569Z",
+  "timestamp": "2026-10-20T12:40:45.789500299Z",
   "model": "glm-5.3"
 }

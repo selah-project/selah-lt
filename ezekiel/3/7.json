@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "לא יאבו \/ אינם אבים",
-      "rationale": "Šaknis אבה kartoja du kartus — 'nenorės' ir 'nenori' — paradigmos klostė, lietuviškai išlaikyta kartojimu."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "kietų kaktų ir kietos širdies",
-      "rationale": "חזקי מצח וקשי לב — dviejų žodžių pora 'kakta\/širdis' su dviem 'kietumo' būdais; ruošia 3,8 atsaką: Dievas duoda Ezechiliui kietą veidą prieš jų kietą kaktą."
-    }
-  ],
-  "translation": "O Jisraelio namai nenorės tavęs klausyti, nes jie nenori klausyti manęs, nes visi Jisraelio namai yra kietų kaktų ir kietos širdies jie.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "128f526aee59ddf03590506a540fcea19e4a163f08a702048ca8921af5e2c34a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/3\/5-8.1792483857197.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O Jisraelio namai nenorės klausyti tavęs, nes jie nenori klausyti manęs; nes visi Jisraelio namai yra kietakakčiai ir kietos širdies — jie.",
   "tokens": [
     {
       "surface": "ובית",
-      "gloss": "o"
+      "gloss": "o namai"
     },
     {
       "surface": "ישראל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "יאבו",
-      "gloss": "norus klausyti"
+      "gloss": "norės"
     },
     {
       "surface": "לשמע",
-      "gloss": ""
+      "gloss": "klausyti"
     },
     {
       "surface": "אליך",
@@ -90,25 +69,25 @@
     },
     {
       "surface": "חזקי",
-      "gloss": "kietų"
+      "gloss": "kietakakčiai"
     },
     {
       "surface": "מצח",
-      "gloss": "kaktų"
+      "gloss": "kakta"
     },
     {
       "surface": "וקשי",
-      "gloss": "ir kietos"
+      "gloss": "kietos širdies"
     },
     {
       "surface": "לב",
-      "gloss": "širdies"
+      "gloss": "širdis"
     },
     {
       "surface": "המה",
       "gloss": "jie"
     }
   ],
-  "timestamp": "2026-10-20T08:10:57.199576454Z",
+  "timestamp": "2026-10-20T12:22:25.395545407Z",
   "model": "glm-5.3"
 }

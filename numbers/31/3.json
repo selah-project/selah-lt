@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrajiškas prielinksnis lietuviškame linksnyje „tautai“ jau išreikštas, atskiras žodis nevertintas"
-    },
-    {
-      "kind": "you",
-      "subject": "Parengite",
-      "rationale": "Mošė kreipiasi tiesiogiai į tautą — liepiamoji nuosaka"
-    }
-  ],
-  "translation": "Ir Mošė kalbėjo ⟨את⟩ tautai, tardamas: Parengite iš jūsų ⟨את⟩ vyrus karo pulkui, ir tebūnie jie prieš Midianą, kad atliktų Jahvės kerštą Midiane.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "38f6ffe32a53f9410c16b782f1c7333f31b0b388d6e037ed8c912f5844ae463d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/31\/3-4.1792494087226.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė kalbėjo ⟨את⟩ tautai, sakydamas: išsirinkite iš ⟨את⟩ jūsų vyrus kariuomenei, ir tesie jie prieš Midianą, atlikti Jahvės kerštą Midiane.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Ir kalbėjo"
+      "gloss": "ir kalbėjo"
     },
     {
       "surface": "משה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "העם",
@@ -46,16 +25,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "tardamas"
+      "gloss": "sakydamas"
     },
     {
       "surface": "החלצו",
-      "gloss": "Parengite"
+      "gloss": "išsirinkite"
     },
     {
       "surface": "מאתכם",
-      "gloss": "iš jūsų ⟨את⟩",
-      "marks": "vyrus"
+      "gloss": "iš ⟨את⟩ jūsų"
     },
     {
       "surface": "אנשים",
@@ -63,11 +41,11 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "karo pulkui"
+      "gloss": "kariuomenei"
     },
     {
       "surface": "ויהיו",
-      "gloss": "ir tebūnie jie"
+      "gloss": "ir tesie jie"
     },
     {
       "surface": "על",
@@ -79,7 +57,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "kad atliktų"
+      "gloss": "atlikti"
     },
     {
       "surface": "נקמת",
@@ -94,6 +72,6 @@
       "gloss": "Midiane"
     }
   ],
-  "timestamp": "2026-10-20T11:01:27.227869059Z",
+  "timestamp": "2026-10-20T12:41:27.016175493Z",
   "model": "glm-5.3"
 }

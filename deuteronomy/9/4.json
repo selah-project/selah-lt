@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "cedek",
-      "rationale": "בצדקתי — 'mano cedeku' (teisumu); šaknis išlaikyta kaip cedek pagal D2."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לרשת \/ מורישם",
-      "rationale": "Toji pati šaknis ירש 'paveldėti' ir 'iškeldinti' — dėl jų nedorybės jie praranda paveldėjimo teisę."
-    }
-  ],
-  "translation": "Nesakyk širdyje, kai Jahvė, tavo Elohim, juos išstums iš prieš tavęs, sakydamas: dėl mano cedeko Jahvė atvedė mane paveldėti ⟨את⟩ šitos žemės; o dėl šitų tautų nedorybės Jahvė juos išstumia nuo tavęs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c298cf0073ab1c65ea62ad12d9b9b519ee49c8cf6fc63b54e0ad4a07c4f2f618",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/9\/1-4.1792475081191.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nesakyk savo širdyje, kai Jahvė, tavo Elohim, juos išstums iš prieš tave, sakydamas: „Dėl mano cedeko Jahvė mane atvedė paveldėti ⟨את⟩ šitą žemę“, bet dėl šitų tautų nedorybės Jahvė jas išstumia iš prieš tave.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "Ne"
+      "gloss": "nesakyk"
     },
     {
       "surface": "תאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בלבבך",
-      "gloss": "širdyje"
+      "gloss": "savo širdyje"
     },
     {
       "surface": "בהדף",
-      "gloss": "kai išstums"
+      "gloss": "išstums"
     },
     {
       "surface": "יהוה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "מלפניך",
-      "gloss": "iš prieš tavęs"
+      "gloss": "iš prieš tave"
     },
     {
       "surface": "לאמר",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הביאני",
-      "gloss": "atvedė mane"
+      "gloss": "mane atvedė"
     },
     {
       "surface": "יהוה",
@@ -84,19 +63,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šitos žemės"
+      "marks": "šitą žemę"
     },
     {
       "surface": "הארץ",
-      "gloss": "žemės"
+      "gloss": "žemę"
     },
     {
       "surface": "הזאת",
-      "gloss": "šitos"
+      "gloss": "šitą"
     },
     {
       "surface": "וברשעת",
-      "gloss": "o dėl nedorybės"
+      "gloss": "bet dėl nedorybės"
     },
     {
       "surface": "הגוים",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "מורישם",
-      "gloss": "juos išstumia"
+      "gloss": "jas išstumia"
     },
     {
       "surface": "מפניך",
-      "gloss": "nuo tavęs"
+      "gloss": "iš prieš tave"
     }
   ],
-  "timestamp": "2026-10-20T05:44:41.194499664Z",
+  "timestamp": "2026-10-20T12:18:06.173381086Z",
   "model": "glm-5.3"
 }

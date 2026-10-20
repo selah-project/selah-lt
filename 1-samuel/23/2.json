@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Davidas",
-      "rationale": "Jahvės atsakymas adresuotas Davidui — kvietimas veikti."
-    },
-    {
-      "kind": "addition",
-      "subject": "Ar man",
-      "rationale": "Hebrajų klausimas האלך neturi žodžio 'man' — lietuvių aiškumui pridėta."
-    }
-  ],
-  "translation": "Ir Davidas paklausė Jahvės, tardamas: Ar man eiti ir sumušti šiuos filistiečius? Ir Jahvė tarė Davidui: Eik ir sumušk filistiečius, bei išgelbėk ⟨את⟩ Keilą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/23\/1-4.1792477642758.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas pasiteiravo pas Jahvę, sakydamas: Ar eisiu ir sumušiu šiuos plištus? Ir Jahvė tarė Davidui: Eik ir sumušk plištus, ir išgelbėk ⟨את⟩ Keilą.",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "Ir paklausė"
+      "gloss": "pasiteiravo"
     },
     {
       "surface": "דוד",
@@ -38,23 +17,23 @@
     },
     {
       "surface": "ביהוה",
-      "gloss": "Jahvės"
+      "gloss": "pas Jahvę"
     },
     {
       "surface": "לאמר",
-      "gloss": "tardamas"
+      "gloss": "sakydamas"
     },
     {
       "surface": "האלך",
-      "gloss": "Ar man eiti"
+      "gloss": "Ar eisiu"
     },
     {
       "surface": "והכיתי",
-      "gloss": "ir sumušti"
+      "gloss": "ir sumušiu"
     },
     {
       "surface": "בפלשתים",
-      "gloss": "filistiečius"
+      "gloss": "plištus"
     },
     {
       "surface": "האלה",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Davidui"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidui"
+      "gloss": "—"
     },
     {
       "surface": "לך",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "בפלשתים",
-      "gloss": "filistiečius"
+      "gloss": "plištus"
     },
     {
       "surface": "והושעת",
-      "gloss": "bei išgelbėk"
+      "gloss": "ir išgelbėk"
     },
     {
       "surface": "את",
@@ -102,6 +81,6 @@
       "gloss": "Keilą"
     }
   ],
-  "timestamp": "2026-10-20T06:27:22.760058003Z",
+  "timestamp": "2026-10-20T12:08:41.641195878Z",
   "model": "glm-5.3"
 }

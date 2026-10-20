@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בוא בגוים",
-      "rationale": "pažodžiui 'neiti į šitas tautas'; 'nesibendrauti' — platesnis idiominis perteikimas"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דבק \/ בוא",
-      "rationale": "keturių 'ne' kartojimas (לא... ולא... ולא... ולא) — retroniškas draudimų sąrašas, lietuviškai išlaikytas 'ir ne... ir ne...'"
-    }
-  ],
-  "translation": "Kad nesibendrautumėte su šitomis tautomis, šitais, kurie liko tarp ⟨jūsų⟩, ir dievų jų vardų minėtumėte, ir neverstumėte ⟨jų⟩ prisiekti, ir netarnautumėte jiems, ir nepuolastumėte prieš juos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ffbca2cd3e5d72b7710b0ecbc9dea0d788b58c7df322c8a50d194b9b9ceb234d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/23\/6-8.1792485434511.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kad neitumėte tarp šių tautų, šitų, kurie liko pas jus ⟨את⟩; ir jų dievų vardo neminėkite, jais neraisauginkite, netarnaukite jiems ir nepulkite prieš juos.",
   "tokens": [
     {
       "surface": "לבלתי",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "בוא",
-      "gloss": "eiti pas"
+      "gloss": "eitumėte"
     },
     {
       "surface": "בגוים",
-      "gloss": "su tautomis"
+      "gloss": "tarp tautų"
     },
     {
       "surface": "האלה",
-      "gloss": "šitomis"
+      "gloss": "šių"
     },
     {
       "surface": "הנשארים",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "האלה",
-      "gloss": "šitais"
+      "gloss": "šitų"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ tarp jūsų"
+      "gloss": "⟨את⟩ pas jus",
+      "marks": "jūs"
     },
     {
       "surface": "ובשם",
@@ -70,7 +50,7 @@
     },
     {
       "surface": "תזכירו",
-      "gloss": "minėtumėte"
+      "gloss": "minėkite"
     },
     {
       "surface": "ולא",
@@ -78,7 +58,7 @@
     },
     {
       "surface": "תשביעו",
-      "gloss": "verstumėte prisiekti"
+      "gloss": "raisauginkite"
     },
     {
       "surface": "ולא",
@@ -86,7 +66,7 @@
     },
     {
       "surface": "תעבדום",
-      "gloss": "tarnautumėte jiems"
+      "gloss": "tarnaukite jiems"
     },
     {
       "surface": "ולא",
@@ -94,13 +74,13 @@
     },
     {
       "surface": "תשתחוו",
-      "gloss": "puolastumėte"
+      "gloss": "pulkite prieš"
     },
     {
       "surface": "להם",
-      "gloss": "prieš juos"
+      "gloss": "juos"
     }
   ],
-  "timestamp": "2026-10-20T08:37:14.514496139Z",
+  "timestamp": "2026-10-20T12:35:09.027374773Z",
   "model": "glm-5.3"
 }

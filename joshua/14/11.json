@@ -5,38 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "gloss": "",
-      "rationale": "Lietuvių kalbai reikia kopulos, hebrajų jos neturi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ככחי אז וככחי עתה",
-      "rationale": "Simetriškas pakartojimas „kaip mano jėga tada — taip mano jėga dabar“, Kalebo retorikos centras"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לצאת ולבוא",
-      "rationale": "„Išeiti ir įeiti“ — karinės veiklos idoma, skamba kaip kelionės žodžiai"
-    }
-  ],
-  "translation": "Dar ir šiandien esu stiprus kaip tą dieną, kai Mošė siuntė mane: kaip buvo mano jėga tada, taip mano jėga dabar — karams, išeičiai ir įeičiai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3d79cd8fc07bdf5534eaea30df10274208d18a3715e96be7af49a84bde24fd52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/14\/9-12.1792475951656.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Esu dar šiandien toks pat stiprus, kaip tą dieną, kai Mošė siuntė ⟨את⟩ mane; kokia mano jėga buvo tada, tokia ji yra dabar — karams, eiti ir ateiti.",
   "tokens": [
     {
       "surface": "עודני",
-      "gloss": "Dar aš"
+      "gloss": "dar"
     },
     {
       "surface": "היום",
@@ -60,8 +33,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "mane"
+      "gloss": "⟨את⟩ mane",
+      "marks": "mane (Kalebo, Mošės siunčiamo)"
     },
     {
       "surface": "משה",
@@ -89,18 +62,13 @@
     },
     {
       "surface": "ולצאת",
-      "gloss": "išeičiai"
-    },
-    {
-      "surface": "ולצאת",
-      "gloss": "ir įeičiai",
-      "marks": ""
+      "gloss": "eiti"
     },
     {
       "surface": "ולבוא",
-      "gloss": "ir įeičiai"
+      "gloss": "ateiti"
     }
   ],
-  "timestamp": "2026-10-20T05:59:11.659713493Z",
+  "timestamp": "2026-10-20T12:33:55.760924726Z",
   "model": "glm-5.3"
 }

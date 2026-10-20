@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Saul",
-      "rationale": "Samuel addresses Saul directly with the charge to hear."
-    },
-    {
-      "kind": "invitation",
-      "subject": "klausyk",
-      "rationale": "Imperative 'hear' summons the addressee to obey."
-    }
-  ],
-  "translation": "Ir tarė Šmuelis Šauliui: Mane pasiuntė Jahvė patepti tave karaliumi virš jo tautos, virš Jisraelio, ir dabar klausyk balsą žodžių Jahvės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/1-4.1792477333699.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Šmuelis Šauliui: Mane pasiuntė Jahvė patepti tave karaliumi over jo tauta, over Jisraeliu; ir dabar klausyk į ⟨את⟩ balsą žodžių Jahvės.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "→"
+      "gloss": ""
     },
     {
       "surface": "שאול",
@@ -46,7 +25,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mane"
+      "gloss": "Mane ⟨את⟩",
+      "marks": "pasų manęs (objektas — mane)"
     },
     {
       "surface": "שלח",
@@ -66,19 +46,19 @@
     },
     {
       "surface": "על",
-      "gloss": "virš"
+      "gloss": "over"
     },
     {
       "surface": "עמו",
-      "gloss": "jo tautos"
+      "gloss": "jo tauta"
     },
     {
       "surface": "על",
-      "gloss": "virš"
+      "gloss": "over"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelio"
+      "gloss": "Jisraeliu"
     },
     {
       "surface": "ועתה",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "לקול",
-      "gloss": "balsą"
+      "gloss": "į balsą"
     },
     {
       "surface": "דברי",
@@ -101,6 +81,6 @@
       "gloss": "Jahvės"
     }
   ],
-  "timestamp": "2026-10-20T06:22:13.700542742Z",
+  "timestamp": "2026-10-20T12:07:47.773734326Z",
   "model": "glm-5.3"
 }

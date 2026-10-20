@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בזית \/ בזתני",
-      "rationale": "despise-root בזה chains through v.9–10, binding the accusation to the sentence"
-    },
-    {
-      "kind": "you",
-      "subject": "Davidui",
-      "rationale": "Natano pranašystė kreipiasi tiesiogiai į Davidą"
-    }
-  ],
-  "translation": "Kodėl paniekinai ⟨את⟩ žodį, kurį sakė Jahvė, darydamas pikta Jo akyse? ⟨את⟩ Uriją hetitą tu nukovei kardu, ir ⟨את⟩ jo žmoną paėmei sau už žmoną, ir jį užmušei kardu Amono vaikų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/12\/9-12.1792478202762.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kodėl paniekinai ⟨את⟩ Jahvės žodį, darydamas pikta Jo akyse? ⟨את⟩ Uriją hetitą tu sudavei kardu, ir ⟨את⟩ jo žmoną paėmei sau žmona, ir ⟨את⟩ jį nužudei kardu amonų vaikų.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "žodį, kurį sakė Jahvė"
+      "marks": "Jahvės žodį"
     },
     {
       "surface": "דבר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahvė"
+      "gloss": "Jahvės"
     },
     {
       "surface": "לעשות",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "piktą"
+      "gloss": "pikta"
     },
     {
       "surface": "בעינו",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "הכית",
-      "gloss": "nukovei"
+      "gloss": "tu sudavei"
     },
     {
       "surface": "בחרב",
@@ -97,11 +76,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "savęs"
+      "gloss": "sei"
     },
     {
       "surface": "לאשה",
-      "gloss": "už žmoną"
+      "gloss": "žmona"
     },
     {
       "surface": "ואתו",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "הרגת",
-      "gloss": "užmušei"
+      "gloss": "nužudei"
     },
     {
       "surface": "בחרב",
@@ -122,9 +101,9 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amono"
+      "gloss": "amonų"
     }
   ],
-  "timestamp": "2026-10-20T06:36:42.763357055Z",
+  "timestamp": "2026-10-20T12:13:59.607218126Z",
   "model": "glm-5.3"
 }

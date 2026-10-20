@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יהיה",
-      "rationale": "Lietuvių neigimas „nebus“ jau turi būtį; atskiras glosos žodis nereikalingas"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tai⟩",
-      "rationale": "אני הוא pažodžiui „aš jis“ — lietuviškai reikia įvardžio, kurio hebrajų nereiškia kaip atskiro predikato"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "Kreipimasis į išrinktąjį tarną-tdią kaip į liudytojus"
-    }
-  ],
-  "translation": "Jūs esate mano liudytojai, sako Jahvė, ir mano tarnas, kurį išsirinkau, kad pažintumėte ir tikėtumėte manimi, ir suprastumėte, kad aš esu ⟨tai⟩; prieš mane nebuvo suformuotas joks El, ir po manęs nebus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/43\/9-12.1792481490272.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jūs esate mano liudytojai, — sako Jahvė, — ir mano tarnas, kurį išsirinkau, kad žinotumėte ir tikėtumėte manimi, ir suprastumėte, kad aš ⟨esu⟩ tas: prieš mane nebuvo suformuotas joks El, ir po manes nebus ⟨jokio kito⟩.",
   "tokens": [
     {
       "surface": "אתם",
-      "gloss": "Jūs"
+      "gloss": "jūs"
     },
     {
       "surface": "עדי",
-      "gloss": "liudytojai"
+      "gloss": "mano liudytojai"
     },
     {
       "surface": "נאם",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "תדעו",
-      "gloss": "pažintumėte"
+      "gloss": "žinotumėte"
     },
     {
       "surface": "ותאמינו",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "esu ⟨tai⟩"
+      "gloss": "tas"
     },
     {
       "surface": "לפני",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "ואחרי",
-      "gloss": "ir po manęs"
+      "gloss": "ir po manes"
     },
     {
       "surface": "לא",
@@ -119,9 +93,9 @@
     },
     {
       "surface": "יהיה",
-      "gloss": ""
+      "gloss": "⟨jokio kito⟩"
     }
   ],
-  "timestamp": "2026-10-20T07:31:30.277507772Z",
+  "timestamp": "2026-10-20T12:28:44.586020227Z",
   "model": "glm-5.3"
 }

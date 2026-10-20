@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nefeš",
-      "rationale": "נפש — gerklė\/kvapas\/gyvybės jėga, ne 'siela'; skambesiu išlaikyta"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrajų pora 'jeigu ne' → 'nebuan' (išskyrus, jeigu)"
-    }
-  ],
-  "translation": "nefeš, kuri palietė ⟨tai⟩, bus nešvari iki vakaro ir nevalgys iš šventųjų ⟨dalykų⟩, nebuan nusiplaus savo kūną vandeniu.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/22\/5-8.1792473572877.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gyvybė, kuri palies tai, ⟨yra⟩ nešvari iki vakaro, ir valgys iš šventųjų dalykų, nebent nusiplaus savo kūną vandeniu.",
   "tokens": [
     {
       "surface": "נפש",
-      "gloss": "nefeš"
+      "gloss": "gyvybė"
     },
     {
       "surface": "אשר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "תגע",
-      "gloss": "palietė"
+      "gloss": "palies"
     },
     {
       "surface": "בו",
-      "gloss": "⟨tai⟩"
+      "gloss": "tai"
     },
     {
       "surface": "וטמאה",
-      "gloss": "ir bus nešvari"
+      "gloss": "nešvari"
     },
     {
       "surface": "עד",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "šventųjų ⟨dalykų⟩"
+      "gloss": "šventųjų dalykų"
     },
     {
       "surface": "כי",
-      "gloss": "nebuan"
+      "gloss": "nebent"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "רחץ",
@@ -93,6 +72,6 @@
       "gloss": "vandeniu"
     }
   ],
-  "timestamp": "2026-10-20T05:19:32.888910584Z",
+  "timestamp": "2026-10-20T12:38:58.807592410Z",
   "model": "glm-5.3"
 }

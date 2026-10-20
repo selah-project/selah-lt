@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ranka",
-      "rationale": "'Didžioji ranka' — hebrajiškas jėgos vaizdinys, išlaikomas pažodžiui, ne 'didis darbas'."
-    },
-    {
-      "kind": "crux",
-      "subject": "išsigando",
-      "rationale": "וייראו reiškia ir 'bijoti', ir 'garbinti' — baugė 'išsigando' vs garbinimo skaitymas."
-    }
-  ],
-  "translation": "Ir Jisraelis pamatė ⟨את⟩ didžiąją ranką, kurią Jahvė padarė Micraime, ir tauta išsigando Jahvės, ir jie įtikėjo Jahve ir jo tarnu Moše.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cdc43dc64a16671c25b4b9ae776611e29c5f1a761da68286b6e6686f08cdbda4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/14\/29-31.1792472450213.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jisraelis pamatė ⟨את⟩ didžiąją ranką, kurią Jahvė padarė Micraime, ir tauta pabūgo ⟨את⟩ Jahvės, ir tikėjo Jahve ir Moše, jo tarnu.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Ir pamatė"
+      "gloss": "ir pamatė"
     },
     {
       "surface": "ישראל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וייראו",
-      "gloss": "ir išsigando"
+      "gloss": "ir pabūgo"
     },
     {
       "surface": "העם",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ויאמינו",
-      "gloss": "ir įtikėjo"
+      "gloss": "ir tikėjo"
     },
     {
       "surface": "ביהוה",
@@ -99,6 +78,6 @@
       "gloss": "jo tarnu"
     }
   ],
-  "timestamp": "2026-10-20T05:00:50.341614652Z",
+  "timestamp": "2026-10-20T12:18:43.262230739Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Hebrajų kalba neturi kopulos čia; lietuvių reikalauja"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss-rationale": "אל su linksniu išnyksta lietuviškoje galūnėje"
-    }
-  ],
-  "translation": "Žodis, kuris buvo Jermijahui iš ⟨את⟩ Jahvės, tariant:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/11\/1-4.1792482356019.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Žodis, kuris buvo ⟨את⟩ Jirmejahu iš Jahvės, sakant:",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "Žodis"
+      "gloss": "žodis"
     },
     {
       "surface": "אשר",
@@ -42,15 +21,16 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jermijahui"
+      "gloss": "Jirmejahu"
     },
     {
       "surface": "מאת",
-      "gloss": "iš ⟨את⟩"
+      "gloss": "iš ⟨את⟩",
+      "marks": "Jahvė"
     },
     {
       "surface": "יהוה",
@@ -58,9 +38,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "tariant"
+      "gloss": "sakant:"
     }
   ],
-  "timestamp": "2026-10-20T07:45:56.020506051Z",
+  "timestamp": "2026-10-20T12:29:50.811650863Z",
   "model": "glm-5.3"
 }

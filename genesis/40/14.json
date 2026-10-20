@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זכרתני \/ והזכרתני",
-      "rationale": "Toji pati šaknis 'atsiminti \/ priminti' dvejuose veiksmažodžiuose — prašymo vientisas ritmas."
-    },
-    {
-      "kind": "you",
-      "subject": "Jozefo prašymas",
-      "rationale": "Tiesioginis kreipimasis į taurės nešėją: atsimink, padaryk, priminsi, išvesi."
-    }
-  ],
-  "translation": "Tik jeigu mane atsiminsi su ⟨את⟩ tavimi, kai tau bus gerai, ir padarysi, prašau, man chesed — ir priminsi mane Parohui, ir išvesi mane iš šio namo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/40\/13-16.1792471841349.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei tik atsiminsi mane ⟨את⟩ su savimi, kai tau seksis gerai, tai, prašau, parodyk man chesed ir paminėk mane Parohui, kad išvestum mane iš šito namo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "tik"
+      "gloss": "jei"
     },
     {
       "surface": "אם",
-      "gloss": "jeigu"
+      "gloss": "tik"
     },
     {
       "surface": "זכרתני",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "su ⟨את⟩ tavimi"
+      "gloss": "⟨את⟩ su savimi"
     },
     {
       "surface": "כאשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "bus gerai"
+      "gloss": "seksis gerai"
     },
     {
       "surface": "לך",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "ir padarysi"
+      "gloss": "ir darysi"
     },
     {
       "surface": "נא",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "והזכרתני",
-      "gloss": "ir priminsi mane"
+      "gloss": "ir paminėk mane"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "פרעה",
       "gloss": "Parohui"
     },
     {
+      "surface": "פרעה",
+      "gloss": "Parohas"
+    },
+    {
       "surface": "והוצאתני",
-      "gloss": "ir išvesi mane"
+      "gloss": "kad išvestum mane"
     },
     {
       "surface": "מן",
@@ -98,9 +77,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "šio"
+      "gloss": "šito"
     }
   ],
-  "timestamp": "2026-10-20T04:50:41.353177507Z",
+  "timestamp": "2026-10-20T12:27:00.217863617Z",
   "model": "glm-5.3"
 }

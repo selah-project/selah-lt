@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "rationale": "„dar” su „שנית” sudaro „dar antrą kartą”; įsprausta į vieną žodį."
-    },
-    {
-      "kind": "addition",
-      "subject": "šis",
-      "rationale": "Hebrajų veiksmažodis be subjekto; lietuvių reikalauja įvardį, pažymėta ⟨pas⟩ kontekste veikėjas netrukdo."
-    }
-  ],
-  "translation": "Ir Avšalomas nusiuntė ⟨pas⟩ Joabą, kad jį pasiųstų pas karalių, bet šis nenorėjo ateiti pas jį; ir jis siuntė antrą kartą, bet šis nenorėjo ateiti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/29-32.1792478419489.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Avšalomas siuntė pas Joabą, kad šis jį išsiųstų pas karalių, bet šis nenorėjo ateiti pas jį; ir jis siuntė ⟨את⟩ ⟨jį⟩ dar antrąkart, bet šis nenorėjo ateiti.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "nusiuntė"
+      "gloss": "ir siuntė"
     },
     {
       "surface": "אבשלום",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "kad pasiųstų"
+      "gloss": "kad išsiųstų"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį (Avšalomą)"
+      "gloss": "⟨את⟩",
+      "marks": "jį (Joabą)"
     },
     {
       "surface": "אל",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "שנית",
-      "gloss": "antrą kartą"
+      "gloss": "antrąkart"
     },
     {
       "surface": "ולא",
@@ -102,6 +81,6 @@
       "gloss": "ateiti"
     }
   ],
-  "timestamp": "2026-10-20T06:40:19.490892137Z",
+  "timestamp": "2026-10-20T12:13:30.251898988Z",
   "model": "glm-5.3"
 }

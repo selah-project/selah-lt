@@ -5,42 +5,16 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Avrech",
-      "rationale": "אברך reikšmė ginčijama: 'klaukite!' (KAJ 'Bow the knee'), egiptietiškas pagerbimo šūkis, ar 'atkreipkite dėmesį' — paliktas transkribuotas"
-    },
-    {
-      "kind": "hapax",
-      "subject": "אברך",
-      "rationale": "žodis sutinkamas tik čia visame Tanache"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "hebrajiškas veiksnies dalyvis ונתון be veiksmažodžio 'būti' — lietuvių kalbai reikia jungties"
-    }
-  ],
-  "translation": "Ir jis pasodino ⟨את⟩ jį į antrą vežimą, kuris buvo jo, ir šaukė prieš jį: Avrech! Ir ⟨yra⟩ paskirtas jis virš visos Micraimo žemės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/41\/41-44.1792471978608.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis pasodino jį ⟨את⟩ į antrąjį vežimą, kuris buvo jo, ir jie šaukė prieš jį: Avrech! Ir ⟨jį⟩ pastatė ⟨את⟩ jį virš visos Micraimo žemės.",
   "tokens": [
     {
       "surface": "וירכב",
-      "gloss": "pasodino-važiuoti"
+      "gloss": "Ir pasodino jį"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį"
+      "marks": "į antrąjį vežimą"
     },
     {
       "surface": "במרכבת",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "המשנה",
-      "gloss": "antrą"
+      "gloss": "antrąjį"
     },
     {
       "surface": "אשר",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "jo"
+      "gloss": "buvo jo"
     },
     {
       "surface": "ויקראו",
-      "gloss": "ir šaukė"
+      "gloss": "ir jie šaukė"
     },
     {
       "surface": "לפניו",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "אברך",
-      "gloss": "Avrech"
+      "gloss": "Avrech!"
     },
     {
-      "surface": "ויתן",
-      "gloss": "paskyrė"
+      "surface": "ונתון",
+      "gloss": "Ir pastatė"
     },
     {
       "surface": "אתו",
@@ -96,6 +70,6 @@
       "gloss": "Micraimo"
     }
   ],
-  "timestamp": "2026-10-20T04:52:58.610829705Z",
+  "timestamp": "2026-10-20T12:26:49.216946335Z",
   "model": "glm-5.3"
 }

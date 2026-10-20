@@ -5,37 +5,11 @@
   "book": "amos",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "על",
-      "rationale": "antrasis על yra priežastinis ('nes'), ne erdvinis 'ant'"
-    },
-    {
-      "kind": "crux",
-      "subject": "אשיבנו",
-      "rationale": "'neatšauksiu jo' — objektas neįvardytas: bausmė ar sprendimas; KJV 'bausmę', YLT 'jo'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלשה...ארבעה",
-      "rationale": "Amoso 'už tris ir už keturis' formula — skaičių kėlimas, lietuviškai išlaikomas"
-    }
-  ],
-  "translation": "Taip sako Jahvė: už tris Amono vaikų maištus ir už keturis neatšauksiu jo — nes jie prapjovė Gileado nėščiąsias, kad išplėstų ⟨את⟩ savo ribą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/amos\/1\/13-15.1792486436241.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taip sako Jahvė: už tris Ammono vaikų nusikaltimus ir už keturis neatšauksiu ⟨bausmės⟩, nes jie praskėrė Gilado nėščiąsias, kad išplėstų ⟨את⟩ savo sieną.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Taip"
+      "gloss": "taip"
     },
     {
       "surface": "אמר",
@@ -54,8 +28,8 @@
       "gloss": "tris"
     },
     {
-      "surface": "пשעי",
-      "gloss": "maištus"
+      "surface": "פשעי",
+      "gloss": "nusikaltimus"
     },
     {
       "surface": "בני",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amono"
+      "gloss": "Ammono"
     },
     {
       "surface": "ועל",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אשיבנו",
-      "gloss": "atšauksiu jo"
+      "gloss": "atšauksiu"
     },
     {
       "surface": "על",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "בקעם",
-      "gloss": "prapjovė"
+      "gloss": "praskėrė"
     },
     {
       "surface": "הרות",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gileado"
+      "gloss": "Gilado"
     },
     {
       "surface": "למען",
@@ -108,13 +82,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo ribą"
+      "marks": "savo sieną (גבולם)"
     },
     {
       "surface": "גבולם",
-      "gloss": "savo ribą"
+      "gloss": "savo sieną"
     }
   ],
-  "timestamp": "2026-10-20T08:53:56.242951377Z",
+  "timestamp": "2026-10-20T12:15:29.912446041Z",
   "model": "glm-5.3"
 }

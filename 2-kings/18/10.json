@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų kalba neturi „tai yra“ — pridėta siekiant aiškumo"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מקצה",
-      "rationale": "pažodžiui „nuo galo“ — pabaigos žymėjimas laikui"
-    },
-    {
-      "kind": "measurement",
-      "subject": "datavimas",
-      "rationale": "miesto paėmimo data užfiksuota dviejų karalių metais"
-    }
-  ],
-  "translation": "Ir jie paėmė ⟨את⟩ ją po trijų metų — šeštaisiais metais Chizkijahu, tai yra devintaisiais metais Hoshea, karaliaus Jisraelio; buvo paimta Šomeronas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/18\/9-12.1792480243024.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie paėmė ⟨את⟩ją po trijų metų — šeštaisiais Chizkijaho metais, tai yra devintaisiais Hošės, Jisraelio karaliaus, metais buvo paimta Šomronas.",
   "tokens": [
     {
       "surface": "וילכדה",
-      "gloss": "ir jie paėmė ⟨את⟩ ją"
+      "gloss": "Ir jie paėmė ⟨את⟩ją"
     },
     {
       "surface": "מקצה",
-      "gloss": "po"
+      "gloss": "po pabaigos"
     },
     {
       "surface": "שלש",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "בשנת",
-      "gloss": "metais"
+      "gloss": "šeštaisiais... metais"
     },
     {
       "surface": "שש",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לחזקיה",
-      "gloss": "Chizkijahu"
+      "gloss": "Chizkijaho"
     },
     {
       "surface": "היא",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "להושע",
-      "gloss": "Hoshea"
+      "gloss": "Hošės"
     },
     {
       "surface": "מלך",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Šomeronas"
+      "gloss": "Šomronas"
     }
   ],
-  "timestamp": "2026-10-20T07:10:43.026196487Z",
+  "timestamp": "2026-10-20T12:45:12.196198944Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vyresniams",
-      "rationale": "ראשי המטות pažodžiui 'giminių galvos'; lietuviškai 'vyresnieji' — 'galvos' praranda vaizdą"
-    },
-    {
-      "kind": "addition",
-      "subject": "colono struktūra",
-      "rationale": "hebrajiškas אל ראשי המטות לבני ישראל — sudėtinis gavėjas, išdėstytas be prijungiamo žodžio"
-    }
-  ],
-  "translation": "Ir Mošė kalbėjo Jisraelio sūnums giminių vyresniams, sakydamas: tai žodis, kurį įsakė Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/30\/1-4.1792474714867.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė kalbėjo galvoms — giminių vadovams, Jisraelio vaikams, sakydamas: Šis yra žodis, kurį įsakė Jahvė.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prie"
     },
     {
       "surface": "ראשי",
-      "gloss": "vyresniams"
+      "gloss": "galvos — vadovai"
     },
     {
       "surface": "המטות",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "לבני",
-      "gloss": "sūnums"
+      "gloss": "Jisraelio vaikams"
     },
     {
       "surface": "ישראל",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "tai"
+      "gloss": "šis"
     },
     {
       "surface": "הדבר",
@@ -81,6 +60,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T05:38:34.869953422Z",
+  "timestamp": "2026-10-20T12:41:24.636524043Z",
   "model": "glm-5.3"
 }

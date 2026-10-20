@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lūžį",
-      "rationale": "שבר — 'lūžis, kaulo lūžis', ne tik 'žeisma'; חבש — rišti tvarsčiu, kaip gydytojas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "שבעתים",
-      "rationale": "skaičius septyniskart ir septynių dienų — teksto matavimo struktūra"
-    }
-  ],
-  "translation": "Ir mėnulio šviesa bus kaip saulės šviesa, ir saulės šviesa bus septyniskart stipresnė, kaip septynių dienų šviesa, ⟨⟩dieną, kai Jahvė sujuos ⟨את⟩ savo tautos lūžį ir išgydys jos smūgio mėlynę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "78451e2ab64c25000f22c6cc434baf02381c2f9f46d0de650b916e36b52f6623",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/30\/25-28.1792481243603.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir mėnulio šviesa bus kaip saulės šviesa, o saulės šviesa bus septintąja dalimi kaip septynių dienų šviesa, dieną, kai Jahvė suriš ⟨את⟩ savo tautos lūžį ir gydys sumušimo žaizdą.",
   "tokens": [
     {
       "surface": "והיה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ואור",
-      "gloss": "ir šviesa"
+      "gloss": "o saulės šviesa"
     },
     {
       "surface": "החמה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "שבעתים",
-      "gloss": "septyniskart stipresnė"
+      "gloss": "septyneriopai"
     },
     {
       "surface": "כאור",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "dieną"
+      "gloss": "dieną, kai"
     },
     {
       "surface": "חבש",
-      "gloss": "sujuosiantį"
+      "gloss": "suriš"
     },
     {
       "surface": "יהוה",
@@ -91,7 +70,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savo tautos lūžį"
+      "marks": "savo tautos lūžio"
     },
     {
       "surface": "שבר",
@@ -103,17 +82,17 @@
     },
     {
       "surface": "ומחץ",
-      "gloss": "ir mėlynę"
+      "gloss": "ir sumušimo"
     },
     {
       "surface": "מכתו",
-      "gloss": "jos smūgio"
+      "gloss": "jo žaizdą"
     },
     {
       "surface": "ירפא",
-      "gloss": "išgydys"
+      "gloss": "gydys"
     }
   ],
-  "timestamp": "2026-10-20T07:27:23.605300950Z",
+  "timestamp": "2026-10-20T13:26:08.736560291Z",
   "model": "glm-5.3"
 }

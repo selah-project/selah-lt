@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 105,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לאלף דור",
-      "rationale": "„Tūkstantis kartų“ — skaičiaus vaizdas, lietuviškai išreikštas kilmininku be prielinksnio."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tūkstančiui kartų",
-      "rationale": "Kartų skaičiavimas — matavimo pobūdžio frazė."
-    }
-  ],
-  "translation": "Amžinai jis prisimena ⟨את⟩ savo sandorą, žodį, kurį įsakė tūkstančiui kartų,",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/105\/5-8.1792488840312.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jis prisimena per amžius savo sandorą — žodį, kurį įsakė tūkstančiui kartų.",
   "tokens": [
     {
       "surface": "זכר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "amžinai"
+      "gloss": "per amžius"
     },
     {
       "surface": "בריתו",
@@ -57,6 +36,6 @@
       "gloss": "kartų"
     }
   ],
-  "timestamp": "2026-10-20T09:34:00.313771593Z",
+  "timestamp": "2026-10-20T12:42:44.850295049Z",
   "model": "glm-5.3"
 }

@@ -5,48 +5,27 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כרמל",
-      "rationale": "'švieži grūdai' — žodis reiškia sodo\/arba fresh produkciją; įvairiai verčiamas"
-    },
-    {
-      "kind": "addition",
-      "subject": "savo",
-      "rationale": "lietuvių kalbai reikia posesyvo prie 'Elohim'"
-    }
-  ],
-  "translation": "Ir duonos, ir skrudintų grūdų, ir šviežių grūdų valgyti nevalia iki tos pačios dienos, kol atnešite ⟨את⟩ savo Elohim auką — amžinas įstatymas jūsų kartoms visose jūsų gyvenamojose vietose.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/23\/13-16.1792473685210.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir duonos, skrudintų grūdų ir šviežių ausų valgydami nevalgysite iki pačios šios dienos, iki atnešdami ⟨את⟩ auką savo Elohim — amžinas įstatas jūsų kartoms visose jūsų gyvenamosiose vietose.",
   "tokens": [
     {
       "surface": "ולחם",
-      "gloss": "Ir duonos"
+      "gloss": "ir duonos"
     },
     {
       "surface": "וקלי",
-      "gloss": "ir skrudintų grūdų"
+      "gloss": "skrudintų grūdų"
     },
     {
-      "surface": "וכרמel",
-      "gloss": "ir šviežių grūdų"
+      "surface": "וכרמל",
+      "gloss": "ir šviežių ausų"
     },
     {
       "surface": "לא",
-      "gloss": "nevalia"
+      "gloss": "ne"
     },
     {
       "surface": "תאכלו",
-      "gloss": "valgyti"
+      "gloss": "valgysite"
     },
     {
       "surface": "עד",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "עצם",
-      "gloss": "tos pačios"
+      "gloss": "pačios"
     },
     {
       "surface": "היום",
-      "gloss": "dienos"
+      "gloss": "šios dienos"
     },
     {
       "surface": "הזה",
-      "gloss": "šitos"
+      "gloss": "šios"
     },
     {
       "surface": "עד",
-      "gloss": "kol"
+      "gloss": "iki"
     },
     {
       "surface": "הביאכם",
-      "gloss": "atnešite"
+      "gloss": "atnešdami"
     },
     {
       "surface": "את",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "חקת",
-      "gloss": "įstatymas"
+      "gloss": "įstatys"
     },
     {
       "surface": "עולם",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "משבתיכם",
-      "gloss": "jūsų gyvenamojose vietose"
+      "gloss": "jūsų gyvenamosiose vietose"
     }
   ],
-  "timestamp": "2026-10-20T05:21:25.212932602Z",
+  "timestamp": "2026-10-20T12:39:10.446898688Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,20 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bendrystės aukos",
-      "rationale": "שלמים pažodžiui 'pilnumos\/aiškios aukos' — bendrystės auka yra priimtas įprastinis vaizdas"
-    }
-  ],
-  "translation": "Ir jis atstatė ⟨את⟩ Jahvės aukurą ir aukojo ant jo bendrystės aukas ir padėkos auką, ir įsakė Jehudai tarnauti Jahvei, Jisraelio Elohim.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/33\/13-16.1792493898147.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis atstatė ⟨את⟩ Jahvės aukurą ir aukojo ant jo bendrystės aukas ir padėkos auką, ir įsakė Jūdai tarnauti Jahvei, Jisraelio Elohim.",
   "tokens": [
     {
       "surface": "ויכן",
-      "gloss": "Ir atstatė"
+      "gloss": "atstatė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "aukurą"
+      "marks": "Jahvės aukurą"
     },
     {
       "surface": "מזבח",
-      "gloss": "aukurą"
+      "gloss": "aukuras"
     },
     {
       "surface": "יהוה",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ויזבח",
-      "gloss": "aukojo"
+      "gloss": "ir aukojo"
     },
     {
       "surface": "עליו",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "זבחי",
-      "gloss": "aukas"
+      "gloss": "aukos"
     },
     {
       "surface": "שלמים",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "ותודה",
-      "gloss": "ir padėkos auką"
+      "gloss": "ir padėkos auka"
     },
     {
       "surface": "ויאמר",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "ליהודה",
-      "gloss": "Jehudai"
+      "gloss": "Jūdai"
     },
     {
       "surface": "לעבוד",
@@ -90,6 +74,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T10:58:18.149065657Z",
+  "timestamp": "2026-10-20T12:10:48.850823609Z",
   "model": "glm-5.3"
 }

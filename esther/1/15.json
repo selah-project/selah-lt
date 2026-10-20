@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Sąjunga „אשר“ po „על“ idiomatiškai reiškia „nes“ ir atskirai nebetaikoma"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ranka",
-      "rationale": "„ביד“ — „per ranką“, t. y. „per“, priemonės reikšmė"
-    }
-  ],
-  "translation": "„Pagal dat — ką daryti karalienei Vašti, nes ji nepadarė ⟨את⟩ karaliaus Achaverušo įsakymo, perduoto eunuchų ranka?“",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/esther\/1\/13-16.1792491444276.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pagal įstatą — ką daryti su karaliene Vašti, nes ji nepadarė ⟨את⟩ karaliaus Achašverošo potvarkio, ⟨kuris buvo perduotas⟩ per eunuchų ranką?",
   "tokens": [
     {
       "surface": "כדת",
-      "gloss": "pagal dat"
+      "gloss": "pagal įstatą"
     },
     {
       "surface": "מה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "במלכה",
-      "gloss": "karalienei Vašti"
+      "gloss": "su karaliene"
     },
     {
       "surface": "ושתי",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kadangi"
     },
     {
       "surface": "לא",
@@ -67,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karaliaus Achaverušo įsakymą"
+      "marks": "karaliaus Achašverošo potvarkis"
     },
     {
       "surface": "מאמר",
-      "gloss": "įsakymą"
+      "gloss": "potvarkį"
     },
     {
       "surface": "המלך",
@@ -79,17 +58,17 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Achaverušo"
+      "gloss": "Achašverošo"
     },
     {
       "surface": "ביד",
-      "gloss": "ranka"
+      "gloss": "per ranką"
     },
     {
       "surface": "הסריסים",
       "gloss": "eunuchų"
     }
   ],
-  "timestamp": "2026-10-20T10:17:24.277345007Z",
+  "timestamp": "2026-10-20T12:17:33.949161642Z",
   "model": "glm-5.3"
 }

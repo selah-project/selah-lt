@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "hebrajų neiginio-foro konstrukcija 'ne... bet'; כי neturi atskiro atitikmens"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העלה\/הביא",
-      "rationale": "dviejų veiksmaus pora — 'pakilo' ir 'atvedė' — kartoja eilutės 7 veiksmažodį ir jį užbaigia"
-    },
-    {
-      "kind": "substitution",
-      "subject": "זרע",
-      "rationale": "'sėkla' — hebrajiškas vaizdas palikuonims, ne asmens pavadinimas"
-    }
-  ],
-  "translation": "bet: 'Gyvas yra Jahvė, kuris išvedė ir atvedė ⟨את⟩ Jisraelio namų sėklą iš šiaurės žemės ir iš visų žemių, į kurias juos buvau nustūmęs', ir jie gyvens savo dirvoje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/23\/5-8.1792482934167.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "bet: „Kiek gyvas Jahvė, kuris išvedė aukštyn ir kuris atvedė ⟨את⟩ Jisraelio namų palikuonis iš šiaurės krašto ir iš visų kraštų, į kuriuos juos buvau nustūmęs ten“, ir jie apgyvens savo žemėje.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "bet"
     },
     {
+      "surface": "אם",
+      "gloss": "⟨o⟩"
+    },
+    {
       "surface": "חי",
-      "gloss": "Gyvas yra"
+      "gloss": "gyvas"
     },
     {
       "surface": "יהוה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "išvedė"
+      "gloss": "išvedė aukštyn"
     },
     {
       "surface": "ואשר",
@@ -68,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraelio namų sėklą"
+      "marks": "Jisraelio namų palikuonis"
     },
     {
       "surface": "זרע",
-      "gloss": "sėklą"
+      "gloss": "palikuonis"
     },
     {
       "surface": "בית",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "iš žemės"
+      "gloss": "iš krašto"
     },
     {
       "surface": "צפונה",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "žemių"
+      "gloss": "kraštų"
     },
     {
       "surface": "אשר",
-      "gloss": "į kurias"
+      "gloss": "į kuriuos"
     },
     {
       "surface": "הדחתים",
@@ -112,17 +86,17 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ir jie gyvens"
+      "gloss": "ir jie apgyvens"
     },
     {
       "surface": "על",
-      "gloss": "savo"
+      "gloss": ""
     },
     {
       "surface": "אדמתם",
-      "gloss": "dirvoje"
+      "gloss": "savo žemėje"
     }
   ],
-  "timestamp": "2026-10-20T07:55:34.173294547Z",
+  "timestamp": "2026-10-20T12:30:33.652993728Z",
   "model": "glm-5.3"
 }

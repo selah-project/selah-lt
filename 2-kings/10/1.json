@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "Hebrajiškai nėra veiksmažodžio „turėti\/būti“ — pridėta kopula"
-    },
-    {
-      "kind": "alternative",
-      "subject": "שרי יזרעאל",
-      "rationale": "„Jizreelio kunigaikščiai“ — arba „Jizreelyje“ (mieste, kur valdė Achabo rūmai); manoma, kad čia apie Šomerono diduomenę"
-    }
-  ],
-  "translation": "O Achabui ⟨buvo⟩ septyniasdešimt sūnų Šomeronone, ir Jėhu parašė laiškus ir išsiuntė ⟨את⟩ Šomeronon — pas Jizreelio kunigaikščius, vyresniuosius ir pas Achabo auginančiuosius, sakydamas:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/10\/1-4.1792479932530.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O Achabui ⟨buvo⟩ septyniasdešimt sūnų Šomrone, ir Jehu parašė laiškus ir išsiuntstė ⟨juos⟩ į Šomroną pas Jizreelio vadus, vyresniuosius ir pas tuos, kurie augino Achabo vaikus, sakydamas:",
   "tokens": [
     {
       "surface": "ולאחאב",
-      "gloss": "O Achabui"
+      "gloss": "o Achabui"
     },
     {
       "surface": "שבעים",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בשמרון",
-      "gloss": "Šomeronone"
+      "gloss": "Šomrone"
     },
     {
       "surface": "ויכתב",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "יהוא",
-      "gloss": "Jėhu"
+      "gloss": "Jehu"
     },
     {
       "surface": "ספרים",
@@ -58,12 +37,11 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ir išsiuntė"
+      "gloss": "ir išsiuntstė"
     },
     {
       "surface": "שמרון",
-      "gloss": "⟨את⟩ Šomeronon",
-      "marks": "Šomeronon"
+      "gloss": "į Šomroną"
     },
     {
       "surface": "אל",
@@ -71,7 +49,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "kunigaikščius"
+      "gloss": "vadus"
     },
     {
       "surface": "יזרעאל",
@@ -87,7 +65,7 @@
     },
     {
       "surface": "האמנים",
-      "gloss": "auginančiuosius"
+      "gloss": "tuos, kurie augino"
     },
     {
       "surface": "אחאב",
@@ -98,6 +76,6 @@
       "gloss": "sakydamas"
     }
   ],
-  "timestamp": "2026-10-20T07:05:32.531666275Z",
+  "timestamp": "2026-10-20T12:11:28.939391509Z",
   "model": "glm-5.3"
 }

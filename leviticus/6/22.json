@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio šioje predikatyvo konstrukcijoje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "šventų švenčiausia",
-      "rationale": "קדש קדשים pažodžiui 'šventumas šventumų' — hebrajiškas intensyvumo superlatyvas"
-    }
-  ],
-  "translation": "Kiekvienas vyras tarp kunigų ją valgys; ji ⟨yra⟩ šventų švenčiausia.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/6\/21-23.1792473163322.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kiekvienas vyras tarp kunigų ją valgys; ⟨את⟩ — šventumas švenčiausiųjų ⟨yra⟩.",
   "tokens": [
     {
       "surface": "כל",
@@ -51,17 +30,17 @@
     },
     {
       "surface": "קדש",
-      "gloss": "šventų"
+      "gloss": "šventumas"
     },
     {
       "surface": "קדשים",
-      "gloss": "švenčiausia"
+      "gloss": "švenčiausiųjų"
     },
     {
       "surface": "הוא",
-      "gloss": "ji"
+      "gloss": "⟨yra⟩"
     }
   ],
-  "timestamp": "2026-10-20T05:12:43.324052033Z",
+  "timestamp": "2026-10-20T12:39:08.078306751Z",
   "model": "glm-5.3"
 }

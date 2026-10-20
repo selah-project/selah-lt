@@ -5,38 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sielas",
-      "rationale": "נפש yra 'kvėpuojanti būtybė, gyvybė', ne siela platonine prasme."
-    },
-    {
-      "kind": "substitution",
-      "subject": "padengtų",
-      "rationale": "לכפר pažodžiui 'dengti, padengti' — sutartinis 'apvalyti\/išpirkti' praranda dangos paveikslą."
-    },
-    {
-      "kind": "you",
-      "subject": "jūsų sielas",
-      "rationale": "Tiesioginis kreipimasis į Izraelio bendruomenę."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ירבה\/ימעיט",
-      "rationale": "Dauginti\/mažinti antitezė — turtingas ir vargšas lygūs prieš Elohim."
-    }
-  ],
-  "translation": "Turtingasis nemųš daugiau, ir vargšas nemažins nuo pusės šekelio — duodami ⟨את⟩ Jahvės paaukojimą, kad padengtų jūsų sielas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/30\/13-16.1792472852472.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Turtingasis neduos daugiau, ir vargšas neduos mažiau kaip pusė šekelio, duodamas ⟨את⟩ Jahvės terumą, atpirkimui už jūsų nefashot.",
   "tokens": [
     {
       "surface": "העשיר",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "ירבה",
-      "gloss": "nemųš daugiau"
+      "gloss": "neduos daugiau"
     },
     {
       "surface": "והדל",
@@ -60,11 +29,11 @@
     },
     {
       "surface": "ימעיט",
-      "gloss": "nemažins"
+      "gloss": "neduos mažiau"
     },
     {
       "surface": "ממחצית",
-      "gloss": "nuo pusės"
+      "gloss": "kaip pusė"
     },
     {
       "surface": "השקל",
@@ -72,16 +41,16 @@
     },
     {
       "surface": "לתת",
-      "gloss": "duodami"
+      "gloss": "duodamas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvės paaukojimą"
+      "marks": "Jahvės terumą"
     },
     {
       "surface": "תרומת",
-      "gloss": "paaukojimą"
+      "gloss": "terumą"
     },
     {
       "surface": "יהוה",
@@ -89,17 +58,17 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "kad padengtų"
+      "gloss": "atpirkimui"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "už"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "jūsų sielas"
+      "gloss": "jūsų nefashot"
     }
   ],
-  "timestamp": "2026-10-20T05:07:32.476587228Z",
+  "timestamp": "2026-10-20T12:19:48.459474646Z",
   "model": "glm-5.3"
 }

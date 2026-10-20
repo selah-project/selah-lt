@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "priesaikos formulė 'jei ne' = 'tikrai'; pažodžiui lietuviškai skambėtų kaip sąlyga"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו (su juo)",
-      "rationale": "paskutinis אתו yra prielinksnis H854 'su juo', ne objekto žymeklis"
-    },
-    {
-      "kind": "you",
-      "subject": "pasmerkimo orakulas",
-      "rationale": "Jahvės priesaika kreipiama į Sukilėlio namus dėl karaliaus Cidkijos"
-    }
-  ],
-  "translation": "Kaip aš gyvas — sako Adonai Jahvė — tikrai vietoje karaliaus, kuris jį pastatė karaliauti, kurio priesaiką jis paniekino ir kurio sandorą sulaužė, ⟨את⟩ su juo Babilono viduryje jis mirs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/17\/13-16.1792484123439.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gyvas esu aš, sako Adonai Jahvė, jei ne vietoje karaliaus, dariusio jį karaliumi ⟨את⟩, kurio priesaiką jis paniekino ⟨את⟩ ir kurio sandorą sulaužė ⟨את⟩ — ⟨את⟩ ⟨su juo⟩ Babilono vidury jis mirs.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "gyvas"
+      "gloss": "Gyvas"
     },
     {
       "surface": "אני",
-      "gloss": "aš"
+      "gloss": "esu aš"
     },
     {
       "surface": "נאם",
@@ -71,12 +45,12 @@
     },
     {
       "surface": "הממליך",
-      "gloss": "kuris pastatė karaliauti"
+      "gloss": "dariusio jį karaliumi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį"
+      "marks": "jį karaliumi"
     },
     {
       "surface": "אשר",
@@ -89,7 +63,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jo priesaiką"
+      "marks": "priesaiką"
     },
     {
       "surface": "אלתו",
@@ -101,24 +75,24 @@
     },
     {
       "surface": "הפר",
-      "gloss": "sandorą sulaužė"
+      "gloss": "sulaužė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jo sandorą"
+      "marks": "sandorą"
     },
     {
       "surface": "בריתו",
-      "gloss": "jo sandorą"
+      "gloss": "sandorą"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨את⟩ ⟨su juo⟩"
     },
     {
       "surface": "בתוך",
-      "gloss": "viduryje"
+      "gloss": "vidury"
     },
     {
       "surface": "בבל",
@@ -129,6 +103,6 @@
       "gloss": "jis mirs"
     }
   ],
-  "timestamp": "2026-10-20T08:15:23.443045198Z",
+  "timestamp": "2026-10-20T12:21:47.572533432Z",
   "model": "glm-5.3"
 }

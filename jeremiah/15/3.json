@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משפחות",
-      "rationale": "Pažodžiui 'šeimos \/ giminių rūšys' — KJV 'kinds', Vulg. 'quattuor regna' (keturios karalystės)"
-    },
-    {
-      "kind": "measurement",
-      "subject": "keturias",
-      "rationale": "Sunykimo rūšių skaičiavimas — keturių kategorijų sąrašas"
-    }
-  ],
-  "translation": "Ir paskirsiu prieš juos keturias rūšis — sako Jahvė: kalaviją žudyti, ir šunis tampyti, ir ⟨את⟩ padangės paukščius, ir ⟨את⟩ žemės gyvulius — ėsti ir naikinti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4b3380b36b229c867b2d60496cc30e6b308f79aee06cfce123685f4009cc665e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/15\/1-4.1792482587323.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir paskirsiu prieš juos keturias gimines, sako Jahvė: ⟨את⟩ kardą žudyti, ir ⟨את⟩ šunis tampyti, ir ⟨את⟩ paukščius dangaus, ir ⟨את⟩ gyvulius žemės —ėsti ir naikinti.",
   "tokens": [
     {
       "surface": "ופקדתי",
-      "gloss": "ir paskirsiu"
+      "gloss": "Ir paskirsiu"
     },
     {
       "surface": "עליהם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "משפחות",
-      "gloss": "rūšis"
+      "gloss": "gimines"
     },
     {
       "surface": "נאם",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kalaviją"
+      "marks": "kardą"
     },
     {
       "surface": "החרב",
-      "gloss": "kalaviją"
+      "gloss": "kardą"
     },
     {
       "surface": "להרג",
@@ -81,7 +60,7 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "paukščius"
+      "marks": "paukščius dangaus"
     },
     {
       "surface": "עוף",
@@ -89,12 +68,12 @@
     },
     {
       "surface": "השמים",
-      "gloss": "padangės"
+      "gloss": "dangaus"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "gyvulius"
+      "marks": "gyvulius žemės"
     },
     {
       "surface": "בהמת",
@@ -113,6 +92,6 @@
       "gloss": "ir naikinti"
     }
   ],
-  "timestamp": "2026-10-20T07:49:47.327637945Z",
+  "timestamp": "2026-10-20T12:29:55.100592516Z",
   "model": "glm-5.3"
 }

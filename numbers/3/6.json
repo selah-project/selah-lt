@@ -5,41 +5,20 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "kad",
-      "rationale": "secular hebraizmas — ושרתו yra paprastas sakinys, ne siekinys; vertėjas pridėjo 'kad'"
-    },
-    {
-      "kind": "you",
-      "subject": "Mošei",
-      "rationale": " Jahvė įsako Mošei — visa eilutė yra antrojo asmens įsakymas"
-    }
-  ],
-  "translation": "Privesk ⟨את⟩ Levio gimines pastatyti ją priešais Aharoną, kunigą, ir jie jam tarnaus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/3\/5-8.1792473908801.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Privedk ⟨את⟩ Levio gimines lazdą ir pastatyk ją Aharono, kunigo, akivaizdoje, kad jie jam tarnautų.",
   "tokens": [
     {
       "surface": "הקרב",
-      "gloss": "privesk"
+      "gloss": "privedk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levio gimines"
+      "marks": "Levio gimines lazda"
     },
     {
       "surface": "מטה",
-      "gloss": "giminė"
+      "gloss": "gimines lazda"
     },
     {
       "surface": "לוי",
@@ -47,33 +26,35 @@
     },
     {
       "surface": "והעמדת",
-      "gloss": "ir pastatysi"
+      "gloss": "ir pastatyk"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ją"
+      "gloss": "⟨את⟩ ją",
+      "marks": "gimies lazdą (Levį)"
     },
     {
       "surface": "לפני",
-      "gloss": "priešais"
+      "gloss": "akivaizdoje"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharoną"
+      "gloss": "Aharono"
     },
     {
       "surface": "הכהן",
-      "gloss": "kunigą"
+      "gloss": "kunigo"
     },
     {
       "surface": "ושרתו",
-      "gloss": "ir tarnaus"
+      "gloss": "ir jie tarnaus"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jam"
+      "gloss": "⟨את⟩ jam",
+      "marks": "Aharoną"
     }
   ],
-  "timestamp": "2026-10-20T05:25:08.802551847Z",
+  "timestamp": "2026-10-20T12:41:48.381584679Z",
   "model": "glm-5.3"
 }

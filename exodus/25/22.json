@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אותך ... אל בני ישראל",
-      "rationale": "KJV 'commandment unto the children of Israel' vs YLT 'concerning the sons of Israel' — אל čia 'dėl' ar 'per tave (jiems)'"
-    },
-    {
-      "kind": "secret",
-      "subject": "נועדתי",
-      "rationale": "Jahvė paskiria slapto susitikimo vietą tarp kerubų — paslaptis atskleidžiama tik išrinktajam"
-    }
-  ],
-  "translation": "Ir susitiksiu su tavimi ten, ir kalbėsiu su tavimi iš viršaus permaldavimo dangčio, iš tarpo tarp dviejų kerubų, kurie yra ant liudijimo skrynies — ⟨את⟩ visa, ką įsakysiu tau dėl Jisraelio sūnų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/25\/21-24.1792472746694.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ten susitiksiu su tavimi ⟨את⟩, ir kalbėsiu su tavimi ⟨את⟩ iš viršaus dangčio, iš vidurio tarp dviejų cherubų, kurie ⟨yra⟩ ant liudijimo skrynios, ⟨את⟩ visa, ką įsakysiu tau dėl Jisraelio sūnų.",
   "tokens": [
     {
       "surface": "ונועדתי",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "הכפרת",
-      "gloss": "permaldavimo dangčio"
+      "gloss": "dangčio"
     },
     {
       "surface": "מבין",
-      "gloss": "iš tarpo tarp"
+      "gloss": "iš tarp"
     },
     {
       "surface": "שני",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerubų"
+      "gloss": "cherubų"
     },
     {
       "surface": "אשר",
@@ -87,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visa"
+      "marks": "visa (ką įsakysiu)"
     },
     {
       "surface": "כל",
@@ -104,7 +83,7 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩ tau",
-      "marks": "tau"
+      "marks": "tau (faktinis ženklas ties 'dėl Jisraelio sūnų')"
     },
     {
       "surface": "אל",
@@ -119,6 +98,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T05:05:46.717635641Z",
+  "timestamp": "2026-10-20T12:19:34.883941816Z",
   "model": "glm-5.3"
 }

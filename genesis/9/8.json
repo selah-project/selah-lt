@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל\/ואל",
-      "rationale": "Krypties prielinksnis susiliejo su linksniu „Noachiui“ ir „sūnums“."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨esančiems⟩",
-      "rationale": "Lietuvių kalbai reikia dalyvio, hebrajų turi tik אתו „su juo“."
-    }
-  ],
-  "translation": "Ir Elohim kalbėjo Noachiui ir jo sūnums, ⟨esančiems⟩ ⟨את⟩ su juo, sakydamas:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/9\/5-8.1792471086086.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Elohim kalbėjo Noachiui ir jo sūnums, ⟨kurie buvo⟩ ⟨את⟩ su juo, sakydamas:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir kalbėjo"
+      "gloss": "Ir kalbėjo"
     },
     {
       "surface": "אלהים",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Noachiui"
     },
     {
       "surface": "נח",
-      "gloss": "Noachiui"
+      "gloss": "⟨Noachui⟩"
     },
     {
       "surface": "ואל",
@@ -61,6 +40,6 @@
       "gloss": "sakydamas"
     }
   ],
-  "timestamp": "2026-10-20T04:38:06.088016668Z",
+  "timestamp": "2026-10-20T12:27:30.965847115Z",
   "model": "glm-5.3"
 }

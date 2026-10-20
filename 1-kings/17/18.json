@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לי ולך",
-      "rationale": "pažodžiui 'kas man ir tau' — hebrajiškas posakis 'kokia mums bendra', verčiamas idiomatiniu klausimu"
-    },
-    {
-      "kind": "you",
-      "subject": "Elijui",
-      "rationale": "moters kreipimasis į Eliją — 'Dievo žmogau'"
-    }
-  ],
-  "translation": "Ir ji tarė Elijui: Kokia man ir tau bendra, Dievo žmogau? Ar tu atėjai pas mane priminti ⟨את⟩ mano kaltę ir nužudyti ⟨את⟩ mano sūnų?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/17\/17-20.1792479411230.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ji tarė Elijui: ką man ir tau, žmogau Elohim? Ar atėjai pas mane priminti ⟨את⟩ mano kaltes ir nužudyti ⟨את⟩ mano sūnų?",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "Kokia"
+      "gloss": "ką"
     },
     {
       "surface": "לי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Dievo"
+      "gloss": "Elohim"
     },
     {
       "surface": "באת",
@@ -75,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mano kaltę"
+      "marks": "mano kaltes"
     },
     {
       "surface": "עוני",
-      "gloss": "mano kaltę"
+      "gloss": "mano kaltes"
     },
     {
       "surface": "ולהמית",
@@ -95,6 +74,6 @@
       "gloss": "mano sūnų"
     }
   ],
-  "timestamp": "2026-10-20T06:56:51.231493360Z",
+  "timestamp": "2026-10-20T12:06:46.475811063Z",
   "model": "glm-5.3"
 }

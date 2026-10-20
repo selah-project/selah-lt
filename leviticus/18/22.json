@@ -5,36 +5,16 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תשכב\/משכבי",
-      "rationale": "Toji pati šaknis karta du kartus — 'gulėti' ir 'gulėjimas', žodžių žaismas lietuvių kalboje iš dalies išlieka."
-    },
-    {
-      "kind": "you",
-      "subject": "adresatas",
-      "rationale": "Tiesioginis įsakymas Izraeliui."
-    }
-  ],
-  "translation": "Ir ⟨su⟩ vyru negulėsi, kaip guli su moterimi — tai šlykštynė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/18\/21-24.1792473473559.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨את⟩ vyro nelok kaip gulima su moterimi — tai toeva.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩"
+      "gloss": "ir ⟨את⟩",
+      "marks": "vyras"
     },
     {
       "surface": "זכר",
-      "gloss": "su vyru"
+      "gloss": "vyras"
     },
     {
       "surface": "לא",
@@ -46,21 +26,21 @@
     },
     {
       "surface": "משכבי",
-      "gloss": "kaip guli"
+      "gloss": "gulėjimais (kaip gulima)"
     },
     {
       "surface": "אשה",
-      "gloss": "su moterimi"
+      "gloss": "moterimi"
     },
     {
       "surface": "תועבה",
-      "gloss": "šlykštynė"
+      "gloss": "toeva"
     },
     {
       "surface": "הוא",
       "gloss": "tai"
     }
   ],
-  "timestamp": "2026-10-20T05:17:53.562479069Z",
+  "timestamp": "2026-10-20T12:38:22.425508799Z",
   "model": "glm-5.3"
 }

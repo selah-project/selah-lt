@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "užpildyti ranką",
-      "rationale": "hebrajiškas idiomatas 'pildyti ranką' reiškia įšventinti į pareigas; paliktas pažodinis paveikslas"
-    }
-  ],
-  "translation": "Ir permalaus kunigas, kuris bus pateptas ir kurio ranka bus užpildyta kunigystei vietoje jo tėvo, ir apsivilks ⟨את⟩ lininiais drabužiais — šventaisiais drabužiais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/16\/29-32.1792473557278.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir sutaikins kunigas, kuris bus pateptas ir kurio ranka bus įšventinta ⟨את⟩ jam kunigauti vietoj jo tėvo; ir apsivilks ⟨את⟩ drobės rūbais, šventumo rūbais.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "ir permalaus"
+      "gloss": "ir sutaikins"
     },
     {
       "surface": "הכהן",
@@ -41,8 +25,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "jis — kunigas"
     },
     {
       "surface": "ואשר",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "bus užpildyta"
+      "gloss": "bus įšventinta"
     },
     {
       "surface": "את",
@@ -63,11 +47,11 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "kunigystei"
+      "gloss": "kunigauti"
     },
     {
       "surface": "תחת",
-      "gloss": "vietoje"
+      "gloss": "vietoj"
     },
     {
       "surface": "אביו",
@@ -80,25 +64,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lininiais drabužiais"
+      "marks": "drobės rūbais"
     },
     {
       "surface": "בגדי",
-      "gloss": "drabužiais"
+      "gloss": "rūbais"
     },
     {
       "surface": "הבד",
-      "gloss": "lininiais"
+      "gloss": "drobės"
     },
     {
       "surface": "בגדי",
-      "gloss": "drabužiais"
+      "gloss": "rūbais"
     },
     {
       "surface": "הקדש",
-      "gloss": "šventaisiais"
+      "gloss": "šventumo"
     }
   ],
-  "timestamp": "2026-10-20T05:19:17.283290041Z",
+  "timestamp": "2026-10-20T12:38:09.802367731Z",
   "model": "glm-5.3"
 }

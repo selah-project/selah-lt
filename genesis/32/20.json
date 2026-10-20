@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גם ×3",
-      "rationale": "triskart pakartotas „gam“ — pakartojimo retorika, lietuvių „taip pat“ išlaiko"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "šnekos žymuo prieš „Esavui“ lietuviškai išnyksta"
-    }
-  ],
-  "translation": "Ir jis įsakė taip pat ⟨את⟩ antrajam, taip pat ⟨את⟩ trečiajam, taip pat ⟨את⟩ visiems, einantiems paskui bandas, sakydamas: Pagal šiuos žodžius kalbėsite Esavui, kai ⟨את⟩ jį rasite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/32\/17-20.1792471628745.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis įsakė taip pat antrajam, taip pat ⟨את⟩ trečiajam, taip pat ⟨את⟩ visiems, einantiems paskui kaimenes, sakydamas: šiuos žodžius kalbėsite Esavui, kai jį rasite ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "ir įsakė"
+      "gloss": "Ir įsakė"
     },
     {
       "surface": "גם",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "העדרים",
-      "gloss": "bandas"
+      "gloss": "kaimenes"
     },
     {
       "surface": "לאמר",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "pagal žodžius"
+      "gloss": "šiuos žodžius"
     },
     {
       "surface": "הזה",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-ui"
     },
     {
       "surface": "עשו",
@@ -114,9 +93,9 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ jį",
-      "marks": "jį"
+      "marks": "jį (Esavą)"
     }
   ],
-  "timestamp": "2026-10-20T04:47:08.751025571Z",
+  "timestamp": "2026-10-20T12:25:53.897909005Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "hebrajiškas prielinknis išreikštas lietuviška linksnio galūne (Mošei, Aharonui)"
-    }
-  ],
-  "translation": "Ir Jahvė prakalbo Mošei ir Aharonui, sakydamas:",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2bc33c49f60222c2f9155f6d75cdc4c065febcafe95794c1e3bac46c7b65feec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/33-36.1792473439924.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė kalbėjo Mošei ir ⟨את⟩ Aharonui, sakydamas:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ir prakalbo"
+      "gloss": "ir kalbėjo"
     },
     {
       "surface": "יהוה",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "משה",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir ⟨את⟩"
     },
     {
       "surface": "אהרן",
@@ -52,6 +36,6 @@
       "gloss": "sakydamas"
     }
   ],
-  "timestamp": "2026-10-20T05:17:19.925556290Z",
+  "timestamp": "2026-10-20T12:37:27.704306503Z",
   "model": "glm-5.3"
 }

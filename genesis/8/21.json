@@ -5,38 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל לבו",
-      "rationale": "hebrajiškas „el levavó“ — į širdį; sulietinta į „savo širdyje“"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ריח \/ הניחח",
-      "rationale": "kvapas \/ raminantis — ta pati šaknis nuo נוח (Noa, „raminti“), žodžių žaismas prarastas lietuviškai"
-    },
-    {
-      "kind": "idiom",
-      "subject": "לא אסף",
-      "rationale": "pažodžiui „nepridėsiu daugiau“, idiomatiškai „nebedarysiu“ — atkurta kaip „nebe… daugiau“"
-    },
-    {
-      "kind": "crux",
-      "subject": "יצר",
-      "rationale": "„širdies sumanymas“ vs „linkimas“ vs „vaizduotė“ — žodis reiškia suformuotą dalyką"
-    }
-  ],
-  "translation": "Ir Jahvė užuodė ⟨את⟩ raminantį kvapą, ir Jahvė tarė savo širdyje: nebeprakeiksiu daugiau žemės dėl žmogaus, nes žmogaus širdies sumanymas yra piktas nuo jaunystės, ir nebesmalsiu daugiau visko, kas gyva, kaip padariau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/8\/21-22.1792471086037.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė užuodė ⟨את⟩ ramumo kvapą, ir Jahvė tarė savo širdyje: nebeprakeiksiu daugiau ⟨את⟩ žemės dėl žmogaus, nes žmogaus širdies sumanymas yra piktas nuo jo jaunystės, ir nebesmuksiu daugiau ⟨את⟩ visko, kas gyva, kaip padariau.",
   "tokens": [
     {
       "surface": "וירח",
@@ -49,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raminantį kvapą"
+      "marks": "ramumo kvapą"
     },
     {
       "surface": "ריח",
@@ -57,7 +26,7 @@
     },
     {
       "surface": "הניחח",
-      "gloss": "raminantį"
+      "gloss": "ramumo"
     },
     {
       "surface": "ויאמר",
@@ -69,7 +38,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨ į ⟩"
     },
     {
       "surface": "לבו",
@@ -130,7 +99,7 @@
     },
     {
       "surface": "מנעריו",
-      "gloss": "nuo jaunystės"
+      "gloss": "nuo jo jaunystės"
     },
     {
       "surface": "ולא",
@@ -146,7 +115,7 @@
     },
     {
       "surface": "להכות",
-      "gloss": "smalsiu"
+      "gloss": "smuksiu"
     },
     {
       "surface": "את",
@@ -170,6 +139,6 @@
       "gloss": "padariau"
     }
   ],
-  "timestamp": "2026-10-20T04:38:06.038648306Z",
+  "timestamp": "2026-10-20T12:27:41.954635502Z",
   "model": "glm-5.3"
 }

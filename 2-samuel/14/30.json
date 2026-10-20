@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų vartojama patarle be veiksmažodžio; lietuvių reikalauja santykos."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אל ידי",
-      "rationale": "Pažodžiui „prie mano rankos” — reiškia „greta, šalia”; išlaikytas literalus paveikslas."
-    }
-  ],
-  "translation": "Ir jis tarė savo tarnams: Žiūrėkite, Joabo laukas ⟨yra⟩ prie mano rankos, ir ten jam ⟨yra⟩ miežių; eikite ir padekite jį ugnimi. Ir Avšalomo tarnai padegino ⟨את⟩ lauką ugnimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/14\/29-32.1792478419489.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis tarė savo tarnams: Žiūrėkite, Joabo laukas yra šalia manojo, ir ten ⟨yra⟩ miežių — eikite ir padegkite jį ugnimi. Ir Avšalomo tarnai padegė ⟨את⟩ lauką ugnimi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "אל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "prie"
+      "gloss": "šalia"
     },
     {
       "surface": "ידי",
-      "gloss": "mano rankos"
+      "gloss": "manojo"
     },
     {
       "surface": "ולו",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "והוצתיה",
-      "gloss": "ir padekite jį"
+      "gloss": "ir padegkite jį"
     },
     {
       "surface": "באש",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ויצתו",
-      "gloss": "ir padegino"
+      "gloss": "Ir padegė"
     },
     {
       "surface": "עבדי",
@@ -110,6 +89,6 @@
       "gloss": "ugnimi"
     }
   ],
-  "timestamp": "2026-10-20T06:40:19.492240538Z",
+  "timestamp": "2026-10-20T12:13:31.845507140Z",
   "model": "glm-5.3"
 }

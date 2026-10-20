@@ -5,38 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ותעמד בחל",
-      "rationale": "„ji stovėjo griovyje \/ prie pylimo“ — veikėja gali būti siena, pylimas ar griovys; verčiantys nesutaria"
-    },
-    {
-      "kind": "crux",
-      "subject": "משחיתם",
-      "rationale": "„ardė juos \/ ją“ — daugiskaitos galūnė -ם neaiški: siena (sg.) ar žmonės; tekstas neaiškus"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨su⟩",
-      "rationale": "את יואב čia reiškia „tie, kurie su Joabu“ — prielinksnis pridėtas lietuviškai"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וישפכו סללה",
-      "rationale": "pažodžiui „išpylė pylimą“ — apgulties pylimas"
-    }
-  ],
-  "translation": "Ir jie atėjo ir apsupo jį Abele Beit Maachoje, ir supylė pylimą prie miesto, ir jis stovėjo prie griovio; ir visi žmonės, kurie ⟨su⟩ Joabu, ardė ⟨juos⟩, kad nugriautų sieną.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7120b89be40f9f73844613ffaeb44ec0a7f73a1b0699fa68aeacec9792354e9f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/20\/13-16.1792478517557.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie atėjo ir apgulė jį Abele, Beto Maachos, ir supylė pylimą priešais miestą, ir ⟨ji⟩ stovėjo priešais įtvirtinimą; o visi žmonės, kurie ⟨את⟩ Joabu, niokojo — griauti sieną.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "ויצרו",
-      "gloss": "ir apsupo"
+      "gloss": "ir apgulė"
     },
     {
       "surface": "עליו",
-      "gloss": "ją"
+      "gloss": "jį"
     },
     {
       "surface": "באבלה",
@@ -56,14 +25,14 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beto"
     },
     {
       "surface": "המעכה",
-      "gloss": "Maachoje"
+      "gloss": "Maachos"
     },
     {
-      "surface": "וישפכu",
+      "surface": "וישפכו",
       "gloss": "ir supylė"
     },
     {
@@ -72,11 +41,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "prie"
+      "gloss": "priešais"
     },
     {
       "surface": "העיר",
-      "gloss": "miesto"
+      "gloss": "miestą"
     },
     {
       "surface": "ותעמד",
@@ -84,11 +53,11 @@
     },
     {
       "surface": "בחל",
-      "gloss": "prie griovio"
+      "gloss": "priešais įtvirtinimą"
     },
     {
       "surface": "וכל",
-      "gloss": "ir visi"
+      "gloss": "o visi"
     },
     {
       "surface": "העם",
@@ -101,25 +70,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joabą"
+      "marks": "Joabu"
     },
     {
       "surface": "יואב",
-      "gloss": "Joabą"
+      "gloss": "Joabu"
     },
     {
       "surface": "משחיתם",
-      "gloss": "ardė"
+      "gloss": "niokojo"
     },
     {
       "surface": "להפיל",
-      "gloss": "kad nugriautų"
+      "gloss": "griauti"
     },
     {
       "surface": "החומה",
       "gloss": "sieną"
     }
   ],
-  "timestamp": "2026-10-20T06:41:57.559400875Z",
+  "timestamp": "2026-10-20T12:14:50.652767907Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 91,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מפח יקוש",
-      "rationale": "'spąstai-ludotojas' arba 'spąstai, kurie vėžioja' — įvairiai: ' paukščių medžiotojo spąstai', 'pintų spąstų'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "מדבר הוות",
-      "rationale": "Būdvardinė konstrukcija 'maras pražūties' lietuviškai išskaidyta į du žodžius."
-    }
-  ],
-  "translation": "Juk Jis tave išgelbės nuo spąstų, nuo spąstų žudančio maro.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/91\/1-4.1792488723998.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes jis išgelbės tave nuo spąstų paukštininko, nuo maro, kuris naikina.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Juk"
+      "gloss": "nes"
     },
     {
       "surface": "הוא",
-      "gloss": "Jis"
+      "gloss": "jis"
     },
     {
       "surface": "יצילך",
-      "gloss": "tave išgelbės"
+      "gloss": "išgelbės tave"
     },
     {
       "surface": "מפח",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "יקוש",
-      "gloss": "<ludotojo>"
+      "gloss": "paukštininko"
     },
     {
       "surface": "מדבר",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "הוות",
-      "gloss": "žudančio <pražūties>"
+      "gloss": "kuris naikina"
     }
   ],
-  "timestamp": "2026-10-20T09:32:03.998893211Z",
+  "timestamp": "2026-10-20T12:43:39.614378985Z",
   "model": "glm-5.3"
 }

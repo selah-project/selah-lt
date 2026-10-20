@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tai yra⟩",
-      "rationale": "Hebrajiškas ירושלם čia yra paaiškinamasis įvardijimas po 'miesto' — pridėta siejamoji grandis."
-    },
-    {
-      "kind": "substitution",
-      "subject": "namus",
-      "rationale": "הבית — namai, šventykla kaip namas; ne 'šventykla' kaip atskiras žodis."
-    }
-  ],
-  "translation": "Ir Jahvė tarė: Ir ⟨את⟩ Jehudą aš pašalinsiu nuo savo veido, kaip pašalinau ⟨את⟩ Jisraelį, ir atmesiu ⟨את⟩ šitą miestą, kurį išsirinkau, ⟨tai yra⟩ Jerušalaimą, ir ⟨את⟩ namus, apie kuriuos sakiau: Mano vardas ten bus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7aa2e3b5ae2d05b4eab2df96481f671392b5fed3e75e3885f13c557fa87c2082",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/23\/25-28.1792480466701.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė: Ir ⟨את⟩ Jūdą aš atitrauksiu nuo savo veido, kaip atitraukiau ⟨את⟩ Jisraelį, ir atmesių ⟨את⟩ šį miestą, kurį išsirinkau, ⟨את⟩ Jerušalaimą, ir ⟨את⟩ šitą namą, apie kurį sakiau: mano vardas bus ten.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "גם",
-      "gloss": "Ir"
+      "gloss": "ir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehudą"
+      "marks": "Jūdą"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehudą"
+      "gloss": "Jūdą"
     },
     {
       "surface": "אסיר",
-      "gloss": "aš pašalinsiu"
+      "gloss": "aš atitrauksiu"
     },
     {
       "surface": "מעל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "הסרתי",
-      "gloss": "pašalinau"
+      "gloss": "atitraukiau"
     },
     {
       "surface": "את",
@@ -80,12 +59,12 @@
     },
     {
       "surface": "ומאסתי",
-      "gloss": "ir atmesiu"
+      "gloss": "ir atmesiū"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šitą miestą"
+      "marks": "šį miestą"
     },
     {
       "surface": "העיר",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "šitą"
+      "gloss": "šį"
     },
     {
       "surface": "אשר",
@@ -115,15 +94,15 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "namus"
+      "marks": "šitą namą"
     },
     {
       "surface": "הבית",
-      "gloss": "namus"
+      "gloss": "namą"
     },
     {
       "surface": "אשר",
-      "gloss": "apie kuriuos"
+      "gloss": "apie kurį"
     },
     {
       "surface": "אמרתי",
@@ -135,13 +114,13 @@
     },
     {
       "surface": "שמי",
-      "gloss": "Mano vardas"
+      "gloss": "mano vardas"
     },
     {
       "surface": "שם",
       "gloss": "ten"
     }
   ],
-  "timestamp": "2026-10-20T07:14:26.703334331Z",
+  "timestamp": "2026-10-20T12:12:04.968375636Z",
   "model": "glm-5.3"
 }

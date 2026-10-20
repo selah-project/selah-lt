@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Aramo stovykla",
-      "rationale": "ארם yra Aramas, ne 'Sirija' — tautos vardas išlaikomas."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrajiškas junginys 'tik\/nei kitaip kaip' išverstas vienu žodžiu 'tik'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אסור…אסור",
-      "rationale": "Pakartotas žodis 'pririštas' — hebrajiškoji analogija išlaikyta."
-    }
-  ],
-  "translation": "Ir jie atėjo, pašaukė miesto vartininkus ir pranešė jiems, sakydami: Atėjome į Aramo stovyklą, ir štai — ten nėra nė vieno žmogaus, nė žmogaus balso, tik arklys pririštas ir asilas pririštas, ir palapinės, kaip jos buvo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/7\/9-12.1792480052837.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie atėjo ir pašaukė miesto vartininkus, ir pranešė jiems, sakydami: Atėjome į Aramo stovyklą, ir štai — ten nėra nė vieno žmogaus ir nė žmogaus balso, tik arklys pririštas ir asilas pririštas, ir palapinės tokios, kokios yra.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "ir atėjo"
+      "gloss": "ir jie atėjo"
     },
     {
       "surface": "ויקראו",
-      "gloss": "pašaukė"
+      "gloss": "ir pašaukė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "שער",
@@ -95,11 +69,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "žmogaus"
+      "gloss": "nė vieno žmogaus"
     },
     {
       "surface": "וקול",
-      "gloss": "nė balso"
+      "gloss": "ir balso"
     },
     {
       "surface": "אדם",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "הסוס",
@@ -135,13 +109,13 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kaip"
+      "gloss": "kokios"
     },
     {
       "surface": "המה",
-      "gloss": "jos buvo"
+      "gloss": "yra"
     }
   ],
-  "timestamp": "2026-10-20T07:07:32.840809088Z",
+  "timestamp": "2026-10-20T12:13:13.636207590Z",
   "model": "glm-5.3"
 }

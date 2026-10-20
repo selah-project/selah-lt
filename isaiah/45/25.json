@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "copula",
-      "rationale": "Hebrew has no verb 'to be'; Lithuanian requires 'bus'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "teisūs",
-      "rationale": "יצדקו iš šaknies cedek — 'bus teisūs \/ bus išteisinti', ne vėlyvoji 'pateisinti'"
-    }
-  ],
-  "translation": "Jahvėje bus teisūs ir girtis visos Jisraelio sėklos <visos> palikuonys.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "688294ad878606561a3265e29ceaf7beceae8a95a3142cceab3f085a9c099599",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/45\/25-25.1792481550062.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahvėje bus teisūs ir gėrėsis visas Jisraelio seklos — visi Jisraelio palikuonys.",
   "tokens": [
     {
       "surface": "ביהוה",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "ויתהללו",
-      "gloss": "ir girtis"
+      "gloss": "ir gėrėsis"
     },
     {
       "surface": "כל",
-      "gloss": "visos"
+      "gloss": "visas"
     },
     {
       "surface": "זרע",
-      "gloss": "sėklos palikuonys"
+      "gloss": "seklos"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T07:32:30.062765973Z",
+  "timestamp": "2026-10-20T12:28:56.268605787Z",
   "model": "glm-5.3"
 }

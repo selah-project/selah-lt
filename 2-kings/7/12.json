@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Aramas",
-      "rationale": "ארם — tautos vardas, ne 'Sirija'."
-    },
-    {
-      "kind": "crux",
-      "subject": "בהשדה",
-      "rationale": "Ketibas 'הַשָּׂדֶה' prieš qerė 'הַשָּׂדֶה' — 'lauke' abiem atvejais; smulkus skyrybos skirtumas be reikšmės pakitimo."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אגידה נא",
-      "rationale": "'Pranešiu, maldauju' — נא minkštinamoji dalelytė, išversta 'dabar'."
-    }
-  ],
-  "translation": "Ir karalius pakilo naktį ir tarė savo tarnams: Pranešiu jums dabar ⟨את⟩, ką mums padarė Aramas. Jie žino, kad mes alkani, todėl išėjo iš stovyklos pasislėpti lauke, sakydami: Kai jie išeis iš miesto, pagriebsime juos gyvus ir į miestą įeisime.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/7\/9-12.1792480052837.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius atsikėlė nakčia ir tarė savo tarnams: Leiskite man jums pasakyti, ⟨את⟩ ką padarė mums Aramas. Jie žino, kad mes alkani, todėl jie išėjo iš stovyklos pasislėpti lauke, sakydami: Kai jie išeis iš miesto, mes pagausime juos gyvus ir įeisime į miestą.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "ir pakilo"
+      "gloss": "ir atsikėlė"
     },
     {
       "surface": "המלך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "לילה",
-      "gloss": "naktį"
+      "gloss": "nakčia"
     },
     {
       "surface": "ויאמר",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "savo tarnams"
     },
     {
       "surface": "עבדיו",
-      "gloss": "saviems tarnams"
+      "gloss": "tarnams"
     },
     {
       "surface": "אגידה",
-      "gloss": "pranešiu"
+      "gloss": "leiskite pasakyti"
     },
     {
       "surface": "נא",
-      "gloss": "dabar"
+      "gloss": "meldžiu"
     },
     {
       "surface": "לכם",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "ויצאו",
-      "gloss": "ir išėjo"
+      "gloss": "todėl jie išėjo"
     },
     {
       "surface": "מן",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "יצאו",
-      "gloss": "išeis"
+      "gloss": "jie išeis"
     },
     {
       "surface": "מן",
@@ -148,7 +122,7 @@
     },
     {
       "surface": "ונתפשם",
-      "gloss": "pagriebsime juos"
+      "gloss": "pagausime juos"
     },
     {
       "surface": "חיים",
@@ -167,6 +141,6 @@
       "gloss": "įeisime"
     }
   ],
-  "timestamp": "2026-10-20T07:07:32.842185837Z",
+  "timestamp": "2026-10-20T12:13:00.234261382Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "job",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "j",
-      "rationale": "nepažymėta — vardininko 'jo vieta' hebrajiškameTv konstrukte"
-    }
-  ],
-  "translation": "Nebeį sugrįš į savo namus, ir jo vieta jo nebeatpažins.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/7\/9-12.1792490113579.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jis nesugrįš daugiau į savo namus, ir jo vieta daugiau ⟨jo⟩ nepažins.",
   "tokens": [
     {
       "surface": "לא",
@@ -33,33 +17,29 @@
     },
     {
       "surface": "עוד",
-      "gloss": "nebe"
+      "gloss": "daugiau"
     },
     {
       "surface": "לביתו",
       "gloss": "į savo namus"
     },
     {
-      "surface": "ו",
-      "gloss": "ir"
-    },
-    {
-      "surface": "לא",
-      "gloss": "ne"
+      "surface": "ולא",
+      "gloss": "ir ne"
     },
     {
       "surface": "יכירנו",
-      "gloss": "nebeatpažins"
+      "gloss": "jo nepažins"
     },
     {
       "surface": "עוד",
-      "gloss": "nebe"
+      "gloss": "daugiau"
     },
     {
-      "surface": "מקומו",
+      "surface": "מקמו",
       "gloss": "jo vieta"
     }
   ],
-  "timestamp": "2026-10-20T09:55:13.580587401Z",
+  "timestamp": "2026-10-20T12:33:22.899040976Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "jungą",
-      "rationale": "Lietuvių dėmuo „jungą“ perkeltas prie „geležies“, nes hebrajų konstrukcija על ברזל yra construct — „geležies jungas“."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבדת\/עבדת",
-      "rationale": "Pakartota šaknis עבד — netarnavai (v.47), todėl tarnausi (v.48) — hebrajų atsvara dingusi lietuvių atitikmenyje."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "Tęsiamas antrojo asmens addressas su bausmės proklamacija."
-    }
-  ],
-  "translation": "Ir tarnausi savo priešams, kuriuos Jahvė siųs prieš tave, badu, troškimu, nuogumu ir stokojant visko; ir jis uždės geležies jungą ant tavo sprando, iki jis tave ⟨את⟩ sunaikins.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/45-48.1792475511358.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarnausi ⟨את⟩ savo priešams, kuriuos Jahvė pasiųs prieš tave — badmetį, troškulio metu, nuogumo metu ir stokodamas visko; ir jis uždės geležies jungą ant tavo sprando, kol ⟨jis⟩ tave ⟨את⟩ sunaikins.",
   "tokens": [
     {
       "surface": "ועבדת",
-      "gloss": "Ir tarnausi"
+      "gloss": "ir tarnausi"
     },
     {
       "surface": "את",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "ישלחנו",
-      "gloss": "Jahvė siųs"
+      "gloss": "pasiųs"
     },
     {
       "surface": "יהוה",
@@ -64,19 +38,19 @@
     },
     {
       "surface": "ברעב",
-      "gloss": "badu"
+      "gloss": "badmetį"
     },
     {
       "surface": "ובצמא",
-      "gloss": "troškimu"
+      "gloss": "troškulio metu"
     },
     {
       "surface": "ובעירם",
-      "gloss": "nuogumu"
+      "gloss": "nuogumo metu"
     },
     {
       "surface": "ובחסר",
-      "gloss": "ir stokojant"
+      "gloss": "stokodamas"
     },
     {
       "surface": "כל",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "ir jis uždės"
+      "gloss": "ir uždės"
     },
     {
       "surface": "על",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "iki"
+      "gloss": "kol"
     },
     {
       "surface": "השמידו",
-      "gloss": "jis sunaikins"
+      "gloss": "sunaikins"
     },
     {
       "surface": "אתך",
@@ -116,6 +90,6 @@
       "marks": "tave"
     }
   ],
-  "timestamp": "2026-10-20T05:51:51.362548967Z",
+  "timestamp": "2026-10-20T13:26:21.796203969Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אודת",
-      "rationale": "על אודות — sudurtinė prielinksmio išraiška „dėl\", lietuviškai vienu žodžiu"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨kad⟩",
-      "rationale": "hebrajų turi parataksę; lietuvių reikalauja jungtuko paskutiniam sakiniui"
-    }
-  ],
-  "translation": "Ir Mošė papasakojo savo uošviui ⟨את⟩ visa, ką Jahvė padarė Parohui ir Micraimui dėl Jisraelio: ⟨את⟩ visą vargą, kuris juos ištiko kelyje, ir ⟨kad⟩ Jahvė juos išgelbėjo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1462f57dd45120a449fc42a0966db636b332ad3bdc9f0379665d15af46473121",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/18\/5-8.1792472575921.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė papasakojo savo uošviui ⟨את⟩ viską, ką Jahvė padarė Parohui ir Micraimui dėl Jisraelio, ⟨את⟩ visą vargą, kuris ištiko juos kelyje, ir Jahvė juos išgelbėjo.",
   "tokens": [
     {
       "surface": "ויספר",
-      "gloss": "ir papasakojo"
+      "gloss": "papasakojo"
     },
     {
       "surface": "משה",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visa, ką Jahvė padarė"
+      "marks": "viską, ką Jahvė padarė"
     },
     {
       "surface": "כל",
-      "gloss": "visa"
+      "gloss": "viską"
     },
     {
       "surface": "אשר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "אודת",
-      "gloss": ""
+      "gloss": "dėl"
     },
     {
       "surface": "ישראל",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "מצאתם",
-      "gloss": "juos ištiko"
+      "gloss": "ištiko juos"
     },
     {
       "surface": "בדרך",
@@ -115,6 +94,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T05:02:55.927742260Z",
+  "timestamp": "2026-10-20T12:19:26.925740600Z",
   "model": "glm-5.3"
 }

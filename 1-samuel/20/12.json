@@ -5,50 +5,19 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "גליתי את אזנך",
-      "rationale": "Pažodžiui „atidengsiu tavo ausį“ — idiomą „atskleisti, pranešti“."
-    },
-    {
-      "kind": "crux",
-      "subject": "כי",
-      "rationale": "Priesaga כי po Vardo: arba priesaikas „kad Jahvė taip padarytų…“, arba laiko sąsaja „kai“ — vertėjai skirtingai."
-    },
-    {
-      "kind": "secret",
-      "subject": "אחקר את אבי",
-      "rationale": "Tyčia slapta iškvėpa tėvo ketinimų — paslapties motyvas tarp sąjungos draugų."
-    },
-    {
-      "kind": "you",
-      "subject": "Jehonatanas Davidui",
-      "rationale": "Tiesioginis kreipimasis su priesaika Vardo."
-    }
-  ],
-  "translation": "Ir tarė Jehonatanas Davidui: Jahvė, Jisraelio Elohim! Kai ištyrinėsiu ⟨את⟩ savo tėvą šiuo metu rytoj ar trečią dieną, ir štai gera Davidui, tai aš nesiųsiu pas tave ir neatversiu ⟨את⟩ tavo ausies —",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/20\/9-12.1792477473502.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Jonatanas Davidui: Jahvė, Jisraelio Elohim — kai rytoj apie šį laiką ar trečią dieną iškverosiu ⟨את⟩ savo tėvą, ir štai ⟨bus⟩ gerai Davidui, tai ⟨ne⟩ neišsiųsiu pas tave ir neatskleisiu tau ⟨⟨את⟩ tavo ausį⟩ —",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jehonatanas"
+      "gloss": "Jonatanas"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "דוד",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "אחקר",
-      "gloss": "ištyrinėsiu"
+      "gloss": "iškverosiu"
     },
     {
       "surface": "את",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "כעת",
-      "gloss": "šiuo metu"
+      "gloss": "apie šį laiką"
     },
     {
       "surface": "מחר",
@@ -101,11 +70,11 @@
     },
     {
       "surface": "טוב",
-      "gloss": "gera"
+      "gloss": "gerai"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "דוד",
@@ -113,15 +82,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "tai ⟨ne⟩ neišsiųsiu"
     },
     {
       "surface": "אז",
-      "gloss": "tuomet"
+      "gloss": "neišsiųsiu"
     },
     {
       "surface": "אשלח",
-      "gloss": "siųsiu"
+      "gloss": "neišsiųsiu"
     },
     {
       "surface": "אליך",
@@ -129,7 +98,7 @@
     },
     {
       "surface": "וגליתי",
-      "gloss": "ir atversiu"
+      "gloss": "neatskleisiu"
     },
     {
       "surface": "את",
@@ -141,6 +110,6 @@
       "gloss": "tavo ausį"
     }
   ],
-  "timestamp": "2026-10-20T06:24:33.545331052Z",
+  "timestamp": "2026-10-20T12:08:22.664784873Z",
   "model": "glm-5.3"
 }

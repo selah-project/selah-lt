@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "pi",
-      "rationale": "hebrajiškai 'peržengiau Jahvės burną' — burna reiškia įsakymą, lietuviškai perkelta"
-    }
-  ],
-  "translation": "Ir Šaulis tarė Šmueliui: Nusidėjau, nes peržengiau Jahvės įsakymą ir tavo žodžius, nes bijojau ⟨את⟩ tautos ir klausiau jų balso.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/21-24.1792477285623.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šaulis tarė Šmueliui: Nusidėjau, nes peržengiau ⟨את⟩ Jahvės žodį ir ⟨את⟩ tavo žodžius, nes pabijau ⟨את⟩ žmonių ir paklausiau jų balso.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "שמואל",
@@ -54,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvės įsakymą"
+      "marks": "Jahvės žodį"
     },
     {
       "surface": "פי",
-      "gloss": "įsakymą"
+      "gloss": "žodį (pažodžiui: burną)"
     },
     {
       "surface": "יהוה",
@@ -79,26 +63,26 @@
     },
     {
       "surface": "יראתי",
-      "gloss": "bijojau"
+      "gloss": "pabijau"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tautą"
+      "marks": "žmonių"
     },
     {
       "surface": "העם",
-      "gloss": "tautą"
+      "gloss": "žmonių"
     },
     {
       "surface": "ואשמע",
-      "gloss": "ir klausiau"
+      "gloss": "ir paklausiau"
     },
     {
       "surface": "בקולם",
       "gloss": "jų balso"
     }
   ],
-  "timestamp": "2026-10-20T06:21:25.627597557Z",
+  "timestamp": "2026-10-20T12:07:48.361517720Z",
   "model": "glm-5.3"
 }

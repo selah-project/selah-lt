@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajų kalba „kuri su juo“ be veiksmažodžio; lietuvių kalbai pirmoje ištraukoje reikia „buvo“"
-    },
-    {
-      "kind": "you",
-      "subject": "Avimelechas savo žmonėms",
-      "rationale": "Tiesioginis kreipimasis: „Ką matėte… darykite kaip aš“ — imperatyvas minių tautai"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שכמו",
-      "rationale": "Avimelechas uždeda šaką ant שכמו („pečių“) — tos pačios šaknies žodis kaip miesto vardas Šechemas; žodžių žaismas lietuviškai dingsta"
-    }
-  ],
-  "translation": "Ir Avimelechas užlipo į Calmono kalną — jis ir visa tauta, kuri ⟨buvo⟩ su juo; ir paėmė Avimelechas ⟨את⟩ kirvius į ranką savo, ir nukirto medžių šaką, ir pakėlė ją, ir uždėjo ant pečių savo, ir tarė tautai, kuri su juo: Ką matėte mane darantį, paskubėkite — darykite kaip aš.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b9b5598747c22d35b35a73be3d1eb0ea55eb6e528e71e9225809a711a7ad4243",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/9\/45-48.1792476569561.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Avimelechas užkopė į Calmono kalną — jis ir visas žmonės, kurie ⟨su אתו⟩ juo; ir Avimelechas paėmė ⟨את⟩ kirvius į savo ranką, ir nukirto šaką medžių, ir pakėlė ⟨ją⟩, ir padėjo ant savo peties, ir tarė žmonėms, kurie su juo: Ką matėte man darant — paskubėkite, darykite kaip aš!",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "Ir užlipo"
+      "gloss": "užkopė"
     },
     {
       "surface": "אבימלך",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ir visa"
+      "gloss": "ir visas"
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmonės"
     },
     {
       "surface": "אשר",
-      "gloss": "kuri"
+      "gloss": "kurie"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨su אתו⟩ juo"
     },
     {
       "surface": "ויקח",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "בידו",
-      "gloss": "į ranką savo"
+      "gloss": "į savo ranką"
     },
     {
       "surface": "ויכרת",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "וישאה",
-      "gloss": "ir pakėlė ją"
+      "gloss": "ir pakėlė"
     },
     {
       "surface": "וישם",
-      "gloss": "ir uždėjo"
+      "gloss": "ir padėjo"
     },
     {
       "surface": "על",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "שכמו",
-      "gloss": "pečių savo"
+      "gloss": "savo peties"
     },
     {
       "surface": "ויאמר",
@@ -124,15 +98,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "-"
     },
     {
       "surface": "העם",
-      "gloss": "tautai"
+      "gloss": "žmonėms"
     },
     {
       "surface": "אשר",
-      "gloss": "kuri"
+      "gloss": "kurie"
     },
     {
       "surface": "עמו",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "Ką"
+      "gloss": "ką"
     },
     {
       "surface": "ראיתם",
@@ -148,7 +122,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "mane darantį"
+      "gloss": "man darant"
     },
     {
       "surface": "מהרו",
@@ -163,6 +137,6 @@
       "gloss": "kaip aš"
     }
   ],
-  "timestamp": "2026-10-20T06:09:29.563970457Z",
+  "timestamp": "2026-10-20T12:37:46.018748790Z",
   "model": "glm-5.3"
 }

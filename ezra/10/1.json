@@ -5,33 +5,11 @@
   "book": "ezra",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בכה\/בכו\/בכה",
-      "rationale": "Trijų kamufliažo šaknies formų žaismas — verksmo garsu pakartojimas, lietuviškai neišlaikomas."
-    },
-    {
-      "kind": "elision",
-      "subject": "את (v. 2)",
-      "gloss-notice": "",
-      "rationale": "Pasisakymo žymiklis וכהתודתו objektui pateikiamas kaip ⟨את⟩ glose."
-    }
-  ],
-  "translation": "Ir kai Ezra meldėsi ir kai išpažino ⟨את⟩, verkdamas ir puldamasis ant žemės prieš Elohim namus, susirinko pas jį iš Jisraelio labai didelis susirinkimas — vyrai ir moterys bei vaikai, nes tauta verkė gausiai ašarodama.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6731ef52a71b0236679f1e24b1892bf70b9acb474bd0a3431715e44e7a152789",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezra\/10\/1-4.1792492235676.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kol Ezra meldėsi ir išpažino, verkdamas ir puoledamas veidu žemėn prieš Elohim namus, prie jį susirinko iš Jisraelio susirinkimas, labai didelis — vyrai ir moterys bei vaikai, nes tauta verkė gausiu verksmu.",
   "tokens": [
     {
       "surface": "וכהתפלל",
-      "gloss": "ir kai meldėsi"
+      "gloss": "kol Ezra meldėsi"
     },
     {
       "surface": "עזרא",
@@ -39,8 +17,7 @@
     },
     {
       "surface": "וכהתודתו",
-      "gloss": "ir kai išpažino ⟨את⟩",
-      "marks": "išpažintis"
+      "gloss": "ir išpažino"
     },
     {
       "surface": "בכה",
@@ -48,7 +25,7 @@
     },
     {
       "surface": "ומתנפל",
-      "gloss": "ir puldamasis ant žemės"
+      "gloss": "ir puoledamas veidu žemėn"
     },
     {
       "surface": "לפני",
@@ -68,7 +45,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "pas jį"
+      "gloss": "prie jį"
     },
     {
       "surface": "מישראל",
@@ -96,7 +73,7 @@
     },
     {
       "surface": "וילדים",
-      "gloss": "ir vaikai"
+      "gloss": "bei vaikai"
     },
     {
       "surface": "כי",
@@ -112,13 +89,13 @@
     },
     {
       "surface": "הרבה",
-      "gloss": "gausiai"
+      "gloss": "gausiu"
     },
     {
       "surface": "בכה",
-      "gloss": "ašarodama"
+      "gloss": "verksmu"
     }
   ],
-  "timestamp": "2026-10-20T10:30:35.677601552Z",
+  "timestamp": "2026-10-20T12:24:00.223426861Z",
   "model": "glm-5.3"
 }

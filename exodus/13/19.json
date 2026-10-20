@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הִשְׁבֵּעַ הִשְׁבִיעַ",
-      "rationale": "Priesaikos žodžio kartojimas — 'prisaikdino prisiekinu' — lietuvių kalboje išreikšta vienu veiksmažodžiu su priesauga."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פָּקֹד יִפְקֹד",
-      "rationale": "Būsimojo laiko infinitivo kartojimas — 'tikrai apsilankys' — hebrajiškasis stiprinamasis kartojimas."
-    },
-    {
-      "kind": "crux",
-      "subject": "פָּקַד",
-      "rationale": "'Apsilankys' \/ 'atmintinai prisimins' \/ 'išlaisvins' — plataus spektro veiksmažodis, JPS renkasi 'remember'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אִתְכֶם",
-      "rationale": "Paskutinis אתכם yra H854 'su jumis', ne DOM žymuo, bet pagal taisyklę glose išlaikytas ⟨את⟩."
-    }
-  ],
-  "translation": "Ir Mošė pasiėmė ⟨את⟩ Jozefo kaulus su savimi, nes jis griežtai prisakė priesaiką Jisraelio sūnums, sakydamas: 'Apsilankys Elohim ⟨את⟩ jūsų, ir tuomet iškelkite ⟨את⟩ mano kaulus iš čia su savimi.'",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "09b0b668bc2f910a70fe159cedc0044809f8bafb4a380b685ec4f2a3c35cac43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/13\/17-20.1792472480854.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė pasiėmė ⟨את⟩ Jozefo kaulus su savimi, nes griežtai prisaikdino ⟨את⟩ Jisraelio sūnūs, sakydamas: Apsilankydamas apsilankys Elohim ⟨את⟩jūsų, ir iškelkite ⟨את⟩ mano kaulus iš čia su savimi.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ir pasiėmė"
+      "gloss": "pasiėmė"
     },
     {
       "surface": "משה",
@@ -49,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaulus"
+      "marks": "Jozefo kaulus"
     },
     {
       "surface": "עצמות",
@@ -69,20 +38,20 @@
     },
     {
       "surface": "השבע",
-      "gloss": "prisakė priesaiką"
+      "gloss": "griežtai prisaikdino"
     },
     {
       "surface": "השביע",
-      "gloss": "griežtai įpareigojo"
+      "gloss": "prisaikdino"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sūnums"
+      "marks": "Jisraelio sūnūs"
     },
     {
       "surface": "בני",
-      "gloss": "sūnums"
+      "gloss": "sūnūs"
     },
     {
       "surface": "ישראל",
@@ -94,11 +63,11 @@
     },
     {
       "surface": "פקד",
-      "gloss": "apsilankys"
+      "gloss": "apsilankydamas"
     },
     {
       "surface": "יפקד",
-      "gloss": "tikrai apsilankys"
+      "gloss": "apsilankys"
     },
     {
       "surface": "אלהים",
@@ -106,8 +75,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "jūsų"
+      "gloss": "⟨את⟩jūsų"
     },
     {
       "surface": "והעליתם",
@@ -128,9 +96,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "su savimi ⟨את⟩"
+      "gloss": "⟨את⟩ su savimi"
     }
   ],
-  "timestamp": "2026-10-20T05:01:20.859687332Z",
+  "timestamp": "2026-10-20T12:18:48.548224688Z",
   "model": "glm-5.3"
 }

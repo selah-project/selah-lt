@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šni — raudonas dažas iš kirmėlės",
-      "rationale": "שני התולעת pažodžiui 'kirmėlės raudonis' — iš košenilinės kirmėlės gaunamas purpuras"
-    },
-    {
-      "kind": "alternative",
-      "subject": "panardins juos",
-      "rationale": "neaišku, ar kraujyje panardinami visi daiktai kartu, ar tik paukštis — vertėjai skirtingasi"
-    }
-  ],
-  "translation": "⟨את⟩ paukštį gyvąjį paims, ⟨את⟩ medį cedro ir ⟨את⟩ šni­ — raudoną dažą iš kirmėlės — ir ⟨את⟩ izopą, ir panardins ⟨את⟩ juos ir ⟨את⟩ paukštį gyvąjį kraujyje paukščio pakastojo, virš vandens gyvojo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/5-8.1792473452041.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gyvąjį paukštį jis ims ⟨את⟩ jį, ir kedro medį, ir šarlakano dažą, ir čiobrelio žolę, ir panardins juos bei gyvąjį paukštį kraujyje paukščio, kuris buvo užskersta, virš gyvojo vandens.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "paukštį gyvąjį"
+      "marks": "gyvąjį paukštį"
     },
     {
       "surface": "הצפר",
@@ -43,16 +22,17 @@
     },
     {
       "surface": "יקח",
-      "gloss": "paims"
+      "gloss": "ims"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨jį⟩"
+      "gloss": "⟨את⟩",
+      "marks": "jį (gyvąjį paukštį)"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "medį cedro"
+      "marks": "kedro medį"
     },
     {
       "surface": "עץ",
@@ -60,29 +40,29 @@
     },
     {
       "surface": "הארז",
-      "gloss": "cedro"
+      "gloss": "kedro"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "raudoną dažą"
+      "marks": "šarlakano dažą"
     },
     {
       "surface": "שני",
-      "gloss": "raudoną dažą"
+      "gloss": "šarlakano dažą"
     },
     {
       "surface": "התולעת",
-      "gloss": "iš kirmėlės"
+      "gloss": "iš kirmėlės (dažo)"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "izopą"
+      "marks": "čiobrelio žolę"
     },
     {
       "surface": "האזב",
-      "gloss": "izopą"
+      "gloss": "čiobrelio žolę"
     },
     {
       "surface": "וטבל",
@@ -90,12 +70,13 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "juos ⟨את⟩",
+      "marks": "medį, dažą, žolę"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "paukštį gyvąjį"
+      "marks": "gyvąjį paukštį"
     },
     {
       "surface": "הצפר",
@@ -115,7 +96,7 @@
     },
     {
       "surface": "השחטה",
-      "gloss": "pakastojo"
+      "gloss": "užskersta"
     },
     {
       "surface": "על",
@@ -130,6 +111,6 @@
       "gloss": "gyvojo"
     }
   ],
-  "timestamp": "2026-10-20T05:17:32.045388239Z",
+  "timestamp": "2026-10-20T12:38:08.216283042Z",
   "model": "glm-5.3"
 }

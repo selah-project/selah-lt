@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתי",
-      "rationale": "Pažodžiui 'manęs' — ⟨את⟩ su pirmojo asmens galūne, rodo tiesioginį objektą 'mane'."
-    },
-    {
-      "kind": "crux",
-      "subject": "מקני",
-      "rationale": "'Mikne' — gyvasis turtas, galvijai; 'mano galvijus' vietoj abstraktaus 'mano turto'."
-    }
-  ],
-  "translation": "Ir ten troško tauta vandens, ir tauta murmėjo prieš Mošę, ir tarė: Kodėl tai, kad išvedei mus iš Micraimo, kad nužudytum mane ir ⟨את⟩ mano sūnus ir ⟨את⟩ mano galvijus troškuliu?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/17\/1-4.1792472614496.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ten žmonės troško vandens, ir žmonės murmėjo prieš Mošę, sakydami: Kodėl šitai — tu išvedei mus iš Micraimo, kad numarintum mane ir ⟨את⟩ mano vaikus, ir ⟨את⟩ mano gyvulius troškiu?",
   "tokens": [
     {
       "surface": "ויצמא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmonės"
     },
     {
       "surface": "למים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmonės"
     },
     {
       "surface": "על",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "ir sakė"
     },
     {
       "surface": "למה",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "זה",
-      "gloss": "tai"
+      "gloss": "šitai"
     },
     {
       "surface": "העליתנו",
-      "gloss": "išvedei mus"
+      "gloss": "tu išvedei mus"
     },
     {
       "surface": "ממצרים",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "להמית",
-      "gloss": "kad nužudytum"
+      "gloss": "kad numarintum"
     },
     {
       "surface": "אתי",
@@ -92,26 +71,26 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "mano sūnus"
+      "marks": "mano vaikus"
     },
     {
       "surface": "בני",
-      "gloss": "mano sūnus"
+      "gloss": "mano vaikus"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "mano galvijus"
+      "marks": "mano gyvulius"
     },
     {
       "surface": "מקני",
-      "gloss": "mano galvijus"
+      "gloss": "mano gyvulius"
     },
     {
       "surface": "בצמא",
-      "gloss": "troškuliu"
+      "gloss": "troškiu"
     }
   ],
-  "timestamp": "2026-10-20T05:03:34.500743321Z",
+  "timestamp": "2026-10-20T12:18:48.445242513Z",
   "model": "glm-5.3"
 }

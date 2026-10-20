@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajų kalba neturi būdinio — bevardė galinkė konstrukcija משפט מות be veiksmažodžio."
-    },
-    {
-      "kind": "substitution",
-      "subject": "prieš",
-      "rationale": "Hebrajiškas אל tiesiog 'į, link' — pranašavimas miestui, ne prieš jį; kaltintojų interpretacija."
-    },
-    {
-      "kind": "you",
-      "subject": "girdėjote",
-      "rationale": "Kunigai ir pranašai kreipiasi į vadus ir visą tautą."
-    }
-  ],
-  "translation": "Ir tarė kunigai ir pranašai vadams ir visai tautai, sakydami: Mirties teismas ⟨yra⟩ šiam vyrui, nes jis pranašavo prieš šį miestą, kaip girdėjote savo ausimis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/9-12.1792482846318.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė kunigai ir pranašai vyriausiesiems ir visai tautai, sakydami: Mirties teismas ⟨yra⟩ tam vyrui, nes jis pranašavo prieš šį miestą, kaip girdėjote savo ausimis.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "הכהנים",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "vyriausiesiems"
     },
     {
       "surface": "השרים",
-      "gloss": "vadams"
+      "gloss": "vyriausiesiems"
     },
     {
       "surface": "ואל",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "šiam vyrui"
+      "gloss": "tam vyrui"
     },
     {
       "surface": "הזה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "jis pranašavo"
+      "gloss": "pranašavo"
     },
     {
       "surface": "אל",
@@ -118,6 +92,6 @@
       "gloss": "savo ausimis"
     }
   ],
-  "timestamp": "2026-10-20T07:54:06.320566407Z",
+  "timestamp": "2026-10-20T12:30:07.327449832Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajų kalba neturi veiksmažodžio — pridėta jungties forma."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dvidešimt šeši tūkstančiai",
-      "rationale": "Giminės sąrašo kulminacija — kovai tinkančių vyrų skaičius."
-    }
-  ],
-  "translation": "Visi šitie ⟨buvo⟩ Ašerо sūnūs, namų tėvų galvos, išrinktieji, stiprūs narsuoliai, kunigaikščių galvos, ir jų genealoginis įrašymas kariuomenėje, kare: jų skaičius — dvidešimt šeši tūkstančiai vyrų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1752a82ee7bf5c6add62a3aca8c45bee636b2e5afd0d8ea65ff81a6c138b27d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/7\/37-40.1792492779665.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visi šitie ⟨buvo⟩ Ašero sūnūs, tėvų namų galvos, išrinktieji, stiprūs kariai, kunigaikščių galvos; jų genealogija buvo įrašyta karo tarnybai, mūšiui — jų skaičius: žmonių dvidešimt šeši tūkstančiai.",
   "tokens": [
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "Ašerо"
+      "gloss": "Ašero"
     },
     {
       "surface": "ראשי",
@@ -57,7 +36,7 @@
       "gloss": "tėvų"
     },
     {
-      "surface": "ברורи",
+      "surface": "ברורים",
       "gloss": "išrinktieji"
     },
     {
@@ -66,7 +45,7 @@
     },
     {
       "surface": "חילים",
-      "gloss": "narsuoliai"
+      "gloss": "kariai"
     },
     {
       "surface": "ראשי",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "והתיחשם",
-      "gloss": "ir jų genealoginis įrašymas"
+      "gloss": "jų genealogija buvo įrašyta"
     },
     {
       "surface": "בצבא",
-      "gloss": "kariuomenėje"
+      "gloss": "karo tarnybai"
     },
     {
       "surface": "במלחמה",
-      "gloss": "kare"
+      "gloss": "mūšiui"
     },
     {
       "surface": "מספרם",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אנשים",
-      "gloss": "vyrai"
+      "gloss": "žmonių"
     },
     {
       "surface": "עשרים",
@@ -102,13 +81,13 @@
     },
     {
       "surface": "וששה",
-      "gloss": "ir šeši"
+      "gloss": "šeši"
     },
     {
       "surface": "אלף",
       "gloss": "tūkstančiai"
     }
   ],
-  "timestamp": "2026-10-20T10:39:39.666524328Z",
+  "timestamp": "2026-10-20T12:05:43.891949975Z",
   "model": "glm-5.3"
 }

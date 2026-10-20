@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Tora",
-      "rationale": "D2: תורה verčiama kaip Tora, ne 'įstatymas'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "kojos dreifavimas",
-      "rationale": "הניד רגל — 'pamojuoti koją', idiomą 'nebeleisti klajoti' reiškia neužkariauta žemė."
-    }
-  ],
-  "translation": "ir nebeleidysiu dreifuoti Jisraelio kojai nuo žemės, kurią daviau jų tėvams, — tik jeigu jie saugos vykdyti visa, ką įsakiau jiems, ir visą Torą, kurią įsakė jiems mano tarnas Mošė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "06eeda6d777e8259d446577f7e7410d59504cfcdf51490b8a08a994c833318cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/21\/5-8.1792480429951.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ir nebepriversiu kojos Jisraelio klausyti iš žemės, kurią daviau jų tėvams — tik jei jie saugos vykdyti visa, ką įsakiau jiems, ir visą Torą, kurią įsakė ⟨את⟩ jų tarnautojas — mano tarnas Mošė.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir nebe"
     },
     {
       "surface": "אסיף",
-      "gloss": "nebeleidysiu"
+      "gloss": "priversiu"
     },
     {
       "surface": "להניד",
-      "gloss": "dreifuoti"
+      "gloss": "klausyti"
     },
     {
       "surface": "רגל",
-      "gloss": "kojai"
+      "gloss": "kojos"
     },
     {
       "surface": "ישראל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "nuo"
+      "gloss": "iš"
     },
     {
       "surface": "האדמה",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "jeigu"
+      "gloss": "jei"
     },
     {
       "surface": "ישמרו",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "įsakiau jiems"
+      "gloss": "įsakiau"
     },
     {
       "surface": "ולכל",
@@ -115,7 +94,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "jiems"
+      "marks": "jų — nukreipta į adresatus, kuriems Mošė įsakė"
     },
     {
       "surface": "עבדי",
@@ -126,6 +105,6 @@
       "gloss": "Mošė"
     }
   ],
-  "timestamp": "2026-10-20T07:13:49.955725900Z",
+  "timestamp": "2026-10-20T12:12:09.913437396Z",
   "model": "glm-5.3"
 }

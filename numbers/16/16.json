@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפני יהוה",
-      "rationale": "Pažodžiui 'prieš Jahvės veidą' — vaizdas išlaikytas, o ne suabstraktinta 'Jahvės akivaizdoje'"
-    },
-    {
-      "kind": "you",
-      "subject": "Korachui",
-      "rationale": "Mošės įsakymas tiesiogiai Korachui ir jo bendrijai"
-    }
-  ],
-  "translation": "Ir tarė Mošė Korachui: Tu ir visa tavo bendrija būkite prieš Jahvės veidą — tu, jie ir Aharonas — rytoj.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/16\/13-16.1792474314985.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Mošė Korachui: tu ir visa tavo bendrija būkite Jahvės akivaizdoje — tu, jie ir Aharonas — rytoj.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "קרח",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "prieš... veidą"
+      "gloss": "akivaizdoje"
     },
     {
       "surface": "יהוה",
@@ -85,6 +64,6 @@
       "gloss": "rytoj"
     }
   ],
-  "timestamp": "2026-10-20T05:31:54.987988174Z",
+  "timestamp": "2026-10-20T12:40:22.085935581Z",
   "model": "glm-5.3"
 }

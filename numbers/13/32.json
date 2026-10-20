@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ארץ אכלת יושביה",
-      "rationale": "'Šalis, ryjanti savo gyventojus' — ar tai neramumų žemė, ar bado žemė, ar hiperbolė apie milžinus; vertėjai skiriasi."
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Lietuvių kalbai reikalinga kartojamojo sakinio santrumpa, hebrajų jos neturi."
-    }
-  ],
-  "translation": "Ir jie išnešė šmeižtą apie šalį, kurią jie žvalgė, Jisraelio sūnums, sakydami: Šalis, kurią perėjome, žvalgydami ⟨את⟩ ją, ⟨yra⟩ šalis, ryjanti savo gyventojus, ir visa tauta, kurią matėme jos viduryje, yra milžiniško ūgio vyrai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/13\/29-32.1792474147510.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie išnešiojo šmeižtą apie žemę, kurią jie apžiūrėjo ⟨את⟩, Jisraelio sūnums, sakydami: žemė, kuria ėjome per ją, kad ją apžiūrėtume ⟨את⟩, yra žemė, ryjanti jos gyventojus; ir visas žmones, kuriuos matėme joje, yra ūgio vyrai.",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "Ir jie išnešė"
+      "gloss": "ir jie išnešiojo"
     },
     {
       "surface": "דבת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "šalies"
+      "gloss": "apie žemę"
     },
     {
       "surface": "אשר",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "תרו",
-      "gloss": "jie žvalgė"
+      "gloss": "apžiūrėjo"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "žemę"
     },
     {
       "surface": "אל",
-      "gloss": "pas"
+      "gloss": "Jisraelio sūnums"
     },
     {
       "surface": "בני",
-      "gloss": "sūnus"
+      "gloss": "sūnums"
     },
     {
       "surface": "ישראל",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "Šalis"
+      "gloss": "žemė"
     },
     {
       "surface": "אשר",
-      "gloss": "kurią"
+      "gloss": "kuria"
     },
     {
       "surface": "עברנו",
-      "gloss": "perėjome"
+      "gloss": "ėjome per"
     },
     {
       "surface": "בה",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "לתור",
-      "gloss": "žvalgydami"
+      "gloss": "kad apžiūrėtume"
     },
     {
       "surface": "אתה",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "šalis"
+      "gloss": "žemė"
     },
     {
       "surface": "אכלת",
@@ -104,23 +83,23 @@
     },
     {
       "surface": "יושביה",
-      "gloss": "savo gyventojus"
+      "gloss": "jos gyventojus"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨yra⟩ ji"
+      "gloss": "yra"
     },
     {
       "surface": "וכל",
-      "gloss": "ir visa"
+      "gloss": "ir visus"
     },
     {
       "surface": "העם",
-      "gloss": "tauta"
+      "gloss": "žmones"
     },
     {
       "surface": "אשר",
-      "gloss": "kurią"
+      "gloss": "kuriuos"
     },
     {
       "surface": "ראינו",
@@ -128,7 +107,7 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "jos viduryje"
+      "gloss": "joje"
     },
     {
       "surface": "אנשי",
@@ -136,9 +115,9 @@
     },
     {
       "surface": "מדות",
-      "gloss": "milžiniško ūgio"
+      "gloss": "ūgio"
     }
   ],
-  "timestamp": "2026-10-20T05:29:07.512824182Z",
+  "timestamp": "2026-10-20T12:40:09.100635935Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "išžabysi",
-      "rationale": "תעקר pažodžiui „išrausi su šaknimim \/ pakirsi sausgysles“ — atskiras žodis žirgams uždrausti."
-    },
-    {
-      "kind": "you",
-      "subject": "Jehošua",
-      "rationale": "Jahvė tiesiogiai kreipiasi į Jehošuą prieš mūšį."
-    }
-  ],
-  "translation": "Ir Jahvė tarė Jehošuai: Nebijok jų, nes rytoj šiuo metu aš duosiu ⟨את⟩ juos visus nukautus priešais Jisraelį. Jų arklius išžabysi, o jų kovos vežimus sudeginsi ugnyje.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/11\/5-8.1792475957263.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Jehošua: Nebijok jų, nes rytoj šiuo metu aš atiduosiu ⟨את⟩ visus juos nukautus Jisraelio akivaizdoje; jų žirgus ⟨את⟩ išrauk pagrindais, o jų kovos vežimus ⟨את⟩ sudegink ugnimi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jehošua (link. ženklas į)"
     },
     {
       "surface": "יהושע",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מפניהם",
-      "gloss": "jų"
+      "gloss": "jų (nuo jų veido)"
     },
     {
       "surface": "כי",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "נתן",
-      "gloss": "duosiu"
+      "gloss": "atiduosiu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "juos visus"
+      "marks": "visus juos"
     },
     {
       "surface": "כלם",
-      "gloss": "visus"
+      "gloss": "visus juos"
     },
     {
       "surface": "חללים",
@@ -95,28 +74,28 @@
     },
     {
       "surface": "לפני",
-      "gloss": "priešais"
+      "gloss": "akivaizdoje"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraelį"
+      "gloss": "Jisraelio"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jų arklius"
+      "marks": "jų žirgus"
     },
     {
       "surface": "סוסיהם",
-      "gloss": "jų arklius"
+      "gloss": "jų žirgus"
     },
     {
       "surface": "תעקר",
-      "gloss": "išžabysi"
+      "gloss": "išrauk pagrindais"
     },
     {
       "surface": "ואת",
-      "gloss": "o ⟨את⟩",
+      "gloss": "ir ⟨את⟩",
       "marks": "jų kovos vežimus"
     },
     {
@@ -125,13 +104,13 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "sudeginsi"
+      "gloss": "sudegink"
     },
     {
       "surface": "באש",
-      "gloss": "ugnyje"
+      "gloss": "ugnimi"
     }
   ],
-  "timestamp": "2026-10-20T05:59:17.266886498Z",
+  "timestamp": "2026-10-20T12:34:21.378871999Z",
   "model": "glm-5.3"
 }

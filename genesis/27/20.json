@@ -5,48 +5,27 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הקרה לפני",
-      "rationale": "„Atsitiktinai sutiko \/ privertė atsitikti prieš mane“ — vertėjai svyruoja tarp „pasiuntė man sėkmę“ ir pažodžio „pavedė keliui prieš mane“."
-    },
-    {
-      "kind": "you",
-      "subject": "Icchakas Jaakovui",
-      "rationale": "Tiesioginis klausimas sūnui — abejonės akimirka apgaulės scenoje."
-    }
-  ],
-  "translation": "Ir Icchakas tarė savo sūnui: Kas čia, kad taip greitai radai, mano sūnau? O šis tarė: Nes Jahvė, tavo Elohim, privertė tai atsitikti prieš mane.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/27\/17-20.1792471541152.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jicchakas tarė savo sūnui: Kas čia, kad taip greitai radai, mano sūnau? O jis atsakė: Nes Jahvė, tavo Elohim, ⟨parvedė⟩ ⟨את⟩ prieš mano veidą.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יצחק",
-      "gloss": "Icchakas"
+      "gloss": "Jicchakas"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "בנו",
       "gloss": "savo sūnui"
     },
     {
+      "surface": "בנו",
+      "gloss": "sūnui"
+    },
+    {
       "surface": "מה",
-      "gloss": "kas"
+      "gloss": "Kas"
     },
     {
       "surface": "זה",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "O jis atsakė"
     },
     {
       "surface": "כי",
-      "gloss": "nes"
+      "gloss": "Nes"
     },
     {
       "surface": "הקרה",
-      "gloss": "privertė atsitikti"
+      "gloss": "parvedė"
     },
     {
       "surface": "יהוה",
@@ -86,9 +65,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "prieš mane"
+      "gloss": "prieš mano veidą"
     }
   ],
-  "timestamp": "2026-10-20T04:45:41.155893225Z",
+  "timestamp": "2026-10-20T12:24:54.719446816Z",
   "model": "glm-5.3"
 }

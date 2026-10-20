@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לקח את אשתו",
-      "rationale": "„paėmė jo žmoną“ — KJV „he had taken his wife“, bet kontekste žmona buvo atimta iš Šimšono; hebrajiškas כי gali reikšti „nes [Timnietis] paėmė jo žmoną“."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותה",
-      "gloss": "aleph-tav su asmeniniu priesagos priedu — išversta kaip paprastas „ją“."
-    }
-  ],
-  "translation": "Ir piliečiai tarė: Kas tai padarė? Ir jie tarė: Šimšonas, Timnos žentas, nes jis paėmė ⟨את⟩ jo žmoną ir atidavė ją jo bičiuliui. Ir piliečiai užlipo ir sudegino ją ir ⟨את⟩ jos tėvą ugnimi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bb3412b5bc51f34a0add217c92af0804083f05f1542e3cfbcc4a246851196de1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/15\/5-8.1792476702903.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir filistiečiai tarė: kas tai padarė? Ir jie tarė: Šimšonas, žentas timnietis, nes paėmė ⟨את⟩ jo žmoną ir atidavė ją jo bendrui. Ir filistiečiai užkopė ir sudegino ⟨את⟩ ją ir ⟨את⟩ jos tėvą ugnyje.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "piliečiai"
+      "gloss": "filistiečiai"
     },
     {
       "surface": "מי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ir tarė"
+      "gloss": "ir jie tarė"
     },
     {
       "surface": "שמשון",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "התמני",
-      "gloss": "Timnos"
+      "gloss": "timnietis"
     },
     {
       "surface": "כי",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "למרעהו",
-      "gloss": "ją jo bičiuliui"
+      "gloss": "jo bendrui"
     },
     {
       "surface": "ויעלו",
-      "gloss": "ir užlipo"
+      "gloss": "ir užkopė"
     },
     {
       "surface": "פלשתים",
-      "gloss": "piliečiai"
+      "gloss": "filistiečiai"
     },
     {
       "surface": "וישרפו",
@@ -103,7 +82,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ją"
+      "gloss": "⟨את⟩",
+      "marks": "ją"
     },
     {
       "surface": "ואת",
@@ -116,9 +96,9 @@
     },
     {
       "surface": "באש",
-      "gloss": "ugnimi"
+      "gloss": "ugnyje"
     }
   ],
-  "timestamp": "2026-10-20T06:11:42.907503318Z",
+  "timestamp": "2026-10-20T12:36:03.228707252Z",
   "model": "glm-5.3"
 }

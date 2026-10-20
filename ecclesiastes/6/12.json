@@ -5,33 +5,7 @@
   "book": "ecclesiastes",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "mystery",
-      "subject": "kas žino… kas gali paskelbti",
-      "rationale": "du retoriniai klausimai — niekas nežino ateities po saule"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "saitas tarp כצל ir מי יגיד, lietuviškame ištirpęs"
-    },
-    {
-      "kind": "measurement",
-      "subject": "מספר ימי",
-      "rationale": "dienų skaičiaus skaičiavimas — gyvenimo matas"
-    }
-  ],
-  "translation": "Nes kas žino, kas žmogui gera gyvenime — skaičių jo hevel gyvenimo dienų, kurias jis praleidžia kaip šešėlį? Ir kas gali paskelbti žmogui, kas bus po jo po saule?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ecclesiastes\/6\/9-12.1792491288468.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes kas žino, kas gera žmogui gyvenime, skaičių dienų jo hebelio gyvenimo, kurias jis praleidžia kaip šešėlį? Ir kas gali pasakyti žmogui, kas bus po jo po saule?",
   "tokens": [
     {
       "surface": "כי",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "הבלו",
-      "gloss": "jo hevel"
+      "gloss": "jo hebelio"
     },
     {
       "surface": "ויעשם",
-      "gloss": "ir jis praleidžia jas"
+      "gloss": "kurias jis praleidžia"
     },
     {
       "surface": "כצל",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "יגיד",
-      "gloss": "gali paskelbti"
+      "gloss": "gali pasakyti"
     },
     {
       "surface": "לאדם",
@@ -122,6 +96,6 @@
       "gloss": "saule"
     }
   ],
-  "timestamp": "2026-10-20T10:14:48.469364589Z",
+  "timestamp": "2026-10-20T12:17:35.098364799Z",
   "model": "glm-5.3"
 }

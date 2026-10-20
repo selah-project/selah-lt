@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨prie⟩",
-      "rationale": "Hebrajiškas קדשה — kryptis į Kadešą; lietuvių kalbai reikia prielinksnio."
-    },
-    {
-      "kind": "crux",
-      "subject": "וישיבו אותם דבר",
-      "rationale": "Pažodžiui 'grąžino jiems žodį'; tradiciškai 'pranešė ataskaitą'."
-    }
-  ],
-  "translation": "Ir jie nuėjo bei atėjo pas Mošę ir pas Aharoną ir pas visą Jisraelio vaikų susirinkimą, į Parano dykumą, ⟨prie⟩ Kadešo, ir pranešė jiems žodį ir ⟨את⟩ visą susirinkimą, ir parodė jiems ⟨את⟩ krašto vaisių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ea0989dbff8e8eb6076f23eda1e400d61deb1f9eb700d4f7123f4963c6773a35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/13\/25-28.1792474166697.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie nuėję atėjo pas Mošę ir pas Aharoną ir pas visą Jisraelio sūnų susirinkimą, į Parano dykumą, į Kadešą; ir jie pranešė ⟨את⟩ jiems žodį ir ⟨את⟩ visai susirinkimai, ir parodė jiems ⟨את⟩ žemės vaisių.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "nuėjo"
+      "gloss": "ir jie nuėję"
     },
     {
       "surface": "ויבאו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "vaikų"
+      "gloss": "sūnų"
     },
     {
       "surface": "ישראל",
@@ -86,15 +65,16 @@
     },
     {
       "surface": "קדשה",
-      "gloss": "Kadešo"
+      "gloss": "Kadešą"
     },
     {
       "surface": "וישיבו",
-      "gloss": "pranešė"
+      "gloss": "ir jie pranešė"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ jiems"
+      "gloss": "⟨את⟩ jiems",
+      "marks": "žodį"
     },
     {
       "surface": "דבר",
@@ -102,25 +82,25 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "visą"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visai susirinkimai"
     },
     {
       "surface": "כל",
-      "gloss": "visą"
+      "gloss": "visai"
     },
     {
       "surface": "העדה",
-      "gloss": "susirinkimą"
+      "gloss": "susirinkimai"
     },
     {
       "surface": "ויראום",
-      "gloss": "parodė jiems"
+      "gloss": "ir parodė jiems"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "krašto vaisių"
+      "marks": "žemės vaisių"
     },
     {
       "surface": "פרי",
@@ -128,9 +108,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "krašto"
+      "gloss": "žemės"
     }
   ],
-  "timestamp": "2026-10-20T05:29:26.699366586Z",
+  "timestamp": "2026-10-20T12:40:11.171753165Z",
   "model": "glm-5.3"
 }

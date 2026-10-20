@@ -5,49 +5,23 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "כשמיר",
-      "rationale": "šamiras — smilkalus primenantis kietas akmuo, čia vienintelės vietos šaknis; paliktas skambesiu."
-    },
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajiškame sudurtiniame sakinyje nėra veiksmažodžio — lietuvių kalbai reikia ⟨yra⟩."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בית מרי",
-      "rationale": "pažodžiui 'maišto namas' — 'maištingi namai' išlaiko hebrajišką paveikslą."
-    }
-  ],
-  "translation": "Kaip šamiras, kietesnis už uolieną, daviau tavo kaktą — nebijok jų ir neišsigąsk jų veidų, nes maištingi namai jie ⟨yra⟩.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/3\/9-12.1792483895130.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kaip šmirą, kietesnį už titnagą, padariau tavo kaktą: nebijok jų ir neišsigąsk jų veidų, nes maištingas namas jie ⟨yra⟩.",
   "tokens": [
     {
       "surface": "כשמיר",
-      "gloss": "kaip šamiras"
+      "gloss": "kaip šmirą"
     },
     {
       "surface": "חזק",
-      "gloss": "kietesnis"
+      "gloss": "kietesnį"
     },
     {
       "surface": "מצר",
-      "gloss": "už uolieną"
+      "gloss": "už titnagą"
     },
     {
       "surface": "נתתי",
-      "gloss": "daviau"
+      "gloss": "padariau"
     },
     {
       "surface": "מצחך",
@@ -63,7 +37,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩ jų",
+      "marks": "juos (3ps daugiskaitos įvardis)"
     },
     {
       "surface": "ולא",
@@ -83,17 +58,17 @@
     },
     {
       "surface": "בית",
-      "gloss": "namai"
+      "gloss": "namas"
     },
     {
       "surface": "מרי",
-      "gloss": "maištingi"
+      "gloss": "maištingas"
     },
     {
       "surface": "המה",
       "gloss": "jie"
     }
   ],
-  "timestamp": "2026-10-20T08:11:35.132299302Z",
+  "timestamp": "2026-10-20T12:22:30.769603404Z",
   "model": "glm-5.3"
 }

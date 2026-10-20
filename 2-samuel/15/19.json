@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Itajui gatiečiui",
-      "rationale": "Tiesioginis karaliaus kreipimasis į Itajų."
-    },
-    {
-      "kind": "addition",
-      "subject": "iš",
-      "rationale": "Hebrajiškas למקומך 'į savo vietą'; lietuvių reikalauja prielinksnio, pridėta ⟨iš⟩ pagal kontekstą."
-    }
-  ],
-  "translation": "Ir tarė karalius Itajui gatiečiui: Kodėl tu irgi eini ⟨את⟩ su mumis? Grįžk ir pasilik su karaliumi, nes tu svetimšalis ir taip pat tremtinys ⟨iš⟩ savo vietos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/15\/17-20.1792478339867.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė karalius Itajui Gitiečiui: kodėl tu irgi eini ⟨את⟩ su mumis? Grįžk ir pasilik su karaliumi, nes tu svetimas, ir taip pat išvarytas ⟨esi⟩ iš savo vietos.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "אתי",
-      "gloss": "Itajui"
+      "gloss": "Itajų"
     },
     {
       "surface": "הגתי",
-      "gloss": "gatiečiui"
+      "gloss": "Gitietį"
     },
     {
       "surface": "למה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "תלך",
-      "gloss": "tu eini"
+      "gloss": "eini"
     },
     {
       "surface": "גם",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "נכרי",
-      "gloss": "svetimšalis"
+      "gloss": "svetimas"
     },
     {
       "surface": "אתה",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "גלה",
-      "gloss": "tremtinys"
+      "gloss": "išvarytas"
     },
     {
       "surface": "אתה",
@@ -110,9 +89,9 @@
     },
     {
       "surface": "למקומך",
-      "gloss": "savo vietos"
+      "gloss": "iš savo vietos"
     }
   ],
-  "timestamp": "2026-10-20T06:38:59.870830681Z",
+  "timestamp": "2026-10-20T12:14:03.012550001Z",
   "model": "glm-5.3"
 }

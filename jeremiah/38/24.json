@@ -5,56 +5,35 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "pokalbis",
-      "rationale": "Cidkijas uždraudžia skleisti šiuos žodžius — tyčia paslėpta karaliaus ir pranašo kalba"
-    },
-    {
-      "kind": "you",
-      "subject": "Jeremijui",
-      "rationale": "Tiesioginis karaliaus įsakymas Jeremijui"
-    }
-  ],
-  "translation": "Ir tarė Cidkijas Jeremijui: „Tegu joks žmogus nežino šitų žodžių, ir tu nemirsi.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7074c33fabfd6faac95c47704dc544d2f044ca934be8742bdb736ba7456ad01b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/38\/21-24.1792483316672.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tarė Cidkijahu Jeremijui: Niekas ⟨yra⟩ tepažįsta šitų žodžių, ir tu nemirsi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Cidkijas"
+      "gloss": "Cidkijahu"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "ירמיהו",
       "gloss": "Jeremijui"
     },
     {
+      "surface": "ירמיהו",
+      "gloss": "Jeremijas"
+    },
+    {
       "surface": "איש",
-      "gloss": "žmogus"
+      "gloss": "niekas"
     },
     {
       "surface": "אל",
-      "gloss": "tegu ne"
+      "gloss": "tepažįsta"
     },
     {
       "surface": "ידע",
-      "gloss": "tegu nežino"
+      "gloss": "tepažįsta"
     },
     {
       "surface": "בדברים",
@@ -66,13 +45,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ir ne"
+      "gloss": "ir tu ne-"
     },
     {
       "surface": "תמות",
       "gloss": "nemirsi"
     }
   ],
-  "timestamp": "2026-10-20T08:01:56.676813138Z",
+  "timestamp": "2026-10-20T12:30:58.698244402Z",
   "model": "glm-5.3"
 }

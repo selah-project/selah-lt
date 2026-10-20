@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לשדרת",
-      "rationale": "'eilės (karių gretos)' — KJV 'už ribų' vs ASV\/JPS 'tarp eilių'; סדרה yra eilė, gretų rikiuotė."
-    },
-    {
-      "kind": "you",
-      "subject": "Jehojada į šimtinių viršininkus",
-      "rationale": "tiesioginis paliepimas karų viršininkams: 'Išveskite ją...'"
-    }
-  ],
-  "translation": "Ir įsakė kunigas Jehojada ⟨את⟩ viršininkams šimtinių, kariuomenės prižiūrėtojams, ir tarė jiems: Išveskite ją už eilių, o kas eina paskui ją — tebūna nužudytas kardu; nes kunigas sakė: Netebūna ji nužudyta Jahvės namuose.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/11\/13-16.1792480205943.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir įsakė kunigas Jehojada ⟨את⟩ šimtininkų vadas, paskirtuosius prie kariuomenės, ir tarė jiems: Išveskite ⟨את⟩ ją tarp gretų, o jei kas eis paskui ją — tebūna nužudytas kardu, nes kunigas buvo pasakęs: Nežudykite ⟨jos⟩ Jahvės namuose.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Ir įsakė"
+      "gloss": "ir įsakė"
     },
     {
       "surface": "יהוידע",
@@ -43,23 +22,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viršininkams šimtinių"
+      "marks": "šimtininkų vadas"
     },
     {
       "surface": "שרי",
-      "gloss": "viršininkams"
+      "gloss": "šimtininkų vadas"
     },
     {
       "surface": "המיאות",
-      "gloss": "šimtinių"
+      "gloss": "šimtų"
     },
     {
       "surface": "פקדי",
-      "gloss": "prižiūrėtojams"
+      "gloss": "paskirtuosius"
     },
     {
       "surface": "החיל",
-      "gloss": "kariuomenės"
+      "gloss": "prie kariuomenės"
     },
     {
       "surface": "ויאמר",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הוציאו",
-      "gloss": "Išveskite"
+      "gloss": "išveskite"
     },
     {
       "surface": "אתה",
@@ -80,19 +59,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "į"
+      "gloss": "tarp"
     },
     {
       "surface": "מבית",
-      "gloss": "už"
+      "gloss": "viduje"
     },
     {
       "surface": "לשדרת",
-      "gloss": "eilių"
+      "gloss": "gretų"
     },
     {
       "surface": "והבא",
-      "gloss": "o kas eina"
+      "gloss": "o jei kas eis"
     },
     {
       "surface": "אחריה",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "sakė"
+      "gloss": "buvo pasakęs"
     },
     {
       "surface": "הכהן",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Ne-"
+      "gloss": "ne"
     },
     {
       "surface": "תומת",
-      "gloss": "tebūna nužudyta"
+      "gloss": "žudykite"
     },
     {
       "surface": "בית",
@@ -135,6 +114,6 @@
       "gloss": "Jahvės"
     }
   ],
-  "timestamp": "2026-10-20T07:10:05.945444905Z",
+  "timestamp": "2026-10-20T12:11:40.428541220Z",
   "model": "glm-5.3"
 }

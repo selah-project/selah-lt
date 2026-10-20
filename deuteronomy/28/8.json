@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "משלח ידך",
-      "rationale": "'Tavo rankos siuntimas' — viskas, ko imiesi ranka; veido prasmės idiomatinis kolokacijos vaizdas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ברכה\/ברכך",
-      "rationale": "Šaknis ברך skamba du kartus — 'palaiminimą... palaimins'."
-    }
-  ],
-  "translation": "Jahvė įsakys ⟨את⟩ palaiminimą su tavim tavo aruoduose ir visuose, ką siunčia tavo ranka, ir palaimins tave žemėje, kurią Jahvė, tavo Elohim, duoda tau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/28\/5-8.1792475462277.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahvė įsakys ⟨את⟩ palaiminimą būti ⟨את⟩ su tavimi tavo klėtyse ir visame, ką ištiesi ranka, ir palaimins tave žemėje, kurią Jahvė, tavo Elohim, tau duoda.",
   "tokens": [
     {
       "surface": "יצו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ su tavim"
+      "gloss": "⟨את⟩ su tavimi"
     },
     {
       "surface": "את",
@@ -51,19 +30,19 @@
     },
     {
       "surface": "באסמיך",
-      "gloss": "tavo aruoduose"
+      "gloss": "tavo klėtyse"
     },
     {
       "surface": "ובכל",
-      "gloss": "ir visuose"
+      "gloss": "ir visame"
     },
     {
       "surface": "משלח",
-      "gloss": "ką siunčia"
+      "gloss": "ką ištiesi"
     },
     {
       "surface": "ידך",
-      "gloss": "tavo ranka"
+      "gloss": "ranka"
     },
     {
       "surface": "וברכך",
@@ -94,6 +73,6 @@
       "gloss": "tau"
     }
   ],
-  "timestamp": "2026-10-20T05:51:02.279524266Z",
+  "timestamp": "2026-10-20T12:17:24.164402618Z",
   "model": "glm-5.3"
 }

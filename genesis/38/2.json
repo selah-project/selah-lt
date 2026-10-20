@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "Hebrajų kalboje nėra veiksmažodžio „būti“ šioje vietoje"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ir paėmė ją",
-      "rationale": "Hebrajiškas ויקחה su prijungtu objekto galūnės įnagiu; ⟨את⟩ žymuo atkurtas, nes prielinksnių forma prilipdyta prie veiksmažodžio"
-    }
-  ],
-  "translation": "Ir pamatė ten Jehuda vieno kenaaniečio dukterį, kurios vardas ⟨buvo⟩ Šua, ir paėmė ⟨את⟩ ją, ir įėjo pas ją.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/38\/1-4.1792471818934.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jehuda ten pamatė kanaaniečio vyro dukterį — jo vardas Šua — ir paėmė ⟨ ją ⟩ ir įėjo pas ją.",
   "tokens": [
     {
       "surface": "וירא",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "בת",
-      "gloss": "dukterį"
+      "gloss": "duktę"
     },
     {
       "surface": "איש",
-      "gloss": "vieno vyro"
+      "gloss": "vyras"
     },
     {
       "surface": "כנעני",
-      "gloss": "kenaaniečio"
+      "gloss": "kanaanietis"
     },
     {
       "surface": "ושמו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויקחה",
-      "gloss": "ir paėmė ⟨את⟩ ją"
+      "gloss": "ir paėmė ⟨ ją ⟩"
     },
     {
       "surface": "ויבא",
@@ -73,6 +52,6 @@
       "gloss": "pas ją"
     }
   ],
-  "timestamp": "2026-10-20T04:50:18.938039122Z",
+  "timestamp": "2026-10-20T12:26:42.209823576Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "žydėte žydi",
-      "rationale": "פרחת — 'žydėti, skleistis kaip pumpuras'; dauguma verstų 'jis plinta', bet hebrajiškas paveikslas yra augimo žydėjimas"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פרחת היא",
-      "rationale": "paronomastija tarp veiksmažodžio פרח (žydi) ir moteriškosios poros היא — pažeidimas traktuojamas kaip gyvas augimas"
-    }
-  ],
-  "translation": "Ir jeigu ji vėl pasirodys drabužyje, arba audimėsеЁše, arba ataudе, arba bet kokiame odos daikte — ji žydėte žydi: ugnyje sudeginsi ⟨את⟩ tą, kurioje yra pažeidimas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/57-59.1792473373581.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jeigu ji vėl pasirodys drabužyje, arba metmenyse, arba atmenyse, arba bet kokiame odos daikte — ji žydinti ⟨yra⟩: ugnyje sudeginsi ⟨את⟩ tai, kas yra jame, ⟨tai⟩ pažeistąjį.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ir jeigu"
+      "gloss": "Ir jeigu"
     },
     {
       "surface": "תראה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "audimėsеЁše"
+      "gloss": "metmenyse"
     },
     {
       "surface": "או",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "ataudе"
+      "gloss": "atmenyse"
     },
     {
       "surface": "או",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "פרחת",
-      "gloss": "žydėte žydi"
+      "gloss": "žydinti"
     },
     {
       "surface": "הוא",
@@ -95,21 +74,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tą, kurioje yra pažeidimas"
+      "marks": "tai, kas yra jame"
     },
     {
       "surface": "אשר",
-      "gloss": "tą, kurioje"
+      "gloss": "kas"
     },
     {
       "surface": "בו",
-      "gloss": "joje"
+      "gloss": "jame"
     },
     {
       "surface": "הנגע",
-      "gloss": "pažeidimas"
+      "gloss": "pažeistąjį"
     }
   ],
-  "timestamp": "2026-10-20T05:16:13.583900321Z",
+  "timestamp": "2026-10-20T12:37:55.283065502Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "והטף",
-      "rationale": "טף — 'maži vaikai' kaip kolektyvas; 'vaikai' siauresnis, bet arti."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ואכלת את שלל",
-      "rationale": "'Valgyti grobį' — naudotis grobiu, ne pažodžiui valgyti."
-    }
-  ],
-  "translation": "Tik moteris, ir vaikai, ir gyvuliai, ir visa, kas bus mieste — visą jos grobį tu imsiesi sau, ir valgysi grobį iš savo priešų, kurį Jahvė, tavo Elohim, davė tau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "c2e1e8305639ea2c69b7e74fe3040e870c42d0f6b44b0307f94c3061bfff6c8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/20\/13-16.1792475283733.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tik moteris, mažamečiai, gyvuliai ir visa, kas bus mieste — visą jos grobį grobsi sau, ir valgysi ⟨את⟩ grobį savo priešų, kurį Jahvė, tavo Elohim, davė tau.",
   "tokens": [
     {
       "surface": "רק",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "והטף",
-      "gloss": "ir vaikai"
+      "gloss": "mažamečiai"
     },
     {
       "surface": "והבהמה",
-      "gloss": "ir gyvuliai"
+      "gloss": "gyvuliai"
     },
     {
       "surface": "וכל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "mieste"
+      "gloss": "miete"
     },
     {
       "surface": "כל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "תבז",
-      "gloss": "imsiesi"
+      "gloss": "grobsi"
     },
     {
       "surface": "לך",
@@ -83,7 +62,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "grobį iš savo priešų"
+      "marks": "grobį"
     },
     {
       "surface": "שלל",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "איביך",
-      "gloss": "iš savo priešų"
+      "gloss": "savo priešų"
     },
     {
       "surface": "אשר",
@@ -114,6 +93,6 @@
       "gloss": "tau"
     }
   ],
-  "timestamp": "2026-10-20T05:48:03.735328586Z",
+  "timestamp": "2026-10-20T12:16:31.520870025Z",
   "model": "glm-5.3"
 }

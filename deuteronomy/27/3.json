@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "žemė, tekančią pienu ir medumi",
-      "rationale": "Pastovus hebrajiškas posakis — laikomasi jo paveikslu, o ne pakeičiama."
-    }
-  ],
-  "translation": "Ir tu parašysi ant jų ⟨את⟩ visus šitos Toros žodžius, kai būsi perėjęs, kad ateitum į žemę, kurią Jahvė, tavo Elohim, tau duoda, — žemę, tekančią pienu ir medumi, kaip kalbėjo Jahvė, tavo tėvų Elohim, tau.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/27\/1-4.1792475431549.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir užrašysi ant jų ⟨את⟩ visus šios Toros žodžius, kai pereisi, kad įeitum į žemę, kurią Jahvė, tavo Elohim, tau duoda — žemę, tekančią pienu ir medumi, kaip kalbėjo Jahvė, tavo tėvų Elohim, tau.",
   "tokens": [
     {
       "surface": "וכתבת",
-      "gloss": "Ir tu parašysi"
+      "gloss": "ir užrašysi"
     },
     {
       "surface": "עליהן",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus Toros žodžius"
+      "marks": "visus (žodžius)"
     },
     {
       "surface": "כל",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "šitos"
+      "gloss": "šios"
     },
     {
       "surface": "בעברך",
-      "gloss": "kai būsi perėjęs"
+      "gloss": "kai pereisi"
     },
     {
       "surface": "למען",
@@ -62,11 +46,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "תבא",
-      "gloss": "ateitum"
+      "gloss": "įeitum"
     },
     {
       "surface": "אל",
@@ -137,6 +121,6 @@
       "gloss": "tau"
     }
   ],
-  "timestamp": "2026-10-20T05:50:31.552694606Z",
+  "timestamp": "2026-10-20T12:17:11.675736140Z",
   "model": "glm-5.3"
 }

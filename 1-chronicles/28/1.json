@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rūmų tarnai",
-      "rationale": "הסריסים — eunuchai \/ rūmų tarnai; KJV „officers“, čia paliktas rūmų tarno paveikslas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "tūkstančių ir šimtų vadai",
-      "rationale": "karinės struktūros skaičiavimas pagal tūkstančius ir šimtus"
-    }
-  ],
-  "translation": "Ir Davidas sušaukė ⟨את⟩ visus Jisraelio vadus, genčių vadus ir pamainų, tarnaujančių karaliui, vadus, tūkstančių vadus ir šimtų vadus, ir viso turto bei gyvulių, priklausančių karaliui ir jo sūnums, prižiūrėtojus, drauge su rūmų tarnais ir stipruoliais, ir visus kario-vyrus, į Jerušalaimą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2641b75928ffc2bdc05b4500d3c481116b0a624bb6b3251540b5c65bdc8ced96",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/28\/1-4.1792493232628.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas sušaukė ⟨את⟩ visus Jisraelio kunigaikščius — kunigaikščius giminių, kunigaikščius skyrių, tarnaujančių karaliui, ⟨את⟩ karalių, kunigaikščius tūkstančių ir kunigaikščius šimtų, kunigaikščius viso turto ir gyvulių, priklausančių karaliui ir jo sūnums, su rūmų tarnais ir stipriaisiais kariais bei visais narsiais vyrais — į Jerušalaimą.",
   "tokens": [
     {
       "surface": "ויקהל",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus Jisraelio vadus"
+      "marks": "visus"
     },
     {
       "surface": "כל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "vadus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "ישראל",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "שרי",
-      "gloss": "vadus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "השבטים",
-      "gloss": "genčių"
+      "gloss": "giminių"
     },
     {
       "surface": "ושרי",
-      "gloss": "ir vadus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "המחלקות",
-      "gloss": "pamainų"
+      "gloss": "skyrių"
     },
     {
       "surface": "המשרתים",
@@ -76,15 +55,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karaliui"
+      "marks": "karalių"
     },
     {
       "surface": "המלך",
-      "gloss": "karaliui"
+      "gloss": "karalių"
     },
     {
       "surface": "ושרי",
-      "gloss": "ir vadus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "האלפים",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "ir vadus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "המאות",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "ir prižiūrėtojus"
+      "gloss": "kunigaikščius"
     },
     {
       "surface": "כל",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "ומקנה",
-      "gloss": "ir gyvulių"
+      "gloss": "gyvulių"
     },
     {
       "surface": "למלך",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "ולבניו",
-      "gloss": "ir jo sūnums"
+      "gloss": "jo sūnums"
     },
     {
       "surface": "עם",
-      "gloss": "drauge su"
+      "gloss": "su"
     },
     {
       "surface": "הסריסים",
@@ -132,19 +111,19 @@
     },
     {
       "surface": "והגבורים",
-      "gloss": "ir stipruoliais"
+      "gloss": "stipriaisiais kariais"
     },
     {
       "surface": "ולכל",
-      "gloss": "ir visus"
+      "gloss": "visiems"
     },
     {
       "surface": "גבור",
-      "gloss": "kario-vyrus"
+      "gloss": "nariams"
     },
     {
       "surface": "חיל",
-      "gloss": "—"
+      "gloss": "vyrams"
     },
     {
       "surface": "אל",
@@ -155,6 +134,6 @@
       "gloss": "Jerušalaimą"
     }
   ],
-  "timestamp": "2026-10-20T10:47:12.629398398Z",
+  "timestamp": "2026-10-20T12:05:29.162289017Z",
   "model": "glm-5.3"
 }

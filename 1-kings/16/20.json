@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "gloss": "hebrajiškas prielinksnis 'ant\/par' prieš 'knyga' lietuvių kalboje neturi atitikmens ir buvo praleistas."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קשרו\/קשר",
-      "rationale": "Daiktavardis ir veiksmažodis iš tos pačios šaknies קשר — sąmokslas\/suokė — išlaikyti šaknies garsu."
-    },
-    {
-      "kind": "invitation",
-      "subject": "het-lo",
-      "rationale": "Klausimas 'ar jie neparašyti?' kreipiasi į skaitytoją ir nukreipia jį į metraščių knygą."
-    }
-  ],
-  "translation": "O likusieji Zimrio žodžiai ir jo sąmokslas, kurį jis suokė, ar jie neparašyti knygoje Jisraelio karalių dienų žodžiuose?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5a664874e04aa835518fa60ab849dbce79bfde21bcd4887cf62275cb52ff12bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/17-20.1792479361059.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O likusieji Zimrio reikalai ir jo sąmokslas, kurį jis suokė, ar jie neparašyti knygoje Jisraelio karalių dienų reikalų?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "O likusieji"
+      "gloss": "o likusieji"
     },
     {
       "surface": "דברי",
-      "gloss": "žodžiai"
+      "gloss": "reikalai"
     },
     {
       "surface": "זמרי",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "קשר",
-      "gloss": "suokė"
+      "gloss": "jis suokė"
     },
     {
       "surface": "הלא",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "knygoje"
     },
     {
       "surface": "ספר",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "žodžiuose"
+      "gloss": "reikalų"
     },
     {
       "surface": "הימים",
@@ -94,6 +68,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T06:56:01.061303011Z",
+  "timestamp": "2026-10-20T12:06:43.126664629Z",
   "model": "glm-5.3"
 }

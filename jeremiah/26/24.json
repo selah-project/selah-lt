@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ranka buvo su",
-      "rationale": "hebrajų 'ranka su' = parama, globa; lietuvių 'ranka' savaime to nesako, bet forma išlaikyta"
-    }
-  ],
-  "translation": "Tačiau Achikamo, Šafano sūnaus, ranka buvo su Jeremijumi, kad neatiduotų ⟨את⟩ jo į žmonių ranką nužudyti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "28c68054f803527cf0f46ee1e578653df8b485e69bed8e4748e33727e67a6965",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/26\/21-24.1792482794101.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tačiau Ahikamo, Šafano sūnaus, ranka buvo ⟨su⟩ ⟨את⟩ Jeremijumi, kad ⟨to⟩ neduotų jo į tautos ranką ⟨את⟩ jį nužudyti.",
   "tokens": [
     {
       "surface": "אך",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Achikamo"
+      "gloss": "Ahikamo"
     },
     {
       "surface": "בן",
@@ -50,23 +34,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jeremijų"
+      "marks": "Jeremijumi"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "su Jeremijumi"
+      "gloss": "Jeremijumi"
     },
     {
       "surface": "לבלתי",
-      "gloss": "kad ne"
+      "gloss": "kad ⟨to⟩ ne"
     },
     {
       "surface": "תת",
-      "gloss": "atiduotų"
+      "gloss": "neduotų"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "į tautos ranką"
     },
     {
       "surface": "ביד",
@@ -74,13 +59,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "žmonių"
+      "gloss": "tautos"
     },
     {
       "surface": "להמיתו",
-      "gloss": "nužudyti"
+      "gloss": "jį nužudyti"
     }
   ],
-  "timestamp": "2026-10-20T07:53:14.102955759Z",
+  "timestamp": "2026-10-20T12:30:03.354134064Z",
   "model": "glm-5.3"
 }

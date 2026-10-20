@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kur tie vyrai",
-      "rationale": "איפה: 'kur' (JPS) prieš 'kokie jie buvo' (KJV) — hebrajiškai klausiama vietos, ne savybės"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨buvo⟩",
-      "rationale": "hebrajų neturi būtojo laiko veiksmažodžio — pridėta kopula"
-    },
-    {
-      "kind": "you",
-      "subject": "Zevachui ir Calmunai",
-      "rationale": "Gideono tiesioginis klausimas Midiano kunigaikščiams"
-    }
-  ],
-  "translation": "Ir tarė Zevachui ir Calmunai: kur tie vyrai, kuriuos nužudėte Tavori? Ir jie tarė: kaip tu, tokie jie ⟨buvo⟩; kiekvienas — pagal karaliaus sūnų pavidalą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/8\/17-20.1792476556699.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis tarė Zevachui ir Calmunai: Kur tie vyrai, kuriuos nužudėte Tavore? O jie atsakė: Kaip tu, tokie jie buvo — kiekvienas ⟨vienas⟩ kaip karaliaus sūnų pavidalas.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir jis tarė"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Zevachui"
     },
     {
       "surface": "זבח",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "איפה",
-      "gloss": "kur"
+      "gloss": "Kur"
     },
     {
       "surface": "האנשים",
@@ -71,27 +45,27 @@
     },
     {
       "surface": "בתבור",
-      "gloss": "Tavori"
+      "gloss": "Tavore"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ir jie tarė"
+      "gloss": "O jie atsakė"
     },
     {
       "surface": "כמוך",
-      "gloss": "kaip tu"
+      "gloss": "Kaip tu"
     },
     {
       "surface": "כמוהם",
-      "gloss": "tokie jie"
+      "gloss": "tokie jie buvo"
     },
     {
       "surface": "אחד",
-      "gloss": "kiekvienas vienas"
+      "gloss": "⟨vienas⟩"
     },
     {
       "surface": "כתאר",
-      "gloss": "pagal pavidalą"
+      "gloss": "kaip ... pavidalas"
     },
     {
       "surface": "בני",
@@ -102,6 +76,6 @@
       "gloss": "karaliaus"
     }
   ],
-  "timestamp": "2026-10-20T06:09:16.701711755Z",
+  "timestamp": "2026-10-20T12:36:58.162957541Z",
   "model": "glm-5.3"
 }

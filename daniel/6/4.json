@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruach",
-      "rationale": "רוח verčiama skambesiu „ruach“ — vienas žodis: Dvasia, vėjas, kvapas"
-    },
-    {
-      "kind": "elision",
-      "subject": "כל קבל די",
-      "rationale": "Aramejiškas junginys „visai dėl to, kad“ sutraukytas į „nes“"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מתנצח",
-      "rationale": "Ši Aramejiško נצח („tapti viršesniam“) forma pasireiškia tik čia Tanache"
-    }
-  ],
-  "translation": "Tada šis Danielis tapo iškilesnis už vyriausiuosius ir satrapus, nes jame ⟨buvo⟩ ypatinga ruach, ir karalius galvojo jį pastatyti virš visos karalystės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/daniel\/6\/1-4.1792491866882.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tada šis Danielis buvo išskirtas virš sarchų ir achašdarpenų, nes ⟨buvo⟩ jame išskirtinė ruach, ir karalius sumanė jį pastatyti virš visos karalystės.",
   "tokens": [
     {
       "surface": "אדין",
-      "gloss": "Tada"
+      "gloss": "tada"
     },
     {
       "surface": "דניאל",
@@ -47,35 +21,35 @@
     },
     {
       "surface": "הוא",
-      "gloss": "tapo"
+      "gloss": "⟨buvo⟩"
     },
     {
       "surface": "מתנצח",
-      "gloss": "iškilesnis"
+      "gloss": "išskirtas"
     },
     {
       "surface": "על",
-      "gloss": "už"
+      "gloss": "virš"
     },
     {
       "surface": "סרכיא",
-      "gloss": "vyriausiuosius"
+      "gloss": "sarchų"
     },
     {
       "surface": "ואחשדרפניא",
-      "gloss": "ir satrapus"
+      "gloss": "ir achašdarpenų"
     },
     {
       "surface": "כל",
-      "gloss": "nes"
+      "gloss": ""
     },
     {
       "surface": "קבל",
-      "gloss": ""
+      "gloss": "nes"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "רוח",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "יתירא",
-      "gloss": "ypatinga"
+      "gloss": "išskirtinė"
     },
     {
       "surface": "בה",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "עשית",
-      "gloss": "galvojo"
+      "gloss": "sumanė"
     },
     {
       "surface": "להקמותה",
@@ -114,6 +88,6 @@
       "gloss": "karalystės"
     }
   ],
-  "timestamp": "2026-10-20T10:24:26.883451580Z",
+  "timestamp": "2026-10-20T12:15:02.755012833Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מראתו",
-      "rationale": "retas žodis — paukščio gūžys; KJV 'crop with his feathers', ASV 'crop with the filth thereof'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "קדמה",
-      "rationale": "שורש קדם reiškia ir 'priekis', ir 'rytai' — 'rytų pusėje' yra priekinė altoriaus pusė"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מראתו",
-      "rationale": "šaknis ראה 'matyti' — 'matomas dalykas', iškilumas: gūžys pavadintas pagal ryškumą"
-    }
-  ],
-  "translation": "Ir jis pašalins ⟨את⟩ jos gūžį su jos plunksnomis ir mes jį šalia altoriaus, rytų pusėje, prie pelenų vietos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/1\/13-16.1792473141715.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis pašalins ⟨את⟩ jo gūžį su jo plunksnomis ir mes ⟨את⟩ ją prie aukuro rytų pusėje, prie pelenų vietos.",
   "tokens": [
     {
       "surface": "והסיר",
@@ -40,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jos gūžį"
+      "marks": "jo gūžį"
     },
     {
       "surface": "מראתו",
-      "gloss": "jos gūžį"
+      "gloss": "jo gūžys"
     },
     {
       "surface": "בנצתה",
-      "gloss": "su jos plunksnomis"
+      "gloss": "su jo plunksnomis"
     },
     {
       "surface": "והשליך",
@@ -57,15 +31,15 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (gūžį su plunksnomis)"
     },
     {
       "surface": "אצל",
-      "gloss": "šalia"
+      "gloss": "prie"
     },
     {
       "surface": "המזבח",
-      "gloss": "altoriaus"
+      "gloss": "aukuro"
     },
     {
       "surface": "קדמה",
@@ -84,6 +58,6 @@
       "gloss": "pelenų"
     }
   ],
-  "timestamp": "2026-10-20T05:12:21.719154113Z",
+  "timestamp": "2026-10-20T12:37:34.230620319Z",
   "model": "glm-5.3"
 }

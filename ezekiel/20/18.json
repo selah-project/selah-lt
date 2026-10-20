@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "savo",
-      "rationale": "Lietuvių reikalauja sangrąžinę nuosavybę, hebrajų turi tik 'jūsų tėvų'."
-    },
-    {
-      "kind": "you",
-      "subject": "sūnums dykumoje",
-      "rationale": "Tiesioginis kreipimasis į naująją kartą dykumoje draudžiamaisiais sakiniais."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Krypties dalelytė prieš 'sūnums' lietuvių linksniu išreiškiama per naudininką."
-    }
-  ],
-  "translation": "Ir aš tariau jų sūnums dykumoje: statutuose savo tėvų nevaikščiokite ir ⟨את⟩ jų teismų nesilaikykite, ir prie jų stabų nesusitepinkite.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/20\/17-20.1792484318709.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ašariau jų vaikams dykumoje: statutuose jūsų tėvų neikite, ir ⟨את⟩ jų teismus nesilaikykite, ir su jų stabais nesisuteptinkite.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "ir aš tariau"
+      "gloss": "ir ašariau"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "."
     },
     {
       "surface": "בניהם",
-      "gloss": "jų sūnums"
+      "gloss": "jų vaikams"
     },
     {
       "surface": "במדבר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אבותיכם",
-      "gloss": "savo tėvų"
+      "gloss": "jūsų tėvų"
     },
     {
       "surface": "אל",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "תלכו",
-      "gloss": "vaikščiokite"
+      "gloss": "eikite"
     },
     {
       "surface": "ואת",
-      "gloss": "ir ⟨את⟩",
-      "marks": "jų teismų"
+      "gloss": "⟨את⟩",
+      "marks": "jų teismus"
     },
     {
       "surface": "משפטיהם",
-      "gloss": "jų teismų"
+      "gloss": "jų teismus"
     },
     {
       "surface": "אל",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "nesilaikykite"
+      "gloss": "laikykite"
     },
     {
       "surface": "ובגלוליהם",
-      "gloss": "ir prie jų stabų"
+      "gloss": "ir su jų stabais"
     },
     {
       "surface": "אל",
@@ -92,9 +66,9 @@
     },
     {
       "surface": "תטמאו",
-      "gloss": "nusitepinkite"
+      "gloss": "sisuteptinkite"
     }
   ],
-  "timestamp": "2026-10-20T08:18:38.710216085Z",
+  "timestamp": "2026-10-20T12:21:23.919756877Z",
   "model": "glm-5.3"
 }

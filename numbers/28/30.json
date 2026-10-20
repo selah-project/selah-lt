@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "atpirkimui",
-      "rationale": "לכפר pažodžiui 'dengti, padengti' — lietuvių 'atpirkimas' yra ritualinės funkcijos vertimas, ne pažodinis paveikslas."
-    },
-    {
-      "kind": "elision",
-      "subject": "עזים",
-      "rationale": "Pavienis 'ožio ožiukas' perima עזים (ožkų) reikšmę, kadangi lietuvių kalboje 'ožio' jau sako rūšį — vertime žodis sulietas."
-    }
-  ],
-  "translation": "ir ožio ožiuką vieną, atpirkimui už ⟨את⟩ jus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/28\/29-31.1792474562552.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "vieną ožką-ėrį, kad būtų atpirkta už jus.",
   "tokens": [
     {
       "surface": "שעיר",
-      "gloss": "ožio ožiuką"
+      "gloss": "ožka-ėris"
     },
     {
       "surface": "עזים",
-      "gloss": "ožiuką"
+      "gloss": "ožkų"
     },
     {
       "surface": "אחד",
@@ -42,13 +21,13 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "atpirkimui"
+      "gloss": "kad būtų atpirkta"
     },
     {
       "surface": "עליכם",
-      "gloss": "už ⟨את⟩ jus"
+      "gloss": "už jus"
     }
   ],
-  "timestamp": "2026-10-20T05:36:02.553643229Z",
+  "timestamp": "2026-10-20T12:41:49.694873484Z",
   "model": "glm-5.3"
 }

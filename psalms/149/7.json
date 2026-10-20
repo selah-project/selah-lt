@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 149,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "papeikimų",
-      "rationale": "תוכחת — parakinimas, papeikimas, ne tik 'bausmės'"
-    }
-  ],
-  "translation": "Įvykdyti kerštą tautose, papeikimų — tautų bendrijose.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/149\/5-8.1792489340938.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Padaryti kerštą tautoms, papeikimų ⟨pataisymus⟩ žmonių bendrijoms.",
   "tokens": [
     {
       "surface": "לעשות",
-      "gloss": "įvykdyti"
+      "gloss": "padaryti"
     },
     {
       "surface": "נקמה",
@@ -33,17 +17,21 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "tautose"
+      "gloss": "tautoms"
     },
     {
       "surface": "תוכחת",
-      "gloss": "papeikimų"
+      "gloss": "papeikimų ⟨pataisymus⟩"
     },
     {
       "surface": "בל",
-      "gloss": "tautų bendrijose"
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "žmonių bendrijoms"
     }
   ],
-  "timestamp": "2026-10-20T09:42:20.938934001Z",
+  "timestamp": "2026-10-20T12:43:14.041133986Z",
   "model": "glm-5.3"
 }

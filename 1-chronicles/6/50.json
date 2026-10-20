@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בגורל",
-      "rationale": "„burtais \/ burtų keliu“ — skyrimas metant burtus, ne perdavimas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "burtų skyrimas",
-      "rationale": "miestai skiriami matomu būdu — burtų metimu pagal gentis"
-    }
-  ],
-  "translation": "Ir davė burtų keliu iš Jehudos sūnų genties, iš Šimono sūnų genties ir iš Benjmino sūnų genties ⟨את⟩ šiuos miestus, kuriuos jie pavadino vardais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-chronicles\/6\/49-52.1792492750790.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie paskyrė burtų keliu iš Jehudos giminių, iš Šimono giminių ir iš Binjamino giminių ⟨את⟩ šiuos miestus, kurie paminėti ⟨את⟩ juos vardais.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "Ir davė"
+      "gloss": "ir jie paskyrė"
     },
     {
       "surface": "בגורל",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ממטה",
-      "gloss": "iš genties"
+      "gloss": "iš giminės"
     },
     {
       "surface": "בני",
-      "gloss": "sūnų"
+      "gloss": "...vaikų"
     },
     {
       "surface": "יהודה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "ir iš genties"
+      "gloss": "ir iš giminės"
     },
     {
       "surface": "בני",
-      "gloss": "sūnų"
+      "gloss": "...vaikų"
     },
     {
       "surface": "שמעון",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "ir iš genties"
+      "gloss": "ir iš giminės"
     },
     {
       "surface": "בני",
-      "gloss": "sūnų"
+      "gloss": "...vaikų"
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjmino"
+      "gloss": "Binjamino"
     },
     {
       "surface": "את",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "הערים",
-      "gloss": "miestus"
+      "gloss": "miestai"
     },
     {
       "surface": "האלה",
@@ -87,22 +66,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuriuos"
+      "gloss": "kurie"
     },
     {
-      "surface": "יקרראו",
-      "gloss": "pavadino"
+      "surface": "יקראו",
+      "gloss": "paminėti"
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨את⟩ juos",
-      "marks": "vardais"
+      "gloss": "⟨את⟩",
+      "marks": "juos vardais"
     },
     {
       "surface": "בשמות",
       "gloss": "vardais"
     }
   ],
-  "timestamp": "2026-10-20T10:39:10.791764947Z",
+  "timestamp": "2026-10-20T12:05:23.727503289Z",
   "model": "glm-5.3"
 }

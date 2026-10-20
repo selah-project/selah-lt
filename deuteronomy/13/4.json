@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "siela",
-      "rationale": "נפש — gyvybės jėga, alsavimas, ne platoniškoji 'siela'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Prielinksnis 'prie\/pas' žodžių 'klausyti' linksniuose — lietuvių veiksmažodis jį pasisavina, atskirai neverčiamas"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli",
-      "rationale": "Tiesioginis įsakymas antruoju asmeniu — 'nesklausyk' — adresuotas Izraeliui"
-    }
-  ],
-  "translation": "nesklausyk tų pranašo arba to sapnų sapnuotojo žodžių, nes Jahvė, jūsų Elohim, bando jus ⟨את⟩, kad žinotų, ar mylite ⟨את⟩ Jahvę, jūsų Elohim, visa savo širdimi ir visa savo siela.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/13\/1-4.1792475171664.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Neįklausykite žodžių to pranašo ar to sapnų-sapnuotojo, nes Jahvė, jūsų Elohim, išbando ⟨את⟩ jus, kad žinotų, ar jūs mylite ⟨את⟩ Jahvę, jūsų Elohim, visa savo širdimi ir visa savo gyvybės-jėga.",
   "tokens": [
     {
       "surface": "לא",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "klausyk"
+      "gloss": "įklausykite"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "į"
     },
     {
       "surface": "דברי",
@@ -51,27 +25,27 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "pranašo"
+      "gloss": "to pranašo"
     },
     {
       "surface": "ההוא",
-      "gloss": "tų"
+      "gloss": "to"
     },
     {
       "surface": "או",
-      "gloss": "arba"
+      "gloss": "ar"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "į"
     },
     {
       "surface": "חולם",
-      "gloss": "sapnuotojo"
+      "gloss": "sapnų-sapnuotojo"
     },
     {
       "surface": "החלום",
-      "gloss": "sapnų"
+      "gloss": "sapno"
     },
     {
       "surface": "ההוא",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "מנסה",
-      "gloss": "bando"
+      "gloss": "išbando"
     },
     {
       "surface": "יהוה",
@@ -104,7 +78,7 @@
     },
     {
       "surface": "הישכם",
-      "gloss": "ar"
+      "gloss": "ar jūs"
     },
     {
       "surface": "אהבים",
@@ -137,9 +111,9 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "savo siela"
+      "gloss": "savo gyvybės-jėga"
     }
   ],
-  "timestamp": "2026-10-20T05:46:11.667151506Z",
+  "timestamp": "2026-10-20T12:16:26.029524731Z",
   "model": "glm-5.3"
 }

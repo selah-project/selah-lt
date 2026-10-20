@@ -5,40 +5,19 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Prielinksnis 'ant\/dėl' neturi jokio aiškaus lietuviško atitikmens po 'mėgaukis'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mėgaukis",
-      "rationale": "ענג reiškia 'būti minkštam, jaukiam' — vaizdas prarandamas"
-    }
-  ],
-  "translation": "Ir mėgaukis Jahve, ir jis duos tau tavo širdies prašymus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/1-4.1792487854350.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir mėgaukis Jahve — ir jis duos tau ⟨את⟩ tavęs širdies prašymus.",
   "tokens": [
     {
       "surface": "והתענג",
-      "gloss": "mėgaukis"
+      "gloss": "ir mėgaukis"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ant"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvė"
     },
     {
       "surface": "ויתן",
@@ -50,13 +29,13 @@
     },
     {
       "surface": "משאלת",
-      "gloss": "prašymus"
+      "gloss": "prašymus ⟨את⟩"
     },
     {
       "surface": "לבך",
-      "gloss": "tavo širdies"
+      "gloss": "tavęs širdies"
     }
   ],
-  "timestamp": "2026-10-20T09:17:34.351331246Z",
+  "timestamp": "2026-10-20T12:43:40.225689336Z",
   "model": "glm-5.3"
 }

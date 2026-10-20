@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מבן עשרים שנה",
-      "rationale": "Pažodžiui „nuo dvidešimties metų sūnaus“ — hebrajų išsireiškimas amžiui nurodyti"
-    },
-    {
-      "kind": "measurement",
-      "subject": "amžiaus riba",
-      "rationale": "Skaičiavimo kriterijus — dvidešimt metų ir vyresni, einantys į kariuomenę"
-    }
-  ],
-  "translation": "Nuo dvidešimties metų ir aukščiau — visi, einantys į kariuomenę Jisraelyje, tuos suskaičiuokite pagal jų kariuomenes, tu ir Aharonas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/1\/1-4.1792473849614.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nuo dvidešimt metų ir aukščiau, visi, kurie išeina į karo pulką Jisraelyje — suskaičiuokite ⟨את⟩ juos pagal jų pulkus, tu ir Aharonas.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "Nuo sūnaus"
+      "gloss": "nuo sūnaus"
     },
     {
       "surface": "עשרים",
-      "gloss": "dvidešimties"
+      "gloss": "dvidešimt"
     },
     {
       "surface": "שנה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "einantys"
+      "gloss": "išeina"
     },
     {
       "surface": "צבא",
-      "gloss": "į kariuomenę"
+      "gloss": "karo pulką"
     },
     {
       "surface": "בישראל",
@@ -67,11 +46,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tuos"
+      "marks": "juos"
     },
     {
       "surface": "לצבאתם",
-      "gloss": "pagal jų kariuomenes"
+      "gloss": "pagal jų pulkus"
     },
     {
       "surface": "אתה",
@@ -82,6 +61,6 @@
       "gloss": "ir Aharonas"
     }
   ],
-  "timestamp": "2026-10-20T05:24:09.615976444Z",
+  "timestamp": "2026-10-20T12:40:13.835445844Z",
   "model": "glm-5.3"
 }

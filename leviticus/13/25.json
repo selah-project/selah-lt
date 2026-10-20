@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צרעת → caraat",
-      "rationale": "Lietuviškas 'raupsai' arba 'vysulys' yra medicinos spėjimas; caraat apima odos, drabužių ir namų dėmes, todėl paliktas pagal skambesį."
-    },
-    {
-      "kind": "substitution",
-      "subject": "פרחה → išsprogusi",
-      "rationale": "Veiksmažodis yra 'sprogti kaip pumpuras'; būtinybė pavadinti 'išplitusi' prarastų augimo paveikslą."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "טמא \/ נגע צרעת",
-      "rationale": "Formulė 'negá caraat tai yra' kartoja kaip teisinė išvaba — ritminė kunigo sprendimo formulė."
-    }
-  ],
-  "translation": "Ir kunigas pamatys ⟨את⟩ ją, ir štai — plaukas apvirto baltu balkšvoje dėmėje, ir jos išvaizda gilesnė už odą: tai caraat, nudegime ji išsprogusi, ir kunigas paskelbs jį nešvariu — negá caraat tai yra.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cd63a8ca935c7da5b1eaa4bb278bc3dddf288d17b0b43f95ca180a35e8d8403c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/13\/25-28.1792473408896.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir kunigas pamatys ⟨את⟩ ją, ir štai plaukas pavirto baltas baltojoje dėmėje, ir jos išvaizda ⟨yra⟩ gilesnė už odą — raupsai tai, nudegime išplitę; ir kunigas paskelbs ⟨את⟩ jį nešvariu — raupsų negą tai.",
   "tokens": [
     {
       "surface": "וראה",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "נהפך",
-      "gloss": "apvirto"
+      "gloss": "pavirto"
     },
     {
       "surface": "שער",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "לבן",
-      "gloss": "baltu"
+      "gloss": "baltas"
     },
     {
       "surface": "בבהרת",
-      "gloss": "balkšvoje dėmėje"
+      "gloss": "baltojoje dėmėje"
     },
     {
       "surface": "ומראה",
@@ -84,11 +58,11 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "caraat"
+      "gloss": "raupsai"
     },
     {
       "surface": "הוא",
-      "gloss": "tai yra"
+      "gloss": "tai"
     },
     {
       "surface": "במכוה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "פרחה",
-      "gloss": "išsprogusi"
+      "gloss": "išplitę"
     },
     {
       "surface": "וטמא",
@@ -105,7 +79,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "jį"
+      "marks": "jį (nudegusįjį)"
     },
     {
       "surface": "הכהן",
@@ -113,17 +87,17 @@
     },
     {
       "surface": "נגע",
-      "gloss": "negá"
+      "gloss": "negą"
     },
     {
       "surface": "צרעת",
-      "gloss": "caraat"
+      "gloss": "raupsų"
     },
     {
       "surface": "הוא",
-      "gloss": "tai yra"
+      "gloss": "tai"
     }
   ],
-  "timestamp": "2026-10-20T05:16:48.897826102Z",
+  "timestamp": "2026-10-20T12:37:43.624312005Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מדשתי ובן גרני",
-      "rationale": "Pažodžiui „mano kuliamasis ir mano girnų sūnus” — kreipinys į tautą kaip iškultą javą; vertėjai minkština į „mano tauta”."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeliui",
-      "rationale": "Pranašas kreipiasi į tautą — „paskelbiau jums”."
-    }
-  ],
-  "translation": "Kuliamasis mano ir sūnau mano girnų! Ką išgirdau iš ⟨את⟩ Jahvės Cevaot, Jisraelio Elohim, tai paskelbiau jums.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/21\/9-12.1792480988767.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mano iškultiaulta ir mano gumno sūnau, ką išgirdau iš ⟨את⟩ Jahvės Cevaot, Elohim Jisraelio, tai paskelbiau jums.",
   "tokens": [
     {
       "surface": "מדשתי",
-      "gloss": "Kuliamasis mano"
+      "gloss": "mano iškultiaulta"
     },
     {
       "surface": "ובן",
       "gloss": "ir sūnau"
     },
     {
-      "surface": "גרнי",
-      "gloss": "mano girnų"
+      "surface": "גרני",
+      "gloss": "mano gumno"
     },
     {
       "surface": "אשר",
@@ -51,7 +30,7 @@
     {
       "surface": "מאת",
       "gloss": "iš ⟨את⟩",
-      "marks": "Jahvės Cevaot"
+      "marks": "Jahvės Cevaot, Elohim Jisraelio"
     },
     {
       "surface": "יהוה",
@@ -78,6 +57,6 @@
       "gloss": "jums"
     }
   ],
-  "timestamp": "2026-10-20T07:23:08.768304537Z",
+  "timestamp": "2026-10-20T12:28:09.668244722Z",
   "model": "glm-5.3"
 }

@@ -5,46 +5,19 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יכלכלוך",
-      "rationale": "'išlaikyti\/apimti' (כול) — 'sutilpti' vs 'išlaikyti': dauguma verčia 'negali tavęs aprėpti', čia pasirinkta 'neišplečia' kaip erdvinis vaizdas."
-    },
-    {
-      "kind": "addition",
-      "subject": "aš",
-      "gloss": "פתוחות cont. — pratęsta iš v. 20 konstrukcijos",
-      "rationale": "hebrajiškas כול su 2-asmeniu priesaga reiškia 'negali tavęs kęsti\/talpinti'; lietuviškame vertime netaisyklinga forma pataisyta."
-    },
-    {
-      "kind": "you",
-      "subject": "Saliamonas kalba Jahvei",
-      "rationale": "retorinis klausimas, nukreiptas į Jahvę."
-    }
-  ],
-  "translation": "Juk ar iš tikrųjų Elohim gyvens ⟨את⟩ žmogų ant žemės? Štai dangus ir dangų dangai ⟨neišplečia⟩ tavęs — juo labiau šis namas, kurį aš pastačiau!",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/6\/17-20.1792493331578.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ar iš tiesų Elohim gyvens ⟨su⟩ ⟨את⟩ žmogumi žemėje? Štai dangus ir dangų dangai nesutalpins tavęs — juo labiau šis namas, kurį aš pastatytau!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "juk"
+      "gloss": "ar"
     },
     {
       "surface": "האמנם",
-      "gloss": "ar iš tikrųjų"
+      "gloss": "iš tiesų"
     },
     {
       "surface": "ישב",
-      "gloss": "gyvens"
+      "gloss": "gyvens (sėdės)"
     },
     {
       "surface": "אלהים",
@@ -53,15 +26,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "žmogų"
+      "marks": "žmogumi"
     },
     {
       "surface": "האדם",
-      "gloss": "žmogų"
+      "gloss": "žmogumi"
     },
     {
       "surface": "על",
-      "gloss": "ant"
+      "gloss": "žemėje (ant)"
     },
     {
       "surface": "הארץ",
@@ -69,7 +42,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "štai"
+      "gloss": "Štai"
     },
     {
       "surface": "שמים",
@@ -77,19 +50,19 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "ir dangų dangai"
+      "gloss": "ir dangų"
     },
     {
       "surface": "השמים",
-      "gloss": "dangų dangai"
+      "gloss": "dangų"
     },
     {
       "surface": "לא",
-      "gloss": "⟨neišplečia⟩"
+      "gloss": "ne"
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "tavęs neišplečia"
+      "gloss": "sutalpins tavęs"
     },
     {
       "surface": "אף",
@@ -97,11 +70,11 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "הבית",
-      "gloss": "namas"
+      "gloss": "šis namas"
     },
     {
       "surface": "הזה",
@@ -116,6 +89,6 @@
       "gloss": "aš pastačiau"
     }
   ],
-  "timestamp": "2026-10-20T10:48:51.579879105Z",
+  "timestamp": "2026-10-20T12:10:54.205252706Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Jahvė",
-      "rationale": "Maldos kreipimasis į Dievą per visą eilutę."
-    },
-    {
-      "kind": "substitution",
-      "subject": "nenuleisk",
-      "rationale": "Šgה — klaidžioti\/nuklysti; „nuklysti nuo įsakymų“ arba „leisk man neklaidžioti“."
-    }
-  ],
-  "translation": "Visa širdimi tavęs ieškojau — nenuleisk manęs nuo tavo įsakymų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/119\/9-12.1792489074357.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Visa širdimi ieškojau tavęs; neleisk man nuklysti nuo tavo micvot.",
   "tokens": [
     {
       "surface": "בכל",
-      "gloss": "Visa"
+      "gloss": "visa"
     },
     {
       "surface": "לבי",
@@ -38,21 +17,21 @@
     },
     {
       "surface": "דרשתיך",
-      "gloss": "tavęs ieškojau"
+      "gloss": "ieškojau tavęs"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "ne"
     },
     {
-      "surface": "תשgני",
-      "gloss": "nenuleisk manęs"
+      "surface": "תשגני",
+      "gloss": "leisk man nuklysti"
     },
     {
       "surface": "ממצותיך",
-      "gloss": "nuo tavo įsakymų"
+      "gloss": "nuo tavo micvot"
     }
   ],
-  "timestamp": "2026-10-20T09:37:54.358431048Z",
+  "timestamp": "2026-10-20T12:43:12.292581251Z",
   "model": "glm-5.3"
 }

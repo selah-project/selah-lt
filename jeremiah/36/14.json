@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "kunigaikščių žodžiai",
-      "rationale": "Kunigaikščiai šaukia Baruchą: 'imk ir ateik' — tiesioginis kreipimasis su imperatyvais."
-    },
-    {
-      "kind": "crux",
-      "subject": "המגלה",
-      "rationale": "'Rankinė knyga' (ritinys) vs 'knyga' — žodis reiškia ritinį, lietuviškai nėra vieno tikslaus žodžio"
-    }
-  ],
-  "translation": "Ir visi kunigaikščiai pasiuntė pas Baruchą Jehudį, Netanijo sūnų, Šelemijo sūnų, Kušio sūnų, sakydami: Rankinę knygą, kurią skaitei joje žmonių ausyse, imk į savo ranką ir ateik. Ir Baruchas, Nerijo sūnus, paėmė ⟨את⟩ rankinę knygą į savo ranką ir atėjo pas juos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "37213f5ceb141864119539f6fcca21c126276a5fc5a17c2285bbdeaf48ab309d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/36\/13-16.1792483204164.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir visi kunigaikščiai pasiuntė pas Baruchą ⟨את⟩ Jechudį, Netanijahu sūnų, Šelemijahu sūnų, Kuši sūnų, sakydami: ritinį, kurį skaitei žmonių ausims, imk jį į savo ranką ir ateik. Ir Baruchas, Nerijahu sūnus, paėmė ⟨את⟩ ritinį į savo ranką ir atėjo pas juos.",
   "tokens": [
     {
       "surface": "וישלחו",
@@ -51,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehudį"
+      "marks": "Jechudis"
     },
     {
       "surface": "יהודי",
-      "gloss": "Jehudis"
+      "gloss": "Jechudį"
     },
     {
       "surface": "בן",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נתניהו",
-      "gloss": "Netanijo"
+      "gloss": "Netanijahu"
     },
     {
       "surface": "בן",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "שלמיהו",
-      "gloss": "Šelemijo"
+      "gloss": "Šelemijahu"
     },
     {
       "surface": "בן",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "כושי",
-      "gloss": "Kušio"
+      "gloss": "Kuši"
     },
     {
       "surface": "לאמר",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "המגלה",
-      "gloss": "rankinę knygą"
+      "gloss": "ritinį"
     },
     {
       "surface": "אשר",
-      "gloss": "kurią"
+      "gloss": "kurį"
     },
     {
       "surface": "קראת",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "joje"
+      "gloss": "jį"
     },
     {
       "surface": "באזני",
-      "gloss": "ausyse"
+      "gloss": "ausims"
     },
     {
       "surface": "העם",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "קחנה",
-      "gloss": "imk"
+      "gloss": "imk jį"
     },
     {
       "surface": "בידך",
@@ -135,16 +114,16 @@
     },
     {
       "surface": "נריהו",
-      "gloss": "Nerijo"
+      "gloss": "Nerijahu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rankinę knygą"
+      "marks": "ritinys"
     },
     {
       "surface": "המגלה",
-      "gloss": "rankinę knygą"
+      "gloss": "ritinį"
     },
     {
       "surface": "בידו",
@@ -159,6 +138,6 @@
       "gloss": "pas juos"
     }
   ],
-  "timestamp": "2026-10-20T08:00:04.172955136Z",
+  "timestamp": "2026-10-20T12:31:34.332276042Z",
   "model": "glm-5.3"
 }

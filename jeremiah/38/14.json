@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "Hebrajų kalba neturi kopulos 'kuris yra' — pridėta lietuviškai."
-    },
-    {
-      "kind": "crux",
-      "subject": "השלישי",
-      "rationale": "'Trečiasis įėjimas' — karaliaus asmens sargybos trečias vartas; kai kurie verčia 'trečiasis kiemas'."
-    },
-    {
-      "kind": "you",
-      "subject": "Jirmejahu",
-      "rationale": "Karaliaus Cidkijahu tiesioginis kreipimasis į pranašą."
-    }
-  ],
-  "translation": "Ir karalius Cidkijahu pasiuntė ir pasiėmė ⟨את⟩ Jirmejahu pranašą pas save, prie trečiojo įėjimo, kuris yra Jahvės namelyje; ir tarė karalius Jirmejahu: Klausiu aš ⟨את⟩ tavęs žodžio — neslėpk nuo manęs žodžio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "31d349052df0ebd677b66488c65d1dfcbbfa23515641f1606a31a789823ab5b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/38\/13-16.1792483343904.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius Cidkijahu pasiuntė, ir paėmė ⟨את⟩ pranašą Jeremiją pas save, prie trečiojo įėjimo, kuris ⟨yra⟩ Jahvės name. Ir karalius tarė Jeremijui: Klausiu ⟨את⟩ tavęs ⟨dėl⟩ žodžio — neslėpk nuo manęs nė žodžio.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ir pasiuntė"
+      "gloss": "Ir pasiuntė"
     },
     {
       "surface": "המלך",
@@ -47,16 +21,16 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "ir pasiėmė"
+      "gloss": "ir paėmė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmejahu"
+      "marks": "pranašą Jeremiją"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremiją"
     },
     {
       "surface": "הנביא",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "namelyje"
+      "gloss": "name"
     },
     {
       "surface": "יהוה",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "המלך",
@@ -100,15 +74,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-iui"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jeremij"
     },
     {
       "surface": "שאל",
-      "gloss": "klausiu"
+      "gloss": "Klausiu"
     },
     {
       "surface": "אני",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ tavęs",
+      "gloss": "⟨את⟩",
       "marks": "tavęs"
     },
     {
@@ -140,6 +114,6 @@
       "gloss": "žodžio"
     }
   ],
-  "timestamp": "2026-10-20T08:02:23.906089425Z",
+  "timestamp": "2026-10-20T12:31:14.622006076Z",
   "model": "glm-5.3"
 }

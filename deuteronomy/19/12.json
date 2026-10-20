@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גאל הדם",
-      "rationale": "„kraujo išpirkėjas“ ar „kraujo keršytojas“ — giminės teisės atstovas, ne valstybės budelis"
-    }
-  ],
-  "translation": "Tai jo miesto vyresnieji pasiųs, ir paims jį ⟨iš ten⟩, ir atiduos jį į kraujo išpirkėjo ranką, ir jis mirs.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/19\/9-12.1792475250198.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tai seniūnai jo miesto pasiųs ir paims jį ⟨את⟩ iš ten, ir atiduos jį ⟨את⟩ į rankas kraujo išpirkėjui, ir jis mirs.",
   "tokens": [
     {
       "surface": "ושלחו",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "vyresnieji"
+      "gloss": "seniūnai"
     },
     {
       "surface": "עירו",
@@ -37,12 +21,12 @@
     },
     {
       "surface": "ולקחו",
-      "gloss": "ir paims"
+      "gloss": "paims"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį (iš ten)"
     },
     {
       "surface": "משם",
@@ -50,20 +34,20 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "ir atiduos"
+      "gloss": "atiduos"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį"
+      "gloss": "⟨את⟩",
+      "marks": "jį (į rankas kraujo išpirkėjui)"
     },
     {
       "surface": "ביד",
-      "gloss": "į ranką"
+      "gloss": "į rankas"
     },
     {
       "surface": "גאל",
-      "gloss": "išpirkėjo"
+      "gloss": "kraujo išpirkėjui"
     },
     {
       "surface": "הדם",
@@ -74,6 +58,6 @@
       "gloss": "ir jis mirs"
     }
   ],
-  "timestamp": "2026-10-20T05:47:30.201052438Z",
+  "timestamp": "2026-10-20T12:16:15.792164362Z",
   "model": "glm-5.3"
 }

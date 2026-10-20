@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "šis",
-      "rationale": "paskutinis ויאמר be subjekto — lietuviškame tekste reikia įvardžio"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "prieš מי krypties prielinksnis lietuvių klausimamajame „kam“ jau savyje"
-    }
-  ],
-  "translation": "Ir atėjęs — ir štai kariuomenės vadai sėdėjo; ir jis tarė: Žodį turiu tau, vade. Ir Jehu tarė: Kam iš mūsų visų? Ir šis tarė: Tau, vade.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/9\/5-8.1792479916817.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atėjęs ⟨yra⟩ štai karo vadai sėdėjo, ir jis tarė: Turiu žodį tau, vade. O Jehu tarė: Kuriam iš mūsų visų? Ir jis tarė: Tau, vade.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "ir štai"
+      "gloss": "štai"
     },
     {
       "surface": "שרי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "החיל",
-      "gloss": "kariuomenės"
+      "gloss": "karo"
     },
     {
       "surface": "ישבים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ir jis tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "דבר",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kuriam"
     },
     {
       "surface": "מי",
-      "gloss": "kam"
+      "gloss": "kuriam"
     },
     {
       "surface": "מכלנו",
@@ -101,6 +80,6 @@
       "gloss": "vade"
     }
   ],
-  "timestamp": "2026-10-20T07:05:16.818281032Z",
+  "timestamp": "2026-10-20T12:13:14.125403702Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 112,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Sąjunga „kad\/kai“ liejasi su lietuvišku „kol“ į vieną žodį"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בצריו",
-      "rationale": "Pažodžiui „savo suspaudėjai“ (nuo צר „siauras“); „priešininkai“ — vaidmuo, ne paveikslas"
-    },
-    {
-      "kind": "crux",
-      "subject": "יראה בצריו",
-      "rationale": "KJV „pamatys savo norą priešininkuose“ vs tiesiog „pamatys savo priešininkus“ — ראה ב be objekto "
-    }
-  ],
-  "translation": "Paremta jo širdis — jis nebijos, kol pamatys savo priešininkus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/112\/5-8.1792488953222.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jo širdis ⟨yra⟩ paremta — jis nebijos, kol pamatys ⟨את⟩ savo priešus.",
   "tokens": [
     {
       "surface": "סמוך",
-      "gloss": "Paremta"
+      "gloss": "paremta"
     },
     {
       "surface": "לבו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יירא",
-      "gloss": "jis nebijos"
+      "gloss": "bijos"
     },
     {
       "surface": "עד",
@@ -55,17 +29,18 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "kad"
     },
     {
       "surface": "יראה",
       "gloss": "pamatys"
     },
     {
-      "surface": "בצריv",
-      "gloss": "savo priešininkus"
+      "surface": "בצריו",
+      "gloss": "savo priešus",
+      "marks": "savo priešus"
     }
   ],
-  "timestamp": "2026-10-20T09:35:53.223159825Z",
+  "timestamp": "2026-10-20T12:43:07.345043819Z",
   "model": "glm-5.3"
 }

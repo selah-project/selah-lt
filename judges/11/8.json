@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ir",
-      "rationale": "Sujungiamieji žodžiai, hebrajų veiksmažodžių prieveiksmiui atspindėti."
-    },
-    {
-      "kind": "you",
-      "subject": "Jeftajui",
-      "rationale": "Vyresniųjų atsakymas — tiesioginis pažadas Jeftajui."
-    }
-  ],
-  "translation": "Ir Gilado vyresnieji tarė Jeftajui: Tad dabar mes sugrįžome pas tave, ir tu eisi su mumis, ir kausiesi su Amono vaikais, ir būsi mums galva — visiems Gilado gyventojams.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e95f0722b4c4f08df53a059bfc9c0aa4600a0b3db6022311d8638491f46f8a1a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/11\/5-8.1792476638258.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Gilado vyresnieji tarė Jiftachui: Tad dabar sugrįžome pas tave, ir tu eisi su mumis, ir kausiesi su Ammono vaikais, ir būsi mums ⟨kaip⟩ galva — visiems Gilado gyventojams.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Ir tarė"
+      "gloss": "ir tarė"
     },
     {
       "surface": "זקני",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "יפתח",
-      "gloss": "Jeftajui"
+      "gloss": "Jiftachą"
     },
     {
       "surface": "לכן",
-      "gloss": "Tad"
+      "gloss": "tad"
     },
     {
       "surface": "עתה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amono"
+      "gloss": "Ammono"
     },
     {
       "surface": "והיית",
@@ -109,6 +88,6 @@
       "gloss": "Gilado"
     }
   ],
-  "timestamp": "2026-10-20T06:10:38.260935536Z",
+  "timestamp": "2026-10-20T12:36:09.063357874Z",
   "model": "glm-5.3"
 }

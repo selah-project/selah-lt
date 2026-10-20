@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mano",
-      "rationale": "hebrajiškas אתי — aleph-tav su asmens priesaga, išlaikytas kaip ⟨את⟩ + įvardis"
-    }
-  ],
-  "translation": "Nes Jisraelio sūnūs ir Jehudos sūnūs darė tik pikta mano akyse nuo savo jaunystės; nes Jisraelio sūnūs tik ⟨את⟩ mane pykdė savo rankų darbais — sako Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/32\/29-32.1792483216788.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes Jisraelio sūnūs ir Jehudos sūnūs nuo savo jaunystės darė tik pikta mano akyse; nes Jisraelio sūnūs savo rankų darbu tik vargino ⟨את⟩ mane — sako Jahvė.",
   "tokens": [
     {
       "surface": "כי",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "darė"
+      "gloss": "darydavo"
     },
     {
       "surface": "הרע",
@@ -84,17 +68,17 @@
       "gloss": "tik"
     },
     {
-      "surface": "מכעיסים",
-      "gloss": "pykdė"
+      "surface": "מכעסים",
+      "gloss": "vargino"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mane",
-      "marks": "mano"
+      "gloss": "⟨את⟩",
+      "marks": "mane"
     },
     {
       "surface": "במעשה",
-      "gloss": "savo rankų darbais"
+      "gloss": "savo rankų darbu"
     },
     {
       "surface": "ידיהם",
@@ -109,6 +93,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T08:00:16.790672203Z",
+  "timestamp": "2026-10-20T12:31:24.353805781Z",
   "model": "glm-5.3"
 }

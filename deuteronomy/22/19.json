@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "šekeliai",
-      "rationale": "Hebrajiškai tik „šimtas sidabro“ — šekelis nepaminėtas; dauguma versijų jį prideda."
-    },
-    {
-      "kind": "measurement",
-      "subject": "šimtas sidabro",
-      "rationale": "Bausmės dydis nustatomas tiksliai — šimtas sidabro vienetų."
-    }
-  ],
-  "translation": "Ir nubaus jį šimtu sidabro ir duos jaunosios tėvui, nes jis išplatino blogą vardą apie Jisraelio mergelę; ir ji bus jam žmona — jis negalės jos atsiųsti visą savo gyvenimą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/22\/17-20.1792475384628.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir nubauskite ⟨את⟩ jį šimtu sidabro šekelių, ir duos ⟨tai⟩ merginos tėvui, nes jis išleido blogą vardą apie Jisraelio mergaitę; ir ji liks jam žmona — jis negalės jos atleisti visą savo gyvenimą.",
   "tokens": [
     {
       "surface": "וענשו",
-      "gloss": "ir nubaus"
+      "gloss": "Ir nubauskite"
     },
     {
       "surface": "אתו",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "jaunosios"
+      "gloss": "merginos"
     },
     {
       "surface": "כי",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "išplatino"
+      "gloss": "jis išleido"
     },
     {
       "surface": "שם",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "בתולת",
-      "gloss": "mergelę"
+      "gloss": "mergaitę-mergaitę"
     },
     {
       "surface": "ישראל",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "bus"
+      "gloss": "liks"
     },
     {
       "surface": "לאשה",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "לשלחה",
-      "gloss": "jos atsiųsti"
+      "gloss": "ją atleisti"
     },
     {
       "surface": "כל",
@@ -118,6 +97,6 @@
       "gloss": "savo gyvenimą"
     }
   ],
-  "timestamp": "2026-10-20T05:49:44.630797523Z",
+  "timestamp": "2026-10-20T12:17:00.588294181Z",
   "model": "glm-5.3"
 }

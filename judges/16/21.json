@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dviem",
-      "rationale": "נחשתים — dviejų skaičius, lietuvių reikia žodžio „dviem“, kad dviskaita liktų matoma"
-    },
-    {
-      "kind": "crux",
-      "subject": "טוחן",
-      "rationale": "„malti“ — vieni supranta kaip rankinį girnomaltę, kiti kaip jaučio darbą; hebrajiškas veiksmažodis sako tik „malė“"
-    }
-  ],
-  "translation": "Ir pelištiečiai jį sugriebė ir išdrėskė ⟨את⟩ jo akis, ir nuvarė jį žemyn į Azą, ir surišo jį dviem žalvario grandinėmis, ir jis tapo malančiuoju kalėjimo namuose.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "4f57d571f0059f300ee8b159067a876405318c62ebf9ccdfeb89f9eb410e5790",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/judges\/16\/21-24.1792476762993.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir peleistiečių jie jį griebė, ir išropo ⟨את⟩ jo akis, ir nuleido jį ⟨את⟩ Azotą, ir surišo jį dviem žalvario grandinėmis, ir tapo jis malančiuoju kalėjimo name.",
   "tokens": [
     {
       "surface": "ויאחזוהו",
-      "gloss": "sugriebė jį"
+      "gloss": "jie jį griebė"
     },
     {
       "surface": "פלשתים",
-      "gloss": "pelištiečiai"
+      "gloss": "pelisčiai"
     },
     {
       "surface": "וינקרו",
-      "gloss": "išdrėskė"
+      "gloss": "ir išropo"
     },
     {
       "surface": "את",
@@ -51,19 +30,20 @@
     },
     {
       "surface": "ויורידו",
-      "gloss": "nuvarė žemyn"
+      "gloss": "ir nuleido"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩ jį",
+      "marks": "į Azotą"
     },
     {
       "surface": "עזתה",
-      "gloss": "į Azą"
+      "gloss": "Azotą"
     },
     {
       "surface": "ויאסרוהו",
-      "gloss": "surišo jį"
+      "gloss": "ir surišo jį"
     },
     {
       "surface": "בנחשתים",
@@ -79,13 +59,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "namuose"
+      "gloss": "name"
     },
     {
       "surface": "האסירים",
       "gloss": "kalėjimo"
     }
   ],
-  "timestamp": "2026-10-20T06:12:42.994769165Z",
+  "timestamp": "2026-10-20T12:36:11.734338875Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתה",
-      "rationale": "Hebrew feminine self-form אֹתָהּ with 3fs suffix points at the hand; rendered as pronoun 'ją'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ją",
-      "rationale": "Lithuanian requires the object pronoun for the removal action"
-    }
-  ],
-  "translation": "Ir pamatė Jozefas, kad jo tėvas deda savo dešinę ranką ant Efraimo galvos, ir tai pasirodė bloga jo akyse; ir jis parėmė savo tėvo ranką, kad ją nuimtų nuo Efraimo galvos ant Menasės galvos.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "21316c13a6af0a71331f53839085133eea8eac6eb22f71438c102d435895d6ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/48\/17-20.1792472069170.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Josefas pamatė, kad jo tėvas deda savo dešinęs ranką ant Efraimo galvos, ir tai ⟨buvo⟩ bloga jo akyse; ir jis prilaikė savo tėvo ranką, kad nukeltų ⟨את⟩ ją nuo Efraimo galvos ant Menasės galvos.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Ir pamatė"
+      "gloss": "ir pamatė"
     },
     {
       "surface": "יוסף",
-      "gloss": "Jozefas"
+      "gloss": "Josefas"
     },
     {
       "surface": "כי",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ימינו",
-      "gloss": "savo dešinę"
+      "gloss": "savo dešinęs"
     },
     {
       "surface": "על",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וירע",
-      "gloss": "ir pasirodė bloga"
+      "gloss": "ir tai buvo bloga"
     },
     {
       "surface": "בעיניו",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ויתמך",
-      "gloss": "ir jis parėmė"
+      "gloss": "ir prilaikė"
     },
     {
       "surface": "יד",
@@ -90,12 +69,12 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "kad nuimtų"
+      "gloss": "kad nukeltų"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ją (tėvo ranką)"
+      "gloss": "⟨את⟩ ją",
+      "marks": "ją — tėvo ranką"
     },
     {
       "surface": "מעל",
@@ -122,6 +101,6 @@
       "gloss": "Menasės"
     }
   ],
-  "timestamp": "2026-10-20T04:54:29.172117582Z",
+  "timestamp": "2026-10-20T12:27:37.971981632Z",
   "model": "glm-5.3"
 }

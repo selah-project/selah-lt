@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "siela",
-      "rationale": "נפש arčiau 'gerklė \/ gyvybės jėga' negu 'siela'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Prisaikdinimo formulė 'gyva Jahvė'."
-    }
-  ],
-  "translation": "O dabar, mano pone — gyva Jahvė ir gyva tavo siela, kad Jahvė tave sulaikė nuo ėjimo su krauju ir išgelbėjo tavo ranką tau: ir dabar tebūnie tavo priešai kaip Navalas ir tie, kurie ieško mano ponui blogio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "193b1b23fad23c9a764039782d4f7707d74ef1f55606b09075641da6cd0586e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/25\/25-28.1792477709487.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dabar, mano pone, gyva ⟨yra⟩ Jahvė ir gyva tavo nefesh, ⟨tai⟩ Jahvė, kuris sulaikė tave nuo atėjimo su krauju ir išgelbėjo tavo ranką tau; ir dabar tebūnie tavo priešai kaip Nabalas ir tie, kurie ieško mano ponui blogio.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "o dabar"
+      "gloss": "ir dabar"
     },
     {
       "surface": "אדני",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "gyva"
+      "gloss": "gyvas"
     },
     {
       "surface": "יהוה",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "tavo siela"
+      "gloss": "tavo nefesh"
     },
     {
       "surface": "אשר",
-      "gloss": "kad"
+      "gloss": "kuris"
     },
     {
       "surface": "מנעך",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מבוא",
-      "gloss": "nuo ėjimo"
+      "gloss": "nuo atėjimo"
     },
     {
       "surface": "בדמים",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ידך",
-      "gloss": "tavo ranką"
+      "gloss": "tavo ranka"
     },
     {
       "surface": "לך",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "כנבל",
-      "gloss": "kaip Navalas"
+      "gloss": "kaip Nabalas"
     },
     {
       "surface": "איביך",
@@ -117,6 +96,6 @@
       "gloss": "blogio"
     }
   ],
-  "timestamp": "2026-10-20T06:28:29.489343212Z",
+  "timestamp": "2026-10-20T12:08:32.005707150Z",
   "model": "glm-5.3"
 }

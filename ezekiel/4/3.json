@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨kaip⟩",
-      "rationale": "lyginamoji šalutinių narių sąsaja, kurios hebrajų tekstas neturi"
-    },
-    {
-      "kind": "mystery",
-      "subject": "geležies siena",
-      "rationale": "simbolinis barjeras tarp pranašo ir miesto — uždengtas ženklas"
-    }
-  ],
-  "translation": "O tu pasiimk sau geležinę keptuvę ir padėk ją ⟨kaip⟩ geležies sieną tarp savęs ir tarp miesto, ir atkreipk ⟨את⟩ savo veidą į ją, ir ji bus apsultyje, ir tu ją apsiausi. Tai yra ženklas Jisraelio namams.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/4\/1-4.1792483924806.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir tu imk sau geležinę keptuvę, ir padaryk ją geležies siena tarp tavęs ir miesto, ir nukreipk ⟨את⟩ savo veidą į ją, ir ji bus apgultyje, ir tu ją apsiausi — ⟨את⟩ ji yra ženklas Jisraelio namams.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "o tu"
+      "gloss": "ir tu"
     },
     {
       "surface": "קח",
-      "gloss": "pasiimk"
+      "gloss": "imk"
     },
     {
       "surface": "לך",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "ir padėk"
+      "gloss": "ir padaryk"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "ją (keptuvę)"
+      "gloss": "⟨את⟩ ją",
+      "marks": "geležies siena"
     },
     {
       "surface": "קיר",
-      "gloss": "sieną"
+      "gloss": "siena"
     },
     {
       "surface": "ברזל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בינך",
-      "gloss": "tarp savęs"
+      "gloss": "tarp tavęs"
     },
     {
       "surface": "ובין",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "ir atkreipk"
+      "gloss": "ir nukreipk"
     },
     {
       "surface": "את",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "במצור",
-      "gloss": "apsultyje"
+      "gloss": "apgultyje"
     },
     {
       "surface": "וצרת",
-      "gloss": "ir apsiausi"
+      "gloss": "ir tu apsiausi"
     },
     {
       "surface": "עליה",
@@ -116,17 +95,17 @@
     },
     {
       "surface": "היא",
-      "gloss": "tai yra"
+      "gloss": "ji"
     },
     {
       "surface": "לבית",
-      "gloss": "Jisraelio namams"
+      "gloss": "namams"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T08:12:04.819346184Z",
+  "timestamp": "2026-10-20T12:23:09.534781678Z",
   "model": "glm-5.3"
 }

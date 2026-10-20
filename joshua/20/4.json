@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "באזני",
-      "rationale": "„Į ausis“ — hebrajiškas tiesioginio klausymo ženklas, laikyta pažodžiui."
-    }
-  ],
-  "translation": "Ir jis pabėgs į vieną iš šitų miestų ir stovės įėjime miesto vartų, ir kalbės į tų miesto seniūnų ausis ⟨את⟩ savo reikalą; ir jie ⟨את⟩ jį priims į miestą pas save, ir duos jam vietą, ir jis gyvens su jais.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/20\/1-4.1792476140485.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis pabėgs prie vieno iš šių miestų ir stovės prie įėjimo į miesto vartus, ir kalbės į to miesto vyresniųjų ausis ⟨את⟩ savo reikalą; ir jie priims jį ⟨את⟩ į miestą pas save, ir duos jam vietą, ir jis gyvens su jais.",
   "tokens": [
     {
       "surface": "ונס",
@@ -29,19 +13,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "į"
+      "gloss": "prie"
     },
     {
       "surface": "אחת",
-      "gloss": "vieną"
+      "gloss": "vieno"
     },
     {
       "surface": "מהערים",
-      "gloss": "iš miestų"
+      "gloss": "iš šių miestų"
     },
     {
       "surface": "האלה",
-      "gloss": "šitų"
+      "gloss": "šių"
     },
     {
       "surface": "ועמד",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "įėjime"
+      "gloss": "prie įėjimo"
     },
     {
       "surface": "שער",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "זקני",
-      "gloss": "seniūnų"
+      "gloss": "vyresniųjų"
     },
     {
       "surface": "העיר",
@@ -89,12 +73,13 @@
       "gloss": "savo reikalą"
     },
     {
-      "surface": "ואספu",
+      "surface": "ואספו",
       "gloss": "ir priims"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį"
+      "gloss": "⟨את⟩",
+      "marks": "į miestą"
     },
     {
       "surface": "העירה",
@@ -125,6 +110,6 @@
       "gloss": "su jais"
     }
   ],
-  "timestamp": "2026-10-20T06:02:20.489151046Z",
+  "timestamp": "2026-10-20T12:34:55.368266839Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,23 @@
   "book": "hosea",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kunigai-stabmeldžiai",
-      "rationale": "כמרים — ne įprasti kunigai, o stabų kulto tarnai; kunigų žodis keičiamas prievartaujant tekstą"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tai⟩",
-      "rationale": "hebrajiškas veiksmažodis be veiksnio — lietuvių kalbai reikia įvardžio"
-    }
-  ],
-  "translation": "Bet-Aveno veršelių bijos Šomrono gyventojai, nes jį apraudos jo tauta, ir jo kunigai-stabmeldžiai dėl jo džiūgaus — dėl jo šlovės, nes ⟨tai⟩ buvo išvežta iš jo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5be1c5f40aafa56264eebb268922b2cfe6bdf8d88c1d774a75c041c2bf2d8157",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/hosea\/10\/5-8.1792486386447.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dėl Blaidžių Beit Aveno drebės Šomrono gyventojai, nes tauta jo apleidos, ir jo kunigai-idolų tarnai dėl jo virpės iš džiaugsmo, dėl jo šlovingumo, nes ⟨tai⟩ buvo išvežta iš jo.",
   "tokens": [
     {
       "surface": "לעגלות",
-      "gloss": "veršelių"
+      "gloss": "dėl Blaidžių"
     },
     {
-      "surface": "בית און",
-      "gloss": "Bet-Aveno"
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aveno"
     },
     {
       "surface": "יגורו",
-      "gloss": "bijos"
+      "gloss": "drebės"
     },
     {
       "surface": "שכן",
@@ -54,19 +37,19 @@
     },
     {
       "surface": "אבל",
-      "gloss": "apraudos"
+      "gloss": "apleidos"
     },
     {
       "surface": "עליו",
-      "gloss": "jį"
+      "gloss": "dėl jo"
     },
     {
       "surface": "עמו",
-      "gloss": "jo tauta"
+      "gloss": "tauta jo"
     },
     {
       "surface": "וכמריו",
-      "gloss": "kunigai-stabmeldžiai"
+      "gloss": "ir jo kunigai-idolų tarnai"
     },
     {
       "surface": "עליו",
@@ -74,7 +57,7 @@
     },
     {
       "surface": "יגילו",
-      "gloss": "džiūgaus"
+      "gloss": "virpės iš džiaugsmo"
     },
     {
       "surface": "על",
@@ -82,7 +65,7 @@
     },
     {
       "surface": "כבודו",
-      "gloss": "jo šlovės"
+      "gloss": "jo šlovingumo"
     },
     {
       "surface": "כי",
@@ -97,6 +80,6 @@
       "gloss": "iš jo"
     }
   ],
-  "timestamp": "2026-10-20T08:53:06.448441725Z",
+  "timestamp": "2026-10-20T12:28:12.289364285Z",
   "model": "glm-5.3"
 }

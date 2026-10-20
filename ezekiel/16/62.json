@@ -5,27 +5,11 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jerusalei",
-      "rationale": "Tiesioginis pažadas Jerušalaimui — „su tavimi“, „tu pažinsi“."
-    }
-  ],
-  "translation": "Ir aš įtvirtinsiu ⟨את⟩ savo sandorą su tavimi, ir tu pažinsi, kad aš esu Jahvė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2060adbec9291fb9ef3c8b60eef53e2ffd9974608992951854dd0e54dd9517e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/16\/61-63.1792484141663.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir aš įsteigsiu ⟨את⟩ savo sandorą ⟨את⟩ su tavimi, ir tu pažinsi, kad aš esu Jahvė.",
   "tokens": [
     {
       "surface": "והקימותי",
-      "gloss": "ir įtvirtinsiu"
+      "gloss": "ir įsteigsiu"
     },
     {
       "surface": "אני",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savо sandorą"
+      "marks": "savo sandorą"
     },
     {
       "surface": "בריתי",
-      "gloss": "savо sandorą"
+      "gloss": "savo sandorą"
     },
     {
       "surface": "אתך",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "וידעת",
-      "gloss": "ir pažinsi"
+      "gloss": "ir tu pažinsi"
     },
     {
       "surface": "כי",
@@ -61,6 +45,6 @@
       "gloss": "Jahvė"
     }
   ],
-  "timestamp": "2026-10-20T08:15:41.664921504Z",
+  "timestamp": "2026-10-20T12:21:28.174452958Z",
   "model": "glm-5.3"
 }

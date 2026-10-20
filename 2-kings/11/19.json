@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכרי",
-      "rationale": "'karitus' (etnonimas, plg. Kretoje) vs 'sargybiniai\/iždo sargai' — garsios nesąlygos tarp versijų."
-    },
-    {
-      "kind": "alternative",
-      "subject": "הרצים",
-      "rationale": "'bėgikai' — karaliaus kurjeriai\/sargybiniai bėgikai; pažodžiui 'bėgantys'."
-    }
-  ],
-  "translation": "Ir paėmė ⟨את⟩ šimtininkų vadus ir ⟨את⟩ karitus ir ⟨את⟩ bėgikus bei ⟨את⟩ visą žemės tautą, ir nuleido karalių iš Jahvės namų, ir jie atėjo bėgikų vartų keliu į karaliaus namus, ir jis sėdo ant karalių sosto.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/11\/17-20.1792480199184.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis paėmė ⟨את⟩ šimtininkų kunigaikštčius bei ⟨את⟩ karitus ir ⟨את⟩ bėgikus bei ⟨את⟩ visą krašto tautą, ir jie nusileido su ⟨את⟩ karaliumi iš Jahvės namų, ir atėjo keliu bėgikų vartų, karaliaus namo link, ir jis atsisėdo ant karalių sosto.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ir paėmė"
+      "gloss": "ir paėmė"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "šimtininkų vadus"
+      "marks": "šimtininkų kunigaikštčius"
     },
     {
       "surface": "שרי",
-      "gloss": "vadus"
+      "gloss": "kunigaikštčius"
     },
     {
       "surface": "המאות",
@@ -65,8 +44,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "bei ⟨את⟩",
-      "marks": "visą žemės tautą"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą tautą"
     },
     {
       "surface": "כל",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "žemės"
+      "gloss": "krašto"
     },
     {
       "surface": "וירידו",
-      "gloss": "ir nuleido"
+      "gloss": "ir nusileido"
     },
     {
       "surface": "את",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ויבואו",
-      "gloss": "ir jie atėjo"
+      "gloss": "ir atėjo"
     },
     {
       "surface": "דרך",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "namus"
+      "gloss": "namo"
     },
     {
       "surface": "המלך",
@@ -127,7 +106,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "ir sėdo"
+      "gloss": "ir atsisėdo"
     },
     {
       "surface": "על",
@@ -142,6 +121,6 @@
       "gloss": "karalių"
     }
   ],
-  "timestamp": "2026-10-20T07:09:59.188250119Z",
+  "timestamp": "2026-10-20T12:11:36.493877417Z",
   "model": "glm-5.3"
 }

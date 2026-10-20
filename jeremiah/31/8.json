@@ -5,44 +5,24 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הרה וילדת",
-      "rationale": "'Nėščioji ir gimdanti drauge' — dalis verčia 'nešiojanti ir žindanti' arba laiko pora vientisa grįžtančiųjų minios dalimi."
-    },
-    {
-      "kind": "addition",
-      "subject": "aklasis ir raišasis",
-      "rationale": "Lietuvių kalboje reikia vienaskaitos formų; hebrajų kalba turi daugiskaitos 'aklieji ir raišieji'."
-    }
-  ],
-  "translation": "Štai aš atvesiu juos iš šiaurės krašto ir surinksiu juos iš žemės pakraščių; tarp jų — aklasis ir raišasis, nėščioji ir gimdyvi drauge; didelė bendrija jie grįš čionai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "dcff08532b5bd9ba3e7a6cc167df2fe35a6252993986716e513a40c46626b049",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/31\/5-8.1792483038879.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Štai, aš atvedu ⟨את⟩ juos iš šiaurės žemės ir surinksiu juos iš žemės pakraščių; tarp jų — aklieji ir raišieji, nėščioji ir gimdydama kartu; didelė bendrija grįš čionai.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "štai aš"
+      "gloss": "Štai, aš"
     },
     {
       "surface": "מביא",
-      "gloss": "atvesiu"
+      "gloss": "atvedu"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "מארץ",
-      "gloss": "iš krašto"
+      "gloss": "iš žemės"
     },
     {
       "surface": "צפון",
@@ -66,11 +46,11 @@
     },
     {
       "surface": "עור",
-      "gloss": "aklasis"
+      "gloss": "aklieji"
     },
     {
       "surface": "ופסח",
-      "gloss": "ir raišasis"
+      "gloss": "ir raišieji"
     },
     {
       "surface": "הרה",
@@ -78,11 +58,11 @@
     },
     {
       "surface": "וילדת",
-      "gloss": "ir gimdyvi"
+      "gloss": "ir gimdydama"
     },
     {
       "surface": "יחדו",
-      "gloss": "drauge"
+      "gloss": "kartu"
     },
     {
       "surface": "קהל",
@@ -94,13 +74,13 @@
     },
     {
       "surface": "ישובו",
-      "gloss": "jie grįš"
+      "gloss": "grįš"
     },
     {
       "surface": "הנה",
       "gloss": "čionai"
     }
   ],
-  "timestamp": "2026-10-20T07:57:18.883386435Z",
+  "timestamp": "2026-10-20T12:30:23.676796900Z",
   "model": "glm-5.3"
 }

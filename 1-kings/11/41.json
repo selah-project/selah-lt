@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "על ספר lietuviškai prieinamiau kaip 'knygoje' — prielinksnis išsisklaidė su linksniu"
-    },
-    {
-      "kind": "invitation",
-      "subject": "הלוא הם",
-      "rationale": "Rtorinis klausimas 'argi jie nėra?' kreipiasi į skaitytoją patvirtinti"
-    }
-  ],
-  "translation": "O likutinis Šelomo žodžių ir visa, ką jis padarė, bei jo išmintis — argi jie nėra užrašyti Sefer Divrei Šelomo knygoje?",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/11\/41-43.1792479223324.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O likutis Šlomo žodžių ir visa, ką jis padarė, ir jo išmintis — ar ne jie parašyti knygoje Šlomo žodžių?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "o likutinis"
+      "gloss": "o likutis"
     },
     {
       "surface": "דברי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Šlomo"
     },
     {
       "surface": "וכל",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "עשה",
-      "gloss": "jis padarė"
+      "gloss": "padarė"
     },
     {
       "surface": "וחכמתו",
-      "gloss": "bei jo išmintis"
+      "gloss": "ir jo išmintis"
     },
     {
       "surface": "הלוא",
-      "gloss": "argi ne"
+      "gloss": "ar ne"
     },
     {
       "surface": "הם",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "כתבים",
-      "gloss": "užrašyti"
+      "gloss": "parašyti"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "knygoje"
     },
     {
       "surface": "ספר",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "reikalų"
+      "gloss": "žodžių"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Šlomo"
     }
   ],
-  "timestamp": "2026-10-20T06:53:43.325832989Z",
+  "timestamp": "2026-10-20T12:05:41.951231978Z",
   "model": "glm-5.3"
 }

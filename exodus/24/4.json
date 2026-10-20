@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "dvylika stulpų",
-      "rationale": "Skaičių atitikimas: dvylika stulpų dvylikai giminių."
-    },
-    {
-      "kind": "substitution",
-      "subject": "giminės",
-      "rationale": "שבט pažodžiui „lazda, skeptras“ — giminių vienetas; formos „lazda“ vaizdas lietuviškai prarandamas."
-    }
-  ],
-  "translation": "Ir užrašė Mošė ⟨את⟩ visus Jahvės žodžius, ir atsikėlė anksti rytą, ir pastatė aukurą po kalnu ir dvylika stulpų dvylikai Jisraelio giminių.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/24\/1-4.1792472713691.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė užrašė ⟨את⟩ visus Jahvės žodžius, ir atsikėlė anksti ryte, ir pastatė aukurą pažemėje kalno, ir dvylika stulpų — dvylikai Jisraelio giminių.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "Ir užrašė"
+      "gloss": "užrašė"
     },
     {
       "surface": "משה",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus Jahvės žodžius"
+      "marks": "visus žodžius"
     },
     {
       "surface": "כל",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "וישכם",
-      "gloss": "ir atsikėlė anksti"
+      "gloss": "atsikėlė anksti"
     },
     {
       "surface": "בבקר",
-      "gloss": "rytą"
+      "gloss": "ryte"
     },
     {
       "surface": "ויבן",
-      "gloss": "ir pastatė"
+      "gloss": "pastatė"
     },
     {
       "surface": "מזבח",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "תחת",
-      "gloss": "po"
+      "gloss": "pažemėje"
     },
     {
       "surface": "ההר",
-      "gloss": "kalnu"
+      "gloss": "kalno"
     },
     {
       "surface": "ושתים",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "מצבה",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "שבטי",
@@ -106,6 +85,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T05:05:13.696357056Z",
+  "timestamp": "2026-10-20T12:19:13.406184767Z",
   "model": "glm-5.3"
 }

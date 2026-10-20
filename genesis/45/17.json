@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrew preposition אל folded into the Lithuanian dative case, no separate word"
-    },
-    {
-      "kind": "you",
-      "subject": "Pharaoh to Joseph",
-      "rationale": "Pharaoh addresses Joseph with instructions to relay to his brothers"
-    }
-  ],
-  "translation": "Ir faraonas tarė Jozefui: Sakyk savo broliams: Šitai darykite: pakraukite ⟨את⟩ savo gyvulius ir eikite, ateikite į Kenaano žemę.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "85b59f09f521293df9aa691ac84718562a7c4315f97853f3a3f08c4ee78481c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/45\/17-20.1792472034201.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir faraonas tarė Jozefui: Sakyk savo broliems: Tai darykite — pakraukite ⟨את⟩ savo gyvulius ir eikite, grįžkite į Kanaano kraštą.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "פרעה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "sakyk"
+      "gloss": "Sakyk"
     },
     {
       "surface": "אל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "šitai"
+      "gloss": "Tai"
     },
     {
       "surface": "עשו",
@@ -83,17 +62,17 @@
     },
     {
       "surface": "באו",
-      "gloss": "ateikite"
+      "gloss": "grįžkite"
     },
     {
       "surface": "ארצה",
-      "gloss": "žemę"
+      "gloss": "į kraštą"
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaano"
+      "gloss": "Kanaano"
     }
   ],
-  "timestamp": "2026-10-20T04:53:54.203012966Z",
+  "timestamp": "2026-10-20T12:26:58.698001782Z",
   "model": "glm-5.3"
 }

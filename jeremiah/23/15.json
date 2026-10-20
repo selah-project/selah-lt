@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kartumas",
-      "rationale": "לענה — kartus augalas (kartumynas); verčia vaizdą, ne rūšies pavadinimą"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ydingumas",
-      "rationale": "חנפה — veidmainystė, bedievystė; verčių spektras nuo 'nuodėmė' iki 'veidmainystė'"
-    }
-  ],
-  "translation": "Todėl taip sako Jahvė Cevaot pranašams: Štai aš maitinsiu juos kartumu ir pagirdysiu juos nuodų vandeniu, nes iš Jerušalaimo pranašų ydingumas išėjo visai šaliai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/23\/13-16.1792482867865.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Todėl taip sako Jahvė Cevaot apie pranašus: Štai aš leisiu jiems valgyti ⟨את⟩ kartųjį kiečių ir pagirdysiu juos nuodų vandeniu, nes iš Jerušalaimo pranašų išėjo veidmainystė ⟨į⟩ visą žemę.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Todėl"
+      "gloss": "todėl"
     },
     {
       "surface": "כה",
@@ -50,30 +29,31 @@
     },
     {
       "surface": "על",
-      "gloss": "--"
+      "gloss": "apie"
     },
     {
       "surface": "הנבאים",
-      "gloss": "pranašams"
+      "gloss": "pranašus"
     },
     {
       "surface": "הנני",
-      "gloss": "Štai aš"
+      "gloss": "štai aš"
     },
     {
       "surface": "מאכיל",
-      "gloss": "maitinsiu"
+      "gloss": "leisiu valgyti"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ juos"
+      "gloss": "⟨את⟩",
+      "marks": "juos"
     },
     {
       "surface": "לענה",
-      "gloss": "kartumu"
+      "gloss": "kartųjį kiečių"
     },
     {
-      "surface": "ו השקתים",
+      "surface": "והשקתים",
       "gloss": "ir pagirdysiu juos"
     },
     {
@@ -90,7 +70,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ iš"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "נביאי",
@@ -106,17 +86,17 @@
     },
     {
       "surface": "חנפה",
-      "gloss": "ydingumas"
+      "gloss": "veidmainystė"
     },
     {
       "surface": "לכל",
-      "gloss": "visai"
+      "gloss": "⟨į⟩ visą"
     },
     {
       "surface": "הארץ",
-      "gloss": "šaliai"
+      "gloss": "žemę"
     }
   ],
-  "timestamp": "2026-10-20T07:54:27.868790992Z",
+  "timestamp": "2026-10-20T12:30:40.712402722Z",
   "model": "glm-5.3"
 }

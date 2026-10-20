@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "antakius",
-      "rationale": "גבת עיניו — pažodžiui 'akių išlinkimai\/akraščiai', lietuviškai 'antakius'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "septintąją dieną",
-      "rationale": "eiliškai skaičiuojama dienų apvalymo seka"
-    }
-  ],
-  "translation": "Ir įvyks septintąją dieną: jis nusiskus visus savo plaukus — ⟨את⟩ savo galvą ir ⟨את⟩ savo barzdą, ir ⟨את⟩ antakius virš savo akių, — visus savo plaukus jis nusikirps; ir išskalbs savo drabužius, ir nusiplaus savo kūną vandeniu, ir bus švarus.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/14\/9-12.1792473379031.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir ⟨bus⟩ septintąją dieną: jis nusiskus visus savo plaukus — ⟨את⟩ savo galvą, ir ⟨את⟩ savo barzdą, ir ⟨את⟩ antakius savo akių — visus savo plaukus jis nusiskus; ir išskalbs ⟨את⟩ savo drabužius, ir nusipraus ⟨את⟩ savo kūną vandeniu, ir bus švarus.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ir įvyks"
+      "gloss": "ir ⟨bus⟩"
     },
     {
       "surface": "ביום",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "visus savo plaukus"
+      "marks": "visus plaukus"
     },
     {
       "surface": "כל",
@@ -78,7 +57,7 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "antakius"
+      "marks": "antakius savo akių"
     },
     {
       "surface": "גבת",
@@ -86,12 +65,12 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "virš savo akių"
+      "gloss": "savo akių"
     },
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "visus savo plaukus"
+      "marks": "visus plaukus"
     },
     {
       "surface": "כל",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "יגלח",
-      "gloss": "nusikirps"
+      "gloss": "nusiskus"
     },
     {
       "surface": "וכבס",
@@ -120,7 +99,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "ir nusiplaus"
+      "gloss": "ir nusipraus"
     },
     {
       "surface": "את",
@@ -140,6 +119,6 @@
       "gloss": "ir bus švarus"
     }
   ],
-  "timestamp": "2026-10-20T05:16:19.033039333Z",
+  "timestamp": "2026-10-20T12:38:06.474680846Z",
   "model": "glm-5.3"
 }

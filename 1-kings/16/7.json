@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל בעשא",
-      "rationale": "krypties prielinksnis אל susilieja su naudininku „Bašai“"
-    },
-    {
-      "kind": "crux",
-      "subject": "ועל אשר הכה אתו",
-      "rationale": "„dėl to, kad jis jį sudavė“ — kas ką sudavė: ar Baša sudavė Jerobeamo namus (KJV), ar tai priežastis, kodėl Baša buvo nubaustas; veikėjas dviprasmiškas"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨את⟩",
-      "rationale": "aleph-tav žymuo išlaikomas; rodo tiesioginį objektą „jį“"
-    }
-  ],
-  "translation": "Ir taip pat per Jehu, Chananio sūnaus, pranašo ranką buvo Jahvės žodis Bašai ir jo namams dėl viso pikto, kurį jis darė Jahvės akyse, jį įžeisdamas savo rankų darbais, tapdamas kaip Jerobeamo namas, ir dėl to, kad jis ⟨את⟩ jį sudavė.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "358ddb6159f4f329c581e58cc5d04a4ad391262b9aaa95365cdda115335db540",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/16\/5-8.1792479384792.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir taip pat per Jėhu, Chananio sūnų, pranašo, buvo Jahvės žodis prieš Bašą ir prieš jo namus, ir dėl visos blogio, kurį jis padarė Jahvės akyse, jį supykdęs savo rankų darbais, tapdamas kaip Joroboamo namas, ir dėl to, kad jis ⟨את⟩ jį sumušė.",
   "tokens": [
     {
       "surface": "וגם",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "ביד",
-      "gloss": "per ranką"
+      "gloss": "per"
     },
     {
       "surface": "יהוא",
-      "gloss": "Jehu"
+      "gloss": "Jėhu"
     },
     {
       "surface": "בן",
-      "gloss": "sūnaus"
+      "gloss": "sūnų"
     },
     {
       "surface": "חנני",
@@ -71,43 +45,43 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "prieš"
     },
     {
       "surface": "בעשא",
-      "gloss": "Bašai"
+      "gloss": "Bašą"
     },
     {
       "surface": "ואל",
-      "gloss": "ir"
+      "gloss": "ir prieš"
     },
     {
       "surface": "ביתו",
-      "gloss": "jo namams"
+      "gloss": "jo namus"
     },
     {
       "surface": "ועל",
-      "gloss": "dėl"
+      "gloss": "ir dėl"
     },
     {
       "surface": "כל",
-      "gloss": "viso"
+      "gloss": "visos"
     },
     {
       "surface": "הרעה",
-      "gloss": "pikto"
+      "gloss": "blogio"
     },
     {
       "surface": "אשר",
-      "gloss": "kurio"
+      "gloss": "kurį"
     },
     {
       "surface": "עשה",
-      "gloss": "darė"
+      "gloss": "padarė"
     },
     {
       "surface": "בעיני",
-      "gloss": "akyse"
+      "gloss": "Jahvės akyse"
     },
     {
       "surface": "יהוה",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "להכעיסו",
-      "gloss": "jį įžeisdamas"
+      "gloss": "jį supykdęs"
     },
     {
       "surface": "במעשה",
@@ -131,11 +105,11 @@
     },
     {
       "surface": "כבית",
-      "gloss": "kaip namas"
+      "gloss": "kaip ... namas"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jerobeamo"
+      "gloss": "Joroboamo"
     },
     {
       "surface": "ועל",
@@ -147,7 +121,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "sudavė"
+      "gloss": "sumušė"
     },
     {
       "surface": "אתו",
@@ -155,6 +129,6 @@
       "marks": "jį"
     }
   ],
-  "timestamp": "2026-10-20T06:56:24.794436362Z",
+  "timestamp": "2026-10-20T12:06:41.564347540Z",
   "model": "glm-5.3"
 }

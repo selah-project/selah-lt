@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 110,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "„על כן“ — sudurtinis junginys „todėl“, prielinknis suliejamas suGN adverbu."
-    },
-    {
-      "kind": "crux",
-      "subject": "iš upelio kelyje",
-      "rationale": "Kas geria — karalius po mūšio, ar Adonai? Kai kurie vertimai skaito kaip pergalės gestą, kiti — kaip kryžiaus būsimos nuorodos; Tanacho kontekste tai kario gurkšnis žygyje."
-    }
-  ],
-  "translation": "Iš upelio kelyje jis gers, todėl pakels galvą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/110\/5-7.1792488964105.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iš upelio kelyje jis gers, todėl jis iškels galvą.",
   "tokens": [
     {
       "surface": "מנחל",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "ישתה",
-      "gloss": "gers"
+      "gloss": "jis gers"
     },
     {
       "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "כן",
       "gloss": "todėl"
     },
     {
+      "surface": "כן",
+      "gloss": "tai"
+    },
+    {
       "surface": "ירים",
-      "gloss": "pakels"
+      "gloss": "jis iškels"
     },
     {
       "surface": "ראש",
       "gloss": "galvą"
     }
   ],
-  "timestamp": "2026-10-20T09:36:04.106795540Z",
+  "timestamp": "2026-10-20T12:43:13.053593786Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "היה",
-      "rationale": "Veiksmažodis 'būti' sulietas su neigimu 'ir nebuvo kas'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לחיל",
-      "rationale": "חיל reiškia ir 'turtas', ir 'karė' - dviprasmybė: ranka rado tautų turtą\/karę kaip lizdą."
-    }
-  ],
-  "translation": "Ir mano ranka rado lizdą tautų turtui, ir kaip renkami palikti kiaušiniai, visą žemę surinkau aš; ir nebuvo kas mosteltų sparnu, pravertų burną ar čirpšteltų.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b75d33f570d7a6303becc7380b986ccad6eae46cf37694e23ffe00f7654e4796",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/10\/13-16.1792480893508.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir mano ranka rado tautų turtą kaip lizdą, ir kaip renkant pamestus kiaušinius — visą ⟨את⟩ žemę surinkau aš; ir nebuvo majudančio sparno, nei pravėrusio burnos, nei čirškiančio.",
   "tokens": [
     {
       "surface": "ותמצא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "לחיל",
-      "gloss": "turtui"
+      "gloss": "turtą"
     },
     {
       "surface": "העמים",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "וכאסף",
-      "gloss": "ir kaip renkami"
+      "gloss": "ir kaip renkant"
     },
     {
       "surface": "ביצים",
-      "gloss": "kiaušiniai"
+      "gloss": "kiaušinius"
     },
     {
       "surface": "עזבות",
-      "gloss": "palikti"
+      "gloss": "pamestus"
     },
     {
       "surface": "כל",
@@ -74,27 +53,27 @@
     },
     {
       "surface": "אספתי",
-      "gloss": "surinkau"
+      "gloss": "suriinkau"
     },
     {
       "surface": "ולא",
-      "gloss": "ir nebuvo"
+      "gloss": "ir ne"
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "buvo"
     },
     {
       "surface": "נדד",
-      "gloss": "mosteltų"
+      "gloss": "majudantis"
     },
     {
       "surface": "כנף",
-      "gloss": "sparnu"
+      "gloss": "sparnas"
     },
     {
       "surface": "ופצה",
-      "gloss": "pravertų"
+      "gloss": "ir pravėręs"
     },
     {
       "surface": "פה",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "ומצפצף",
-      "gloss": "ar čirpšteltų"
+      "gloss": "ir čirškiantis"
     }
   ],
-  "timestamp": "2026-10-20T07:21:33.511896072Z",
+  "timestamp": "2026-10-20T12:28:16.535479927Z",
   "model": "glm-5.3"
 }

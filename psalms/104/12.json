@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 104,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "עפאים",
-      "rationale": "„šaka“ — tas žodis Tanache tik čia pasitaiko (vienintelis kartas)"
-    }
-  ],
-  "translation": "Ant jų gyvena dangaus paukščiai, tarp šakų jie leidžia balsą.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/104\/9-12.1792488760303.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Virš jų gyvena dangaus paukščiai, tarp šakų jie leidžia balsą.",
   "tokens": [
     {
       "surface": "עליהם",
-      "gloss": "ant jų"
+      "gloss": "virš jų"
     },
     {
       "surface": "עוף",
@@ -48,14 +32,14 @@
       "gloss": "šakų"
     },
     {
-      "surface": "יתנu",
-      "gloss": "jie leidžia"
+      "surface": "יתנו",
+      "gloss": "leidžia"
     },
     {
       "surface": "קול",
       "gloss": "balsą"
     }
   ],
-  "timestamp": "2026-10-20T09:32:40.304691020Z",
+  "timestamp": "2026-10-20T12:42:40.781278858Z",
   "model": "glm-5.3"
 }

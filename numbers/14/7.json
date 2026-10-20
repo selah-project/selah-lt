@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨yra⟩",
-      "rationale": "Hebrajiškame ikiename nėra žodžio 'būti' — predikatas be veiksmažodžio."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מאד מאד",
-      "rationale": "Padvigubintas 'labai, labai' — pabrėžimas, išlaikytas pakartojimu."
-    }
-  ],
-  "translation": "Ir jie kalbėjo visai Jisraelio sūnų bendruomenei, sakydami: šalis, kurią perėjome, kad ją žvalgytume, ⟨yra⟩ gera šalis — labai, labai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "671e3b0487f09d7a3ef9bd87ea021ed250f97ec560519c4f1c37a72b75b407f7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/14\/5-8.1792474129093.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jie tarė visai Jisraelio sūnų bendruomenei, sakydami: šalis, kurią mes perėjome, kad ją apžiūrėtume ⟨את⟩ ją, yra labai, labai gera šalis.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Ir jie kalbėjo"
+      "gloss": "ir jie tarė"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": ""
     },
     {
       "surface": "כל",
@@ -66,20 +45,20 @@
     },
     {
       "surface": "עברנו",
-      "gloss": "perėjome"
+      "gloss": "mes perėjome"
     },
     {
       "surface": "בה",
-      "gloss": "—"
+      "gloss": "per ją"
     },
     {
       "surface": "לתור",
-      "gloss": "kad žvalgytume"
+      "gloss": "kad apžiūrėtume"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ją"
+      "marks": "ją (šalį)"
     },
     {
       "surface": "טובה",
@@ -98,6 +77,6 @@
       "gloss": "labai"
     }
   ],
-  "timestamp": "2026-10-20T05:28:49.094929645Z",
+  "timestamp": "2026-10-20T12:40:05.054814509Z",
   "model": "glm-5.3"
 }

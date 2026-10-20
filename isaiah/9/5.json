@@ -5,42 +5,11 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų kalboje nėra veiksmažodžio 'būti' šioje vietoje"
-    },
-    {
-      "kind": "crux",
-      "subject": "תהי המשרה",
-      "rationale": "'valdžia buvo' arba 'valdžia taps' — šioje eilutėje veikiausiai išpranašautos praeities formos (pranašo tobulasis), ne tik būtasis"
-    },
-    {
-      "kind": "crux",
-      "subject": "keturių-ar-vienas vardas",
-      "rationale": "JPS skaito פלא יועץ אל גבור אבי עד שר שלום kaip vieną ilgą vardą; kiti — kaip vardų seką"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויקרא",
-      "rationale": "aktyvi reikšmė 'jis vadins' arba pasyvi 'buvo vadintas' — Tanacho kontekste veikiausiai pasyvas be veikėjo"
-    }
-  ],
-  "translation": "Nes vaikas gimė mums, sūnus mums duotas; ir valdžia ⟨yra⟩ ant jo pečių; ir jo vardas buvo vadintas: Stebuklingasis Patarėjas, El Gibor, Amžinosios Tėvas, Taikos Kunigaikštis.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "2bbdfc49d2fcd5360d3546ccb096bdc7b6771e1c99f012b8e26825b675f1b0bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/9\/5-8.1792480845162.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes vaikas mums gimė, sūnus mums duotas, ir valdžia ⟨yra⟩ ant jo pečių, ir jo vardas vadinamas: Stebuklingasis-patarėjas, El stiprusis, amžinies-Tėvas, taikos-kunigaikštis.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "nes"
+      "gloss": "Nes"
     },
     {
       "surface": "ילד",
@@ -84,7 +53,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ir buvo vadintas"
+      "gloss": "ir vadinamas"
     },
     {
       "surface": "שמו",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "יועץ",
-      "gloss": "Patarėjas"
+      "gloss": "patarėjas"
     },
     {
       "surface": "אל",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "גבור",
-      "gloss": "Gibor"
+      "gloss": "stiprusis"
     },
     {
       "surface": "אבי",
@@ -112,17 +81,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "Amžinosios"
+      "gloss": "amžinasis"
     },
     {
       "surface": "שר",
-      "gloss": "Kunigaikštis"
+      "gloss": "kunigaikštis"
     },
     {
       "surface": "שלום",
-      "gloss": "Taikos"
+      "gloss": "taikos"
     }
   ],
-  "timestamp": "2026-10-20T07:20:45.163923693Z",
+  "timestamp": "2026-10-20T12:29:28.771668374Z",
   "model": "glm-5.3"
 }

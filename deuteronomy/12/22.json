@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "gali",
-      "rationale": "Hebrajų veiksmažodis yra paprastas 'valgo' — lietuvių kalbai pridėtas modalumas 'gali'"
-    }
-  ],
-  "translation": "Tik kaip valgoma gazelę ir elnį, taip valgyk ⟨את⟩ jį; nešvarusis ir švarusis drauge gali jį valgyti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/12\/21-24.1792475138549.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tik kaip valgoma ⟨את⟩ gazelę ir ⟨את⟩ elnią, taip valgysi jį; nešvarusis ir švarusis drauge jį valgys.",
   "tokens": [
     {
       "surface": "אך",
@@ -47,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "elnį"
+      "marks": "elnią"
     },
     {
       "surface": "האיל",
-      "gloss": "elnį"
+      "gloss": "elnią"
     },
     {
       "surface": "כן",
@@ -59,7 +43,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "valgyk jį"
+      "gloss": "valgysi jį"
     },
     {
       "surface": "הטמא",
@@ -75,9 +59,9 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "gali jį valgyti"
+      "gloss": "jį valgys"
     }
   ],
-  "timestamp": "2026-10-20T05:45:38.551480718Z",
+  "timestamp": "2026-10-20T12:16:11.111909752Z",
   "model": "glm-5.3"
 }

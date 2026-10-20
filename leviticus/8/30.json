@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yra",
-      "rationale": "hebrajų kalba neturi copulos — pridėta su ⟨⟩ žyma"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "את עם (H854) — prielinksnis „su juo“, ne aleph-tav žymeklis; išverstas kaip „su juo“"
-    }
-  ],
-  "translation": "Ir Mošė paėmė iš patepimo aliejaus ir iš kraujo, kuris ⟨yra⟩ ant aukuro, ir pašlakstė ant Aharono, ant jo drabužių, ant jo sūnų ir ant jo sūnų drabužių su juo; ir pašventino ⟨את⟩ Aharoną, ⟨את⟩ jo drabužius, ⟨את⟩ jo sūnus ir ⟨את⟩ jo sūnų drabužius su juo.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/leviticus\/8\/29-32.1792473289051.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Mošė paėmė iš patepimo aliejaus ir iš kraujo, kuris ⟨buvo⟩ ant aukurų, ir pašlakstė ant Aharono, ant jo drabužių, ant jo sūnų ir ant drabužių jo sūnų ⟨kartu⟩ su juo; ir pašventino ⟨את⟩ Aharoną, ⟨את⟩ jo drabužius, ⟨את⟩ jo sūnus ir ⟨את⟩ drabužius jo sūnų ⟨kartu⟩ su juo.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ir paėmė"
+      "gloss": "ir paėmė"
     },
     {
       "surface": "משה",
@@ -106,7 +85,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨kartu⟩ su juo ⟨את⟩"
     },
     {
       "surface": "ויקדש",
@@ -142,7 +121,7 @@
     {
       "surface": "ואת",
       "gloss": "ir ⟨את⟩",
-      "marks": "jo sūnų drabužius"
+      "marks": "drabužius jo sūnų"
     },
     {
       "surface": "בגדי",
@@ -154,9 +133,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ su juo"
+      "gloss": "⟨kartu⟩ su juo ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-20T05:14:49.053169901Z",
+  "timestamp": "2026-10-20T12:38:59.356549681Z",
   "model": "glm-5.3"
 }

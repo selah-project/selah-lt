@@ -5,52 +5,31 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nustatytu laiku",
-      "rationale": "למועד: 'nustatytu laiku' arba 'į sutartą vietą' — hebrajiškas mo'edas reiškia ir laiką, ir susitikimo vietą"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Araba",
-      "rationale": "הערבה — stepė dykvietė prie Jordano, paliktas kaip vietovardis"
-    }
-  ],
-  "translation": "Ir atsitiko, karaliui iš Ajaus pamačius, jie skubėjo ir anksti kėlėsi, ir miesto vyrai išėjo pasitikti Jisraelio į mūšį — jis ir visa jo tauta nustatytu laiku priešais Arabą; o jis nežinojo, kad prieš jį tyko pasala už miesto.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1405c917282e6929f518035c0adeb1d1003df8978adfed62d587b9e64d83e2dc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/8\/13-16.1792475818376.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir atsitiko, kai Hajaus karalius pamatė ⟨tai⟩, miesto vyrai paskubėjo ir anksti atsikėlė, ir išėjo pasitikti Jisraelio kovon — jis ir visa jo tauta nustatytu metu, priešais Arabą; o jis nežinojo, kad prieš jį tyko pasalūnai už miesto.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ir atsitiko"
+      "gloss": "Ir atsitiko"
     },
     {
       "surface": "כראות",
-      "gloss": "pamačius"
+      "gloss": "kai pamatė"
     },
     {
       "surface": "מלך",
-      "gloss": "karaliui"
+      "gloss": "karalius"
     },
     {
       "surface": "העי",
-      "gloss": "iš Ajaus"
+      "gloss": "Hajaus"
     },
     {
       "surface": "וימהרו",
-      "gloss": "jie skubėjo"
+      "gloss": "paskubėjo"
     },
     {
-      "surface": "וישכימu",
-      "gloss": "ir anksti kėlėsi"
+      "surface": "וישכימו",
+      "gloss": "anksti atsikėlė"
     },
     {
       "surface": "ויצאו",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "į mūšį"
+      "gloss": "kovon"
     },
     {
       "surface": "הוא",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "למועד",
-      "gloss": "nustatytu laiku"
+      "gloss": "nustatytu metu"
     },
     {
       "surface": "לפני",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "nežinojo"
+      "gloss": "ne"
     },
     {
       "surface": "ידע",
-      "gloss": "(ne)žinojo"
+      "gloss": "žinojo"
     },
     {
       "surface": "כי",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "ארב",
-      "gloss": "pasala"
+      "gloss": "tyko pasalūnai"
     },
     {
       "surface": "לו",
@@ -133,6 +112,6 @@
       "gloss": "miesto"
     }
   ],
-  "timestamp": "2026-10-20T05:56:58.378057170Z",
+  "timestamp": "2026-10-20T12:35:48.974700793Z",
   "model": "glm-5.3"
 }

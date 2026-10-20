@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חיה",
-      "rationale": "lemma 'gyvas' — čia daugiskaita 'gyvosios būtybės'; 'gyvūnams' yra bendrinis sprendimas"
-    }
-  ],
-  "translation": "Ir numesiu tave dykumon — tave ir ⟨את⟩ visą žuvį tavo upių; ant lauko veido tu krisi, nebūsi surinktas ir nebūsi sugriebtas; žemės gyvūnams ir dangaus paukščiams esu davęs tave ėdalui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "6259207c75eb5328c10b54ed9170e8492f06ad95e8dfc1a9c6435aa5df65a34d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/29\/5-8.1792484602383.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir numesiu tave dykuman — ⟨את⟩ tave ir ⟨את⟩ visą žuvį tavo upių: ant lauko veido tu krisi, ne ⟨būsi⟩ surinktas ir ne ⟨būsi⟩ sutrauktas; žemės gyvūnams ir dangaus paukščiams daviau tave maistui.",
   "tokens": [
     {
       "surface": "ונטשתיך",
@@ -29,16 +13,17 @@
     },
     {
       "surface": "המדברה",
-      "gloss": "dykumon"
+      "gloss": "dykuman"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ tave"
+      "gloss": "⟨את⟩",
+      "marks": "tave"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "visą žuvį"
+      "gloss": "ir ⟨את⟩",
+      "marks": "visą žuvį tavo upių"
     },
     {
       "surface": "כל",
@@ -74,7 +59,7 @@
     },
     {
       "surface": "תאסף",
-      "gloss": "būsi surinktas"
+      "gloss": "surinktas"
     },
     {
       "surface": "ולא",
@@ -82,7 +67,7 @@
     },
     {
       "surface": "תקבץ",
-      "gloss": "būsi sugriebtas"
+      "gloss": "sutrauktas"
     },
     {
       "surface": "לחית",
@@ -102,13 +87,13 @@
     },
     {
       "surface": "נתתיך",
-      "gloss": "esu davęs tave"
+      "gloss": "daviau tave"
     },
     {
       "surface": "לאכלה",
-      "gloss": "ėdalui"
+      "gloss": "maistui"
     }
   ],
-  "timestamp": "2026-10-20T08:23:22.383712256Z",
+  "timestamp": "2026-10-20T12:22:37.426708661Z",
   "model": "glm-5.3"
 }

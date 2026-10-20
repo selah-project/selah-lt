@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "lt",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Šilo",
-      "rationale": "שילה: vardas 'Šilo' \/ 'tas, kurio tai yra' (šel-lo, plg. Įst 10 22 \/ BT) \/ 'ramybė' (šalon) — garsiausia Tanacho vertimo kryžkelė."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "עד כי — sudurtinis jungtukas 'kol'; atskiras כי išnyksta junginyje."
-    },
-    {
-      "kind": "substitution",
-      "subject": "skeptras",
-      "rationale": "שבט pažodžiui yra lazda, rykštė; čia valdžios ženklas — 'skeptras' yra role, ne daiktas."
-    }
-  ],
-  "translation": "Neatsitrauks skeptras nuo Jehudos, nei valdovo žinovas iš tarp jo kojų, kol ateis Šilo, ir jam bus tautų klusnumas.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/genesis\/49\/9-12.1792472079111.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nenutols skeptras nuo Jehudos, nei įstatymo-rėžytojas nuo ⟨tarp⟩ jo kojų, kol ateis Šilo, ir jo bus tautų klusnumas.",
   "tokens": [
     {
       "surface": "לא",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "יסור",
-      "gloss": "atsitrauks"
+      "gloss": "nutols"
     },
     {
       "surface": "שבט",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "ומחקק",
-      "gloss": "ir įstatymo leidėjas"
+      "gloss": "įstatymo-rėžytojas"
     },
     {
       "surface": "מבין",
-      "gloss": "iš tarp"
+      "gloss": "nuo ⟨tarp⟩"
     },
     {
       "surface": "רגליו",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "ולו",
-      "gloss": "ir jam"
+      "gloss": "ir jo"
     },
     {
       "surface": "יקהת",
-      "gloss": "bus klusnumas"
+      "gloss": "klusnumas"
     },
     {
       "surface": "עמים",
       "gloss": "tautų"
     }
   ],
-  "timestamp": "2026-10-20T04:54:39.121936989Z",
+  "timestamp": "2026-10-20T12:27:17.554532778Z",
   "model": "glm-5.3"
 }

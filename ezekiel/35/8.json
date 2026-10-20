@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "lt",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חלל",
-      "rationale": "Pažodžiui 'pervertieji' — žodis reiškia ir 'išterštas', čia kardu nukautieji."
-    },
-    {
-      "kind": "addition",
-      "subject": "einamoji sandenga",
-      "rationale": "בהם 'juose' sulietas su veiksmažodžiu 'kris' — atskirai verčiant tapo tuščia glosa."
-    }
-  ],
-  "translation": "Ir pripildysiu ⟨את⟩ jo kalnus jo nukautaisiais: tavo kalvose, tavo slėniuose ir visuose tavo upeliuose kardu pervertieji kris.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "bf77ca3dfb684f916776420fbe61bc22899c900377bc886151179bf3f55a83ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/ezekiel\/35\/5-8.1792485849190.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir pripildysiu ⟨את⟩ jo kalnus ⟨su⟩ jo nukautaisiais: tavo kalvelėse, tavo tarpekliuose ir visuose tavo slėniuose kris kardu pervertieji.",
   "tokens": [
     {
       "surface": "ומלאתי",
@@ -39,27 +18,27 @@
     },
     {
       "surface": "הריו",
-      "gloss": "jo kalnus"
+      "gloss": "jo kalnai"
     },
     {
       "surface": "חלליו",
-      "gloss": "jo nukautaisiais"
+      "gloss": "jo nukautieji"
     },
     {
       "surface": "גבעותיך",
-      "gloss": "tavo kalvose"
+      "gloss": "tavo kalvelės"
     },
     {
       "surface": "וגאותיך",
-      "gloss": "tavo slėniuose"
+      "gloss": "ir tavo tarpekliai"
     },
     {
       "surface": "וכל",
-      "gloss": "ir visuose"
+      "gloss": "ir visi"
     },
     {
       "surface": "אפיקיך",
-      "gloss": "tavo upeliuose"
+      "gloss": "tavo slėniai"
     },
     {
       "surface": "חללי",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "בהם",
-      "gloss": ""
+      "gloss": "juose"
     }
   ],
-  "timestamp": "2026-10-20T08:44:09.192227561Z",
+  "timestamp": "2026-10-20T12:22:43.157537123Z",
   "model": "glm-5.3"
 }

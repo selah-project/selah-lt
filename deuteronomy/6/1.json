@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "lt",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨jums⟩ \/ ⟨juos⟩",
-      "rationale": "hebrajų kalba klause tiesiogiai; priklausančių įvardžių objektas lietuvių kalbai reikalingas"
-    }
-  ],
-  "translation": "Ir štai įsakymas, įstatai ir teismai, kuriuos įsakė Jahvė, jūsų Elohim, ⟨jums⟩ mokyti, kad darytumėte ⟨juos⟩ žemėje, į kurią jūs einate peržengti jos paveldėti.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/deuteronomy\/6\/1-4.1792474978557.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir štai šis įsakymas, įstatai ir teismai, kuriuos Jahvė, jūsų Elohim, įsakė išmokyti ⟨את⟩ jus, kad darytumėte žemėje, į kurią jūs pereinate ten, kad ją paveldėtumėte.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "ir štai"
+      "gloss": "Ir štai šis"
     },
     {
       "surface": "המצוה",
@@ -57,16 +41,16 @@
     },
     {
       "surface": "ללמד",
-      "gloss": "mokyti"
+      "gloss": "išmokyti"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jus",
+      "gloss": "⟨את⟩",
       "marks": "jus"
     },
     {
       "surface": "לעשות",
-      "gloss": "daryti"
+      "gloss": "kad darytumėte"
     },
     {
       "surface": "בארץ",
@@ -82,7 +66,7 @@
     },
     {
       "surface": "עברים",
-      "gloss": "einate peržengti"
+      "gloss": "pereinate"
     },
     {
       "surface": "שמה",
@@ -90,9 +74,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "paveldėti ją"
+      "gloss": "kad ją paveldėtumėte"
     }
   ],
-  "timestamp": "2026-10-20T05:42:58.558847753Z",
+  "timestamp": "2026-10-20T12:17:53.553712795Z",
   "model": "glm-5.3"
 }

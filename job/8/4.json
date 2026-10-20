@@ -5,32 +5,11 @@
   "book": "job",
   "lang": "lt",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ביד פשעם",
-      "rationale": "„į jų nusikaltimo ranką“ — hebrajiškas idiomatas: jų paties maištas tapo jų žlugimo įrankiu; Betuelo kalboje nuoroda į Jobo vaikų mirtį"
-    },
-    {
-      "kind": "crux",
-      "subject": "וישלחם",
-      "rationale": "„išsiuntė \/ atidavė“ — KJV „atmetė“, JPS „atidavė į ranką“; veiksmažodis šaknis šalach"
-    }
-  ],
-  "translation": "Jei tavo sūnūs nusidėjo jam, tai jis atidavė ⟨את⟩ juos į jų išsidavystės ranką.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "eb0229b424a7185da648d4d4e5648d663596b5a9c4c4619fc07e38442360a37f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/job\/8\/4-4.1792494179723.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jei tavo sūnūs nusidėjo Jam, tai Jis atidavė ⟨את⟩ juos į jų nusižengimo ranką.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "jei"
+      "gloss": "Jei"
     },
     {
       "surface": "בניך",
@@ -42,11 +21,12 @@
     },
     {
       "surface": "לו",
-      "gloss": "jam"
+      "gloss": "Jam"
     },
     {
       "surface": "וישלחם",
-      "gloss": "tai jis atidavė ⟨את⟩ juos"
+      "gloss": "tai Jis atidavė ⟨את⟩ juos",
+      "marks": "juos"
     },
     {
       "surface": "ביד",
@@ -54,9 +34,9 @@
     },
     {
       "surface": "פשעם",
-      "gloss": "jų išsidavystės"
+      "gloss": "jų nusižengimo"
     }
   ],
-  "timestamp": "2026-10-20T11:02:59.724289864Z",
+  "timestamp": "2026-10-20T12:33:07.490537649Z",
   "model": "glm-5.3"
 }

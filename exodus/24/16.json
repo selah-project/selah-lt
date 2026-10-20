@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "lt",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "šešias dienas, septintąją dieną",
-      "rationale": "skaičiuojamos dienos — šešių dienų laukimas ir septintoji diena"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "pašaukimo prielinksnis אל sulietas su veiksmažodžiu 'pašaukė', atskirai neverčiamas"
-    }
-  ],
-  "translation": "Ir Jahvės šlovė gyveno ant Sinajaus kalno, ir debies apdengė jį šešias dienas; o septintąją dieną jis pašaukė Mošę iš debiesies vidurio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "5f381e26bb1c9d04fafad064ced6a1aa24948575f4acbddf184a103ce0376527",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/exodus\/24\/13-16.1792472663304.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvės šlovė apsigyveno ant Sinajaus kalno, ir debesis dengė ⟨jį⟩ šešias dienas; o septintąją dieną jis pašaukė Mošę iš debiesies vidurio.",
   "tokens": [
     {
       "surface": "וישכן",
-      "gloss": "ir gyveno"
+      "gloss": "ir apsigyveno"
     },
     {
       "surface": "כבוד",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ויכסהו",
-      "gloss": "ir apdengė jį"
+      "gloss": "ir dengė jį"
     },
     {
       "surface": "הענן",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pas"
     },
     {
       "surface": "משה",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "הענן",
-      "gloss": "debiesies"
+      "gloss": "debesies"
     }
   ],
-  "timestamp": "2026-10-20T05:04:23.308303026Z",
+  "timestamp": "2026-10-20T12:19:06.391761734Z",
   "model": "glm-5.3"
 }

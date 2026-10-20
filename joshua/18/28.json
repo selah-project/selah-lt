@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גבעת קרית",
-      "rationale": "Du atskiri vietovardžiai (KJV 'Gibeath, Kirjath') arba vienas — Kirjat-Jearim (BSB); čia laikoma dviem miestais, nes skaičiuojama keturiolika."
-    },
-    {
-      "kind": "measurement",
-      "subject": "keturiolika miestų",
-      "rationale": "Paveldėjimo sąrašo užbaigimas skaičiumi."
-    }
-  ],
-  "translation": "ir Cela, haElefas, ir haJevusis — ⟨tai⟩ Jerušalaimas — Givatas, Kirjatą, miestų keturiolika su jų kaimais; tai ⟨yra⟩ Binyamino sūnų paveldėjimas jų šeimoms.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "9a23ce3231478285b38faa7696c5b87472d90bc3f59d5838a6eb27b1269c50b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/joshua\/18\/25-28.1792476085599.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ir Cela, ha-Elefas, ir jebusiečių ⟨miestas⟩ — tai ⟨yra⟩ Jerušalaimas, — Givatas, Kirjat-Jearimas: keturiolika miestų ir jų kaimų. Tai ⟨yra⟩ Benjamino sūnų palikimas jų šeimoms.",
   "tokens": [
     {
       "surface": "וצלע",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "האלף",
-      "gloss": "haElefas"
+      "gloss": "ha-Elefas"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "ir haJevusis"
+      "gloss": "ir jebusiečių"
     },
     {
       "surface": "היא",
-      "gloss": "⟨tai⟩"
+      "gloss": "tai ⟨yra⟩"
     },
     {
       "surface": "ירושלם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "קרית",
-      "gloss": "Kirjatą"
+      "gloss": "Kirjat-Jearimas"
     },
     {
       "surface": "ערים",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "keturiolika"
     },
     {
       "surface": "וחצריהן",
-      "gloss": "su jų kaimais"
+      "gloss": "ir jų kaimų"
     },
     {
       "surface": "זאת",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "נחלת",
-      "gloss": "paveldėjimas"
+      "gloss": "palikimas"
     },
     {
       "surface": "בני",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamino"
+      "gloss": "Benjamino"
     },
     {
       "surface": "למשפחתם",
       "gloss": "jų šeimoms"
     }
   ],
-  "timestamp": "2026-10-20T06:01:25.601084599Z",
+  "timestamp": "2026-10-20T12:34:38.602543992Z",
   "model": "glm-5.3"
 }

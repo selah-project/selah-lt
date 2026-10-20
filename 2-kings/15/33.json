@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "buvo",
-      "rationale": "hebrajų kalba neturi veiksmažodžio „vardas buvo“"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בן עשרים וחמש שנה",
-      "rationale": "pažodžiui „dvidešimties ir penkerių metų sūnus“ — lietuviškai amžiaus konstrukcija"
-    },
-    {
-      "kind": "measurement",
-      "subject": "amžius ir valdymo trukmė",
-      "rationale": "karaliaus amžius ir valdymo metai skaičiuojami"
-    }
-  ],
-  "translation": "Dvidešimt penkerių metų buvo jis, kai pradėjo karaliauti, ir šešiolika metų karaliavo Jerušalaime; jo motinos vardas ⟨buvo⟩ Jeruša, Cadoko dukteri.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "79ec431205073f759e708967e55ca6c57be6a13f13c3e12e5a947796a51ec759",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-kings\/15\/33-36.1792480346844.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dvidešimt penkerių metų ⟨buvo⟩ jis, kai pradėjo karaliauti, ir šešiolika metų karaliavo Jerušalaime; o jo motinos vardas — Jeruša, Cadoko duktė.",
   "tokens": [
     {
       "surface": "בן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "ir penkeri"
+      "gloss": "penkeri"
     },
     {
       "surface": "שנה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "metų"
     },
     {
       "surface": "שנה",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ושם",
-      "gloss": "ir vardas"
+      "gloss": "o vardas"
     },
     {
       "surface": "אמו",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "בת",
-      "gloss": "dukteri"
+      "gloss": "duktė"
     },
     {
       "surface": "צדוק",
       "gloss": "Cadoko"
     }
   ],
-  "timestamp": "2026-10-20T07:12:26.845818510Z",
+  "timestamp": "2026-10-20T12:12:00.583380441Z",
   "model": "glm-5.3"
 }

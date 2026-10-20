@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "aklieji ir raišieji",
-      "rationale": "Kas sako šiuos žodžius ir ką jie reiškia: jebusiečių pašaipa iš Davido („net aklieji ir raišieji tave sulaikys“) arba Davido įsakymas juos išvaryti — vertėjai skirtingai"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Sujungta į vieną lietuvišką „nebent“"
-    }
-  ],
-  "translation": "Ir nuėjo karalius ir jo vyrai į Jerušalaimą, pas jebusiečius, gyventojus krašto, ir jie tarė Davidui, sakydami: Neateisi čionai, nebent nuversi akluosius ir raišiuosius, sakydami: Davidas neateis čionai.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-samuel\/5\/5-8.1792478069179.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir karalius ir jo vyrai nuėjo į Jerušalaimą, pas jebusį, žemės gyventoją; ir šis tarė Davidui, sakydamas: Neateisi čionai, nebent tave atitrauktų aklieji ir raišieji — sakydami: Neateis Davidas čionai.",
   "tokens": [
     {
       "surface": "וילך",
@@ -37,7 +16,7 @@
       "gloss": "karalius"
     },
     {
-      "surface": "ויאנשיו",
+      "surface": "ואנשיו",
       "gloss": "ir jo vyrai"
     },
     {
@@ -50,15 +29,15 @@
     },
     {
       "surface": "היבסי",
-      "gloss": "jebusiečius"
+      "gloss": "jebusį"
     },
     {
       "surface": "יושב",
-      "gloss": "gyventojus"
+      "gloss": "gyventoją"
     },
     {
       "surface": "הארץ",
-      "gloss": "krašto"
+      "gloss": "žemės"
     },
     {
       "surface": "ויאמר",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "sakydami"
+      "gloss": "sakydamas"
     },
     {
       "surface": "לא",
@@ -90,19 +69,19 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "nebent"
     },
     {
       "surface": "הסירך",
-      "gloss": "nuversi"
+      "gloss": "atitrauktų tave"
     },
     {
       "surface": "העורים",
-      "gloss": "akluosius"
+      "gloss": "aklieji"
     },
     {
       "surface": "והפסחים",
-      "gloss": "ir raišiuosius"
+      "gloss": "ir raišieji"
     },
     {
       "surface": "לאמר",
@@ -125,6 +104,6 @@
       "gloss": "čionai"
     }
   ],
-  "timestamp": "2026-10-20T06:34:29.182006487Z",
+  "timestamp": "2026-10-20T12:15:49.635393847Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "karaliui",
-      "rationale": "Eilutė tiesiogiai kreipiasi į karalių-į žmonių sūnus palyginimą."
-    },
-    {
-      "kind": "idiom",
-      "subject": "על כן",
-      "rationale": "Hebrajiškas junginys „ant to“ reiškia „todėl“; pažodžiui 'על כן' = „dėl to“."
-    }
-  ],
-  "translation": "Esi gražesnis už žmonių sūnus, malonė išpilta ant tavo lūpų, todėl Elohim tave palaimino per amžius.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "716e95fcca91ef6b553db0d316fae08746b709c8bcda55dee91aa6e9366ef43d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/45\/3-4.1792494149529.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gražesnis esi už žmogaus vaikus, tavo lūpose išlietas gražumas, todėl Elohim tave palaimino ⟨iki⟩ amžiaus.",
   "tokens": [
     {
       "surface": "יפיפית",
@@ -34,35 +13,35 @@
     },
     {
       "surface": "מבני",
-      "gloss": "už sūnus"
+      "gloss": "už vaikus"
     },
     {
       "surface": "אדם",
-      "gloss": "žmonių"
+      "gloss": "žmogaus"
     },
     {
       "surface": "הוצק",
-      "gloss": "išpilta"
+      "gloss": "išlietas"
     },
     {
       "surface": "חן",
-      "gloss": "malonė"
+      "gloss": "gražumas"
     },
     {
       "surface": "בשפתותיך",
-      "gloss": "ant tavo lūpų"
+      "gloss": "tavo lūpose"
     },
     {
       "surface": "על",
-      "gloss": "todėl"
+      "gloss": "todėl — ant"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "todėl"
     },
     {
       "surface": "ברכך",
-      "gloss": "tave palaimino"
+      "gloss": "palaimino tave"
     },
     {
       "surface": "אלהים",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "per amžius"
+      "gloss": "amžinai"
     }
   ],
-  "timestamp": "2026-10-20T11:02:29.529516614Z",
+  "timestamp": "2026-10-20T13:25:46.367297607Z",
   "model": "glm-5.3"
 }

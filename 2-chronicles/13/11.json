@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בבקר בבקר \/ בערב בערב",
-      "rationale": "kartojimas 'rytą rytą, vakare vakare' — hebrajų ritminis dubliavimas išlaikytas pažodžiui"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמרים \/ משמרת",
-      "rationale": "ta pati šaknis 'saugome sargybą' — šaknies žaismas išlaikytas"
-    }
-  ],
-  "translation": "ir deginame Jahvei deginamąsias aukas rytą rytą ir vakare vakare, ir kvapiųjų smilkalų, ir duonos išdėstymą ant švaraus stalo, ir aukso žvakidę su jos lempomis deginti vakare vakare — nes mes saugome ⟨את⟩ Jahvės, mūsų Elohim, sargybą, o jūs jį palikote.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "7f4b460f1329040de942a09b076c82bfda58190f921506296435cf4a6c790d55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/2-chronicles\/13\/9-12.1792493564806.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ir degina prieš Jahvę deginamąsias aukas rytą rytą ir vakare vakare, ir kvapniąjį smilkymą, ir duonos išdėstymą ant švaraus stalo, ir aukso menora su jos lempomis, kad degtų vakare vakare, nes mes saugome ⟨את⟩ Jahvės, mūsų Elohim, tarnystę, o jūs palikote ⟨את⟩ ⟨jį⟩.",
   "tokens": [
     {
       "surface": "ומקטרים",
-      "gloss": "ir deginame"
+      "gloss": "ir degina"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahvei"
+      "gloss": "prieš Jahvę"
     },
     {
       "surface": "עלות",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "וקטרת",
-      "gloss": "ir smilkalai"
+      "gloss": "ir smilkymą"
     },
     {
       "surface": "סמים",
-      "gloss": "kvapiųjų"
+      "gloss": "kvapiųjų augalų"
     },
     {
       "surface": "ומערכת",
-      "gloss": "ir išdėstymas"
+      "gloss": "ir išdėstymą"
     },
     {
       "surface": "לחם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "stalo"
+      "gloss": "švaraus stalo"
     },
     {
       "surface": "הטהור",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ומנורת",
-      "gloss": "ir žvakidė"
+      "gloss": "ir aukso menora"
     },
     {
       "surface": "הזהב",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "ונרתיה",
-      "gloss": "ir jos lempos"
+      "gloss": "su jos lempomis"
     },
     {
       "surface": "לבער",
-      "gloss": "degti"
+      "gloss": "kad degtų"
     },
     {
       "surface": "בערב",
@@ -123,11 +102,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sargybą"
+      "marks": "tarnystę"
     },
     {
       "surface": "משמרת",
-      "gloss": "sargybą"
+      "gloss": "tarnystę"
     },
     {
       "surface": "יהוה",
@@ -147,10 +126,9 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ jį",
-      "marks": "jį — Jahvę"
+      "gloss": "⟨את⟩ ⟨jį⟩"
     }
   ],
-  "timestamp": "2026-10-20T10:52:44.807773303Z",
+  "timestamp": "2026-10-20T12:10:18.554651225Z",
   "model": "glm-5.3"
 }

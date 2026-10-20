@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "lt",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "atiduodamas",
-      "rationale": "hebrajiškas לבער\/למרמס sako 'nariams', 'trypimui' — lietuvių kalbai reikia veiksmažodžio"
-    },
-    {
-      "kind": "crux",
-      "subject": "לבער",
-      "rationale": "'sudeginti\/nariams' arba 'būti naikinamam' — vertėjai skirstosi tarp 'eaten up' ir 'burned'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jerusalemo ir Jisraelio gyventojams",
-      "rationale": "einiškoji vyndarbio dainos kalba kreipiasi į klausytoją"
-    }
-  ],
-  "translation": "Ir dabar pranešiu jums, ⟨את⟩ ką aš darau savo vynuogynui: pašalinsiu jo gyvatvorę — ir jis bus ⟨atiduodamas⟩ nariams; sugriausiu jo mūrą — ir jis bus ⟨atiduodamas⟩ trypimui.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/isaiah\/5\/5-8.1792480744603.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir dabar pranešiu jums, ⟨את⟩, ką aš darau savo vynuogynui: nuimsiu jo aptvarą, ir jis bus ⟨yra⟩ nuleistas laukiamas; pralaušiu jo tvorą, ir jis bus ⟨yra│ minamas.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -43,21 +17,20 @@
     },
     {
       "surface": "נא",
-      "gloss": "na"
+      "gloss": "maldauju"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ jums",
-      "marks": "jums"
+      "gloss": "jums, ⟨את⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ką"
+      "marks": "ką aš darau"
     },
     {
       "surface": "אשר",
-      "gloss": "kas"
+      "gloss": "ką"
     },
     {
       "surface": "אני",
@@ -73,7 +46,7 @@
     },
     {
       "surface": "הסר",
-      "gloss": "pašalinsiu"
+      "gloss": "nuimsiu"
     },
     {
       "surface": "משוכתו",
@@ -85,15 +58,15 @@
     },
     {
       "surface": "לבער",
-      "gloss": "nariams"
+      "gloss": "apsėstas nuodėgulingų"
     },
     {
       "surface": "פרץ",
-      "gloss": "sugriausiu"
+      "gloss": "pralaušiu"
     },
     {
       "surface": "גדרו",
-      "gloss": "jo mūrą"
+      "gloss": "jo aptvarą"
     },
     {
       "surface": "והיה",
@@ -101,9 +74,9 @@
     },
     {
       "surface": "למרמס",
-      "gloss": "trypimui"
+      "gloss": "minamas"
     }
   ],
-  "timestamp": "2026-10-20T07:19:04.606051203Z",
+  "timestamp": "2026-10-20T12:29:15.242005715Z",
   "model": "glm-5.3"
 }

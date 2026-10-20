@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dėl gerovės",
-      "rationale": "שלום — sveikinimo klausimas apie gerovę, ne vien 'taika'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "אתו čia prielinksnis 'su juo', ne tiesioginis objektas — ⟨את⟩ išlaikomas pagal taisyklę."
-    }
-  ],
-  "translation": "Ir Davidas atėjo pas du šimtus vyrų, kurie buvo taip išvargę, kad negalėjo eiti paskui Davidą, ir pasodino juos prie Bešoro upelio; jie išėjo pasitikti Davido ir pasitikti tautos, kuri buvo su juo, ir Davidas priartėjo prie ⟨את⟩ tautos ir pasiteiravo jų dėl gerovės.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/30\/21-24.1792477811054.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Davidas atėjo pas du šimtus vyrų, kurie buvo per daug nusilpę, kad eitų paskui Davidą, ir jis liepė jiems pasilikti prie Besoro upelio; ir jie išėjo pasitikti Davido ir pasitikti tautos, kuri buvo ⟨את⟩ su juo, ir Davidas prisiartino prie ⟨את⟩ tautos ir paklausė jų apie gerovę.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "פגרו",
-      "gloss": "išvargo"
+      "gloss": "nusilpo"
     },
     {
       "surface": "מלכת",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "וישיבם",
-      "gloss": "ir pasodino juos"
+      "gloss": "paliko juos"
     },
     {
       "surface": "בנחל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "הבשור",
-      "gloss": "Bešoro"
+      "gloss": "Besoro"
     },
     {
       "surface": "ויצאו",
@@ -93,7 +72,7 @@
       "gloss": "Davido"
     },
     {
-      "surface": "ו לקראת",
+      "surface": "ולקראת",
       "gloss": "ir pasitikti"
     },
     {
@@ -110,7 +89,7 @@
     },
     {
       "surface": "ויגש",
-      "gloss": "ir priartėjo"
+      "gloss": "prisiartino"
     },
     {
       "surface": "דוד",
@@ -127,7 +106,7 @@
     },
     {
       "surface": "וישאל",
-      "gloss": "ir pasiteiravo"
+      "gloss": "paklausė"
     },
     {
       "surface": "להם",
@@ -135,9 +114,9 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "dėl gerovės"
+      "gloss": "apie gerovę"
     }
   ],
-  "timestamp": "2026-10-20T06:30:11.057621465Z",
+  "timestamp": "2026-10-20T12:09:31.791620473Z",
   "model": "glm-5.3"
 }

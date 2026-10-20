@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "lt",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ההוא",
-      "rationale": "Hebrajų artikelis su demonstratyvu sulietas su lietuvišku 'tą dieną' — atskiro žodžio nereikia"
-    }
-  ],
-  "translation": "Ir jis davė tą dieną ženklą, sakydamas: štai ženklas, kurį kalbėjo Jahvė: štai aukuras bus praplėštas ir pelenai, kurie ant jo, išpilami.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "aaa6cdb4a2266f63b05db7ac04e6ba3fc77e26ac42edbb3a95d6a51fdc48ba25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-kings\/13\/1-4.1792479315282.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir jis davė tą dieną ženklą, sakydamas: Šitas ⟨yra⟩ ženklas, kurį kalbėjo Jahvė: Štai aukuras bus perplėštas, ir pelenai, kurie ant jo, bus išpilti.",
   "tokens": [
     {
       "surface": "ונתן",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "tą"
     },
     {
       "surface": "מופת",
@@ -73,11 +57,11 @@
     },
     {
       "surface": "נקרע",
-      "gloss": "bus praplėštas"
+      "gloss": "bus perplėštas"
     },
     {
       "surface": "ונשפך",
-      "gloss": "ir išpilami"
+      "gloss": "ir bus išpilti"
     },
     {
       "surface": "הדשן",
@@ -92,6 +76,6 @@
       "gloss": "ant jo"
     }
   ],
-  "timestamp": "2026-10-20T06:55:15.284911468Z",
+  "timestamp": "2026-10-20T12:05:57.283141380Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "lt",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "chasidai",
-      "rationale": "חסיד iš šaknies חסד — 'gailestingasis, ištikimasis'; paliktas hebrajiškas skambesys"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עזב \/ נשמר \/ נכרת",
-      "rationale": "Eilutės chiazmas: apleidimo, saugojimo ir nukirtimo priešprieša tarp chasidų ir bedievių sėklos"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nukirsta",
-      "rationale": "נכרת pažodžiui 'nukirsta' — sandoros žodis, čia naikinimo prasme"
-    }
-  ],
-  "translation": "Nes Jahvė myli teismą ir nepaliks ⟨את⟩ savo chasidų; per amžius jie saugomi, o bedievių sėkla nukirsta.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/psalms\/37\/25-28.1792487909138.json",
-    "code": "2e90b014c-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nes Jahvė myli teisę ir neapleis ⟨את⟩ savo chasidų — per amžius jie bus saugomi, o bedievių sėkla bus nukirsta.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Nes"
+      "gloss": "nes"
     },
     {
       "surface": "יהוה",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "משפט",
-      "gloss": "teismą"
+      "gloss": "teisę"
     },
     {
       "surface": "ולא",
-      "gloss": "ir nepaliks"
+      "gloss": "ir ne"
     },
     {
       "surface": "יעזב",
-      "gloss": ""
+      "gloss": "apleis"
     },
     {
       "surface": "את",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "נשמרו",
-      "gloss": "jie saugomi"
+      "gloss": "jie bus saugomi"
     },
     {
       "surface": "וזרע",
-      "gloss": "o ... sėkla"
+      "gloss": "o sėkla"
     },
     {
       "surface": "רשעים",
@@ -84,9 +58,9 @@
     },
     {
       "surface": "נכרת",
-      "gloss": "nukirsta"
+      "gloss": "bus nukirsta"
     }
   ],
-  "timestamp": "2026-10-20T09:18:29.139847249Z",
+  "timestamp": "2026-10-20T12:43:38.754381657Z",
   "model": "glm-5.3"
 }

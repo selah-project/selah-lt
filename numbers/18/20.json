@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "lt",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "esu",
-      "rationale": "Hebrajų kalboje nėra veiksmažodžio — „aš tavo dalis“ yra be copulos"
-    },
-    {
-      "kind": "you",
-      "subject": "Aaronui",
-      "rationale": "Tiesioginis kreipimasis į Aaroną"
-    }
-  ],
-  "translation": "Ir Jahvė tarė Aaronui: jų žemėje nepaveldėsi, ir dalies neturėsi tarp jų — aš ⟨esu⟩ tavo dalis ir tavo paveldėjimas Jisraelio sūnų tarpe.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "b34d383721a9e3becf3d33cf969c415450cf34c8ec211c491c07e0091d193407",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/numbers\/18\/17-20.1792474305331.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Jahvė tarė Aharonui: Jų žemėje ne paveldėsi, ir dalies nebus tau tarp jų; aš — tavo dalis ir tavo paveldėjimas tarp Jisraelio sūnų.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ir tarė"
+      "gloss": "Ir tarė"
     },
     {
       "surface": "יהוה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨kam⟩"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aaronui"
+      "gloss": "Aharonas"
     },
     {
       "surface": "בארצם",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "turėsi"
+      "gloss": "bus"
     },
     {
       "surface": "לך",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "tarpe"
+      "gloss": "tarp"
     },
     {
       "surface": "בני",
@@ -101,6 +80,6 @@
       "gloss": "Jisraelio"
     }
   ],
-  "timestamp": "2026-10-20T05:31:45.341065448Z",
+  "timestamp": "2026-10-20T12:40:42.253167366Z",
   "model": "glm-5.3"
 }

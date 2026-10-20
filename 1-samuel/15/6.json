@@ -5,38 +5,7 @@
   "book": "1-samuel",
   "lang": "lt",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל \/ עם",
-      "rationale": "Prielinksniai išnyko suliejus su lietuviška linksniuojamą forma."
-    },
-    {
-      "kind": "substitution",
-      "subject": "chesed",
-      "rationale": "חסed verčiamas chesedu, ne 'gailestingumu' — vienas žodis, ištikimoji meilė."
-    },
-    {
-      "kind": "you",
-      "subject": "keniečiai",
-      "rationale": "Tiesioginis Šaulio kreipimasis su imperatyvais 'eikite, pasitraukite, nusileiskite'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "imperatyvai",
-      "rationale": "Trys iš eilės einantys įsakymai kviečia keniečius pasitraukti."
-    }
-  ],
-  "translation": "Ir Šaulis tarė keniečiui: Eikite, pasitraukite, nusileiskite iš Amaleko vidurio, kad man nereikėtų jūsų išnaikinti kartu su juo — o jūs parodytumėte chesedą visiems Jisraelio sūnums, jiems kylant iš Micraimo. Ir kenietis pasitraukė iš Amaleko vidurio.",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/1-samuel\/15\/5-8.1792477281479.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ir Šaulis tarė keniečiams: Eikite, pasitraukite, nusileiskite iš vidurio amalekiečių, kad nepražudyčiau jūsų kartu su jais, nes jūs parodėte chesedą visiems Jisraelio sūnums, jiems kylant iš Micraimo. Ir kenietis pasitraukė iš amalekiečių vidurio.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "keniečiams"
     },
     {
       "surface": "הקיני",
-      "gloss": "keniečiui"
+      "gloss": "⟨keniečiams⟩"
     },
     {
       "surface": "לכו",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "עמלקי",
-      "gloss": "Amaleko"
+      "gloss": "amalekiečių"
     },
     {
       "surface": "פן",
@@ -80,19 +49,19 @@
     },
     {
       "surface": "אספך",
-      "gloss": "išnaikinčiau tave"
+      "gloss": "nepražudyčiau jūsų"
     },
     {
       "surface": "עמו",
-      "gloss": "kartu su juo"
+      "gloss": "kartu su jais"
     },
     {
       "surface": "ואתה",
-      "gloss": "o jūs"
+      "gloss": "nes jūs"
     },
     {
       "surface": "עשיתה",
-      "gloss": "parodytumėte"
+      "gloss": "parodėte"
     },
     {
       "surface": "חסד",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "עם",
-      "gloss": ""
+      "gloss": "su"
     },
     {
       "surface": "כל",
@@ -136,9 +105,9 @@
     },
     {
       "surface": "עמלק",
-      "gloss": "Amaleko"
+      "gloss": "amalekiečių"
     }
   ],
-  "timestamp": "2026-10-20T06:21:21.482430414Z",
+  "timestamp": "2026-10-20T12:07:48.416562436Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "lt",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ילדתני",
-      "rationale": "Forma „pagimdei mane“ — moteriškas veiksmažodis, retas kreipinyje į akmenį."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "Jungtukas כי čia neverčiamas — lietuvių sakinys jo nereikalauja."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvė",
-      "rationale": "„Atsuko į mane nugarą“ — Jahvės kreipimasis į Jisraelio namus."
-    }
-  ],
-  "translation": "Sakantys medžiui: „Tu mano tėvas“, ir akmeniui: „Tu mane pagimdei“; jie atsuko į mane nugarą, o ne veidą, o jų bėdos metu sakys: „Kelkis ir išgelbėk mus!“",
-  "provenance": {
-    "system-sha256": "1185c84ed0440728c43ac2e6d688a82b94ad65ca8f9e5b934e1680c484f23607",
-    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/lt\/jeremiah\/2\/25-28.1792482073731.json",
-    "code": "99bc6e822-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jie sako medžiui: Tu mano tėvas, ir akmeniui: tu ⟨את⟩ mane gimdei. Nes jie atsuko į mane nugarą, o ne veidą, tačiau savo nelaimės metu sakys: Kelkis ir išgelbėk mus!",
   "tokens": [
     {
       "surface": "אמרים",
-      "gloss": "sakantys"
+      "gloss": "jie sako"
     },
     {
       "surface": "לעץ",
@@ -56,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mane"
+      "marks": "mane gimdei"
     },
     {
       "surface": "ילדתני",
-      "gloss": "pagimdei"
+      "gloss": "mane gimdei"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "nes"
     },
     {
       "surface": "פנו",
@@ -88,11 +62,11 @@
     },
     {
       "surface": "ובעת",
-      "gloss": "o … metu"
+      "gloss": "tačiau … metu"
     },
     {
       "surface": "רעתם",
-      "gloss": "jų bėdos"
+      "gloss": "savo nelaimės"
     },
     {
       "surface": "יאמרו",
@@ -100,13 +74,13 @@
     },
     {
       "surface": "קומה",
-      "gloss": "kelkis"
+      "gloss": "Kelkis"
     },
     {
       "surface": "והושיענו",
       "gloss": "ir išgelbėk mus"
     }
   ],
-  "timestamp": "2026-10-20T07:41:13.759233108Z",
+  "timestamp": "2026-10-20T12:29:48.646590468Z",
   "model": "glm-5.3"
 }
